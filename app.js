@@ -58,9 +58,13 @@ function renderGrid() {
     const period = letter.period;
     const dateLabel = `${period.start.slice(5)} 〜 ${period.end.slice(5)}`;
 
+    const rareClass = letter.rare ? ' rare' : '';
+    const rareLabel = letter.rare ? `<span class="letter-card-rare">No.${String(letter.rare_no || '?').padStart(3,'0')} / RARE</span>` : '';
+
     return `
-      <div class="letter-card ${isOpened ? '' : 'unopened'}" onclick="openLetter(${i})">
+      <div class="letter-card ${isOpened ? '' : 'unopened'}${rareClass}" onclick="openLetter(${i})">
         ${!isOpened ? '<span class="letter-card-badge">未開封</span>' : ''}
+        ${rareLabel}
         <div class="letter-card-date">${dateLabel}</div>
         <div class="letter-card-sender">
           <img class="letter-card-avatar" src="${sender.img}" alt="${sender.name}">
@@ -140,6 +144,29 @@ async function openLetter(index) {
 
     let lineIndex = 0;
 
+    const rareSparkles = ['✦', '✧', '⋆'];
+    const rareColors = ['#e8b4c8', '#c4b0e0', '#b0d0e8'];
+    function emitRareParticles(el) {
+      if (!letter.rare) return;
+      const rect = el.getBoundingClientRect();
+      const paperRect = paper.getBoundingClientRect();
+      for (let i = 0; i < 8; i++) {
+        const p = document.createElement('span');
+        p.className = 'rare-particle';
+        p.textContent = rareSparkles[Math.floor(Math.random() * rareSparkles.length)];
+        p.style.left = (rect.left - paperRect.left + Math.random() * rect.width) + 'px';
+        p.style.top = (rect.top - paperRect.top + rect.height * 0.5) + 'px';
+        p.style.color = rareColors[Math.floor(Math.random() * rareColors.length)];
+        const drift = (Math.random() - 0.5) * 30;
+        p.style.setProperty('--dx1', (drift * 0.3) + 'px');
+        p.style.setProperty('--dx2', (drift * 0.7) + 'px');
+        p.style.setProperty('--dx3', drift + 'px');
+        p.style.animationDelay = (Math.random() * 0.3) + 's';
+        paper.appendChild(p);
+        p.addEventListener('animationend', () => p.remove());
+      }
+    }
+
     function revealAll() {
       animDone = true;
       lines.forEach(l => l.classList.add('visible'));
@@ -158,6 +185,9 @@ async function openLetter(index) {
       if (animDone) { clearInterval(interval); return; }
       if (lineIndex < lines.length) {
         lines[lineIndex].classList.add('visible');
+        if (lines[lineIndex].classList.contains('letter-line')) {
+          emitRareParticles(lines[lineIndex]);
+        }
         lineIndex++;
       } else {
         clearInterval(interval);
@@ -166,7 +196,7 @@ async function openLetter(index) {
         if (avatar) avatar.style.opacity = '';
         animDone = true;
       }
-    }, 450);
+    }, letter.rare ? 800 : 450);
   }
 
   // Re-render grid for opened state
@@ -239,11 +269,14 @@ function generateLetterBody(letter, sender, tmpl) {
     return str.replace(/\$\{(\w+)\}/g, (_, key) => vars[key] || '');
   }
 
-  // Pick a pattern matching the condition, fallback to "default"
-  const condition = letter.condition || 'default';
+  // Pick a pattern matching the condition (rare suffix if applicable)
+  const baseCondition = letter.condition || 'default';
+  const condition = letter.rare ? baseCondition + '_rare' : baseCondition;
   const condPatterns = tmpl.patterns.filter(p => p.condition === condition);
-  const matching = condPatterns.length > 0 ? condPatterns : tmpl.patterns.filter(p => p.condition === 'default');
-  const pattern = pick(matching, seed, 0);
+  const matching = condPatterns.length > 0 ? condPatterns : tmpl.patterns.filter(p => p.condition === baseCondition);
+  // Final fallback to default
+  const finalMatching = matching.length > 0 ? matching : tmpl.patterns.filter(p => p.condition === 'default');
+  const pattern = pick(finalMatching, seed, 0);
   const lines = pattern.body;
 
   return lines.map(line =>

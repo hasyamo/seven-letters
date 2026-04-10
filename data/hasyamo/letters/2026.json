@@ -6,6 +6,8 @@
       "period": { "start": "2026-03-31", "end": "2026-04-06" },
       "sender": "tsukiko",
       "condition": "consecutive",
+      "rare": true,
+      "rare_no": 1,
       "stats": {
         "likes_total": 192,
         "likes_prev": 185,
@@ -34,6 +36,7 @@
       "period": { "start": "2026-03-24", "end": "2026-03-30" },
       "sender": "rinka",
       "condition": "consistent_time",
+      "rare": false,
       "stats": {
         "likes_total": 185,
         "likes_prev": 178,
