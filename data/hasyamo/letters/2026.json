@@ -2,6 +2,21 @@
   "year": 2026,
   "letters": [
     {
+      "week": "2026-W15",
+      "period": { "start": "2026-04-07", "end": "2026-04-13" },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 210, "likes_prev": 192,
+        "followers_start": 347, "followers_end": 360,
+        "new_fans": 10, "comments_total": 48, "posts_count": 7,
+        "consecutive_days": 7, "post_times": ["07:40","07:38","07:42","07:39","07:41","07:37","07:40"],
+        "top_article": { "title": "メンバーシップを始めた話", "key": "ntest01", "likes": 42, "comments": 18 },
+        "notable_reader": { "name": "テスト五郎", "urlname": "test5", "follower_count": 2000 }
+      }
+    },
+    {
       "week": "2026-W14",
       "period": { "start": "2026-03-31", "end": "2026-04-06" },
       "sender": "tsukiko",
@@ -9,26 +24,12 @@
       "rare": true,
       "rare_no": 1,
       "stats": {
-        "likes_total": 192,
-        "likes_prev": 185,
-        "followers_start": 341,
-        "followers_end": 346,
-        "new_fans": 8,
-        "comments_total": 42,
-        "posts_count": 7,
-        "consecutive_days": 7,
-        "post_times": ["07:39", "07:47", "07:39", "07:40", "07:42", "07:36", "07:41"],
-        "top_article": {
-          "title": "なんでこの7人で、1週間ラクになるんだろう",
-          "key": "n68b37a520958",
-          "likes": 39,
-          "comments": 16
-        },
-        "notable_reader": {
-          "name": "テスト太郎",
-          "urlname": "test_taro",
-          "follower_count": 850
-        }
+        "likes_total": 192, "likes_prev": 185,
+        "followers_start": 341, "followers_end": 346,
+        "new_fans": 8, "comments_total": 42, "posts_count": 7,
+        "consecutive_days": 7, "post_times": ["07:39","07:47","07:39","07:40","07:42","07:36","07:41"],
+        "top_article": { "title": "なんでこの7人で、1週間ラクになるんだろう", "key": "n68b37a520958", "likes": 39, "comments": 16 },
+        "notable_reader": { "name": "テスト太郎", "urlname": "test_taro", "follower_count": 850 }
       }
     },
     {
@@ -38,26 +39,72 @@
       "condition": "consistent_time",
       "rare": false,
       "stats": {
-        "likes_total": 185,
-        "likes_prev": 178,
-        "followers_start": 338,
-        "followers_end": 341,
-        "new_fans": 5,
-        "comments_total": 38,
-        "posts_count": 7,
-        "consecutive_days": 7,
-        "post_times": ["14:12", "14:08", "07:39", "07:36", "07:59", "07:55", "07:38"],
-        "top_article": {
-          "title": "737個をコネコネして、自分の「橋タグ」を見つけた話",
-          "key": "nxxxxxxxx",
-          "likes": 35,
-          "comments": 12
-        },
-        "notable_reader": {
-          "name": "テスト花子",
-          "urlname": "test_hanako",
-          "follower_count": 1200
-        }
+        "likes_total": 185, "likes_prev": 178,
+        "followers_start": 338, "followers_end": 341,
+        "new_fans": 5, "comments_total": 38, "posts_count": 7,
+        "consecutive_days": 7, "post_times": ["07:39","07:36","07:39","07:36","07:40","07:38","07:38"],
+        "top_article": { "title": "737個をコネコネして、自分の「橋タグ」を見つけた話", "key": "nxxxxxxxx", "likes": 35, "comments": 12 },
+        "notable_reader": { "name": "テスト花子", "urlname": "test_hanako", "follower_count": 1200 }
+      }
+    },
+    {
+      "week": "2026-W12",
+      "period": { "start": "2026-03-17", "end": "2026-03-23" },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 220, "likes_prev": 170,
+        "followers_start": 330, "followers_end": 338,
+        "new_fans": 15, "comments_total": 35, "posts_count": 6,
+        "consecutive_days": 6, "post_times": ["07:40","07:38","07:42","07:39","07:41","07:37"],
+        "top_article": { "title": "AIキャラと暮らすということ", "key": "ntest02", "likes": 55, "comments": 20 },
+        "notable_reader": { "name": "テスト次郎", "urlname": "test2", "follower_count": 1500 }
+      }
+    },
+    {
+      "week": "2026-W11",
+      "period": { "start": "2026-03-10", "end": "2026-03-16" },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 170, "likes_prev": 165,
+        "followers_start": 325, "followers_end": 330,
+        "new_fans": 12, "comments_total": 30, "posts_count": 7,
+        "consecutive_days": 7, "post_times": ["07:38","07:40","07:39","07:41","07:37","07:42","07:40"],
+        "top_article": { "title": "おはようカノジョの作り方", "key": "ntest03", "likes": 38, "comments": 14 },
+        "notable_reader": { "name": "テスト三郎", "urlname": "test3", "follower_count": 900 }
+      }
+    },
+    {
+      "week": "2026-W10",
+      "period": { "start": "2026-03-03", "end": "2026-03-09" },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 165, "likes_prev": 160,
+        "followers_start": 320, "followers_end": 325,
+        "new_fans": 6, "comments_total": 28, "posts_count": 5,
+        "consecutive_days": 5, "post_times": ["07:40","07:38","07:42","07:39","07:41"],
+        "top_article": { "title": "毎朝7時に書く理由", "key": "ntest04", "likes": 32, "comments": 10 },
+        "notable_reader": { "name": "テスト四郎", "urlname": "test4", "follower_count": 700 }
+      }
+    },
+    {
+      "week": "2026-W09",
+      "period": { "start": "2026-02-24", "end": "2026-03-02" },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 140, "likes_prev": 145,
+        "followers_start": 318, "followers_end": 320,
+        "new_fans": 3, "comments_total": 15, "posts_count": 3,
+        "consecutive_days": 3, "post_times": ["07:40","07:38","07:42"],
+        "top_article": { "title": "静かな週末のこと", "key": "ntest05", "likes": 25, "comments": 8 },
+        "notable_reader": { "name": "テスト六子", "urlname": "test6", "follower_count": 500 }
       }
     }
   ]

@@ -115,6 +115,7 @@ body {
   height: 36px;
   border-radius: 50%;
   object-fit: cover;
+  box-shadow: 0 0 0 1px rgba(160, 152, 144, 0.3);
 }
 .letter-card-name {
   font-family: var(--font-serif);
