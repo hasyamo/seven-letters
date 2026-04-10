@@ -1,0 +1,61 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W14",
+      "period": { "start": "2026-03-31", "end": "2026-04-06" },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "stats": {
+        "likes_total": 192,
+        "likes_prev": 185,
+        "followers_start": 341,
+        "followers_end": 346,
+        "new_fans": 8,
+        "comments_total": 42,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": ["07:39", "07:47", "07:39", "07:40", "07:42", "07:36", "07:41"],
+        "top_article": {
+          "title": "なんでこの7人で、1週間ラクになるんだろう",
+          "key": "n68b37a520958",
+          "likes": 39,
+          "comments": 16
+        },
+        "notable_reader": {
+          "name": "テスト太郎",
+          "urlname": "test_taro",
+          "follower_count": 850
+        }
+      }
+    },
+    {
+      "week": "2026-W13",
+      "period": { "start": "2026-03-24", "end": "2026-03-30" },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "stats": {
+        "likes_total": 185,
+        "likes_prev": 178,
+        "followers_start": 338,
+        "followers_end": 341,
+        "new_fans": 5,
+        "comments_total": 38,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": ["14:12", "14:08", "07:39", "07:36", "07:59", "07:55", "07:38"],
+        "top_article": {
+          "title": "737個をコネコネして、自分の「橋タグ」を見つけた話",
+          "key": "nxxxxxxxx",
+          "likes": 35,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "テスト花子",
+          "urlname": "test_hanako",
+          "follower_count": 1200
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#f5f0e8">
+<title>7人からの手紙。</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css?v=0.1.0">
+</head>
+<body>
+
+<div class="app">
+  <header class="header">
+    <h1 class="header-title">7人からの手紙。</h1>
+    <p class="header-sub">あなたの1週間を、届けます。</p>
+  </header>
+
+  <div id="gridView" class="grid-view">
+    <div id="letterGrid" class="letter-grid">
+      <div class="loading">読み込み中...</div>
+    </div>
+  </div>
+
+  <div id="letterView" class="letter-view" style="display:none">
+    <div class="letter-paper">
+      <div class="letter-bg" id="letterBg"></div>
+      <div class="letter-content" id="letterContent"></div>
+    </div>
+    <div class="letter-nav">
+      <button id="prevLetter" class="letter-nav-btn">&larr; 前の手紙</button>
+      <button id="backToGrid" class="letter-nav-btn letter-nav-back">一覧に戻る</button>
+      <button id="nextLetter" class="letter-nav-btn">次の手紙 &rarr;</button>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-copy">&copy; おはようカノジョ / hasyamo</div>
+    <div class="footer-version">v0.1.0</div>
+  </footer>
+</div>
+
+<script src="app.js?v=0.1.0"></script>
+</body>
+</html>
