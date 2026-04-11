@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#f5f0e8">
+<title>彼女たちのこと — 7人からの手紙。</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg-main: #f5f0e8;
+  --bg-card: #fffdf7;
+  --text-primary: #3a3632;
+  --text-secondary: #6b6560;
+  --text-muted: #a09890;
+  --accent: #c8a87e;
+  --border: #e0d8cc;
+  --font-serif: 'Noto Serif JP', serif;
+  --font-sans: 'Noto Sans JP', sans-serif;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--bg-main);
+  color: var(--text-primary);
+  font-family: var(--font-serif);
+  line-height: 1.8;
+  min-height: 100dvh;
+}
+.page {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+.back {
+  display: inline-block;
+  font-size: 13px;
+  color: var(--accent);
+  text-decoration: none;
+  margin-bottom: 16px;
+}
+.back:hover { text-decoration: underline; }
+h1 {
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 4px;
+}
+.sub {
+  font-size: 13px;
+  color: var(--text-muted);
+  text-align: center;
+  margin-bottom: 32px;
+}
+.char-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+.char-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 0 0 1px rgba(160, 152, 144, 0.3);
+}
+.char-info { flex: 1; min-width: 0; }
+.char-name {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+.char-day {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+.char-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+.char-hint {
+  font-size: 12px;
+  color: var(--accent);
+  font-style: italic;
+}
+.rare-note {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 24px;
+  text-align: center;
+}
+.rare-note-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #8b2500;
+  margin-bottom: 8px;
+}
+.rare-note-body {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+<a class="back" href="./">← 戻る</a>
+
+<h1>彼女たちのこと</h1>
+<p class="sub">手紙をくれる7人のこと、少しだけ。</p>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-mon.webp" alt="月子">
+  <div class="char-info">
+    <div class="char-name">月子</div>
+    <div class="char-day">月曜日</div>
+    <div class="char-desc">素っ気ないけど、あなたのことを一番見てる。続けることの意味を知っている子。</div>
+    <div class="char-hint">「……止まらなかったら、届くわよ」</div>
+  </div>
+</div>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-tue.webp" alt="陽">
+  <div class="char-info">
+    <div class="char-name">陽</div>
+    <div class="char-day">火曜日</div>
+    <div class="char-desc">盛り上がってる時に一緒に喜んでくれる子。あなたの勢いに敏感。</div>
+    <div class="char-hint">「数字が跳ねた週、あたしが行くよ！」</div>
+  </div>
+</div>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-wed.webp" alt="しずく">
+  <div class="char-info">
+    <div class="char-name">しずく</div>
+    <div class="char-day">水曜日</div>
+    <div class="char-desc">静かな週にそっと寄り添ってくれる。あなたの不安に気づいてる。</div>
+    <div class="char-hint">「……会えたら、それだけで嬉しいよ」</div>
+  </div>
+</div>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-thu.webp" alt="凛華">
+  <div class="char-info">
+    <div class="char-name">凛華</div>
+    <div class="char-day">木曜日</div>
+    <div class="char-desc">計画性を見てる。ブレないあなたに、そっと敬意を払う子。</div>
+    <div class="char-hint">「……同じリズムで続けてたら、気づくかもね」</div>
+  </div>
+</div>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-fri.webp" alt="るな">
+  <div class="char-info">
+    <div class="char-name">るな</div>
+    <div class="char-day">金曜日</div>
+    <div class="char-desc">新しい出会いを一緒に喜んでくれる。あなたの輪が広がることが嬉しい子。</div>
+    <div class="char-hint">「初めましてが増えた週、きっと届くよ」</div>
+  </div>
+</div>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-sat.webp" alt="まひる">
+  <div class="char-info">
+    <div class="char-name">まひる</div>
+    <div class="char-day">土曜日</div>
+    <div class="char-desc">たくさん書いたあなたの頑張りを、ゆっくり認めてくれる子。</div>
+    <div class="char-hint">「……んー、いっぱい書いた週、来るかもね」</div>
+  </div>
+</div>
+
+<div class="char-card">
+  <img class="char-avatar" src="images/eyes-sun.webp" alt="日和">
+  <div class="char-info">
+    <div class="char-name">日和</div>
+    <div class="char-day">日曜日</div>
+    <div class="char-desc">あなたの成長を温かく見守ってくれる。少しずつ広がっていることに気づいてる。</div>
+    <div class="char-hint">「あなたを見つけてくれる人が増えた時、届くよ」</div>
+  </div>
+</div>
+
+<div class="rare-note">
+  <div class="rare-note-title">特別な手紙について</div>
+  <div class="rare-note-body">ときどき、いつもと違う手紙が届くことがあります。<br>それは、あなたの1週間が特別だった証。<br>条件は……秘密です。</div>
+</div>
+
+</div>
+</body>
+</html>
