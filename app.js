@@ -15,6 +15,7 @@ const OPENED_KEY = 'seven-letters-opened';
 let letters = [];
 let currentIndex = -1;
 const templateCache = {};
+const expandedGroups = new Set();
 
 // === Init ===
 document.addEventListener('DOMContentLoaded', () => {
@@ -52,12 +53,19 @@ function renderGrid() {
   }
 
   const opened = getOpened();
-  grid.innerHTML = letters.map((letter, i) => {
+
+  function renderCard(letter, i) {
     const sender = SENDER_MAP[letter.sender] || SENDER_MAP.shizuku;
     const isOpened = opened.includes(letter.week);
     const period = letter.period;
-    const dateLabel = `${period.start.slice(5)} 〜 ${period.end.slice(5)}`;
-
+    const sy = period.start.slice(0, 4);
+    const sm = period.start.slice(5, 7).replace(/^0/, '');
+    const sd = period.start.slice(8, 10).replace(/^0/, '');
+    const ed = period.end.slice(8, 10).replace(/^0/, '');
+    const em = period.end.slice(5, 7).replace(/^0/, '');
+    const dateLabel = sm === em
+      ? `${sy}年${sm}月${sd}日 〜 ${ed}日`
+      : `${sy}年${sm}月${sd}日 〜 ${em}月${ed}日`;
     const rareClass = letter.rare ? ' rare' : '';
     const rareLabel = letter.rare ? `<span class="letter-card-rare">No.${String(letter.rare_no || '?').padStart(3,'0')} / RARE</span>` : '';
 
@@ -72,7 +80,58 @@ function renderGrid() {
         </div>
       </div>
     `;
-  }).join('');
+  }
+
+  // 最新の手紙の年月を基準にグルーピング
+  const latestStart = letters[0].period.start;
+  const latestYear = parseInt(latestStart.slice(0, 4));
+  const latestMonth = parseInt(latestStart.slice(5, 7));
+
+  let currentCards = [];
+  const groups = []; // { label, cards, collapsed }
+
+  letters.forEach((letter, i) => {
+    const y = parseInt(letter.period.start.slice(0, 4));
+    const m = parseInt(letter.period.start.slice(5, 7));
+
+    if (y === latestYear && m === latestMonth) {
+      // 今月 → そのまま表示
+      currentCards.push(renderCard(letter, i));
+    } else {
+      // 過去 → グルーピング
+      const label = `${y}年${m}月`;
+      const lastGroup = groups[groups.length - 1];
+      if (lastGroup && lastGroup.label === label) {
+        lastGroup.cards.push(renderCard(letter, i));
+      } else {
+        groups.push({ label, cards: [renderCard(letter, i)] });
+      }
+    }
+  });
+
+  let html = '';
+
+  // 今月のカード
+  if (currentCards.length > 0) {
+    html += `<div class="letter-grid-section">${currentCards.join('')}</div>`;
+  }
+
+  // 過去のグループ
+  groups.forEach((group, gi) => {
+    const id = `group-${gi}`;
+    const isExpanded = expandedGroups.has(group.label);
+    html += `
+      <div class="letter-group">
+        <div class="letter-group-header" onclick="toggleGroup('${group.label}', '${id}')">
+          <span class="letter-group-label">${group.label}</span>
+          <span class="letter-group-count">${group.cards.length}通</span>
+        </div>
+        <div class="letter-grid-section${isExpanded ? '' : ' collapsed'}" id="${id}">${group.cards.join('')}</div>
+      </div>
+    `;
+  });
+
+  grid.innerHTML = html;
 }
 
 // === Letter View ===
@@ -204,6 +263,16 @@ async function openLetter(index) {
 
   // Re-render grid for opened state
   renderGrid();
+}
+
+function toggleGroup(label, id) {
+  const el = document.getElementById(id);
+  el.classList.toggle('collapsed');
+  if (expandedGroups.has(label)) {
+    expandedGroups.delete(label);
+  } else {
+    expandedGroups.add(label);
+  }
 }
 
 function showGrid() {

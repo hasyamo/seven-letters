@@ -54,14 +54,53 @@ body {
   gap: 16px;
 }
 
+/* Grid Section */
+.letter-grid-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+.letter-grid-section.collapsed {
+  display: none;
+}
 @media (min-width: 540px) {
-  .letter-grid { grid-template-columns: repeat(2, 1fr); }
+  .letter-grid-section { grid-template-columns: repeat(2, 1fr); }
 }
 @media (min-width: 768px) {
-  .letter-grid { grid-template-columns: repeat(3, 1fr); }
+  .letter-grid-section { grid-template-columns: repeat(3, 1fr); }
 }
 @media (min-width: 1024px) {
-  .letter-grid { grid-template-columns: repeat(4, 1fr); }
+  .letter-grid-section { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* Letter Group */
+.letter-group {
+  margin-top: 16px;
+}
+.letter-group-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 12px;
+  transition: opacity 0.15s;
+}
+.letter-group-header:hover {
+  opacity: 0.8;
+}
+.letter-group-label {
+  font-family: var(--font-serif);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+.letter-group-count {
+  font-size: 12px;
+  color: var(--text-muted);
 }
 
 /* Letter Card */
@@ -74,6 +113,7 @@ body {
   transition: transform 0.15s, box-shadow 0.15s;
   position: relative;
   overflow: hidden;
+  max-width: 280px;
 }
 .letter-card:hover {
   transform: translateY(-2px);
@@ -441,6 +481,9 @@ body {
 }
 
 @media (max-width: 539px) {
+  .letter-card {
+    max-width: none;
+  }
   .letter-content .letter-body .letter-line,
   .letter-content .letter-body .letter-line-empty {
     border-bottom: none;
