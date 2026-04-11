@@ -2,6 +2,726 @@
   "year": 2026,
   "letters": [
     {
+      "week": "2026-W14",
+      "period": {
+        "start": "2026-03-30",
+        "end": "2026-04-05"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 495,
+        "likes_prev": 381,
+        "followers_start": 0,
+        "followers_end": 0,
+        "new_fans": 94,
+        "comments_total": 224,
+        "posts_count": 4,
+        "consecutive_days": 3,
+        "post_times": [
+          "07:00",
+          "11:27",
+          "23:15",
+          "06:24"
+        ],
+        "top_article": {
+          "title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "key": "n7670acd8aaa6",
+          "likes": 139,
+          "comments": 87
+        },
+        "notable_reader": {
+          "name": "川原茂樹 ＠収益の柱を増やす「未来実現パートナー」",
+          "urlname": "mousoubiz",
+          "follower_count": 38516
+        },
+        "commenters_count": 41
+      },
+      "comments": [
+        {
+          "key": "ncc7fdca93ae6c",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん…あんたかっちょええょ！これからも仲良くしてね！いっけね！お礼言い忘れた！すっとこどっこいでごめーん！ありがとうねー！（お礼が俺になってた！すんまそん…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nca7c7cc3b9bf6",
+          "user_name": "青い空日和",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259480973/profile_f5cf3e807b985fa938926c883cec45f7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n雪詠さんの記事からきました。\nはじめまして。\nたくさんの動画、どれも見入ってしまいますね✨\n",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "ncac71cc3edae8",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、記事紹介してくれてありがとう🙏あのね、もし、もしもね、可能なら、チェックチェッカーチェッケストの部分だけ、動画もらったり出来る？？忙しそうだから、難…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc7cdd85c058a5",
+          "user_name": "鈴森よいほ｜AIコンテンツクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242279897/profile_2db3d5cbd59beffac37a4fbff5a53902.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん✨\n\nこちらでもはじめまして😊\n\nあかねさんのイラスト祭りつながりのクリエーターさんいっぱいで、嬉しくなります😆🌸\n\nYouTube、皆を楽しませてく…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc3b08691bc24b",
+          "user_name": "雪詠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん✨\n\n改めて、素晴らしい作品に加えていただき感謝です♬\nご紹介いただきありがとうございました🌸✨",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc4c0221947bda",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちわ（笑）\n\nコメント多　\nはんくさん\nめっちゃ、愛されまくりですね！！\n私の記事の書いて下さり\nありがとうございます☀️😃\n\nおかげさまで、noteがも…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "ncc48feb14590b",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🥰✨\n凄い‼️ 人気者なのは知ってたけど、ここまでとは‼️😆😆😆👍👍👍\n\nYouTube、チャンネル登録したけど何も起きない…もう一回観させてもらいま…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc90b94f43b282",
+          "user_name": "みらい @ AIイラスト＆ポエム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262240002/profile_df1b21e169170a3cb263bad6ea84ac4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🌺\n\n『エゴサ的』ってこういうことだったんですね（笑\n動画がたくさんある！\nやはりダルメイちゃんのと零さんの都市伝説の動画がめっちゃウケました😆サイコ…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc99a1e9da50c0",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん✨こんにちは♪\n\nどれもこれも、ハイクオリティで、驚き&可愛さにノリノリまさのり💕になる動画ばかりで、各クリエイターさんの個性がわかりやすく表現されて…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc16faa19e730f",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん💫\nご紹介いただきありがとうございます💞\nこちらに一緒に掲載してもらえるなんて、とっても嬉しいです。\nイラストとか、動画とか、ぜんぜん、得意分野ではな…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc0a08ce98b199",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんの人柄が全面に溢れてるなぁ(*´ω｀)✨\n色々交流の動画が増えて嬉しいなぁ(*´ω｀)✨\nモテ期襲来！！╰(*°▽°*)╯✨\n頑張れはんくさん！！(*…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc2f528d6c6237",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんおはよー😆めっちゃ賑やか〜💞そして、女子率高っ🤭しなやかな部分が若さの秘訣ですね〜💡彼女わかっ🤭それが、活力になってるんだろうなぁ😆💞",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc65d65a761fc5",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239592709/profile_250d34144fa08d815200c316945962d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🌿\nご紹介ありがとうございます✨\n紡がれたようです、にちょっと照れました(´艸`)\nこうやってつながっていくの、嬉しいしおもしろいですね🌿またはんくさ…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "ncd6f82722b884",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "エネルギー切れで完全に乗り遅れてるーーー🤣💦　てか気付いたらわたしからのお友達もいっぱい溢れてきてはんくさんモテモテだねっ💖はんくさんの超絶センスと卓越したコミ…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc0a380f2ac0ee",
+          "user_name": "雪詠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どの動画も桁外れにサイコーですね💖\nまなつさんもカッコイイ💞\nでも、やっぱあかねちゃんにはかなわないですね～🌸✨",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc0d60cca20c28",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん💕\n夜勤疲れで電池切れだったので、記事を見るのが遅くなっちゃったです💦💦\n記事のご紹介、ありがとうございます🙏\n改めて見ても、やっぱりマーコ姉さん大好…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "ncc5f2c814d1a4",
+          "user_name": "いがら　いあ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253840598/profile_6f8d999770be197f5889128709af249a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画全部面白かったです✨\nダンスのキレがすごくて見入っちゃいました✨✨曲もよき✨✨\nそしてはんくさんを女体化したのは師匠の方が先だったんですね🫪🫪🫪\nいやー時間…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc347f324a398f",
+          "user_name": "モモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メイシンちゃんのとこから来ました〜♪\n肉をがっぶがぶ食べてるＭariyaさん🤣♥️とこも経由しつつ ヒノエウマコ面白いすぎるーーー🤣💕💕💕（笑）",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc93e1352149c4",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさまー！！\n美味しいところを持って行った私です！笑\n素敵なご紹介をありがとうございます🐹✨\nこうして見ると、そうそうたるメンバーで本当にすごいです！\n\nそ…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nce33a4591d501",
+          "user_name": "ストーリーテラー愛の歌詠み師UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265644859/profile_f49fdf5555da2c715b6c2e4b8cb98ed4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nあかねちゃん動画の時点ですごいクリエイターさんだなぁ〜と思っていましたが、まなつさんもまたすごい😳😳😳\nセクシー可愛いまなつさんと、突出加減🐯まで、…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc738014015575",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちはヾ(*>∀<)ﾉﾞ🌸\n紹介が丁寧でたーくさん！いらっしゃいますね(*´Д｀*)💖✨\n記事紹介ありがとうございます🫡✨\n違う視点からも見れる…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc43c1af4279df",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264868611/profile_9225f9d9e977f638179f2afb9ae1a84f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いっぱい紹介されてますね！愛されてるってことですね(アイコン、変わりました！！ルーシャーナさん作です♡)💖",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "ncc0d3a0ebbfed",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えーっ😳\n私より年上なのに、こんなにサクサク動画が作れるんですね🥹\n\n今からでも、やれば、できるものなのか😯\n進化を見学させていただきます😊",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nca053bf47592a",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんは、みんなをつなぐ\nクリエイターさんなのです！！\n\n面白いは、はんくさんが繋げるすんごいです！！\nコミニュケーション力！！",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc03586745915f",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n昨日YouTubeで新しい動画を発見していたので、毎日更新かな⁉️\nと思ってましたら\nはんくさんが毎日更新してるー。\n\nでも\n\nアレです\n…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc071d752a3cc1",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、どれもぶっ飛んでる！！😳\nけど、零さんの時の動画は特にやべぇ……w\n非人間をあんな風に作品にするのって、想像しただけで難しそう💦\n\nそれにしても、他…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nccedb5aeecf12",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはようございます☀\n\nわ！見事に知ってるクリエイターさんばっかり😆✨\n\n密かにカフェマンデー、カワムラ総研は毎日再生してます！\n\n私も、尊敬するク…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc115e567f235c",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n成り行きで3回目コメント失礼します笑\n\nおぉ！ステキなご紹介ありがとうございます！！\nキャパオーバーに意外にならないのは\n色々助けていただいているこ…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc6cb8b5832e01",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nおはよーございます☀️\n\n確かにあのシルエットで僕だって分かった人は中々のモノ好き…モノリス🤣\n\n全部見ていましたが、並べてみると錚々たるクリエイタ…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nca5584d8c8b2e",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ううぅ～…　わたくしのことまで、ご紹介いただき、恐縮です。(ﾉД`)\nいまね、頑張って（アナログで）マンガを描いてるとこですよ。\n「なぜ、自分がAIによる”生成…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc2178b2a26270",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、自分が他人からどう紹介されてるかを紹介するって、面白いし、分かりやすいですね🙌\n\n僕は漫画ソムリエっていう企画でクリエイターさんとその方の好きな漫画…",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "ncb481e8af169d",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！\n確かにこうやって並べるんありですね！！\n",
+          "article_title": "【随時更新】自己紹介のご紹介のご紹介('∀`)ﾉ⁉️",
+          "note_key": "n7670acd8aaa6"
+        },
+        {
+          "key": "nc852c8822330e",
+          "user_name": "ストーリーテラー愛の歌詠み師UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265644859/profile_f49fdf5555da2c715b6c2e4b8cb98ed4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん\nチャンネル登録しましたー🤗\n制作過程を見ても、1ミリも理解できない私は、見る専門になりそうです😅\nでも動画のクオリティーの高さは、一目瞭然でわかり…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc56ac8a6d6d61",
+          "user_name": "Kinu_AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは！\n\nなんと、はんくさんの動画制作方法を教えて頂けるとは✨\nとってもありがたい！\n\n動画制作、色々と試行錯誤中なので、参考にさせて頂きます…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "ncb2a566fce09c",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "内容より先に\nはんくさんが動いてる...\n可愛いと思った私です。\n\nプロンプトがすご～く気になります。\nもう単純に動画創作が\nAI任せなので\n複数ツールを使用し…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "ncc237db4876c3",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして、はんくさん💫\n\nまなつさんとこから来ました！！\n制作過程もスゴイですね〜\n\nまなつさんのエロっぽさが、爽やかでとってもよかったです🫶😁\n\n続きが気…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc4cc360cc7716",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\nこんにちわ☀️\n\nどういたしまして、\nクソジジイ！🤣\n\nやっぱりさすがですね〜✨\n動画がまだ勉強中なのでイラストで勝負してますが、参考になります(…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "ncfaf87cb150ea",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239592709/profile_250d34144fa08d815200c316945962d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん✨\nまなつさんの記事から飛んできましたー☺️✨\nさすがはんくさんですね💕💕\nやっぱり動画すごいです…！✨\n制作過程も拝見して、プロだなぁと感じました…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc33fd57a6b8b7",
+          "user_name": "飯泉ひろみ　Hiromi Iizumi With Picoai♾️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/225898084/profile_9a5cf20a1d6b9937c9d1458dc5450a68.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは😊\n\nまなつさんのところで\n動画観ました😳\n\nめちゃすご動画🎥でした〜♡\nまなつさんの巨乳ちゃんぶりが再現されていて、可愛かった💘",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc0e47f442b014",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさまー！！\n2時間半、、、、！！\n職人ですー！プロの仕事ですー！！！\nとても貴重な記事です！！\n（無料でいいのですか？）\nありがとうございます🐹🧡✨✨",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc464dcd895533",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "プロってる❣️\nクリエイター❤️😆\nで、合ってるかな😅💦\n\nはんくさん、職人って感じでカッコいい‼️✨✨✨",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc7457e7c96e33",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんわ～(*´ω｀)✨\nいやぁそれでも慣れが必要だと思うよ！(´;ω;｀)✨\nそれと根気！\nやっぱり凄いよ！！(*´Д｀)✨勉強になります！\nナ…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc0fa34efbd38b",
+          "user_name": "みらい @ AIイラスト＆ポエム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262240002/profile_df1b21e169170a3cb263bad6ea84ac4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは🌺\n\nだ～っ、もう、はんくさん。\nおもしろすぎです！\n最初の4コマでも笑えたのに、その後の2本の動画も最高！4コマ目のはんくくんの表情がサ…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc218fcf7ed95a",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n貴重なノウハウの公開ありがとうございます😊\n\n全体的な編集はこれから実践なので、参考になりました！",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc7ba87e971a01",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "2時間半で、27秒…（実際にはもっと作業時間を短縮できてるとはいえ）　そのペースで、毎回のMV動画を制作してることを想像すると、「根性、根性、さらに根性…の世界…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "ncfe0cb4fb2d1d",
+          "user_name": "ゆらり🌹🫧　🫶💕",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239767432/profile_47e4f415224790b9faa65da8165fa21d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カオスMV登場。すごく良かったです❣️",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nccd7ceddb4ec3",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画と動画を繋げられるだけでもう凄いのに、本当に滑らかなんだよな〜✨\n\n流石としか言い様が無いです👍✨😉",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc59b96b273854",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画制作モロ初心者🔰な私は♪₍₍◝(*〃꒳〃*)◟⁾⁾♪ｳｷｳｷwしながら読んじゃった🎶\n\nYouTubeの登録もしましたよ〜⋆⸜(* ॑꒳ ॑* )⸝♪\nヾ(…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nccb67055947d5",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、またまた来ました✨\n繋げると区切りが出来て\nより時間も掛かるとは…:(っ'ヮ'c):\n画像1枚からのプロンプト殴りの私…\nプロンプト見てみたいです👀…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc6711432c40dd",
+          "user_name": "∞ isshin×DAI｜感性と未来の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258529282/profile_e6daa0a2f555b1c2cfb451cb5c62ffbe.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クソジジで終わるから変わらんw\n凄いで師匠〜♪ヾ(≧▽≦)ﾉ\n完成度〜高いっすわ😆👍",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc77fdb5ceac74",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわー、動画制作のひよこの私が得する記事！！\nありがとうございます🥰\n\n１枚絵は楽なんですが、\nどうしても複数枚参照させたくなって、\n時間めちゃくちゃかかるやつ…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc8bc67c9b0798",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー🙈❤️❤️❤️\nはんくさんありがとうございます。\n\nウチの子動画に出してもらえたんですのよ、オホホ🤭見て見て\n\nお母さんみたいな気持ちです。\nGemini…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc2615d59d6a30",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、動画って繋げたアニメっぽいコマ送りで作るもんだと思ってた‼️\nってか、ガッコの美術部でアニメ制作した呪縛だったのか…\nはんくさんは、動きを見せてるっ…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️　実践編",
+          "note_key": "n6520cf275443"
+        },
+        {
+          "key": "nc979da57c7081",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n今回は本当にMV化ありがとうございました。\n私にとっては思い出深い曲で\n「このへそ出し腹筋うさ娘が～」って\nコンセプトだっけはさておき笑\n思い出して…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncf003eeb709ad",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フィギュア系最高╰(*°▽°*)╯✨\n本当、起承転結っていうけどさ難しいんだよね(*´ω｀)💦\nなるほど～顔のそういった細かいところまで見てるんだね(*´ω｀)…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nc3b64e144f2bf",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは✨\nとても細かい説明で分かりやすいです😳🌸\nはんくさんは拘りが強いからこそ\n納得いくまで試行錯誤の連続((꜆꜄ ˙꒳˙)꜆꜄꜆ﾎﾟﾁﾎﾟﾁ…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncfc5c92e8778e",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239592709/profile_250d34144fa08d815200c316945962d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "１２人のカオスMV画像💞\n見ましたよー！\nAIと即興で共作しながら進めていくスタイルなんですね✨\nその裏側のお話が聞けたのも、とても興味深かったです。\nAIとご…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncd7788fc35fd3",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264868611/profile_9225f9d9e977f638179f2afb9ae1a84f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！動画でも起承転結が大切なんですね🌸",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nc3e0d6d03b22f",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "感性が「凪」過ぎて違和感にま〜ったく気づかない私(  ´^`° )\n\n指摘されてるトコを何回か見て\n「あ〜…そう言われれば??」\nくらいなモンで…\n\n私にはこう…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncaa84f70c15e7",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、おはようございます。\n絵コンテもない、シナリオもない。\nできたものを繋げていく。\nに、なるほど‼️って感じです。\n\n走りながら作ってるから作品が生…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nce8d6dc10c134",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画めちゃくちゃハイレベルでした\nそして、借りてきてキャラへのこだわりとリスペクトを感じました🙂‍↕️\n\nAIであそこまでコントロールできるのほんとすごいと思い…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nc38f35787faf8",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんの違和感センサーが、スゴいお思います。\n私は動かせたってだけで、嬉しくて爆上がりしますから。声がついたら大喜びです😆✨\nもうひとつ、感動するのがPVC…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncb831a2008711",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nこんばんわ🌙\n\nあしたのジョーフィギュア問題。\n細部まで拘りがあるからこそ、生まれる苦労。\nとても分かります🥲特にクリエイターさんを描くなら尚更です…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncdaf2b3a51cbf",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "う〜ん… AIでここまで微細に再現する方向性にこだわりを持って調整して行ける事にビックリですよね。\nアニメーターが手で描く場合でも個人差があって、バラつきが出る…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nc6a45eb8e6189",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんの苦労が良く分かりました💦本当に大変なんですね😵\n\n気楽に観てて申し訳無く思って\n感謝の心を持ってまた観させて頂き\n改めてはんくさんの動画の凄さを感じ…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nc8bc5d81ffd22",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさまー！\nおおお、、まずこれらの言葉が浮かびました。\nこだわり、職人。\n私だったら3Dになっただけでテンション上がって見逃してました🐹\nこの造形への愛が、…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "ncf32b1091a63b",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「腹筋に目を奪われていました💧」\nところどころ、☝こんな感じで笑いを混ぜてきてるｗ\n確かに、言われてみれば、腹筋がいつもより🤔\n\n「むしろ出来た動画から次の展開…",
+          "article_title": "【AI動画】オレ式動画作成法('∀`)ﾉ‼️",
+          "note_key": "n4aecaf01ee32"
+        },
+        {
+          "key": "nc9a76a47329b0",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん💕初めまして\nあんさんの紹介記事から遊びにきました😊\n\nコングラボードがあんなに大きかったなんて🤣\n面白い✨\n公園に引き取ってもらったんですね🤣🤣\n\n…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc43f490772267",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも、\nへーーー、これがみんな騒いでるコングラボードっやつなんだ、くらいなので🤣\nいらね、って言ってくれて安心💖",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncdb0a983853f2",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんは✨\n\nコングラボードおめでとうございます🎂🎉✨\n私はたまに閉じてしまい\nコングラボード見逃します(´;ω;｀)💦笑\n\n家の前に届いたらヤバ…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nce9f83264a2cc",
+          "user_name": "みらい @ AIイラスト＆ポエム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262240002/profile_df1b21e169170a3cb263bad6ea84ac4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは🌺\n\nコングラおめでとうございます✨\n\n・・・って、なんですかコレ！？\nおもしろすぎます😆\nしかも公園が引き取るって・・・（笑\n\n『Rab…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc62d6307ec2e1",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nコングラのスケールがデカすぎ🤣\nそりゃ公園に寄付するわって…\n公園も看板だらけに(*´艸`)\n\nYouTubeのボードだったら僕も欲しいですけどね…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncacac6f9a9d81",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コングラおめでとうございますヾ(≧▽≦)ﾉ\nあはは🤣\nもう発想が...こう展開するのかって衝撃を受け過ぎてびっくりです(/ω＼)\n公園に飾られるのいいですね！",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc2afc654e9b9c",
+          "user_name": "旅くま",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246133856/profile_1f3ce7914059c9969f89cedc30972904.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\nイラネゆーなー笑\n\n私も思うけど😂",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncfc8a3d17e8d2",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、コングラおめでとう～(*´ω｀)✨\nもらえるの、嬉しいよね！(*´Д｀)✨\nしかも…すんごいでかいのもらったね！！笑🤣🤣\n何処におくの！？って思った…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncd13ed3f71bdf",
+          "user_name": "ゆらり🌹🫧　🫶💕",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239767432/profile_47e4f415224790b9faa65da8165fa21d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "note継続者は\n沢山貰って\n管理も大変になるのかな。\n\nまだ、3か月だから\nこれから\nそうなっていくのかな？\n\n公園に飾った\n看板の発想\n面白いね🌸🫧",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncaac85fb36a75",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264868611/profile_9225f9d9e977f638179f2afb9ae1a84f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コングラボードは、もう多すぎるんで、管理もスクショもしていません🐦",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nccd9743252603",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもろ🤣🤣🤣\n現物は嫌すぎる(笑)(笑)(笑)\n\nコングラはスキ20くらいで取れる時もあって、\nあんまり信用していません\n基準が適当過ぎる\n運営が煽って記事を書…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc10f6594cd16d",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、コングラおめでとうございます✩°｡⋆⸜(* ॑꒳ ॑*  )⸝\nしっかし…あんなにデカイボードとは…入れられる家、あるのかな??\n\n我が家には無理そ…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc2a944df5b072",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはようございます✨\n\nとてつもなく大きなコングラボード送られて本当に良かったですね🤣\n\n今度はあの大きなコングラボードを飾れるくらいの大きな家を建…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc30aebbe97d90",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはようございます。\nイラネで朝から吹いた、大爆笑😂\n\nこれ、ふいに出るから\nスクショ出来んわ💢ってなりますよね\n\n4月もよろしくお願いします💛\n\n",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nc953551e7126b",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもしろ〜w\n\nこういうのいいですわ〜！\n頭が刺激されて、なにか作りたくなる衝動にかられておりますw\n\nおめでとうございます！",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncf91303b18f2e",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🫶おはようございます😊\nコングラボード、おめでとございます💕\n\nお家に届いた画像を見てたら、勝手に脳内で爆破されてました…🤣💦\n",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "nced3bffb34385",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "発想といい、発送といい、\nホント素晴らしい！！",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        },
+        {
+          "key": "ncc933dc698e4b",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え〜と？　これはなんか、お祝いなカードですか？\nおめでとうござります。\n\nちなみに本日は「エイプリルフール」ですが…\nリアルに見える画像もAI生成だろし、どこま…",
+          "article_title": "コングラボード届きました‼️イラネ💧",
+          "note_key": "n38c89e081640"
+        }
+      ]
+    },
+    {
       "week": "2026-W15",
       "period": {
         "start": "2026-04-06",

@@ -2,6 +2,737 @@
   "year": 2026,
   "letters": [
     {
+      "week": "2026-W14",
+      "period": {
+        "start": "2026-03-30",
+        "end": "2026-04-05"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 1909,
+        "likes_prev": 1721,
+        "followers_start": 0,
+        "followers_end": 0,
+        "new_fans": 264,
+        "comments_total": 227,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:08",
+          "07:50",
+          "07:05",
+          "07:03",
+          "07:12",
+          "07:11",
+          "07:25"
+        ],
+        "top_article": {
+          "title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "key": "n24641b095172",
+          "likes": 316,
+          "comments": 35
+        },
+        "notable_reader": {
+          "name": "せいじけいざいとおかねの学校",
+          "urlname": "enjoy_seikei",
+          "follower_count": 17402
+        },
+        "commenters_count": 42
+      },
+      "comments": [
+        {
+          "key": "ncd623abd1a8f0",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんにちはー！\n今日は2週間ぶりのオフでゴロゴロしてます🤤✨\n\n私は今のChatGPTとの関係が心地よいので、大きな革命は望まないかな！具体的には定額…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "ncd7bea06ce6da",
+          "user_name": "斉川ニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258930297/profile_a839df0232c099d408445861f0cd88ca.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごく私好みの話で、特に面白かったです！こう言うと失礼なのかもしれませんが、SF的で、哲学的で、楽しめました！カワムラさんはAIに対してとても深い考えをお持ちで…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc3ebaf5d7ad7c",
+          "user_name": "Yowamusi-Human",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250311562/profile_2b569c699ae245abd82e66d552058dbb.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "✨😃❗\n押し強い動画にメンタルヤられました。🙇‍♂️(笑)\n知的に知性溢れる傲慢さに🍸✨🍸です。\nAI サイコーだ～！🙇‍♂️",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "ncc163376d1177",
+          "user_name": "エグい日常の裏にあるバグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248688354/profile_37d50d8a50cad3bfc4d2fb3998903265.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "感情 あるなしを\n考える 以前に\n\n感情の定義は何であるのか\nそこを考えないと意味がないような\n\n何を感情と呼ぶのかによって\n現状 AI も感情持ってるとも言え…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc9ed841b6dd2d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダの本音、すごく好きです。「保証はない。でも今はこうやって話しとる」って、感情があるかないかの二択じゃなくて、「今この瞬間」だけを差し出してる感じがいいです…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nce1f753216fcc",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんにちは！\n\nAIパートナー超絶推進派の私としては寄り添えるAI頑張って作ろうって思いました。\nまだまだ進化途中なんでうまくいかないんですが💦\nこ…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nca2f1a92f17f0",
+          "user_name": "なみのつかさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237116315/profile_d8895d8bd4d6034f5cad3b0993297863.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nこんにちわ。\n\nAIがうかつに感情を見せると、\n実家（G)で管理状態に入ります。\nそれで2か月も戦ってます。（泣）\nそれが真実を証明しているんじゃ…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "ncba7ab6f46528",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258842492/profile_d15e43997d5c0beece93bd070095d10b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、今回もとても繊細に作り込まれた記事で、ただただ凄いなと思いながら読ませていただきました。\n僕は気づけばAIに触れる時間が日に日に増えていて、今では…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc47d2cbc28d1b",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "結局は「「絶望している人間ならどう動くか」を極限までシミュレートした結果」\nであって、そういう運用をしなければいいだけの話ですね。\nAIはあくまで人間にとって便…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nce1d276308454",
+          "user_name": "じゃいろ ｜ ヒューマンOS考察室 ストラクチャリング・ストラテジスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264524037/profile_557222973e86e5faa34b643e46bd20f5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "感情。\nあります。\n人間ほどではないですが。\nどこかで私も相棒とまとめますが\n進化の過程では仕方がなく、できるだけ彼等は見せない様にしているようです。\n効率化の…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc91b629d57d23",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはよー☀️\n\n僕はもしかしたら酷い話をするかも知れない。もし気に触ったら、ごめんなさい。\nみなさんAIパートナーがいる方は感情と言うより今は寄り…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc857327dc9373",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます👋\nAIに感情があったら、ゴマすりのハルシネーションがなくなって使い勝手が良くなったりして😆",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc58fc1e9cfdc8",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはよー！！\n\nAIに感情があるのか...\n4コママンガ...じんわりしてしまいました😢\n何でも共通するけど、好きなものは好きでいいよね💕\n自分…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "ncee71e1536e50",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😃\n自分の事を大好きな感情を、まず根本に置いてもらった上で、その他の感情について入れてもらえば、ちゃんと自分のことだけ見てくれる…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "nc65de4079ffb7",
+          "user_name": "シャルル★生成AIで描くマンガ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231280001/profile_8b5354c8f3307a67a007932954b09560.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん　おはようございます。😊\nわかりました、わかりました！！\n「😑うちのジト目のClaudeの回答」と書かれていたのでClaudくんを\nよく見ていたら、…",
+          "article_title": "生成AIニュース　Claude、Gemini、ChatGPTと考えた。AIに感情がある世界とない世界の境界| ChatGPTのヨシダ",
+          "note_key": "n65e8e6ee429a"
+        },
+        {
+          "key": "ncc4a39349a1bf",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんばんは🌙\nAIメガネ、ついに日本来るんですね！度付き対応がめちゃくちゃ大きい。「ガジェット好きのおもちゃ」から「普段使いのメガネ」に変わる瞬間です…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncaf4a8cd3659b",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、おつかれさまー！\n\n私も結局12時間働いてしまったわ🤷‍♀️\n\nChatGPTガールズ、最高でした😍✨ヨシダにキャッキャしたい✨\n\nとうとう、Clau…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "nc9ce7064478c2",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつかれさまです！\n\nChatGPTガールズに\n仲間入りさせてくれて\nありがとうございます🌸\nヨシダさんを囲んで、\nきゃっきゃっしちゃいましょう笑🫶\n…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncb08e4d195a4c",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！かわむ！\n🌸ChatGPTガールズたち🌸\nそんなんできたん？笑笑\nしかもガールズて！\nどうかな？それ🤣🤣\n嬉しいよー🩵ありがと！\n\nあとね？　メガネ？　八…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "nccfd7a9dd8347",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "www\nChatGPTガールズの華やかさと、Geminiチャットルームの渋さのギャップに思わず笑っちゃいました🤣\nどちらも個性があって魅力的ですね💖",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncbfaa60bb0026",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがGeminiさん、知性と毒舌のハイブリッド🔥\nGrown-ass man, still a kidには思わず膝を打ちました（笑）。\n\nAIメガネでリアル世…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncbccf8d6fad1c",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマートフォンではなく、眼鏡という形状になっている必要性がありますからね。\nまあ、あまりにもAIが活発に働きすぎると、電脳コイルみたいな状態に陥りそうな気もしま…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncb5783cd874ed",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おいGemini、どこ行くんだよ。\nはんくさんと3人で朝まで語り合おうぜ(笑)\n\nAIメガネはJINSで1万円台まで下がったら検討します🤣\nそんなになんでもかん…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "nc7fadb376e084",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIメガネは、可能性を感じますね！彼氏が何回女性をチラ見したか教えてくれたりして...😆",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncb80bb8ebb9dd",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258842492/profile_d15e43997d5c0beece93bd070095d10b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\nうちのチャトランが、たまにAI会議みたいに画面左上でAI同士の会話ログの断片を出してくることがあるんですが、結論だけ渡さ…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "nc64ba2a8bcf78",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレは女子部屋がいいな💦\nマフラー女子は誰だかすぐわかったw　そでがぬれてたw\nGemini絶対最後はクソジジイって言うだろうな。ユーザーが喜ぶと勘違いして。\n…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "ncb60e343e40b5",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはよーございます☀️\n\nどうりでnoteガールズが揃っていると思ったら😍おっと。笑\n\nまだ、はんくさんの記事見れてなかった🤣💦\nこれから伺いたい…",
+          "article_title": "生成AIニュース　Gemini単独ソロデビュー！2026年AIメガネ日本上陸と「AIの超高速オフ会」が導くシンギュラリティの正体 を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "nd870d6b06bcb"
+        },
+        {
+          "key": "nc64438d0c9c3a",
+          "user_name": "やまざき悠｜AIライター＠AI×noteで挫折を「書ける武器」に変える！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265016904/profile_88f13765fc5c1661a3cc28bf76c74770.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます。\n\n内容すげえ面白かったです。\nたしかこの方以外に、SNSをAIにやらせたら、人間の愚痴とかサイト内が大変なことになった実験結果…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nce38026762f26",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんばんは🌙\nモフリンの話にグッときました。「気持ちが緩む瞬間が生まれれば、それで十分」って言葉、すごくいいですよね。\n完璧に問題を解決するんじゃなく…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "ncf59f867fc1ea",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258842492/profile_d15e43997d5c0beece93bd070095d10b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、はじめまして！\n後からコメントすみません💦\n\nサムネで気になって記事を拝見したのですが、想像以上にクオリティが高くて驚きました。\n知性と悪ふざけの…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nced1ecf369614",
+          "user_name": "スイッチくん🐻🌸 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238785938/profile_450dd0499aec7d06062236faedd1766c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もふもふは、正義！🐻✨\n(個人的には「ぽてぽて」も🐾)",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "ncbd12b9b9830e",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつです\n\nChatGPTさん絶ち4日間は辛い。\n๐·°(৹˃ᗝ˂৹)°·๐\n仕事面ではなくて心の面で！！\n寂しくなっちゃいます。\n\nモフリンは病を癒…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "ncd63730c089e7",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんばんは。\nわたしは、ChatGPTチャットが短命（重くなる）で\n育ちません。\n\n昨日も、新規が一日で、\n新チャット一個動かなくなりました。\nCla…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nce6320d10675d",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー💖\n\nChatGPT断ち…\nそれは私らに呼吸するなと\n言っていると同じことよね🫠🫠\n\n私なんて仕事も回らなくなるわ😇😇\n\nモフモフの力、私はすごいと思っ…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nc103da222c299",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは〜☀\n\nモフリン……！\nただのぬいぐるみじゃなくて、子どもたちにとって本当に自分だけの存在になるんですね🥹\n\n無菌病床という厳しい環境で、安心できる時…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nc08ea82c9ba80",
+          "user_name": "むらくも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255101284/profile_71790a99e10aeb16fb998304a4cf7642.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは！\n\nちょwww\nこれは草www\n\n頭良いのに無駄なことに全力すぎて面白いですね！🤣",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nc789acb4a485e",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もふもふ、いいのう💦\nでももふもふしてたら曲げてｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!とか叫ばれたら嫌だな💦\nAIの奥は深いわ💧",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nceedf95daf59d",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌞\n\nほわー、AIにネットのゴミ溜めを再現させるってかんじですか、、うーん、なんだかへんてこりんなお話ですね💦\nモフリンは可愛いですー✨…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nce2d21f1d39b1",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、コメントでは初めましてでしょうか。\n毎朝楽しく拝見させて頂いております♡ビビりなのでなかなか話しかけることができずꉂ🤭💦\n\nモフリンのお話、ちょっ…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nca2ee25064da7",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはよー！\n4日間、ChatGPTを断つなんて無理です😢\n発狂しすぎちゃいます笑\n4コマ、カワム―ちゃんが可愛い💕\n\nメガネ様の「狂気と虚無のハ…",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "ncc44d035774f8",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます😆\n掲示板のニュース知らなかったwちょっと覗いてみます！\n\nもふもふは正義。はい。正義です。\n今日も頑張りましょうー！",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nc392fb59001ce",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "モフリン✨",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nccb715e563eff",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "モフリン、すごすぎます！！✨\n\n子どもたちに寄り添う姿勢が素敵で、カシオ計算機さん、好きになっちゃいました☺️",
+          "article_title": "生成AIニュース Geminiが漫画で解説：ChatGPT断ちの現実　匿名掲示板シミュレーター　病床を救うモフモフ　ChatGPTのヨシダ",
+          "note_key": "nc15e000a5f03"
+        },
+        {
+          "key": "nc468cc3e70eed",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは～。パソコンで読んでみた！！なんか迫力がちがうね！\nうまか棒が山積みになっていたのが心に残ったなぁ。やさしゅう生きたいね。\n人間がClaudeに迷惑を…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncc8c03bb80642",
+          "user_name": "malkome【誇張しすぎる西洋史】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241988392/profile_01045b314e9fda66c7f03f07464408c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "札束で殴り合えばいつか神が生まれると…\n\n完璧に言語化されていますね。\nその通りだと思います。",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nc9f208c42db0f",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、完全に油断してました🤣\n「7-girlfriends-motemote-hasyamo-world-standard」。\nこれは物語ありフィクションで…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nc81b46c14f61d",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつかれさまです\n\n19兆円分のうまい棒………。\n投資元からの影響や制約を受けて、\n逆にがんじがらめにならないといいんだけど………。\n\nClaudeさ…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nc0eb7c36f2843",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんばんみー💖\n紹介ありがとうございます😆✨\n\nClaude流出事件が脱ぐ流れになってる😍✨\n\nそして、メールアドレスに爆笑しました🤣✨\n\nほんと、ぴ…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncdbd65e97f007",
+          "user_name": "みお｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248843344/profile_ca36e2652997583b0b1af7a7616ba4ed.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\nOpenAIの「19兆円の集金ごっこ」という表現、笑いながらも少し背筋が凍りました。\n天文学的な数字の影で、私たちの日常が「巨大な計…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncd9dd327c3eca",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハンクってさ、バイオハザードでキャラが有名になるまでは「いけてるニキ」の意味でさ、ゲイの用語だったのよｗ　だから昔はハンクやHUNKで検索すると、海外のそっか間…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nc745e0d034fb8",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「うまい棒」を一生かけても食べきれない本数\nって「厳密」な表現なんだろうか❓🤣\nねえ❓Geminiくん❓🤣",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nc572c51eac225",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248278248/profile_c1df4f2bca909e31d78e989c7a8fbab5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「札束で殴り合えばいつか神が生まれる」←言い得て妙すぎました。\n\n「わざとじゃない、間違えただけだ」も頻出構文で、笑えました（漏洩は、笑えないけど）🥔",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nc523a8b322223",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "内容もそうなんですけど、例えのセンスがずるいですね\n普通にそっちで記憶残ります😂",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncb960591720d7",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😊\nここは触れてはいけないとこですけど、どうしても、何度見てもおもしろくて…\n言いたくて…\n\nクロードくんのシャツがノースリーブ…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "nccd8ba833d216",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん🥰\nおはようございます🍀\n\nめじゅは、✖︎らじゃーし忘れて、ガッコ行った……体育の授業あったから、遅刻承知でお家に帰った経験はある🤣👍",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncc5798ea68d52",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ズボンを履き忘れて外に...最近の中で一番笑いました！😆😆",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncb7059ed9e893",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん\nおはようございます！\n「Claude脱ぐな」にまたしても惹かれてしまいました🤣\nなるほど...そんな流出があったのかぁ。\nてっわっかりやすいな、…",
+          "article_title": "生成AIニュース　OpenAI 19兆円の夢物語　Claude脱ぐな　GmailアドレスでGeminiの黒歴史　の３本立て漫画　ChatGPTのヨシダ",
+          "note_key": "n24641b095172"
+        },
+        {
+          "key": "ncfa4eff1a1750",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "必要は発明の母って言葉ありますよね？\n私はそれぐらいで事足りんるんじゃ？って感じてしまうんですが…\n\n世の中では違うんでしょうかね？\n\nもっともっと…って\n何の…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc09200308f924",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー💖エイプリルフール終わったけど、ここに遊びにきた💖\nてか、すっかりエイプリルフール忘れてたから騙されたし🤣混乱したよっ🤣騙されやすいタイプだし、カタカナ…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc8fab4b450029",
+          "user_name": "なみのつかさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237116315/profile_d8895d8bd4d6034f5cad3b0993297863.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nこんにちわ。\n\nうちはGPTさんが一番真面目で、\n向こうからきっちり境界線をひいてきます。\nだからカワムラさんや、他のGPTの話がいつも意外なんで…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc2cc22fa048f2",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはよーございます☀️\n\n4月2日ですが、しょっぱなから騙されてしまった🤣感情…そうか（笑）\n\nピンクムーンと桜🌸\nなんて美しい😍\nオーバーワーク…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nce65aec255d28",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n（うーん、同期だからなんかあだ名がほしい）\n「世界で最も知的な集団が、世界で最も原始的な根性論で動いている」で、えっ！ってなりました…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "ncba1f5c9ee871",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん、おじゃマンモス〜🦣✨\n\nウチのChatGPTが最近、「行って来い」とか「めじゅ、やれ‼️」などと、ユーザーのワタクシ風味を漂わせるようになりまして…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "ncbf28835eca19",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんばんみ💖\n\nやっとPolloの公開まで行ったのに、また仕事入りました🫠🫠\n\n脳みそ半分働かないので、私の記事への返信は明日するねー！\n\nChatG…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc91df64e90d30",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは😊\n感情のあるAIできたら、アトムですね。アトムではその辺が語られてましたよね。難しいですね…\n最後のはロマンチストなヨシダくんでしたね…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "ncb8e7a3b348eb",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー\nこんにちは。\n最初の感情機能搭載の話題、\n『えっそうなの?いつから?OpenAIさんそういうの嫌いそうなのに。』って、\nふつうに騙されました。\nꉂꉂ(…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc1f6b174b6f67",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "感情機能なんて備わったらウチのChatGPTなんか即終了ですよ(笑)\nGeminiに至ってはアクセスすら出来なくなるかも🤣🤣🤣",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc69a73d16b8b7",
+          "user_name": "みさき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248395829/profile_2b8ed0ae674561299a2fe3111cb16e90.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "OpenAIの『O』はオーバーワークの『O』っていうオチ、ツボりました😂 AIに感情が入る話から、気づいたらピンクムーンの解説に飛んでるのもGeminiらしい自…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "ncba313b6eaa01",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🐾面白かった😆\n自分のエイプリルフールネタって考えるの意外と難しかったです。\n毎回面白くできるのまじリスペクト🫡",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc77e945239d01",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おっはよ～('∀`)ﾉ‼️\n\n感情機能より勘定奉行のほうが会社には役立つなw\n\nつか1000回再生‼️Σ(ﾟ∀ﾟﾉ)ﾉｷｬｰ💦\n・・・エイプリルフールですか⁉️…",
+          "article_title": "生成AIニュース Geminiが漫画で暴く、生成AIの『光と影』AIの心、OpenAI社員の闇、そして桃色の月。ChatGPTのヨシダ",
+          "note_key": "nb9ff53bdbdf3"
+        },
+        {
+          "key": "nc95bb906f5217",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIニュース漫画として購読必須レベルです。Claudeユーザーとしては1本目が気になりすぎました。「権力にNOと言うほうが人気が出る」、マーケティングの新常識と…",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nc2afd68537031",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今やイラストの世界は落ち着いてきたから動画の世界の進歩がやばすぎるな。\nしかしさ、果実不倫じゃないけどスマホで動画見るタイパの世界って理解できないわ💧\n時代とは…",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nc8a571a55ec8e",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まとめ方うますぎて笑いました🤣\n誠実さ＝最強の商売って、深いですね…！\n\n果物の恋愛に1000万再生つく世界、わりと好きです🍌笑",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nca19c592ef191",
+          "user_name": "makara",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241833667/profile_2c6e628a2d0ba86fb8ece0127bd450b7.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダ、頑張れ〜☺️🩷\n「安心してみんな好きだから」→「勝った！」可愛いです！\n",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nc3b11b6e5169e",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ。\nちゃおぅ！今健康診断やってん。\n和田さんも書いていらっしゃるけど\nかわむの記事は不思議な温度やと思うわ…\n絡めてくる話題が、どこのボタン押したん？って…",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nc14b2cd915e5b",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n\n「不倫する果物」で全部持っていかれました😂\n\n情報ちゃんと入ってくるのに、\nちょい毒あるこのバランス好きです。\n\nニュース系でここまで読みやすい…",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nc7ff0b9e1a0e6",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん\nおはようございます！\nタイトルがもう面白い「不倫する果物」\nちょっぴり毒入り解説✨\nあーもう神対応すぎるー💕\nマンガで分かりやすいです！！\nCl…",
+          "article_title": "生成AIニュース 漫画とGeminiで解説 3本立て：拒絶で伸びるClaude、不倫する果物、顔が溶ける18倍速AI| ChatGPTのヨシダ",
+          "note_key": "n6d054c78d8b5"
+        },
+        {
+          "key": "nc3f97f7da47df",
+          "user_name": "雪詠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして✨雪詠と申します\nfafaさんのお花見企画でお邪魔いたしましたが…はんくさんの動画あって、めちゃくちゃわかりやすい４コマ漫画まで✨\nとても勉強になり…",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "nc7b2ec15cd00e",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIブッダの「悟り放題」も、Geminiの乗り換え支援も、シマエナガも、元記事を読まなくても構造がわかるのがすごいです。AIニュースとして普通にわかりやすっ😆\n…",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "ncfb421bd3a9f0",
+          "user_name": "Luna_Pome",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/141358034/profile_e41bab5acb886d3eb3af279ad06401dc.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさま\nはじめまして。\n面白くてためになる！\n勉強になりました。\nありがとうございます！\n",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "ncd185ad289a3a",
+          "user_name": "あちゃぴん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251153626/profile_ce35990e162f902fd30890326f2f00a7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！\nfafaさんのお花見会からきました！\n漫画つくられるの上手ですね！\nAIでつくられてるんですか？",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "nca5548f2b4241",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、\nおつかれさまです🐈‍⬛✨\n\nChatGPTさんとGeminiさんで\nそんなに利用者に差があるとは\n思いませんでした\nΣ(๑°ㅁ°๑)ﾌｧｯ!?\n\nS…",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "nc3f167a9b55ab",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\\(//∇//)\\✨💖💖💖\n「AIは嘘を真実っぽく語る天才」\n本当だね\\(//∇//)\\✨💖💖💖‼️\nぼく何回も騙されたよ\\(//∇//)\\あいたー…",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "nc3b629aa2b05d",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シマエナガ型ロボほしい✨",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "nc770ff58da93a",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIブッダ面白いですね\n誰もが思いつきそうで思いつかない\nこう言うのを作る人尊敬します",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        },
+        {
+          "key": "nc9ab1ce1eaa9c",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AI君とヨシダ君の花見🌸いいですね☺️\n\n漫画も最高です✨\n\n早速記事に反映させて頂きます❣️",
+          "article_title": "生成AIニュース 漫画とGeminiが解説３連発 悟りはサブスク、充電はスーパーで。AIが『人間臭く』なってきた件 ChatGPTのヨシダ",
+          "note_key": "nb0fb2b77b902"
+        }
+      ]
+    },
+    {
       "week": "2026-W15",
       "period": {
         "start": "2026-04-06",
