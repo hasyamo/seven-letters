@@ -341,3 +341,10 @@ body {
     opacity: 1;
   }
 }
+
+@media (max-width: 539px) {
+  .letter-content .letter-body .letter-line,
+  .letter-content .letter-body .letter-line-empty {
+    border-bottom: none;
+  }
+}
