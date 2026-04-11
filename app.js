@@ -45,6 +45,7 @@ function showUserSelectModal(creators) {
     modal.className = 'modal-overlay';
     modal.innerHTML = `
       <div class="modal-box">
+        <img src="images/icon-192.png" alt="" style="width:64px;height:64px;border-radius:12px;margin-bottom:12px">
         <div class="modal-title">7人からの手紙。</div>
         <div class="modal-sub">あなたのnote IDを入力してください</div>
         <input id="userInput" type="text" placeholder="例: hasyamo" class="modal-input">
