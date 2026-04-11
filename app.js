@@ -37,11 +37,47 @@ async function loadLetters() {
     if (!res.ok) throw new Error('not found');
     const json = await res.json();
     letters = (json.letters || []).sort((a, b) => b.week.localeCompare(a.week));
+    renderCompBar();
     renderGrid();
   } catch (e) {
     document.getElementById('letterGrid').innerHTML =
       '<div class="loading">まだ手紙は届いていません。</div>';
   }
+}
+
+// === Comp Bar ===
+function renderCompBar() {
+  const bar = document.getElementById('compBar');
+  const senderKeys = ['tsukiko', 'you', 'shizuku', 'rinka', 'runa', 'mahiru', 'hiyori'];
+
+  // 集計: キャラごとの通数とレア有無
+  const stats = {};
+  for (const key of senderKeys) {
+    stats[key] = { count: 0, hasRare: false };
+  }
+  for (const letter of letters) {
+    const key = letter.sender;
+    if (stats[key]) {
+      stats[key].count++;
+      if (letter.rare) stats[key].hasRare = true;
+    }
+  }
+
+  bar.innerHTML = senderKeys.map(key => {
+    const sender = SENDER_MAP[key];
+    const s = stats[key];
+    const unlocked = s.count > 0;
+    const charClass = unlocked ? 'comp-char unlocked' : 'comp-char';
+    const avatarClass = `comp-avatar${unlocked ? '' : ' locked'}${s.hasRare ? ' has-rare' : ''}`;
+
+    return `
+      <div class="${charClass}">
+        <img class="${avatarClass}" src="${sender.img}" alt="${sender.name}">
+        <div class="comp-name">${sender.name}</div>
+        <div class="comp-count">${s.count > 0 ? s.count + '通' : '-'}</div>
+      </div>
+    `;
+  }).join('');
 }
 
 // === Grid ===
