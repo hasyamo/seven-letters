@@ -169,8 +169,8 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "rinka",
+      "condition": "consistent_time",
       "rare": false,
       "stats": {
         "likes_total": 350,

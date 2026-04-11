@@ -11,20 +11,28 @@
       "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 41,
+        "likes_total": 292,
         "likes_prev": 495,
-        "followers_start": 450,
-        "followers_end": 450,
-        "new_fans": 11,
-        "comments_total": 0,
-        "posts_count": 0,
-        "consecutive_days": 0,
-        "post_times": [],
-        "top_article": null,
+        "followers_start": 472,
+        "followers_end": 472,
+        "new_fans": 58,
+        "comments_total": 127,
+        "posts_count": 2,
+        "consecutive_days": 2,
+        "post_times": [
+          "23:21",
+          "14:59"
+        ],
+        "top_article": {
+          "title": "【PROJECT：HUNK】始動します。",
+          "key": "nb6e690b59ddb",
+          "likes": 96,
+          "comments": 80
+        },
         "notable_reader": {
-          "name": "つなぐ｜HIROMI🌸平和の種を蒔く人",
-          "urlname": "tsunagu_story",
-          "follower_count": 5087
+          "name": "Honpopo Café ☕️",
+          "urlname": "honpopo",
+          "follower_count": 24885
         }
       }
     }

@@ -7,27 +7,31 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "rinka",
+      "condition": "consistent_time",
       "rare": false,
       "stats": {
-        "likes_total": 418,
-        "likes_prev": 1908,
-        "followers_start": 1390,
-        "followers_end": 1390,
-        "new_fans": 44,
-        "comments_total": 59,
-        "posts_count": 2,
-        "consecutive_days": 2,
+        "likes_total": 1411,
+        "likes_prev": 1909,
+        "followers_start": 1411,
+        "followers_end": 1411,
+        "new_fans": 161,
+        "comments_total": 212,
+        "posts_count": 6,
+        "consecutive_days": 6,
         "post_times": [
+          "07:28",
+          "07:04",
+          "07:02",
+          "07:41",
           "07:23",
           "07:00"
         ],
         "top_article": {
-          "title": "生成AIニュース 漫画とGeminiが解説　イラストの「陽」と「陰」〜anan風・抱かれたいAIと、表現を守る論理の盾〜ChatGPTのヨシダ",
-          "key": "ncc83531e51ad",
-          "likes": 207,
-          "comments": 35
+          "title": "生成AIニュース Geminiが漫画で解説　きのこたけのこの決着点 Claudeの詫び石　OpenAIの予言 ChatGPTのヨシダ",
+          "key": "nb91531957ae0",
+          "likes": 263,
+          "comments": 40
         },
         "notable_reader": {
           "name": "アトカ【AIコラムライター】@AI副業",

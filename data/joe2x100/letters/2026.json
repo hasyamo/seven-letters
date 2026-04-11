@@ -9,13 +9,13 @@
       },
       "sender": "runa",
       "condition": "new_fans",
-      "rare": true,
+      "rare": false,
       "stats": {
-        "likes_total": 16,
+        "likes_total": 51,
         "likes_prev": 115,
-        "followers_start": 318,
-        "followers_end": 318,
-        "new_fans": 8,
+        "followers_start": 325,
+        "followers_end": 325,
+        "new_fans": 23,
         "comments_total": 0,
         "posts_count": 0,
         "consecutive_days": 0,
@@ -26,8 +26,7 @@
           "urlname": "seiji_arita",
           "follower_count": 12262
         }
-      },
-      "rare_no": 1
+      }
     }
   ]
 }
