@@ -1,0 +1,40 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W15",
+      "period": {
+        "start": "2026-04-06",
+        "end": "2026-04-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 138,
+        "likes_prev": 659,
+        "followers_start": 1532,
+        "followers_end": 1532,
+        "new_fans": 28,
+        "comments_total": 11,
+        "posts_count": 2,
+        "consecutive_days": 2,
+        "post_times": [
+          "07:49",
+          "07:26"
+        ],
+        "top_article": {
+          "title": "「心が散らかる日ほど、深呼吸。」AIチャッティの朝活vol. 216 | エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "key": "n8ffb54544e90",
+          "likes": 50,
+          "comments": 7
+        },
+        "notable_reader": {
+          "name": "ケンタ",
+          "urlname": "natty_lion4254",
+          "follower_count": 17225
+        }
+      }
+    }
+  ]
+}

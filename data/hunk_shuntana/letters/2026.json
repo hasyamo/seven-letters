@@ -1,0 +1,32 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W15",
+      "period": {
+        "start": "2026-04-06",
+        "end": "2026-04-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 41,
+        "likes_prev": 495,
+        "followers_start": 450,
+        "followers_end": 450,
+        "new_fans": 11,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "つなぐ｜HIROMI🌸平和の種を蒔く人",
+          "urlname": "tsunagu_story",
+          "follower_count": 5087
+        }
+      }
+    }
+  ]
+}

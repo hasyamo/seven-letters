@@ -1,0 +1,39 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W15",
+      "period": {
+        "start": "2026-04-06",
+        "end": "2026-04-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 116,
+        "likes_prev": 581,
+        "followers_start": 3051,
+        "followers_end": 3051,
+        "new_fans": 15,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "06:33"
+        ],
+        "top_article": {
+          "title": "40記事連続100スキを達成。｜AIクリエイター｜AIイラストの描き方｜コンテンツマーケティング｜noteマーケティング｜NanoBanana　",
+          "key": "n79d2029d51d9",
+          "likes": 58,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 11458
+        }
+      }
+    }
+  ]
+}

@@ -137,6 +137,7 @@ body {
 /* Letter View */
 .letter-view {
   animation: fadeIn 0.3s ease;
+  padding-bottom: 80px;
 }
 @keyframes fadeIn {
   from { opacity: 0; }
@@ -272,9 +273,18 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 20px;
   gap: 8px;
   flex-wrap: wrap;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 16px;
+  background: var(--bg-main);
+  border-top: 1px solid var(--border);
+  z-index: 100;
+  max-width: 960px;
+  margin: 0 auto;
 }
 .letter-nav-btn {
   background: none;
@@ -340,6 +350,94 @@ body {
     transform: perspective(800px) rotateY(0);
     opacity: 1;
   }
+}
+
+/* Comments Attachment */
+.letter-comments {
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--border);
+}
+.letter-comments-title {
+  font-family: var(--font-serif);
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+}
+.comment-group {
+  margin-bottom: 16px;
+}
+.comment-group-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.comment-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 0 0 1px rgba(160, 152, 144, 0.2);
+}
+.comment-name {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.comment-count {
+  font-size: 10px;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+.comment-group-body {
+  padding-left: 36px;
+}
+.comment-entry {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  transition: opacity 0.15s;
+}
+.comment-entry:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+.comment-entry:hover {
+  opacity: 0.7;
+}
+.comment-text {
+  font-size: 12px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.comment-article {
+  display: block;
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.comment-more {
+  font-size: 12px;
+  color: var(--accent-dark);
+  text-align: center;
+  padding: 12px 0;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.comment-more:hover {
+  opacity: 0.7;
 }
 
 @media (max-width: 539px) {

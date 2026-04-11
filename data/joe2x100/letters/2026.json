@@ -1,0 +1,33 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W15",
+      "period": {
+        "start": "2026-04-06",
+        "end": "2026-04-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 16,
+        "likes_prev": 115,
+        "followers_start": 318,
+        "followers_end": 318,
+        "new_fans": 8,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "seiji_arita",
+          "urlname": "seiji_arita",
+          "follower_count": 12262
+        }
+      },
+      "rare_no": 1
+    }
+  ]
+}

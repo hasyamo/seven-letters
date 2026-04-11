@@ -1,0 +1,40 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W15",
+      "period": {
+        "start": "2026-04-06",
+        "end": "2026-04-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 418,
+        "likes_prev": 1908,
+        "followers_start": 1390,
+        "followers_end": 1390,
+        "new_fans": 44,
+        "comments_total": 59,
+        "posts_count": 2,
+        "consecutive_days": 2,
+        "post_times": [
+          "07:23",
+          "07:00"
+        ],
+        "top_article": {
+          "title": "生成AIニュース 漫画とGeminiが解説　イラストの「陽」と「陰」〜anan風・抱かれたいAIと、表現を守る論理の盾〜ChatGPTのヨシダ",
+          "key": "ncc83531e51ad",
+          "likes": 207,
+          "comments": 35
+        },
+        "notable_reader": {
+          "name": "アトカ【AIコラムライター】@AI副業",
+          "urlname": "aicolumnwriter",
+          "follower_count": 22566
+        }
+      }
+    }
+  ]
+}

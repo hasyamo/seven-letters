@@ -119,10 +119,13 @@ async function openLetter(index) {
       <span class="letter-signature-name">${sender.name}</span>
     </div>
     <div class="letter-date${animateClass}">${writtenDate}</div>
+    ${renderComments(letter)}
   `;
 
   // Show letter view
   document.getElementById('gridView').style.display = 'none';
+  document.querySelector('.letter-nav').style.display = 'flex';
+  document.querySelector('.footer').style.display = 'none';
   const letterView = document.getElementById('letterView');
   letterView.style.display = 'block';
   letterView.querySelector('.letter-paper').classList.remove('page-turn-enter');
@@ -206,6 +209,8 @@ async function openLetter(index) {
 function showGrid() {
   document.getElementById('letterView').style.display = 'none';
   document.getElementById('gridView').style.display = 'block';
+  document.querySelector('.letter-nav').style.display = 'none';
+  document.querySelector('.footer').style.display = '';
 }
 
 function navigateLetter(dir) {
@@ -238,6 +243,67 @@ function weekSeed(weekStr) {
   return Math.abs(h);
 }
 
+// === Comments ===
+function renderComments(letter) {
+  const comments = letter.comments;
+  if (!comments || comments.length === 0) return '';
+
+  const creatorUrl = new URLSearchParams(location.search).get('c') || 'hasyamo';
+
+  // 人ごとにグルーピング
+  const byUser = {};
+  for (const c of comments) {
+    const uid = c.user_urlname || c.user_name;
+    if (!byUser[uid]) {
+      byUser[uid] = { name: c.user_name, icon: c.user_icon, comments: [] };
+    }
+    byUser[uid].comments.push(c);
+  }
+
+  // コメント数が多い人順
+  const sorted = Object.values(byUser).sort((a, b) => b.comments.length - a.comments.length);
+
+  function renderUserGroup(user) {
+    const commentLines = user.comments.map(c => {
+      const commentUrl = `https://note.com/${encodeURIComponent(creatorUrl)}/n/${encodeURIComponent(c.note_key)}?scrollpos=comment&c=${encodeURIComponent(c.key)}`;
+      return `
+        <a class="comment-entry" href="${commentUrl}" target="_blank" rel="noopener">
+          <span class="comment-text">${c.body}</span>
+          <span class="comment-article">${c.article_title || ''}</span>
+        </a>
+      `;
+    }).join('');
+
+    return `
+      <div class="comment-group">
+        <div class="comment-group-header">
+          <img class="comment-icon" src="${user.icon}" alt="${user.name}">
+          <span class="comment-name">${user.name}</span>
+          <span class="comment-count">${user.comments.length}件</span>
+        </div>
+        <div class="comment-group-body">
+          ${commentLines}
+        </div>
+      </div>
+    `;
+  }
+
+  const top3 = sorted.slice(0, 3);
+  const rest = sorted.slice(3);
+  const items = top3.map(renderUserGroup).join('');
+  const restHtml = rest.length > 0
+    ? `<div class="comment-more" onclick="this.nextElementSibling.style.display='block';this.style.display='none'">他${rest.length}人からも声が届いています</div><div class="comment-rest" style="display:none">${rest.map(renderUserGroup).join('')}</div>`
+    : '';
+
+  return `
+    <div class="letter-comments">
+      <div class="letter-comments-title">今週届いた声</div>
+      ${items}
+      ${restHtml}
+    </div>
+  `;
+}
+
 function pick(arr, seed, offset) {
   return arr[((seed + offset) * 2654435761 >>> 0) % arr.length];
 }
@@ -263,6 +329,9 @@ function generateLetterBody(letter, sender, tmpl) {
     likes: s.top_article ? n(s.top_article.likes) : '',
     comments: s.top_article ? n(s.top_article.comments) : '',
     name: s.notable_reader ? s.notable_reader.name : '',
+    top_commenter: s.top_commenter || '',
+    top_commenter_count: s.top_commenter_count ? n(s.top_commenter_count) : '',
+    commenters_count: s.commenters_count ? n(s.commenters_count) : '',
   };
 
   function fillVars(str) {

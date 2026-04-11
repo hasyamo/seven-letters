@@ -1,0 +1,40 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W15",
+      "period": {
+        "start": "2026-04-06",
+        "end": "2026-04-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 177,
+        "likes_prev": 678,
+        "followers_start": 1031,
+        "followers_end": 1030,
+        "new_fans": 32,
+        "comments_total": 44,
+        "posts_count": 2,
+        "consecutive_days": 2,
+        "post_times": [
+          "05:56",
+          "06:14"
+        ],
+        "top_article": {
+          "title": "AIを毎日召喚してた人を、召喚してみた話｜創作｜AI活用｜召喚企画｜#322",
+          "key": "n204ca8f1a30a",
+          "likes": 81,
+          "comments": 29
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 11451
+        }
+      }
+    }
+  ]
+}
