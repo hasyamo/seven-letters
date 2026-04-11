@@ -2,52 +2,6 @@
   "year": 2026,
   "letters": [
     {
-      "week": "2026-W14",
-      "period": {
-        "start": "2026-03-30",
-        "end": "2026-04-05"
-      },
-      "sender": "runa",
-      "condition": "new_fans",
-      "rare": false,
-      "stats": {
-        "likes_total": 115,
-        "likes_prev": 180,
-        "followers_start": 0,
-        "followers_end": 0,
-        "new_fans": 47,
-        "comments_total": 2,
-        "posts_count": 2,
-        "consecutive_days": 2,
-        "post_times": [
-          "15:56",
-          "10:21"
-        ],
-        "top_article": {
-          "title": "【心に残る瞬間を記憶する習慣】 #画像生成AI #AIイラスト #プロンプト #Nijijourney #Niji7 #Gemini No.33",
-          "key": "n89b5f5a7ea74",
-          "likes": 53,
-          "comments": 2
-        },
-        "notable_reader": {
-          "name": "Kusabue／現代語俳句",
-          "urlname": "kusabue",
-          "follower_count": 21246
-        },
-        "commenters_count": 1
-      },
-      "comments": [
-        {
-          "key": "ncf5f7a52139ce",
-          "user_name": "千住まいか🐇｜AIイラスト＆マーケティング",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/226124329/profile_028bb03b54174275b4b6fa76c8a38f83.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "Joe Tsukasa さん、こんにちは。\n\n読んでてワクワクしました！\n日常の何気ない景色がファンタジーの隠し味になるって最高ですね。\nまいか🐇も「被写体探し…",
-          "article_title": "【心に残る瞬間を記憶する習慣】 #画像生成AI #AIイラスト #プロンプト #Nijijourney #Niji7 #Gemini No.33",
-          "note_key": "n89b5f5a7ea74"
-        }
-      ]
-    },
-    {
       "week": "2026-W15",
       "period": {
         "start": "2026-04-06",
