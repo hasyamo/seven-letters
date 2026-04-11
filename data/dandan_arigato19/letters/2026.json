@@ -375,8 +375,8 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "mahiru",
-      "condition": "many_posts",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
         "likes_total": 205,
@@ -418,8 +418,195 @@
           "name": "ねこの青春日記",
           "urlname": "kaneko_seisyun",
           "follower_count": 45867
+        },
+        "commenters_count": 7
+      },
+      "comments": [
+        {
+          "key": "nc80abfb72806d",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この曲、プロでも難しいそうです😌\n私は簡単なウクレレ曲でもすぐ心が折れて、練習続きません😂\n\nめじゅさん、すごいです😍",
+          "article_title": "「天国への階段」 (Stairway to Heaven) ",
+          "note_key": "nccdfc0568f92"
+        },
+        {
+          "key": "ncbe44ae4af36e",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "モーリスはアリスが宣伝してたオレが中学の時の憧れのギター♥️\nMartin（マーチン）が本家だけど、日本はモーリスでいいのだw\nこれとホテカルは練習したな。これ…",
+          "article_title": "「天国への階段」 (Stairway to Heaven) ",
+          "note_key": "nccdfc0568f92"
+        },
+        {
+          "key": "nca7e1a9515f26",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "着心地で選ぶの分かります〜😆♡\n\n私はコットン派です🤭\n私の雰囲気にはリネンの質感よりもコットンの方が合っていたので。\nあとコットンの柔らかさと丈夫さ。\n子ども…",
+          "article_title": "リネンが好きなのです。素材としても、存在感としても",
+          "note_key": "n0f3e1e1b600f"
+        },
+        {
+          "key": "ncc9aaa084a75b",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "理念も好きそうだからな。",
+          "article_title": "リネンが好きなのです。素材としても、存在感としても",
+          "note_key": "n0f3e1e1b600f"
+        },
+        {
+          "key": "nc716802ea0a3d",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさんのnoteの幅！！\nジャンルが広い！！！\nしかも全部繊細で美しいの、好き🥰\n\nめじゅさん、おはようございます〜",
+          "article_title": "時を超えるリネン vol.18",
+          "note_key": "n5c1e5f475b89"
+        },
+        {
+          "key": "nc21c0a81345ea",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌙\n卒業式のエピソード、読んでいて胸がぎゅっとなりました。歯を食いしばって壇上に立っていた小学生のめじゅさんに、担任の先生が耳元で囁いた一…",
+          "article_title": "春だから、春だもん、春だしね💕︎ピンクハウスのワンピース💖",
+          "note_key": "n27deb23451a9"
+        },
+        {
+          "key": "nc4d3ca1cf3ff5",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "可愛い服着て無邪気に喜ぶめじゅちゃんが可愛い😊💞💖\n娘達の小さい頃を思い出すよ(´ー｀)",
+          "article_title": "春だから、春だもん、春だしね💕︎ピンクハウスのワンピース💖",
+          "note_key": "n27deb23451a9"
+        },
+        {
+          "key": "ncb87c0e90a138",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "バズりてぇ｡･ﾟ･(ﾉ∀`)･ﾟ･｡",
+          "article_title": "めじゅ語辞典 vol.13 【バズ】",
+          "note_key": "n6ba390a23705"
+        },
+        {
+          "key": "nc02016bac709f",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "海で漁師めしでいいや、オレは。",
+          "article_title": "めじゅ語辞典 vol.12 【量子】",
+          "note_key": "nc92a1d1ffe8a"
+        },
+        {
+          "key": "nc9df7360cf7a8",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレの今回のサムネも盛り上がったよ、バトルが。\nオレのちびキャラを『未成年にそのようなことをする画像は・・・」とかいい出してさ、さんざんプロフィール読ませてGe…",
+          "article_title": "MidjourneyにBANされた案件 | 生成AIによるBAN判定 VS 人間が認識するNGワードのズレ",
+          "note_key": "n9ca9e20044cc"
+        },
+        {
+          "key": "nc606d7d9de2d6",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うん、センシティブじゃない絵を描こうとして\nセンシティブ喰らった時にChatGPTに訊いてみたら、\nセンシティブ判定される単語がいっぱい入ってるから\nって言われ…",
+          "article_title": "MidjourneyにBANされた案件 | 生成AIによるBAN判定 VS 人間が認識するNGワードのズレ",
+          "note_key": "n9ca9e20044cc"
+        },
+        {
+          "key": "nce76702eab032",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんの掲示板には投稿したけどマーコのおはかの、彼シャツ姿可愛くできたよｗ",
+          "article_title": "Canvaで、ウマ娘じゅに変身‼️ | あれやこれや挑戦中✨ | ChatGPT | Grok | PhotoDirector |",
+          "note_key": "nc7803055e2e0"
+        },
+        {
+          "key": "nc05eb420f877f",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴルシめじゅちゃーん、おはよう☀\n久々な気持ちです。\nやっとチンアナゴが補充できる。\nわちゃわちゃ😆😑🤓\n\n私も当時ホームページビルダーを使ってスロットのホーム…",
+          "article_title": "Canvaで、ウマ娘じゅに変身‼️ | あれやこれや挑戦中✨ | ChatGPT | Grok | PhotoDirector |",
+          "note_key": "nc7803055e2e0"
+        },
+        {
+          "key": "nc079708350a9a",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タイトルでアンミカ思い出したわ。\n",
+          "article_title": "黒のバリエーションは深いのであった…",
+          "note_key": "n6cc29e078618"
+        },
+        {
+          "key": "ncc7e2994e847e",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ブライスドールって名称、初めて知りました！\n調べてみたら「ああ、これね！知ってる！」ってなりました😌\n\n和風指定なのに洋風になってしまったイラスト、2トーンの色…",
+          "article_title": "黒のバリエーションは深いのであった…",
+          "note_key": "n6cc29e078618"
+        },
+        {
+          "key": "ncbf9f0e41a83a",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒って200色あるんやで(笑)",
+          "article_title": "黒のバリエーションは深いのであった…",
+          "note_key": "n6cc29e078618"
+        },
+        {
+          "key": "nc195cf4853e8b",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "噴火前に3回行きました。\n",
+          "article_title": "御神火に祈る vol.17",
+          "note_key": "ne8da707539e4"
+        },
+        {
+          "key": "ncc981138613a6",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なかよしの付録かと思った。",
+          "article_title": "めじゅ、新たなる野望……悩殺スタイルだ‼️現状での限界突破(爆)",
+          "note_key": "nf17ef2f879a5"
+        },
+        {
+          "key": "nc3262b412b4e5",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ﾌﾞ──(⑉ﾟ།།ﾟ)──ｯｯ‼\n\nあざす😍✨",
+          "article_title": "めじゅ、新たなる野望……悩殺スタイルだ‼️現状での限界突破(爆)",
+          "note_key": "nf17ef2f879a5"
+        },
+        {
+          "key": "nc03d7d8d2fa90",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょｗｗｗ\n一枚目、マジで可愛過ぎひん❓😍😍😍\nてか、これでエッチ判定って💦",
+          "article_title": "めじゅ、新たなる野望……悩殺スタイルだ‼️現状での限界突破(爆)",
+          "note_key": "nf17ef2f879a5"
+        },
+        {
+          "key": "ncd9d570455ad3",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画のめじゅちゃん、可愛過ぎやん(´ー｀)💞💖🎵",
+          "article_title": "Grokが勝手に動画生成したら、案外、良かった…",
+          "note_key": "n0a1f82294020"
+        },
+        {
+          "key": "nc959751739cb5",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "遊んでるなぁｗ",
+          "article_title": "Grokが勝手に動画生成したら、案外、良かった…",
+          "note_key": "n0a1f82294020"
+        },
+        {
+          "key": "nce126cfe9b1d9",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんか「本質」って感じがした。\n死ぬことすら怖くなくなるような。\n自分も自然のサイクルの中の一部みたいな。",
+          "article_title": "都市の森 vol.16.5",
+          "note_key": "n851592c1a1a5"
         }
-      }
+      ]
     }
   ]
 }

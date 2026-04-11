@@ -53,8 +53,8 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "shizuku",
+      "condition": "quiet",
       "rare": false,
       "stats": {
         "likes_total": 51,
@@ -71,7 +71,8 @@
           "name": "seiji_arita",
           "urlname": "seiji_arita",
           "follower_count": 12262
-        }
+        },
+        "commenters_count": 0
       }
     }
   ]
