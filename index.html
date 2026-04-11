@@ -4,7 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#f5f0e8">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <title>7人からの手紙。</title>
+<link rel="manifest" href="manifest.json">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="app.css?v=0.1.0">
 </head>
@@ -39,6 +42,15 @@
     <div class="footer-copy">&copy; おはようカノジョ / hasyamo</div>
     <div class="footer-version">v0.1.0</div>
   </footer>
+</div>
+
+<!-- Update Modal -->
+<div id="updateModal" class="modal-overlay" style="display:none">
+  <div class="modal-box">
+    <div class="modal-title">アップデート</div>
+    <div id="updateBody" class="modal-sub" style="white-space:pre-wrap;margin-bottom:20px"></div>
+    <button id="updateCloseBtn" class="modal-btn">OK</button>
+  </div>
 </div>
 
 <script src="app.js?v=0.1.0"></script>

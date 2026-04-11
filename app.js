@@ -17,20 +17,96 @@ let currentIndex = -1;
 const templateCache = {};
 const expandedGroups = new Set();
 
+const STORAGE_KEY_USER = 'seven-letters-user';
+
 // === Init ===
 document.addEventListener('DOMContentLoaded', () => {
-  loadLetters();
+  init();
   document.getElementById('backToGrid').addEventListener('click', showGrid);
   document.getElementById('prevLetter').addEventListener('click', () => navigateLetter(-1));
   document.getElementById('nextLetter').addEventListener('click', () => navigateLetter(1));
 });
 
-// === Data Loading ===
-async function loadLetters() {
-  // TODO: クリエイター選択UI。仮でURLパラメータから取得
+// === Auth ===
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  if (lines.length < 2) return [];
+  const headers = lines[0].split(',');
+  return lines.slice(1).map(line => {
+    const obj = {};
+    headers.forEach((h, i) => { obj[h.trim()] = (line.split(',')[i] || '').trim(); });
+    return obj;
+  });
+}
+
+function showUserSelectModal(creators) {
+  return new Promise(resolve => {
+    const modal = document.createElement('div');
+    modal.className = 'modal-overlay';
+    modal.innerHTML = `
+      <div class="modal-box">
+        <div class="modal-title">7人からの手紙。</div>
+        <div class="modal-sub">あなたのnote IDを入力してください</div>
+        <input id="userInput" type="text" placeholder="例: hasyamo" class="modal-input">
+        <div id="userError" class="modal-error"></div>
+        <button id="userSubmit" class="modal-btn">はじめる</button>
+      </div>`;
+    document.body.appendChild(modal);
+
+    const input = document.getElementById('userInput');
+    const error = document.getElementById('userError');
+    const submit = document.getElementById('userSubmit');
+
+    function trySubmit() {
+      const val = input.value.trim();
+      if (!val) { error.textContent = 'IDを入力してください'; error.style.display = 'block'; return; }
+      if (creators && !creators.includes(val)) {
+        error.textContent = 'メンバーシップに登録されていないIDです。';
+        error.style.display = 'block';
+        return;
+      }
+      localStorage.setItem(STORAGE_KEY_USER, val);
+      modal.remove();
+      resolve(val);
+    }
+
+    submit.addEventListener('click', trySubmit);
+    input.addEventListener('keydown', e => { if (e.key === 'Enter') trySubmit(); });
+    input.focus();
+  });
+}
+
+async function init() {
   const params = new URLSearchParams(location.search);
-  const creator = params.get('c') || 'hasyamo';
-  const year = params.get('y') || new Date().getFullYear();
+  let urlname = params.get('user') || '';
+
+  if (!urlname) {
+    urlname = localStorage.getItem(STORAGE_KEY_USER) || '';
+  }
+
+  // Load creators list
+  let creators = null;
+  try {
+    const res = await fetch('./data/creators.csv?t=' + Date.now());
+    if (res.ok) {
+      creators = parseCSV(await res.text()).map(r => r.urlname).filter(Boolean);
+    }
+  } catch(e) {}
+
+  // Validate or prompt
+  if (!urlname || (creators && !creators.includes(urlname))) {
+    localStorage.removeItem(STORAGE_KEY_USER);
+    urlname = await showUserSelectModal(creators);
+  } else {
+    localStorage.setItem(STORAGE_KEY_USER, urlname);
+  }
+
+  loadLetters(urlname);
+}
+
+// === Data Loading ===
+async function loadLetters(creator) {
+  const year = new Date().getFullYear();
 
   try {
     const res = await fetch(`./data/${creator}/letters/${year}.json?t=${Date.now()}`);
@@ -353,7 +429,7 @@ function renderComments(letter) {
   const comments = letter.comments;
   if (!comments || comments.length === 0) return '';
 
-  const creatorUrl = new URLSearchParams(location.search).get('c') || 'hasyamo';
+  const creatorUrl = localStorage.getItem(STORAGE_KEY_USER) || 'hasyamo';
 
   // 人ごとにグルーピング
   const byUser = {};
@@ -474,3 +550,30 @@ function markOpened(week) {
     localStorage.setItem(OPENED_KEY, JSON.stringify(opened));
   }
 }
+
+// === Service Worker ===
+const APP_VERSION = '0.1.0';
+const VERSION_KEY = 'seven-letters-version';
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register(`./sw.js?v=${APP_VERSION}`);
+}
+
+// === Version Update Notification ===
+function checkVersionUpdate() {
+  const lastSeen = localStorage.getItem(VERSION_KEY);
+  if (lastSeen && lastSeen !== APP_VERSION) {
+    const modal = document.getElementById('updateModal');
+    document.getElementById('updateBody').textContent =
+      '新しいバージョンに更新されました。';
+    modal.style.display = '';
+    document.getElementById('updateCloseBtn').addEventListener('click', () => {
+      localStorage.setItem(VERSION_KEY, APP_VERSION);
+      modal.style.display = 'none';
+    }, { once: true });
+  } else {
+    localStorage.setItem(VERSION_KEY, APP_VERSION);
+  }
+}
+
+checkVersionUpdate();
