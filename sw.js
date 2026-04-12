@@ -1,4 +1,4 @@
-const CACHE_NAME = 'seven-letters-v0.1.0';
+const CACHE_NAME = 'seven-letters-v0.1.1';
 
 self.addEventListener('install', () => {
   self.skipWaiting();

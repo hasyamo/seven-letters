@@ -553,7 +553,7 @@ function markOpened(week) {
 }
 
 // === Service Worker ===
-const APP_VERSION = '0.1.0';
+const APP_VERSION = '0.1.1';
 const VERSION_KEY = 'seven-letters-version';
 
 if ('serviceWorker' in navigator) {
