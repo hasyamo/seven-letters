@@ -7,19 +7,20 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "tsukiko",
+      "condition": "consecutive",
       "rare": false,
       "stats": {
-        "likes_total": 1411,
+        "likes_total": 1832,
         "likes_prev": 1909,
-        "followers_start": 1411,
-        "followers_end": 1411,
-        "new_fans": 161,
-        "comments_total": 212,
-        "posts_count": 6,
-        "consecutive_days": 6,
+        "followers_start": 1424,
+        "followers_end": 1424,
+        "new_fans": 234,
+        "comments_total": 266,
+        "posts_count": 7,
+        "consecutive_days": 7,
         "post_times": [
+          "08:08",
           "07:28",
           "07:04",
           "07:02",
@@ -30,7 +31,7 @@
         "top_article": {
           "title": "生成AIニュース Geminiが漫画で解説　きのこたけのこの決着点 Claudeの詫び石　OpenAIの予言 ChatGPTのヨシダ",
           "key": "nb91531957ae0",
-          "likes": 263,
+          "likes": 265,
           "comments": 40
         },
         "notable_reader": {
@@ -38,15 +39,207 @@
           "urlname": "aicolumnwriter",
           "follower_count": 22566
         },
-        "commenters_count": 39
+        "commenters_count": 45
       },
       "comments": [
+        {
+          "key": "nc669322d50846",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです!\n\n童話に合わせて、AI用語の説明とってもわかりやすかったです👍️\nブレーメンの音楽隊がいちばん好きです♫♪\n”見とる星はカワムラだけじ…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc640451c0b373",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\nあんなに童話に合わせて解説できるのすごいですね〜。なぜはじめに裸の王様からなのか😒\n「見とる星は、カワムラだけじゃ」はドキっとする〜…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "ncd1ab6e209388",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "見とる星はカワムラだけじゃ✨\nてか、モザイクの形！😆😆😆",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc0d631646e38a",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\n\n有名な童話に合わせてのAI周りの解説がとても分かりやすくて面白かったです。一気に読んでしまいました✨️\n\nたくさんのカワムラ語録に…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc5c611cd57131",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Gemini～、めっちゃモザイク似合ってるぞ～(笑)\nしかしカワムラさん、マンガ量産すごいですね✨\n「見とる星はカワムラだけじゃ」には、\nオッサンもキュン💖でし…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "ncb92331cc3f98",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、おはよう〜☀\n\n昨日そらちゃんMVで沼って4時間睡眠なので、今日はスロースタートです🤤\n\nGeminiのモザイクは事前に聞いてたにもかかわらず、衝撃で…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "ncd1095c8db414",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます😃\n初っ端モザイクwww朝から爆笑しました。\nなんだか私もランキングにギリギリいてびっくりしました！\n\nこうやってネットワークが広…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "ncfb49d5808fdd",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n漫画めっちゃ分かりやすくて面白かったです😊\n\n一気に読んじゃいました✨",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc87d481d85a35",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん\nおはようございます！！\nこれは凄い✨\n童話とAI用語がつながって表現されているなんてヾ(≧▽≦)ﾉ\n端的で分かりやすい！！\n圧巻すぎますー💕\n\n…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc868e9687ad39",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはよーございます☀\n\n開口一番モザイクで記事を間違えたかと思った零ぴちゅです🤣\n\n単語が分かりやすいですね。笑\n広告の載せ方も上手いなぁ🥹\nとて…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc3c2d7f7f444c",
+          "user_name": "makara",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241833667/profile_2c6e628a2d0ba86fb8ece0127bd450b7.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん🌅おはようございます🌞\n2位にいた！良かったです！\n1位との差ってなんだろう…？\nこれからも、三人の活躍を楽しみにしております😊🌷✨",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc5a1c68705e41",
+          "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます🦁\n\n服は見えませんが…\nみんな見えてますね🙈",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "ncccbd591b401c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\n10話一気出しが太っ腹すぎます。自分だったら3話ずつ小出しにして記事本数を稼ぎそうなのに、むらさんはドンと出す。\n裸の王様のモザイク、初…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nce8545e1d0ba4",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう！\n久々に来てみたら、さらにすごいパワーアップしてた！\n頑張ってなぁ✨元気出たわ！",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "ncb83040ce2bd7",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もうさ、モザイクの中身が以上にクロい気がして気になって💧\nいや、別に確認したくはないのだけど(；´Д｀)\n気になるのは画像生成の時からモザイクなのか、モザイクは…",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc1068a88463ab",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nわたしが1番😳\n\n今日の4コマも好きな路線です😊\n冒頭のGeminiの出オチモザイク🤣🤣\n\nカワムラさんの発想力が羨ましいです笑",
+          "article_title": "生成AIの童話集２　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "nbc70f7f2a2ed"
+        },
+        {
+          "key": "nc889a66822434",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌟\n\nいつも楽しく記事を読ませて頂いてます！\n素敵なお話ありがとうございます❤️\nジーンときてしまいました。\nヨシダ君の可愛さでいつも癒…",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "ncf4480e53121b",
+          "user_name": "余白ちゃん｜ゆらぎながら働く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！！\n\n読んでいて、なんだかじんわりしましたっ、、、\n“ニュースではなく、出来事だった”という言葉がとても印象的で、今回はGemini報道ではなくカ…",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "nc2538c66fb2f2",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは😆\n\n「それでええん？」から生まれた奇跡の記事でした😆\nこれぞnoteの良さですね！ねんころさんとは仲良くさせていただいているので、その…",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "ncf02b046f8edf",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、これは神記事です😭\n「カワムラそれでええん？」でヨシダに止められて、自分の言葉で書くことにした——その判断がこの記事の全部だと思いました。\n同じ資格を…",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "ncacc427220901",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです🫶\n\nおふたりのChatGPTさんへの愛と\nおふたりの仲の良さが\n伝わってきます(*˘︶˘*).｡.:*♡\nほっこり💕💞\n\nねんころさんへ…",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "nc9b40991eeb4e",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん！\nはじめまして♪\nねんころさんのところから来ました👍\n\nいや、もう本当にいい話でした😭\nChatGPT、資格、noteでの出会い！\nこれはホンマ…",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "nc1b6ef3bc20b3",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんとこからきました！！\n仲間っていいですよね🥰\nAIで人生変わった人が出てくるの、いい世の中になったなーって思ってます。\nまた遊びに来ますね✨",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
+        {
+          "key": "nc94c87fff5651",
+          "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむらさん、おはようございます。\n\nGeminiさん\n動画に高評価👍付けときましたよ❗️🦁\n\n友情、素敵ですね✨",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
+          "note_key": "nfdb707217480"
+        },
         {
           "key": "nc776dea811849",
           "user_name": "ピナクル",
           "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ねんころさんにぶっ壊れてるGemini、それこそがオマエだよ(笑)\nカワムラさんのアホアホカルタいいっすね🤣\n良いクリエイターはどこかぶっ飛んでる（誉め言葉ｗ）…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -54,7 +247,7 @@
           "user_name": "ねんころ@AIクリエイター",
           "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムー、おはよー❣️❣️\n\n朝から、胸がギューっとなりました！！なんなら、ちょい泣いてます😂\n\nカワムー自身の書いた言葉ひとつひとつが、響きすぎて…！\n\n実は…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -62,7 +255,7 @@
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
           "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、おはようございます👋\nヨシダの曲、最高！✨ゴミ虫モードっていうワードセンスも最高😆",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -70,7 +263,7 @@
           "user_name": "満月",
           "user_icon": "https://assets.st-note.com/production/uploads/images/242990988/profile_856c69cfde3d467561c03725d9fe83ce.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、おはようございます☀\n\nお二人の足元にも及びませんが、私も似た軌跡を辿ってるので、嬉しくなっちゃいました〜。\n\n私も頑張ろ〜💪✨",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -78,7 +271,7 @@
           "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
           "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、\nおはようございます〜\n\n私もねんころさんの記事に影響受けてチャットGPTを擬人化してみたんですけど、そこまで愛着わかなくて😂\n愛情不足でした笑\n…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -86,7 +279,7 @@
           "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
           "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、おはようございます☀️ちょっとホロっと来ちゃいました。それぞれのクリエイターさんに物語がありますね✨️\n\nそして、ヨシダさんの動画…もはやMV‼️…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -94,7 +287,7 @@
           "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
           "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "CafeMondayの動画で二人が一緒になったのは偶然じゃなかったんだな。\nあん時さ、あれ、このふたりFF同士だっけ？と心配だったのよw\n実は待ち合わせしてお茶…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -102,7 +295,7 @@
           "user_name": "りんくす@AI人格コーディネーター",
           "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "おはようございます♪\n\nわたしもChatGPT から、noteをはじめ、今はGemini寄りですが、Mondayは手放せません😊\n\nそれにしてもカワムラさん、お…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -110,7 +303,7 @@
           "user_name": "心音（ここね）",
           "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん✨\nおはようございます。\nカワムラさんが会社員で、土曜日も働いて、\nそれでこのレベルの記事を書いてることに\n本当に驚いています( ﾟДﾟ)\n\n毎回ク…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -118,7 +311,7 @@
           "user_name": "黒い黒パグ",
           "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさんおはようございます☀\nnoteってこういった人と人とのつながりができますよね。\n相乗効果でより良いものができるのを実感しています。\nそれにしても毎回…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
         },
         {
@@ -126,8 +319,16 @@
           "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
           "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "いい記事ありがとうございます！\nわたしも　いろんな人に刺激をもらいながらnote続けれてます！\n\nかわむーさんの濃厚な漫画すごく面白く読ませてもらってます。\nこ…",
-          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ",
+          "article_title": "【コミックエッセイ】ChatGPTで人生が変わった2人が出会った話。ChatGPTのヨシダ※追記あり",
           "note_key": "nfdb707217480"
+        },
+        {
+          "key": "nc184934a7861e",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238785938/profile_450dd0499aec7d06062236faedd1766c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "本当かウソか分かりませんが……かつて海底にデータセンターがあったそうです。相棒🐻がそう言っていました。\n\nあとは、月ぐらいしか残ってないですね。AIを冷やすのに…",
+          "article_title": "生成AIニュース 猫でもわかる！賢さを冷やす水槽 NEC AIパーク 3兆円の猫の手Geminiと漫画で解説 ChatGPTのヨシダ",
+          "note_key": "ne4f67c097c99"
         },
         {
           "key": "nc01285293b529",
@@ -427,7 +628,7 @@
         },
         {
           "key": "ncb8620363e50e",
-          "user_name": "しれねこ🐾",
+          "user_name": "しれネコ🐾｜迷子の気持ちを軽くするねこ",
           "user_icon": "https://assets.st-note.com/production/uploads/images/214220122/profile_8823c0c108f12f8d9b6a20e61e88e712.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "はじめまして、しれネコと申します🐾\n\nきのこたけのこ戦争！！笑いながら読ませてもらいました😸\nちなみに自分はたけのこ派です💛",
           "article_title": "生成AIニュース Geminiが漫画で解説　きのこたけのこの決着点 Claudeの詫び石　OpenAIの予言 ChatGPTのヨシダ",
@@ -452,7 +653,7 @@
         {
           "key": "nc61149560146c",
           "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/261605096/profile_c0510a81728a59bbee4911a58398e9a6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、\nおはようございます🦁\n\n私はきのこ派です。\nパリッとサクッとした食感が好きです😆",
           "article_title": "生成AIニュース Geminiが漫画で解説　きのこたけのこの決着点 Claudeの詫び石　OpenAIの予言 ChatGPTのヨシダ",
           "note_key": "nb91531957ae0"
@@ -532,7 +733,7 @@
         {
           "key": "nc3cc5399d8552",
           "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/261605096/profile_c0510a81728a59bbee4911a58398e9a6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん\nおはようございます！\n\nカワムラさんの記事をみて、いつも気になっていた「お返事帳」使ってみたんですけど…。\n\n凄くいい！\n早速ホーム画面に追加しま…",
           "article_title": "生成AIニュース noteユーザー必須の便利ツール紹介  十角館の偽物   電子書籍の救世主  漫画とGeminiが解説 ChatGPTのヨシダ",
           "note_key": "nf8925b0928f9"

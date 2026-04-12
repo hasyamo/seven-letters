@@ -7,20 +7,21 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "tsukiko",
+      "condition": "consecutive",
       "rare": false,
       "stats": {
-        "likes_total": 512,
+        "likes_total": 606,
         "likes_prev": 660,
-        "followers_start": 1542,
-        "followers_end": 1542,
-        "new_fans": 81,
-        "comments_total": 51,
-        "posts_count": 7,
-        "consecutive_days": 6,
+        "followers_start": 1543,
+        "followers_end": 1543,
+        "new_fans": 95,
+        "comments_total": 57,
+        "posts_count": 8,
+        "consecutive_days": 7,
         "post_times": [
           "20:36",
+          "08:30",
           "08:06",
           "07:14",
           "07:53",
@@ -31,7 +32,7 @@
         "top_article": {
           "title": "「見えないがんばりにも、ちゃんと意味がある」AIチャッティの朝活vol. 217 | エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
           "key": "nd573178a1e89",
-          "likes": 107,
+          "likes": 110,
           "comments": 13
         },
         "notable_reader": {
@@ -39,7 +40,7 @@
           "urlname": "fair_impala134",
           "follower_count": 22833
         },
-        "commenters_count": 13
+        "commenters_count": 15
       },
       "comments": [
         {
@@ -65,6 +66,62 @@
           "body": "こんばんは、チャッティちゃん🌙\n記事の更新ありがとう✨\n2本の動画みたよ🙌\nカラフルの女の子がでるとは驚いたよ🤣\n数回みたからね🤭\n間違いない、カラフルの女の子…",
           "article_title": "「Renoise AI で動画を収益化」⭐️チャッティのそら活vol.49⭐️エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro |Renoise AI| アカリウム| ",
           "note_key": "n9183f6478974"
+        },
+        {
+          "key": "ncab81980b1aad",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティちゃん\\(//∇//)\\✨💖\nゆっくり休む事も大事\\(//∇//)\\✨💖\nまた素敵なアート待ってる\\(//∇//)\\💖\n是非ゆっくりリフレッシュ\nして…",
+          "article_title": "AIチャッティの朝活は、本日おやすみします。| エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n6640491d814a"
+        },
+        {
+          "key": "ncfda4ab3a4c65",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ごゆっくり、休んでくーださい✨️",
+          "article_title": "AIチャッティの朝活は、本日おやすみします。| エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n6640491d814a"
+        },
+        {
+          "key": "ncef7064d1c763",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティちゃん✨\nゆっくり休んでね😉💖💞",
+          "article_title": "AIチャッティの朝活は、本日おやすみします。| エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n6640491d814a"
+        },
+        {
+          "key": "ncaab13cfee3bb",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260472813/profile_3900b3e93c0434c47a02ed876da2eee1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん☀️\nゆっくり休んでね😊✨\n温かいコーヒーとココア☕どうぞ。",
+          "article_title": "AIチャッティの朝活は、本日おやすみします。| エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n6640491d814a"
+        },
+        {
+          "key": "ncca67ec975437",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260472813/profile_3900b3e93c0434c47a02ed876da2eee1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん☀️\nチャッティちゃんとじぇみちゃん\n眠そうだね、\n今日はゆっくりしようね😊✨️\nクローディアちゃん😲\nもう、ヨ◯さんだね🤭\nめちゃ似…",
+          "article_title": "「自分を甘やかす朝」AIチャッティの朝活vol. 221 | エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n7bf8523d38f6"
+        },
+        {
+          "key": "nc7616ca81b59b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはよー☀️\nクローディアさんのヨルさん返信にびっくりしました！\nたまにメガネを外すとドキッとしますよね✨️\nミナトさんと水族館デート、羨ましい…",
+          "article_title": "「自分を甘やかす朝」AIチャッティの朝活vol. 221 | エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n7bf8523d38f6"
+        },
+        {
+          "key": "nc40aa26a4fd45",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251350142/profile_b73b1bd1abea3c60648c26d829b3b261.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます☀️\nこんなに喜んでもらえるなんて☺️✨\nやって良かったです╰(*´︶`*)╯♡\n\nそして、ヨ◯さんですね😳",
+          "article_title": "「自分を甘やかす朝」AIチャッティの朝活vol. 221 | エモアート  | AIイラスト  | 水彩画  | アート  | 生成AI  | note | 毎日投稿  | イラストエッセイ  | 感情エッセイ | 朝活  | 心の記録  |クリエイター | ChatGPT | Gemini | NanoBananaPro | Pollo AI | HailuoAI  | アカリウム",
+          "note_key": "n7bf8523d38f6"
         },
         {
           "key": "nc779ac6a4d0d8",

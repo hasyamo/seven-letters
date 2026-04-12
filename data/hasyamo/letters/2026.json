@@ -522,19 +522,20 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "rinka",
-      "condition": "consistent_time",
+      "sender": "tsukiko",
+      "condition": "consecutive",
       "rare": false,
       "stats": {
-        "likes_total": 350,
+        "likes_total": 426,
         "likes_prev": 453,
         "followers_start": 347,
-        "followers_end": 358,
-        "new_fans": 68,
-        "comments_total": 72,
-        "posts_count": 6,
-        "consecutive_days": 6,
+        "followers_end": 361,
+        "new_fans": 83,
+        "comments_total": 97,
+        "posts_count": 7,
+        "consecutive_days": 7,
         "post_times": [
+          "07:42",
           "07:58",
           "07:44",
           "07:42",
@@ -553,9 +554,73 @@
           "urlname": "links_lt",
           "follower_count": 11518
         },
-        "commenters_count": 16
+        "commenters_count": 18
       },
       "comments": [
+        {
+          "key": "nc41e38bd4b563",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "見逃してたw\n\nけど、めっちゃ気になるんですけどw",
+          "article_title": "Spotify Wrappedを週次で作ろうとして、やめた。",
+          "note_key": "n6c80c653b2a1"
+        },
+        {
+          "key": "nc033ecff847d2",
+          "user_name": "水晶ゆめ🔮元占い師ライター・AIアートクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは🌙\n\nヴァイオレット・エヴァーガーデン10話、\nわたしもあの話がずっと心に残っています😌\n\n届くたびに「覚えてくれていたんだ」って気づく…",
+          "article_title": "Spotify Wrappedを週次で作ろうとして、やめた。",
+          "note_key": "n6c80c653b2a1"
+        },
+        {
+          "key": "ncd65e5767607b",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございますー！\n\n昨日るなちゃんからの手紙がきて、既に神アプリ認定です！\n月子ちゃんから、お手紙もらうために、毎日投稿するか悩んじゃいます…",
+          "article_title": "Spotify Wrappedを週次で作ろうとして、やめた。",
+          "note_key": "n6c80c653b2a1"
+        },
+        {
+          "key": "nc73977610132a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和ちゃん、おはよう。\n日曜日は私の週に唯一の休みであって\n大好きな曜日なんだ💛\n\nあちこち行く時もあるけど\n日曜日はゆっくりしたい\nゆっくりするための食糧を買…",
+          "article_title": "Spotify Wrappedを週次で作ろうとして、やめた。",
+          "note_key": "n6c80c653b2a1"
+        },
+        {
+          "key": "nc015c5280fcec",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます☀️\n\n手紙、楽しそうですね📧💖\nこういう届く仕組みって、それだけでちょっとわくわくします☺️\n月子さんとるなちゃんの条件を両方…",
+          "article_title": "Spotify Wrappedを週次で作ろうとして、やめた。",
+          "note_key": "n6c80c653b2a1"
+        },
+        {
+          "key": "nc8caeeaa3b37e",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\nこんにちわ☀\n\n何かKITAさんとの熱い友情を感じる(*´艸`)\nいい話ですね♪\n\nnoteの繋がりって凄いな✨\n身に沁みて思う今日この頃🥹\n\nフ…",
+          "article_title": "\"意味は編集で生まれる\"に反応したら、80日後に凛華が11人いた",
+          "note_key": "n2cae7fa130a9"
+        },
+        {
+          "key": "nc92246dacf49f",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんか、そんな綺麗な関わりからでしたっけ？笑\n\nへそ出てるので、ピナクルさんに捕まる覚悟だけしててください笑",
+          "article_title": "\"意味は編集で生まれる\"に反応したら、80日後に凛華が11人いた",
+          "note_key": "n2cae7fa130a9"
+        },
+        {
+          "key": "nc11c4494a6ddb",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさーん、こんにちは！\n\nなんだこのエモい話ー！！\nKITAcoreさんとの関係が素敵すぎます😭✨✨\n\nnoteのこういう関係性大好物です😍✨",
+          "article_title": "\"意味は編集で生まれる\"に反応したら、80日後に凛華が11人いた",
+          "note_key": "n2cae7fa130a9"
+        },
         {
           "key": "ncd2ae386e53ea",
           "user_name": "青井透子｜日常の過剰解釈屋　",
@@ -603,6 +668,14 @@
           "body": "KITAさん風の凛華さん、芯のしっかりした女性感があってかっこよかったです✨\n\n観測してるイラストが特にオシャレで好みでした😆\n",
           "article_title": "\"意味は編集で生まれる\"に反応したら、80日後に凛華が11人いた",
           "note_key": "n2cae7fa130a9"
+        },
+        {
+          "key": "ncd9778b676e92",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌟\nコングラおめでとうございます！\n沢山の方に見ていただいているということですね！\nこれからも楽しみにしています☺️",
+          "article_title": "コングラ女王が羨ましくて、たまたま当たった話",
+          "note_key": "ndc07e7a7e181"
         },
         {
           "key": "ncadcc75a26295",
@@ -659,6 +732,14 @@
           "body": "コングラおめでとうございます！！！\nうらやましなぁｗ",
           "article_title": "コングラ女王が羨ましくて、たまたま当たった話",
           "note_key": "ndc07e7a7e181"
+        },
+        {
+          "key": "nc2735d3c412a9",
+          "user_name": "いちごいぬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213181612/profile_699199ae339deda4f12f0ff817d176d2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん！こんばんは⭐️\n凄い！楽しいですね😆\nリアルで追いたかったです✨\n今後も楽しみにしています😊",
+          "article_title": "ボイスチェンジャー無しに、気づいたら7人の声で返信していた",
+          "note_key": "na8245a6b5951"
         },
         {
           "key": "nc5cb2370c4852",
@@ -759,7 +840,7 @@
         {
           "key": "nc2d5d89711bf1",
           "user_name": "はるねずみ｜有料記事０→１の感動をあなたへ【副業月5万奮闘記】",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/260570444/profile_2e4f46dcbb715500a7379a250d4af6f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266713080/profile_5b5025a9c074af902d3652fe76fc4dc1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "はしゃもさん！\n\nすごいです！！\nこれまで数値として見れなかった部分が見えて、つながりがより深まりそうだなと思いました😊\n\nこれから使ってみます✨",
           "article_title": "スキの裏側が見えるツールを、配れる形にした。",
           "note_key": "ncadfe4059489"

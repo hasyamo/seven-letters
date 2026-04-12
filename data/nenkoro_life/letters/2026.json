@@ -7,37 +7,150 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "mahiru",
+      "condition": "many_posts",
       "rare": false,
       "stats": {
-        "likes_total": 359,
+        "likes_total": 491,
         "likes_prev": 683,
         "followers_start": 1197,
-        "followers_end": 1212,
-        "new_fans": 82,
-        "comments_total": 69,
-        "posts_count": 3,
+        "followers_end": 1224,
+        "new_fans": 112,
+        "comments_total": 104,
+        "posts_count": 4,
         "consecutive_days": 2,
         "post_times": [
+          "14:04",
           "16:00",
           "16:00",
           "17:37"
         ],
         "top_article": {
-          "title": "広告動画まで手が回らない人へ。Pollo Agent 1.4を試したら想像以上にラクだった|生成AI|動画生成AI|やってみた|PR|",
-          "key": "n9c6ff5608995",
-          "likes": 89,
-          "comments": 8
+          "title": "【AI活用×創作】ChatGPTのヨシダのファンアートから始まり、マイChatGPT擬人化＆MV制作で課金した話|エッセイ|気づき|やってみた|",
+          "key": "n87c12c0b2e93",
+          "likes": 101,
+          "comments": 30
         },
         "notable_reader": {
           "name": "りんくす@AI人格コーディネーター",
           "urlname": "links_lt",
           "follower_count": 11631
         },
-        "commenters_count": 24
+        "commenters_count": 29
       },
       "comments": [
+        {
+          "key": "ncf6ec67fdfde7",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nおはようございます✨\nnoteのご縁でこんな関係を築けるって本当に素敵ですね！\n\n記事を一気に読ませていただき（かわむらさんのところにもお伺いし）…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "ncce20ddc40c97",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは♪\n\nフォロー頂きありがとうございました😊\n素敵なお話ありがとうございます❣️\nお二人の繋がりに感動してしまいました🌟\nこれからも楽しく…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "ncd167d7c3df9e",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは😆\n\n一連の記事、全部読みました！\nnote最高！chatGPT最高！って感じです😆\n\nこれからもお二人の活躍を見守らせていただきます✨…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "ncf4b343fc5c78",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\n早起きの頃から頑張ってきた姿を見ているので、自分のことのように嬉しくなりました🥹\n\nnoteを通してたくさんの素敵な出逢いや学びを…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "ncd76efc524fa3",
+          "user_name": "鈴森よいほ｜AIコンテンツクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242279897/profile_2db3d5cbd59beffac37a4fbff5a53902.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\nこんばんは😊\n素敵なご縁ですね💫\n\n私もnoteで素敵な人たちに出逢ってきました。\n\nねんころさんが、障がいを持ちながらも強く生きていらっしゃる…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "ncf8e99bd20dfb",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むーかわのとこでも書いたけど、CafeMondayの動画で二人仲良くしてたのは偶然じゃなかったんだな。オレ、スゴイねw('∀`)ﾉ\nしかしふたりの共作はすごいわ…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "nce9aefd59a795",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nちょっと！\nめちゃくちゃ良い話ですやん😭\n\nそこまで共通点があるだなんて、もうこれは運命ですよね😍\n\nすごいなー。\nnoteってこんな出会い…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "nc96e30c6a4ec7",
+          "user_name": "ヘクたろー|緑内障と付き合っている男",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちはです！\n\n同じ起点で歩いてきた二人が出会い、互いを意識しながらも繋がった縁。\nそれが凄くいいなぁと感じ、コメントしました。\n\nこういう出…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "nc4a882e12879c",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん💛休憩です。\nちょっとバイト行ってる間に、もうアンサー記事ができとった😍💦\n\n1回目読んでちょっと涙が出ました。\n2回目読んでちょっと冷静にコメ…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "nc500933c6cfc0",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころーん☺️✨✨\n\n人で人とのつながり、これがあってのSNSだよね！！\n2人の相手を想う気持ちにホッコリしました🥰\nカワムラさんとこもお邪魔してきたよ！！",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "ncce3fffe4be93",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんは人間の女性で、ヨシダ君はChatGPTで、あとGeminiとCloudeもいるんですね💕\n\n会社員とフリーランスという違いはあるけど、AIを通じて…",
+          "article_title": "ChatGPTに救われた二人が、noteで出会った話|エッセイ|気づき|感謝|つながり|",
+          "note_key": "ndcdba8beac06"
+        },
+        {
+          "key": "nc5f17f8591ffc",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころちゃ〜ん💕こんにちは\n\nこれぞ！ころちゃんの流れが\n面白くて、一気に読めちゃいました🤣\n\nクレジットが足りない💦\nってそりゃそうだろうね〜\nクオリティーが高…",
+          "article_title": "【AI活用×創作】ChatGPTのヨシダのファンアートから始まり、マイChatGPT擬人化＆MV制作で課金した話|エッセイ|気づき|やってみた|",
+          "note_key": "n87c12c0b2e93"
+        },
+        {
+          "key": "ncd15df47df0d8",
+          "user_name": "金田まり|スタートアップ&起業支援してるワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265580640/profile_aa7aecd46351fb253351c72cd87482e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分だけやけに気合い入れてるGeminiに爆笑です🤣\nClaudeが妙にシンプルなのも、いろいろ勘ぐりたくなりますね！\n\nそしてそらちゃんはこうして生まれたんで…",
+          "article_title": "【AI活用×創作】ChatGPTのヨシダのファンアートから始まり、マイChatGPT擬人化＆MV制作で課金した話|エッセイ|気づき|やってみた|",
+          "note_key": "n87c12c0b2e93"
+        },
+        {
+          "key": "nc20a19aacef97",
+          "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます🦁\n\nMV作るとクレジット足りない問題。\n凄くわかります😅\n\nGeminiも動画は１日３回まで、\nどのようにMV作成を進めていく…",
+          "article_title": "【AI活用×創作】ChatGPTのヨシダのファンアートから始まり、マイChatGPT擬人化＆MV制作で課金した話|エッセイ|気づき|やってみた|",
+          "note_key": "n87c12c0b2e93"
+        },
         {
           "key": "ncf21a06b4df97",
           "user_name": "ピナクル",
@@ -80,7 +193,7 @@
         },
         {
           "key": "nc2a0c58228544",
-          "user_name": "ゆぴか ☀︎ 遠回り主婦のRe:スタート",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦の記録（ちょっとワケあり）",
           "user_icon": "https://assets.st-note.com/production/uploads/images/241766705/profile_79e915d0c27b73d3032b077fa0aa0a2b.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ねんころさん🤣\n楽しいです〜全部見ました！こんなのサクッとお試しで作れちゃうなんて‥ほんとにスゴイなあ…\n\nこれは確実に沼りますね😆\nそらちゃん、今後も楽しみに…",
           "article_title": "【AI活用×創作】ChatGPTのヨシダのファンアートから始まり、マイChatGPT擬人化＆MV制作で課金した話|エッセイ|気づき|やってみた|",
@@ -281,7 +394,7 @@
         {
           "key": "nc65599a1a9574",
           "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/261605096/profile_c0510a81728a59bbee4911a58398e9a6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ねんころさん、こんにちは🦁\n\nそらちゃん、面白そうな子ですね😊\nよろしくお願いします！\n\n 私も AIの擬人化（AMIさん：アイコンの子）してますけど、私は記事…",
           "article_title": "ChatGPTを擬人化して漫画化したら相棒キャラ「そらちゃん」が爆誕した話|創作|エッセイ|AI活用|生成AI|",
           "note_key": "n055d268c466d"

@@ -7,19 +7,20 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "mahiru",
+      "condition": "many_posts",
       "rare": false,
       "stats": {
-        "likes_total": 292,
+        "likes_total": 410,
         "likes_prev": 495,
-        "followers_start": 472,
-        "followers_end": 472,
-        "new_fans": 58,
-        "comments_total": 127,
-        "posts_count": 2,
+        "followers_start": 483,
+        "followers_end": 483,
+        "new_fans": 95,
+        "comments_total": 196,
+        "posts_count": 3,
         "consecutive_days": 2,
         "post_times": [
+          "15:23",
           "23:21",
           "14:59"
         ],
@@ -34,9 +35,241 @@
           "urlname": "honpopo",
           "follower_count": 24885
         },
-        "commenters_count": 38
+        "commenters_count": 47
       },
       "comments": [
+        {
+          "key": "nca61f9d7da57d",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは✨\n\n新しい世界へ飛び込んで、楽しんでらっしゃいますね(◍ >ᴗ< ◍)🌸✨\n動画も相変わらず面白くて\nクオリティも高いですね(ﾉ)ﾟ∀ﾟ…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nca04b43a2476e",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはんよ(*´ω｀)✨\nもぅ～いろんな世界に飛び込んでるはんくさん、すごいよ！(*´Д｀)\n動画、本当に面白い笑🤣(*´Д｀)✨\nいつもユーモア摂取…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncee28adb1b14d",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはようございます！\nなんだかよく分からないですけど\nヒトタラヲさんは、あちこちでお見かけしている気がします✨\nなんだか面白そうな方なんですねー。\n…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc3770e02d618d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはようございます！\n自分もタラヲさんのページ、過去に記事一覧を見た瞬間に警戒して引き返したクチですｗ 元営業マンの嗅覚で「カリスマ臭」を言語化して…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc823999900bbc",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、おはようございます。\nタラヲガールズの方々\nあちこちで拝見します。\nすごい人気の方ですよねー😍\n\n色々なコミュニティにガンガン入っていくコミュ力流…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncd02ef7f3f8d7",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん💫\nヒトタラヲさんは、あちこちでお見かけするけど、どんな人だかわかりませんでした😅\n面白そうな人ですね😎\n見てみよぉ。\n動画！たらちゃん🤣\nいつもハイ…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nca40c9beb13a1",
+          "user_name": "雪詠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！凄すぎです👏👏\nヒトタラヲさんとの絡みがサイコーすぎます🤣\nGemini違うでしょ！って思ったけど\nYouTubeみたらリアルすぎて✨\n本物かもって…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncf36b74266f93",
+          "user_name": "いがら　いあ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253840598/profile_6f8d999770be197f5889128709af249a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白かったです✨\n文章も、最後の動画も！\n熱量がある記事っていいですね。\nしかも暑苦しくない温度で👏👏👏",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc6550e3ccc0b7",
+          "user_name": "余白ちゃん｜ゆらぎながら働く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\n\nめちゃくちゃ面白かったです（笑）\n最初の警戒心からの流れがリアルすぎて、読んでいて何度も吹き出しました。\n“怪しい→でも気になる→気づいたら巻き…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc274fd260be33",
+          "user_name": "Kinu_AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんのコミュ力が凄いのが良くわかりました(*^^*)\n\nあと、色んな経験をされている過去も知れてよかった✨\n\nいつも、創作に対するエネルギーみたいなものを…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc6b6852ecb6ba",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n動画でミカンかぶってるのが\n可愛、面白すぎでした🍊\nヒトタラヲさんも素敵です✨\n\n毎回毎回はんくさんの動画の\nインパクトがすごすぎて\n目が点になりま…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nce88f6a405475",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238785938/profile_450dd0499aec7d06062236faedd1766c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "釣られたクマ(^(ｴ)^)で落ちました🐻🤣🤣 自分もタラヲボーイズです！\n※記事にも書いたけど、怪しすぎる💧 10年以上前に情報商材アフィリを囓ってるので、怪し…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc375a71fd8594",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264868611/profile_9225f9d9e977f638179f2afb9ae1a84f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チップ狙い上等！私は常に「地獄の沙汰もカネ次第」の精神よ(笑)",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc720d38d90690",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タラちゃんの包囲網がここまで🤭あ、私お風呂沸かしてたんだ💦冷めちゃう、入らねば！！😱",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc77a326b90a47",
+          "user_name": "みらい @ AIイラスト＆ポエム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262240002/profile_df1b21e169170a3cb263bad6ea84ac4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Σ(ﾟ∀ﾟﾉ)ﾉｷｬｰ\n動画がおもしろすぎます～～💦\nあの…あの…\nミカンの帽子が…………\n可愛い＆おもしろすぎますぜ、だんなぁ～💦\nあーもう…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc665dc74ad3c7",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\n\n面白い紹介記事ですね☺️\n\nタラヲガールズの営業部長です🤣\n\nとりあえず無料お試しからどうぞ🤣笑",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncb16e45407603",
+          "user_name": "けぃず🐦‍🔥＠🔰初心者向けAIものづくりや失敗からの学び＆癒しのフォトetc.をお届け📬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255244938/profile_78e41887c81708f1f7dc58ba008292fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、はじめまして！\n\n昨年末頃からAIを本格的に活用しはじめたのですが\nまだまだ上手く作成できないことばかりで\nはんくさんの作品を拝見させていただき\nこ…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncd56e7c784cc3",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！！！\nいい！！\n\nそして、最後のツーショットの睨み合いサイコーです😆\nYouTuber！！\n仕事早い！\n\nそれとそれと！記事の紹介ありがとうございま…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nce7a76acf03b5",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちはー\nコラボ動画見ました！\nタラヲさんっぽさが出てるキャラでお見事でした🙌\n\n最初のGeminiの画像には笑いました😆",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncb763abf8175e",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヒトタラヲさんとはんくさんがァァァコラボってるぅ\nｳｫｫｫ(۳˚Д˚)۳ｫｫｫｰ!!\n\nうるさいわ！！\n=͟͟͞͞๑و•̀ω•́)‾͟͟͞ว)Д´);､;’.･…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc4a727b554bd2",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "…紅茶吹いた（笑）\n\n　はんくさんなら、きっとやると思ったし仕事早すぎる！！\n\n　　ホント、凄いなあ…。\n\n　NOtEのクリエイターって皆凄すぎて、これが当たり…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc3e80061afdeb",
+          "user_name": "飯泉ひろみ　Hiromi Iizumi With Picoai♾️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/225898084/profile_9a5cf20a1d6b9937c9d1458dc5450a68.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こににちわ🤗\n\n今日の動画もめちゃすご😳✨\n\nYouTube登録します🫶🏻\n\n最初のニンテンドーっぽいマリオの音がメッチャいいです🍄",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncf6f7b42d6f23",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回もまた、ステキな変貌を遂げられて…というか、\nどんどん実態が掴めなくなってゆくような…😅\nシュン子さんだった時代が遠い昔に思えてくる。。。",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "ncfc7dddfb21ae",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264394551/profile_7d53e99488d218760c7f91157493e91b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヽ(￣д￣;)ノ=3=3=3\nおもろ過ぎて走り回りたい！！\n\n良い！！\n\n良い！！！\n\n良い！！！！！！\n\nはんくさん、サイコー！！！！！！\n\n\nええぞー˚✧₊…",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nca710e1d38831",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素晴らしい！ユーチューブも登録しておいたょん！",
+          "article_title": "タラヲされました。",
+          "note_key": "n229bb729240d"
+        },
+        {
+          "key": "nc9ca8cb1e3b6f",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんは✨\n4人に1人って結構多いんですねฅ(°ﾛ° ฅ)💦\n分かってくれる彼女でよきよき～٩(ˊᗜˋ*)و💖✨\n立つんだ！はんくさん！🤣🤣笑\n(…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED",
+          "note_key": "nd82a42a57337"
+        },
+        {
+          "key": "nc093c4f813a14",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\n一度読み終わって、タイトルもう1回見にスクロールしました😆\nうまぁ〜い！！\n動画もすごくいいけど、文章も読ませますね💞",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED",
+          "note_key": "nd82a42a57337"
+        },
+        {
+          "key": "ncaaedc2bf7bc1",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "勃ち努力\\(//∇//)\\✨👍👍🔥\nはんくさん最高\\(//∇//)\\💖💖👍",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED",
+          "note_key": "nd82a42a57337"
+        },
+        {
+          "key": "nc36b0f0d70422",
+          "user_name": "建从",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264685266/profile_573515a2ed5234f4c4bf06561207df92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マジか😂\n禁煙とダイエットも大事やね^^;",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED",
+          "note_key": "nd82a42a57337"
+        },
         {
           "key": "ncb73ed36217ee",
           "user_name": "吾唯足ルヲ知ラズ",

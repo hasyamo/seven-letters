@@ -11,31 +11,72 @@
       "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 382,
+        "likes_total": 537,
         "likes_prev": 582,
-        "followers_start": 3069,
-        "followers_end": 3069,
-        "new_fans": 73,
-        "comments_total": 10,
-        "posts_count": 1,
+        "followers_start": 3077,
+        "followers_end": 3077,
+        "new_fans": 93,
+        "comments_total": 19,
+        "posts_count": 2,
         "consecutive_days": 1,
         "post_times": [
+          "18:59",
           "06:33"
         ],
         "top_article": {
           "title": "40記事連続100スキを達成。｜AIクリエイター｜AIイラストの描き方｜コンテンツマーケティング｜noteマーケティング｜NanoBanana　",
           "key": "n79d2029d51d9",
-          "likes": 209,
-          "comments": 10
+          "likes": 216,
+          "comments": 12
         },
         "notable_reader": {
           "name": "影武者コピーライター宮本真愿",
           "urlname": "5starcopy",
           "follower_count": 13732
         },
-        "commenters_count": 5
+        "commenters_count": 8
       },
       "comments": [
+        {
+          "key": "ncd96732ec7e7f",
+          "user_name": "明日鍍　禮あすと　れい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231342229/profile_35d410b56fa4883e0c90a6a509d3dd50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "遂にTOPに上り詰めましたか!\nおめでとう御座います🎉🎊🎉\n🍌でお祝いだー😆🐣\n",
+          "article_title": "皆さんへの感謝！「NanoBananaクリエイター頂点」",
+          "note_key": "n51b46ea9a2aa"
+        },
+        {
+          "key": "nc98b2d004c6c3",
+          "user_name": "プチクラゲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260193849/profile_6345be1aecf14595f6f633e4d752788c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄いです！\nいつも、可愛くて洗練されてていいなぁって思ってたら、やはり。\n1位おめでとうごさいます💝",
+          "article_title": "皆さんへの感謝！「NanoBananaクリエイター頂点」",
+          "note_key": "n51b46ea9a2aa"
+        },
+        {
+          "key": "nc5ed567e85f6a",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。1位おめでとうございます。！！\nやった俺たちの押しが１位とったどー。それとなんで自分のフォロワー知ってるんですか？エスパーですか…",
+          "article_title": "皆さんへの感謝！「NanoBananaクリエイター頂点」",
+          "note_key": "n51b46ea9a2aa"
+        },
+        {
+          "key": "nc30b2149a1c38",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250966124/profile_e99d6edcbd65a3cef478331de0494c4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございます。ご紹介いただきありがとうございます。\n1位？！　それはすごいですね！",
+          "article_title": "皆さんへの感謝！「NanoBananaクリエイター頂点」",
+          "note_key": "n51b46ea9a2aa"
+        },
+        {
+          "key": "ncbc097cb048e0",
+          "user_name": "これから嘱託はじめます。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262572186/profile_6203044f5de5e02c45aa0a5b53325cf2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\n\n自分のNotebookｌMで、\nまいかさんの才能を分析して頂きました。\n\n1. 「右脳（感性）」と「左脳（戦略）」のハイブリッドな才能 🧠✨\n2…",
+          "article_title": "40記事連続100スキを達成。",
+          "note_key": "n79d2029d51d9"
+        },
         {
           "key": "nc2d02874a09d8",
           "user_name": "明日鍍　禮あすと　れい",

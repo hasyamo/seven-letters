@@ -7,27 +7,44 @@
         "start": "2026-04-06",
         "end": "2026-04-12"
       },
-      "sender": "shizuku",
-      "condition": "quiet",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 51,
+        "likes_total": 123,
         "likes_prev": 115,
-        "followers_start": 325,
-        "followers_end": 325,
-        "new_fans": 23,
-        "comments_total": 0,
-        "posts_count": 0,
-        "consecutive_days": 0,
-        "post_times": [],
-        "top_article": null,
+        "followers_start": 334,
+        "followers_end": 334,
+        "new_fans": 49,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:00"
+        ],
+        "top_article": {
+          "title": "【最高の一枚を描くために】 #画像生成AI #AIイラスト #Nijijourney #Niji7 #Gemini No.34",
+          "key": "n4a801c25c672",
+          "likes": 55,
+          "comments": 2
+        },
         "notable_reader": {
           "name": "seiji_arita",
           "urlname": "seiji_arita",
           "follower_count": 12262
         },
-        "commenters_count": 0
-      }
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncd83edaf2fbcb",
+          "user_name": "AI紳士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230980124/profile_236f99f4d4696d7004ba81b519830676.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\n紳士もXで大サービスポストを投稿しても滑りまくってます！笑",
+          "article_title": "【最高の一枚を描くために】 #画像生成AI #AIイラスト #Nijijourney #Niji7 #Gemini No.34",
+          "note_key": "n4a801c25c672"
+        }
+      ]
     }
   ]
 }
