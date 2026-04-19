@@ -288,6 +288,299 @@
           "note_key": "n851592c1a1a5"
         }
       ]
+    },
+    {
+      "week": "2026-W16",
+      "period": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 187,
+        "likes_prev": 237,
+        "followers_start": 193,
+        "followers_end": 203,
+        "new_fans": 49,
+        "comments_total": 73,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "05:30",
+          "06:00",
+          "06:00",
+          "12:00",
+          "06:00",
+          "06:00",
+          "12:30",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "ダルメイ様の七変化♡♡",
+          "key": "n95e2b278a0b3",
+          "likes": 22,
+          "comments": 16
+        },
+        "notable_reader": {
+          "name": "Nocchi(のっち)",
+          "urlname": "nocchi_24",
+          "follower_count": 9482
+        },
+        "commenters_count": 19
+      },
+      "comments": [
+        {
+          "key": "ncae2a190a9344",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "縄文土器深い！！！\n\n過去に歴史の授業で\n「弥生土器より縄文土器の方がすごい」って言っていた子がいたのを思い出しました。\n\nその子の伝えたかったことが、\n今分か…",
+          "article_title": "めじゅ語辞典 vol.17【縄文土器】",
+          "note_key": "n97cef974e0fa"
+        },
+        {
+          "key": "ncf1bd2b0a9c1e",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ロマンを感じる(☆▽☆)💞✨🎵\n縄文と弥生の間って、ガッツリ太い線が引かれているような気がするよね～",
+          "article_title": "めじゅ語辞典 vol.17【縄文土器】",
+          "note_key": "n97cef974e0fa"
+        },
+        {
+          "key": "nc0df8bfc8a2ba",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ざわざわ圧\nこれはなんとなくわかります！！",
+          "article_title": "めじゅ語辞典 vol.17【縄文土器】",
+          "note_key": "n97cef974e0fa"
+        },
+        {
+          "key": "nc7daf97f3258a",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、おはようございます。\n読んでて面白かった。\n\nめじゅ語が途中可愛いです。\n縄文土器を作ってみようの\n工作の時間があったらやりたいなあ。\nと思ってし…",
+          "article_title": "めじゅ語辞典 vol.17【縄文土器】",
+          "note_key": "n97cef974e0fa"
+        },
+        {
+          "key": "nc1778a9f6a934",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初は猫耳だったの？\nリンクの「MS-DOSでC言語」が一番衝撃でした😆\nなっつ〜",
+          "article_title": "最初のやつ。",
+          "note_key": "nd530994981af"
+        },
+        {
+          "key": "ncd5c4ab5c68ee",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このテンプレが最初のやつかw",
+          "article_title": "最初のやつ。",
+          "note_key": "nd530994981af"
+        },
+        {
+          "key": "nc63ec3e65bb0b",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なぜそうなった！？って、突っ込みたくなったwww\n悪戦苦闘の末、最後に渾身の作品✨かわい〜",
+          "article_title": "センシティブが過ぎるんですよ…ｵｲｺﾗ💢",
+          "note_key": "n113aa3a4ed4f"
+        },
+        {
+          "key": "nc490475bdc072",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "裸ん坊じゃんか\n\n笑ったwｗｗ\n\n振り向かせると脱ぐんですね・・・。\nいい勉強になりましたｗ",
+          "article_title": "センシティブが過ぎるんですよ…ｵｲｺﾗ💢",
+          "note_key": "n113aa3a4ed4f"
+        },
+        {
+          "key": "nccee732212437",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240093917/profile_a066b70a64fae52d27f5911589d27fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ペケさんは確かに一発アウトですね🤣\nでも可愛ーい💖💖💖",
+          "article_title": "センシティブが過ぎるんですよ…ｵｲｺﾗ💢",
+          "note_key": "n113aa3a4ed4f"
+        },
+        {
+          "key": "nc3d8d1edf7561",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっちスケッチワンタッチが良かったですww\n\n後半のミツバチちゃん、めっちゃいいですね😍✨",
+          "article_title": "センシティブが過ぎるんですよ…ｵｲｺﾗ💢",
+          "note_key": "n113aa3a4ed4f"
+        },
+        {
+          "key": "nc17c25b9e5b56",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、高確率で、\n楽しい🤣が好きな仲間に拾ってもらえます、\n突如センシティブ🫶\n\nもと🐶は、画像の御人が突如『🍣大トロまぐろのお刺身』になりました。\nA…",
+          "article_title": "センシティブが過ぎるんですよ…ｵｲｺﾗ💢",
+          "note_key": "n113aa3a4ed4f"
+        },
+        {
+          "key": "ncb5a7b2fefb8d",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Grokは正常。それがニュートラルｗ",
+          "article_title": "センシティブが過ぎるんですよ…ｵｲｺﾗ💢",
+          "note_key": "n113aa3a4ed4f"
+        },
+        {
+          "key": "nc611603849088",
+          "user_name": "いちごいぬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213181612/profile_699199ae339deda4f12f0ff817d176d2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "美しいです…😌",
+          "article_title": "ピジョンブラッド vol.19.5",
+          "note_key": "n4bec1c52cd83"
+        },
+        {
+          "key": "nc955c4c8c08c4",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん\nおはよーございます☀\n\nあぁ。。泣かないで🥲\n麗しい、ル、ルビー？！\n\n泣きたい時は思いっきり泣こう(*¥∀¥*)笑",
+          "article_title": "ピジョンブラッド vol.19.5",
+          "note_key": "n4bec1c52cd83"
+        },
+        {
+          "key": "nc14b762d4c52d",
+          "user_name": "日本人やめたら自由になった",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206286842/profile_6538cd31e0040ddd5e337406e09be32f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "縄文土器フォトフォルダなんてお持ちなんですね（笑）\nなかなか味のあるフォルダになってそう...🤣",
+          "article_title": "縄文土器、井戸尻遺跡の不思議",
+          "note_key": "n428a0c187bac"
+        },
+        {
+          "key": "nc5f25bb60bd7a",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、僕も資料館とか行くの好きです✨️\nちゃんと読まないこと多いけど😂\nでも、縄文土器を間近で見たこと……もしかしたらないかも💦\n写真凄くイイですね～。う…",
+          "article_title": "縄文土器、井戸尻遺跡の不思議",
+          "note_key": "n428a0c187bac"
+        },
+        {
+          "key": "ncc90449195e23",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんっぽいけど、\n\\(//∇//)\\✨💖💖素敵\\(//∇//)\\\n\\(//∇//)\\✨💖💖💖💖🥹🥹🥹\nこんなの、誰も描かない。\n描けない\\(//∇//)…",
+          "article_title": "わたしを、呼びましたか vol.19",
+          "note_key": "nc307fb9810c8"
+        },
+        {
+          "key": "nc37dc224d9cdd",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌙\n泣きつかれたような表情が印象に残ります。\n悲しみの途中じゃなくて、もう泣ききった後の静けさというか。\n煙と色彩のにじみ方がその空気感を…",
+          "article_title": "わたしを、呼びましたか vol.19",
+          "note_key": "nc307fb9810c8"
+        },
+        {
+          "key": "nc40d80cb4697f",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレ臭がするw",
+          "article_title": "わたしを、呼びましたか vol.19",
+          "note_key": "nc307fb9810c8"
+        },
+        {
+          "key": "nc43c9ce139bc4",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "意志のある眼差しを持つ女性は、\n美しいと思います。",
+          "article_title": "わたしを、呼びましたか vol.19",
+          "note_key": "nc307fb9810c8"
+        },
+        {
+          "key": "nc27145c7f323b",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はい、呼びました😍😍😍",
+          "article_title": "わたしを、呼びましたか vol.19",
+          "note_key": "nc307fb9810c8"
+        },
+        {
+          "key": "nca489647453a9",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん✨\n初めまして～(⋆ᴗ͈ˬᴗ͈)”💖✨\n\nもしこの感覚に名前をつけるなら、「名の余白」かなと思いました🌸\nすごく静かで、でもちゃんと残っている感じがし…",
+          "article_title": "ラベル名は、なんですか…? vol.18.5",
+          "note_key": "nb7c5dc89e7ad"
+        },
+        {
+          "key": "ncca00a24da325",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「はんタナ」です('∀`)ﾉ\nすまんな、急にドタバタしてスキもコメントも制限でさ💦\n\nえ、待ってない？ちくしょー‼️　森に帰ります｡･ﾟ･(ﾉ∀`)･ﾟ･｡　ラ…",
+          "article_title": "ラベル名は、なんですか…? vol.18.5",
+          "note_key": "nb7c5dc89e7ad"
+        },
+        {
+          "key": "nc0618516025ee",
+          "user_name": "モモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "失敗？！京アニ風も、キュート乙女も、ぽっちゃりバニーガール風も可愛い〜💖\nダルメイマニアには堪らない作品群😁💕",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "nc277e6e8bf481",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん\nなんて豪華な七変化🌸\n1枚目が好きでした💕\nバニーからヌンチャクまで...凄いです(/ω＼)\n\n京アニ風...失敗どころか\n新たなダルメイ表現が✨…",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "nc0e9999475062",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃーん、こんにちは。\nチンアナゴ補充にきましたー。\nダルメイちゃんであればすべて可愛いけど\n京アニ風と入れた失敗作💦←失敗なの？めちゃ好きやねんけど💛\n…",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "nc08b57d056c67",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1枚目のフリフリトップスかわいー！！私のすごく好きな感じの服です😆💕\n\nバニーちゃんよかったです😍👯‍♀️",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "nc8d86f5c9d18a",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "乙女チックにしてもダルそうなキキと\n悪そうなバニーガールがイイ‼️🤣💞\nでも1枚目が一番かわいい(笑)",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "nc33ef4fb1a2ed",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます✨\n\nどのダルメイちゃんも良いけど\n1番はヌンチャクダルメイちゃんがお気に入りです😆✨👍\n動画もカッコイイ❣️",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "ncf1e48ee27450",
+          "user_name": "masaya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nいろんなスタイル魅せてもらって楽しかったです。\n失敗作が妙にステキ☆彡",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        },
+        {
+          "key": "nc2bd7a73d04f7",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "鼻ピついてます！？W\n\nていうか、妖艶w",
+          "article_title": "ダルメイ様の七変化♡♡",
+          "note_key": "n95e2b278a0b3"
+        }
+      ]
     }
   ]
 }

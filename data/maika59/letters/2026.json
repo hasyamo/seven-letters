@@ -118,6 +118,93 @@
           "note_key": "n79d2029d51d9"
         }
       ]
+    },
+    {
+      "week": "2026-W16",
+      "period": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 442,
+        "likes_prev": 571,
+        "followers_start": 3082,
+        "followers_end": 3095,
+        "new_fans": 68,
+        "comments_total": 12,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:59",
+          "09:01",
+          "07:07"
+        ],
+        "top_article": {
+          "title": "4月は模様替えの季節 - NanoBananaで描く「運気の上がるイラスト」 ｜AIイラストの魅力｜AIイラストの描き方｜AIアート　",
+          "key": "n4cd8ae4c1f8f",
+          "likes": 119,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "池 辰彦",
+          "urlname": "tatsuhiko_ike",
+          "follower_count": 20625
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nc03117635eb05",
+          "user_name": "芽乃葉✨️AIといっしょに創る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/216328267/profile_2c270fbc35cf10ad9de813d11893bec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "間取りデザインとてもいいですね！\nインテリアも可愛いし、女の子の笑顔も素敵✨\n\n間取り図見たり考えるの好きで、マイホームデザイナーで部屋を作ったりしたことあるん…",
+          "article_title": "4月は模様替えの季節 - NanoBananaで描く「運気の上がるイラスト」 ",
+          "note_key": "n4cd8ae4c1f8f"
+        },
+        {
+          "key": "nce10763ccdab9",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、こんにちは！\nCADの記事から「NanoBananaで間取りやれるのでは？」に発想が飛ぶところ、まいかさんらしいです😊\n模様替えってジャンルとしては…",
+          "article_title": "4月は模様替えの季節 - NanoBananaで描く「運気の上がるイラスト」 ",
+          "note_key": "n4cd8ae4c1f8f"
+        },
+        {
+          "key": "nc70c9d75a441c",
+          "user_name": "NOA＠全力でAIで遊ぶ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249472811/profile_9a1e8ee4def7e48f9735046e99fd4853.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "インテリアデザイン良いですね！\nそしてまた、今回も空気感が良いイラスト流石です( * ॑꒳ ॑*)\n以前に教えてもらった構造化の構成参考にしながらイラスト真似し…",
+          "article_title": "4月は模様替えの季節 - NanoBananaで描く「運気の上がるイラスト」 ",
+          "note_key": "n4cd8ae4c1f8f"
+        },
+        {
+          "key": "nc90ff87932864",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。風水とは斬新ですね。あとなんで３００人言ったのご存じ？誰にも言ってないのに\n",
+          "article_title": "4月は模様替えの季節 - NanoBananaで描く「運気の上がるイラスト」 ",
+          "note_key": "n4cd8ae4c1f8f"
+        },
+        {
+          "key": "ncb3d2f0f417cb",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250966124/profile_e99d6edcbd65a3cef478331de0494c4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきありがとうございます。間取り、インテリア・・・面白いですね。新鮮な驚きです。ご支援いつもありがとうございます！！",
+          "article_title": "4月は模様替えの季節 - NanoBananaで描く「運気の上がるイラスト」 ",
+          "note_key": "n4cd8ae4c1f8f"
+        },
+        {
+          "key": "ncadeb80133cae",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。春の装い、素敵でした。",
+          "article_title": "NanoBananaで描く、「春の風景を楽しむ女の子」の勝負絵プロンプト6選",
+          "note_key": "n4b9b2bf3c35c"
+        }
+      ]
     }
   ]
 }

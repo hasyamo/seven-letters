@@ -45,6 +45,60 @@
           "note_key": "n4a801c25c672"
         }
       ]
+    },
+    {
+      "week": "2026-W16",
+      "period": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 132,
+        "likes_prev": 128,
+        "followers_start": 341,
+        "followers_end": 385,
+        "new_fans": 54,
+        "comments_total": 3,
+        "posts_count": 2,
+        "consecutive_days": 2,
+        "post_times": [
+          "16:45",
+          "09:16"
+        ],
+        "top_article": {
+          "title": "【親から受け継いだ才能をどのように活かすか】 #AIイラスト #画像生成AI #Nijijourney #Niji7 #Gemini No.35",
+          "key": "nbe4009e6a3d5",
+          "likes": 51,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "ねこの青春日記",
+          "urlname": "kaneko_seisyun",
+          "follower_count": 46123
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nce01e3cfc37c3",
+          "user_name": "アクシスNWチーム広報部",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248132075/profile_7175af49d1fc56683de18699283973ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\nお子様の視線を追うことで新しい発見をされるというお話、とても心が温まりました。\n誰かの視点に立って世界を想像することが仕事やSNSにも活きるという考…",
+          "article_title": "【子どもの瞳に映る魔法】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.36",
+          "note_key": "nc1e106ef56cc"
+        },
+        {
+          "key": "nc88f858b766ad",
+          "user_name": "千住まいか🐇｜AIイラスト＆マーケティング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226124329/profile_028bb03b54174275b4b6fa76c8a38f83.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joe Tsukasaさん、こんにちは。\n\n可愛いイラストですね。(๑^᎑^๑)\nまいか🐇も「ooを抱える女の子」をテーマに\nイラストを描いてみたくなりました。…",
+          "article_title": "【親から受け継いだ才能をどのように活かすか】 #AIイラスト #画像生成AI #Nijijourney #Niji7 #Gemini No.35",
+          "note_key": "nbe4009e6a3d5"
+        }
+      ]
     }
   ]
 }

@@ -647,6 +647,484 @@
           "note_key": "nb6e690b59ddb"
         }
       ]
+    },
+    {
+      "week": "2026-W16",
+      "period": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 369,
+        "likes_prev": 422,
+        "followers_start": 496,
+        "followers_end": 518,
+        "new_fans": 73,
+        "comments_total": 146,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "21:46",
+          "07:31"
+        ],
+        "top_article": {
+          "title": "テンプレで簡単！祭りに参加してくれ！",
+          "key": "n6f771ed4621e",
+          "likes": 141,
+          "comments": 70
+        },
+        "notable_reader": {
+          "name": "Daisuke note検証ログ  ",
+          "urlname": "jihon",
+          "follower_count": 13423
+        },
+        "commenters_count": 42
+      },
+      "comments": [
+        {
+          "key": "nc692d85ebeee1",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは！\n僕の好きなダンまちが……！タイトルロゴのセンス、完璧すぎて笑いました🤣🤣🤣\nあれ一目で全部伝わるのずるいです。\nそれから宇宙戦艦ヤマト…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncad4fd3ca9752",
+          "user_name": "AI学習コーチAKIRA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/174969087/profile_2644796b864cdfd2e35d11a6ef33999c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です～（いろんな意味で）\n不可能なミッションを達成できましたね\nED問題はゆゆ式問題ですね、解決方法は\n分かりませんが、スクワットでもして準備しましょう…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc11b61f9ee40d",
+          "user_name": "むらくも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255101284/profile_71790a99e10aeb16fb998304a4cf7642.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\n\nフォロワーさん500人おめでとうございます！\n\n前回に続き書き方がおもしろくて、惹き込まれました✨️\n彼女さん、本当に素敵な方ですね！\n\n僕も飲…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncfd51662567fb",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n500人フォロワー様おめでとうございます！\n\nなんだろう...そこまで想ってもらえるって\n女性としては凄く嬉しいと思います🌸\n\n文章やっぱり面白いで…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncd49957cca5dd",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん💕\nフォロワーさん500人突破おめでとうございます🎉\n\nそして、彼女がいるなんて素敵✨\nきっと、いい男なんだろうな〜🥰💕",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc8fa43466e03b",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんやるやん\\(*≧∀≦*)/✨💖😆🤟\n完全勝利🏅🏆👍\\(//∇//)\\✨💖🤭💖\n頑張ったんだね\\(//∇//)\\✨💖💖💖🤭\n男だよー\\(//∇//)\\✨…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncaddef4e478e0",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん😂はんくさんがこちら側に近いトピックを書かれるの意外でした👏\nこういう実録なんて知る機会少ないので読めて嬉しかったです🤭",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncf1bec1abe8e4",
+          "user_name": "ストーリーテラー愛の歌詠み師UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265644859/profile_f49fdf5555da2c715b6c2e4b8cb98ed4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは☀️\n\nフォロワー500人おめでとうございます㊗️🎉✨\n\nそして、彼女さんともおめでとうございます🫶✨\nってか遠距離で20年はすごい🌈✨\n…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nca2185d2837c2",
+          "user_name": "Kinu_AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは！\n\nフォロワー500人達成、おめでとうございます！日頃の努力の成果ですね！\nこれからも応援しております！\n\nそして、色々と面白く\n見させ…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nca563955073de",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、こんばんは🌜\n\n出遅れたのではなくて落ち着いたので\n改めてまして\nフォロワー500人おめでとうございます\nこんな節目に動画置いてもらって\nイラスト…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncb87477968da5",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264868611/profile_9225f9d9e977f638179f2afb9ae1a84f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "太平洋にマッチ棒(笑)いやぁ、泣けました！ネットでいろいろ買ってみてよかったですね🧚",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc6240ecbcb769",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさ〜ん\n全ワタシがスタンディングオベレーション👏してますよぉ\n\nまずは、フォロワー500人突破(*ﾉ'∇')ﾉﾟ･:*おめでと〜♪\n\nからの〜…\n「復活の…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nccfa98a54c39b",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nフォロワーさん500人突破\n　　＆\nリベンジ復活　おめでとうございます🎊\n\nこうして、垣間見れちゃうのもnoteのいいところなんでしょうね😊\nイラ…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc9bec0aa56d7e",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nこんにちわ☀\n\n500人突破おめでとうございます♪\nそんな記念すべき日の記事🤣\n\nソフトにしているんでしょうけど、めっちゃリアルに伝わってきて(*´…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc900927b55c82",
+          "user_name": "余白ちゃん｜ゆらぎながら働く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！！\n500人おめでとうございます！！\n\nうちの旦那にも飲ませようかな。笑",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc2298bc8a1d3a",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "500人突破おめでとう！そして…いろいろありがとう！YouTubeみておりまっせー！",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nca78420153421",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんく様\nおはようございます🌞\n\n無料🆓で、ここまで公開していただき、誠にありがとうございます。\nそして、フォロワー様500人突破㊗️おめでとう御座います🎊\n(…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc1ea407d72097",
+          "user_name": "ラグマスターPikaichi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/107956202/profile_efd8ece4a14f28ea2c1dc010f76ab6e8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくニキは意外と繊細、いやデリケートでガラスのハートなんだね🫵🏽🤣🤣🤣\n\n誰も指摘してないけど、あしたのジョーのセリフも。最中に丹下団平の顔が浮かんだら、しぼ…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc0798c4cb8b2f",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264394551/profile_7d53e99488d218760c7f91157493e91b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ…なんやろ…🤣🤣\n\nちょいちょい…昭和感、感じたので共感🤭\n\n映画\"復活の日\"なんて、昔、梅田まで観に行ったよなぁとか…🤣\n\nYouTube、登録したよ…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncf3844fec72eb",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ここはやはり…\n( ；∀；) ｲｲﾊﾅｼﾀﾞﾅｰ　ですかね。\n\nしかし、やはりはんくさん素材の使い方のセンスが神憑り過ぎて…\nそこでそれ使いますか！って別の意味…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncb5fc44226b82",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんは✨\nフォロワー500人おめでとうございます(⋆ᴗ͈ˬᴗ͈)”💖✨\n\nついに勝利しましたか😂💓‪\nあめでとうございます✨🎉🎂\n挿絵が想像しや…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc81f20f477691",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あわわわ…\nオトコの人って、大変なんやなあ…としみじみ。😢\n生まれてこのかた、そういうの（色恋的なこと）に一切、無縁な自分だもんで、\nただ「耳年増」なだけの知識…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncef8a398be5f5",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "久しぶりに見るヤマトのブリッジ、超感動しました‼️(笑)\no(*≧▽≦)ツ┏━┓o(*≧▽≦)ツ┏━┓o(*≧▽≦)ツ┏━┓\n\nフォロワー500人おめでとうござ…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "ncd858a7b56a19",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シュンって言うの？🥰\n\nフォロワー500人、おめでとうございます㊗️🎉\n\nリベンジ大成功❣️良かったですね〜‼️ 然も彼女さん、可愛い❤️✨　その後、又7年も会…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nca077917ba029",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🐤\n\nフォロワー500人突破、おめでとうございます🎊✨️✨️\nシュンさんらしいテーマで突き抜けているところが、やっぱり魅力だなあと感じました😌\n\nそし…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc596dfe5c0fac",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nはじめまして。大変でしたね…\n注目ポイントは神器の中のLARK。\n私はクラシックマイルドがいいです。\nでも本命はアメスピ。\n\nハッピー？エンドでし…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nca2c640f50347",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー500人突破おめでとうございますー🤗✨✨\n\n記念記事にまさかのネタww\nはんくさんらしいです！\n\nベストケンコーとかで、売れ筋でよく見かける系の商品🤣…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nccacc3c60c6d2",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258842492/profile_d15e43997d5c0beece93bd070095d10b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シュンタナさん、こんばんは。\nフォロワー500over、おめでとうございます！\n\n動画ももちろんですが、記事もシュンタナさんらしさ全開で面白いですね。\n500の…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nce2f195d6beb6",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240785163/profile_3b2cd7582efc787a4d82595080a759f6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんは🙌\nフォロワー500人突破、おめでとうございます✨\n\n記事、とても楽しく読ませていただきました！\n内容の面白さはもちろんですが、挿絵のセン…",
+          "article_title": "【実録突出情話】彼女とA・B・C・ED　　　あしたのシュン",
+          "note_key": "n6fb0b368e367"
+        },
+        {
+          "key": "nc8995ac8785f5",
+          "user_name": "はるねずみ｜有料記事０→１の感動をあなたへ【副業月5万奮闘記】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266713080/profile_5b5025a9c074af902d3652fe76fc4dc1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんく・シュンタナさん！\n\nテンプレを作るとは、天才的な発想です…！\nこれで多くの方が参加しやすくなりますね✨\n素敵な記事をありがとうございます😊",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc6aa20433b84c",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nありがとうございます💕\nめちゃくちゃいい人✨\nこれで、noterの皆さんが参加しやすくなりますね😄\nいろいろ、がんばっていただいて、ありがとうござい…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc3b9ccf7571cb",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "二発目予定変更ではんくさんのテンプレート周知に変えてみました。\n\n残り10日間で巻き返しなるか？\nはんくさんのテンプレートをベースに皆さんが自分なりに作ることで…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc79cf0e219c78",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "テンプレとは素晴らしいアイデアですね❣️\n\n意外と条件が細かくて、私のオトモダチも危うく失格になるとこでした。。\nこれは助かる人多いと思います！！\n\nみんなチッ…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc343f2a6bbbbd",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257524325/profile_1f8c2938c1d07d7092164bdb980ccb56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんは☃️\n\nタラヲさんの記事と企画に触発され記事を書こうと思っていたら、まさかのテンプレが！テンプレ化してハードルを下げる発想すごいです！😳\n…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc5fc3105bcb3e",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238785938/profile_450dd0499aec7d06062236faedd1766c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "テンプレ、お借りしました🐻✨ ありがとうございます🌿",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc86b96c99089a",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、おはようございます！\nふらちゃんの記事で中毒性の高い\nクリエイター様なんだなぁと知りました🤣楽しんでるのをみるのも楽しい✨\n\nそれにしてもテンプレ化…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc900d793a689f",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239592709/profile_250d34144fa08d815200c316945962d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがはんくさんですね✨\n行動力が違うなぁと感じました☺️\n\nテンプレ化という大胆な発想もすごいですが、\n0→1の体験を広げようとしている流れもすごいだなぁと思…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "ncc415ad71b198",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、はじめまして。TGのすみれと申します。土曜日の記事、読ませてもらってます🤭\nその上で…このテンプレ、、すごい！！！です！😂このまま貼り付けたらチップ…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc49265eb95f93",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごいなぁはんくさん(*´ω｀)\n誰かのために行動できる漢やなぁ(*´ω｀)✨\n楽しんでるねぇ✨🍀╰(*°▽°*)╯\n応援してますぞ！！(*´Д｀）✨",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "ncd6106ba32240",
+          "user_name": "トマトのヘタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219392776/profile_73f9fa87fc7e8574435f1bb427ed9d23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "言うだけでなく形にする。有言実行もここまでやるのリアル。",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc0c3a70163dab",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238959793/profile_08b2cb438cc06577581118d317494042.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YouTuberはんくさん！こんばんは🌛*゜\n\nすご………何これ🫢\nこれを見てしまったら…テンプレという言葉を使ってしまっている（まだ下書きですが💧‬）あまねの…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc91a28b0d99e5",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん💕\nTG004 るこのみらいです🥰\n\n「日頃からタラヲガールズ名乗ってる人たち‼️」\nはい！はい！\n私たち私設タラヲガールズの人だよね😅\n\nこれ、言わ…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc1f6aa544a47a",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "何このかっこいい先輩…\nまだ、知り合ったばかりでこの動き…\n恐れ入りましたどころの騒ぎじゃない。\n\n大きな太字の前にある、こっち↓で泣けました😢\n\n「オレ様が力…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "ncec5b337037de",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん✨\n営業魂が凄いですね(*/ω＼*)ｷｬｰ!!💓‪\nそしてnoteはやっぱり温かい☺️🌸\n\nテンプレまで作る優しさ、はんくさんに返ってきますように٩(…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nca93b839307d9",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさ〜ん\nこにゃにゃちわ〜⸜(*ˊᗜˋ*)⸝(古い…)\n\nテンプレ、ありがたいです‼️\n私も使おうかしら？？\n\n今からちょっくら、双子ポリープちゃんをサクッ…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc534dd971d038",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわぁ✨️\nヒトタラヲさんの企画\nますます盛り上がりすね〜🥰",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "ncb4a5ee9d723b",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264050070/profile_be4d99de0e9991a29d5af74a4b5727b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんちわ☀\nヒトタラヲさん、至るところで見かけていましたが、親衛隊（ガールズ）が沢山いるなぁとの印象で🤣\nそこに刺さる記事を出すとは(*´艸`)\nお…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc9c485344b62f",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ううっ…？？( ；∀；)\nnoteで起きてること、いまだよくわかってなくて…\nなんか複雑そうで、戸惑ってしまいますが…\n「テンプレ」…？？？\n…実は、案外、シン…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc5d46430f6eb9",
+          "user_name": "雪詠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スゴッ！\n初心者さんにテンプレはありがたいですね～♬\n\nガールズがやらずして誰がやる！\n\nもっちろん！やりますよ～❤️‍🔥❤️‍🔥❤️‍🔥",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nca5b3f0fa471c",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264394551/profile_7d53e99488d218760c7f91157493e91b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nすっごーい˚✧₊⁎❝᷀ົཽ≀ˍ̮ ❝᷀ົཽ⁎⁺˳✧༚\n\n漢気あるやん、ステキ〜〜〜💝💝💝💝💝💝💝💝💝💝💝\n\n見直しましたわぁ🥰🥰\n\n\nさ　　す　　…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc20461ac93301",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん。こんにちは♪\n\nあちこちで、同じ企画に参加されてる記事を見かけます♪\nテンプレでわかりやすく紹介してるのは、はんくさんくらいかも！👏\n動画まで作成さ…",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nce4ba09cfd5c0",
+          "user_name": "余白ちゃん｜ゆらぎながら働く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やろうか迷ってたところにこのテンプレ！参加してみようかしら、、、(⊃ > - < )⊃⌒♡",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "ncc7f65a2a24a1",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、テンプレ！初心者さんは特に迷うから、すごくイイ！\n私も昨日投稿しました🤭",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc7d4740932d57",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264868611/profile_9225f9d9e977f638179f2afb9ae1a84f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、あなたはホンモノのラストサムライですね！カッコ良過ぎますっ💓🐑💓",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        },
+        {
+          "key": "nc7f076a88cc54",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\n\nヒトタラヲさんの為に記事制作のテンプレまで作るなんて🫢\n\n動画制作だけではない実力と愛を見せちゃいましたね💕",
+          "article_title": "テンプレで簡単！祭りに参加してくれ！",
+          "note_key": "n6f771ed4621e"
+        }
+      ]
     }
   ]
 }

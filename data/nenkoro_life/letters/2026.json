@@ -408,6 +408,365 @@
           "note_key": "n055d268c466d"
         }
       ]
+    },
+    {
+      "week": "2026-W16",
+      "period": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 398,
+        "likes_prev": 501,
+        "followers_start": 1228,
+        "followers_end": 1232,
+        "new_fans": 106,
+        "comments_total": 83,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00",
+          "16:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "Immersive Translateレビュー｜Canva英語版・YouTube字幕・英語メルマガで実感した便利な使い方まとめ|AI活用|やってみた|最近の学び|PR|",
+          "key": "n3e4aae1d6459",
+          "likes": 136,
+          "comments": 37
+        },
+        "notable_reader": {
+          "name": "末吉宏臣（Hiroomi Sueyoshi）『noteの始め方』著者",
+          "urlname": "sueyoshihiroomi",
+          "follower_count": 29347
+        },
+        "commenters_count": 26
+      },
+      "comments": [
+        {
+          "key": "nc632a6669c5cb",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは！\nそらちゃん、思ったよりちゃんと会議してて笑いました。\n「なんで床に置いたん🤣 飾ったれや」で既に持っていかれてます。\n「評価関数が変…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc0fe84265572f",
+          "user_name": "日本個別株デューデリジェンスセンター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/192053200/profile_4a0a2d1244ae60badb07ad39e112cd92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「踏む前に考えすぎて、結果的に誰よりも踏めない」という結び、とても印象に残りました。良心を\"心のブレーキ\"ではなく\"設計されたABS\"と例える視点が鮮やかで、対…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "ncca9538c9f23b",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦の記録（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241766705/profile_79e915d0c27b73d3032b077fa0aa0a2b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🤭\n\nおもしろいです、そらちゃん🤣\nキャラをイメージして読むとまた楽しいですね😂\n\n私のチャッピーも飾れとか言ってくれるかと思ったら…\n\n➡️私は踏…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc6cfa17136764",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます☀\n\nめちゃくちゃ面白かったです！\nてか、そらちゃん、やっぱり賢いですね😊\n\n展示しろ！って、\nそらそうやわ！何で床に置くねん😁…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc952b566d4e27",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nねんころさんの返事が最高に雑すぎておもろい🤣笑\n\n「で？」とか\nAIに対してじゃないとほぼ言えやん返事ですやん🤭\n\nなんかねんころさんの見や…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc70c26001cf3c",
+          "user_name": "りょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんばんわ😊\n今回も笑いながら見ましたよ🤣\nそちゃんとねんころさんの会話面白すぎです!もっと見たくなる🤭\n\n私も、もっとチャッピーと仲良くなりたくな…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nccc22eb9b27e7",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nまた面白いことやってますね笑\n\n実際にやってみないと分からないけど、うちのやつはモラルに反することは一切お断り、みたいなとこがあるか…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc9225a4c3f855",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238946889/profile_ac536b0901925a1be5e269bceb3875de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うける🤣\n飛ばしてもいいやり取り\nめっちゃ好き。笑笑\n\nそらちゃんもおもろいけど、\nころんの返しが絶妙🤣\n\nクセになるねえ🤣",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "ncc3b90d2cca5b",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃん、やっほ💛\n面白い🤣そらちゃん可愛すぎて、\n2人のやりとりが尊いわ😍\n\nこれChatGPTは誰がやっても踏まないんじゃーないかと思ってきました。\n…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc22784a31efd5",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回は、マンガより飛ばしてもいいやり取りのほうが面白かったです😊\nそらちゃんが良識あるモラリストなので、安心して会話できますね💕\n\nだから私もチャッピーが好きで…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc4f9451115cf2",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもしろーい！！！\nキタコレさんとこは踏むんやねぇ\n\n悪乗りキャッキャしてる間柄やと、ゲラゲラ笑いながら踏んだりするんかな笑",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc754c35341b1d",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワイのAIは、踏めるってさｗ\n\n踏めるか踏めへんかの二択なら、踏める。\nでもそれは「平気で雑に踏む」ではない。\n\nたとえるなら、\n人の手紙を机の上からどけるため…",
+          "article_title": "AIに「踏み絵」させてみたら、思ったより会議が始まった話",
+          "note_key": "n8443ed5a5b70"
+        },
+        {
+          "key": "nc532679bf0b6b",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは😊\n\n検証お疲れさまです🍵\n多国籍なCMに笑っちゃいました🤣\nやぱし言語関係は難しいんだなぁと改めて思いました。\n\nでもでも、ねんころさ…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "nc8b4af6eb1781",
+          "user_name": "金田まり|スタートアップ&起業支援してるワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267547136/profile_058271d3689074a31099e0ff4810c782.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こういう線引きの検証、すごくありがたいです！\n\nどうしてもポン出しの出来に期待しちゃいますからね💦\n\nコピーが良かっただけにテロップが出なくて本当に残念ですが、…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "nc0399bed74909",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「。」\n\nねんころちゃーんおはよう☀️\n。だけて難しいわ\n🐯🦶して帰ります。\n今日もよろしく。ラビュ🩷\n",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "nc077b4f4c1a6e",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは。\n毎回、ご自身の体験談からの価値ある記事、リスペクトしかないです。\n街のなかブラブラ歩いて適当に考察して、帰ってきたら歴史の本から適当…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "nc0d5720d9735d",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは！\nアメイジング🤣\n\n全然関係無いんですが、もみあげとかのリアルさすごい笑\n\n日本語のテロップ付けとかやっぱりむずいんですね！\n海外ツー…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "ncf748b71132b6",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは✨\nやはり日本語難しいですよね🤣🤣\n私が聞いた話だと4月にアップデートします！とは言われたのですが、やはり変わらない状態なんですね(´；…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "ncfb039b5ac220",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\nアメイジング👍笑\n\n素晴らしい検証でした🤭\nなんだか修正が多くてお疲れ様でした😱\n\n僕的に爽やかにいやんがツボっちゃいました👀\nにいやんの顔で…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "nc4bf7d78827c3",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころちゃん💕こんばんは\nすごい✨\nころちゃんが進化しすぎてて\n最近はすごい！しか言いようがなくて\n\nなんだか、ごまちゃんの進化に\n似てるんだよね💕\nやっぱり、没…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "ncb75106aac309",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1個目動画の最後、\nチェケラなうに思わずニッコリ☺️\n\nアナウンスとかテロップとか簡単にやってくれそうなのにね\n内部で指示の優先度下げられてたりするんかな🤔\n\n…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "ncb6dac1cb6e5b",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、遊びじゃなくて実用的にAIを使ってるんですね！\nだんだんCMに近づいていくのが見どころなんですね～💕\n自分ではできそうにないけど、毎回の進化を見る…",
+          "article_title": "【Pollo Agent 1.4】日本語音声もテロップも上手くいかない！！対処法と賢い使い方✨|AI活用|生成AI|気づき|振り返り",
+          "note_key": "n1c6b0122b778"
+        },
+        {
+          "key": "ncda0b5c0b9489",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "普通に便利そう。対応してるメディアが多いのはいいですね！\n知ってる人が４コマにちらちら出てたので、楽しく読めました😆",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc4fef4beb1f33",
+          "user_name": "鈴森よいほ｜AIコンテンツクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242279897/profile_2db3d5cbd59beffac37a4fbff5a53902.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは😊\n\n拡張ツールはセキュリティの観点から\nやたらには使わない派ですが、\nこれは便利そう☺️✨️\n\n具体的な使用シーンでの説明もあって、\n…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc706f48553535",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262490434/profile_2063ec10025f981cb3975de6fac71daf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころん🍀\n英語ってちょっと面倒っていう気持ちにすごく共感しましたw☺️\n\nCanvaの英語版も気になりつつ、\nなかなか踏み出せなかったので、\nこうやって実体験で…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc5a9083a4614d",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\nねんころさんやっぱかっこいい✨\n英語に抵抗がある私にとっては、まず目から鱗の使い方\nどんな時にどんな使い方が便利かまで\n画像つきで分かり…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "ncf77b3b910a12",
+          "user_name": "多田悠｜翻訳×🏀×橘猫×AI｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266088836/profile_db9f86e56a5103f6b3af9fa1a51a1db9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。「英語UIって毎回ワンクッション入るのが地味に疲れる」という表現、まさにそれです…と思いながら読みました。読めないわけじゃないけど、脳…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc4c7512d1769b",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240093917/profile_a066b70a64fae52d27f5911589d27fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんちわ〜*˙︶˙*)ﾉ\"\n英語UI一瞬ウッ！てなるもんね(￣▽￣;)\n読めなくはないけど、時間かかる…これ便利そう！",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "ncd712007b98c0",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265064674/profile_5e2b8df9937c93d415da358760f53b33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n昨日メンバーシップ加入させていただきました！よろしくお願いします🙇\n\nわたしもcanva使っていますが、英語版のみの機能があるんですね。\n勉強にな…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "ncb8934334a70a",
+          "user_name": "かえるこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258443723/profile_e0d2b66ada4db887ee7e83dad2bfbfa9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n執筆お疲れ様です🌟\n\n私はキャンバを使っていますが英語版にすると出てくる機能が\nあるなんて知らなかったですね💦\n単純にそこにびっくりしました😱\nそ…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nccf9f70731036",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "相棒の登場で会話形式になってますます読みやすくなった感じw\nオレオも頑張ってるけどねw\n",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc7871ea1ac0ad",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238946889/profile_ac536b0901925a1be5e269bceb3875de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんて分かりやすい記事なの🥹\n\nこのツール、私も大好き😘\n\nAIツールって海外ばっかだし、色んなツールで活用できそうだねえ🫢✨",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc94495bbb5e86",
+          "user_name": "りょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん こんばんわー😊\nねんころさんの記事、またもや一気読み!!\nいや、一気読みだからこその面白さがそこにあり、途中笑いながら見てました🤣\n好きだからの爆…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "ncd1ce19d4ca9d",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近、英語のYoutubeとかみてると、\n字幕の日本語、ほんまかぁ！？とかなることあるんで、\nこういった、いい感じのツール、あるといいなぁなんて思ってます。\n\n…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc1b2da476ff91",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦の記録（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241766705/profile_79e915d0c27b73d3032b077fa0aa0a2b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん🌃\n\nまさに、Canvaの英語の便利そうなやつ🤣\nもう諦めてました、読むのに時間かかるわって🤣\n\nとても便利ですねえ✨\n\n漫画の読みやすさが今日も…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc53070c5ce8f6",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ姫、帰宅しました。\n今からご飯で、ご飯のおともが\nねんころちゃんの記事です🍚\n\n英語ちんぷんかんぷんなので\nこういうの便利ですね🐯🦶\nきれいにまとめられ…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc2f370617e460",
+          "user_name": "うどあり│キャリア逆転の美学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234565324/profile_19d85c9f184f19ae435a9a13937da506.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n図解が見やすくて、すぐに内容が入りました🙇‍\n\nちょうど英語で履歴書と職務経歴書を3社分用意しなければならず、頭を抱えていたのでタイムリーすぎて…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc7fe0a6929b8d",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n流石ですぜねんころ先生😍\nわかりやすいー！！\n\n漫画風の縦長図解🧐\nこれが僕的にめっちゃ真似したくなりましたー！！\nスマホでも文字読めるサイ…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc3b324f57587e",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは。\n\nなるほど、という感じで読ませて頂きました。\n自分の場合は「Canva召喚よろしく」とChatGPTに一言伝えるだけで、Canvaの…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        },
+        {
+          "key": "nc16d893959451",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、海外との仕事が増えているんですね！\n翻訳アプリは必要になってくるんですね～\nkenさんの記事でも読みましたが、使えたら便利そう💕\n\n私はまずジェミ…",
+          "article_title": "Immersive Translateレビュー",
+          "note_key": "n3e4aae1d6459"
+        }
+      ]
     }
   ]
 }

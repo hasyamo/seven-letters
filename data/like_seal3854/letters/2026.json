@@ -1,0 +1,84 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W16",
+      "period": {
+        "start": "2026-04-13",
+        "end": "2026-04-19"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 448,
+        "likes_prev": 235,
+        "followers_start": 341,
+        "followers_end": 341,
+        "new_fans": 238,
+        "comments_total": 9,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "07:31",
+          "00:58"
+        ],
+        "top_article": {
+          "title": "【家族紹介】noteを始めて1か月｜悩みながらも前に進む、のぶパパ家のこれから",
+          "key": "n49670878688d",
+          "likes": 99,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "けんさん💚ありがとう魔法のカウンセラー💚",
+          "urlname": "kensei1199",
+          "follower_count": 9666
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "ncd538548c22aa",
+          "user_name": "てるてる | 家族でつむぐ旅と日々の栞",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219403046/profile_ca28bcd39433fbb2132c20f325770096.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは🌸\n\nきっと、娘ちゃんが引き寄せてくれた出会いだったんでしょうね😉",
+          "article_title": "「どこにも預けられない！？」絶望から救ってくれた保育園の話",
+          "note_key": "ne503d455a7e9"
+        },
+        {
+          "key": "ncc0234efaa964",
+          "user_name": "リコ🌸 おはなインクルーシブ｜弱視・難聴ママ｜福祉教育講師 & DETファシリテーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256970427/profile_dface970481594424dacf771bf9a73da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん　こんにちは！\n幸せそうな家族の様子が伝わってきて、ほっこりしました✨\n静かに熱い男！いいですねぇ♪そういえば…私が大学生の頃、よく先輩たちに「リコ…",
+          "article_title": "【家族紹介】noteを始めて1か月",
+          "note_key": "n49670878688d"
+        },
+        {
+          "key": "nc1bdd54072ae4",
+          "user_name": "超育休志向｜ゆういち＆りさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237506942/profile_188301ab8b860a0521535df2f4b20a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "静かに熱い男、いいですね😎\nうちの家族と結構似ていて驚きました〜✨\n夫婦で登山が好きでしたし、子どもはアンパンマン狂です！笑\nうちも0歳の次女がもう少し大きくな…",
+          "article_title": "【家族紹介】noteを始めて1か月",
+          "note_key": "n49670878688d"
+        },
+        {
+          "key": "ncc5e7686d17cd",
+          "user_name": "まりな☕｜不安障害でも子育て&パートで営業事務",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263660549/profile_1255d4708e16d4de5ab834f819d2a226.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n\n家族エピソード読んでみたいです🫶\n\n名古屋在住です。\nアンパンマンミュージアムのパン屋さん、まだありますかね？\nあればぜひお土産に🥯\n\n\n静かに熱…",
+          "article_title": "【家族紹介】noteを始めて1か月",
+          "note_key": "n49670878688d"
+        },
+        {
+          "key": "ncd859bdffa906",
+          "user_name": "アオ｜心の揺れを言葉に",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256647150/profile_2e4926a965e0fe416ad443b5b7c3be24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん、おはようございます☀\n\nのぶパパさんの、ご家族への愛が伝わってくる、素敵な家族紹介に心が温かくなりました☺️\n特に長女ちゃんのエピソードは、ずっと…",
+          "article_title": "【家族紹介】noteを始めて1か月",
+          "note_key": "n49670878688d"
+        }
+      ],
+      "rare_no": 1
+    }
+  ]
+}
