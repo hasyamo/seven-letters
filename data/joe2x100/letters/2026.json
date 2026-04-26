@@ -99,6 +99,60 @@
           "note_key": "nbe4009e6a3d5"
         }
       ]
+    },
+    {
+      "week": "2026-W17",
+      "period": {
+        "start": "2026-04-20",
+        "end": "2026-04-26"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 82,
+        "likes_prev": 171,
+        "followers_start": 386,
+        "followers_end": 394,
+        "new_fans": 26,
+        "comments_total": 6,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:05"
+        ],
+        "top_article": {
+          "title": "【どのAIを使ったらいいですか？】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.37",
+          "key": "ne124e70498d8",
+          "likes": 40,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 15514
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "ncbec96bc47b36",
+          "user_name": "双極フリーランサーの仕事術（双極性障害×フリーランス）　kazu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266876825/profile_b2bf1b37979aa716e23616847cfb201b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「はじめまして。AIで誰でも均一な発信ができる時代だからこそ、その先にある『個の温度感』が重要になるというお話に、深く納得しました。\n効率を求めるあまり、いつの…",
+          "article_title": "【どのAIを使ったらいいですか？】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.37",
+          "note_key": "ne124e70498d8"
+        },
+        {
+          "key": "ncee34d1cb3655",
+          "user_name": "ハムカツ🐰｜命の燈を灯す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262573666/profile_b35e9eb3af8d4900e0d4df52d38aeaa7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、こんにちは😊\nたしかにAIは個性があり、どれを使えばいいのか分からないですよね😅\n\n僕はChatGPTをメインに使って、プロンプトをGrokで清書し…",
+          "article_title": "【どのAIを使ったらいいですか？】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.37",
+          "note_key": "ne124e70498d8"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

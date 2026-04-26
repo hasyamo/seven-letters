@@ -767,6 +767,335 @@
           "note_key": "n3e4aae1d6459"
         }
       ]
+    },
+    {
+      "week": "2026-W17",
+      "period": {
+        "start": "2026-04-20",
+        "end": "2026-04-26"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 634,
+        "likes_prev": 406,
+        "followers_start": 1239,
+        "followers_end": 1283,
+        "new_fans": 230,
+        "comments_total": 69,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "09:00",
+          "14:18",
+          "16:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "「面白そう」で触ったAIが、気づけば仕事になっていた｜AI活用が仕事道具になった話|生AI|ChatGPT|Gemini|claude|Midjourney|Suno|",
+          "key": "nd844a19faa62",
+          "likes": 393,
+          "comments": 31
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12112
+        },
+        "commenters_count": 25
+      },
+      "comments": [
+        {
+          "key": "nc9f6aec79687f",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これはすごい！！\n電子化系の業務ってまだまだたくさんあるので、すごい助かる人いっぱいいそう。\n\nおおおー！と胸がときめきましたよ！\n\nいつもありがとうございます…",
+          "article_title": "UPDF使ってみた",
+          "note_key": "n39fdf1b81c3a"
+        },
+        {
+          "key": "nc7602b0be9ca2",
+          "user_name": "金田まり|スタートアップ&起業支援してるワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267547136/profile_058271d3689074a31099e0ff4810c782.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PDFはまだまだ使われる場面多いですよね😅\n\n編集させない良さはあるけど、いざという時編集できるツールを知っておくことで業務効率が爆上がりしそうな気がします！\n…",
+          "article_title": "UPDF使ってみた",
+          "note_key": "n39fdf1b81c3a"
+        },
+        {
+          "key": "ncbb7523d92019",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おお～～\nPDFからエクセル変換は、地味に便利だね！\nエクセルならなんでもできる！！エクセル最強！！！\n\nすごい時代になったもんだ⋯⋯\nほんまに、あのころ欲しか…",
+          "article_title": "UPDF使ってみた",
+          "note_key": "n39fdf1b81c3a"
+        },
+        {
+          "key": "nc3c1ddc9c44f0",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ先輩ー❤️❤️❤️ \n仕事が早すぎる。\nファーストペンギン🐧有難うです。\n\nインフォグラフィックがいつも\nきれいだし、わかりやいし、\n仕事系の説明したら…",
+          "article_title": "UPDF使ってみた",
+          "note_key": "n39fdf1b81c3a"
+        },
+        {
+          "key": "nc28853e615bfd",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんもねんころさんも漫画ツールの出来栄えがすごい！😊\n僕の場合、明確なボケ・ツッコミ構造が苦手なので手を出してないんですけど、ここまでツール用意されたら…",
+          "article_title": "AI漫画の文字崩れ修正に。静止画へ吹き出し追加できる「漫画セリフ修正 Lite」を作りました！|GPT-Image-2|nanobanana|AI活用|生成AI|ChatGPT|画像生成AI|",
+          "note_key": "n91660107c4c9"
+        },
+        {
+          "key": "ncb912934b201f",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nマガジンのツール追加待ってました✨\n\n早速ダウンロードして触ってみましたが、直感的に操作できて素晴らしかったです👏\n吹き出しって…",
+          "article_title": "AI漫画の文字崩れ修正に。静止画へ吹き出し追加できる「漫画セリフ修正 Lite」を作りました！|GPT-Image-2|nanobanana|AI活用|生成AI|ChatGPT|画像生成AI|",
+          "note_key": "n91660107c4c9"
+        },
+        {
+          "key": "nc396536d80c20",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、ありがとうございます✨\nメンバーシップ入ってて良かったです💕\nチャッピーも進化したので、やってみたいです😊",
+          "article_title": "AI漫画の文字崩れ修正に。静止画へ吹き出し追加できる「漫画セリフ修正 Lite」を作りました！|GPT-Image-2|nanobanana|AI活用|生成AI|ChatGPT|画像生成AI|",
+          "note_key": "n91660107c4c9"
+        },
+        {
+          "key": "nc52bbdf40821a",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238946889/profile_ac536b0901925a1be5e269bceb3875de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゃーーー！すごい🙌\n\n図解のスライドも\nクオリティ高すぎない？🫢💓\n\nねえねえ！マニュアルもめちゃくちゃ分かりやすかったから私にも簡単にできそうだよ🤤💓\n\nメ…",
+          "article_title": "AI漫画の文字崩れ修正に。静止画へ吹き出し追加できる「漫画セリフ修正 Lite」を作りました！|GPT-Image-2|nanobanana|AI活用|生成AI|ChatGPT|画像生成AI|",
+          "note_key": "n91660107c4c9"
+        },
+        {
+          "key": "ncea74e029bccf",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃ神ツール！！！\nバナーのキャラクターに一言しゃべらせるのにもってこいじゃん！！！！\n\nさっそく使わせて頂きます！！！！",
+          "article_title": "AI漫画の文字崩れ修正に。静止画へ吹き出し追加できる「漫画セリフ修正 Lite」を作りました！|GPT-Image-2|nanobanana|AI活用|生成AI|ChatGPT|画像生成AI|",
+          "note_key": "n91660107c4c9"
+        },
+        {
+          "key": "ncae3259d0624f",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nマンガはほとんど描かないから、有料かぁ、どうしようかな？って思ってたらメンバーシップの記事に変更されて喜んでます。\n\nそのうち、歴史…",
+          "article_title": "AI漫画の文字崩れ修正に。静止画へ吹き出し追加できる「漫画セリフ修正 Lite」を作りました！|GPT-Image-2|nanobanana|AI活用|生成AI|ChatGPT|画像生成AI|",
+          "note_key": "n91660107c4c9"
+        },
+        {
+          "key": "nc62592b152dfd",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさ～ん💕\nこのムーンウォーク記事\nじっくり読みたくて週末になっちゃいました✨\n\nそら様のキレッキレダンスがたまりませんでした！！\n各モデルの特徴が分かり…",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc9cca72847a17",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは😊\n\nそらちゃん、キレッキレ〜🕺✨\n口を開けて見てしまいました😯\n\n英語がいっぱいで…ねんころさんの欧米化が進んでいますね👩‍🦳✨\nそし…",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc4375f763dd34",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃん、かっこいい〜😆♡\nあと、靴のコツコツいう音が好き🥰\n\nねんころさん、お疲れさまです〜",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc5be3bc1f3a76",
+          "user_name": "りょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんばんわー😊\nそらちゃんのムーンウォーク見れるーって思いながら見てたらキレキレダンス🤣\nやっぱ笑わせてくれるよね🤣\nAIにはまだムーンウォークは早…",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc4ad631ed51cd",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nムーンウォーク難しいのですね。\n確かに万人がどんな動きか想像できるものの、言葉で表すのは難易度高いですね。\n\nシンプルプロンプト…",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc653b31f665c2",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！こんばんは〜！\nてかしれっと新しいAI使ってる！？\nプロモーションおめでとうございます〜！\n\nまじですげ〜っす！",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "ncf8520c1e9fa4",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん、おはよう🌞\n昨日はマジでありがとう\n充電もせずに、泥のように寝てしまったわ。\nそらちゃん動画めっちゃいい。\nそう、これからは動画の時代だと思っ…",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc1737e3fb0420",
+          "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266862042/profile_964f86d6720bb1fb31ae3b6d9b06c1dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！こんばんは🦁\n\n動画作成は面白いですね✨\nMV凄く良く出来てましたね👍",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc3c483ab59523",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃんのモデルウォークを堪能しました💕\n実在感が増してきて、そらちゃん会いた～い、ってなってます😊\n画像が動くと、影響力が大きくなるんですね！",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc049e02541ddf",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n最近投稿頻度めっちゃ上がってない🤭？　嬉しいけど🤣\n\nそらちゃん！\n最後のそらちゃんMVめっちゃカッコよかったー👍\n男前すぎやん✨\n\n個人的…",
+          "article_title": "LitMediaでSeedance2.0とKling3.0を比較検証",
+          "note_key": "nf0ab2f197fb7"
+        },
+        {
+          "key": "nc0fd2409e1ced",
+          "user_name": "akistory358",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260554414/profile_0496e452fcefa4316e36490d6cef272d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、初めまして😌\n僕もサブスクが減って趣味も一段落して、AIに投資が多いです😂\nmidJourneyとsunoにしています✨\n最近はsunoで、自分の…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc6dc340e65fd0",
+          "user_name": "本山貴裕｜営業×AI活用コンサルタント",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261896925/profile_87d78c4f60f8faa9f302659a5a2d3a46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「好きなもの課金」→「制作環境整え」の転換タイミングで何かキーになった経験ありましたか？僕も営業現場でChatGPT触り始めてから同じ感覚に変わった瞬間があって…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc1f4683b76703",
+          "user_name": "金田まり|スタートアップ&起業支援してるワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267547136/profile_058271d3689074a31099e0ff4810c782.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PC買い替えとかGWS丸ごと課金を真剣に検討してて、もはや必要経費で投資ですよね🤭\n\nAntigravity で各社の最新モデルも触ってみて、課金と無課金では世…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc2700e84c86b8",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは✨\n\n実はねんころさんの記事を拝見して\n課金した1人なのです🙋‍♀️\n\nでも全く後悔してなくて\nむしろありがたかったなぁって思ってます🥰…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nccc74d5218306",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん、こんばんワイン🍷\n課金は投資なのは納得。\nそれを利用して使いこなしたら\nリターンのほうが大きいよね☺️\n\n私はソシャゲとかついつい課金する人な…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc05c729118b96",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "仕事につながるなら、必要経費ですね～✨\nねんころさん、きっと元が取れると思ってます😊",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nca4a737bc82db",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころちゃん💕\n本当にAIが好き〜🥰💕\nが伝わってくる記事でした💕\n\n推し活✨\n楽しいもんね！\n推し課金✨ありだね！",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "ncc9d3190a6d5b",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ､AI触ってる記事書いてくれるおかげで凄く参考になります！！\nこれからも先行課金お願いします😊",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc3692c7671c7c",
+          "user_name": "佐藤コーヒー｜フォロバ100｜外資系で働く監査担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266102298/profile_9d7d0e0efbc19abbea7570fa5f35be45.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事を拝見しました。\n「面白そう」という軽い気持ちでAIに触れ始めたのに、気づけば仕事の中心になっていたというお話に、とても共感しました。\n私も最初は「ちょっと…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc78ab7f41ffc7",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265064674/profile_5e2b8df9937c93d415da358760f53b33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n色々課金されているのですね！\n私も最近色々課金してしまい、どれを断捨離しようか悩んでいたのですが。\n\n「好きで触っていたものが、\n少しずつ仕事にな…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc54f44b4dd7db",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは☀\n\n推し課金、良いですね😁✊\n自分に投資、僕もしたいですが、\n今はまだ迷ってるんですよね💦\n\nねんころさんの記事を振り返って、\n参考に…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc74436f52ef86",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n推しのエッセイ回だー🤭\n\nねんころさんのAI活用の幅が本当に広くて凄いですよね🤣\nそのうちAIで物でも作り出すんじゃないかと思うくらいです👍笑…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc4063fa941459",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そんなに色々使いこなせるのは、ねんころさんだからで、見ていて楽しいですよ❣️\n自分には無理だけど😅💦",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "ncc03dea6f942e",
+          "user_name": "りっちゃん@ミニ株で夫をセミFIREさせたい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257588931/profile_ce66cb104d528b4f9816f560b6efc07c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃん本当に素晴らしい✨何もかもすごいセンス！そして、行動力！あとコメント力、配慮やAIへの愛❤️プロフの日記からはじめた略もすごい良いよね🙆\nお手本に…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc5b87f37648bb",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "推し課金って考え方いいね！！\n\n僕も必要だと思ったら、ほいっと課金するので、投資って感覚わかります。\nそして、ちゃんとお金を払うことの大事さも⋯⋯。",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        },
+        {
+          "key": "nc564ddefac065",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nあー、わかるー、ってなりました。\n\n実務でも、長文書く時の叩き台を出すのにClaudeが大活躍してます。\n(プロジェクトでプライベー…",
+          "article_title": "「面白そう」で触ったAIが、気づけば仕事になっていた",
+          "note_key": "nd844a19faa62"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

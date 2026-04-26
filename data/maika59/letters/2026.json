@@ -205,6 +205,75 @@
           "note_key": "n4b9b2bf3c35c"
         }
       ]
+    },
+    {
+      "week": "2026-W17",
+      "period": {
+        "start": "2026-04-20",
+        "end": "2026-04-26"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 632,
+        "likes_prev": 538,
+        "followers_start": 3102,
+        "followers_end": 3104,
+        "new_fans": 86,
+        "comments_total": 9,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "18:09"
+        ],
+        "top_article": {
+          "title": "2冠王になりました! - NanoBananaで描く「2冠王のポーズ」のAIイラスト - ｜AIイラストの魅力｜AIイラストの描き方｜AIアート ｜AI漫画　",
+          "key": "n5dcd7d35b46b",
+          "likes": 204,
+          "comments": 9
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12142
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc4963a6869b94",
+          "user_name": "ほんだ  |  CAD  |  Lisp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262999433/profile_22d7f4c1ab13d88cfd3dcf2e1544818d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "千住さま\nこの度は当方の記事をご紹介いただき、ありがとうございました！\nそしてこの度は2冠おめでとうございます！\nそして、漫画用のキャラ設定のキメ細やかさ！　A…",
+          "article_title": "2冠王になりました! - NanoBananaで描く「2冠王のポーズ」のAIイラスト - ",
+          "note_key": "n5dcd7d35b46b"
+        },
+        {
+          "key": "ncd7f47536ae10",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です投稿拝見しました。おめでとうございます。やったあああああああああああああ・自分のことにように嬉しいでっす。",
+          "article_title": "2冠王になりました! - NanoBananaで描く「2冠王のポーズ」のAIイラスト - ",
+          "note_key": "n5dcd7d35b46b"
+        },
+        {
+          "key": "nc03d751e6db66",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250966124/profile_e99d6edcbd65a3cef478331de0494c4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきましてありがとうございます。\n率直なところを、少し記載いたします。\n\nうーむ・・・\nさすがにすごいな・・・\n\n正直そう思う。\n\n私が描いている物語…",
+          "article_title": "2冠王になりました! - NanoBananaで描く「2冠王のポーズ」のAIイラスト - ",
+          "note_key": "n5dcd7d35b46b"
+        },
+        {
+          "key": "ncd22200924bb3",
+          "user_name": "chintakaこと柊 聖月",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/203018099/profile_dd4d0fb4bcbc3b644a7ecede39d24914.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄いですね。あやかりたい……、",
+          "article_title": "2冠王になりました! - NanoBananaで描く「2冠王のポーズ」のAIイラスト - ",
+          "note_key": "n5dcd7d35b46b"
+        }
+      ]
     }
   ]
 }

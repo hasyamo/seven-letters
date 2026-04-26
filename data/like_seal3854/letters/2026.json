@@ -79,6 +79,52 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W17",
+      "period": {
+        "start": "2026-04-20",
+        "end": "2026-04-26"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 371,
+        "likes_prev": 479,
+        "followers_start": 350,
+        "followers_end": 376,
+        "new_fans": 109,
+        "comments_total": 2,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:13",
+          "17:59"
+        ],
+        "top_article": {
+          "title": "「世界で16人」遺伝子検査の結果を聞いた時、決意したこと。｜療育日記",
+          "key": "n8d31bfcda4f7",
+          "likes": 111,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "seiji_arita",
+          "urlname": "seiji_arita",
+          "follower_count": 12458
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc6cefcd59c2f4",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん、お疲れ様です。\nＸでもnoteに取り上げられているのを見ました☺️note公式さん、結構ポストを見ていて親切ですよね。その中でものぶパパさんの、療…",
+          "article_title": "今日の注目記事＆コングラ感謝✨note開始1ヶ月半で起きた嬉しい変化",
+          "note_key": "nf2b5673a4952"
+        }
+      ]
     }
   ]
 }

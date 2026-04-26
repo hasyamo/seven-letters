@@ -354,6 +354,329 @@
           "note_key": "nadee18c7356c"
         }
       ]
+    },
+    {
+      "week": "2026-W17",
+      "period": {
+        "start": "2026-04-20",
+        "end": "2026-04-26"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 1005,
+        "likes_prev": 1028,
+        "followers_start": 910,
+        "followers_end": 942,
+        "new_fans": 122,
+        "comments_total": 81,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "16:16",
+          "22:13",
+          "18:28",
+          "19:25",
+          "17:15",
+          "15:59",
+          "18:12"
+        ],
+        "top_article": {
+          "title": "お金はないけど、なんとかなる。",
+          "key": "n143dee8f2f91",
+          "likes": 160,
+          "comments": 22
+        },
+        "notable_reader": {
+          "name": "小牧幸助｜小説・エッセイ",
+          "urlname": "komaki_kousuke",
+          "follower_count": 10901
+        },
+        "commenters_count": 24
+      },
+      "comments": [
+        {
+          "key": "nc87069321f913",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん😊\nマガジン追加ありがとうございます🍀\n革靴、主人がよく磨いています👞✨\n今回も楽しく読ませてもらいました🍵\nシリーズ楽しみにしてます😊",
+          "article_title": "【僕のスキなモノ20】シェットランドフォックス、ケンジントン II ",
+          "note_key": "n8237b72a4f5f"
+        },
+        {
+          "key": "nc4f87c52e0d94",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "靴紐ゴムにするの分かります😂\n僕はスリップインのスケッチャーズが多いです😊",
+          "article_title": "【僕のスキなモノ20】シェットランドフォックス、ケンジントン II ",
+          "note_key": "n8237b72a4f5f"
+        },
+        {
+          "key": "nc0c94d15646ce",
+          "user_name": "りーまむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186523962/profile_939af6d936ad6ca5456ee55e7d9d6404.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "靴ひもをゴムにすると、本当に便利ですよね😊\n\nジムの靴のひもをゴムに変えてからは、途中でひもを結び直すわずらわしさから解放されて、快適すぎます✨\n\n相変わらず、…",
+          "article_title": "【僕のスキなモノ20】シェットランドフォックス、ケンジントン II ",
+          "note_key": "n8237b72a4f5f"
+        },
+        {
+          "key": "nc47c5a4318faf",
+          "user_name": "紅茶🫖｜言葉で自分を整える人  ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260923743/profile_037296bb383b7b464cc7b599e5d67585.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは。\n\n🥦が気になって、カラコロ〜んってドアを開けちゃいました🤭\nよく天然とか優しいって言われるんですけど…\n自分ではあんまり分からなくて…",
+          "article_title": "【喫茶・小さな幸せ🥦】“自分らしさ”って、誰が決めてるんだろうね",
+          "note_key": "n324bcff1dec7"
+        },
+        {
+          "key": "ncc800a847b619",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "好きなメニューだ！\n特に真ん中💕\n\n週明けに出す予定の記事を書いていて、\nまさしくこのお話、本当の私について😆\n",
+          "article_title": "【喫茶・小さな幸せ🥦】“自分らしさ”って、誰が決めてるんだろうね",
+          "note_key": "n324bcff1dec7"
+        },
+        {
+          "key": "nc25f0b24f5cb5",
+          "user_name": "心の軌跡を届けるAyuna☆　誰かの勇気になるために",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241119400/profile_5d6f0f7bd87b0faeaf16702f2a48a204.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんばんは～🌠\nさっそく喫茶店開いてくれて嬉しいです😊\nコーヒー片手に話し相手が近くにいて楽しい☕️✨️",
+          "article_title": "【喫茶・小さな幸せ🥦】“自分らしさ”って、誰が決めてるんだろうね",
+          "note_key": "n324bcff1dec7"
+        },
+        {
+          "key": "nc7c3ed7306ec2",
+          "user_name": "紅茶🫖｜言葉で自分を整える人  ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260923743/profile_037296bb383b7b464cc7b599e5d67585.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nもう少しで1000人、すごいですね😳✨\n\n主催側のドキドキ、経験したことないですけど、心臓ひんやりしそうです😵‍💫\n企画、楽しみにしてます♬\n\n…",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc4d4bfa18a0a9",
+          "user_name": "🍎taiwa‐asobi｜かおりんごー( *˙▿︎˙ )♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/114209840/profile_db37134a1479eec69c8e745134841967.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "主催って、怖いのわかりますねぇ。\nいざやると、あれっ？ってなったりするし…。\n私もカモミールティー好きです！\nハーブティーでは一番好きかも。\n企画楽しみにしてい…",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc232cfa98a8e0",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、もうすぐ1000人おめでとうございます✨\n\nマガジン追加もありがとうございました☺️\n企画参加できたら、します🤗",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "ncb9614c5fe6dc",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌛*゜\n\n…ありえない事にビビるよしひろさん🤭\nよしひろさんの企画で参加者ゼロなんて、あるわけないじゃないですか😂",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc07fe039b6d55",
+          "user_name": "てぃー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209989191/profile_9cbd068e0f735456d6dc5985de73be5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000人は本当にすごい！大台に乗りますね😊\n企画、楽しみにしてます♪",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc016f2fcef777",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242853208/profile_868cf0850d54d0a98ca0406d82454cfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\n本当だぁ〜1000人間近✨️\nどんなイベントなんだろう🤭\n前回のアイコン総選挙は参加しそこねちゃったので、楽しみです🌸",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc8894cb6d6085",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんの企画に参加者0は流石にないんじゃ笑\n\nどんな企画かな〜❣️\n\n楽しみにしてます‼️",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nce8e13150e634",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262129480/profile_db21f2a3fdc02bf9bc25913c5915c0a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もうすぐ1000人を応援したく、フォローさせて頂きました♡\nマガジンに拾って頂いたことがあると思います。ありがとうございます😊",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc59423a453130",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もうすぐ、1000人✨\nまだ企画に参加したことがないので、\n気になります🤭\n",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc108d1e07b256",
+          "user_name": "りーまむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186523962/profile_939af6d936ad6ca5456ee55e7d9d6404.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ、もうすぐ1000人✨✨\nどんな企画をされるのか、今から楽しみです🎵",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc8bd6c5987c74",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😊\n主催側の「参加者ゼロだったら…😱」のくだり、すごく共感しました…！保育でいうと、保護者参観でいろいろ考えて準備して、👉楽しんでもらえ…",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "nc4b85d9f9ed71",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すご〜い🫶\nイベントされるのですね〜\n参加しますよ〜〜〜\n",
+          "article_title": "主催側って怖いよね。って話",
+          "note_key": "n157f05a71488"
+        },
+        {
+          "key": "ncb65dbf3bc683",
+          "user_name": "こどものことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260039411/profile_7290d8aa625be03f9ab8eae334bc1281.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「ゼロからのスタート」という言葉が、ずっと静かに響いています。有料記事400部、Amazonアソシエイト2,932円——数字だけ見れば地味かもしれないけれど、よ…",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "nc9befe42ce3ae",
+          "user_name": "🍎taiwa‐asobi｜かおりんごー( *˙▿︎˙ )♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/114209840/profile_db37134a1479eec69c8e745134841967.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんこんにちは！\n私はお題とか企画、最近よく参加するようになりました☺️\n色んな初めてがありますよねー！\nnoteは色々カウントしてくれるのがあるから、…",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "nc2f11c900f202",
+          "user_name": "みきこ🌿季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、マガジン追加ありがとうございます😊\n\n着々と進んでいらっしゃるんですね✨\nマイナスでなければ、モチベーションになりますね🫡",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "ncdfa2497967c1",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは✨\n\nマガジン追加とスキをありがとうございます☺️\nとても嬉しいです♡\n\nお題企画や有料記事はまだ挑戦したことがなかったので、とても勉強…",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "nc34f108920445",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "…あれ？アイコン変わりましたか？？(気のせい？？)",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "nc3681bb7adffa",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こう言うところ、さすがやんなぁ…\n\nnote公式のお題に従って…と言うのは、苦手意識、あります😆\n\nよしひろさん、チャレンジャーやし…400部以上の記事の売り上…",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "ncbee5874ad00e",
+          "user_name": "SKZS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/87111424/profile_feee3490051fda86c926b5a1c9451ea8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、お疲れ様です。\nいつもありがとうございます。\n勉強になります。\nまた寄らせてくださいね♪",
+          "article_title": "誰にだって、何にだって、最初はあるんだよ。",
+          "note_key": "n4ed8f68102f9"
+        },
+        {
+          "key": "nca0f70b17d911",
+          "user_name": "しん｜MLM11年→資産再設計パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257262565/profile_d25e67adf8ed9f43b20e6b037a9be62d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読ませていただきました！\nフォローさせてもらいます^ - ^\nよろしくお願いします😊",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nc50d7caf61954",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よっしーさん\nあ〜見てしまうのが怖い😆\n\nうちは、すでに予約の時点でカード制限かかってしまいました\n毎回、解除申請しようか、いいか、、となっていて、\n違うカード…",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nca5e89151f6e2",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは。\n\n「言葉の出し方も、受け取り方も、解釈の仕方も、ほんとに人それぞれ」\nとても共感しました✨\n\nなんとかなる♪って、\nつい独り言で言っ…",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nc0e3df9ba3508",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n人それぞれ、感じ方に違いが生まれますね🤭\n私の拙い即興詩をご紹介ありがとうございます🙇",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "ncaaba827c7ed7",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは。\n\n我が家も緊縮財政発動中です🚨\n気持ちは引き締めてるのに\n財布の紐はなかなか絞まりません😅\n💸💸\n経済回してこ！",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nceb3830f3c0a9",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うんうん。気持ちの問題ですよねー。\n何だかんだ、何とかなるというか、なるようにしかならんというか･･･\n\nどうにでもなれというか（笑）",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nc4cc1b06403c8",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250421889/profile_b0f56720aebb6d8ee14055b266debfc4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかります😅　\n\nお金は無いよりあった方がいいけれど、心配すればキリがありませんよね😵‍💫\nなんとかなる精神じゃないと、やっていけないですよね😭\n",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "ncc09fab5fa790",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私、家も車もローン地獄でございます🤣w\n\nですが！意外となんとかなるもんですね〜🤭✨w",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nc7736b9af339e",
+          "user_name": "さとりのさとり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226182676/profile_094199e7fa1bff58de5da5e07a1a43de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんとかなるサー😆😆😆",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        },
+        {
+          "key": "nc65b585b68b51",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お金のことは、なんとかなると思えばなんとかなる。\n\nそんなもんですね🤣笑",
+          "article_title": "お金はないけど、なんとかなる。",
+          "note_key": "n143dee8f2f91"
+        }
+      ]
     }
   ]
 }
