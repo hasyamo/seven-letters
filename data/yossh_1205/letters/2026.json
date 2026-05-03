@@ -677,6 +677,409 @@
           "note_key": "n143dee8f2f91"
         }
       ]
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1138,
+        "likes_prev": 1069,
+        "followers_start": 948,
+        "followers_end": 976,
+        "new_fans": 137,
+        "comments_total": 89,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "15:57",
+          "10:00",
+          "13:14",
+          "17:32",
+          "22:10",
+          "18:59",
+          "19:30"
+        ],
+        "top_article": {
+          "title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "key": "nf7751d96727e",
+          "likes": 147,
+          "comments": 26
+        },
+        "notable_reader": {
+          "name": "seiji_arita",
+          "urlname": "seiji_arita",
+          "follower_count": 12605
+        },
+        "commenters_count": 29
+      },
+      "comments": [
+        {
+          "key": "nce2d9e5d8aa89",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんわ🌙\nマガジン追加ありがとうございます🍀\nフルーツビール🍷美味しそうですね✨",
+          "article_title": "今年も来てます。ベルギービールウィークエンド🍻",
+          "note_key": "n1a3c02edc33e"
+        },
+        {
+          "key": "nc5f176d0ba591",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🍺🇧🇪✨😍😍😍",
+          "article_title": "今年も来てます。ベルギービールウィークエンド🍻",
+          "note_key": "n1a3c02edc33e"
+        },
+        {
+          "key": "ncad18b442699e",
+          "user_name": "rika🌷",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238910767/profile_373a9816961e0c2decd5f9e33be51347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フルーツビール美味しそう😋\n良いですね！！\nイベント楽しそう〜☺️✨",
+          "article_title": "今年も来てます。ベルギービールウィークエンド🍻",
+          "note_key": "n1a3c02edc33e"
+        },
+        {
+          "key": "nc993b3c6fdd02",
+          "user_name": "SKZS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/87111424/profile_feee3490051fda86c926b5a1c9451ea8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵☺︎酔っぱさんですね。\nフルーツビール美味しそうです♪\n",
+          "article_title": "今年も来てます。ベルギービールウィークエンド🍻",
+          "note_key": "n1a3c02edc33e"
+        },
+        {
+          "key": "nc1bdc0ca6a745",
+          "user_name": "さくさく|そっと寄り添う日々",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246497504/profile_d454da088a7b330bc208869532422658.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\nこんにちは😊\n\n素敵な休日が手にとるように伝わってきました✨️\nやっぱり外での🍺最高ですね！悩ましいほどの種類😳\n\nうわー！\n美味しそうです😉✨…",
+          "article_title": "今年も来てます。ベルギービールウィークエンド🍻",
+          "note_key": "n1a3c02edc33e"
+        },
+        {
+          "key": "nced76d43b6cdb",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、楽しそうです！\nお金の使い方が上手なんですね😊\n人生の楽しみ方を見習いたいです💕",
+          "article_title": "今年も来てます。ベルギービールウィークエンド🍻",
+          "note_key": "n1a3c02edc33e"
+        },
+        {
+          "key": "ncf4985cded2f6",
+          "user_name": "のあ｜自分に戻る思索note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244581020/profile_a075505b43aab98267d3b165ed95521a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nこんばんは。\nマガジン追加していただきうれしいです！\nありがとうございます✨",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "ncfef475d080ee",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267718350/profile_d73fda1af8e66cc2c55152264f38ff50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nこんにちは。\n美咲サヤです。\n\n先程はマガジンに追加していただきありがとうございます！\n\nとても嬉しいです！\n\nありがとうございました😊\n",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "ncbc1cede2b548",
+          "user_name": "🍎taiwa‐asobi｜かおりんごー( *˙▿︎˙ )♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/114209840/profile_db37134a1479eec69c8e745134841967.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんこんにちは！\nうーん、身を滅ぼすとは思いませんが、時間は溶けますね…🫠\n好奇心の取捨選択の兼ね合いについて、質問したいでーす！\n貴重性や期限に振り回…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc7ac9cf8641ac",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "好奇心は身を滅ぼすというのは、英語の「好奇心猫を殺す」という言葉に由来しているようですが……過度な好奇心はともかく、適度な好奇心は成長や発展のために、欠かせない…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nce4bdef285b3c",
+          "user_name": "みずか｜ほころんでは、ほどく。子どもとの日々から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252096893/profile_487b0797252acba719f63d29347aa42a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、質問企画ありがとうございます😊🎵\n\nよしひろさん的に、\n\n「思ったよりも届かなかったなぁ（もっと届いたら嬉しいな）」とか、\n\n「個人的には実は、け…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc72daaf5a48e0",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よっしーさん\nこうゆうときパッと出ないのです。\n\nフォロワーさん増やすことを意識したり何かしましたか？\nフォローするのに何か決まりとかありますか？\n\n\n",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nca7837c4c0b88",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、毎度マガジン追加ありがとうございます🙏\n\nお仕事しながら毎日投稿するために工夫していることは、ありますか？\n\n時間的にたいへんだと思います😊",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc56d77933c67b",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n質問募集の企画、参加しやすくて素敵ですね✨せっかくなので質問です🙋‍♀️\nこれまでで一番「やってよかった挑戦」って何ですか？\nお答え…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nce853b8abec31",
+          "user_name": "にゃんちー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247243911/profile_1556505783b49edbf889d17fa0f50227.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは☀️\n\nもうすぐ1000人😨😨😨\n次元が違う😨😨😨🤣\n\nマガジンへの掲載ありがとうございます🙇‍♀️\n\n\n質問です🙋‍♀️\n\n10代の恋…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc4429bfb54f67",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は、やっぱりウイスキーですかね🤭✨w\n\n最近のおすすめはありますか？",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nca7c16ebf7542",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん。あ\nもうすぐ1,000人…\n1,000人にちなんで、1,000円で好きなものを買うとしたら何を買いますか？\n\n私は美味しいスイーツか喫茶店でワンラ…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc0ecf298fc156",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250421889/profile_b0f56720aebb6d8ee14055b266debfc4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは✨\nもうすぐフォロワーさん、1000人なんですね！👏\n\nよしひろさんに聞きたいこと🤔\n\nやっぱり...よしひろさんの「黒歴史」かな😂\n（…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc615898a074e7",
+          "user_name": "くまごろう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269120769/profile_bb8e550a933a8e32aadbf169c399b091.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんいつも記事拝読させていただいています。あと30人ほどでフォロワー1000人なんですね！すごすぎます😅\n質問なんですけど、私は最近投資に興味を持ち始め…",
+          "article_title": "好奇心は身を滅ぼすか？",
+          "note_key": "nba126cd60af5"
+        },
+        {
+          "key": "nc413736352e6e",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268823756/profile_e9ef06799c7db4afe68f70270567cd4f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\n対話が大切にとても共感致しました\n夫もこの春、転職をしたばかりですが、前職は社員さんを大切に出来ない企業さんでした\n送り出す側のわたしも、どんど…",
+          "article_title": "メーデーとメーデー",
+          "note_key": "n81a51b30e0cc"
+        },
+        {
+          "key": "nc14aad2582a13",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\n「自分の働き方を自分で考えること」\n\nきっと心は0/100でスッキリする事ってないのでしょうが、\n会社や社会との対話、AIや、さらには家族などと…",
+          "article_title": "メーデーとメーデー",
+          "note_key": "n81a51b30e0cc"
+        },
+        {
+          "key": "nc6ca4a91f3fa0",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "労働者側との歩み寄りは、逆に企業にとっても有利に働くと思います。\n\nもし裁判になった際に、企業が自分の意見を通し、労働者の意見を無視していた場合。\nそれに対し、…",
+          "article_title": "メーデーとメーデー",
+          "note_key": "n81a51b30e0cc"
+        },
+        {
+          "key": "nc27b18de1e56d",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "物価が1.5倍くらいになってるから、ある程度やむを得ないかもしれませんね！\n\n月100万円は大きいですが😅",
+          "article_title": "お金の使い方で気づいた、変わっていないようで変わっていた僕",
+          "note_key": "nc75b6eb4eafe"
+        },
+        {
+          "key": "nc73c54dde79af",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スーパーで買物しているだけなのに、なんかいつもより高い感覚があって、レシートを見るのがクセになりました。間違って打ってないか？って、そんなことないのにぃ〜😆\n",
+          "article_title": "お金の使い方で気づいた、変わっていないようで変わっていた僕",
+          "note_key": "nc75b6eb4eafe"
+        },
+        {
+          "key": "ncc164f5ea4606",
+          "user_name": "カッパさん(あの頃の君達へ)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/197000013/profile_8f16085208b5aaa6286257d620e11e69.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんへ\nグァム旅行良かったですね。\nお金のお話し興味深く拝見しました。\n何時もマガジン追加ありがとうございます。m(_ _)m\n記事にいいね！押したらミ…",
+          "article_title": "お金の使い方で気づいた、変わっていないようで変わっていた僕",
+          "note_key": "nc75b6eb4eafe"
+        },
+        {
+          "key": "ncdc6b962f9c79",
+          "user_name": "瑠花",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198979905/profile_c94df5df6f3f9343801af95012e1a3f7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん🌸\nお金のこと、心のこと、見られ方…本当に思い当たることばかりです。\n\n特にお金は、カードや電子マネー、電子決済ばかりで流れが使ったその時には感じに…",
+          "article_title": "お金の使い方で気づいた、変わっていないようで変わっていた僕",
+          "note_key": "nc75b6eb4eafe"
+        },
+        {
+          "key": "nccf755940e671",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\n\nお金の使い方。\n\n確かに気付かぬうちに変わってますね😭\n\n外食、移動、レジャー。\n\n今は何をするにも1個やるごとに万札が消えていきます😭\n\n昔…",
+          "article_title": "お金の使い方で気づいた、変わっていないようで変わっていた僕",
+          "note_key": "nc75b6eb4eafe"
+        },
+        {
+          "key": "ncfc26c3dce770",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お金の使い方もですが，我が家とは桁が違いすぎて、ケタケタ笑いたいʅ（◞‿◟）ʃお手上げ~\n\nこちらは、毎月，綱渡りの生活で，ヒヤヒヤε=ε=ε=ε=ε=ε=┌(…",
+          "article_title": "グアムへGOしたら、外壁塗装が追いかけてきた💰",
+          "note_key": "n621f434e0819"
+        },
+        {
+          "key": "nccde4003f48a1",
+          "user_name": "ゆめふわ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269791551/profile_8d1c204059c757ca2321102cf571b2d6.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この体験談を読んで、旅行の楽しさや素敵な思い出を感じる一方で、お金や予算の現実的なプレッシャーも実感しました。少し慌てる場面もあったけれど、それでも前向きな姿勢…",
+          "article_title": "グアムへGOしたら、外壁塗装が追いかけてきた💰",
+          "note_key": "n621f434e0819"
+        },
+        {
+          "key": "nc43db2bb7655a",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、お金の使い方、参考になります✨\nリアルのカード決済額を見る機会ないですから、口座管理の勉強になりました🫡\n\n家賃、光熱費まで１つの口座で管理されて…",
+          "article_title": "グアムへGOしたら、外壁塗装が追いかけてきた💰",
+          "note_key": "n621f434e0819"
+        },
+        {
+          "key": "nc5f2abd08f13e",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん😆\nグアム旅行うらやましいです〜✨\n大きなバナナも可愛いですね🍌",
+          "article_title": "グアムへGOしたら、外壁塗装が追いかけてきた💰",
+          "note_key": "n621f434e0819"
+        },
+        {
+          "key": "nce33cdb72e27c",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんと💵\n使いましたね🫣\nうちは来月です、予約の段階ですでに怖い状況です。なるべく知らないフリしてます。",
+          "article_title": "グアムへGOしたら、外壁塗装が追いかけてきた💰",
+          "note_key": "n621f434e0819"
+        },
+        {
+          "key": "nc5fb1b8966dbd",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250421889/profile_b0f56720aebb6d8ee14055b266debfc4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます💐\nこのボリュームでこのお値段は、\nお得でした✨\n\nちょっと記事の内容で迷っていたので、\n背中を押されました🥰\nありがとうござい…",
+          "article_title": "「自分には何もない」と思う人ほど、ちゃんと経験値を持っている",
+          "note_key": "nc32ca997ea75"
+        },
+        {
+          "key": "nc4eda09cf90f2",
+          "user_name": "なつのこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262005602/profile_82a90e85dee150c1d1bc0d3e4c381471.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん🌷\n\nこんばんは🌠\n人生はちゃんと帳尻が合っているという言葉にほっとします🙂‍↕️\n確か美輪明宏さんも同じようなことを言われていました。\n皆同じだけ…",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc0cc3d9e1c2cf",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんのこの発想、本当にわかりにくい貸借対照表などを丁寧に、そして感情というみなさんが分かりやすい内容で説明してるのが、めちゃくちゃ感動しました🥹✨",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc2e2a87e57acc",
+          "user_name": "にっきーマウスは躁鬱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264522804/profile_588d985d44905189f10d62589c1633ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事を拝見しました。\n\n私は人生はパチンコみたいなものだと思っていました。\n引っ張るほど遠くに飛んでいきます。\n\n現在元社畜限界うつニートですが果たしていつ報わ…",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc41c04ad609d6",
+          "user_name": "かつとし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269896925/profile_53f6be5fb5ca2d99bd2ba660dd7eaa01.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かつとしです。\n\nいつも投稿楽しく読ませていただいています☺️\n\nよしひろさんの記事には気付かされる事が多いです。\n\n自分でもnote書きたくなるパワーをもらえ…",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nca30ee69065db",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268823756/profile_e9ef06799c7db4afe68f70270567cd4f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nいつもありがとうございます😊\n部活が商業部だったので簿記の例えがとても分かりやすくて\n自分でも簡易版のバレットジャーナルを初めてみてから、毎日、…",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc6d8a3e1bf8ca",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "単なる負債ではなく、得られた経験を複式簿記のように書いてみる。\nそれだけでも、感じ方が大きく変わるかもしれません。\nそしてその経験は、最終的に純資産＝その人自身…",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc4b29461399f9",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "簿記って役に立つんですね！\n雰囲気イラストが柔らかくて親しみやすいです✨\nあ、マガジン追加ありがとうございました🙏",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc90f560b32551",
+          "user_name": "小芝 凛  ╱Rin  Koshiba",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238873241/profile_c7652ed087bc514a276653727f8845c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん✨\n\nあるあるです💕\n意識を変えるだけで\n見える景色は変わりますね😉\nありがとうございます🫶💕☺️",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc06babfdf8631",
+          "user_name": "てぃー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209989191/profile_9cbd068e0f735456d6dc5985de73be5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃめちゃ例え上手で分かりやすくて面白いです！\n結局、人生の経験が純資産になるんなら、嫌なこともポジティブに捉えられるっことですね♪こういう考え方大好きです😊",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "ncb9af61b8ba4b",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242853208/profile_868cf0850d54d0a98ca0406d82454cfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nこの記事、簿記の試験で苦労してた頃に読みたかったです（笑）",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "nc2e693deed04b",
+          "user_name": "りーまむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186523962/profile_939af6d936ad6ca5456ee55e7d9d6404.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おぉ〜、なんか楽しい考え方ですね🌸人生も帳尻あってるのなら、どんな経験も何かに活かせる気がする〜\n\nちなみに、簿記とった気がする〜💰",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        },
+        {
+          "key": "ncc933efd4b8e3",
+          "user_name": "みずか｜ほころんでは、ほどく。子どもとの日々から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252096893/profile_487b0797252acba719f63d29347aa42a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "雰囲気とはいえ、すごくまとまっていて、読みやすいイラストにちょっと感動しています😳\n楽しい気づきを、ありがとうございます😌🎵",
+          "article_title": "幸せも不幸も、ちゃんと【帳尻】は合っているのかもしれない",
+          "note_key": "nf7751d96727e"
+        }
+      ]
     }
   ]
 }

@@ -125,6 +125,51 @@
           "note_key": "nf2b5673a4952"
         }
       ]
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 202,
+        "likes_prev": 391,
+        "followers_start": 383,
+        "followers_end": 397,
+        "new_fans": 62,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "01:01"
+        ],
+        "top_article": {
+          "title": "【前編】記憶が飛びかけた1ヶ月｜極限のワンオペで壊れかけた話",
+          "key": "n07cc6ef7b32a",
+          "likes": 79,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "もかぽん｜noteビジネス全力組｜時間とお金と心の余裕を手に入れる＠フォロバ100",
+          "urlname": "mocapon_960",
+          "follower_count": 3982
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc815bd82f955f",
+          "user_name": "ＣＯＯＬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "出産と引っ越し同時はキツいです💧\n\nっていうか普通無理です。\n\n私も思考が止まる瞬間の経験ありますが\nちょっと比べものにならないです。\n読んでて締め付けられまし…",
+          "article_title": "【前編】記憶が飛びかけた1ヶ月",
+          "note_key": "n07cc6ef7b32a"
+        }
+      ]
     }
   ]
 }

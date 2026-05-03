@@ -153,6 +153,42 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 108,
+        "likes_prev": 92,
+        "followers_start": 397,
+        "followers_end": 404,
+        "new_fans": 39,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:59"
+        ],
+        "top_article": {
+          "title": "【AIの進化と、彼女たちの成長記録】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #ChatGPT #Gemini No.38",
+          "key": "n7f07e05809f0",
+          "likes": 66,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "Makari｜AIイラストと副業",
+          "urlname": "makari_5108010",
+          "follower_count": 4830
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 2
     }
   ]
 }

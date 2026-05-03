@@ -1,0 +1,33 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 76,
+        "likes_prev": 251,
+        "followers_start": 1248,
+        "followers_end": 1248,
+        "new_fans": 30,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 9421
+        },
+        "commenters_count": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,849 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 825,
+        "likes_prev": 770,
+        "followers_start": 1085,
+        "followers_end": 1133,
+        "new_fans": 163,
+        "comments_total": 198,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:59",
+          "07:19",
+          "06:29",
+          "06:23",
+          "11:15",
+          "06:35",
+          "06:09",
+          "06:18"
+        ],
+        "top_article": {
+          "title": "架空のファッションブランドを、深夜のノリで作ったで｜GPT-Image-2｜画像生成AI｜ChatGPT｜デザイン｜ブランドポスター｜#351",
+          "key": "na39f8bd0d904",
+          "likes": 119,
+          "comments": 38
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12493
+        },
+        "commenters_count": 46
+      },
+      "comments": [
+        {
+          "key": "ncaf23b86dcd18",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もうさ、いきなり会員数越されそうだから、加入条件をオレのFC参加者にしてくれる？\nつかスゴイなおい💦　大盤振る舞いじゃん💦\nでもゆっきーのアートコレクションにし…",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "ncb52beb74b87d",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさん、\n雪詠さんのところ行って来ました。\n美術館の静寂な空気好き。\n\n🐶書き書き✍️お伝え、修正しました。\n\n有り難く２４番いただきました。\nフ…",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nccd0acff520ec",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん…夜勤明けで捕縛されて、延々と生成AIの話を詰められためじゅの声無き叫びが、今、供養されました……ｳﾚｼｲﾅｸ…✨🙏😭🫶💕✨\n\n水っぽいの、メチャ嬉…",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "ncfbd73ba3a49a",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、はじめまして。今回雪詠さんのところで美術館の展示を知り、ART会員のことを知り、入会希望お伝えしてまいりました。素敵な世界観、応援させてください✨",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc254d49f8c123",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え、会員アート、一日でこんなに作ったん？🤣\n流石やな…(⊙ˍ⊙)‼️",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "ncb4171cc6e1d4",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あざーっす！\nパンツ履いてるか気になっちゃったｗｗ",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc94f8f2c0b17c",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240093917/profile_a066b70a64fae52d27f5911589d27fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あざまーす！！(ﾉ≧∀≦)ﾉ\n相変わらずのハイクオリティ！",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc69435ffb88ac",
+          "user_name": "masaya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はあ～～～\nカッコいい～～\nこれ欲しい～\n\n会員登録お願いに行って来ます。\nよろしくお願いします！",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc01248f9e61c0",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265064674/profile_5e2b8df9937c93d415da358760f53b33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごぃです！！\nこんなのっぺりしたアイコンをアートにしてくださって感動です😭\nどれも素敵で見惚れてしまいます💕",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "ncdfd60fbaa650",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヤヴァ〜い！\nすご〜い！\n(´｡✪ω✪｡ ` )\n語彙力低下中←イマココ💦\n\n私の記事でも紹介しなきゃだわ♡\n…と雪詠さんのコメント欄でも言ってたな\n( ˃ ▵…",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc6ce073504604",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "美しくて、カッコいい！！\nスゴーーい！！\nどの作品も見惚れます🫶\n発足してくれたゆきちゃんに感謝💕\n\nきたさん、ありがとうございます😊\n私のイメージがとっても魅…",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "ncff0df8888510",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい！私が擬人化された！？\n保存しました！ありがとうございます！！",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc3a70e8541cde",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんファンクラブ！？\n入ってきまーす！！🙋‍♀️\n\nファンクラブ特典が豪華🥺",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc44df8dda9d44",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、コミックビューアに入れても面白そう！！！\n表紙を美術館にしたら、まるで、入るみたいに演出できないかな！？✨",
+          "article_title": "やらかした会員証",
+          "note_key": "nb731b54c1a13"
+        },
+        {
+          "key": "nc47f1477ef643",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こりゃオマケ欲しさに頑張るわ💦\nつかオマケのレベルちゃうやろこれ⁉️\n｡･ﾟ･(ﾉ∀`)･ﾟ･｡",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc1d4d70dac981",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "2か月連続の愛が伝わってしまった～(/ω＼)\n\n雪詠さん、美しい...💕\nナオユキさん、しぶくてカッコイイ...✨\n3位...大事にします...というか自慢しま…",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc82869b16cb1e",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回のイラストも、どれもステキですね！😆✨絵がすごいのもありますが、デザイン的にまとまっていてとてもスキです☺️🎉\n\nそしてログの解析、すごいです！まさか自分の…",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc3ed7d2cab94d",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます🌸✨\nめちゃくちゃカッコよくて\nとっても嬉しいです♬\n\nナオユキさんがイケメンでドキドキしますね✨\nメイシンさんはとってもお美しいです～😍\n…",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc3e8f878c3742",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このKITAcoreブランドのイラストはみんな嬉しいはず！\n5月のランキング楽しみ😊\nランキングもデータからロジック予想するのも🤭",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc1ac7a8789600",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわーナオユキさんイケメンすぎ。\n雪詠さん美しい。\n\n………コソコソ\nコッソリメイシンちゃん保存中",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc17ceaa9377ea",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ナオユキさん、別人😅\n\nキタコレさんがナオユキさんの師匠だとは知らなかったです！\nフォローせねば🫡",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nca3aaa241f4bb",
+          "user_name": "鈴森よいほ｜AIコンテンツ／思想型クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242279897/profile_2db3d5cbd59beffac37a4fbff5a53902.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、おはようございます😊\n\nどのイラストも素敵ですが、なんか雪詠さんがずっと月間1位だったりしそうです🤣❄️",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nc45a013c6e5d6",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん😭\nありがとうございます‼️‼️\n\n何気にメンズ初なんですね⚜️\n\nこんなにステキなイラスト作っていただき光栄です😌\n\n雪詠さんもメイシンさんのイラ…",
+          "article_title": "4月の月間ランキング発表",
+          "note_key": "n6eababb59f88"
+        },
+        {
+          "key": "nce61934029e4a",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "だよな。Tsushimaとか侍ゲーはあるけど聞いたことないし。\nさすがに半年以上プレステ触ってないけどそれまで毎日だったからさ。\nこれもフェイクになるんかな？",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc777711d27329",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "作ろうかな……🐻\n(と思ったけど、｢ブラウザ上で動作｣、｢オフライン対応｣、｢独特な世界観｣、｢エントリースマホでも軽快な動作｣、｢ストレスにならないレスポンス…",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc7f5e92153ea3",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "CRIMSON RONIN知ってるー！！\n\nなんとなく切ってれば倒せちゃうタイプじゃなくて、\nちゃんと考えて立ち回ることでクリアできる設計なの、すごくいいですよ…",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc8cdd216cf76c",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完全にゲームする気マンマンでした🤣\n\nインターネットで探したけれど、見つからないわけだ🤤✨",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc5fd7bf22091e",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はあー✨\nすごいな🥰\n\n私はゲームしないから聞いたことない\nゲームだな〜って調べちゃいました🤣\n\n確かに、昔はお人形を使って\n物語を作ったりしてたから\nその延長…",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc90c0ad3cdc4b",
+          "user_name": "いちごいぬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213181612/profile_699199ae339deda4f12f0ff817d176d2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えーーー😱\nSteamかなぁと思って探したのに…笑\nめっちゃ面白い印象を受けるレビューでした✨",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc126ed1d14099",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😍なにコレ！めっちゃスキな世界観✨\nって思ったら、\n妄想かーーーい！プレイしたかったーー🤣",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc5d1a07801296",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PS5か、スイッチ対応しないかな……\nって思っちゃいました！笑\n\n\n架空だった！お見事です😆\nプレイ動画、検索する所でした笑",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc68dad7898669",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "思わず「実機」？ソシャゲ？って聞きたかった笑🤣\n映像は！？画像は！？とか思ってしまった(笑)🤣\nそうか、権利的な問題で見せれんのか～と思ったらまさかの架空！すご…",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "ncd6380406d9f8",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254868775/profile_38cb7a116664fd3195a55e744bf16e5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごく好きです（！？）\nGost of Tsushima や RONIN の雰囲気で出てゾクゾクしました！",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc4d22e00ef3c7",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "X見てたから知ってる架空のゲームでした😆✨",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc417a0d422a22",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "存在せんのかーい🤣\n真面目に読んでた笑",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc3358378d17fb",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "架空のゲームだろうと思ってたけど、読んでるうちに、「あれっほんまに売ってるんか」、「KITAさんゲームする時間まで確保してる」と見事に騙されました🤣",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc724ee45b9bdc",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そのうち、こういう妄想ゲームがAIで簡単に作れてしまう日が来るのだろうか。\n\nすごい世の中になりましたね✨",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc6c5e34467919",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかる！\n友達んちで遊んで面白かったゲームの攻略本だけ買ったことあります",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc40049f1dfca3",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゲーム作り楽しそう！！\n\n「敵の動きを見る。\n間合いを読む。\n無理に攻めない」\nこの辺り好き。\nすごいねえ！\n\nキャラによって分けるも\nありだろうか？\n世界観が…",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "ncd087976c27fa",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イイネ✨✨😆👍✨✨\nウレルアルヨ……✨💖✨",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc8887e19ee112",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわぁー！\nめっちゃ面白そう😳\n\nやってみたい！！\nって思ったら架空ゲームで、驚きました🤭\n",
+          "article_title": "知ってる人は知ってるゲーム『CRIMSON RONIN』をレビューしてみる",
+          "note_key": "nd40ccf85126e"
+        },
+        {
+          "key": "nc35eb81622cbb",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265064674/profile_5e2b8df9937c93d415da358760f53b33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん\nApple Watchを持ってはいますが、最近重いのであまり付けなくなっていました。\nこれからは睡眠や運動など、データを蓄積していこうと思います😊…",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc69f4aec97d43",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさーん、おはようございます☃️\n\nとても勉強になりました！Apple Watchを使ってますが、時計とアラームくらいにしか使ってなかったです💦\n\n個人デ…",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "ncf98d57b9e314",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "僕、ポケモンスリープやるためにFitbitトラッカー身につけてるんですけど、時計としてしか使ってないですねぇ⋯⋯・\nたまに、お、1万歩！とか思うぐらい？\n\nFi…",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc8104d7271474",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Androidのワタクシ。身も心もGoogleです💦",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "ncf97a2c5bf965",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "金属アレルギーでも安心して使えるのってないんですかね💦",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc5d2204d85066",
+          "user_name": "いちごいぬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213181612/profile_699199ae339deda4f12f0ff817d176d2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん！こんにちは😃\nこれは来ますね！！\nSaaSでデータを集める。\n個人の健康管理をする。\n第三者提供の許可をとっておく。\n匿名化したデータを企業に売る…",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc2228d2d5df49",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅのApple Watchは、単なる腕時計であーる。\nデータ関連は、一切、触れてない…😅💦\n\n要するに、豚に真珠的な扱いをされてる、不憫なApple Wat…",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc0301761da8b7",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n過去記事読んでからこの記事読むと、健康管理への意識についてもずっと観測してるのが分かって面白かった。\n詳細レポートリンクが貼られてないよ👀",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc71d233009cc2",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんおはよう\\(//∇//)\\💓💖\n健康管理・🇺🇸からやって来る未来\\(//∇//)\\\n未知への投資は自分のバイタリティを\n救うのかも知れないね\\(//…",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "nc19d058312e54",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まじすか！？すげえ！\nApple Watchほしくなってしまいました！かえませんけど！\n\nいつもありがとうございます！",
+          "article_title": "Apple WatchとClaudeが変えるApple Health健康データ活用の未来",
+          "note_key": "ne9c67dacf06d"
+        },
+        {
+          "key": "ncdd90d0c7b323",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コレですね！\n一気にメンシプ募集しましょう！",
+          "article_title": "ワイが手伝えるnote運用とAI活用のこと",
+          "note_key": "nef644cd467cd"
+        },
+        {
+          "key": "ncd8ea5c589f82",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん💖\nKITAcoreの世界観は、めじゅには一発で分かるわけですが…（ちょっと自慢しちょる💦）\n特に召喚で起きていることって、物凄く興味深いんですよね…",
+          "article_title": "ワイが手伝えるnote運用とAI活用のこと",
+          "note_key": "nef644cd467cd"
+        },
+        {
+          "key": "nc1229dbf14548",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレが思うにそれを【兄やんがやってくれる】ことに価値があると思う。\nもうキタコレはブランド化しつつある。\nキタコレ風の絵じゃなくてキタコレの絵に価値があると思う…",
+          "article_title": "ワイが手伝えるnote運用とAI活用のこと",
+          "note_key": "nef644cd467cd"
+        },
+        {
+          "key": "nc1ab2f172b56a",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「3. 遊びをちゃんと設計する」←これがサイコーにかっこいい！！✨\nでもって、実現できてんのが凄いです😳",
+          "article_title": "ワイが手伝えるnote運用とAI活用のこと",
+          "note_key": "nef644cd467cd"
+        },
+        {
+          "key": "nc60b891aea8c1",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "へぇ〜KITAさんのメンシプ\nそんなことやってるんですね〜\n\nて、めちゃくちゃ\nいいじゃないですか😆♡\n\nこんな内容ですって、\nそんなことどっかに書いてありまし…",
+          "article_title": "ワイが手伝えるnote運用とAI活用のこと",
+          "note_key": "nef644cd467cd"
+        },
+        {
+          "key": "nc25733560473c",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさんは、毎時すごいねえ。\n朝と夜でもう変わる、速い。\n🐶💓モグモグ。\nChatGPTの共同マガジンCCCの中を\n見て回ってました。\n☆*:.｡.…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc5a8845e5d28f",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うふ、すみません🙃\n前の記事でもしっかり、取説は誰かが作ってくれるって書いていらっしゃったのに🙃\n\n楽しく遊べました💖\nありがとうございます🥰",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc180bdc979183",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタさん💕こんばんは\n実は、前に１回チャレンジしたけど\nできなかった😅\n\nちゃんと記事にしている\nみなさん、すごいな〜✨\nまた、今度挑戦しよう！\nと思いながら.…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc9ad62af5e15a",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、これはまたスタイリッシュな取説です💕\nというかイラストとデザインすべてがスタイリッシュにできてる人なんですね！\n\nツールというものが便利なのは、ね…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "ncfec425f7bc05",
+          "user_name": "ことばの余白",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248547849/profile_d8ac1acf50d9e92afb038a70a0f14b35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん\n\nはじめまして。ことばの余白と申します。\n\nあんさんのところでお見かけし、とてもすてきだなと思っておりました。\n\n私もやってみたくなりました。\nど…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "ncb9c0ffff24dc",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やろう、という気はある。\n\n\n今は気力がない｡･ﾟ･(ﾉ∀`)･ﾟ･｡",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc47a52cb560f6",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、こんばんは🌛*゜\n\n今日投稿した記事の中のポスター、このマニュアルとにらめっこしながら作りました😆\n\n（前の記事に貼ってくださってる「マニュアル」…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc84fd654ff046",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルー＝シャーナちゃんがこちらの記事を\n教えてくれました💖\n\nわたしの頭じゃちんぷんかんぷん🌀過ぎて\n出来なかったので、\n今度こそ挑んでみますっ💪✨←取説見ても怪…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "ncd48c920b266e",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介ありがとうございます😭\n\nマニュアルは後…  \nにーやんあるあるなんですね🤣\n確かに！ゲームはマニュアル見ずにまずやってますもん👍✨\n\nサムネは今のがスキ…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nccc295182ed8f",
+          "user_name": "ゆかり| 愛して、笑って、今を生きる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270633803/profile_238aa5aa8ae416218ac80c01767508b6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん\n記事の掲載ありがとうございます💕\n\nあんさんが作っていらしたポスターに惹かれて、わたしも作ってみたい、と思いまして作りましたところ、\nあまりにも美…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "ncfa5c559e5d88",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん\n\n取説が後。\n\nこれ、意外とある。\n\n電子機器とりあえず触ってみて分からなくなってから取説読むタイプです。\n\n家でPC触るのめんどくさいので、また…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc5b6e7ca97457",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさん💫\n記事の紹介ありがとうございます😊\nどんどんバージョンアップされていきますね💕\n再度作ってみます。\nあまりに美しくできて感動しました。\nそしてみなさん…",
+          "article_title": "プロンプトビルダーの取説、今さら作ったで",
+          "note_key": "nf6ccaf0568b1"
+        },
+        {
+          "key": "nc3107d67c8dd9",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいいブランドです✨\n\n値段設定がリアルで、ほんとうにありそう🤭🍀\nそして、実在したら、めちゃくちゃ売れそうです✨✨✨",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc9b5ca4f56a5c",
+          "user_name": "ミュリン♪",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ia9d968d56480.jpg",
+          "body": "✨KITAcore✨ブランド✨\nめっちゃカッコイイです‼️\nヽ(*´∀｀)ﾉ♪",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc393f4258aabd",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ダメ‼️\nフェイク画像‼️ダメ‼️\n\nつか売れそうで怖いｗ\nマーコもいそうで怖いわ💦",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "ncc67dacb5c45e",
+          "user_name": "女児OL",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269079045/profile_bb7ceadd7956d683da28a0a48f6d1eb4.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n退廃的な支配階層とレジスタンスみたいな世界観でゾクッときます＾＾",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc754fb877f088",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんは、デザイナーさんだったんですね！\nおしゃれな雑誌が一晩でできるのが夢のようです😍",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "ncab0dcd9c9014",
+          "user_name": "ねむねこうさぎ｜Suno音楽・イラスト・読書好き",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267264872/profile_16a875445bafe580aa5d2a514489d0cd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "架空なのに完全に本物のブランドで、見ながらふつうに「欲しい…」ってなりました😂\n深夜のノリでここまでできるの、すごすぎる！\nフォローさせていただきました🐰",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc480d42e01943",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コレ、もう仕事として成り立ってますやん‼️\n\n業者殺到案件✨✨✨\n\nきっと、記事だけじゃなくて本当に黒字案件だと思います💖\n\nそして、極めつけのマーコさん🐎\n\n…",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc8badaa2d6acf",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさん、はじめまして☃️\n\nいつもこっそり記事を拝見させて頂いているのですが、どのイラストもステキすぎます！😆✨\n\nまたイラストのコンセプトや下地…",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc762660da3ded",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん💖\nブランドプロデューサーのKITAさんから、マーコ姉さんに、フルオーダーお願いしたい…✨🙏✨\n\n常に推しのマーコ姉さんを身につけたいから、アクセサ…",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc0838137e0c11",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "丙午まーこがKITAcoreアートに‼️\n朝から眼福がすぎます💛",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "ncf4cd97e515ec",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ、マーコさんデザインだから、レスキューのオレンジなんだ(笑)",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "ncc6e228d0396a",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、ロンドンコレクションとかでも\n扱われるブランドに進化しそうですね🤩🤩🤩‼️",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc033c0f59d9e5",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう☀️\n内容もイラストもいちいちカッコいい✨🥹",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "ncdee85317b5f2",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "馬子さんやったー🐴💖💖💖\nカッコイイーーー！",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc1c42665c55c6",
+          "user_name": "masaya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い！\nホントにKITAcoreさん、凄いです。\n\n個人的に、黒もオレンジも好きなので、\nめっちゃ魅かれます。\n\nこんなにコンセプト・主張がしっかりしたブランド…",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc26c56a9406e3",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わあ！かっこいいです…！🐹✨",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "ncd85008c029c0",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おしゃれー！かっちょいい！",
+          "article_title": "架空のファッションブランドを、深夜のノリで作ったで",
+          "note_key": "na39f8bd0d904"
+        },
+        {
+          "key": "nc7cbb5f262bbb",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239592709/profile_250d34144fa08d815200c316945962d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさん✨\nおはようございます！\n\nこの子の空気感、すごく好きです😌\n無機質な中でちゃんと“生きてる感じ”が伝わってきました✨\nかっこいい世界観です…",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "ncf349575a3eb7",
+          "user_name": "るこのみらい｜有料noteとCanvaで「できるかも」を育てるnote🌱",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタさん💕こんにちは\n\nダルメイちゃんが\nキタさんワールドへ✨\nカッコいい🥰💕\n\nサムネの色合いが好きだな〜\nって思ったけど、\n意外と赤×青のポスター\nもカッコ…",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc94e9269f3591",
+          "user_name": "金田まり|スタートアップ&起業支援してるワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267547136/profile_058271d3689074a31099e0ff4810c782.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このダルメイさんが入れたコーヒー飲みたいです！",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "ncaa5f8417dea3",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレもそろそろまたダルメイやらないとな💧ナンバー2が泣くわ💧",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "ncba4ca537c3a1",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ダルメイちゃん😍\nカッコイイですね♬\n上を見上げてるの一番スキ🫶💞💖",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc59f7c84254b8",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うっわ、めっちゃかっこい〜😆♥️♥️♥️  ダルそうとは思わず、どちらかというと、スパイシーな面の方が炸裂💕 皮肉屋さんの方😍♥️ そこもダルメイさんの魅力💕 …",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc2276738d94d7",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カッコ良すぎて、堪らんです🥹\n\nこの感じた言葉で伝えるって難しい🤣",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc125c3b00fbd8",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え、もうダルメイちゃんエモくて好き😍",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc91316c5c1a08",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カッケーな！\nゲージツだゲージツ‼️\nゲージツがここにある‼️😍😍😍",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nce9a21c5c4c24",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん✨\nカッコイイ〜です😍🤩✨\nカッコイイダルメイちゃんがいっぱいいて\nめちゃめちゃ興奮しております🤣💗💞❣️\nやっぱりKITAさんのイラストは\n基本何…",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "ncb178138e4e81",
+          "user_name": "masaya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nあり！です。\nめちゃくちゃ楽しませてもらいました。\n\n正直、KITAcoreさんのメインの記事は、\nぼくにはほぼチンプンカンプンで (^…",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc9ca443d5aa80",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コーヒー好き☕️いつも飲むよ。\nいま、ダルメイちゃんのところで、KITAcoreさんの\nこの記事のこと出てたから、抜けてきました。\n\nまた、メイシンさんのところ…",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc4510c8e4190c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱKITAさんのイラスト凄いなぁ。\n動画のモノクロからカラーになる演出が良かったです😊\n会員証発行してもらったのに幽霊部員状態なので、僕も何かしないと😅",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc5e4678fde30b",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "顔の角度がいい！\nかっこいいですわ〜",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        },
+        {
+          "key": "nc85a3eabe1df7",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "召喚企画、そのときのKITAさんの興味とも掛け合わさっていて、ナマモノな感じする！\nすごく新鮮！\nいつまでも飽きさせないのがさすがって思う😆♡\n\nきたさん、おは…",
+          "article_title": "ModayCafeってなんやんねん。",
+          "note_key": "ne2c1b7ed560e"
+        }
+      ]
+    }
+  ]
+}

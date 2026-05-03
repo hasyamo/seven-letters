@@ -274,6 +274,100 @@
           "note_key": "n5dcd7d35b46b"
         }
       ]
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 802,
+        "likes_prev": 651,
+        "followers_start": 3106,
+        "followers_end": 3151,
+        "new_fans": 175,
+        "comments_total": 13,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "09:22",
+          "09:10"
+        ],
+        "top_article": {
+          "title": "#AIと始めてみた - NanoBananaで描く「GWの過ごし方」のAIイラスト - ｜AIイラストの魅力｜AIイラストの描き方｜AIアート ｜AI漫画　",
+          "key": "n7f4a30c3f241",
+          "likes": 281,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12493
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "ncf078eab68038",
+          "user_name": "AI映像研究会",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240440345/profile_18e86506c0ec70621fd5a6be10ce9966.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめましてです。\n投稿拝見しました。活用例、すごく参考になりました！ありがとうございます！！",
+          "article_title": "「Geminiを使ってコンテンツ制作の作業効率を上げる方法」",
+          "note_key": "naf84080972a8"
+        },
+        {
+          "key": "ncaedc843c0350",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です投稿拝見しました。これは！！恥ずかしいです。しかも現実はもっとおっちゃんです。お顔がまっかっか。",
+          "article_title": "「Geminiを使ってコンテンツ制作の作業効率を上げる方法」",
+          "note_key": "naf84080972a8"
+        },
+        {
+          "key": "nc6ed4c8e7b4aa",
+          "user_name": "しょう｜印象を磨いて信頼を掴む",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/224788752/profile_210fd7d72456514659e840912716a788.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォローありがとうございます。\nGWの過ごし方、色々なパターンがあって面白かったです！",
+          "article_title": "#AIと始めてみた - NanoBananaで描く「GWの過ごし方」のAIイラスト - ",
+          "note_key": "n7f4a30c3f241"
+        },
+        {
+          "key": "ncb4fe6d80e1b8",
+          "user_name": "つくし＠KATACHI",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "千住まいかさん、こんばんは🌙\n女の子がベッドに寝転びながら本を読んでいるイラストは、本をめくる指の動きまで再現されていて良いですね😊\n本が近くて、女の子が遠くに…",
+          "article_title": "#AIと始めてみた - NanoBananaで描く「GWの過ごし方」のAIイラスト - ",
+          "note_key": "n7f4a30c3f241"
+        },
+        {
+          "key": "nc3dd69840d0fd",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265064674/profile_5e2b8df9937c93d415da358760f53b33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、はじめまして\n\nGeminiで描いたAIイラスト素敵ですね！\n最近ChatGPTに乗り換えましたが、NanoBananaでもプロンプト次第でこんなに…",
+          "article_title": "#AIと始めてみた - NanoBananaで描く「GWの過ごし方」のAIイラスト - ",
+          "note_key": "n7f4a30c3f241"
+        },
+        {
+          "key": "nc42271a46cf98",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です投稿拝見しました。ついていきます。まいかさん。今日のイラスト、春のピクニック、緑の中で気分よさそう。",
+          "article_title": "#AIと始めてみた - NanoBananaで描く「GWの過ごし方」のAIイラスト - ",
+          "note_key": "n7f4a30c3f241"
+        },
+        {
+          "key": "nceb2da665ed46",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "駆け抜けてる、まいかさん格好良い💓ステキ🐶💓",
+          "article_title": "#AIと始めてみた - NanoBananaで描く「GWの過ごし方」のAIイラスト - ",
+          "note_key": "n7f4a30c3f241"
+        }
+      ]
     }
   ]
 }

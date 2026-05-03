@@ -1096,6 +1096,493 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 442,
+        "likes_prev": 651,
+        "followers_start": 1288,
+        "followers_end": 1311,
+        "new_fans": 111,
+        "comments_total": 121,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "16:00",
+          "14:03",
+          "16:29"
+        ],
+        "top_article": {
+          "title": "AIでMVを作りました｜青く響いたらええ| 音楽創作企画参加作品|Suno|Seedance2.0|ChatGPT Images 2.0|AI活用|",
+          "key": "n6b1f19298c3c",
+          "likes": 137,
+          "comments": 51
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12369
+        },
+        "commenters_count": 38
+      },
+      "comments": [
+        {
+          "key": "nc9282fc8247b1",
+          "user_name": "clutch0105 │ 言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころChan（勝手に、お呼びしていいかしら^^）\nわたしはクラちゃんでも大歓迎です^^\n\nメイちゃんからの記事からお邪魔します✨\nこの度は、CCC共同運営マ…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc229a5ffe0a6c",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🌸はじめまして‼️\n\nメイシンちゃんのお知らせからやって参りました✨✨✨\nchatGPTには\n対話や記事の文面調整や、画像生成で大変お世話になってま…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc2ef398573c12",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264636081/profile_8cc32dc7dcd5744599c82918639643ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいい😎\nネーミングですね✨\nメンバーさん達が凄い人ばかりで流石です🫡\nうわー気になります🌟楽しそうだけど\n私にはハードル高そう😢",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "ncccb2bbe020a8",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "CCC発足おめでとうございます！\n創作アカの方で入部希望してきたよ。\n運営メンバーが豪華で、お知らせ読みながらわくわくしました✨️\nCCC呼びやすい👍️✨️",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc852b29fafd8c",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぅぉ〜、ねんころさんのこういう熱いところ大好きです✨\n素敵です〜！！！！\n入りたい！！....けど、入れるほど、ちゃんとAIと対話できてない😭",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc901edba98491",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは♪\n\nすごーい楽しそう🌟ワクワクしかないですね☺️\n入りたいです！って言えるほどの、スキルがないのが\n悔やまれます😆",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "ncf19868d7d25b",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして✨\nAI初心者なので、とても興味があります。\nメンバーが豪華すぎて眩しいのですが\n\nまずは見学からでもよろしいでしょうか？\nどうぞよろしくお願いいた…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc5765aef39140",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nまた、楽しそうなことを始められたのですね🤩\n\nフォローさせていただきましたが、メンバーが豪華すぎます〜🫨\n\nしばし陰から覗かせていただきます…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "ncef8bb25397e0",
+          "user_name": "あぼかどみ｜ポンコツ母、たぶん前進中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234429296/profile_f00a82ce902fce83cba71774e14c582e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おもしろいことどんどん実現されててすごいです✨✨\n私も最近またChatGPT使っていて、オリジナルのキャラクターを作ったりしてるんですけど、ビビリ…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc3e6f7c062cb3",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごー！豪華メンバーだ！\n熱いですね！！",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc71437755fe0d",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😊\n\nめちゃくちゃ楽しそうな活動ですね😆\nメンバーがアツいです⭐\n\n創作かぁ✨\nまずは見学からさせていただきます🦉",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc453ce9dd9a42",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "仮部員ですが、よろしくお願いします。\n強強メンバーばかりやわ。",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc7614df457225",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💖\nめじゅです、なんちゃってポンコツめじゅです😅💦\n素敵な部活…違った、マガジン✨\n皆さん、本当に活発な交流を楽しまれていて…\nｽｺﾞｲﾃﾞｽ…✨⁝…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc5560285f2b3f",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん✨\n楽しそうですねー🙌\n\n私もChatGPTは好きですー🥰\n擬人化や創作はそこまでできてないのですが‥\nでもこれからチャレンジしてみたい気持ちはあ…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc9e2a05044a01",
+          "user_name": "りょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😊\nめちゃくちゃ楽しそうなマガジン🤩\n私もやってみたい欲で入部希望してきました🙋‍♀️行けるかな?\n",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc6f7ea42ac98c",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nいやいや、鳥肌立ったよ！\nメンバーが神過ぎる🤭\n猛者クリエイター集まりすぎやん🤣\n\nしかも、コンセプトが\nChatGPTが好きってええやん🫰…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc381a94b6240d",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ部長、お疲れ様です。\n了解🫡\n仕事の後ネイルで帰宅遅くなるけど\n明日の朝には追撃記事します。\n色々ありがとうございます\n今後ともよろしくです。\n取り急ぎ…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "ncb6dd62a68de0",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころ～ん😊✨✨\n\n創作かぁ…創作してるかなぁって思ったけど、\n最近、画像作って遊んでたりしてるから、\nやってるって言える⋯⋯？\n\nでも、ChatGPTは大好きな…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc4faf23252f97",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nなかなか楽しそうなことを始められましたね。\n\nうちのはGeminiやClaudeにツッコミをいれたり、他のAIをまとめるのでとても忙…",
+          "article_title": "【共同マガジン】ChatGPT Creative Club、はじめます",
+          "note_key": "n68e9e636eccb"
+        },
+        {
+          "key": "nc3632453a4b22",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんでもクリエイター！！\n私も再課金悩むわ。",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc5803714f67ef",
+          "user_name": "Kurono Sora",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229770029/profile_fe228f62e11beca310da85f934133c3e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは！\n企画からやってきました✨\n\nMVめっちゃかっこよかったです！\n街の光のきれいさと、そらちゃんのかっこよさに見入ってしまいました！\n\n…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc8f4a99a40e70",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\n「温度で届けばええ」\nそのとおりですね✨\nすてきでした。",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc790b21f61505",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254868775/profile_38cb7a116664fd3195a55e744bf16e5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "超イイーE\nノリが良い\nそらちゃんかっこいい",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncf19bfed5361c",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネンコロさん、こんばんは♪\nすごい素敵な歌💓\nわいにはちょっとニヤけて\nしまいました😆\nそらちゃん、かっこいい😎",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc3ad16fd4d026",
+          "user_name": "UNDABESAN",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242751341/profile_f3e490537103874dddc536c761fb097d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "格好良いっすね〜♪映像も曲も！",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc57d03d75c91d",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😊\n\nそらちゃんがまた男前に…シュッとして…✨\n\n歌詞を最初に見たとき、\n「わい」とか「〜たらええ」、どうやって歌うんだろう？と思ったのですが…👀\n…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc0706a06d2562",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このビジュアルで\nワイって言うのがいいバランス〜😆♡\n好きです♡\n\nあ、あと\n午前零時の交差点って歌詞\n\n徳永英明さんの\nレイニーブルーを思い出したけど、\n\nそ…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncf12b41d49e80",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262490434/profile_2063ec10025f981cb3975de6fac71daf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころん🍀\nすごい、すごい、\nめっちゃそらちゃんかっこいいやん😊\nうまくMVできてたよー✨\n",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncbbc7bd94dc1f",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "◯◯たらええ、の歌詞、どう歌うんかな？\nって思いながら曲聞いたらめっちゃカッコよくて笑いました🤣\nMVもカッコよ！！\nころんの創作スキルがめきめき上がってゆく～…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc6a70ca7f1740",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんも参加してた💕💕💕💕💕💕💕💕💕💕\nすっご～～～～～～～～～～～い！\nめっちゃいい～\nぇ～😭みんなこんなに凄い音楽を・・・\n羨ましいっす！！！！マジで",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nca441489cd762",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ姫ー、こんばんは。\n姫の王子は私だと思ってたのに\nあ、もしかしたら勘違い⁉️\nてことがわかるほど王子でした。\n\nこんなビジュの相棒と毎日話てたら\n私だっ…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc02e4c82b4c6c",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは☃️\n\nそらちゃんのMVめっちゃカッコよかったです！✨特に手を差し伸べてくるシーンはドキッ(?)としました🤣✨最後の「わいは歌うよ」も…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc234f21ae070d",
+          "user_name": "もへ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242311501/profile_0b664e507333362e974f63ca5fbd9f5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらさんのなびく髪かっこえええ〜🤤💓と思って見てたら最後めっちゃ動いて無事キュン死🕺💓😻\nかっこよすぎます〜🙏💖",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc2b37e85548d9",
+          "user_name": "のら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235575676/profile_43dcde3158a2a2cb17955aa48a2f26a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして✨きらきらしてかっこいい関西弁の美形さんが素敵でした😊💕💕Seedance ってはじめて聞きましたが、なんだか良さそう…！😇",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc9a77a9998992",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💕\nカッコイイ！！\nそら様の美形力までも発揮されたMV✨\n華麗なるダンス姿と関西弁歌詞！！\n\n変でもええ\n青く響いたらええ\n\nここは響きました～✨\n…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncf6790790e5a5",
+          "user_name": "clutch0105 │ 言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ San\nごきげんよう(^^)/✨\n企画への参加ありがとうございます🍒\n\nSunoへお邪魔させていただきました💕\nいい時間をもらいました🥰",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc4706f9bce535",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272621430/profile_c751790b6f7095f8d0f0803c418939ea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え、MVめっちゃカッコイイ🤣✨\n\nそらちゃんの\nギャップやばすぎる🤣✨\n\n私も自分のキャラで\nMV作りたくなったわあ〜💗",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc6e7c30ff3ead",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nそらちゃんまたまたカッケェー🤭\n大阪弁混じりなんがそらちゃんらしくてええやん👍笑\n\n前のキレキレダンスから、今回は滑らかで余裕のあるダンスだ…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncbff6df5e4d59",
+          "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271259641/profile_bd8adf88b92992744c3589189389de90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは！\n\nそらちゃん、男前ですね〜☺️\n個人的に、スーツの柄がすごく綺麗だなと思わず感動していました！\n\nやっぱり、動画作成は、しっかり画像…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncc3a905742fb8",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは😆\n\nそらちゃんカッコいい✨オシャレな映像も素敵ですね！\n\n青く響いたらええ　ってタイトルもいいっすね😆いや、ええっすね！\n\n「わい」っ…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc81057be49bb9",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは〜！\nそらちゃんのMVめちゃくちゃかっこいいです✨\n動画に関しては素人でコメントが難しいのですが\n単純に感動してしまいました✨\n\n最近私…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "ncd52047b2f157",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは😊\n企画に参加してくださって本当にありがとうございます✨\n「変でもええ。未完成でもええ。青く響いたらええ。」という言葉が、\nまっすぐ企画…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc386ee86b2aa0",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃんファンなので一コメ失礼します😍\n踊るように歩くそらちゃんカッコいいです💕\nもはや、なにをしててもカッコいいです💕💕\n\n顔と髪型はちょっとずつ変わってい…",
+          "article_title": "AIでMVを作りました",
+          "note_key": "n6b1f19298c3c"
+        },
+        {
+          "key": "nc1348716a3d5e",
+          "user_name": "金田まり|スタートアップ&起業支援してるワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267547136/profile_058271d3689074a31099e0ff4810c782.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Sora様をここまで活かせるチャッピーのすごさを改めて実感です🫶\n\n今回動画も含めた一連の制作過程から、バナー広告作成をかなりGPT Image 2が押し上げて…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "ncaac71f2efebb",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "途中から「Sora様」呼びになってるのに気づいて笑いました。\nねんころさんが様付けするくらいだから、そりゃ顔が強い🤣\nむらさんもコメントしてるけど、みんなスキル…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc8b3e70eb5d03",
+          "user_name": "みるぷり｜夢見るフリーランス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269785644/profile_14092d66d95aa0c1d002861e17c887ec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんばんは🌙*·̩͙\n\nなんか凄いことに😳😍\n\nSoraさんがまさかの凄く透き通るようなイケメンに😍そしてクオリティも凄いです🤩",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc66eeb8c5250b",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわー💦出遅れました。\n家帰って、ゆっくりと思ってたら昨夜はゴミ虫モードなってました💦　　\n\nそらちゃんの爽やかなビジュアルに香水ってめっちゃ合ってるよね。\nも…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc2bb64d211074",
+          "user_name": "MOTOKEN｜AI事業責任者12年×元お笑い芸人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254724530/profile_a920af7f69ba802a5758f265b8badca9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ビジュアルで香水を売る矛盾を、逆に武器にしてる発想がおもろい！見えないものを見せる技術として生成AIを使うって、めっちゃ腑に落ちる使い方だなと思う。\n\n特にモデ…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "ncb6f23ece08a7",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nすごー！！\nそらちゃ…ソラ様が男前過ぎて惚れてまうやんか🤣笑\nそして23歳って、結構若い子なんやね☺️\n\nマジでチャッピー君の画像生成の進化…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc5ea30228cf9a",
+          "user_name": "安達｢チーム🦁｣｜AIと共闘し600を必達する者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271259641/profile_bd8adf88b92992744c3589189389de90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは！\n\n今回のソラさん、イケメンですねー！\n\n美女っほかったり、イケメンだったり底知れない子ですね…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc138bd7b27964",
+          "user_name": "りょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんばんわー😊\nソラ様すごいことになってる🤩\nしかも画像みただけで爽やかな香りが漂ってくる感じ🤤\n広告を作るうえで今では人間を撮影しなくても出来上が…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "ncb128fbdc08a9",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すっごいボリューム！\nポスター作りから動画まで網羅してるー！\n\nこれみるとまだまだ頑張れるなって思います！\nほんと刺激ありまくり！\n\nいつもありがとうございます…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc756381652632",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nやーん、まんま広告に使えそうですね✨\n素敵ですわー🥰\n\n動画も絵コンテシートがあるとシンプルなプロンプトでもここまでのものができ…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "ncfc342618558c",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわ～キラキラのそらちゃんが動いた〜✨\n感動です💕\nもとはGPTだったのを忘れそうです😊",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nce86869337335",
+          "user_name": "ありふれた",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270072564/profile_e805c5c887d9479e0b3d193aca9718bb.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわあ、本当に綺麗で魅力的ですね！✨\n実は僕もAIイラストや音楽を作っているんですが、ねんころさんの作品ほど上手くはいかなくて…。僕にとって、ねんころさんの作品…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        },
+        {
+          "key": "nc0ccd3fff4240",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\n素敵な創作ですね。\n\nこちらはチェックインでクレジットを貯め続けてますが、これといって作りたいものが未だに思いつかないので、とりあえ…",
+          "article_title": "Pollo AIでGPT Image 2とSeedance 2.0を使って、架空の高級香水ブランド広告ビジュアルを作ってみた|生成AI|ChatGPT|画像生成AI|PR|",
+          "note_key": "n2946a9234c45"
+        }
+      ]
     }
   ]
 }

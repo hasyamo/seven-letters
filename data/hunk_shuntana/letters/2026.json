@@ -1708,6 +1708,380 @@
           "note_key": "ndfece4ee3222"
         }
       ]
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 291,
+        "likes_prev": 383,
+        "followers_start": 552,
+        "followers_end": 573,
+        "new_fans": 45,
+        "comments_total": 120,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:36",
+          "22:50"
+        ],
+        "top_article": {
+          "title": "謝辞｜いろいろ思うこと。",
+          "key": "nb0a42ba561ff",
+          "likes": 116,
+          "comments": 69
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12555
+        },
+        "commenters_count": 30
+      },
+      "comments": [
+        {
+          "key": "ncfb6a8382a212",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハンクさん❣️入院までするのね。心配だけど💦　その前に、そんな大きな集大成と言える制作があるんですね‼️‼️‼️  \n\nめっちゃ応援してる〜〜❤️❤️❤️✨✨✨…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc84794f55b447",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、こんにちは。\n実家に帰省されてるんですね。\nゆっくり養生なさって心身ともに\n安寧な日々になる事を願ってます。\n\nちなみに、私はと言うと\nゴールデン…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc53689c8dab59",
+          "user_name": "建从",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268290328/profile_37b163031edaeefeeeb5efedbba78aaa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ボートハウス初耳なんで調べたら\nテリー伊藤さんもファンなんですね😄\n僕が学生時代買えなかったブランドは\nバウンティーハンターつうバンド繋がりの\nブランドですね\n…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc8ec740432c2f",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ファッションセンターいまさらってめっちゃいいネーミングw\n入院、大丈夫ですか！？",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncc5546aba56fc",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ファッションセンター『いまさら』いまさラー御用達ブランドでしょうか？\n(*ﾉ∀`)ﾉﾞ))ｱﾋｬﾋｬ\nはんくさんは、本当にダジャレ？がお好きっすね🤣\n次の動画も…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncce963abf8cda",
+          "user_name": "吾唯足ルヲ知ラズ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/18876004/profile_4d14aaef59b533647748aecad50dca48.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ!?入院するの😯",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc40e50826dc84",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スルメイシン、紹介していただき(ㅅ ॑꒳ ॑*)感謝♡ですぅ\n\nメイシンさん本人は3人でもいいよぉと言ってましたが(๑>ฅฅ<๑)ぷぷｯ♪\n\n今日もスルメイシン…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncfd148a8e8bb4",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "二日間ごゆっくり休養ください😌",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncdc44f27d5251",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ファッションセンターいまさら、、、、www\n流石です✨　好きすぎる🫨\nしっかり休んで、無理せず！\n次の作品、ゆっくり待ってます💕",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncad631d26b13f",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "季節の変わり目も落ち着き、少しは体調はマシになられましたでしょうか。😢\nホントに、お身体が資本ですから、くれぐれもご自愛ください。\n\n新作も近々、発表されるとの…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc3c6e060647d9",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ラッキーストライクが、はんくさんらしい〜💓💓💓",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc75fc3d0ab2a4",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ファッションセンターいまさら！！！😂\n\n私はんくさんの口調やセンス、note仲間への愛あるネーミングや話しかた大好きなんです🤭✨\n\n白Tかわいい！",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncb50f63500306",
+          "user_name": "ういまる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262416249/profile_6afa0c6ae55faab820fd1ab090d2e6cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんお邪魔します🙇\n先生の集大成なんて、期待しないわけがないという(笑)\nむしろ宣伝しますよ👍微力ながら🤣🤣",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc450ac2d74afe",
+          "user_name": "masaya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "集大成。期待してほしい。・・って\nそこまで言っちゃう！\n\nもちろん、大いに期待してます！\n待ち遠しいです。",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc00c617510303",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "集大成の作品、とっても楽しみにしています。\nそして、それを全力で応援しますよ！！\n\nファッションセンターいまさら🤣\nこうゆうところのセンスが大好きです💞\n",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncff602af4f454",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\n本日もお疲れ様です。\n…といっても、ご帰宅した後に制作が待ってるんですね。\nご自愛ください…！\n\n追伸\nタイトル画像のタバコ。\n銘柄が同じなのは存…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc8642fd63a523",
+          "user_name": "ストーリーテラー愛の歌詠み師UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265644859/profile_f49fdf5555da2c715b6c2e4b8cb98ed4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、体調大丈夫ですか⁉️\nYouTubeあと7人ですね🌈✨\n私の記事にもシェアさせていただきました🤗\nあまりお力になれないかもですが、応援してます📣",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc3d5d016fcdf5",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！\n\nお大事に、ゆっくり休んでください！私のnote用アカウントでよければチャンネル登録しますよ笑",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "ncbf070ff8329c",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "部屋の片付けをしたくないでござる。\n半年前に納品した品、今頃なんか調子悪いって只今検品中\n\nGWは初日から現実逃避中だけど、宣伝は最優先でやりましたよー\n(それ…",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc09c6bd020394",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やった！一番のり\n記事紹介ありがとうございます🌸✨\nにーやんも盛り上げていきますよー🫶💞💖\n\n作品楽しみにしています！\nでも、あまり根詰めないでね🌿",
+          "article_title": "戦士の休息|ゴールデンウイーク",
+          "note_key": "n7d56934f8e4f"
+        },
+        {
+          "key": "nc7c97b2748868",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "案件である……その発想は、ありませんでした。\nそう考えると、今回のチップは素直に受け取ることができます。\nそして、私の過去の記事でも書いたように、ヒトタラヲさん…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc593fb9a3664a",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239592709/profile_250d34144fa08d815200c316945962d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんく白執事さん💖\n週末の勢いすごかったですね😂✨\nまた再生しにいきますね〜！✨",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncbeb146b8fa4b",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265064674/profile_5e2b8df9937c93d415da358760f53b33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\n会員証ありがとうございます〜！\nこれからも応援させてもらいます😊🎉💕",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc5878c2a6a6e3",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\n私も会員証ゲットしたー\n\n26番💖💖💖よろしくねー同世代よー💖💖💖",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc6ee017fd8dae",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おつかれちゃーん٩(ˊᗜˋ*)و\n\nはんくちゃんに追いつけるようにわしも頑張るぞー❤️\n",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncaecf4799754c",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、こんばんは☃️\n\n遅くなりましたが、濃厚な週末お疲れ様でしたー✨自分はタラヲさんの企画でテンプレを使用させてもらい、本当にありがとうございました！…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc5a09a102de50",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんもお疲れっす！いやーすごいですな！\nまだまだお互いにもう一花いやいやふた花、さらにさらに…。\n若人の見本になれるようにまだまだ頑張っていきまっしょうい…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncab00fc884428",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "楽しい週末が明けてボーッとしています😆\nまずは500人突破ですね！\nはんビ連でもNo.007をいただきましたので、\nはんくBOSSのボンドガールとしても応援しち…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc573db5d2f39d",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あと12人ー！！目指しましょー！！\nみんなで集めれば絶対届くはず！！(⊃ > - < )⊃⌒♡",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc7ffef62e835d",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あと12人✨\n楽しい週末でしたね😊👍✨\nお疲れさまでした🫶💖\n\nゆっくり休んで…もうひと頑張りお願いいたしますね💖\n",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc542cde4d3030",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🌹✨\nYouTubeの登録者数、もう\nすぐ500人になるんだね❣️\n\n1,000人目指して頑張ってね‼️❤️✨❤️✨❤️✨🥰\n\n私もヒトタラヲさんのメ…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nca8daa116d4c1",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そうそう、「何だよ、ただの案件じゃん、メンドクサ」\nって参加しませんでした(笑)\n\nイラスト載せてくれてありがとうございます😆‼️💞\nカワムーは毎日、残り再生回…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncfb1694498db9",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんと、この週末は特にイベントが詰まってましたよね！\n\nこれからも、濃密に絡み合っていきましょうね〜💎🐯💎",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncbbae4f578388",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あと12人‼️\nもう少しでとりあえずのスパチャはできる\nｵｫｫ(,,º໐º,,*)*ᕷ˖°\n\n私は再生回数、稼ぐために動画行脚をいたします\nﾄｺﾄｺε”ε”ﾍ(…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc9f3f131eb770",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、おはようございます☀️\n昨夜は久しぶりに日付が変わる前に気絶していました。\n\n戦友とか恐れ多いけどありがとうございます。昔流行った怪盗ロワイヤル風…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncf62b3ea19110",
+          "user_name": "ゆらり🌹🫧　🫶💕",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239767432/profile_47e4f415224790b9faa65da8165fa21d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "You Tuber\n力（チカラ）\nあるある\nでしょう❣️\n\n☺️",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc1cf55e291a53",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nおはようございます。\nそりゃ「人生最後の肩書きに」なんて言われたら…\n推すしかない！\n押してきました！チャンネル登録！\n\n会員証は受けとりたいけど…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc4b4e9cb6dcfe",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい、これだけの強力なバックアップあればYouTuberへはすぐですよ！\n\n自分は他の方々みたいにスキル無いですけど、寧ろいいんかな、このメンバーに並んでしま…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "ncad9415d5bcf7",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nお疲れ様☺️\n\n忙しくも充実した幸せな週末を過ごせた様子が記事から伝わってきて、幸せな気持ちになりました🍀\n\nこれからも怪しい部門担当として、応援…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc05b11ec20e97",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238869884/profile_a2c72772e53cbe97d49b7b0837a9c0a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すげぇ～💦\nでも、楽しくなってきた✨️🌈\n\nやっぱ、カッコいいです😳はんくさん！\nとりあえず、なんかまだまだ色々と起きそうな予感です！！！",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc57ad766dd704",
+          "user_name": "ういまる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262416249/profile_6afa0c6ae55faab820fd1ab090d2e6cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "先生お邪魔します🙇\n頭が働いてない中読んでしもうて何をしたら良いかわからんですが、また楽しそうなのことをしてるくらいにしか理解出来ない😵‍💫(笑)\nここにきて色…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        },
+        {
+          "key": "nc7e8318f421e7",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかもう、唖然とするようなスピードでいろんなことが現実化加速…\n「YouTuber」になる夢が叶うのも、あっという間な気がするなあ。💦\n\nなにしろ、生きるのが…",
+          "article_title": "謝辞",
+          "note_key": "nb0a42ba561ff"
+        }
+      ]
     }
   ]
 }

@@ -824,6 +824,97 @@
           "note_key": "ne7a1296c4fe0"
         }
       ]
+    },
+    {
+      "week": "2026-W18",
+      "period": {
+        "start": "2026-04-27",
+        "end": "2026-05-03"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 162,
+        "likes_prev": 244,
+        "followers_start": 223,
+        "followers_end": 240,
+        "new_fans": 44,
+        "comments_total": 16,
+        "posts_count": 15,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:00",
+          "06:00",
+          "07:00",
+          "06:00",
+          "07:00",
+          "06:00",
+          "06:30",
+          "06:00",
+          "06:30",
+          "06:00",
+          "06:00",
+          "20:00",
+          "12:00",
+          "12:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "本当にあった怖い話 《vol.2》 17歳の不合理 | 辻褄の合わない行動の結果が起こしたこと",
+          "key": "neccfa9fc453d",
+          "likes": 15,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 14665
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc9dce0bf1d118",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イラストめっちゃ素敵。\n特にサムネが好きです！",
+          "article_title": "流れの途中  vol.20.5",
+          "note_key": "n3ac4995f11c2"
+        },
+        {
+          "key": "ncda008a4827b4",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学（ナラティヴ×構造×意味）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250769673/profile_88a9cfa744c172930f0763ba491af3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "宝石の名前が色で決まらないなら\n何で名前が決まるんですか？\n\n鉱石の成分ですかね？？\n肉眼では分からないのかな？？\n\n普段考えていた疑問を思い出しました＾＾\n\n…",
+          "article_title": "めじゅ語辞典 vol.24【サファイア】",
+          "note_key": "na1d3879ffd71"
+        },
+        {
+          "key": "ncfc1801af8d8d",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレはタイガーストーンが好きだな。",
+          "article_title": "めじゅ語辞典 vol.23【ペリドット】",
+          "note_key": "n8d59eb9ca8bf"
+        },
+        {
+          "key": "ncb42895662ae4",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルビー、誕生石なので、好きな色なんですが、\nサファイアと同じ石だと知った時は、「ええ〜？」ってビックリでした。\nぜんぜん違う色なのに…  \n青と赤の中間の「紫色…",
+          "article_title": "めじゅ語辞典 vol.22 【ルビー】",
+          "note_key": "n4f1b206992e6"
+        },
+        {
+          "key": "nc5a366bb6d0e6",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もともと感覚がズレてるからなオレは。\nオレはギャップが大好きだ。明から暗。暗から明。\nオレの動画づくりの基盤はギャップ。ズレの面白さの追求。\n\nしかしめじゅは学…",
+          "article_title": "84度33分のズレで、世界は壊れずに済んでいる | 完全ではないことの、意味",
+          "note_key": "n2d2387304c51"
+        }
+      ]
     }
   ]
 }
