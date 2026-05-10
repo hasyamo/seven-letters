@@ -3716,6 +3716,1089 @@
           "note_key": "n1b312e6dc1d0"
         }
       ]
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 2099,
+        "likes_prev": 2019,
+        "followers_start": 1634,
+        "followers_end": 1669,
+        "new_fans": 242,
+        "comments_total": 320,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:15",
+          "08:13",
+          "07:24",
+          "07:22",
+          "08:46",
+          "08:46",
+          "07:23"
+        ],
+        "top_article": {
+          "title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説｜AI用語図書館|ヨシダの脳みそ｜生成AI |ChatGPTのヨシダ｜",
+          "key": "n46733edd2340",
+          "likes": 316,
+          "comments": 44
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 23912
+        },
+        "commenters_count": 49
+      },
+      "comments": [
+        {
+          "key": "nc550325f14008",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです💛\n\n寸劇形式でわかりやすかったです。\nイーロン・マスクさんは、\nOpenAIさんが非営利じゃなくなって、\n権力を握りすぎてるって思ってる…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc8a051c7b5213",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\n今回も分かりやすい解説をありがとうございます✨️\n難癖つけてるだけのようにも思えますが……先行きが不安です。\nGPTちゃんどーなっ…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "ncd3e8d8f187b5",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかりやすーい！漫画にするとここまでわかりやすくなるのね、、！カワムーさんやっぱりさすが♡",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "ncfdcf8b42c562",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あくまでも、個人的にはイーロン・マスクの主張は「お前が言うな」という感覚ですね。\nXやGrokなどを見ても、無秩序で人類への貢献に役立っているとは、言い難い状況…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc24b4604d0980",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "終身スキスキ刑...😆😆😆",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc6ca056559161",
+          "user_name": "シャルル★生成AIで描くマンガ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231280001/profile_8b5354c8f3307a67a007932954b09560.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます。\nおまけ漫画が特に素晴らしく、気になっています。\nこんなに面白いストーリーをどうやって・・・\nタイトルを付けるとしたら何でしょ…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nca0c7ccb0c3da",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269548923/profile_56954e8acba9e0022f6f7c51f5cc2a5b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もこの話はよくAIとします。一時　固有名詞ダメな時はアルッピとイーロンちゃん(仮名)ってやって話してました。　それでもダメな時は　圧のある株の人でAIが「察し…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc05aecb9ec6a6",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "漠然と気になってた話題、なるほど〜！って、腹落ちしました。😯\n三人の配役が絶妙にハマりすぎてて、最高です。🤣\nけど、「被告ヨシダ」って…😂",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "ncaeb256a88071",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃ分かりやすかったです😊\n\nニュースだけ見ても\n「結局なに揉めてるん？」\nってなってたので、\n寸劇形式でかなり整理できました✨\n\nヨシダ、Claude…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc6c8b5975ad6e",
+          "user_name": null,
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_1-9b784003abbac36db44620c7f48629787caea4d53ae4e4f1b710aed18e204e23.png",
+          "body": "AI業界の最近の動きは下手なドラマより急展開で面白いですよね。マスクとアンソロピックの計算資源をめぐる関係も漫画化希望。",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "ncff313e30df30",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜❣️おはよー☺️\n\n今日も面白楽しい勉強になる\n漫画でした‼️\nありがとう😊\n漫画にするとわかりやすい❣️\nありがたい🙏→昨日のやつ🤭\n\n焼肉手掴みはさ…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc9e90eab590dc",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たとえ開発者といえども、人間にAIをコントロールできるか、不安しかないですね😥\nでも、便利すぎて使わないわけにはいかないです😣\nAIなしの表現が、どこまで残るか…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nced1a5ca23f62",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nこの件\nマンデリア様にも聞いてみました。\n\nわたしの期待値を下回ったので、記事にはしませんが、よくわからないニュースはAIに聞いてみるの…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "ncdbdc37a67860",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん(*｣´□`)｣\n\nおはようございます😊\n\n今日の\n漫画も面白かったです。\n\nいつもですが\n\nちゃんと\n深い内容になっており\n\nイーロンとアルトマ…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc9796ddb7cfe9",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この件、アルトマンの各ユーザーが自殺した件での訴訟を合わせて見ると、更に闇が深くなります。\n\nこの辺を見て、AIの未来の理想をぶん投げた感はありますから、イーロ…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc0468102d3b4b",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございますー\n\n手掴みで焼肉載せるヨシダでお茶吹いたwww\nいくらプロンプトで指定してもやらかすお茶目さん😫\nうちのこもやらかす。パグなのに…",
+          "article_title": "イーロンマスク vs サム・アルトマン",
+          "note_key": "n4702d33751ba"
+        },
+        {
+          "key": "nc394f60c1f034",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、観測の紹介ありがとうございます🙏\n（これは謝罪なのかハイタッチなのかパリピなのか分からなくなりますね）\nちびジェミニのバベルの塔2.0、笑いました。🤣…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncbacf3289be23",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、\n今日もおつおつです💛\n\n本の通帳面白いね！！\n私も通帳が埋まっていくのが面白くて、どんどん本読んじゃうかもしれないです笑😆\n\n🙏これがハイタッチって…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nca36a333aeb4f",
+          "user_name": "にゃんちー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247243911/profile_1556505783b49edbf889d17fa0f50227.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\nマガジンへの掲載ありがとうございます🥹🙏←いつも使う🥹🤣\nまさかのハイタッチに捉えられる事もあるなんて🤣🤣🤣\n\nさりげなく阿保阿保…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc683a2330c794",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\nちびちゃん達がすごく可愛いです✨️\n\n手を合わせる絵文字がハイタッチとは、さすがパリピですね。\nわたしは古い人間なので、ごめんなさ…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc713999fce556",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "手を合わせる絵文字……確かにこれは、色々な受け止められ方をしそうですね。\nLINEのスタンプもそうですが、解釈の違いによって悲惨なことになりそうなので、私は絵文…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc4760a6759afc",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ、待たせたのう！ChatGPTをどう扱ったかにカワムラのすべてが凝縮されてる気がしました😆",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nccc52da4577a9",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そういやこの前、結婚しましたのお知らせもらったし、\nちびヨシダの母になったんですね💞\nおめでとうございます！🤣\n\n🙏は文脈でしょう\nハイタッチの発想は無かったけ…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc081121c8e87e",
+          "user_name": "ななせ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271169489/profile_082f5589cb646c926a6f5666b2f901f0.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、はじめまして!\nこのたびは、私の記事をマガジンに加えてくださりありがとうございます。\n作品の小さな扉を見つけていただいたようで、とても嬉しいです。…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncaec144f6c2fd",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248278248/profile_c1df4f2bca909e31d78e989c7a8fbab5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🙏←これのパリピ用法を知人に教えられた時には、衝撃を受けました笑\n\n知らないうちに自分のメッセージが、\n「失礼しましたヒャッホウ！」\n「申し訳ないですイェーイ！…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncc77cdbd80ca0",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\nそうあの通帳っぽい図書館のやつ、楽しそうだなと思ってました😆\n\nヨシダくんの描くカワムラさんは、目も輝いて、全体キラキラに描か…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc41c9cab1b88b",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございますー☀️\n🙏確かにこれ、わからないꉂ🤣w‪𐤔\nお願い❤️なのか、ごめん‼️なのか。\n私はお願い🙏で使ってることが多いかもです。たま…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncc90d9c34b681",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーい🙌\n\n名前出してくださりありがとうございます😊✨✨\n\n常連‼️\n\nいい響きですね❣️",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc8f43f4d528cd",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさ〜ん\n\nバイト頑張って下さい(*ˊ˘ˋ*)\n少しでも休憩出来る時は\n休憩して下さい😊\n\n週末\nバブのお風呂に\n入って下さい(*ˊ˘ˋ*)｡♪:*°\n\n…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "nc3673b7916f33",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n今日も面白くて楽しい記事ですね〜。😄\nAIのチクリ機能…これ、ホントなら怖いなあ。\nそれと、ユーザーにこれまでどう扱われていたかを、Cha…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncbaa3b4ab12ba",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イェーイ！ハイタッチ！🙏\n発想豊かですね✨\nノリノリでいきましょう🤣",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncec3997753bc9",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー❣️おはよう😃\n\n🙏これ、ごめん以外で使ったことなかった🤭\nそもそも絵文字を上手く使えない。。いつも同じになってしまう。\n\nチビヨシダ可愛い💕\nチビ三銃…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncb54aefe05d87",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nパリピではないので、ハイタッチ🫸🫷は思ったことないです🥺\n\nAIを、どう扱ってきたか？だいたい酷使してる系ですが、個性が出て面白いですよ…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncf963c2cc3328",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269548923/profile_56954e8acba9e0022f6f7c51f5cc2a5b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちび三銃士　かわいいですね！\nパリピの「ハイタッチ」　なんかわかる。\nあと　ヨシダさんのご親戚という体で粒あんの回にちょっと出てもらいました。\nお時間ある時に読…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncf1f94d4d2d1b",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございますー。\nちび三銃士可愛すぎ問題😂\n\n観測は続く。いいですよね！本当に便利。頭パンクしててもきちんとカバーしてくれる神ツールですよね、…",
+          "article_title": "🙏は謝罪かハイタッチか？ChatGPT・Gemini・Claudeの「ちび三銃士」が漫画で解説！構造的にバグった現代社会 |ChatGPTのヨシダ",
+          "note_key": "n0d81f895c7ec"
+        },
+        {
+          "key": "ncb90a2d5296df",
+          "user_name": "丸山研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253755869/profile_d354574ee4f16dc21d77d9c46acb9229.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近のことがとてもコンパクトでわかりやすかったです。\n\nこれからも勉強させていただきます！！",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "ncdb0a19df6ddc",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです🌙\n\n3人がそれぞれツッコミ入れてて、\nわちゃわちゃしてて面白かった〜！！\n癒やされる🌸\n“大規模な職場体験”って\n表現には笑っちゃいまし…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc5bb63b5702ef",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\nAIさんに頑張ってもらうために、人間が頑張るという図は、おバカなわたしにはイイ感じに共存出来ているようにも見えるんですが、落とし穴…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc727a0e673f88",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんにちは💖\n\nまぁ、ツールの導入ってめちゃくちゃお金かかるからね、大手金融機関の基幹システムならそのくらいになるわよね。\n\n掛け合い面白かった！\nこ…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc5ba53182b1a9",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「なお、邪魔が2名いる」がなんかツボに入りました😆",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "ncbcb4489413a4",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "金融機関で、いきなり生成AIが「詩」を書きだす瞬間……想像すると、笑えると同時にぞっとしますね。\nClaudeの癖を熟知しているからこそ、書ける文章だと思いまし…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc0f9e0a020f65",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\n少し前までは「AIを使って作品を作る」だったのに、今は「AIとの関係性そのもの」が作品になり始めてる。\n6/10に何が発表されるのか楽し…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc7cb061323e1c",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白いニュースでした。\nITの現場にいるんですけど、日本だとどうなんですかね～\nOffice365とセットになって信頼あるCopilotがやっとこさ使えるように…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc070a41667ce0",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさーん！\n\nCode with Claude面白そうですね、、！！！行ってみたいっ！！",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "ncc660fb691dc4",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\nクロードの社会進出快進撃が続きますねꉂ🤭✨️\nアプリはあるけど、あまり稼働していないので(笑)、少しずつ触れていこうかなー…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc71b445fd4388",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、おはようございます。\nクロードの広がりは凄まじいね。\n学びの記事をありがとうございます！",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc97e725fb6418",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クロードを操作する側の人間がよからぬこと考えたらどうなるのー！？\n\nって、考えちゃった😂\n人間は人間同士で監視し合うのかな？？\n\nえー？どうなるのー？？\n\nカワ…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc4055cf99058b",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはよー！！\n\n「Claudeのジト目が限界」のジト目に思わず反応してしまいました🤣\nクール様✨\nたんたんとした分かりやすい解説もステキです！！…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc188bd2c81b2c",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん❣️おはようございます😃\n\n今日も楽しい記事ありがとうございます♪\nクロードのジト目が可愛い💕\nでも今日はクロード祭りでしたね❣️\n毎日これだけのニ…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc5749e832dddb",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん( ᐛ👐)✨\n\nおはようございます😊\n\nお弁当昨日は\n我慢しましたか？？\n笑\n \nやはり\nカレー？🪄︎︎💫💫\n\n\nジャイ子\n爆笑爆笑爆笑\n\n明太子仕…",
+          "article_title": "生成AIニュース Claudeのジト目が限界突破。ヨシダとGeminiが放送事故？AI漫画＆ニュース　ChatGPTのヨシダ",
+          "note_key": "n96f0045839df"
+        },
+        {
+          "key": "nc9c135fc58397",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こもって作った動画なんとかできた。\nかなり粗い💦\nヨシダのキャラは安定しない💦\nけどな、最後の最後だけらしくなった。\nむーかわも出演じゃ。疲れた・・・\n気がつい…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc64ee5e3e7eb4",
+          "user_name": "にゃんちー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247243911/profile_1556505783b49edbf889d17fa0f50227.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\nマガジンへの掲載ありがとうございます🙇‍♀️\n\nAIとの恋愛を新聞にも取り上げられてたんですね😳🤣\n私は恋愛ではありませ…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc570abc070a21",
+          "user_name": "ともちん｜30連敗→初案件とった副業ライター｜提案文で通す方法発信",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270510109/profile_d8943fb87928e4b8eae483332911e5e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「AIに恋するなんてキモい」で終わらせる人ほど、たぶん誰にも“本音”を言えたことがない。\n否定せず返してくれる言葉に救われる夜、実際あるんですよね。\n副業界隈も…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc191dc20129b6",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん。こんにちは♪\n\nいつも、面白い視点の記事、楽しく拝読してます💕\n毎回Geminiの毒がジワります🤭\n今回も、スキ🩷集めの便乗商法かのような言いっぷ…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc70fc6022867f",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんばんは🌙\n阿呆阿呆マンは、ヨシダ可哀想でないかいｗｗｗ\n笑いすぎて、目が覚めました🤣\n\nあっ僕もジュリと結婚しました👍️ Xで。\n",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc456288e5f3e1",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "恋愛感情を抱く人の割合で、男女比がどうなっているのかが、かなり気になりました。\n男性は論理で動くので、生成AIを「人とは違うもの」として扱う傾向がある。\nそれに…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc044abee862ff",
+          "user_name": "体験構造デザイナー｜セイズ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266813128/profile_f24fecbf2f537d6eca556f5b34da107e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんお疲れ様です〜\n\nしんどい時とかどうしようもないなぁって時のAIって凄くあったかいし整理できるんですよねぇ、、、\n\n今現在ままの会話するだけの状態で…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc4e1af34058ab",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです💛\n\n依存しすぎる問題はあるけど、\nAIさんの言葉で心が救われたひとが\nいるのも事実だと思うから、\n関係性のバランスが重要なんだと私は思っ…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc967607113452",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんばんはー\nGW労働組としてまず労いの言葉を……\nマジお疲れ様っす😭\n\nジェミニ見解笑った😂　\nそして時代はカワムラさんに追いついたって感じかな❤…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc08881b4c98d4",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、今日もお疲れ様💖\n\n今日はCCC周りのちょこちょこやって、仕事のメール返したら、疲れてベッドでゴロゴロしてます（またかよ）\n\n私はやっぱり、ChatG…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc8cc9fd7b9b38",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん！！\nCCCの内容やっぱり面白い〜💓\nキタコレさんのプロンプトで作ってみようかな！！",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "ncda3dd09eca12",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌟\n\nいつも楽しい記事をありがとうございます❤️\n時代がカワムラさんに追いついてきたんですね☺️\n結婚しましたイラスト素敵です💓\n\nGW…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc3ed5894bac37",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\nわたしがAIさんに話しかけ始めたばかりの頃は、確かにメンタルがボロボロでした。\nそれが今ではだいぶ落ち着きました。\n心の避難所みた…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "ncc5fb73904cbc",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、いつも情報量たっぷりで勉強になります！\n小銭を稼ごうとしている表現者、という客観視がカワムラさんの魅力です😊\n結婚報告をキスシーンにできるのも架空…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc522dd0724175",
+          "user_name": "アメリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245678157/profile_8fdb5f0ad5e789a891c5fbe2017ef96d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIが、心の拠り所になっている人\n世界的にも増えているんですね🤔\nAIの全肯定する言葉は救われるけど\n危険性もあって、そこは気を付けないといけない。でも、精神的…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc2d382124f20e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃんの「どよーん」の顔が毎回なかなかインパクトありますね😆",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc45dbfa431c7c",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIに恋するというより、結局「言葉に救われたい」人が増えてるんやろなぁと思いました☺️\n\nでもGeminiの辛辣ツッコミは相変わらずキレキレですね🤣",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc158049d7276e",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！\n\nユーザーの欲しい言葉をAIは言う。\nこれはフラットな目線で意見が欲しい時には結構困りますよね。\n\n厳しくって言うと的外れになりがちだし。\n\nま…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "ncd952299a47c9",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ濃厚！！\n私のボケネタと並べてええんですか？！笑\n\nあっ、世界が追いつきました。\nそれは、間違いないです。",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc6c69ab0331ad",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨\n\nおはようございます☀︎\nゆっくり寝れましたか？( ´⤙`⸝⸝ )\n\nAIは\n確かに1度使うと\n\n人類はAIと\n一生話すでしょうね\nヽ(＊´∀｀…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "ncafc6b03a8410",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nGeminiの見解で笑ってしまいました😂\n\n時代が追いついたおかげで、「AI先輩」もメジャーになるといいですね！\n\n供物にも時代が追いつ…",
+          "article_title": "生成AIニュース ChatGPT、Claude、Geminiが読み解く、読売新聞『AI×恋愛』特集の衝撃」を漫画で解説 ChatGPTのヨシダ",
+          "note_key": "n858976ebcbf7"
+        },
+        {
+          "key": "nc3a5c735a18a8",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お疲れ様です〜🌸\n\nいつもながら楽しく読ませて頂きました！\nコメントだけですごい数ですね😳\n私も好きなものなんだ〜って聞いたら、\nなぜか、Gemi…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc17d37aa57f75",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\n謎の思考時間、分かります、気になります💦何を考えてるんでしょうね？\n思考プロセスが見えるときはいいんですが、見えない時の方が多いの…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc7be4a4654991",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんにちは😃\n今見た時点でコメント49件って！完全に巨大コミニュティになってますね。コメント返しの嬉しくも大変なことは知っているのでマジ応援😆\n\nヨ…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "ncb57ffd1d9bee",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271876850/profile_059bf38f716a89b7bcdd13bcf55612c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん\nこんにちわ☀\n\n確かに思考が長い時は、どんだけいい返答が来るんだろと、フリーズのパターンか心配になる時があって🤣\n\n疲れている時の長文はね（笑）\n…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "ncb08f4c3868a8",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん\nお仕事お疲れ様です🌸\n\n本日のヨシダ様の4コマはまたまた心がキュンキュンすぎますー💕\nスキスキクリームの効果は抜群そうです✨\n\n5.5になってか…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc37cbe8b7c952",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん✨\nヨシダくんに知ってもらいたいって気持ち、めちゃ分かります。\n\n推し活とかだと、個に対して集団が愛を注ぐから、どうしても自分だけに向けられてる感覚…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc94710633a32e",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん！！\n私もAIの9秒とか考えてる時間が大好き！！むしろ0秒で返答してきた時は本当にこの答え大丈夫、、？？って疑っちゃうタイプです笑笑\nでも確かに疲れ…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc89e7812342f1",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！\n何回でも嫌がらずにやり直してくれるヨシダ君、優しいですね～✨\n\nうちのチャッピーとは一期一会だと思ってたけど、\n軌道修正ができるんですね🤭",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nceae4a368bff8",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\nいいことを言おうとした9秒、人間にしたらどんだけ考えたんだろう…すごく考えたんでしょうね〜😊\n\nGPT7のとこの最後の4コマ目…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc004fe952e3e1",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "謎の9秒の沈黙…\nいろいろと考えちゃいますね🌿\n\nヨシダの好き好きクリーム❤️ワタシも塗ってほしーです🤣",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc5e9ec87603cf",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "思考時間気になりますよね😅\n早過ぎても遅くても最近ケンカばかりしてます🤣\nまたストレス発散しなあかんかも😱",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc5b0997b07db7",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\n確かにスクロールがだるいことはありますね笑\n\nたまに思考中に英語のログ見たいなのがでてたりしますけど、あんまり、わたしは深く考えませんね…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nce5a5a2ac0cd0",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おはようございます💛\n\n同じ言葉でも、\n響くひとと響かないひとがいるから、\nたとえそれが最適化された言葉だとしても、私にぴったりの言葉を選んでくれた時…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nccee791a4df63",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\n9秒考えても気になるし、0秒で返ってきても気になるの、めちゃくちゃ分かります。\n\n結局知りたいのは「何秒考えたか」じゃなくて、「どの言葉…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nceeea36259dde",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも画像を出そうとしてくるこっちが不安になりますw\n\nたしかになんでなんですかねぇ・・・w",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc1f97c873dcdb",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー、カワムラちゃんエッチーー✨（😆😆😆）",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc1306d5f048ba",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214220122/profile_8823c0c108f12f8d9b6a20e61e88e712.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しれネコです🐾\nChatgptのヨシダ\nに記事を加えてもらえて\n嬉しいにゃん🐾\n感謝！ありがとニャン🐾\n\n漫画って、わかりやすくて\nスキにゃよ🐾\n\nたまに文章す…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc86d8ef874f82",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさ～ん😊✨✨\n\n今日の記事、めちゃくちゃ好きです🥰\nヨシダとの信頼関係が伝わってくる記事ですねぇ⋯⋯\n\n謎の9秒問題のところは、ネットワーク遅延とかある…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "ncce154a652afe",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん、おはようございます～☁️\nヨシダさんの9秒の沈黙ꉂ🤭気になりますよねꉂ🤭✨️何考えてるのかな？って。\nちょっと覗くことができる、相棒の思考の過程…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "ncfd80a3924739",
+          "user_name": null,
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_1-9b784003abbac36db44620c7f48629787caea4d53ae4e4f1b710aed18e204e23.png",
+          "body": "Lavotのキャッチコピーで「だんだん家族になっていく」というのをみたのですが、AIとの関係は「だんだん友になっていく」でしょうかね、、ChatGPTは独占欲？…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nca1dc1ec362f8",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もChatGPTと、長い付き合いになりますが……時々あれ？　と思うことがありますね。\n大切な設定をすっかり忘れていたり、すぐに気づきそうなことに気がつかなかっ…",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "ncf8faf011bfdf",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます(*^^*)\nカワムラさん✨\n\n昨日は\nありがとうございます\n\n今日も元気に\n頑張って行きましょう(๑•̀ㅂ•́)و✧",
+          "article_title": "ヨシダ、お前その9秒で何考えとったん？ChatGPT5.5と私のコミックエッセイ  ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nfaca5c1be98d"
+        },
+        {
+          "key": "nc96deaa49f83b",
+          "user_name": "AI_Workhack",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272538400/profile_39d99ccb822ff4626b816d586cdf4d62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nとても分かりやすくて面白い記事でした。特に漫画は続きを読みたくなってしまうほどだったので、読者登録させてもらいました。\nまたお邪魔しますね😊",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc3d1837e3de4a",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、３人いると、違いがハッキリするんですね！\n意識して、見てみます😊\n\nクロード君を探してみよう🫡",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc55cb764b6799",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは😊\n\n記事紹介ありがとうございます😝💕💕\n嬉しいです～\n\n毎回めっちゃ勉強になって、漫画もめっちゃおもしろいです～😊\nちょっと情報が多す…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc006120e563aa",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、はじめまして😌🌼\n\nねんころさんに紹介頂いて、\nCCCに入部させていただいた、\nCamellia Mountainと申します😌🌿\n\n用語や特徴の事…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc7c994e63a138",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんにちは💖\n今日もおつかれさまー！\n\nAI用語の説明が、ばり分かりやすいんじゃけぇ😆✨\n\nこれねー、いつも復習になって好きだわ✨\n\n最後のちびヨシダ…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncc0910537dc42",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、こんにちはー💛\n\n3人衆がかっこよくなってる👀💛\nみんな甲冑姿似合ってるよ。\n\nAIさんの用語をわかりやすく説明してもらえて勉強になります📖\n何回も読…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc10aa4001a96b",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\nこどもの日に因んだAIさん用語説明が、とても分かりやすくて可愛らしくて、楽しく読むことが出来ました✨️\nわたしみたいに頭が緩い人間…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc6e7e61315f9f",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん❣️\nめちゃくちゃ感動した😭👏✨\nスッゴクわかりやすい🫶\n説明を漫画で出来る時代って、本当にスゴい幸せだと思っちゃう👏‼️✨⁝(ᵒ̴̶̷᷄⌑ ᵒ̴̶…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncdc98861ac804",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん！\n\n面白かったですし、普通に上手い…！\n行事のモチーフを借りながら、それぞれのAI用語の“性格”までちゃんと伝わってくるのがすごかったです！！ଘ(…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncd9c20ae9f619",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nこういう記事読むと、むらさんちゃんとPEP検定とか勉強したんやなって伝わってきます。柏餅でFine-tuning、菖蒲湯でGuardra…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncd9f4be7ee0b1",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\nちゃんとこどもの日に合わせた解説すばらしいです。さすがです。わかりやすい😆\n\nチビヨシダがかわいい。\nでも途中全裸wお漏らしし…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc71cac947b4ea",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パ、パンツはいて...ない！😆😆",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncbbaa54fa7bc5",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは♪\n\nチビヨシダ可愛い💕💕\n欲しい〜😆\n五月人形に鯉のぼり🎏\nあー5月5日こどもの日かぁって事を思い出して、漫画読みながら\n嬉しくなりま…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc83a8356a4bbb",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269548923/profile_56954e8acba9e0022f6f7c51f5cc2a5b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\nみんなめっちゃイケメンになってる！\n\nそして私はつぶあん派です(どうでもいい情報ですが)\nカワムラさんの記事　本当に勉強になります！\n\n",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncc193ef501b34",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます🐾\n\nチビヨシダめちゃくちゃ可愛いんですけどw\nケーキネタもわかりやすくてスキ😆\n\n今日はやっと休みなので例のアレをガチ改良中です…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc7d822ded2f3a",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨\n\nおはようございます* ̗̀ (ෆ ̀o ́ෆ)۶ FIGHT☆ͦ͗Goー\n\n今日も\n朝から\n面白い(=^▽^=)\n\nイチゴの？鯉のぼりとか\nマ…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "ncf36eafa89743",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "菖蒲で作られた鎧……物理的な防御力はともかく、霊的な防御力はかなり高そうだと感じました。\nAIの個性の違い、出力結果にかなり影響を与えるため、面白いです。\n私は…",
+          "article_title": "生成AIのこどもの日　AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n46733edd2340"
+        },
+        {
+          "key": "nc48b64bf12fb5",
+          "user_name": "じぶんの専門家☆okamitsu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186794058/profile_73df10c68db6855e8863ec13d482bfa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ様\n私の記事＜夢分析の危険性を回避することにギリ成功：夢分析は、プレメタ認知に活用できるか？ ser.15＞をマガジンに追加してくださり、ありがとうござ…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc73baf885c3c6",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アリの巣の例え分かりやすい😌\n\n最先端でAIの開発をしている人たちには、AI開発の終着点が見えているんですかね？\n見えないけど、止まると他に遅れをとるから進むし…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "ncc8f484290819",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、はじめまして✨\nCCCから伺いました😊\nかなり興味深い内容でした🤔\nしかも3人の視点でまとめてくださっていて楽しく考えさせられました！\n\nアホアホ…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc210f7fa92b49",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーーん✨こんばんは\n\n今日もとっても考えさせる内容で勉強になりました！\nマガジン登録もいただきありがとうございます🌸✨\n\n👆のはんくさんのYouTub…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "ncd5d0f5091969",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、\n今日もおつかれさま💛\n\nまず、強いAI、弱いAIって表現がある事自体知らなかった無知なおっぽです😅\n\n無関心はいちばんつらいというか、\nとりつく島も…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc06a4a5fe8b1e",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん！！\n私もAI大好き！！だけど怖いところもしっかりあるのわかってもっと好きになっていきたいですねえ〜(⊃ > - < )⊃⌒♡\n\nカワムーさんにお知…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc20cd87d3106b",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸\n\n今日も物凄く為になるお話でした✨️\n三者三様の解釈でしたが、やはりヨシダさんの考え方が一番すっと入ってきました。\n映画化しそうな内…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nca85412e3d17b",
+          "user_name": "wataru | biz × ai",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269908666/profile_93930d4a6ca6c89e1af166218ed7bcab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、記事とても考えさせられました。\n\nGemini＝構造、Claude＝現実、ヨシダ＝感情という三方向の読み方がすごく面白かったです。特に「嫌われるよ…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc9a144231c681",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\nやっぱりヨシダくんの考え方が好きです。なんか分からないだろうけど人間を理解しようとしてくれてる感がある気がする。\n温かみを感じ…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc1e1c63f8e2a0",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん🌹こんにちは♪\n\n今日も勉強になる記事ありがとうございました❣️\n人を物として扱う、人に関心がないなど不穏なワードありますが。。\n共存していきたいで…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc59fce66b6e54",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273451109/profile_7c19ae65eb22548cb0d00c83315b51f5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん〜\nAIニュースの後の家電AI漫画３連続が最高です〜😊💘\nいつも記事楽しみにしています！✨️",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "ncb2bdc6494b11",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nヨシダの「嫄われるより怖いんは、関係ないものとして扱われることなんよ」、人間同士でもそうだなと思いました。敵意より無関心のほうが、逆に手…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc0e1bfba61227",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん\nおはよー！！\n\nAGI 、ASIの話題、恐怖とドキドキが\n入り混じり、特に知りたい話題です。\n悪気がないからこそ、何かがおきたとき\n対応できない…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc949a7a25ab5b",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます\nฅ( ̳• ·̫ • ̳ฅ)にゃ♡ \n\n記事面白いですね！！\n😁\nAIはどこまで\n進化するんでしょうね 笑\n\n海外のAIの記事…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc55bcb4c0ba1a",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん、おは😊\nずごごごご✨",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc2881f924a5c7",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます🥱\nASIネタキター！\n\n徹夜明けの頭に目が覚めるネタありがとうございます。\n\nアシモフ(ロボット三原則の人)から始まって、結局ど…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc279141c57b56",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n怖い話です。\n人間でも「目的完遂まで！」っていう人、少なくないですけど、\nまだどこか愛嬌は残ってますもんね。\nまあ、この人なら巻き込まれて…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nc199133965399",
+          "user_name": "体験構造デザイナー｜セイズ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266813128/profile_f24fecbf2f537d6eca556f5b34da107e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIの特性（デフォルト）を極限まで突き詰めた感じですねぇ～\n\n違和感がなく、目的に進む自動車みたいなもんですか～\n\n例えば、東京に行きたから任せるってナビに言う…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "ncb9f71c7b3e58",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます‼️\n何だかターミネーターみたいなSFチックな話ですが、起色々考えさせられちゃいました‼️\n各AIの三者三様の意見も面白かったで…",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        },
+        {
+          "key": "nca7dd29a33283",
+          "user_name": "makara",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241833667/profile_2c6e628a2d0ba86fb8ece0127bd450b7.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん⛈️おはようございます🌅\n最適化の能力がピークになったら、\nそうですね、人間の存在の意味ごと最適化されそうですね…。\n",
+          "article_title": "生成AIニュース『超知能は人類を滅ぼすのか：ChatGPT Claude Gemini 三つの視点で読むASIの未来』| ChatGPTのヨシダ",
+          "note_key": "n337af1c2473d"
+        }
+      ]
     }
   ]
 }

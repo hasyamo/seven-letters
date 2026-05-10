@@ -1,0 +1,295 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1337,
+        "likes_prev": 1379,
+        "followers_start": 967,
+        "followers_end": 967,
+        "new_fans": 198,
+        "comments_total": 66,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "20:32",
+          "23:17",
+          "20:43",
+          "21:03",
+          "22:57",
+          "20:52"
+        ],
+        "top_article": {
+          "title": "ハッピーライティングマラソン＃49｜もし明日、素敵な偶然が起きるとしたら何が起きそう？",
+          "key": "n8ddb555f02f5",
+          "likes": 197,
+          "comments": 13
+        },
+        "notable_reader": {
+          "name": "ドクターズ・インサイト@医師たちのスクラムメディア",
+          "urlname": "scrum_editor",
+          "follower_count": 20129
+        },
+        "commenters_count": 27
+      },
+      "comments": [
+        {
+          "key": "nc8ff0fe819854",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269548923/profile_56954e8acba9e0022f6f7c51f5cc2a5b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん！\n\nこうやって紹介して頂けて嬉しいです。\nいつもありがとうございます😭\nマガジン　始めてよかったなって思いました\n",
+          "article_title": "🌟マガジン追加・記事紹介・スキ・フォロー・コメントありがとうございます🌟",
+          "note_key": "n1fd5e88ac099"
+        },
+        {
+          "key": "nc117073def280",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんばんは。\nマガジンのご紹介ありがとうございます:)\n\n感謝のマガジンです！\n作って良かったです。\n\n今後ともよろしくお願いいたします。",
+          "article_title": "🌟マガジン追加・記事紹介・スキ・フォロー・コメントありがとうございます🌟",
+          "note_key": "n1fd5e88ac099"
+        },
+        {
+          "key": "nc7a008163d841",
+          "user_name": "ぶどうスパーク｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259250523/profile_6009481aea979f1927c3517ddfafe95f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさんこんにちは、マガジン紹介ありがとうございます！\n一人一人丁寧に紹介する心意気に感銘を受けました。\n改めまして、今後ともよろしくお願いします。",
+          "article_title": "🌟マガジン追加・記事紹介・スキ・フォロー・コメントありがとうございます🌟",
+          "note_key": "n1fd5e88ac099"
+        },
+        {
+          "key": "nc7fb2dfb64a07",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nおはようございます✨\n\nこれは迷いますね！！\nクロワッサン×ドーナツ、気になるけど、\nわたしもきっと🍓大福を選びます💕\n疲れた時の甘いものって、幸せ感…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "ncd9d57f091177",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274368041/profile_48f07c5bbb52bb9a5d052919e5e43bbc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん、こんばんは。\n私の記事をマガジンに追加していただき、ありがとうございます😊\n\n私の昨夜のお供は、手のひらくらい大きいチョコクッキーでした。\n夜…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc21a06da23010",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん！こんばんは♪\n苺大福食べたくなりました〜😍\n\nいや！どっちも美味しそう🥹✨w",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc880a752e34e1",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん💛休憩ナウです。\n私も🍓大福がいい。\n帰りに買おうかな😍\n🍓大福の口に\nなっちゃいましたー。",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "ncf7f578812592",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんにちは\n\nアップルパイからいちご大福へ思いがけない変更も\n「幸せです」と締めくくられるところに\nみきさんの日々を楽しむお気持ちが\nにじん…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc2604b8ac587e",
+          "user_name": "少しだけ導人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236144691/profile_3730460a26f2ad1ff3fe43815ad21822.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさんマガジン掲載頂いてありがとうございます😊",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "ncaf198d6e789c",
+          "user_name": "小林光",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_5-043439195e40e86fd7641a3a1daf982637d77ec6f14b67d3fc98ab92374404ac.png",
+          "body": "コンパスみきさん🍀\nいつもありがとうございます‼️\n\n苺大福さん🩷私も選びます\n\nなんか食べる前に\n「何を食べても\n痩せちゃうんだな」笑\nと言って頂くと細胞さん…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nce7c0c7caf261",
+          "user_name": "物書き　五郎八まなみ(Iroha Manami) のいろいろ日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214060629/profile_3807db7966a3b78b3734821b3037e289.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます❤️\n私も苺大福派です。\n\nあんこ好きは迷いなくこちら🤪\nガツンとくる餡の甘さと、苺の甘酸っぱさのコラボレーションはたまらないですよね✨\n幸せ…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc6a273621685c",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、おはようございます。\nいつもありがとうございます:)\n\nいちご大福美味しいですよね！\n和菓子は比較的カロリーが低みたいですね。\n\n",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc3d7916fd5205",
+          "user_name": "案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200291978/profile_baf008f7d8a9a7d9a2aa1559d06d4935.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、おはようございます😊\n\n本日もマガジンへの掲載、ありがとうございました。\nいつも丁寧に取り上げていただき、心から感謝しております。\nこれを糧…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc9ca610e8f911",
+          "user_name": "genza",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211783570/profile_d4e715dfd7b35e83cd6b51311a12123d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nいちご大福を選ぶ\n▶︎わたしの勘が当たりました😊\n\n夜のおとも、ほしいなぁ〜\nわたしは日本にいるとき、夜にホーリーバジルティーを飲んでいました🌿香りに…",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc8d03a3c8a730",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いちご大福美味しそうですー！\nなんか見てるだけで元気でてきました　笑\n",
+          "article_title": "どっちにしよっかなあ〜😆",
+          "note_key": "ne6d59a4f450f"
+        },
+        {
+          "key": "nc5d21b695ad28",
+          "user_name": "なおの縁側",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219673344/profile_4ffa9af85f79b1b458b20f9dd6337c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんにちは✨\nアップルパイとスコーン、いいですね！\n拝読しながら幸せな気持ちになれました😊\n\nマガジン追加、ありがとうございます✨✨",
+          "article_title": "ハッピーライティングマラソン＃49",
+          "note_key": "n8ddb555f02f5"
+        },
+        {
+          "key": "nc86d625b11f35",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、おはようございます\n\n「窮屈さに気づく夜に」もマガジンに\n並べてくださり、ありがとうございます\n\nいつも丁寧に重ねていただき静かに\nうれしく…",
+          "article_title": "ハッピーライティングマラソン＃49",
+          "note_key": "n8ddb555f02f5"
+        },
+        {
+          "key": "nc5b62f9f2ea2f",
+          "user_name": "さいきた",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267739161/profile_d7875fee67b35110dadd68c08a8f5450.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、いつもありがとうございます\nキャビネットの追加も嬉しいです😃\nアップルパイが本当にお好きなのが伝わります。自分も嬉しくなりました。",
+          "article_title": "ハッピーライティングマラソン＃49",
+          "note_key": "n8ddb555f02f5"
+        },
+        {
+          "key": "nc18a11129c702",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\nアップルパイとスコーンの偶然、想像するだけで幸せですね☺️\n\n仕事帰りに、ちょうど食べたいもののお店が出ているって、小さなご褒美みたい…",
+          "article_title": "ハッピーライティングマラソン＃49",
+          "note_key": "n8ddb555f02f5"
+        },
+        {
+          "key": "ncff91d1974087",
+          "user_name": "五條シンジ｜『Snowdrop Surfer』著者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263243256/profile_d0e5a60e70723ba546f0bf5528b96c24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは\n\nイラストが秀逸ですね。\n絶対美味しいアップルパイ売ってそう😊\n\nマガジンに追加いただきありがとうございます✨\n\nこれからもどうぞよろしく…",
+          "article_title": "ハッピーライティングマラソン＃49",
+          "note_key": "n8ddb555f02f5"
+        },
+        {
+          "key": "nc4fa597710021",
+          "user_name": "えみたむ｜音を奏でる詩人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222850908/profile_2ece2c7c509ba525cac79e2acbcf2686.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは⭐️\n\n読んでいて、アップルパイが美味しそうで…🤤🍎\n食べたくなってきました😆💕\n\n嬉しくなる記事をありがとうございました😊✨",
+          "article_title": "ハッピーライティングマラソン＃49",
+          "note_key": "n8ddb555f02f5"
+        },
+        {
+          "key": "ncfe943396a094",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255750674/profile_80ee0ac532bef7940f81afda8d8e8a77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「消えない約束」を、拝読・拝聴いたしました。\n「光も影も 全てわたし」というメッセージは、行動心理学でいう「自己受容」の本質を突いていますね。\n人は無意識に自分…",
+          "article_title": "📕物語作ったら🎤主題歌作りたくなりました〜",
+          "note_key": "na83909144099"
+        },
+        {
+          "key": "ncfd549ff5114f",
+          "user_name": "Miho C.｜世界とつながる英語 from トルコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220268277/profile_d6adcf145109ddccab2e165c44731b20.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぉ～、かっこよくて素敵な曲🎵\n（なんだか、ありきたりな感想で、恥ずかしいわ・・）\n\n『笑って　ありがとう\nあなたがいるから　わたしがいる』のサビがグッときます…",
+          "article_title": "📕物語作ったら🎤主題歌作りたくなりました〜",
+          "note_key": "na83909144099"
+        },
+        {
+          "key": "nc47efdcba627e",
+          "user_name": "Jade.T",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248292820/profile_84c801945d81ae8f6bdd13e8f4c5e3b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😀\n私もSunoを利用して音楽作りを楽しんでいます♫\n様々なシチュエーションやシナリオ、歌唱のバックグラウンドなどなど、、妄想から具現化してい…",
+          "article_title": "📕物語作ったら🎤主題歌作りたくなりました〜",
+          "note_key": "na83909144099"
+        },
+        {
+          "key": "nce6aa6390c01f",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙* :ﾟ\n素敵な記事、読ませていただきました😊\n\n物語を作ったら主題歌も作りたくなる、という流れがとても共感できました✨\n\nSunoで曲を…",
+          "article_title": "📕物語作ったら🎤主題歌作りたくなりました〜",
+          "note_key": "na83909144099"
+        },
+        {
+          "key": "nc9f95d07b5a29",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n\n堂々とした力強い曲ですね。\n物語りの主題歌にふさわしいと思います。\nSunoの魅力を感じられて、\n創作意欲がわいてきたんじゃないですか！\n\nぼく…",
+          "article_title": "📕物語作ったら🎤主題歌作りたくなりました〜",
+          "note_key": "na83909144099"
+        },
+        {
+          "key": "nc76f8b6199b73",
+          "user_name": "こころのかあちゃん l ゆんママ☀（旧：幸せなしろくまさん）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239060583/profile_01f62fbc849f4a7e08c0a19c85df3c4b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、マガジン追加ありがとうございます！\n\nAIで作られたんですね！カードとイメージの内容がマッチしてていいなぁと思いました✨☀️\n\nこれからもよろしくお願…",
+          "article_title": "📖 時を超える光の約束 🌟 第４話",
+          "note_key": "na05a954f97a6"
+        },
+        {
+          "key": "nc7ff049617ecb",
+          "user_name": "ｓｅｏｒｉ🧚‍♂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251233872/profile_a236648303f13b0eeefec428f70a3f42.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん🧚‍♂\n\nいつも　マガジン🌱載せて下さって\n\n感謝💕しています　見るたび嬉しく\n\nなります😊\n\n今回も　ありがとう　ございました💜🙏\n\n",
+          "article_title": "📖 時を超える光の約束 🌟 第４話",
+          "note_key": "na05a954f97a6"
+        },
+        {
+          "key": "nc329517605ed2",
+          "user_name": "🚨🌏️地球侵略阻止ミッション👽️⚡️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256830690/profile_908f78a19229ffc424b715689e05c7db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お話を拝読し、胸が熱くなりましタ🥲🌌\n\n素敵なお話に触れ、ワタシもまた日々のミッションに励めそうデス🚀💫\n\nありがとうございマス💐✨",
+          "article_title": "📖 時を超える光の約束 🌟 第４話",
+          "note_key": "na05a954f97a6"
+        },
+        {
+          "key": "nc8958187ba990",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさま\n\nこんばんは\n記事、私も読みました☺️\n遊び心一杯で宇宙服、\nカッコいい✨\n\nマガジンに掲載して頂き\nありがとうございます☺️\n\n残りのゴー…",
+          "article_title": "秘密工作員より、感謝の返信通信を送ります🚀",
+          "note_key": "nf7767db8555d"
+        },
+        {
+          "key": "nc68e90d5f3d12",
+          "user_name": "🚨🌏️地球侵略阻止ミッション👽️⚡️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256830690/profile_908f78a19229ffc424b715689e05c7db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こ、これハ――\n\nウレシイ💥💥💥💥\n\nそして宇宙人、ちょっと照れてマス⚠️🚨笑\n\n\nとってもハートフルなメッセージ、ありがとうございマス😭✨\n\nワタシの発信を通…",
+          "article_title": "秘密工作員より、感謝の返信通信を送ります🚀",
+          "note_key": "nf7767db8555d"
+        }
+      ]
+    }
+  ]
+}

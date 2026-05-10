@@ -140,6 +140,161 @@
           "note_key": "nfb31a16e7325"
         }
       ]
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 546,
+        "likes_prev": 554,
+        "followers_start": 1070,
+        "followers_end": 1102,
+        "new_fans": 143,
+        "comments_total": 35,
+        "posts_count": 7,
+        "consecutive_days": 6,
+        "post_times": [
+          "00:00",
+          "00:00",
+          "00:00",
+          "06:55",
+          "18:30",
+          "15:56",
+          "21:44"
+        ],
+        "top_article": {
+          "title": "AI臭はなぜ消えないのか。そして、AIと一緒に書くために知っておくべき3つのこと　〜GPT5.5と黒パグの境界線クイズ・解説編〜",
+          "key": "n8fa1b778d209",
+          "likes": 92,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "かぬ",
+          "urlname": "kanu8240",
+          "follower_count": 9619
+        },
+        "commenters_count": 11
+      },
+      "comments": [
+        {
+          "key": "ncb15800dbe89d",
+          "user_name": "November18th",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273285658/profile_001d2ced448dfebac717e2f417694a24.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "失礼します！\n面白かったです！！\n\n自分もAIについて考えたりしているのですが、話として気になったのが（変だ、という意味ではないです！）、\n「ノイズ＝人間性」と…",
+          "article_title": "AI臭はなぜ消えないのか。そして、AIと一緒に書くために知っておくべき3つのこと　〜GPT5.5と黒パグの境界線クイズ・解説編〜",
+          "note_key": "n8fa1b778d209"
+        },
+        {
+          "key": "ncab8d15b6c7ee",
+          "user_name": "coha👾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271502459/profile_83425a547860f0039e9266efabb3798d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も書く前にAIに手伝ってもらうのですが、AI臭ありますよね💦\n\nnoteに来たばかりの頃は、この空気みたいに触らないような文章が、最近の風潮なのかと思っていま…",
+          "article_title": "AI臭はなぜ消えないのか。そして、AIと一緒に書くために知っておくべき3つのこと　〜GPT5.5と黒パグの境界線クイズ・解説編〜",
+          "note_key": "n8fa1b778d209"
+        },
+        {
+          "key": "nc2b6cfc76db3f",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！\nCCCから来ました😊\n\nめちゃくちゃ面白かったです！！\n\n僕、note始めた頃、AI臭さをできるだけ消して文章書いてくれるプロンプト作ってたんで…",
+          "article_title": "AI臭はなぜ消えないのか。そして、AIと一緒に書くために知っておくべき3つのこと　〜GPT5.5と黒パグの境界線クイズ・解説編〜",
+          "note_key": "n8fa1b778d209"
+        },
+        {
+          "key": "nc08b3f8398883",
+          "user_name": "ネコイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259601493/profile_ad01def08966f3a0c92af327fe34b32c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "表面的な表現だけでなく、「構造を崩す」まで触れてあってさすがだなーと思いました！\n論文もダウンロードさせていただいたので、後でゆっくり読みます。楽しみです～😆\n…",
+          "article_title": "AI臭はなぜ消えないのか。そして、AIと一緒に書くために知っておくべき3つのこと　〜GPT5.5と黒パグの境界線クイズ・解説編〜",
+          "note_key": "n8fa1b778d209"
+        },
+        {
+          "key": "nc4b5556ac683e",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんばんは♪\n\n素敵なお話ありがとうございます🌟\n見事に私の頭の中で、あの男の人は毎日文庫本を持って\n読んでの生活なんだろうか？とぐるぐるしてい…",
+          "article_title": "黒パグのAIショートショート⑨ #しろくま文芸部　コラボお題　文庫本　本編750字",
+          "note_key": "n11f17530546a"
+        },
+        {
+          "key": "nc16c0fe97bc44",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私が鈍すぎて、AIとのつながりが全く読み取れませんでした。\n私自身が、本が好きな人間で、電子書籍よりも物理的に持つ方が好みであるため、文庫本にカバーをかけて持ち…",
+          "article_title": "黒パグのAIショートショート⑨ #しろくま文芸部　コラボお題　文庫本　本編750字",
+          "note_key": "n11f17530546a"
+        },
+        {
+          "key": "nc16c65f0896f5",
+          "user_name": "迷える大羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260479719/profile_b6af852b98f8ace317ab81571e2121f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、はじめまして\nAIショートショートときちんと認識して読むのは初めてだったのですが、面白いですね。\n鮮やかな展開があってもなくても、短い中にストー…",
+          "article_title": "黒パグのAIショートショート⑨ #しろくま文芸部　コラボお題　文庫本　本編750字",
+          "note_key": "n11f17530546a"
+        },
+        {
+          "key": "nc9e109ae984db",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーんこんばんは。\n記事面白い、興味深く読みました☺️\n\nどのAIと作業したいか。\n本当にこれに尽きますね。\n\n仕事はClaudeが1番信頼できる\nNot…",
+          "article_title": "2026年5月最新トレンド　【ChatGPT、ちょっと静かになる】GPT-5.5 Instantで始まった”人格調整”の話　#ChatGPTCreativeClub ③",
+          "note_key": "nb84cec6af183"
+        },
+        {
+          "key": "nc01e998695032",
+          "user_name": "リタ雪玉",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264827303/profile_f0db1dd090a1f52634474150f454b4b5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "無料版にも5.5が来たので触ってみたら確かにニュアンスが違いますね。\nChatGPTの癖の強さはほんと「煽り性能」として見ていたので、それが解消されるのかな？　…",
+          "article_title": "2026年5月最新トレンド　【ChatGPT、ちょっと静かになる】GPT-5.5 Instantで始まった”人格調整”の話　#ChatGPTCreativeClub ③",
+          "note_key": "nb84cec6af183"
+        },
+        {
+          "key": "nc41a208b7dc9a",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIを使う上で、もっとも抵抗を覚えるのがハルシネーションなので……それが減っており、かつ大げさではなくなっているというのは、かなり変化していると感じております。…",
+          "article_title": "2026年5月最新トレンド　【ChatGPT、ちょっと静かになる】GPT-5.5 Instantで始まった”人格調整”の話　#ChatGPTCreativeClub ③",
+          "note_key": "nb84cec6af183"
+        },
+        {
+          "key": "nc6966a9b87896",
+          "user_name": "鈴木 蒼｜フォロバ100｜跨境ECの海外サポート担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266360868/profile_776634348242be70b7c49f3c7ab4c56e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは。記事を拝見しました。「柔らかいぶん、結論まで少し遠回りになる」というフレンドリーへの指摘、まさにそれを感じていたのに言葉にできていなかっ…",
+          "article_title": "【GPT5.5と考える】今さら聞けないGPTのカスタマイズ❤️ フレンドリーのままで、本当にいいのか問題　超軽め記事　#ChatGPTCreativeClub",
+          "note_key": "n730e6feba793"
+        },
+        {
+          "key": "nc5a6a0e85b2d1",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この部分、今まで全く触っておりませんでした。\nそのため、素のChatGPTしか使っておらず……同じようなプロンプトで、どのような答えが返ってくるのか、非常に興味…",
+          "article_title": "【GPT5.5と考える】今さら聞けないGPTのカスタマイズ❤️ フレンドリーのままで、本当にいいのか問題　超軽め記事　#ChatGPTCreativeClub",
+          "note_key": "n730e6feba793"
+        },
+        {
+          "key": "nce1393fbead16",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんばんは。\n可愛いし、しっかりわかりやすく、おまとめしてあって、さすが論文好きな方は違うなって感じです☺️\n\n私はフレンドリー\n暖かみ多め、熱…",
+          "article_title": "【GPT5.5と考える】今さら聞けないGPTのカスタマイズ❤️ フレンドリーのままで、本当にいいのか問題　超軽め記事　#ChatGPTCreativeClub",
+          "note_key": "n730e6feba793"
+        },
+        {
+          "key": "nc87b3f1002351",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして\nフレンドリーにしていて、否定してと入れて使ってるんですが、特性？の項目をどうしようか何回か悩んだまま、デフォルトにしています。\nそのあたりはいかが…",
+          "article_title": "【GPT5.5と考える】今さら聞けないGPTのカスタマイズ❤️ フレンドリーのままで、本当にいいのか問題　超軽め記事　#ChatGPTCreativeClub",
+          "note_key": "n730e6feba793"
+        }
+      ]
     }
   ]
 }

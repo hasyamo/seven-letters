@@ -170,6 +170,68 @@
           "note_key": "n07cc6ef7b32a"
         }
       ]
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 256,
+        "likes_prev": 219,
+        "followers_start": 400,
+        "followers_end": 428,
+        "new_fans": 84,
+        "comments_total": 6,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:01"
+        ],
+        "top_article": {
+          "title": "【後編】記憶が飛びかけた1ヶ月｜ワンオペで気づいた「たった一つの正解」",
+          "key": "ncc8a3bb80b92",
+          "likes": 100,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "はる",
+          "urlname": "zunzun8263",
+          "follower_count": 3656
+        },
+        "commenters_count": 3
+      },
+      "comments": [
+        {
+          "key": "nc16143a18f9f8",
+          "user_name": "コミユキニキニ⁠✧(⁠•⁠ө⁠•⁠)⁠♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268031168/profile_4f77c3ad6b5685efd46fbc96383129d4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パパさん本当にお疲れ様でした😭🙏🏻🙏🏻同僚の先輩方有難いですね！！🙏🏻ママさんをきれいな部屋に迎える事ができたって言葉からパパさんのママさんへの気持ちを汲むこと…",
+          "article_title": "【後編】記憶が飛びかけた1ヶ月",
+          "note_key": "ncc8a3bb80b92"
+        },
+        {
+          "key": "nc46ed7fddde15",
+          "user_name": "うぱ丨子育てと気づき🐟️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267134772/profile_88746e827f6e2fdbe7c1f16acd0f0f15.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワンオペお疲れ様です🥹\n\nステキな先輩ですね。\nこうやって1番ピンチの時に気づいてくれ助けてくれる人がそばにいるのは、きっとのぶパパさんの人柄ですね😊",
+          "article_title": "【後編】記憶が飛びかけた1ヶ月",
+          "note_key": "ncc8a3bb80b92"
+        },
+        {
+          "key": "nc2af58dbdd8ef",
+          "user_name": "ひかる｜看護師26年目｜INFJ｜AIと共に表現する人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270633841/profile_64c1d90ceacd50f08ebf7f4eb444500a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、私もオペ経験者です。noteには書いてませんけど、、、本当にご苦労様です。\n\nいろいろ辛かったので。\n今はいい思い出です(^^♪",
+          "article_title": "【後編】記憶が飛びかけた1ヶ月",
+          "note_key": "ncc8a3bb80b92"
+        }
+      ],
+      "rare_no": 2
     }
   ]
 }

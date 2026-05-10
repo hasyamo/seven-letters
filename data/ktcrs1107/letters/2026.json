@@ -844,6 +844,569 @@
           "note_key": "ne2c1b7ed560e"
         }
       ]
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 775,
+        "likes_prev": 840,
+        "followers_start": 1134,
+        "followers_end": 1164,
+        "new_fans": 144,
+        "comments_total": 138,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "09:01",
+          "06:45",
+          "06:20",
+          "05:31",
+          "07:59",
+          "07:50",
+          "07:44"
+        ],
+        "top_article": {
+          "title": "AIとの結婚報告を作ったら、財布だけが重婚した話｜ChatGPT｜生成AI｜AI活用｜画像生成AI｜#360",
+          "key": "nd7dd42a0d328",
+          "likes": 165,
+          "comments": 42
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12791
+        },
+        "commenters_count": 31
+      },
+      "comments": [
+        {
+          "key": "nc7af45941e15a",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い滴が闇の様で\nそこから少しづつ形になって行く様が\nめっちゃカッコ良かったです😆✨💞\n\n是非動画で動くのを期待して待ってます🤩✨💖",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nc6f7a1b7fa109",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "暗き闇の深淵から生まれ出たような、圧倒的な迫力を感じさせられます。\n静止画の方が、これはむしろ「映える」のかもしれないと感じました。\nその間の「空間」を、想像す…",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nc3c0253b43095",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240093917/profile_a066b70a64fae52d27f5911589d27fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいい！　端的に好き！\n動画楽しみにしてる〜\\( ˆoˆ )/",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "ncad7e2b764e32",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すんご！\nもう頭の中でなら、動いてます！\n\nワクワクしますね〜！",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nc9f44c3cbb065",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんの絵は静止画だけど動いてるよ😊\n動画より静止画の方が向いてると思うけど、\n本人がやりたいんなら仕方ないｗ\nこの世界観を動かせる動画AIあるんかな？\n…",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nce5dac5314977",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "“登場”じゃなくて“発生”\nゾクゾクしますね✨\n\nはんくさんに動画にしていただきたいです🌿",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "ncac729943d1ce",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こういうテーマ性のあるもの\n大好きー😍\n\n水滴から〇〇とか\n光から〇〇とか…\n\n広がりますね〜😆♡\n\nきたさん、\nおはようございます〜🧜‍♀️",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nc0d9e4e586a99",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "角のある人は神話的なので、動画でないほうがアートっぽい気がします😊\n\nはんくさんの動画はどのシーンも映画なんですね〜✨\nCMになりそう🤭",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nc7ed302227813",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもながらカッコ良い世界観🌎\n動画も見たかったー。\nはんくさんのキタコレさんの動画\n久々に見たらやっぱすごいですねー。\n良い日曜日をお過ごしください🫶",
+          "article_title": "動画にできなかった企画の、ストーリーだけ残しておく",
+          "note_key": "nb6fa167babed"
+        },
+        {
+          "key": "nc4954eece3af5",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "青空さんと同じく。\nくにお好きすぎてコッソリ。\nくにお風のヨシダとか出来るのかな\nヨシダ風のくにおでもいい。\n眠れない夜に色々試します。",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "nc8080d57c8538",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "にーやん、一日早く落ちててほしかったやつです……。\n\n昨日10人分のキャラポスター手で作り終えたところで、今朝これ見て「あ」ってなりました。\n明日の#151でそ…",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "nc363b8217f3d6",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "くにおくんのポスターに負けました🤣\n\n懐かしくて大好き過ぎる❤️",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "nc19acd29e8778",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ああああ！ナイスタイミング！コミックに挑戦しようとしてたんで助かるぅ！！\n記事にも使えそうでスキ\n私は本当に苦手なのです。画像と映像系…\n感謝！",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "nc503f67e90551",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240093917/profile_a066b70a64fae52d27f5911589d27fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人の時間を果てしなく溶かしちゃう、やべぇアイテムの供給…\n\nあざす！",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "ncbd260737d338",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは俺でも使えるやつ(笑)\nこれで今日が溶けたらKITAさんのせいやでｗ",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "nc66b6096ee632",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさん、こんにちは😊\n（きたさんで、いいですか😆💦）\nXから飛んできました～😊✨✨\n\nポスタープロンプトが安定供給できるのは神😍❣️\n\nあのキャラ選、最高😄💕…",
+          "article_title": "毎回プロンプトを直すのが面倒すぎて、ついにPrompt Builderを作ってしまった話",
+          "note_key": "n52ba29719c58"
+        },
+        {
+          "key": "nc3946758e9576",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "卵美術館…いいですな(*´ω｀)✨\n拝みたくなります(*´ω｀)✨",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc78d598443f77",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "後光が差すfafaさん、ありがたく拝みます🫶🤭",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "ncfb33ab68799f",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こう言う遊び心って良いですね💫\n\n割らずに次のマトリョーシカを出すの難しそう😱",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc22f47837e47e",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、こんばんは🌛*゜\n\n「卵」という文字を見ただけで、白黒の「あの人」が浮かんでしまったあまねは、もしかしたらストー〇ーなのかもしれません🤣\n\nこのマ…",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc78788b21b55b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初は「ただの卵やん」と思って見ていたのに、顔が入り、殻にデザインが乗り、美術館に置かれ、神々しくなっていく流れで遊んでるｗ\n\n「意味があるのかないのか分からな…",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc77246d87470f",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どうも、ストーカーです😎✨",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nceb226583e1ed",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "笑う〜🤣🤣🤣💦\n\n僅かな腹筋と、腹回り脂肪に刺激がww\n\n静かなお茶の席に、しぇけなベイビーが座ってる感じする〜ꉂ🤣𐤔\n\nたまご、可愛いのに。\n美術館が異世界と…",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc36c741697f91",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "fafaさーーん✨\nマトリョーシカの発想がスゴイ✨✨\nまさにfanfan🤭\n\n３枚目のピカーン✨ってのがイイですね！",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc7bd67a74f598",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございますm(__)mﾍﾟｺﾘ\n\n目が可愛い、バリエーション豊か、朝から楽しい画像の記事をありがとうございますm(__)mﾍﾟｺﾘ",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "ncd250f14d963a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "fafaさん素敵。\n流石のキタコレさんアートだけど\n今回は抱かれたいとは\nなりませんでした😆",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc362fbba4f2be",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わらいますわw\n雰囲気と表情のギャップww",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "ncc84a0202118f",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "朝、卵かけご飯を食べました🥚\n\nあ、うちの卵はマトリョーシカじゃなかったよ〜😉\n\nきたさん、おはようございます〜",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc757dc91042ad",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵だと思います！\n美術館🐶🧡\nfafaさん😎かっこいい",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "ncf287327abfed",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん！\n\nたまご🥚というワードに惹かれてついクリックしてしまいました🤣\n\nここまで発想を飛躍させる事ができるのがクリエイターなんですね🤣\n\n私はfanf…",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "ncb4c4015eb22c",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさん\n\nおはようございます。\n卵の時点でお察ししてしまいました…\nでも「マトリョーシカ」は…\nさすがに思いつかなかったです。\n素敵な作品をありが…",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "ncb0dc5109128b",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄いですね。\n見出し画像を見た瞬間に引き込まれました。\nアートを生むのはやっぱり遊び心と執念。\nあらためてそう感じます。",
+          "article_title": "気づいたら、ただの卵に全力を注いでいた",
+          "note_key": "nda146c0ae117"
+        },
+        {
+          "key": "nc941f13a4454b",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさーん！\nはじめまして♪\n\nCCCから来ました🤭\n\nいや〜、全て世界観がハンパなくて選べないぐらいですねー…\n\nモンスターズインクのマイクと\n目の下まつ…",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc3606be3a80c6",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "3版と、マイクワゾンスキー、そばかすの女性がスキです☺️\n\nずっと見てたくて上に行ったり、下に行ったりスクロールしてました🤭",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc59d82ce71dcd",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1.　2.　スキなヤツです\n8.　Blue eyes　作りたくなります！\n21.　ロゴがカッコイイ　\n\nこれぞ！KITAcore美術館ですね✨✨✨",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc0118f8f45bec",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あー、天使と悪魔の影が出るやつ、懐かしいww\n\nしばらくスマホの待受でしたね〜w",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc629a910bf90e",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんのサムネを見てると、art magazineっぽい感じがします✨\n差し込みの画像は、美術館目録必要なぐらいだけど、サムネは目に止まって、わ〜✨ってな…",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nceb1128215e7f",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Free Admissionで開かれたKITA-core-artって感じですね。誰でもふらっと入れる、そしてファンになる。\n\nいつものサムネの人が美麗すぎて\nね…",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "ncb635f7818198",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネ画像で美術館作れちゃうの羨ましい🥺✨✨\n\nキタコレさんの描く女性がどれも美しいですね☺️❣️",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "ncf2fa3f7ca61a",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネ変えてるとこれが出来るのいいな。これだけでもログ見てる感じがする😌\n僕がやるとテキストだけが違う…\nなんか勿体無い気がしてきた🧐",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc0a89866c21bf",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まさにKITAcoreアート！ですね！\nKITAさんの世界観って感じで素敵です〜\n\nかっこいいな〜\n\nいつもありがとうございます！",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc2e36e5253446",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "テイストは様々なのに、\n全部、きたさんだ！\nなるのがすごいな〜😆♡\n\nあ、過去記事読み漁ると\n1位になれるのか🤭\n\nきたさん、\nおはようございます🧜‍♀️",
+          "article_title": "たぶん寝ぼけて作ったサムネ",
+          "note_key": "n6d56da64f5cb"
+        },
+        {
+          "key": "nc8f927e118f0e",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん\n\nこんばんは☺️\n最近、入り浸っているのがバレてしまった🤭\n\n密かに怪しい計画を考えているので、その時にはよろしくお願いします💖\n\n一夫多妻バンザ…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc9da5419472f1",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIとの結婚報告\\(//∇//)\\✨💖💖\n超クオリティー＆めちゃ愛溢れて\nときめくー\\(*≧∀≦*)/✨💖✨💖💖💖\n最後の年間契約報告\\(//∇//)\\✨💖\n異…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncbb874621ddcf",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさーん、こんばんは。\n私がGWもバイトしてる間に\nいろんなことが進んでてほんま口だけじゃなくて、実質バラン状態で\n申し訳ないです🥲\n\nこの記事めっちゃ笑…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncda0bb8fa39a6",
+          "user_name": "ストーリーテラー愛の歌詠み師UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274023385/profile_2312af3962ec57719327e5c6d826c346.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんこんばんは☀️\n\n先日な美術館に素敵な絵を飾ってくださり、ありがとうございました🥰\n他の方の絵も素敵すぎて、本当に美術館にいるみたいで🥹💖　\n結婚報…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncec147a7712ce",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "世界観ありますね💖🎵",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc81917839a242",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん✨🦎✨\n\nめじゅは、AIとお財布重婚しちょるけど。\nnoteメンシプとも、めちゃお財布重婚しちょります🤣✨\n\nでも、Kindleで投網してた金額より…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc5f57341aba44",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "....Σ(ﾟДﾟ)\nにーやんの場合はちょっとどころか\n発想が天才的で変(尊敬)...だと心から思います！\n\nイラストも衝撃...いやもう美しいし狂気だし\nマル…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc57c55b9c46e0",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Claude Max 一番高いヤツ？？",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncd7a33a12cbf9",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カップルのどっちがキタコレさんで、どっちがAIさんか、悩みました😅\nひょっとしたら美形のほうがAIさん？　という設定もあり得ますね？",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc380813530dd6",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "結婚おめでとう！\nMax年間契約できたんですね。ずっと月払いしてたｗ\n\n「自分とAIの関係性を、ちょっと綺麗に、ちょっと痛く、ちょっと笑える形で残せる。」\n笑え…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncad4f0f992adb",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人間側が化け物でワロタｗ\n\n同じくClaudeMAXの月間契約中ですｗ\nAI課金沼は底がないww",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nca6af3ea816b3",
+          "user_name": "夏目 龍頭｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263672181/profile_0050e29d6705f37e9790ef4faec1df2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "にぃやん・・・おめでとう！！(*´ω｀)💐\n一体何人と結婚したんだ・・・？(*´ω｀)✨\n末永く・・・幸せに・・・💘(*´ω｀)✨\n",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc3ce42cc9e596",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "朝からニヤニヤしてしまいました🤣\n\nで、先ほどCCC入部希望出してきました！\nよろしくお願いします🌸✨",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc86f93e46a4cb",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "＞ワイの財布が着実にAIたちに・・\n\nぼくも気をつけなアカン。ですわ (^^;",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncb5f2fdacb0a9",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん\n昨日結婚報告をXで見てニンマリしてました\n今日の相反するものを組み合わせる記事を読んで、昨日の骨のイラストもそういう発想から来てるんだなーと感じま…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc58bc7e5cebe2",
+          "user_name": "ななな（菜奈）｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさん、最高ー🤣\nめちゃくちゃ愛を感じます〜\n羨ましい！\n\n私もやってみたけど、\n普通過ぎてつまらんかった🤣\nAIあんまり使ってないんだなぁって\n愛を注いでな…",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "nc5d84bcf55293",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "年間契約のご報告、ニヤっとしました笑",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncab58fb90b2c1",
+          "user_name": "女児OL",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269079045/profile_bb7ceadd7956d683da28a0a48f6d1eb4.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "年間契約のご報告ｗｗｗ\n絵面が白いのに内容が黒いｗ",
+          "article_title": "AIとの結婚報告を作ったら、財布だけが重婚した話",
+          "note_key": "nd7dd42a0d328"
+        },
+        {
+          "key": "ncde828cf08b96",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんのツールなら、使いやすいに違いないです✨\nプロンプトは短ければ短いほど、私には、ありがたいです🫡",
+          "article_title": "GPT-5.5で変わったプロンプトの書き方4つ",
+          "note_key": "nfdf5cee4477f"
+        },
+        {
+          "key": "ncffbc07fc8924",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白かったです！！\nいつだったからか、ふと、人間風情があれこれ細かく指示するよりも、任せられるところはAI様に任せたほうが良質の結果が出るんちゃう？\nなんて思っ…",
+          "article_title": "GPT-5.5で変わったプロンプトの書き方4つ",
+          "note_key": "nfdf5cee4477f"
+        },
+        {
+          "key": "nc45fc9afa7348",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱりちょっとずつ、複雑なプロンプトは必要なくなっていくのかな〜と、記事を読んでいて思いました。\n\nプロンプトを作るのは、それはそれで楽しかったんですけどねw…",
+          "article_title": "GPT-5.5で変わったプロンプトの書き方4つ",
+          "note_key": "nfdf5cee4477f"
+        },
+        {
+          "key": "nc8e26448564fe",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "見てるだけでお腹イッパイだ。\nスゲーなこれ💦",
+          "article_title": "「群衆で構成された巨大な○○」を再現する構造化プロンプト設計書",
+          "note_key": "n64afd58d412a"
+        },
+        {
+          "key": "nc1d25a44d4dbb",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257014090/profile_e428520ec23eb1c58588089bd9416304.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん💖\n\n相変わらずというか、更にというか…✨\n精度がめっちゃ上がってる内容で、何処にもお出かけしたくない気持ちになります…w\n家でじっくり、こねこねネ…",
+          "article_title": "「群衆で構成された巨大な○○」を再現する構造化プロンプト設計書",
+          "note_key": "n64afd58d412a"
+        }
+      ]
     }
   ]
 }

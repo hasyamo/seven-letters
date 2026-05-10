@@ -1080,6 +1080,600 @@
           "note_key": "nf7751d96727e"
         }
       ]
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 1242,
+        "likes_prev": 1226,
+        "followers_start": 978,
+        "followers_end": 1027,
+        "new_fans": 183,
+        "comments_total": 139,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "12:20",
+          "22:00",
+          "14:18",
+          "20:56",
+          "10:47",
+          "12:59"
+        ],
+        "top_article": {
+          "title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "key": "nf5fcdcfb8a24",
+          "likes": 218,
+          "comments": 76
+        },
+        "notable_reader": {
+          "name": "小牧幸助｜小説・エッセイ",
+          "urlname": "komaki_kousuke",
+          "follower_count": 11377
+        },
+        "commenters_count": 46
+      },
+      "comments": [
+        {
+          "key": "nc78c416aa3335",
+          "user_name": "みずか｜ほころんでは、ほどく。子どもとの日々から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252096893/profile_487b0797252acba719f63d29347aa42a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、いつもスキやマガジンへの追加、ありがとうございます🤗\n\nそして、フォロワー1,000人おめでとうございます㊗️🎉\n\n企画、楽しそうですし、せっかく…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc5e9b3e389b4e",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\n何だかんだでショートショートで「これだ！」ってのが思いついたので、キャッチコピーじゃなくてそっちで参加します😁\n\n好みが分かれる感じなんですが、個…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nca2711a860549",
+          "user_name": "まるり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268954670/profile_9f799711a4133f7b7b2f0d52e06a97bf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは。\n\nフォロワー1000人おめでとうございます🎉\nいつも記事をマガジンに追加して頂き感謝です🍀\n\n企画に参加出来るかはまだ分かりませんが…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc953a3139fd94",
+          "user_name": "風（twin ray👫）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i31e351503487.jpg",
+          "body": "よしひろさん\n初めまして。\n\n私の記事にスキ♡をしてくださり、またマガジン追加までしてくださり、ありがとうございます。\n\nフォロワーさん1000人もおめでとうご…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc214095ee94eb",
+          "user_name": "にゃんちー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247243911/profile_1556505783b49edbf889d17fa0f50227.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは☀️\n\n改めて、フォロワー1000人おめでとうございます㊗️✨✨✨\n\nそして、いつもマガジンへの掲載ありがとうございます🙇‍♀️\n\n私も…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc09aefd59f7a3",
+          "user_name": "rika🌷",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238910767/profile_373a9816961e0c2decd5f9e33be51347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メッチャ出遅れました💦\nフォロワー1000人達成おめでとうございます🎉✨️\n\n今月中に？って言ってた気がするのに、いつの間にか達成されていて、何かすごく嬉しいで…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nca738d829192b",
+          "user_name": "りーまむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186523962/profile_939af6d936ad6ca5456ee55e7d9d6404.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\n改めて、フォロワーさん1000人、おめでとうございます✨✨\n\n久しぶりに記事を書こうとしてて、まさにテーマが同じだったので（すごくタイムリー👏）…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc358f2b7e77ea",
+          "user_name": "紅茶🫖｜言葉で自分を整える人  ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260923743/profile_037296bb383b7b464cc7b599e5d67585.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん🍀\n企画に参加させていただきました。夢現のような物語になりました😌🙄🫣\n\nhttps://note.com/usagi_no_mimi_/n/n80…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nccd0636325936",
+          "user_name": "Tammy｜国際交流大好きママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251239087/profile_67bf8f55a4e8117a7f3c3fb1be47562d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、記事のマガジン追加ありがとうございます！\nそしてフォロワー1000人おめでとうございます！\nぜひ企画に参加させてください。\n高校時代に出来なかった…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc865b502c6d7e",
+          "user_name": "はるき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272843475/profile_db5f96ff83c8845eeb6fcdb64c8126ea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます🌱\nゆらりさんの投稿から来ました。\n\nフォロワー1000人おめでとうございます🎉\nぜひ企画に参加させてください。\n\nhttps:…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncdb2c673d57ad",
+          "user_name": "こもれび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270898592/profile_04498be96ce4ec2d2a9aa7e72673fc7b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "始めまして\nはじめての企画参加です。\nよろしくお願いします。\nhttps://note.com/lofty_rue8724/n/n7ffc1b2253d0?ap…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncd9cf23e14391",
+          "user_name": "あまっ子純情",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194809644/profile_12a2c8b6ea9365d51363cbf0c53b7723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "参加させて下さい❗️\nよろしくお願いします🙏🙇\nhttps://note.com/safe_lupine8306/n/nce097824f00b\n",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncada2fb755528",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あまね、再び∠(　˙-˙ )／✨ 笑\n\nよしひろさん、こんばんは🌛*゜\n\n企画参加の記事、こんなのでいいのかしら…？😅\n\nhttps://note.com/al…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc235e4af8d253",
+          "user_name": "こに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263845084/profile_fcac4b21de4877d4bb2ed474c4f10238.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。恥ずかしながら、企画参加させてください。\nhttps://note.com/coni0624/n/n516de46ef6a2\nこのお題、いただかなか…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc988044eb1489",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふたたび、あんさんのところから来ました（笑）\n夢ーーー💕お題が今の私にピンポイント〜💖 皆さんの夢も覗いてみたい💕ぜひ楽しみに期間内に参加しにきます☺️💕",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc323ba9b22525",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273451109/profile_7c19ae65eb22548cb0d00c83315b51f5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、はじめまして😊\n\nフォロワーさん1000人達成おめでとうございます🎊👏🎉㊗️\nそして、スキとマガジン追加ありがとうございます😭\n\n実は、あんさんの…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc4b0e0a3d7185",
+          "user_name": "リスクコラム中井",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245719348/profile_87c9b015f2585f0d48a0b0a056a4f1f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "中井（自称・和み記事探し職人）です。\nコメント乱入すいません。\n1000人、おめでとうございます。\nまた、いつも、マガジン拾い上げありがとうございます。\n夢企画…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc2a46c4c7df2e",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます。\n\nフォロワーさん1000人凄いですね。\n\n私も詩エッセイで「夢」を題材でコトバで紡いでみました。\n皆さんのような盛り上がりや…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc1c3b7cb99908",
+          "user_name": "ゆらり🌹🫧　🫶💕",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239767432/profile_47e4f415224790b9faa65da8165fa21d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん🌸🫧\n\nゆらりワールドイベントご参加頂き有難うございます🌸🫧\n\nhttps://note.com/huge_coot6820/n/n58a70cc2…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncba0bc436c9e8",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332795/profile_4f5eef7542445323544bcadc430cf640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんばんは(○´U`○)\nいつもマガジン追加\nありがとうございます😊\nフォロワ様1000人\nおめでとう御座います✨\n\nわたしも今回の企画に参加させ…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc535369ce1c4f",
+          "user_name": "そらとうみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\nよしひろさん\n光栄にもマガジンへ\n追加頂きありがとうございます✨💖\n心より感謝します✨\n\nフォロワーさん1000人凄いです✨おめでとうございます㊗️",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc468babb180cd",
+          "user_name": "かめ子のWeb修行🐢",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273795562/profile_6ea568c1405f4dc007aff18fc5047c95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nはじめまして、かめ子と申します🐢\nマガジンへ追加いただきありがとうございます🙇🏻‍♀️\n\nフォロワーさん1000人達成！おめでとうございます🎉\n…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc70c2f3f5be1c",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおおお！！1000人おめでとうございます！！\nにしても激熱な企画じゃないっすか！\n夢･･･なるほどー！！\nちょっと個人的にバタバタしてるんですが、できる限り参…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc420eca9fa7f0",
+          "user_name": "めぐり",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_3-39088fff430aa9ec11d6e2a385dbcad45c8b79bde6c0c9ded10cd7abb960174f.png",
+          "body": "よしひろさん\nフォロワー1000人\nおめでとうございます🎊🎉\n\nそして、いつもマガジンに追加くださり感謝しております。\n本当にありがとうございます♪",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncf6d62a210aa2",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おぉ！企画🤩✨\n\n夢ですか…夢……🤔\nよし、書きま～す♪⸜(*˙꒳˙*)⸝\n\n‪‪✍️‪‪✍️🦌🦌（かくかくしかじか笑）\nタグをつけるのを忘れそう、というのが、…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncb51509a0877b",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん〜！フォロワー1000人！\nおめでとうございます🎉\n\nもちろんやりますよ！私も🤩\nタグも面白い🤣✨w\n\nまた後ほど〜🙇‍♂️✨",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc0d2a3c1a1676",
+          "user_name": "そらとうみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして\nそらとうみです\nあんさんから\nこの企画を教えて頂き\n参加させて頂きました✨💖\n\nhttps://note.com/leal_tapir945/n/n…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc6d11e582d54d",
+          "user_name": "ゆかいな山",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/187377393/profile_9f501afa0524739a6c4fab2d21d3de93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "書きましたー❗\nフォロワー1000人、おめでとうございます✨\nhttps://note.com/yukaiyama/n/na1a5d3922829",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc6f52ba1dedcc",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よっしーさん\nフォロワーさん1000人、おめでとうございます🎉\n\nhttps://note.com/aging_gracefully/n/n30a6e3d6ff…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc461e99a39f2a",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267718350/profile_d73fda1af8e66cc2c55152264f38ff50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nフォロワー1000人、おめでとう御座います🎊🥳\n\nそしてマガジン追加をいつもありがとうございます！\n",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nceceb1a66a6da",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250421889/profile_b0f56720aebb6d8ee14055b266debfc4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは✨\nフォロワー1000人おめでとうございます🎊\nそしてメンバーシップにご参加いただき、ありがとうございます🙇\nそしてそして！\n楽しそうな…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "ncc723690537f5",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239663389/profile_49bb32f5cdb12b8a92a46112d883daf1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nフォロワーさん1000人との繋がりおめでとうございますっ\\( ˆoˆ )/\nマガジンにもいつも入れていただいて感謝感謝です！\n(人*´∀`)ステキ…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc7f0ab675b530",
+          "user_name": "ふくふく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/199863135/profile_fd5c1143f3022a450752d18a86437b41.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろ様\n\nこんばんは🌙\nフォロワー１０００人登録おめでとうございます㊗️\nマガジン登録もしていただき、嬉しいです😊ありがとうございます🙇‍♀️\n楽しいチャレ…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc80260fc49d68",
+          "user_name": "てぃー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209989191/profile_9cbd068e0f735456d6dc5985de73be5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たてまえでも本音でーもー\n本気でも嘘っぱちでもー\n限られた時間のなかでー\n借りものの時間のなかでー\n本物の夢を見るんだー\n本物の夢を見るんだー\n\nいいお題ですね…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nced7e29877cf1",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん❣️\n\n1,000人\nおめでとうございまーす🍾㊗️🎊\nそして、その中の１つの貴重なご縁をありがとうございます🌷",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc9b7c239de447",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、マガジン追加ありがとうございます🍀😌🍀",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc88032ad780d5",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは\n\n「自分を好きになれない日に」をマガジンに加えてくださり\nありがとうございます\n\nそしてフォロワー1,000人達成おめでとうございます…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc20d77a79f1e2",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\nフォロワー1000人おめでとうございます！\nキリがいいですよね😊\n\n早口言葉みたいなタグ、ほかと重ならなくて便利です。\n期限は5月17日までです…",
+          "article_title": "フォロワー1,000人記念企画やります✨【企画かくカク書く企画】第1回のテーマは「夢」です！",
+          "note_key": "nf5fcdcfb8a24"
+        },
+        {
+          "key": "nc6eefab3e8e53",
+          "user_name": "ゆかいな山",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/187377393/profile_9f501afa0524739a6c4fab2d21d3de93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど…。\n夢を叶えるために努力することを考えると現実的になってしまうけど、夢をそのような指標みたいに考えると明るく考えられますね✨\n素敵❗❗",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "ncc93dcbfe22e1",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます。\n\n読んでいて、心がふっとほどけるような気持ちになりました。\n「夢にまで資料を求めないで」という言葉に思わず笑いながらも、\n大…",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "nc2792297a7429",
+          "user_name": "ふくふく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/199863135/profile_fd5c1143f3022a450752d18a86437b41.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま\n\nこんばんは🌙\nいつもありがとうございます🙇‍♀️\n私は夢のハードルを高くしてたかなと思いました☺️\nいろいろな夢のかたちがあっても素敵ですね✨\n…",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "nce655244a2e68",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夢…夢みがちですが、何か？\n\n私もぐうたらしたい、夢あります🤣\n\nでも色んな制限のある中で、夢を実現するのが楽しみな感じなんで、仕事して、用事して、その合間にぐ…",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "ncb5052626f66a",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332795/profile_4f5eef7542445323544bcadc430cf640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんばんは(○´U`○)\n子供時代の夢ほど\n忖度なく愛おしいもがなかったですね\n周りもケーキ屋さんとか\nスーパー戦隊のヒーローとか\n親友だけは子供…",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "ncb8822ed54a9f",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん😊\nこんばんは🌙\n夢って、気づいたら“叶えるもの”というより、“今の自分の気持ち”そのものなんだなぁって思いました🥹✨\n「軽く持っていい」「雑に持っ…",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "nc13f4d7801374",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、お手本ありがとうございます😊\n考え中です🤭\nおめでたい記念だし、オシャレな人だから、綺麗な記事が良いですよね〜✨",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "nc4a112937d095",
+          "user_name": "くまごろう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269120769/profile_bb8e550a933a8e32aadbf169c399b091.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！こんばんは\n\n今回は夢の話、浪漫があっていいですね。\n\n私の最近の夢でいえば\nお金も稼ぎたいですけど、\nとにかく一緒にいて\n楽しいことも悲しいこと…",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "ncdf64def33d68",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌛*゜\n\n1番✨かな？笑\n\nあまねのお金持ちの夢は、まさに「好きなものを我慢せずに選びたい」ですね🤭",
+          "article_title": "夢見がちなくらいで、人生はちょうどいい",
+          "note_key": "nb7d7969c0393"
+        },
+        {
+          "key": "nc4738f93061ed",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あんさんのところから来ました☺️♥️\n500部おめでとうございます💕\nそして私はアメージングに感動😍♥️\nこういうことって、あるよな〜💕と！\n\nまた勉強させても…",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "nc566db962503f",
+          "user_name": "かつとし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269896925/profile_53f6be5fb5ca2d99bd2ba660dd7eaa01.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございます🎉\n\nまだ0→1できてないですが\n\n1年後、少しでも成長できているよう継続していきます。\n",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "nc8201a20e938d",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222249273/profile_758483b17b89d1dffd8ba28f3cf4fcaa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nこのゆるカワキャラ、これからも出番多めでお願いします😆\n\nいつもありがとう…",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "nced76df39031d",
+          "user_name": "紅茶🫖｜言葉で自分を整える人  ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260923743/profile_037296bb383b7b464cc7b599e5d67585.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは。\nほんとだ！アメイジング〜♬\nおめでとうございます🌟\n\n（マガジンへの追加いつもありがとうございます🙏）",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "ncbdd57ec5e2c8",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "500部、部〜？\n\n同じ頃に始めてるハズやのに…やはり個人差ありありですわぁ💦💦👏🏼👏🏼\n\nおめでとう御座います㊗️\n\n私もまだまだ追い付かない…\n\n追いつこう…",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "ncd3c452207748",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "500部〜🤩✨アメージング🎊\n\nよしひろさん！\n本当におめでとうございます🙇‍♂️✨\nこの数字ヤバすぎる💦私がこの数字に達するにはあと何年かかるやら😱\n\nこれか…",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "nc28a6ea880047",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238886147/profile_71a504244fe604943c4eb0a3c3c99742.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、1年で500部達成おめでとうございます！\nnote楽しんでますね～😊\n\nフォロワー1000人企画もありましたね！\n17日まで、思い出しました！",
+          "article_title": "アメイジング！ワンダフル！！ちょうど1年の嬉しい偶然✨",
+          "note_key": "n37be7ce8e679"
+        },
+        {
+          "key": "nc09036d78ec9f",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250421889/profile_b0f56720aebb6d8ee14055b266debfc4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、勉強になりました✨🙇\nいつも素敵な記事をありがとうございます。\n\nそっか〜、なるほどな〜。\n納得です。\n\n私はよしひろさんから学んだことを、\n自然…",
+          "article_title": "【3月＆4月】有料記事〇〇件の裏側",
+          "note_key": "n1b1056d9277e"
+        },
+        {
+          "key": "nc36b2f9d7acbb",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270436419/profile_35c1e2b2e8ef32be40119179aeef9fa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱ、言語化王子さまなんよ〜よしひろさんは👏🏼\n\nなんで、こんなにスルスルと思っていることを…わかりやすくシンプルに表現できるんやろ？\n\nしかも500部も売り…",
+          "article_title": "【3月＆4月】有料記事〇〇件の裏側",
+          "note_key": "n1b1056d9277e"
+        },
+        {
+          "key": "nc0b3ae011ee38",
+          "user_name": "柴わんこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238902723/profile_e9480392b9cdfa2e109591cf8bd585ee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これから有料記事書いてみようかなって人、書いたけど思うような結果にならなくって辞めようかと思っている人にも、気付きが多い記事だと私は思いました。⑧に関しては、私…",
+          "article_title": "【3月＆4月】有料記事〇〇件の裏側",
+          "note_key": "n1b1056d9277e"
+        },
+        {
+          "key": "nce7874df2d277",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😃🌃\nコングラボードの積み重ね、本当にすごいなぁと感じました✨\nバタバタの中でも新しいことに挑戦されている姿、素敵だなぁと思います🍀\n変…",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nccafc2b9baf5f",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワーさんがピッタリ1,000人！🫢✨\nおめでとうございます🎉",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nc184a1bbc73fb",
+          "user_name": "🇯🇵🌸Sakura SUN☀🌐",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235884817/profile_3f65d23409ab936ec04a245b20478862.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "文章作りの丁寧さ。\nに惹かれました。\nこれからもよろしくお願い致します😊",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nc49518947923c",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222249273/profile_758483b17b89d1dffd8ba28f3cf4fcaa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\nマガジンに掲載していただき、ありがとうございます✨\n\nコングラボード42枚も獲得されたんですか👀\nスゴすぎる😱\nおめでとうございます…",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nc08673e821f16",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ビューアにコングラ！！\nいいですね〜\n今まで画像でまとめてましたよね。\nそれより見やすいですね〜\n確かにデーンて感じではありませんが。\nスゴイ枚数です！",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "ncf9ca0f2233e2",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！こんばんは♪\n\nビューア機能、なるほどです✨\n勉強になります🙇‍♂️✨\n\nって、これだけのコングラ凄すぎですよ〜🤩✨",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nca2c2a2c1da5a",
+          "user_name": "結帆の『こっそり神様手帖』もやもやと向き合う旅",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272254266/profile_de8c5895c1383cefa404230a4417062a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつもマガジンに追加してくださり、ありがとうございます😊\n\nコングラのビューア、すっきりしていてかわいいですね。\nでも確かにドヤ感は出ませんね(笑…",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nc449c46d8c024",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272850856/profile_5078d7016e37422cee3be424742ee433.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コングラのビューア、\nすっきりしていいですね！✨",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "nc11bdc1416190",
+          "user_name": "どこかにあるはず日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272799920/profile_aef8e7044414627e6859a05edce15e71.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもマガジンに取り上げてくださり、ありがとうございます😊\n今、noteで新しいチャレンジ中です。これからもよろしくお願いします♪",
+          "article_title": "4月のコングラボード感謝の42枚🥰",
+          "note_key": "na203a65edb82"
+        },
+        {
+          "key": "ncfcbc2751c7a5",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIが得意なのは、無限大の情報から１つにまとめることだと思います。\nですが、０から１にすること。\nこれは、人間だけができることだと考えております。\n\nそのきっか…",
+          "article_title": "AIにはできない、人間の“気まぐれ”という才能",
+          "note_key": "n9c922f75c9b3"
+        },
+        {
+          "key": "nc55e5bd4dddc6",
+          "user_name": "そるっち",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218889598/profile_f238954a960970b60bf87645f39e0483.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます😃\nマガジンに掲載いただきまして、ありがとうございます💕\n\nAIはルール通りに動くことは得意ですが、\n曖昧さやゆるさのような部分…",
+          "article_title": "AIにはできない、人間の“気まぐれ”という才能",
+          "note_key": "n9c922f75c9b3"
+        },
+        {
+          "key": "ncfc913948ff1c",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222249273/profile_758483b17b89d1dffd8ba28f3cf4fcaa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\nお久しぶりです😊\nマガジンに掲載いただき、ありがとうございます✨\n\nさては笑いに来ましたね😆\nどうぞ笑ってやってください🤣\n\nありが…",
+          "article_title": "AIにはできない、人間の“気まぐれ”という才能",
+          "note_key": "n9c922f75c9b3"
+        }
+      ]
     }
   ]
 }

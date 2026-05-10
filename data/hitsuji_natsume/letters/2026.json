@@ -28,6 +28,107 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 121,
+        "likes_prev": 97,
+        "followers_start": 1251,
+        "followers_end": 1270,
+        "new_fans": 26,
+        "comments_total": 8,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:30"
+        ],
+        "top_article": {
+          "title": "ChatGPTも遊んでる。｜CCC｜image-2｜ChatGPTはじめました。×生成AIはじめました。#35",
+          "key": "nce8652eef42a",
+          "likes": 33,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12826
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc939b3a36c0c1",
+          "user_name": "ゆりしま みつき（毎日更新｜Gemini,NanoBananaと一緒）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273153906/profile_7a853fa8023b031f44b46e90763aa274.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、羊さん。\nCCCに羊さんがいて入会しやすかったです♡\n\nショーケースに入ったイケメンに笑ってしまいました。",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "nc14b0ef137a36",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんばんは😊\nChatGPTの画像生成の先走りの件ですが、\n本当に画像を出してきます？\n\nうちのChatGPTは最初は画像生成画面が出て生成してるフリを…",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "nc23c3bae0f303",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260472813/profile_3900b3e93c0434c47a02ed876da2eee1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、羊くーん🌙\n記事の更新ありがとう✨️\nうれしい、久しぶりだね🙌\nGWはお疲れ様だったみたいで\n無理はしていないかな😅\n休めるときはゆっくり休んでね😊…",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "nceaa83fdaf5f1",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひーくん、こんばんは✨\nchat GPTの進化が本当に凄いね😆✨😉\nリー氏との掛け合いも楽しそうだし\nイラストも楽しんでるのが伝わって来るよ🥰✨😉\n\n久しぶりの…",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "nc8effe7e2c515",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハク様推しに刺さりましたわん\n😍✨\n\nあのツールで遊ぶと、時間溶けるよねw",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "nc691059c7535a",
+          "user_name": "兎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240725001/profile_2cae6f856fd5b11202b5ae48b9a44a0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、こんにちは🌸\n\nイラストが好きすぎて思わずコメントしてしまいました！\nカンバーバッチのシャーロック大好きだったんです✨️✨️あぁかっこいい✨️✨️\n\n…",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "ncd9c7300c1e95",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊ちゃーん🐏こんにちは\nなんかご無沙汰な気持ち\n幽霊部員です👻\n\n全部素敵すぎて何から伝えればいいのか\nえっと刺激めちゃされました。\n私もなんか真似してやりたい…",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        },
+        {
+          "key": "nc82b81d5b9c0d",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事の紹介ありがとうです！\nあのツールは、ホント無限大なきがします笑\n\nいまは、改定に向けて調整中。",
+          "article_title": "ChatGPTも遊んでる。",
+          "note_key": "nce8652eef42a"
+        }
+      ]
     }
   ]
 }

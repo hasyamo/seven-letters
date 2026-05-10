@@ -368,6 +368,92 @@
           "note_key": "n7f4a30c3f241"
         }
       ]
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 604,
+        "likes_prev": 822,
+        "followers_start": 3157,
+        "followers_end": 3160,
+        "new_fans": 90,
+        "comments_total": 11,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "07:37",
+          "16:46"
+        ],
+        "top_article": {
+          "title": "「五月人形コスを楽しむ女の子」｜AIイラスト ｜AIイラストの魅力｜AIイラストの描き方｜AIアート ｜AI漫画　",
+          "key": "ndbf8f33883b6",
+          "likes": 204,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12801
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nce43c897983e2",
+          "user_name": "きむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261680855/profile_5950c868d2f40dd68a77dfb4edfaaea7.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「書くことより改善に時間をかける」という本質、心から同意します！僕も反応を分析して型を作ってから、noteを書くのが格段に楽しくなりました。まいかさんのように「…",
+          "article_title": "『noteで伸びる人の考え方』-NanoBananaで描くAI漫画 -",
+          "note_key": "na7c959e7f2bc"
+        },
+        {
+          "key": "nc160e90be71ef",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です投稿拝見しました。すごい！！まいかさん頼もしい！！ついていきます。",
+          "article_title": "『noteで伸びる人の考え方』-NanoBananaで描くAI漫画 -",
+          "note_key": "na7c959e7f2bc"
+        },
+        {
+          "key": "ncb6e28282933c",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267740858/profile_18c76c858e576dc2357e1ed52c244446.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介ありがとうございます☺\nツタンカーメン・タロットを取り上げていただけて嬉しいです。これからも気負わず、自分のペースで書き続けていきます。",
+          "article_title": "『noteで伸びる人の考え方』-NanoBananaで描くAI漫画 -",
+          "note_key": "na7c959e7f2bc"
+        },
+        {
+          "key": "nc8c8871d5acf7",
+          "user_name": "亜紀刹那",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273818080/profile_69cfd0c2fc3f8a2a77cf580bee79733d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、私の絵を描いていただいてありがとうございます～～\n\n刹那とは、非常に短い時間、瞬間ということになるのでしょう\n\n源内AI、使ってみたら、かなり速かっ…",
+          "article_title": "「五月人形コスを楽しむ女の子」",
+          "note_key": "ndbf8f33883b6"
+        },
+        {
+          "key": "nca765bf053a62",
+          "user_name": "くだちい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233756263/profile_c043266d000038a3eb4cc4f90900731f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも大変お世話になっております。\n\n伝統ある五月人形を「守り神」と呼び、お子様の成長を願う親心。\nそしてそれをAIイラストで鮮やかに彩る感性、まさに新時代のク…",
+          "article_title": "「五月人形コスを楽しむ女の子」",
+          "note_key": "ndbf8f33883b6"
+        },
+        {
+          "key": "nc4c941e288d98",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です投稿拝見しました。今回は五月人形ですね、季節を外さない、さすがまいかさんです。きりっとした女性、凛々しいです。",
+          "article_title": "「五月人形コスを楽しむ女の子」",
+          "note_key": "ndbf8f33883b6"
+        }
+      ]
     }
   ]
 }

@@ -189,6 +189,60 @@
         "commenters_count": 0
       },
       "rare_no": 2
+    },
+    {
+      "week": "2026-W19",
+      "period": {
+        "start": "2026-05-04",
+        "end": "2026-05-10"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 131,
+        "likes_prev": 110,
+        "followers_start": 406,
+        "followers_end": 413,
+        "new_fans": 36,
+        "comments_total": 5,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:01",
+          "08:29"
+        ],
+        "top_article": {
+          "title": "【「継続の難しさ」という呪縛を解いてみる】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.39",
+          "key": "n747a10d98feb",
+          "likes": 56,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+          "urlname": "ai_hakase",
+          "follower_count": 6343
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "ncb4090cd61cf2",
+          "user_name": "ハムカツ🐰｜命の燈を灯す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273546188/profile_a9b901ea451fa07fee38bf97b1a85abe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、仕事は毎日、毎秒行きたくないし辛いですꉂ🤣𐤔\n\nだけど、趣味にお金かけたいから頑張ります( *˙ω˙*)و ｸﾞｯ!\n\n共同マガジンの紹介ありがとう…",
+          "article_title": "【イラストを支えてくれたもうひとりの彼女】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.40",
+          "note_key": "n40c7c22074c9"
+        },
+        {
+          "key": "ncc3e77c756cd5",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266986187/profile_867ad9fef38c202d8e142f89c233fcc7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、おはようございます( ˶˙ᵕ˙˶ )☀️\n私も五月病で何をするにもやる気が出ない状態です(´；ω；｀)\nでもやらなきゃいけないので頑張りましょ！(*…",
+          "article_title": "【イラストを支えてくれたもうひとりの彼女】 #AIイラスト #画像生成AI #Nijijourney #Photoshop #Gemini No.40",
+          "note_key": "n40c7c22074c9"
+        }
+      ]
     }
   ]
 }
