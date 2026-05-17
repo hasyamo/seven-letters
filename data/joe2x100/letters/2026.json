@@ -243,6 +243,59 @@
           "note_key": "n40c7c22074c9"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 109,
+        "likes_prev": 137,
+        "followers_start": 417,
+        "followers_end": 433,
+        "new_fans": 35,
+        "comments_total": 4,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:37"
+        ],
+        "top_article": {
+          "title": "【自己肯定感とイラストと心を救う魔法】 #AIイラスト #画像生成AI #Nijijourney #ChatGPT #Gemini #Photoshop No.41",
+          "key": "nc041abf1f3d0",
+          "likes": 46,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 13078
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nc3054eae86e3a",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは(⋆ᴗ͈ˬᴗ͈)”‪💕︎︎\n仕事終わりに見て\nとても癒されました～(* ´  ` *)ᐝ🌸✨\nキラキラほわほわで可愛かったです💖",
+          "article_title": "【自己肯定感とイラストと心を救う魔法】 #AIイラスト #画像生成AI #Nijijourney #ChatGPT #Gemini #Photoshop No.41",
+          "note_key": "nc041abf1f3d0"
+        },
+        {
+          "key": "nccfd261d1cefe",
+          "user_name": "Kinu_AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！キラキラで可愛い女の子、とても素敵です(*´꒳`*)🩷これからも楽しみにしております！",
+          "article_title": "【自己肯定感とイラストと心を救う魔法】 #AIイラスト #画像生成AI #Nijijourney #ChatGPT #Gemini #Photoshop No.41",
+          "note_key": "nc041abf1f3d0"
+        }
+      ]
     }
   ]
 }

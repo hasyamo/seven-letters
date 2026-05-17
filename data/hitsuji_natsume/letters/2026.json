@@ -129,6 +129,34 @@
           "note_key": "nce8652eef42a"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 101,
+        "likes_prev": 173,
+        "followers_start": 1275,
+        "followers_end": 1294,
+        "new_fans": 42,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "urlname": "fancy_nerine2305",
+          "follower_count": 5884
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

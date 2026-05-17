@@ -454,6 +454,69 @@
           "note_key": "ndbf8f33883b6"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 560,
+        "likes_prev": 647,
+        "followers_start": 3161,
+        "followers_end": 3156,
+        "new_fans": 80,
+        "comments_total": 6,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:26",
+          "06:25",
+          "09:29"
+        ],
+        "top_article": {
+          "title": "『✨ noteで仕事のできる人が実践しているマーケティング術』｜イラストAI漫画 ｜AIイラスト ｜AIイラストの魅力｜AIイラストの描き方｜AIアート ",
+          "key": "n97acf25f2cb2",
+          "likes": 136,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 12999
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncf0fc622237b4",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。街角で、春を楽しむ女の子、最高でした😀ありがとうございました。",
+          "article_title": "NanoBananaで描く『初夏コーデを楽しむ女の子のイラスト』",
+          "note_key": "ne979740af583"
+        },
+        {
+          "key": "nce6345901f42d",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。ご紹介いただきありがとうございます。",
+          "article_title": "NanoBananaで描く『初夏を彩る庭園を楽しむ女の子のイラスト』",
+          "note_key": "n90555bdb2c36"
+        },
+        {
+          "key": "nc86f882c348b9",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。指導していただきありがとうございます。",
+          "article_title": "『✨ noteで仕事のできる人が実践しているマーケティング術』",
+          "note_key": "n97acf25f2cb2"
+        }
+      ]
     }
   ]
 }

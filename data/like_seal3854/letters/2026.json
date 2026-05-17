@@ -232,6 +232,92 @@
         }
       ],
       "rare_no": 2
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 295,
+        "likes_prev": 264,
+        "followers_start": 435,
+        "followers_end": 452,
+        "new_fans": 76,
+        "comments_total": 13,
+        "posts_count": 2,
+        "consecutive_days": 2,
+        "post_times": [
+          "21:29",
+          "17:45"
+        ],
+        "top_article": {
+          "title": "子連れ旅行の不安を減らしたくて、AIで1週間の旅のしおりを作ってみた",
+          "key": "nce3bff09264f",
+          "likes": 100,
+          "comments": 11
+        },
+        "notable_reader": {
+          "name": "シロイ",
+          "urlname": "shiroi_ze",
+          "follower_count": 6053
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "nc2e7872ff3ba7",
+          "user_name": "陽かあちゃん｜歳の差育児の沼と諦めない自分磨き",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275838892/profile_c25b4fffb89bf9e1bb5f2f4f1f88dc92.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして♪\n旅行のしおりを考えてくれる素敵パパなんているんですね！\nしかも作り込みがすごい😆\nびっくりしすぎて思わずコメントしてしまいました。",
+          "article_title": "子連れ旅行の不安を減らしたくて、AIで1週間の旅のしおりを作ってみた",
+          "note_key": "nce3bff09264f"
+        },
+        {
+          "key": "nc0d296cd2135b",
+          "user_name": "こころのかあちゃん l ゆんママ☀（旧：幸せなしろくまさん）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239060583/profile_01f62fbc849f4a7e08c0a19c85df3c4b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん、おはようございます☀旅行のしおり、すごいですね！\n家族で情報共有できるのもいいなと思いました✨\nわたしも真似してみたいです☺️☀️",
+          "article_title": "子連れ旅行の不安を減らしたくて、AIで1週間の旅のしおりを作ってみた",
+          "note_key": "nce3bff09264f"
+        },
+        {
+          "key": "ncece7c88e9cc8",
+          "user_name": "みよう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272954962/profile_d6c63adc53ac9e993d953eb504fe9b4a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "正直に言うと、『娘は発達が遅れていて、治療を受けています。息子は1歳半で、常に目を離せません』というお言葉を読んで、心がとても動かされました。そんな日常の中でも…",
+          "article_title": "子連れ旅行の不安を減らしたくて、AIで1週間の旅のしおりを作ってみた",
+          "note_key": "nce3bff09264f"
+        },
+        {
+          "key": "nc4c9f0c5de98f",
+          "user_name": "超育休志向｜りさ ＆ ゆういち",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275381951/profile_7d3148ccded263a367f32fb4d7993a34.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "旅行のしおりいいですね✨\n私たちも最近出かけるときはnotebookLMに一通り情報を入れてから出かけています。入れる時点でざっと目を通しているので、予習にもな…",
+          "article_title": "子連れ旅行の不安を減らしたくて、AIで1週間の旅のしおりを作ってみた",
+          "note_key": "nce3bff09264f"
+        },
+        {
+          "key": "ncae9f051d5722",
+          "user_name": "sora",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267775961/profile_a297a6990f621d48e29191533aab5c01.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん、こんばんは！\n\n今って、AIでこんなこともできるんですね😳\n面白いなと思いながら読みました✨\n私も、今度やってみたいです☺️\n\n名古屋もいづれ行き…",
+          "article_title": "子連れ旅行の不安を減らしたくて、AIで1週間の旅のしおりを作ってみた",
+          "note_key": "nce3bff09264f"
+        },
+        {
+          "key": "ncd998db690818",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262659779/profile_313606dd96df5611bf69d52cd4e39653.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後の「ぱぁぱぁ、すきぃー」記事を書き終えたタイミングで出るって、、、！演出がうますぎる娘さんですね😂かわい\n\nでも読んでいて本当にじんわりきました。\n2年間の…",
+          "article_title": "二語文で娘の可愛さが限界突破しました【3歳半",
+          "note_key": "nc13b0f01bdf0"
+        }
+      ]
     }
   ]
 }

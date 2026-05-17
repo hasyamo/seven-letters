@@ -1407,6 +1407,754 @@
           "note_key": "n64afd58d412a"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 720,
+        "likes_prev": 798,
+        "followers_start": 1170,
+        "followers_end": 1199,
+        "new_fans": 103,
+        "comments_total": 189,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:54",
+          "09:02",
+          "05:53",
+          "05:25",
+          "06:42",
+          "16:00",
+          "06:58",
+          "06:07"
+        ],
+        "top_article": {
+          "title": "「余白」って言葉だけで、もう描きたくなってしまった話｜GPT｜創作｜イラスト｜やってみた｜#366",
+          "key": "naf090490675c",
+          "likes": 82,
+          "comments": 28
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 13079
+        },
+        "commenters_count": 44
+      },
+      "comments": [
+        {
+          "key": "ncb9727ed3ba07",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nすいません、吹き出してしまいましたw\nでも、AIでの画像生成、私もうまくいきません。言葉が足らないのは自分で分かるんですが、どう伝えれば良いのかが…",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nc184b720c69c2",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "成功しても失敗しても楽しめる☺️\n本当にソレ❗️\n\n全部丸ごと楽しんだら、SDGsにもなりますよね🤭",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nca63ce273779e",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤣🤣🤣\n\n最後の森の長老が\n新海の長老に見えるのはワタシだけ？",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nc80bb95105a43",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\n森の長老⁉️可愛さは。。。\nどっかに置いてきたんですかね〜\n\nあ‼️違う意味で可愛い⁉️\n青い目とか🤭🤭",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nc0b20d60235ba",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんは正体不明のイメージなので、納得のキャラクター😊\nたぶんファンシーな可愛さは合わないと、判断されたんですね🤔\n\n大木は豊かな自然の象徴だから、アート…",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nc951943b068c8",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんおはようございます！\n森で500年くらい生きてそうな犬😂😂😂この世界では絶対キーパーソン(キー犬)になってます😂",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "ncb4614226e66c",
+          "user_name": "ななな｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "召喚企画で、\nナナエルが\nこうならなくてよかったです🤣\n\nきたさん、\nおはようございます〜🧜‍♀️",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "ncd4cf7bf71026",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ザ・ワールド　全開ですね！\n唯一無二です！！\n\n絶対、こいつ、何かを知ってる (^^;",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "ncd03717e11d11",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネがかわいい💕フレンチブルでなくブルちゃんかなぁ〜ヨダレ〜なんて見ていたら、ゴーグルに目が👀怖い😱",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nc9981866d1262",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うおお！紹介してくれてる！？\nなんかこう、キャラ泣いてませんか？w\nこれはこれでかわいいと思ってしまいましたw\nいつもありがとうございます！",
+          "article_title": "かわいいを作ろうとしたら、森の賢者が出てきた話",
+          "note_key": "n6d8c2899094a"
+        },
+        {
+          "key": "nc0c8e145dc5b0",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "昨日は混乱しましたけど😭\n更新されてて、わかりやすくなったので遊べました🤭",
+          "article_title": "ポスターの次は漫画ページ。プロンプトが複雑すぎて取説まで作ったログ",
+          "note_key": "ne2ef933ffccb"
+        },
+        {
+          "key": "nc47425edf8e0a",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさま、、、、すごいです、、、\n私、まあまあ理解力低めかつ、英語力も低めなので、ちょっと個別で聞いたりするかもです、申し訳ないです😭",
+          "article_title": "ポスターの次は漫画ページ。プロンプトが複雑すぎて取説まで作ったログ",
+          "note_key": "ne2ef933ffccb"
+        },
+        {
+          "key": "nc3005a2c894da",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "即購入！ありがたやありがたや！\nこれで色々捗りそう。\nありがとうございます😊",
+          "article_title": "ポスターの次は漫画ページ。プロンプトが複雑すぎて取説まで作ったログ",
+          "note_key": "ne2ef933ffccb"
+        },
+        {
+          "key": "nc38b66c604a31",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "曲もですけど、心に響くものがありました！\n痛みを感じるほどに…",
+          "article_title": "「平気やで」の奥にあったしんどさを、曲と画像で置いてみた",
+          "note_key": "nb4688e695fe6"
+        },
+        {
+          "key": "nc2bf1dad07394",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完璧やないまま生きていくしかない。\nでもそれでも折れずに、少し曲がりながら進んでいく。\n\nこの一枚は、そういう感覚に近い\n\nの子に たくさん蝶々💖\n進化するとこ…",
+          "article_title": "「平気やで」の奥にあったしんどさを、曲と画像で置いてみた",
+          "note_key": "nb4688e695fe6"
+        },
+        {
+          "key": "nc8746dd200659",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イラスト、どれも立ち止まってる人ばかりで、週末に一度足を止めて振り返り会が強制発動。死蔵してた作品を、ちゃんと記事として組み立てれる構造力に惹かれます。\n\n…と…",
+          "article_title": "「平気やで」の奥にあったしんどさを、曲と画像で置いてみた",
+          "note_key": "nb4688e695fe6"
+        },
+        {
+          "key": "nc5e43c71f33fc",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "エモい！！\n心にずっしりと響いております。\nいつもありがとうございます！",
+          "article_title": "「平気やで」の奥にあったしんどさを、曲と画像で置いてみた",
+          "note_key": "nb4688e695fe6"
+        },
+        {
+          "key": "nc575fec0c1ac1",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐶💓👌👍",
+          "article_title": "「平気やで」の奥にあったしんどさを、曲と画像で置いてみた",
+          "note_key": "nb4688e695fe6"
+        },
+        {
+          "key": "nc15dc02fdf085",
+          "user_name": "ジェミ兄【非公認Gemini画像プロクリエイター】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256995372/profile_c5f759b3de69d871665925ae8a88065e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イチコメ！",
+          "article_title": "「平気やで」の奥にあったしんどさを、曲と画像で置いてみた",
+          "note_key": "nb4688e695fe6"
+        },
+        {
+          "key": "nc2bc1f3b8a0f8",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちわ！\n記事誘導に乗って、ギャル記事（？）も見てきました。\nギャルのイラスト自体は好まれそうなタイプですが、なんか、ギャルの登場に唐突さを感じるのは私だけ…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc7d8ab4b12b7e",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ギャルの方も見に行ったんですが、イメージ違いすぎてびっくりしました😳\n最初コメント3件だったんですね💡\n（´-`）.｡oO（みんな、ちょっと困惑しただろうな…）…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc715976964418",
+          "user_name": "キヲ@AIイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251946926/profile_f9698130687ec7ce943e4e53083d8426.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん\\(//∇//)\\✨💖‼️\nコメ\\(//∇//)\\マジで爆上がりやん\\(//∇//)\\😆\nブランド\\(//∇//)\\✨😆わかる気がするー\n\\(*≧∀…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "ncad14995b097c",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "結局ギャルが悪者に😂\n\n最後のヤツ…なんか違～う！絶対違～う！！なのに…笑ってしまう🤣",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc853b8f69488b",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後の反則過ぎです🫣💖",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nca97c5c3623f6",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "にーさん、こんばんはー🌙\n\n最後のイラストのインパクトがすごいです🤣🤣まさかそうくるとは😂😂\n個人的にはやはり異形のが好きですが、ギャルも捨てがたいです🤔🎉✨✨",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc1615ef74ab2a",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ピンクが違う気がしますね😭\n\n異形もウケましたけど🤣\nイメージカラーのオレンジだったら受け入れられたのかも🫶",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc77ffa632cbc8",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後のイラストで、思いっきり吹き出しました。\n飲み物を口に含んでいなくて、本当に良かったです。\n\nイラストというよりも、内容の影響ではないかと、個人的には感じま…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc89796c5d3a46",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント来てる。\n良かったねぇ😊\nここでコメント来ずにピンクのフォントのせいにする\nKITAさんも見てみたかったけどｗ",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc682791440419",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょっと違和感感じましたがギャルもスキでした🥰\n\nKITAcoreファン初心者🔰なので\n「KITAcoreさんのタイプはギャルなんだなー」って思って見てました\n…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc14afbcfe73d2",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264636081/profile_8cc32dc7dcd5744599c82918639643ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ギャルが悪い\nの連発に爆笑です\nでも最後の画像はもっと笑いました✨",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc68b54319ae0c",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "化け物やめい！！🤣🤣笑",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nca3d87f4e56d3",
+          "user_name": "ジッケン🧪人生の人体実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253120733/profile_2488f3877085f3af16606550e4c464e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後の画像が、多分違くて大正解で笑ってしまいました🤣\n僕もギャルの取り入れを検討していたので、ギャルにも適材適所があることを知れて良かったです！",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc3e6164af4849",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんとだ、私もギャルの時紹介してもらったのに、ギャルに衝撃受けてコメントしてなかったわww\n\nそして異形にはコメントしてるw\n\nギャルのせいやわw",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nce8e2b2128c8b",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274997285/profile_48e89610a2e41976f4e44b08b2913677.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん🦎\n\nピンクギャル🎀の記事は、記事自体がKITAさんなのに、誰が書いとる⁉️満載の違和感が、ありましたꉂ🤣𐤔\n\n投稿された時間\n違和感\nピンクギャル…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc9d4012dffa8e",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276313964/profile_2bf298c2413b26716cbe79a3a19cfd30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、朝から衝撃的な挿絵が・・🤣🤣🤣\n私的にはこれがキタコレさんですが🤔✨\nそもそもこのインディアン？に引き寄せられてきたのですから🦋✨\nキタコレさんは…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc8c0dd95b241c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "老人、正面から見ると意外に人間味があって、ウキウキしてる🤭",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nce06c9644bff7",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n朝から最後のスキしてね！に\n電車で吹き出してしまいました😆\n楽しい朝をありがとうございます♪",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc1d783ee64e77",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかりきったことですけど・・\n「教えてな」って言われると、\n「もちろん異形でしょ」とお伝えしておきます (^^\n\nいや、ピンクのせいかな？\nこの違和感（笑）",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc70f1e17670fc",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かにギャルより今回のスキしてねの挿絵の方がめっちゃ好きです🤩💖💞🥰\n\nそしてKITAさんらしいって思っちゃいました😆",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc1e17f63e44d7",
+          "user_name": "ななな｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えー？\nギャルのせいかなぁ？笑\n\n私は、スキの数とか\nあんまり興味ないなっていう\n内容に関する理由でした〜\n\nでも、最後の画像の\n好きしてね\nは、最高にいい🤣\n…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc03946ef4d109",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わらいますわw\nタイトルからおもしろい🤣",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc2cdb898e3fe5",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かにキタコレさんの記事が全部ギャルになったら嫌だなーと思います😅\nただ、昨日のは分析のイラストなのでギャル使うのはありかなーと思ってました\n\n僕はどちらも好き…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nc557ed99df3a5",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アハハ🤣\nインディアンのギャル化は笑っちゃいますね〜😊\n\nキタコレさん＝アート＝ミステリアスのイメージ通り🤭\n最近へそ出しが減って、私はコメントしやすくなりまし…",
+          "article_title": "ギャルを召喚したらコメントが消えた話",
+          "note_key": "naeba43ec067a"
+        },
+        {
+          "key": "nce812ea32e379",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ボツ案追加された🤭\n笑いました😆\nこの記事はずっと楽しめてお得ですな🉐",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nccfe90207dcc6",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274997285/profile_48e89610a2e41976f4e44b08b2913677.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん🥰💕\nベリベリGood👍🤣✨\nワンコ可愛いで〜💖",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "ncfdce20cb088d",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほぉ。綺麗というか美しいけど……尖ってないですね🐻(言語化がちょっと難しいけど、整い過ぎた部分が有るというか、一般的な表現に寄せてるというか……。いつものキタコ…",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc2830f68a3c34",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完売してた🤣\n失敗作！ありがとうございました🌸✨",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc2ad7dd44889e",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完売してるｗ",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc78acf5545bfe",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃめちゃ面白いー🤣♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️\n会員証のお礼を言いきて、こちらにとんできちゃった…",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc1cb4743093b9",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240093917/profile_a066b70a64fae52d27f5911589d27fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤣🤣🤣🤣🤣",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "ncf410409d57f3",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "色々と笑わせていただきました😂\n数多くの失敗の上に、成功があるんですね",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc4b67eefca707",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264636081/profile_8cc32dc7dcd5744599c82918639643ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも楽しく読ませて頂いております。\n失敗公開？\n面白い😂\nって思ってポチりました\n全然失敗じゃないって思ってしまった😱\n流石です😭\n",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc934245e6443b",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274997285/profile_48e89610a2e41976f4e44b08b2913677.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん💕\nnice✨👍👍✨",
+          "article_title": "「失敗作が見たい」と言われたので、封印を解きます",
+          "note_key": "na1690d3ecfcf"
+        },
+        {
+          "key": "nc9c6253c04dc3",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、\nはじめまして、こんにちは😊\n\nイラストクリエイターの方とばかり思っておりました！\nすごい分析ですね。\n\nフォロワーのに数気にするな！\n\n私の「数…",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc8ff4027d0486",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263225098/profile_95c608cb929a9a994c4fa3ebadf5658a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "肌感覚の人が通りますよ('∀`)ﾉ\n\nおれんトコ相変わらずフォロワーさん500人代なんだけど、スキは100超えてるし、コメントのほうがスキより多い💦　まぁオレの…",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc798e0e513c69",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、データ分析してるので、しっかり読もうとしています☺️\nサブリミナルのかたまりのようなショート動画がカッコいいです✨",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc4bbb5428d5fc",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白い‼️ データみたことあるけど、何をみてるのかあんまり意味わからなかった…\n延べで見た1割くらいがスキの数になるのかなぁ〜\n程度の 感想 だった…\nギャル化…",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc49b6b0a2ab48",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "論文を書いたりされてたんですね…インテリジェント💓💓💓",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc05910c15dbe1",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ウソをドヤ顔で広める3秒前やったwww\n\nギャルかわいいし🫶💞\n「おへんじ帖」は使わせていただいてます！\n神ツールですね✨",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc92e6f2a4e95e",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ギャルがいるｗ\nKITAさんの手順を自分のデータでなぞってみました。\n弾力性は1.3で、僕の規模だとフォロワーまだ効いてる段階っぽい。\nゾンビ記事は構造上ほぼ無…",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc17f8a8b05c1b",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもろ〜！\n私は数字みても分析とかできないので、素直にすごいです！！\n\n大事なのは記事の中身とタイトルとタイミング。\nこれはなんとなくそうなんだろうなーと思いま…",
+          "article_title": "フォロワー増えへん問題、データで見たら意外と気にしなくてよかった",
+          "note_key": "nda83cad55528"
+        },
+        {
+          "key": "nc4761d2830597",
+          "user_name": "そらとうみ｜魂の翻訳者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして\n余白ちゃん応援企画から\nこちらに来ました\n山奥AI研究所さんが\nご紹介されていたので\n余白ちゃんのポスター？\nめっちゃかっこいい\n大人なイメージな余…",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nca1d88e2e0fba",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "回るのが遅くなってしまいました、、、！！！あの、、、私キタコレさんのファンなんです、、、（唐突な告白）\n天才すぎてこの作品もう一生家に飾っときます、、、泣けてき…",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc987649513d38",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白ちゃん💕素敵…😌💖\n応援最高💕✨",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "ncd6e1a1e76bcb",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは…最高の応援ですね！余白ちゃんを応援する仲間として、前よりキタコレさんを近く感じました🐦",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc8a9b9024b4cb",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん✨\n柔らかいのに芯がある雰囲気、 すごく余白ちゃんらしいですね🌸 KITAcoreさんの表現力すごいですね！",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "ncae9db69be643",
+          "user_name": "TKS Studio",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250554960/profile_bd79426a6a164ee31ad2d4aee020620d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして。\nすごく気になる画像とタイトルでしたので、読ませてもらいました。\nなんかいいですね♪ほっこりします。\n\nすごく楽しく読ませてもらいました。\n勝手な…",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "ncc330a2fd02af",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完璧ですね……🐻\n(良い意味で、余白の使い方が上手いというか)",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc7a64a9db2471",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276313964/profile_2bf298c2413b26716cbe79a3a19cfd30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん\nUTAKOの記事を読んで、余白ちゃんへ・・私の記事がお役に立てたのが嬉しい限りです🌈✨\nってか、余白ちゃんのキタコレアートが素敵すぎて😳\nそして最…",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "ncee0d9fb80eec",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもの感じじゃないのがステキ✨✨✨\n優しさに包まれていますね🌿",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc7fa6a8f1fed8",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさん\n余白ちゃん、とっても素敵です💓\n優しさ感じます😊",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "ncb4e06f89b3ca",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白ちゃん、noteでの私の娘やと思ってます。素敵な余白ちゃんになって嬉し。",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc35ac86563d5d",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんのまさかの参戦🤭\n\n見ているだけで、惚れちゃいますね💖\n\n最後の動画もメチャクチャ痺れます🫶\n巨神兵❓のようなのが好きです✨",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc44d88f603ac5",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白って聞くともう余白ちゃんになりつつある。\n\n今日も素敵な画像ありがとうございます😊",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc0f052803ad59",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさん\n\nおはようございます。\n余白さんの夢応援祭りに参加頂けるとは…！\n\n本人ではないのですが、感謝致しますー！",
+          "article_title": "「余白」って言葉だけで、もう描きたくなってしまった話",
+          "note_key": "naf090490675c"
+        },
+        {
+          "key": "nc54c558735f40",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "頭からチンアナゴが…可愛すぎる🤣♥️♥️♥️ めじゅさんをまだ知りませんでしたが、好きになってしまいました…💖✨",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc4f9f7c8ca354",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メデューサみたいになってるかと思ったのですが、控えめでした🤣\n\nうつくしかっこいい！！\n",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "ncc34bf83c5c42",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん\n\nこんにちは☺️\n\nタイトルサムネのセフィロトの樹をみた瞬間から、ドキドキしました💫\n\nそして、チンアナゴちゃんとカワイイ💖\nカラフルなのもダーク…",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "ncf35445937bf5",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん✨\nクールビューティ😍💞💞💫\n\nチンアナゴ残せるんですね！\n質感が難しいのかな…\n6枚目は黒いですね‥\n深読みしたらアカンやつですね🤣",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc983d2eb7f02d",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うひょ💞\nカッコ美しい😍😍😍\nベージュバックの横顔最高やん‼️\nあれで描きましたね❓\nそしてチンアナゴの解はやっぱこうなるよね～\n考えちゃダメなやつ(笑)",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc940bb840b8ef",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "元アイコンを見てから探すと見つかりました！\n頭から蛇のように出てくるんですね！\nたしかに古事記とかの世界観かも✨",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc43585e3b00dc",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "髪の毛にぴょこって顔出してるのが可愛すぎます、、、！！！世界一かっこいいチンアナゴ、、、",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc60ed18fee938",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "住みついている～！！\n髪の毛に混ざるように、なっていることを心の底から願います。\n脳に食い込んでいたとしたら、シャレにならないですからね。\n\nそれにしても、チン…",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "ncc7e9d61c1017",
+          "user_name": "sc_fun｜AI×note収益化サポート😺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238585370/profile_d3940d29208e16d8c13feedce8989fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チンアナゴをAIがどう解釈するのか、KITAさんだからこそ残せたと思います🙂",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc0d0772f5b1bf",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわいいテイストのチンアナゴがいてもかっこいい😆\nいつも足下というか地面との繋がりのところがKITAさんらしくて好きです👍",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nc36eec986b696",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チンアナゴ！？と思いましたが、すっごいかっこいい！\n\nバリエーションも豊かですね〜\n\nいつもありがとうございます！",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nca69545b26700",
+          "user_name": "ななな｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チンアナゴいるのにかっこいい！\n\nというか、私の中で、\nチンアナゴがいるのがめじゅさんのデフォルトになってて、\nもう何の違和感もなかった🤣\n\n素敵♡\n\nきたさん…",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        },
+        {
+          "key": "nced4cfa5599fe",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274997285/profile_48e89610a2e41976f4e44b08b2913677.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさーーーーん💖💖💖💖\nありがとう😖🙏🏻✨ございます‼️\nめちゃくちゃ素敵で、めちゃくちゃ嬉しい✨🤭💕🫶✨\n\nKITAさんに召喚されて、チンアナゴも喜んで…",
+          "article_title": "神話っぽい世界観にチンアナゴをどう残すか問題",
+          "note_key": "nb7a3379076f3"
+        }
+      ]
     }
   ]
 }

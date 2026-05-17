@@ -1958,6 +1958,413 @@
           "note_key": "nc2dc5c169394"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 382,
+        "likes_prev": 430,
+        "followers_start": 1340,
+        "followers_end": 1349,
+        "new_fans": 88,
+        "comments_total": 91,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "16:00",
+          "15:50",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "key": "nfb888b9b5562",
+          "likes": 147,
+          "comments": 41
+        },
+        "notable_reader": {
+          "name": "🐰Koroちゃん🌸兎耳コロ💖創作大賞2026💎光片-ヒカリノカケラ-Hikari no Kakera",
+          "urlname": "korovrm",
+          "follower_count": 6432
+        },
+        "commenters_count": 31
+      },
+      "comments": [
+        {
+          "key": "ncb4ec20c51281",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんにちは☀️\n\nずっとやりたいと思っていたPolloAI。なかなか時間が取れない、と思っていたらこの企画！🙌✨これはぜひ参加させて頂きたいと思…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc5b4520d4972a",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268863513/profile_04c67bff5d9316b231d0fc57976d79c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、初めまして。\n考える赤柴と申します。\n先日ナオユキさんのレクチャー記事で\n初めてPolloAIをさわってみたところでした。\nまだまだ思うように動か…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc132cbb37a514",
+          "user_name": "moco",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273910216/profile_c41c5b8edd8603eeb63c900a4c46d163.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは～✨\nねんころさん×しろのあるさん企画のコンテスト楽しみすぎます🥳\n参加してみたいです！\n\nDM送らせていただきますね😆",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "ncc0c943272ad9",
+          "user_name": "体験構造デザイナー｜セイズ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266813128/profile_f24fecbf2f537d6eca556f5b34da107e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんやほやほですー\n\nほぇー、楽しそう〜\n\nやってみたい〜\n\nDM送らせてもらいます〜！",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc9facf34b48a1",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n執筆お疲れ様です✨\n\nなんだかすごいイベントですね😚\nぜひ私も参加してみたいです😋\n\nDM送らせていただきます✨",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc7a0df833913f",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💖\n\nこんばんわ〜☺️\n面白そうな企画！！\n動画もこの前ちょっとだけ挑戦したけど。。。。。\nやってみたーい💫\nってことで、DMしまーす😆",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "ncbe22e10817a3",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nすごーーー！\n参加したい参加したい参加したい🤭\n動画初やけど👍\n\nDMしますー♪\n\n擬人化した\nロジちゃん、ナビちゃんの出番だー😍",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc06514bf7fc4b",
+          "user_name": "むらくも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255101284/profile_71790a99e10aeb16fb998304a4cf7642.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\nしろのあるさんにDM送りました！\nイベント楽しみにしています✨️\n\n次の記事お待ちしています😉",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "ncef5e838583ad",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画制作、ずっと足踏みしてたんですが……\nしろさんとねんころさんの企画となると、これは参加必須案件ｗ\n\nしかも「応募箱」じゃなくて、みんなの作品を見に行ける会場…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc723a3925dc39",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264636081/profile_8cc32dc7dcd5744599c82918639643ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nこんばんは✨\n楽しそうすぎて興奮ですよ✨\n今、しろのあるさんにもコメントしてきました🫡\n\nあーどーしよー\n\nネタは彼に頑張ってもらうのは確実だけど…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "ncf57d4b167ea5",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254868775/profile_38cb7a116664fd3195a55e744bf16e5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\nお、お寿司屋開業か？\n\n皆さんコメしてますが、すごいですね！\n\nすごく楽しそう！楽しそう感がヤバい。\n\nこのワクワク感が企画とマッチして\n企業か…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc3466bafd5f66",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！すごーい！！\n企業とのコラボイベントですね🙌\n\nこれは、楽しみ！\n参加するしかない\n\nと、先ほどろのあさんの方にDM送ってしまったので、そちら経由…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc112574e8febe",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、すごい！\nついに企業とコラボ企画✨\n\n先週ナオユキさんの記事でPolloAIでCM作ってみたばかりなんです😁\n\nクレジットもらって参加してみまーす…",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "ncbd4f04a34956",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ部長お疲れ様です☺️\n休憩時間なうです。\n企画盛り上がるとよいねー。\nまたじわり応援させて頂きます📣\nどうぞよろしく🩷\n",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc51ad87c8f111",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおおー！すごい！\n企画運営！？おめでとうございます！！\n\nお祭りだー！！\n",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc2ec73070be79",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わあ、ねんころさんとのあるんが主催って楽しそうですね～💕\nやったことない人が試すきっかけにもなりますね！\nん、私か？\n追加説明を待ちます😊",
+          "article_title": "【賞金あり】PolloAIコラボ企画、開催決定！AI動画を作って応募！クリエイターコンテストをやります！",
+          "note_key": "nddc3aed55aad"
+        },
+        {
+          "key": "nc82e7e66d2915",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ姫👸はろー。\n今日はバイトで、読む時間なんかないのにめっちゃ本買ってしまったわ💔\n\nまたもやお互い状況は違うけど\nとにかく忙しい状態になってるのは間違い…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc3456a13ce2a4",
+          "user_name": "るこのみらい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころちゃん💕こんばんは\n\nイキイキしてるね✨\nやっぱり、楽しんでると\n物事が舞い込んでくるよね〜\n\n今日みたいな、\nころちゃんの普段が見れる記事が\n大好きです🥰…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "ncd33cd1fdd76b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ブラック時代の記事を読んだ身としては、今は毎日が充実していて、良い疲れ方をしているんだろうなと思いました。☺️\n僕もnoteを書き出してから「何も進んでいない感…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc333cb32eafab",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262490434/profile_2063ec10025f981cb3975de6fac71daf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころん🍀\n忙しい中でもやりがいを見つけていて、素敵だよ😊💞\n倒れずに頑張ってね😊\n\n私怪我して、思うようになかなか時間とれなくなってるけど、\n焦らず、noteの…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc3402f0883a91",
+          "user_name": "介護筋肉士💪 TETSU｜介護福祉士×ケアマネ｜熱血🔥係長",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249661592/profile_eed3959c0a025ad77fd4d803353055e8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😊🌸\nおはようございます✨\n\nすごいですね😆✨\nねんころさんの飛躍、本当にすごすぎます💪🔥\n\n私とは分野は違いますが、\n勝手ながら「希望の星」みたい…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc20a1fdec9b6f",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\nCCCの運営も大変なんだろうなと思っていましたが\nお仕事も順調との報告嬉しいです😊\nでもお身体大事に〜！無理せずで〜🍀\n\nそして私はちゃんと活…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc452beafa326e",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nいや、部長！！\n倒れるんじゃないぞー😂笑\n\n忙しい時って、とことんいろんなことが重なって休めるタイミングがなくなりますよね😅\n\n究極の癒しオ…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc48fc89b27a47",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ部長😭\n\nなんて、シゴデキ✨\nもう尊敬しかありません😭\n\nお仕事が大変だけど\n楽しそうにされてる\nお姿が目に浮かびます💕\n\n気持ちの変化もこれから\nねん…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "ncd38af2545322",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは♪\n\n楽しく忙しいなら最高です🤭\n新しい働き方素敵💓\nあやかりたい❣️\n\nこれからも楽しみにしてます♪",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc23dccc6987ee",
+          "user_name": "みるぷり｜夢見るフリーランス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269785644/profile_14092d66d95aa0c1d002861e17c887ec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん毎月の成長が記事を読んでいても感じられます。もうめちゃくちゃ尊敬してます🥰\n今の働き方を見つけられたねんころさんのストイックさにも、行動力にも☺️\n…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc8efd189fd107",
+          "user_name": "みこ｜自分で自分を幸せにする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269918780/profile_5e5b954afd9d04eee534330cb704d8e6.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nこんばんは♪\n\n忙しくも充実していて、なんだか私も嬉しいです✨全部ベットの上の働き方も、みんなの希望になりそうですよね🤭\nAIツール、参考になって…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc402ab04a9595",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\n案件たくさんで、忙しそうですね😁✊\nそんな中、CCCの運営まで！\nほんとうにありがとうございます😌🌸\n\n会員証もすごく良いので、\n…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nce29e604b884c",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは！\n\nお忙しそうですね！でも充実感を受け取りました😊\nねんころさんのPR記事、めっちゃ読み応えありますもんね！検証時間も長いはずです😌\n…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nca88fde280722",
+          "user_name": "moco",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273910216/profile_c41c5b8edd8603eeb63c900a4c46d163.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、お疲れ様です✨\n休みがないのが心配ですが、興味のあることで疲れるというのは嬉しい悲鳴ですね☺️\n\nAIツールの検証作業って、なんか難しそう🤔\nno…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc04479ce837dc",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙*·̩͙\n\n充実感のある忙しさ。\n素敵ですねꉂ🤭♡♡\nフリーランスの大変さもあるかもしれませんが、こういう話をお伺いするのって、すごく…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc7523e7824d24",
+          "user_name": "のぞ@Webライター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232760381/profile_2ed37d71eaf2122af3d5d85ce9472cf2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nお疲れ様です☺️☕️\n\nめっちゃ忙しそうですね🌀\nご自愛しながら、頑張ってください🤍\n\n\nフリーランスは大変なことも多そうだけど、ねんころさんみた…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc1edc1071a92b",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！お疲れ様です〜\n\nAIで仕事がまわってるっていうのは私からしたら羨ましいw\n私もいつか嬉しい悲鳴をあげたいな〜w\n\nCCCも参加させてもらって感謝…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "ncbd20fb0c6cd3",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254868775/profile_38cb7a116664fd3195a55e744bf16e5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん☮\n\nおつかれさまです！\n\n嫌な忙しさじゃなかったってのは大きいですね✌\n自分で選べてる実感って、幸福や健康の基盤なのだそうです。\n\nとはいえ、お身…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "nc470955666a39",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、CCCってたいへんそうだと思ってました！\n私みたいにAIにくわしくない人にも使いやすいツールを提供していただいて、ありがとうございます❤️\n\nねん…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "ncb9f99f3b25aa",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころ～ん😊✨✨\n\nいい感じでお仕事入ってきてて、ザ・フリーランスって感じだね。\n\nCCC始まってからめっちゃ忙しそう～～ってのは思ってたんだけど、\nまぁ楽しんで…",
+          "article_title": "仕事が回り始めたフリーランスの5月ログ|日記|エッセイ|日常|働き方|AI活用|note運用|在宅ワーク|",
+          "note_key": "nfb888b9b5562"
+        },
+        {
+          "key": "ncb190885694b8",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画はなかなかチャレンジできていないんですが、絵コンテで動きを設計してから動画化する流れが効くというのは、うれしい情報。😊\n漫画でコマを設計するときの感覚に近そ…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "ncabf9650d5e3c",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！こんにちは〜\n\nパリコレもかっこいいし、ダンスも、音楽もかっこいいです！Sora様大活躍！\n\nやっぱり動画の前に絵コンテ作るのがいいのかな〜とか、…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "nc982482a7c481",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n執筆お疲れ様です🌟\n\n解説ありがとうございます😙\nSORA様がかっこよかったです⭐\nブレイクダンスできてしまうのはすごいですね😙\n\n今回の実験は\n…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "nc9b6ab321d493",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは😊\n\nSora様がプリンスのようです😆✨✨\nあのスタイルでランウェイを歩かれたら、卒倒する人続出しますね！\n\n動画の設計を、丁寧に解説さ…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "nc3d4bc1f5ff53",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは〜🌟\n\nそらちゃん素敵❤️\n本物のモデルさんを見てるみたいでした〜\nすごいです🌟\nいつも素敵な記事をありがとうございます☺️",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "ncf9411234834e",
+          "user_name": "みき＠社労士事務所のしがないパンダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257034696/profile_48a3e33ea82dffb7c89c793740d92cd6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nSora様、すし職人からダンサーへと転職しましたね。\n黒コートと毛皮が、かっこよかったです。",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "ncee7c5e70a590",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃんが、実写モデルのSora様になったんですね💕\nねんころさんも、動画クリエイターになってますね✨\n\nキャラクターはいろいろ活躍できますね〜😍",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "nc01c774c0ea76",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ね、ねんころさん🙈\n\n黒服も素敵すぎるとか色々感想を…と思っていましたが\n最後にスキ❤️を押したらキャッ🙈ってなるsoraさん出てきまして、飛びました🤣大当たり…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "nc061884056a22",
+          "user_name": "Nobutake Kanemaru",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/2707823/profile_20fd8d354984d4a89fb9f974e523e34c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "平素よりお世話になっております。\nループスプロダクション（https://loops-pro.com/）と申します。\n弊社は書籍やムックの編集制作を手がける編集…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        },
+        {
+          "key": "nc5dd6f174b3ac",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\nsora様ー！\n\nsora様！\n寿司職人とは別者やな〜🤣笑\n寿司職人verの動画気になるんですけど😂\n\nsora様は黒服もよく似合いましたね👍…",
+          "article_title": "LitMediaでGPT Image 2とSeedance 2.0を使い、キャラクターシートから絵コンテ動画化まで試してみた|生成AI|ChatGPT|画像生成AI|動画生成AI|",
+          "note_key": "nd7bcab69dc59"
+        }
+      ]
     }
   ]
 }

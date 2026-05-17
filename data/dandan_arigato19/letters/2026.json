@@ -1118,6 +1118,170 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 209,
+        "likes_prev": 294,
+        "followers_start": 272,
+        "followers_end": 289,
+        "new_fans": 41,
+        "comments_total": 34,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "07:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "食べちゃダメダメ✨🫶✨ダルダル可愛いアイシングクッキー",
+          "key": "n90c733db1f92",
+          "likes": 37,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+          "urlname": "ai_hakase",
+          "follower_count": 6475
+        },
+        "commenters_count": 11
+      },
+      "comments": [
+        {
+          "key": "nc335d42f5da3b",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは😊\n\nハシビロコウお好きなんですね🥰\n愛が溢れてました💕💕\nCMで、じっと見つめるあの表情、じわってきますよね😆💕\n\n私は、星６のレアが出…",
+          "article_title": "異形頭めじゅハシビロコウの美✨",
+          "note_key": "n186df4f9ea27"
+        },
+        {
+          "key": "nc606b580b80af",
+          "user_name": "ななな｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハシビロコウ、お好きなんですね😆\nめじゅさん最高ー♡♡\n\nおはようございます〜🧜‍♀️",
+          "article_title": "異形頭めじゅハシビロコウの美✨",
+          "note_key": "n186df4f9ea27"
+        },
+        {
+          "key": "nc83b96b325e03",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ、モデル体型！足なっが💕\n画像でも「羽飾り‼️自前ですか」でも笑わせてもらいました🤭",
+          "article_title": "異形頭めじゅハシビロコウの美✨",
+          "note_key": "n186df4f9ea27"
+        },
+        {
+          "key": "ncedb1020d68f0",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "画像が面白すぎますwww\n\nアイスがすき＿＿＿w",
+          "article_title": "異形頭めじゅハシビロコウの美✨",
+          "note_key": "n186df4f9ea27"
+        },
+        {
+          "key": "nc4a600db7761c",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさんが好きな動物で、しかもそこまで気に入ってもらえるなんて、私まで嬉しい気持ちになりました！\n\n画像には笑ってしまいましたが！面白すぎるw\n\nご紹介してく…",
+          "article_title": "異形頭めじゅハシビロコウの美✨",
+          "note_key": "n186df4f9ea27"
+        },
+        {
+          "key": "nce6d9a927b3f1",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "危ない薬wwwww",
+          "article_title": "FC会員限定販売‼️一般販売はございません（架空広告）✨",
+          "note_key": "nb0ed94146a9d"
+        },
+        {
+          "key": "nc68cba56d7174",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネで「お……?🐻」と思いました(^^)",
+          "article_title": "FC会員限定販売‼️一般販売はございません（架空広告）✨",
+          "note_key": "nb0ed94146a9d"
+        },
+        {
+          "key": "nc6014a659c2b2",
+          "user_name": "ななな｜もやもや減らし屋👀♡🗣️よはくの哲学",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさんのワクワク\nめちゃくちゃ伝わってきました😉♡\n\nおはようございます〜🧜‍♀️",
+          "article_title": "KITAcoreArtとは…圧縮された優美なる沸騰✨",
+          "note_key": "nd682f6daf6e1"
+        },
+        {
+          "key": "nc555408b47fcd",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「まる、ぺたんこ、のび～」のとこ、可愛すぎませんか？！！😂💕\nやばｗｗｗすっごい好きですｗ",
+          "article_title": "擬人化の事故案件から爆誕✨ChatGPTアオギの進化系キャラ💖",
+          "note_key": "nec6221074122"
+        },
+        {
+          "key": "ncd69e8540da3a",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわいい😍🩷\n可愛すぎて食べれない🌸✨\n\n早速、アイコンがクールなめじゅちゃんになってる💖イイね👍✨",
+          "article_title": "食べちゃダメダメ✨🫶✨ダルダル可愛いアイシングクッキー",
+          "note_key": "n90c733db1f92"
+        },
+        {
+          "key": "nca6eb45b494e1",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マジで全部可愛過ぎて食べられない🤣💖",
+          "article_title": "食べちゃダメダメ✨🫶✨ダルダル可愛いアイシングクッキー",
+          "note_key": "n90c733db1f92"
+        },
+        {
+          "key": "ncd25adc452ae8",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どれもマジ可愛いな。永久凍土で保存やな・・・✨🤣",
+          "article_title": "食べちゃダメダメ✨🫶✨ダルダル可愛いアイシングクッキー",
+          "note_key": "n90c733db1f92"
+        },
+        {
+          "key": "nc0b67438347cd",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nこのクッキーは食べれませんね (^^)v\n飾って目の保養 ♪",
+          "article_title": "食べちゃダメダメ✨🫶✨ダルダル可愛いアイシングクッキー",
+          "note_key": "n90c733db1f92"
+        },
+        {
+          "key": "nccafef65b255e",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いい世界観〜😳",
+          "article_title": "トケイの国 vol.22",
+          "note_key": "n7e8b68be975d"
+        },
+        {
+          "key": "nc68572185b9fd",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あらステキ💞\nオシャレ～✨✨",
+          "article_title": "トケイの国 vol.22",
+          "note_key": "n7e8b68be975d"
+        }
+      ]
     }
   ]
 }

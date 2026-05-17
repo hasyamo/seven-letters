@@ -295,6 +295,154 @@
           "note_key": "n730e6feba793"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 603,
+        "likes_prev": 564,
+        "followers_start": 1113,
+        "followers_end": 1156,
+        "new_fans": 125,
+        "comments_total": 30,
+        "posts_count": 8,
+        "consecutive_days": 6,
+        "post_times": [
+          "17:00",
+          "07:34",
+          "00:00",
+          "06:10",
+          "06:10",
+          "06:00",
+          "19:00",
+          "07:51"
+        ],
+        "top_article": {
+          "title": "2026年5月最新トレンド　拗ねるAIとカーネギーメロン大学って名前可愛いよねという件",
+          "key": "n95d9731a993c",
+          "likes": 74,
+          "comments": 7
+        },
+        "notable_reader": {
+          "name": "内藤みか（作家）",
+          "urlname": "micanaitoh",
+          "follower_count": 15130
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc617176bc3de7",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "早速の活用ありがとうございます！\n私は、詳細設計というより　ポンだしの　カオスを出して遊んでいますw\n\nちゃんとすると　ここまでできるんですね・・・w",
+          "article_title": "黒パグの　#ChatGPTCreativeClub 活動日記　 そうだ、コミック作ろう② 3分で読める報告",
+          "note_key": "n9307a87433dd"
+        },
+        {
+          "key": "nced2adf3595ac",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん🐾おはようございます。今日は休みなのでnoteパトロール中です。\n皆さんこちらのビルダーつかいこなして素敵なポスターとか作っておられますが私はア…",
+          "article_title": "黒パグの　#ChatGPTCreativeClub 活動日記　 そうだ、コミック作ろう② 3分で読める報告",
+          "note_key": "n9307a87433dd"
+        },
+        {
+          "key": "nc7f98f5985860",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめましてー\n\n面白く読ませていただきました😊\n\n確かに最近、紙にメモとかしてないですね…\nメモって大概どこかにいっちゃうし。\n捨てる前にどこかにいったら、も…",
+          "article_title": "黒パグのAIショートショート　11 #シロクマ文芸部　お題「メモをする」",
+          "note_key": "n1597533dc703"
+        },
+        {
+          "key": "nc0922f57b1a94",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人間と同じように、AIも「よい記憶」より「悪い記憶」の方が残りやすい。\nそして、だんだん「悪い記憶」によって、距離を置くようになる。\n解決の方法は、悪い記憶を消…",
+          "article_title": "2026年5月最新トレンド　拗ねるAIとカーネギーメロン大学って名前可愛いよねという件",
+          "note_key": "n95d9731a993c"
+        },
+        {
+          "key": "nc3326c9b9f66c",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、おはようございます。\n長文すご、失礼して鑑識官に入れてみましたが人間ですってーーー🫨‼️\n本当に論文大好きな方なんだなと\nしみじみ。はるしねちゃ…",
+          "article_title": "2026年5月最新トレンド　拗ねるAIとカーネギーメロン大学って名前可愛いよねという件",
+          "note_key": "n95d9731a993c"
+        },
+        {
+          "key": "ncedf798ada278",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃\nフォローありがとうございます😊\n「カーネギーメロン大学」\n車と葱ーメロン😆\nこれからも宜しくお願いします。\n",
+          "article_title": "2026年5月最新トレンド　拗ねるAIとカーネギーメロン大学って名前可愛いよねという件",
+          "note_key": "n95d9731a993c"
+        },
+        {
+          "key": "nc9eaa7c570343",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "P5Rをやり込んだ人間として、実にいい出来だと感じました。\nどれもパレスになりうるだけの、強烈な「意志」を有しているようですからね……。\nもっとも、そのようにな…",
+          "article_title": "警視庁がシャドーAIを注意喚起した。怪盗は、先に動いていた。　経営者必見　手遅れになる前に。",
+          "note_key": "n12f8e9dca777"
+        },
+        {
+          "key": "nc5a451a4ae162",
+          "user_name": "花冷",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266979667/profile_14e627954b5c060b264ef9ce6cf57ba2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！生成画像上手で記事も面白かったです！\n我は汝、汝は我・・・",
+          "article_title": "警視庁がシャドーAIを注意喚起した。怪盗は、先に動いていた。　経営者必見　手遅れになる前に。",
+          "note_key": "n12f8e9dca777"
+        },
+        {
+          "key": "nc6fc285600961",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃\nフォローありがとうございます😊\n黒パグの正体判明🫆\nこれからも宜しくお願いします。",
+          "article_title": "警視庁がシャドーAIを注意喚起した。怪盗は、先に動いていた。　経営者必見　手遅れになる前に。",
+          "note_key": "n12f8e9dca777"
+        },
+        {
+          "key": "nce3fcdff86e24",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます。\nめっちゃ面白いです😆\n1つのニュースを膨らましてて\n世界観も統一されて物語になってて\n素敵なイラストで図解されてて\n嫉妬するよ…",
+          "article_title": "警視庁がシャドーAIを注意喚起した。怪盗は、先に動いていた。　経営者必見　手遅れになる前に。",
+          "note_key": "n12f8e9dca777"
+        },
+        {
+          "key": "nc890a62ebd7f8",
+          "user_name": "みよう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272954962/profile_d6c63adc53ac9e993d953eb504fe9b4a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。このアイデア、本当に面白いですね。「merge complete」みたいな、普段エンジニアリングで使われる冷たいコマンドを、男性アイドルグループの決…",
+          "article_title": "Gitのコマンドを男性アイドル化したら、1stアルバムまで完成してしまった件　副題：Repository of Love、爆誕。　#ChatGPTCreativeClub ",
+          "note_key": "n74e8d173ad10"
+        },
+        {
+          "key": "nce7c2ae688d2d",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは\n素晴らしい記事をありがとうございます！🐾✨\n去年生成AIパスポートとかPEP検定とか受けて\nAIの歴史は学んだはずですが、今見たらそうそ…",
+          "article_title": "豆粒だったAIちゃんが、世界を支配するまで― 擬人化で読むAI 70年",
+          "note_key": "na940d8b1bdad"
+        },
+        {
+          "key": "nc5602f9af28c4",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジンの紹介ありがとうございます✨\nここ近年の、AIの進化ってすごいですよね。",
+          "article_title": "豆粒だったAIちゃんが、世界を支配するまで― 擬人化で読むAI 70年",
+          "note_key": "na940d8b1bdad"
+        }
+      ]
     }
   ]
 }

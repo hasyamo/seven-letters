@@ -2479,6 +2479,743 @@
           "note_key": "n95b857b823d8"
         }
       ]
+    },
+    {
+      "week": "2026-W20",
+      "period": {
+        "start": "2026-05-11",
+        "end": "2026-05-17"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 402,
+        "likes_prev": 205,
+        "followers_start": 588,
+        "followers_end": 589,
+        "new_fans": 47,
+        "comments_total": 247,
+        "posts_count": 4,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:08",
+          "12:17",
+          "12:11",
+          "21:33"
+        ],
+        "top_article": {
+          "title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️｜冷やし動画始めました🍜🐧▶️",
+          "key": "nc1454c146ae1",
+          "likes": 103,
+          "comments": 96
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 13078
+        },
+        "commenters_count": 51
+      },
+      "comments": [
+        {
+          "key": "nc309f29860343",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クオリティ高くて、ビックリ(ﾟoﾟ)/ ←前にも書いたっけ?🐻💧 歌も癖になる💕",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "ncf37d0987b9aa",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、お疲れ様です😊🙌✨\n\n余白ちゃんの動画、めっちゃよかったです😁🎉✨\nわたあめ、クセになりますね✨✨\n\nそしてまさかのキタコレにーさんもYoutub…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc342429b9a73e",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん✨\n徹夜での制作おつかれさまです\n(* ´꒳`)ﾉ🍵\n\n動画めちゃめちゃかわいい！\n\n余白ちゃんがわたあめな曲も歌詞も最っ高\n👍🏻⭐️\n\nちっぷも仲間…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc380d7be09fef",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん！\n\nこれは、応援せねば！📣\nYouTuberまであと少し！\n\n夢が現実となる日まで、がんばれー！！🔥",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc64da3b568130",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、こんにちは。\n動画、山奥さんの記事で気づいて\nめちゃ出遅れました💦💦\n\n余白ちゃん可愛い🩷\nわたあめってのがいいですね。\n三銃士あと200回きれた…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc467118690223",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初の埼玉さんかっくぃーから、余白ちゃんかわゆっ♡からのどんどん登場してくる皆さん…総勢27人！！？✨✨🎉\nそんな中に混ぜていただいてありがとうございます🍓🍓\n…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc5c0c86bb633b",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すぐにYouTubeみたい！けど高速運転中😭😭今これ嫁が記入中w\n\n帰ったらまじゆっくりYouTubeみるから💕\n\nいーの？わし5000円もらっちゃうぜ？w",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc8ea30ca58a32",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すぐにYouTubeみたい！けど高速運転中😭😭今これ嫁が記入中w\n\n帰ったらまじゆっくりYouTubeみるから💕\n\nいーの？わし5000円もらっちゃうぜ？w",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc9f2d65e36843",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "興奮してYouTubeの方にそのままコメントしてしまった(笑)\n同じコメントで申し訳ないですがこちらにも貼っておきますね(≧∀≦)ゞ\n\nスゲ～、はんくさん👍🔥\n…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc5896d73c79cc",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "27人も入ってたのすごすぎです〜！😳✨\nあの短い動画の中に、\nぎゅぎゅっと詰め込まれてて、\n見どころ満載でした🤣🌸\n\nそんな中に私まで入れ込んでもらって、\n本当…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc47a1f352ad3b",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteの紹介、ありがとうございます。",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc38fe7622c58f",
+          "user_name": "ういまる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262416249/profile_6afa0c6ae55faab820fd1ab090d2e6cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんお邪魔します🙇\nおやおや先生何でござるか？と思いきやなるほどそういう(笑)\nそして出演したういまるの可愛いこと🤤\n余白ちゃんも盛り上げるし先生の動画も…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nce65f56347bfc",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266713080/profile_5b5025a9c074af902d3652fe76fc4dc1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！✨\n\n応援動画、ほんとすごいです…！！\nそしてサラリーマンはるねずみを参加させていただきありがとうございます😊\nアカウントは別ですがチャンネル登録さ…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc8c5e3e08ad32",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nこんにちは～\n…ってSUGEEEEEEE\nこれは言葉で称賛しきれない作品では…！？\nめっちゃ動いてる…\n映像も曲も頭から離れない！！\n\n無茶しやが…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc01a37317331a",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画、猛烈に作っててホントすごいです。😅\nえ〜と…　今回の企画は、いつもの感じで自分の記事の中に今回の新作動画を貼ることで達成…ですか？\nそれだったら、SNSオ…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc8a17881bcf43",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白ちゃん動画、みんなで盛り上げてていいね！\n私もかわいく登場できて嬉しい、ありがとぉ〜ございます😊\n\n早速、記事書くね〜！！",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nce8812b7dcdf2",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もちろん！キタさん登録済💖\nご紹介ありがとうございます🌸✨\n総勢27名素晴らしい🙌🙌\nお疲れさまでした～🫶💞",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc3487cfbcea9c",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nᐠ( ᐢ ᵕ ᐢ )ᐟ💓\n\nありがとうございます😊\n\nまさかの\n出演させて\n頂けるなんて！！\n☺️\n\nありがとうございます😊\n\n早速\n自慢しまくって…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc8586c9f633e3",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264639637/profile_551428c017798ebf8688526f76cad9ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん二桁にしてきたよー\nそして、動画登場ありがとうございます。\n\n気持ちに従って動いただけだからビックリですけども\n二人とも1000人超えて次のステップ…",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nc41f621b575ad",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画ほんま良かった！紹介記事といえば、私！！こちらもアツいヤツを、お見舞いするからねv(´∀｀*v)ﾋﾟｰｽ",
+          "article_title": "【お祭り企画】余白の夢祭り参加動画‼️【チップ企画】はんく祭り始めます‼️",
+          "note_key": "n4697cdfe58e2"
+        },
+        {
+          "key": "nceff887a05f2b",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白ちゃんの動画、見たよ| д ๏ )…ｼﾞｨｰ\nツナ出てた〜⸜(*ˊᗜˋ*)⸝\n私はキャラが余白ちゃんと被るから要らんわ\nꉂꉂ(˃ᗜ˂๑)w‪𐤔\n\n今回はテン…",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nce5037c071063",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白ちゃんの動画見ました💕\nごめん、テヘペロ、余白ちゃんwww\nなんか、癖になる歌だった〜\n\n今回、特に面白ショット多かったです✨😂",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc75ce847bb4bc",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276695362/profile_d7efbf364378189f86126918a30ac17c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nおはよーです☀\n企画ものいいなぁ✨\n今、全ての企画に参加しないでいるので、僕も落ち着いたら😅\n陰ながら応援してます！\nあ、僕は、はんくさんの会員No…",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc348b0ca41516",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "質問！それってテンプレ使わずに紹介記事を書いた場合でもいける？🌷🌷🌷",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "ncbbb2362e3f42",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214220122/profile_8823c0c108f12f8d9b6a20e61e88e712.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nずっと忙しいにゃ🐾\n\nでも、生き生きしてるにゃ😸\n\n",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc3bd6386d5445",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どんな感じになるか楽しみ☺️\n怪しくしちゃうから、楽しみにしててね🤭🍀",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc05d5637d49db",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シュン君、企画…ドキドキ💓\n今日もその動画見たよー‼️\n本当に面白い😆🩷",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc8463dd063a39",
+          "user_name": "沙夜-𝕊𝕒𝕪𝕠- 黄昏抱擁ノ星導学園長🌠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273080148/profile_c7dab70564f2814884283871183c5349.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんの企画にもぜひとも参加したいです😋✨\n間に合うかな…🥺",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc2c9114819c10",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーーん🤗💞\nそれってワタシも入ってますか？",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc5d396eb02414",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276313964/profile_2bf298c2413b26716cbe79a3a19cfd30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんがんばれー🤗✨\n音楽のことになるとなんだか熱くなってしまいます😎✨\n来週ですね❗️\n企画待ってまーす🌈✨",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc98cfe50c3d74",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんの企画も楽しむぞー！！！おー！！！ଘ(੭ु´｡•~•｡`)੭ु⁾⁾♡",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc61c26af71f79",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "13分の方が再生回数上がっていますね〜💞\n余白ちゃんの応援記事も待ってます！",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc6ad6bcead16c",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今度の企画こそはぜひ…！と思ってます。😄\n楽しみです〜。",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "ncc302dea8fb02",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273451109/profile_7c19ae65eb22548cb0d00c83315b51f5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "防犯動画、余白ちゃんの応援、ご自身の企画とバイタリティすごいですね！✨✨\n企画も面白そうなので、今から楽しみです♪\n\nそしてはんくさんの女性化🤣\nクールビューテ…",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc4f2ead62e42c",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nこんにちは。\nはんくさんに余白さん！企画が目白押しですね…！\n私もいっちょ準備してみます…！",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc670e20a4d1b6",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あは！ハンクの兄貴のお祭りものるぜ！いま、娘っ子と映画に行くのでその前の腹ごなしで焼肉だ！またくるぜ！",
+          "article_title": "祭りの準備",
+          "note_key": "nac982b593946"
+        },
+        {
+          "key": "nc453ad85bd961",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "note界にはモテ男がたくさんおりますなぁ٩(ˊᗜˋ*)و\nタラヲ、キタコレ、ハンク、埼玉でモテ男四天王で💓\n\nむふふふ🥰嫉妬しちゃうぜ♡w",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc58184310f13b",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あんさんは渡さない……一気に、ヒトタラヲさんの周りがドロドロしてきて……。\n今後の展開に、目が離せません。\n果たしてどうなっていくのか、要注目ですね。",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nce5deaf8518df",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、あんさんといい感じになってる💞\n重婚もだしnoteは本当に自由な世界だなぁー🥰",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "ncc0c4443108ca",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "兄さん…あんさんは渡さないって…あんさん、タラヲさんと結婚してましたけど？🤣\n\nよ～し、200円GETだぜぃ♪\n( ᐛ )و\n…いや、その前に、兄さんの紹介しよ…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc91228123e851",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんばんは✨\n\n久しぶりに見に来たら更新されてて\n安心しました(  ܸ>ᴗ<)ﾉ\"🌸\nまた企画頑張ってください(*´ω｀*)‪💕︎︎\n応援しておりま…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc5a945c3a1618",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんのモテモテキュン💖\n発動してますねっ🤭💓\n\nあんさんとのツーショット羨ましいです🥹\n\n防犯動画拡散の為の怪しいやつ作りまっせ💫",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc9b72b96416ef",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241162803/profile_0028379334c6bde12d7cac1220b4e6a0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あんさんとのラブラブイラストがステキすぎます💕\nあんさん、可愛い(/ω＼)\n\nはっΣ(ﾟДﾟ)私は過去の女！！\n\nちょっとまだ情報が追い付いていないですが、応援…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc51231b6713df",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふむ……。アンテナ貼っておきます。",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc2bcf939d8d62",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276313964/profile_2bf298c2413b26716cbe79a3a19cfd30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チップあってもなくても、はんくさんを推しますよー🌈✨\n防犯童話バズらせ作戦ですよね😎✨\nラジャ",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nce4d4d86ef5c3",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ、あんさんとイチャイチャしてるイラストいいね！私も、あんさんとイチャイチャしたい！！\n\n例の動画の紹介！！！私、あんさんに「紹介記事を書かせたら右に出る者な…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "ncf7c290906d67",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、あんさんとらぶらぶだね‎♡\n私は昔の女だから…幸せになってね…(˶߹˄߹)\n\nあ、受付の母とYouTubeの応援は引き続きしま〜すꉂꉂ(ᵔᗜᵔ)\n",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "ncf217e14a411a",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シュン君、何かお祭りやるの\nね？チップ200円も配って‼️  あれ、よくわかんない\nけど、ボツになった方の動画\nを紹介する(面白かったけど)お祭り⁉️  違った…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc70f4c2db0e73",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、こんばんは🌙\n\n企画よいですね！😁✨しかもコングラボードを狙いつつ、教育界と行政に殴り込み！お祭り感あってステキですね！🙌🎉✨\n次回の記事も楽しみ…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc6d9cc4f18c18",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272850856/profile_5078d7016e37422cee3be424742ee433.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヒトタラヲさんには色々ヒントいただけて感謝しております。\nたぶん伝えたいこととは違うことを学んでると思いますが💦\nちょっと共感です🤭笑\n\nあらーご紹介記事少しず…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nca08e05db5b0a",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっとえっと、、、情報量が多くて脳みそめっちゃ小さい余白は全然理解ができてないんだけど、、、まさしくおにぎりの中に入ってる梅干し（最高に干からびたやつ）状態なん…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc1775c33fe43e",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あんちゃんとはんくさんがお似合いすぎる～😍💞\n\nYouTube動画をバズらせて公式にしちゃいましょー！\nYouTuberの夢はすぐそこよ🌈✨",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc294ff58437d5",
+          "user_name": "サンジ（偽物）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230835273/profile_faf988bac709188999d0a0a2d50a94f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヒトタラヲさんは人気もすごくて、どこか人が巻き込まれてしまう魅力がありますもんね。\n\n成功者を素直に真似て盗むと言えるはんくさんは潔くてかっこいいと思います。",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc228c49223ebd",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくまつり開催ね！\n盛り上がるといいね、チャンネル登録も増えて、再生回数も増えるよう応援するね〜\n（おやすみに入ってしまうから新しい投稿はできないかもしれない…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc63d096983e45",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ホントに、はんくさんの最近の「ちょっと体がしんどい」感じ、\nむしろ、これからの\"大ジャンプ\"に備えて、一時的にしゃがみ込んでる段階だったんじゃないか？って、勝手…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc39abb7ac2a73",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\n第２夫人のあんさんが不倫とのことで衝撃を受けております😂\n（現在note内に第６夫人までいらっしゃいますが…）\n\nはんくさんを全くライバルと思って…",
+          "article_title": "【チップ企画】はんくまつり始めます‼️",
+          "note_key": "nd432b8117b58"
+        },
+        {
+          "key": "nc8964125f77aa",
+          "user_name": "よしこ｜続けたい人の横にいる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266470381/profile_96ce76092fe2ecbb3a6e023a1f66fd16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nようやく、両方とも通してみれました！\n13分に感じなかったです🤗\n\n内容はたくさんでしたが、\nしっかり記憶に残ってるシーンはいっぱいあります。\n\n解…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc55e1cb08f4f0",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん、遅くなりましたが両方みましたー！🙌✨\n個人的には13分版のが好きでした😁なんたって、金太郎のロビンソンがよかったです😂さすがに直接座るのはちょっと…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncb0622131ea6b",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パパちゃん✨\n１３分の方が確実にオモロいよねー🤣💖\nわたしが急に現れたり、知らん人は何のこっちゃだけど笑\nけど、やり遂げた姿がカッコ良すぎるっ✨\n",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nce62ca12bd77c",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごすぎる！！\n動画制作お疲れ様です！\nそして案件おめでとうございます〜！！\n\nやり遂げたことも自分を貫き通せてるところも尊敬します！！\n\nまじですげえー！！！…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc48afb0541c7b",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちは😊\n\n防犯動画面白かったです～🥰💕\nまたまた、高クオリティで、ポッチ押してきました！\n\nカワムラさんの塩ビキャラが可愛くて、お持ち帰りしか…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc11292034609d",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "遅ればせながら13分版と9分版、両方視聴しました〜😳✨\n私は13分のエンタメ全開版のほうが好きかもです。\nでも、たしかにYouTubeや教材系の審査ってかなり厳…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc404960621905",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画制作お疲れ様でした！！\n大作ですやん!\n\n新しいプロンプトできて、私は満足です！\nあれ？\n次は何作るんですか？！笑",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc3d52a27e5622",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214220122/profile_8823c0c108f12f8d9b6a20e61e88e712.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほどにゃ🐾\nしれネコはスキ💗\n\nだけど、\n体育館かどこかで\n中高生の男女が集められた場所で\nこの動画をみるのを\n想像してみたにゃ🐾\n\n個人個人は\nきっと面白…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncb586355830d3",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "13分版、ちゃんと得られる知識入ってるし見続けたいと思わせてくれるストーリーと面白さあるのになぁ。僕は子どもに見せますねこの作品👍",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncaae9347aeb5d",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n遅らばせながら動画観ましたよ♡\nめっちゃ良かったわ✨\nがんばったんだな〜って…感動しちゃいました(,,o̴̶̷᷄﹏o̴̶̷̥᷅,,)\n\nこの動画に関…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncd1ecc928d1eb",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すみません。動画を再確認し、１７歳であるため「責任能力あり」だと判断しました。\n少年事件として、本人も非行行為で少年法による対応がなされると思われます。\n確認不…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc4fdcfbe44239",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "法律関係もチェックし、ほぼ問題ないと判断しました。\n\n児童ポルノ防止法は「求めた者」が児童であったとしても、適用されて少年審判の対象になるようです。\nもっとも「…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc3094be2b107d",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん🌼こんにちは😃\n\n新作！😍どっちも好きだけど、最近の中高生は、TikTokとかで動画慣れしてるので、ツカミなら、13分バージョンの方が見るかな？🤭\n教…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc06acbd690ba9",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "新作きちゃー😆お疲れ様です😆\n相変わらずクオリティ高杉です🤩✨\nこれ、もう学校で教材にしてほしいくらいです。\nはんくさんの動画理論とか制作秘話とか、めちゃくちゃ…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc1d6e7b872a57",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん！！まってましたーーー！！！今日から再生数増やします！！！笑笑",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc04f61cb58c7b",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れさまでした♪明日か明後日のカクヨムのエッセイで、この記事お借りして紹介しようと思います。よろしくお願いします☆",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc04d36fcf5e61",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273451109/profile_7c19ae65eb22548cb0d00c83315b51f5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n動画両方拝見しました。\n13分のほうがスキです〜😂😂\n\n大人が楽しめるクオリティで子どもの学びになる動画、日本中の子どもたちに魅せたい作品ですね！",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc9e7210b4ee4c",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262659779/profile_313606dd96df5611bf69d52cd4e39653.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\n初めまして！営業パパと申します。\n\n大人が楽しめないものは子供も楽しまない。\nこれ、教育や道徳の動画に限らず全部に通じる真理だと思いました。\n\nド…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc26b3351bbd38",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nこんにちは☺️\n私は修正前の13分の動画の方が断然好きです💖\n\nそして大人の事情があることもよく分かります😌\nなかなか難しいですね🥲\n\n初めて彼女…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc1cfa528b8dc8",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "エンターを押す前に一度だけ深く息を吸え！\n確かに〜 自分で自分を守ること💖めっちゃ楽しくインプットになるね〜💕\n娘らに共有しま〜す💕 おっと、旦那にも！（笑）",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc71eef35b6d5d",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんこんにちは\n動画面白かった😆\n\nとりあえずうちの中1に見せておきます",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc35104c52451c",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "中高生用の防犯動画…。私がnoteで伝えたい理念と重なり、強く共感します( ´ ▽ ` )ﾉ🍙🍙🍙",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc77308a8218e2",
+          "user_name": "ラグマスターPikaichi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/107956202/profile_efd8ece4a14f28ea2c1dc010f76ab6e8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんか色々考えて作ってんだな～\n感心感心！",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nce1c4371892d3",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\n\nおはようございます。\nこういう路線の作品まで…！\nはんくさんのお人柄が出ている感じがします。\n\n作品の製作過程もすごくて…\nなんだか、感動しちゃい…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc12b0ca3ab7fb",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーんこんばんは🌜\n\n９分の方、ほぼうちの一味で\nなんか私的には感謝しかないです。\nどこかの中高生にヨシダ見てもらえるかと思うと胸アツすぎます😍\n体調よろ…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncdbf50af04c7a",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276313964/profile_2bf298c2413b26716cbe79a3a19cfd30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "防犯動画見ました👀\n13分の方良いのにー‼️\nバズらせましょう🌈✨\nシェアします😎✨\n",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc22af5b1aedc4",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "待ってました！\n記事読みました。動画は明日見ます！\nそれからまたきますね💕\nスゴイです😊\n\n\n",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncce0b3fb4560a",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！お帰りなさい！\nちょっと待って\nはんくさん× 道徳動画て…！😂\n\nと思って見はじめましたが…。すごい！大人の私が見入ってしまう！何回も見たくなる道徳の動画…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "ncd23b25014ec5",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごいなあ〜。\n生成AIで、ここまでしっかり作り込まれた構成の動画が仕上がるんだ…という、いまさらながらの驚き。😳\n\nなんも知らんかったから、「どうしたんだろ〜…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nc99038610386a",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハンクさん、見ました。防犯動画作成\nおつかれさまでした。わかりやすかったです。",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        },
+        {
+          "key": "nceba2cdabe8c0",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん！\n最後の最後までありがとうございました🌸✨\n今日、9分動画の採用決まりました✨✨✨\nなんとか13分動画をバズらせて\nレッドオーシャンで公式を獲得しま…",
+          "article_title": "【新作動画あり('∀`)ﾉ‼️】待たせたな‼️",
+          "note_key": "nc1454c146ae1"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }
