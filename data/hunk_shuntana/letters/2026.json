@@ -3216,6 +3216,34 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 147,
+        "likes_prev": 427,
+        "followers_start": 596,
+        "followers_end": 605,
+        "new_fans": 42,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 5814
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

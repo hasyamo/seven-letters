@@ -1,0 +1,185 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 457,
+        "likes_prev": 609,
+        "followers_start": 358,
+        "followers_end": 358,
+        "new_fans": 146,
+        "comments_total": 35,
+        "posts_count": 8,
+        "consecutive_days": 3,
+        "post_times": [
+          "15:33",
+          "10:47",
+          "20:35",
+          "14:59",
+          "20:26",
+          "21:58",
+          "22:45",
+          "19:39"
+        ],
+        "top_article": {
+          "title": "自分を甘やかして書こう。noteを「財産」に変える、無理のない4つの向き合い方",
+          "key": "n80c24ab95e51",
+          "likes": 57,
+          "comments": 7
+        },
+        "notable_reader": {
+          "name": "末吉宏臣（Hiroomi Sueyoshi）『noteで稼ぐ！』著者",
+          "urlname": "sueyoshihiroomi",
+          "follower_count": 29910
+        },
+        "commenters_count": 17
+      },
+      "comments": [
+        {
+          "key": "ncb1d9eda7eee2",
+          "user_name": "おみそ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267810549/profile_766370ba160ddc03b553a3e135c86abf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます🙂読んでくれた方が、こんな奴もいるんだなぁと少しでも笑ってくれたら嬉しいです✨\n",
+          "article_title": "#千へ向かう声",
+          "note_key": "neadfb9d9de46"
+        },
+        {
+          "key": "ncaaf23d983fd2",
+          "user_name": "太郎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279088769/profile_8fda7fe953a48e789c89e980e9c4e6c9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん　ご紹介ありがとうございます。これからも精進します。",
+          "article_title": "#千へ向かう声",
+          "note_key": "neadfb9d9de46"
+        },
+        {
+          "key": "nc0243b3d30e97",
+          "user_name": "ろくねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264266018/profile_13b54b98046a2e60a158e0bca4313a4b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介いただきましてありがとうございます！\nこれからも、日常の笑える話など発信していきたいと思います。\nこれからも、よろしくお願いします。",
+          "article_title": "#千へ向かう声",
+          "note_key": "neadfb9d9de46"
+        },
+        {
+          "key": "nc49b2b3601492",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258383008/profile_b4f8015a113c9ae39e82957050a1ec62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは〜🌻✨\n\nめっちゃいい記事ですね〜〜〜！！！✨\n\nなかなかリライトに手が回らなくて……っていう言い訳なのですが……やりたいと思いつつ、つい…",
+          "article_title": "自分自身のファンになろう！noteの資産価値を最大化する「リライト」の考え方",
+          "note_key": "na7f0e236db43"
+        },
+        {
+          "key": "ncece6ac1be3db",
+          "user_name": "あゆり|AIやnoteを使って副業して稼いでいきたいママの成長日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249088590/profile_ccdec6a0048c6d109aeb07209feabf56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきありがとうございます✨\nとても嬉しいです☺️\n\n他の方の記事を読むのも楽しいです❣️\nこういったご縁をいただき感謝しております😃",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "ncc7d0b4259e7c",
+          "user_name": "k2take",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/165416049/profile_68d6528ff264f60edc36a5f5ec5e8372.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n「素敵な記事を応援したい10選！ Part6」にご紹介くださり、ありがとうございます。\nとっても嬉しいです。\n記事の中で、森に浸ってく…",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "nc34a03b5b4628",
+          "user_name": "なな｜疲れた心の休憩所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270197908/profile_317e4a3405981b7878f0e8b3c8eba9ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こうやって頑張ってる方を応援しているの本当に素敵だなと思います！\nnoteってこういう人と人との繋がりがとても多くて優しい場所だなと感じます😊",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "nc29febed35de1",
+          "user_name": "うり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221844584/profile_a92f63c93ae3c7109454d7af10acfc06.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n記事を紹介していただき、感謝感激です✨\nひゅーさんのおすすめの他の方の記事も読みますねー♪\nありがとうございます😊\n",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "ncc1cc75e1e9ba",
+          "user_name": "宮妃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263898413/profile_79a8c0de89f239a5bf48e8d1bc5d73e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは✨\n記事を紹介していただき、とっても嬉しいです〜💓\nありがとうございます❣️\n",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "nce62f55e7ec2a",
+          "user_name": "もりあおな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273451109/profile_7c19ae65eb22548cb0d00c83315b51f5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n記事を紹介していただきありがとうございます😊\n一行プロンプト、流行らせたいですね〜🤭✨",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "nccc94ed6c1518",
+          "user_name": "ランマッスル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269563296/profile_5b1f79bd7b2b29550acd8abcb1d86f70.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは♪\n記事を掲載していただき、ありがとうございます😊\nとてもとても嬉しいです😁\n感謝😂",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "ncf0eafa34d3e0",
+          "user_name": "ともみ｜考察と検証が好きな人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252996127/profile_17294ff44b648c39dcfc335285d57241.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介ありがとうございました😊",
+          "article_title": "#note楽しい",
+          "note_key": "n87676f1c6f1f"
+        },
+        {
+          "key": "nc9371d9ae2be5",
+          "user_name": "水越なつめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214525963/profile_07b0d5061a5707a265a1d1af58df19b8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n9つの基本的ニーズと4つの行動カテゴリ、「確かに…！」と納得でした😌\n\n私はThreadsでnoteの話題を見かけたのをきっかけに興味…",
+          "article_title": "自分を甘やかして書こう。noteを「財産」に変える、無理のない4つの向き合い方",
+          "note_key": "n80c24ab95e51"
+        },
+        {
+          "key": "nc595096d97cdb",
+          "user_name": "マー先生＠元国語教師×note収益化実験中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269335990/profile_df2ee9e7f23f78ea44acea2aa9286fdf.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n9つのニーズと4つのカテゴリの掛け合わせ、すごく腑に落ちました！ビジネスやソーシャルという「相手ありき」の場所だけで頑張ろうとすると、…",
+          "article_title": "自分を甘やかして書こう。noteを「財産」に変える、無理のない4つの向き合い方",
+          "note_key": "n80c24ab95e51"
+        },
+        {
+          "key": "ncaee059e0ef53",
+          "user_name": "あやか｜自分を責める人のための心理整理",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223678077/profile_10124cf986ae5a811c58da56880d45a2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n\nログとホビー、大切ですよね！\n私も、書き溜めた記事が並んでいるのを眺めたり、あとから読み返したりして、ニマニマしてます。\nヒューさん…",
+          "article_title": "自分を甘やかして書こう。noteを「財産」に変える、無理のない4つの向き合い方",
+          "note_key": "n80c24ab95e51"
+        },
+        {
+          "key": "nc8d3af630b75c",
+          "user_name": "日和（ひより）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243470354/profile_94b61fdc6ed6f20943c5247cb15f9022.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは！\nまたまたご紹介ありがとうございますっ🙏✨\nひゅーさんも沢山ツールを開発されていたのですね〜！note Creator Summary、…",
+          "article_title": "noteクリエイター向け",
+          "note_key": "n274e9711fd14"
+        },
+        {
+          "key": "ncdf490958dc06",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、おへんじ帖の紹介ありがとうございます！\nチップまでいただきありがとうございました🥹\nもし興味があればメンシプ限定の「観測は続く。」期間限定でアカウン…",
+          "article_title": "noteクリエイター向け",
+          "note_key": "n274e9711fd14"
+        }
+      ]
+    }
+  ]
+}

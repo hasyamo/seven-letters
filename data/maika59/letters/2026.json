@@ -517,6 +517,84 @@
           "note_key": "n97acf25f2cb2"
         }
       ]
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 467,
+        "likes_prev": 578,
+        "followers_start": 3162,
+        "followers_end": 3165,
+        "new_fans": 60,
+        "comments_total": 9,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:15",
+          "06:36"
+        ],
+        "top_article": {
+          "title": "モーニングルーチンでNoteは楽しくなる！｜AI漫画 ｜AIイラストの魅力｜AIイラストの描き方｜NanoBanana ",
+          "key": "n41bfade08108",
+          "likes": 168,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 15847
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc3da4c4f48ac2",
+          "user_name": "NOA＠全力でAIで遊ぶ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249472811/profile_9a1e8ee4def7e48f9735046e99fd4853.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お久しぶりです！\nまいかさん、綺麗なイラストさすがのクオリティですね( * ॑꒳ ॑*)ｼｭｺﾞｲ！\nいちご狩りも今の季節感しっかり折り込んでて可愛いイラストで…",
+          "article_title": "🍓「苺の甘さで笑顔が開く」-苺狩りを楽しむ女の子- ",
+          "note_key": "nd8003866a109"
+        },
+        {
+          "key": "nceac4a1be17cf",
+          "user_name": "Qurie/きゅりぃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273161489/profile_bf4b6b5250223a29d316c515477946f7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、おはようございます⭐ご紹介ありがとうございます！！\nNanobananaでこんなにきれいなアニメタッチができるんですね～\nまた覗かせてください🩷",
+          "article_title": "🍓「苺の甘さで笑顔が開く」-苺狩りを楽しむ女の子- ",
+          "note_key": "nd8003866a109"
+        },
+        {
+          "key": "nc52f70d9874bc",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。先日は記事購入していただきありがとうございます。いちご狩りの女の子👧可愛い🩷。春最高😃。",
+          "article_title": "🍓「苺の甘さで笑顔が開く」-苺狩りを楽しむ女の子- ",
+          "note_key": "nd8003866a109"
+        },
+        {
+          "key": "nc62e379a34500",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250966124/profile_e99d6edcbd65a3cef478331de0494c4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！\n\n100スキが、２記事目になったのは気にしていたのですが。。\n1000を超えているのですね。\n・・・正直、素直にうれしいです！\n\nフォロ…",
+          "article_title": "🍓「苺の甘さで笑顔が開く」-苺狩りを楽しむ女の子- ",
+          "note_key": "nd8003866a109"
+        },
+        {
+          "key": "nc2fd3555bd83f",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。話題に上げてくれてありがとうございました。",
+          "article_title": "モーニングルーチンでNoteは楽しくなる！",
+          "note_key": "n41bfade08108"
+        }
+      ]
     }
   ]
 }

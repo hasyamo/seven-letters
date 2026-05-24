@@ -157,6 +157,76 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 202,
+        "likes_prev": 122,
+        "followers_start": 1302,
+        "followers_end": 1319,
+        "new_fans": 56,
+        "comments_total": 9,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:18"
+        ],
+        "top_article": {
+          "title": "ミナト汐さん Happy Birthday｜光と構図で贈るAIイラスト・ファンアート展示会｜ChatGPTはじめました。×生成AIはじめました。#37",
+          "key": "nf9a19a216a41",
+          "likes": 117,
+          "comments": 9
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 13181
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "ncbd979206a10f",
+          "user_name": "ノラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264626959/profile_cafe07a8ccd745e31b7c8526a92284bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「光と構図」に対する並々ならぬ敬意が、どのイラストからもすごく伝わってきました！\n特に、あえて光そのものを主役に据えた幻想的なドレスの一枚、華やかさと透明感のバ…",
+          "article_title": "ミナト汐さん Happy Birthday",
+          "note_key": "nf9a19a216a41"
+        },
+        {
+          "key": "nc21a7475f392b",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんばんは✨\nミナトさんのイラスト可愛すぎます😍💖\nなんて癒されるんでしょう(*´艸`)‪💕︎︎✨\n幸せほわほわたっぷりですね🌸\n\n最後に向かって\nめっ…",
+          "article_title": "ミナト汐さん Happy Birthday",
+          "note_key": "nf9a19a216a41"
+        },
+        {
+          "key": "ncd14cd7deb68f",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひーくん✨\nミナトさんのイラストが可愛い〜から\nカッコイイに変わって行って\n色んなタッチで描く感じが楽しかった😆💖✨💞\n\nしかもどのミナトさんも素敵だね🥰💖😉",
+          "article_title": "ミナト汐さん Happy Birthday",
+          "note_key": "nf9a19a216a41"
+        },
+        {
+          "key": "nc4fcfb51e7ecf",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266986187/profile_867ad9fef38c202d8e142f89c233fcc7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目羊さん、こんにちは☀️\n参加ありがとうございます（*'∀'人)✨\nこんなガッツリ紹介嬉しいです❀(*´▽`*)❀\n私が普段やらない感じの汐ちゃんのイラストば…",
+          "article_title": "ミナト汐さん Happy Birthday",
+          "note_key": "nf9a19a216a41"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

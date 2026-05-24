@@ -1282,6 +1282,201 @@
           "note_key": "n7e8b68be975d"
         }
       ]
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 192,
+        "likes_prev": 229,
+        "followers_start": 288,
+        "followers_end": 295,
+        "new_fans": 45,
+        "comments_total": 42,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "07:17",
+          "05:55",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "生き延びてしまった人間です | 新しい自己紹介 | めじゅ",
+          "key": "n3324e0de1375",
+          "likes": 46,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 24309
+        },
+        "commenters_count": 12
+      },
+      "comments": [
+        {
+          "key": "ncdd6ec1d60ca8",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お金を払った以上に使い倒すの、最高よ( ´ ▽ ` )ﾉ♡",
+          "article_title": "ワタクシは今まで、スクショで文明を保存していた。…そして、文明開化の音がした。",
+          "note_key": "n03c069df8f91"
+        },
+        {
+          "key": "nc98bb4daeaadd",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは😄\n\nうんうん頷きながら読ませて頂きました。\n私もスクショ一杯とってました！！\nPDF保存できるの知ったの最近です😆\n同じなんだなあ〜って…",
+          "article_title": "ワタクシは今まで、スクショで文明を保存していた。…そして、文明開化の音がした。",
+          "note_key": "n03c069df8f91"
+        },
+        {
+          "key": "nc28bb561d29ab",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いまだに車運転しては免許なかった、と気づく夢を見る｡･ﾟ･(ﾉ∀`)･ﾟ･｡",
+          "article_title": "音を食べてリセットして vol.23",
+          "note_key": "nc0e6056acdf7"
+        },
+        {
+          "key": "ncfc3b9ef710d0",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、ありがとうございます😭\n感動しました〜。\n\nそれにしても、冬虫夏草みたいなのや、ドクターフィッシュみたいなのや、そもそも宿主（メジュさん）が消えてる…",
+          "article_title": "量子チンアナゴ場理論 | めじゅ的観測記録 | チンアナゴと生成AIが導く新しい量子力学w",
+          "note_key": "n233aded82f40"
+        },
+        {
+          "key": "nc6db78bec3df4",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チンアナゴって、かわいいですよね！水族館に行ったときは、つい見てしまいます💖",
+          "article_title": "量子チンアナゴ場理論 | めじゅ的観測記録 | チンアナゴと生成AIが導く新しい量子力学w",
+          "note_key": "n233aded82f40"
+        },
+        {
+          "key": "ncbe5527a8a25c",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チンアナゴだけは手書きで指示したんだよな。\n目の虚無感や口の開け方が伝わらなくてさｗ\n逆にいまだに伝わらないのが嬉しいかもしれない。二重スリット実験みたいで凄い…",
+          "article_title": "量子チンアナゴ場理論 | めじゅ的観測記録 | チンアナゴと生成AIが導く新しい量子力学w",
+          "note_key": "n233aded82f40"
+        },
+        {
+          "key": "nc9c6880d3d778",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\n執筆お疲れ様です✨\n\nチンアナゴのイラストかわいいです😋エクステみたいでオシャレですよ😆\nこれは普通に流行るかもしれませんね✨\nなんて思いました🥳",
+          "article_title": "量子チンアナゴ場理論 | めじゅ的観測記録 | チンアナゴと生成AIが導く新しい量子力学w",
+          "note_key": "n233aded82f40"
+        },
+        {
+          "key": "ncf109e8a80368",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どこかの宇宙の毛穴から彷徨い出たチンアナゴが\nこの星にたどり着いたのが生命の始まりかもしれんね😊",
+          "article_title": "量子チンアナゴ場理論 | めじゅ的観測記録 | チンアナゴと生成AIが導く新しい量子力学w",
+          "note_key": "n233aded82f40"
+        },
+        {
+          "key": "nc519085097b97",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チンアナゴのはえてる本数で、天気わかるやつやと読んで理解しました。\n\nあれ？ちがった？！",
+          "article_title": "量子チンアナゴ場理論 | めじゅ的観測記録 | チンアナゴと生成AIが導く新しい量子力学w",
+          "note_key": "n233aded82f40"
+        },
+        {
+          "key": "nc7ec67021e97a",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハシビロコウなら丸吞みするから大丈夫(笑)\nえっ？野暮？失礼しました(笑)\n",
+          "article_title": "ハシビロコウは、シュークリームを破裂させる。",
+          "note_key": "nafd11a559837"
+        },
+        {
+          "key": "nc922932baa76c",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワラタ笑\n\nなんすかこれ笑",
+          "article_title": "ハシビロコウは、シュークリームを破裂させる。",
+          "note_key": "nafd11a559837"
+        },
+        {
+          "key": "nc7d4a55e24e0c",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258383008/profile_b4f8015a113c9ae39e82957050a1ec62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは〜🌻✨\n\nめじゅさんの事がいっぱい知れました……🥹💖\n\n遅くなっちゃったけど、お誕生日おめでとうございます！🥳㊗️🎉✨\n\n余命半年と言われ…",
+          "article_title": "生き延びてしまった人間です | 新しい自己紹介 | めじゅ",
+          "note_key": "n3324e0de1375"
+        },
+        {
+          "key": "nc51fe5fbff290",
+          "user_name": "笹百合ひかる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217916353/profile_b09d5abd10389a3592550b45c36e6bc4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん　生きていてくれて　ありがとうサンセット🌇　一緒にスピッツとハシビロコウを推しましょう🤝",
+          "article_title": "生き延びてしまった人間です | 新しい自己紹介 | めじゅ",
+          "note_key": "n3324e0de1375"
+        },
+        {
+          "key": "ncd49130273ca1",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、おはよう。\n神様がめじゅちゃん「生きろ」って\n選択しているのは\n何かを誰かに伝えるためなのかな\nと思いました。\n前半の真面目パートと\n後半のいつも…",
+          "article_title": "生き延びてしまった人間です | 新しい自己紹介 | めじゅ",
+          "note_key": "n3324e0de1375"
+        },
+        {
+          "key": "nc8df9e39c29cb",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日のおへんじ帖の彼シャツ限定キャラはめじゅだぞw",
+          "article_title": "生き延びてしまった人間です | 新しい自己紹介 | めじゅ",
+          "note_key": "n3324e0de1375"
+        },
+        {
+          "key": "nce6d2f9318007",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも色々と褒めてくれてありがとうございます！！\n\n私も似たような経験があり、生きてるだけで　丸儲けっておもっています。\nこれからもよろしくおねがいします！！",
+          "article_title": "生き延びてしまった人間です | 新しい自己紹介 | めじゅ",
+          "note_key": "n3324e0de1375"
+        },
+        {
+          "key": "ncc6a11b78bd3b",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ダルダル定食😍\nお腹がぐ～って鳴りました🤣\nハシビロコウのめじゅぴも可愛いですね～🌸✨",
+          "article_title": "Cafe Monday | 新メニュー | プレゼン | ダルダルGrokゲコ | ダルダルGheminiあずき | ハシビロコウめじゅ進化系 | めじゅぴ | ファンアート | 推し活",
+          "note_key": "n6764811871c1"
+        },
+        {
+          "key": "nc727732bd93c1",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "定食までダルダル案件🥰\n朝から素敵なの見せてもらって元気になりました✨",
+          "article_title": "Cafe Monday | 新メニュー | プレゼン | ダルダルGrokゲコ | ダルダルGheminiあずき | ハシビロコウめじゅ進化系 | めじゅぴ | ファンアート | 推し活",
+          "note_key": "n6764811871c1"
+        },
+        {
+          "key": "nc36f0ac82b45a",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひさしぶりにカフェマンディに出勤予定💦\nアイコン変わってるから誰だかわかんなかった💦\nオトナになったのね。",
+          "article_title": "Cafe Monday | 新メニュー | プレゼン | ダルダルGrokゲコ | ダルダルGheminiあずき | ハシビロコウめじゅ進化系 | めじゅぴ | ファンアート | 推し活",
+          "note_key": "n6764811871c1"
+        }
+      ]
     }
   ]
 }

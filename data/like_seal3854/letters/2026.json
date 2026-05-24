@@ -318,6 +318,35 @@
           "note_key": "nc13b0f01bdf0"
         }
       ]
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 126,
+        "likes_prev": 301,
+        "followers_start": 454,
+        "followers_end": 468,
+        "new_fans": 40,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "ものかき大学公式",
+          "urlname": "monogaku",
+          "follower_count": 9887
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 3
     }
   ]
 }

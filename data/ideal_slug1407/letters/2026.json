@@ -443,6 +443,179 @@
           "note_key": "na940d8b1bdad"
         }
       ]
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 545,
+        "likes_prev": 635,
+        "followers_start": 1164,
+        "followers_end": 1206,
+        "new_fans": 144,
+        "comments_total": 35,
+        "posts_count": 8,
+        "consecutive_days": 6,
+        "post_times": [
+          "08:56",
+          "12:00",
+          "00:00",
+          "00:00",
+          "03:52",
+          "18:30",
+          "06:18",
+          "18:28"
+        ],
+        "top_article": {
+          "title": "明日の午前2時、Googleが何を出すのか、全部予想する――Google I/O 2026 直前まとめ（リーク総まとめ・予測編）あなたの生活が変わるかも！？",
+          "key": "n99f2a72a54b5",
+          "likes": 104,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "内藤みか（作家）",
+          "urlname": "micanaitoh",
+          "follower_count": 15190
+        },
+        "commenters_count": 13
+      },
+      "comments": [
+        {
+          "key": "nc6e03ae9cc5d4",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n\n今回のは難しい…物語の奥の内容が読み取れなかった😑",
+          "article_title": "黒パグのAIショートショート12  シロクマ文芸部　お題「サンダルで」",
+          "note_key": "n03385669719a"
+        },
+        {
+          "key": "nce5c41f4e9156",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277739517/profile_53347832448fd6f71aab45f88bdae49f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、フォロー、スキ❤️ありがとうございました✨\n\nこちらの記事、とても興味深く読ませていただきました😌\n\n私も日々AIと戦っておりまして、特にサムネ…",
+          "article_title": "AIの「考えてるところ」を14枚スクショして覗いてみたら、ちょっと面白いことが分かった話　Gemini3.5検証②",
+          "note_key": "nba5f98f2e752"
+        },
+        {
+          "key": "nc92d7218c6464",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃\n発想、着眼点、目のつけどころが面白く読ませていただきました。\n学校の授業参観日の風景が浮かびました♪",
+          "article_title": "AIの「考えてるところ」を14枚スクショして覗いてみたら、ちょっと面白いことが分かった話　Gemini3.5検証②",
+          "note_key": "nba5f98f2e752"
+        },
+        {
+          "key": "nca0e8982888ae",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても面白かったです。\nうちのAIも時々それっぽく嘘をつくので、「なぜそう見えるのか」の理由を知れて興味深かったです。\n「思考プロセス」が放送用に編集された録画…",
+          "article_title": "AIの「考えてるところ」を14枚スクショして覗いてみたら、ちょっと面白いことが分かった話　Gemini3.5検証②",
+          "note_key": "nba5f98f2e752"
+        },
+        {
+          "key": "ncd0ad2b9d5111",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！\n\nこの記事めっちゃ面白かったです！\n\nなんとかしてあげようと頑張るAI⋯⋯。\n↓で濱口さんがおっしゃってるように、止まるべきところは止まってくれ…",
+          "article_title": "AIの「考えてるところ」を14枚スクショして覗いてみたら、ちょっと面白いことが分かった話　Gemini3.5検証②",
+          "note_key": "nba5f98f2e752"
+        },
+        {
+          "key": "nc54c812298167",
+          "user_name": "濱口貴光@AIとデータサイエンスが好きな薬剤師",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/201459904/profile_38c984a81ab9f491cc1ab44cf419ff3a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Graceful Exitの考え方は、本当に大事だと思います。正直に「404です」「429です」と言って立ち止まってくれる方が、安心してお付き合いできますね。\n…",
+          "article_title": "AIの「考えてるところ」を14枚スクショして覗いてみたら、ちょっと面白いことが分かった話　Gemini3.5検証②",
+          "note_key": "nba5f98f2e752"
+        },
+        {
+          "key": "nc8b692de38cce",
+          "user_name": "かしおぺあ_AI Prompt Architect",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238145182/profile_c8243cf1356050cb7a55fa6c65a4bc68.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん　おはようございます。\nウチのGemini 3.5Flash の使用レポ記事で　この記事を引用させていただい忠興と思っているのですが　よろしいでしょう…",
+          "article_title": "Gemini 3.5 Flash 初日に「江戸時代AI論文ジェネレータ」を改造させたら、AIが付喪神になって帰ってきた話── Claude × Gemini 協業実験レポート（2026/5/19-20）",
+          "note_key": "n836fa0aa018d"
+        },
+        {
+          "key": "ncb83bad467186",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、こんばんは。\n理解したふりをしてコメントしようかと思いましたが、とにかく早いけど、暴走気味で不安定。世の中金が必要… \nもうちょっと検証続く　…",
+          "article_title": "Gemini 3.5 Flash 初日に「江戸時代AI論文ジェネレータ」を改造させたら、AIが付喪神になって帰ってきた話── Claude × Gemini 協業実験レポート（2026/5/19-20）",
+          "note_key": "n836fa0aa018d"
+        },
+        {
+          "key": "nce9ac27b14ba1",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん🐾\nおはようございます。\n3時に起きたところ笑いました。\n流石すぎる。昨日の寝る前あたりから漫画作るのめっちゃ早くなったけど\nちょっと使うのが楽…",
+          "article_title": "答え合わせの朝です。Googleが実際に出してきたもの、全部チェックする――Google I/O 2026 アンサー編（予測記事の採点をします）",
+          "note_key": "n849466e69626"
+        },
+        {
+          "key": "nc803d75024f4e",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きましたね、ステルスアプデw\n爆速になったわ。でもこれからまた不具合出まくりなんだろうな💧\nウワサのレミーはまだ試験段階みたいでよかったですw",
+          "article_title": "答え合わせの朝です。Googleが実際に出してきたもの、全部チェックする――Google I/O 2026 アンサー編（予測記事の採点をします）",
+          "note_key": "n849466e69626"
+        },
+        {
+          "key": "nc61bcc4fd09b5",
+          "user_name": "きらきら占い子｜フォロバ100｜水晶信者です",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266107310/profile_9723259e8b2962b186077d2bb7182553.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは。「2本で86%」という一文、読んだ瞬間に笑ってしまいました。すごい技術なのに財布と相談しないといけない、っていうもどかしさ、なんかAIあ…",
+          "article_title": "明日の午前2時、Googleが何を出すのか、全部予想する――Google I/O 2026 直前まとめ（リーク総まとめ・予測編）あなたの生活が変わるかも！？",
+          "note_key": "n99f2a72a54b5"
+        },
+        {
+          "key": "nc214e6a74473b",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まあ、Android端末にGeminiが乗ってる(実際のニュアンスは微妙に違うけど。ウチはARROWS WEだけど、Google Pixelなんかの方が確実に最…",
+          "article_title": "明日の午前2時、Googleが何を出すのか、全部予想する――Google I/O 2026 直前まとめ（リーク総まとめ・予測編）あなたの生活が変わるかも！？",
+          "note_key": "n99f2a72a54b5"
+        },
+        {
+          "key": "nc4c53d5f193bc",
+          "user_name": "伊藤正章｜サバイバルDXクリエイター：荒野のPip-Boy設計局",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270049164/profile_28528caa31352657c2b6cccbb535d4e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Google AI Plusモデル利用者なんですが、Flashに通常モードと拡張モード、２つのモードの切り替えができるようになってました！ただ、記事の通りPro…",
+          "article_title": "明日の午前2時、Googleが何を出すのか、全部予想する――Google I/O 2026 直前まとめ（リーク総まとめ・予測編）あなたの生活が変わるかも！？",
+          "note_key": "n99f2a72a54b5"
+        },
+        {
+          "key": "ncf47cd159af4c",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、おはようございます。\nまだまだ先の話と思ってたら、もうすぐですねー。\nGeminiはとりあえず漫画作りマシンなので、画像生成🍌がそのままだったら…",
+          "article_title": "明日の午前2時、Googleが何を出すのか、全部予想する――Google I/O 2026 直前まとめ（リーク総まとめ・予測編）あなたの生活が変わるかも！？",
+          "note_key": "n99f2a72a54b5"
+        },
+        {
+          "key": "nc4fdcc100b146",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どういうイベント🐻\n女の子は(メンバーに)おらんの……?🙄",
+          "article_title": "LLM48プロジェクト本格始動フェーズ001",
+          "note_key": "n621609bd9f28"
+        },
+        {
+          "key": "nc591a6d0fed04",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フロアいけるんですね！！\nいいことしりました！！笑",
+          "article_title": "LLM48プロジェクト本格始動フェーズ001",
+          "note_key": "n621609bd9f28"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

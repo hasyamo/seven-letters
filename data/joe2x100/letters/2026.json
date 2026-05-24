@@ -296,6 +296,41 @@
           "note_key": "nc041abf1f3d0"
         }
       ]
+    },
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 138,
+        "likes_prev": 113,
+        "followers_start": 433,
+        "followers_end": 446,
+        "new_fans": 41,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:39"
+        ],
+        "top_article": {
+          "title": "【心に残る一枚を演出する「ボケ」の世界】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop  #Nijijourney No.42",
+          "key": "n81947c0a36b0",
+          "likes": 42,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "高橋良平/転職エージェント/note創作大賞入賞に挑戦するパラレルワーカー【フォロバ100】",
+          "urlname": "dandism56",
+          "follower_count": 9935
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

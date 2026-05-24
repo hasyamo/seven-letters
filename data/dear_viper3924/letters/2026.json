@@ -1,0 +1,299 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W21",
+      "period": {
+        "start": "2026-05-18",
+        "end": "2026-05-24"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 359,
+        "likes_prev": 436,
+        "followers_start": 782,
+        "followers_end": 782,
+        "new_fans": 88,
+        "comments_total": 79,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "21:30",
+          "21:30"
+        ],
+        "top_article": {
+          "title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "key": "n4ab5b9ff0f2e",
+          "likes": 143,
+          "comments": 62
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 5887
+        },
+        "commenters_count": 26
+      },
+      "comments": [
+        {
+          "key": "nc9ba43832d708",
+          "user_name": "月花の雫 | 明日ってさ、月が欠けたら来ないよね～　人生の夜を照らすお供に",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245061439/profile_d9fc767d436db3f445735f3499e44dea.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、紹介記事ありがとう！！\n\nもうね、記事読んだときに笑ったのよ\nこれよ、聞きたかった言葉！！って思って\n\nあれを超える言葉には中々出会えない気がするーー…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nc80fdf46162f7",
+          "user_name": "see2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274454879/profile_2657310e007bb7e4f16843e44c2aba72.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん様\n\nこんにちはー♪\n脳内マッハ2どころかマッハ5は出ちゃってるハズ！！\nご家族の皆さんは母ちゃんさんに甘えちゃってるのかなぁ💦\n何しても大丈夫…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nccdb2da04f4b5",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、おはようございます☀️\n\n私も、「動かない」じゃなくて「動けない」時があるのですが…\n旦那には「早く動け！歩け！」と言われます💦（しかも超せっかち…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "ncd967b9b8b4dc",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "障害を抱えているにもかかわらず、家族の理解が足りていない。\n足に２０キロの重りをつけて、普段通りに行動しろと命じて、出来ていないではないかと責め立てたい。\nその…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nc33c8c9011c9b",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレは週明け水曜から6月まで入院すんだけどさ、誰でも経験あるからわかるはずのことなんだ、ただ忘れちゃうんだ。\n怪我したり虫歯になったり風邪引いたりさ、頭痛や腰痛…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nc4a056d266644",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、はんくさん\nわたしが「動画貼れない」と母ちゃん記事に、はんくさんの記事を貼っただけで、条件満たしていないのにチップくれたよー(T_T)\nはんくさん、素…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nc604029b2a534",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いや、ほんとにね。あの共食いは、載せるしかないなと思って🤭",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nc578a871b3274",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、こんばんは\n母ちゃんがどんどん強くなっていく（ように見えます）！\n最近の進化が本当にすごいよね。\nまさにスーパーサイヤゴッド🥰\n次はブルーに進化かな！…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "nca63af9d49760",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんの言葉がタイトルになるの、めちゃくちゃ納得です😂\n\n「体は時速0.5キロ。でも脳内はマッハ2」みたいな強さと明るさが、ほんと母ちゃんにしか出せない味だな…",
+          "article_title": "私の記事の言葉がタイトルになったよ！",
+          "note_key": "n3b7388174b01"
+        },
+        {
+          "key": "ncfe26b92f271d",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262659779/profile_313606dd96df5611bf69d52cd4e39653.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "戻って読みに来ました！\n図太く生きる！ふらつき母ちゃんのスピリッツは日本を明るくしてますね！",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncf3cd7104bdf0",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん😊こんばんは🌙\n\n母ちゃんさんのセンスの良さには、いつも脱帽です✨\n\nふらつきも、すさんだ気持ちも、仲間たちの熱量も、全部まとめて笑いと前に…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc6fdc77b182b1",
+          "user_name": "お福タン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268440945/profile_7c241df985a3d4a4c0ce237882340da2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です今晩は☺️ふらつき母ちゃんさん\n\n今考えると、わたしも、足が不自由時代には\n\n今以上に頑張ってた気もしましたよ\n\nでも、あの当時にはもう戻りたくない…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncbd35fb5925f3",
+          "user_name": "saki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278267480/profile_1f9b6c8aeb5701ca5aeea7eab6e9bc52.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "朝の気持ちすっごくわかります！！",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc864c24fadb8d",
+          "user_name": "ときどき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273360807/profile_1c02704e20aeed2656cf4754f1980abe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スゴイよ🤩✨\n図太くて良いじゃん😂💦\n最高だよ〜👏✨✨\nツナ様🐱も最高〜〜😂✨",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncd0593724ed40",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "股間スワンで踊り狂うソロアイドルデビュー。ワードセンスがすごい👏👏\n\n毎回このクオリティの面白い文章書けるの、羨ましすぎる〜🥰",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncd106e2a93bb0",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんな日があってもいいじゃないか💕\n\nいいんです！\n\nいじられ、スルーされ\nでもみんなを紹介してる。\n\n私ならいじけてふて寝です。\n母ちゃんさん、母ちゃんの鏡で…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc944fc5f11f39",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後の動画、そのまま天に召されるのではないかと、少し心配してしまいました。\n握りこぶしだったら、ラオウの構図ですからね……。\n\nnote、才能のある方ばかりで、…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncf5f77f9cbe74",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "紹介ありがとうな('∀`)ﾉ‼️\n\nBGM、地味にいいんだよ、自画自賛しちゃうw\n耳に残らないからいいんだろうなぁ・・・｡･ﾟ･(ﾉ∀`)･ﾟ･｡",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncd82f385fc1d1",
+          "user_name": "🌀 みーちゃんの脳内探検記 〜高次機能障害とチャッピーと〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261503068/profile_d5aa43f900e39deb05eed51f806dc938.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん〜\n\n紹介して頂きまして\nありがとうございます😊\n\n母ちゃんには、パンチラはもちろん\nアイドルなので、（常にパパラッチがスタンバイ📷）\n\nアイドル達との…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc929bb96ee95c",
+          "user_name": "ＣＯＯＬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん！タイトルに爆笑って入れてしまうところがぶっ飛んでます🤣🤣\nパワーがみなぎってますね‼️\n\nいつも元気もらってます😂",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc1d3876745548",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもしろくて見やすいじゃなかった。\n\n超！面白くて見やすい🩷\nこっちやった😂w",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc5efccbeeb818",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nこんにちは。\n\n「明日もやる」の後ろ姿がカッコいいです…！\n本当にパワーをもらっていますよ！\n\n今朝まで気分が落ちていたのに、\nかなり元…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nca301736ac620",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やったー٩(ˊᗜˋ*)و\nかぁちゃん紹介ありがとうございます😊\n\nほんま推し記事面白いし見やすくて最高やで💕",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc9c8d45cdd2d9",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n母ちゃんのパワーには頭が下がります\nその強さはどこから来るのか？非常に気になるところです！\n\n最近、ツナちゃんも大活躍ですね\nこれからの躍進…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc5eb2d58f8340",
+          "user_name": "広臣 柘榴│日常・エッセイ垢",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232024626/profile_bc5be160b47091cc496f51eabcda3f90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "図太い日、あってよいのです🌸\n辛い気持ちも、前向きな感情も、母ちゃんらしくて本当に素敵です✨\n\nわたくしも頑張ろうと思えました🔥",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncc37dc63a2394",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ごめんなさい。サムネがまず面白すぎです😂😂😂\n",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "ncddcc0eea926f",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "股間スワン🤣🤣🤣",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc186431c026dc",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネがもうおもしろいです😂",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc15e56f8fb964",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん…サムネのスワンは反則です\n(≧∇≦*)ｷｬﾊﾊ ｷｬﾊﾊ\n\nえ、アイドルデビューしたんですか？🫢💕\n今サインもらっとかないと後悔するかしら？😍\n\nあま…",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc64db8ae24120",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネ😆🫶志村けん！\nみーちゃんさんとこ見てきたよ〜\nデビューおめでとうございます💕",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nc0129bac9f8ee",
+          "user_name": "Rio",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270274458/profile_2dcb6088756d63fe165d8149ff11fd90.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\nすっごい情報量ですねー。圧倒されます😅\n今から、各動画を見てきます！\n\nいつもありがとうございます😊",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        },
+        {
+          "key": "nce8bf8fd40cf1",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "図太くいきましょうや！あっしも、先ほど体重計に乗ったら…。図太くなってました！娘のお残し食べちゃダメねー。これしか原因が思い当たらん。",
+          "article_title": "難病母ちゃんの爆笑エッセイ！大人の脳トレぬりえとおすすめのネットエンタメ│難病​│エッセイ│​脳トレ​│動画│​主婦",
+          "note_key": "n4ab5b9ff0f2e"
+        }
+      ]
+    }
+  ]
+}
