@@ -227,6 +227,35 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 57,
+        "likes_prev": 206,
+        "followers_start": 1322,
+        "followers_end": 1334,
+        "new_fans": 25,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "Miccell(ミクセル) / 人生を楽しむ仕組みを作る",
+          "urlname": "miccell",
+          "follower_count": 5244
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 2
     }
   ]
 }

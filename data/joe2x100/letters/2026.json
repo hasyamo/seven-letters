@@ -331,6 +331,41 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 106,
+        "likes_prev": 144,
+        "followers_start": 449,
+        "followers_end": 457,
+        "new_fans": 31,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "14:18"
+        ],
+        "top_article": {
+          "title": "【AIが癒やしとなる時代】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop  #Nijijourney No.43",
+          "key": "nc9fec2b8512e",
+          "likes": 43,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "Makari｜AIイラストと副業",
+          "urlname": "makari_5108010",
+          "follower_count": 5648
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

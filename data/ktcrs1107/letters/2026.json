@@ -2846,6 +2846,834 @@
           "note_key": "n593e9f950d27"
         }
       ]
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 1001,
+        "likes_prev": 912,
+        "followers_start": 1240,
+        "followers_end": 1307,
+        "new_fans": 249,
+        "comments_total": 235,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:44",
+          "16:00",
+          "06:29",
+          "06:31",
+          "05:47",
+          "06:05",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "ちびキャラ生成、こんなに需要あると思ってなかった話｜AI活用｜生成AI｜ChatGPT｜画像生成AI｜#383",
+          "key": "n29dc8deacb70",
+          "likes": 280,
+          "comments": 63
+        },
+        "notable_reader": {
+          "name": "デザイン思考と本質追究を楽しもう♫",
+          "urlname": "designessence",
+          "follower_count": 19407
+        },
+        "commenters_count": 45
+      },
+      "comments": [
+        {
+          "key": "nc02db1cb59d0d",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も最後の画像が1番好きです💖\n\n余白とか、\n\n境界線とか、\n\n内と外の世界とか、\n\nKITAさんのことを好きなのって、多分私の中にある当たり前に対する疑問とか…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc583d40c74797",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさん、こんにちは😊\n\n自分探し、私も、いつもどこでもあります～😊💦\nまあ、私の場合は、探さなくても勝手に同じ方向に行っちゃうんだけど😓\n\n探しているのって、…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "ncaedc8b5f7b89",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白は哲学…\nATフィールドな感じがします。\n最後のイラストがスキ！\n触れそうで触れられない境界線から、いろんな物語がはじまる感じ。",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "ncc30eccb9599a",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後のスタバのカップのやつが1番好き。\n\nやっぱりキタコレさんとは、好みが合いそう。\n\nただ、私には作れないですけどね。🤣",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nce1c907ce15a0",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "１と２は「頭の中がゴチャゴチャしてるのね」って分かる。\nそういうテーマで描いたんだろうなって思う。\n\n３が深い。人物に目が釘付けになって１や２の人より頭の中が深…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nce484e3b8f99b",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん🦎✨\n世界観って、なかなか最初から「これが私の世界観です！」って、ばばーんと言い出せるものじゃないと思うんです🤭\n\n特にKITAさんみたいな構造思考…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "ncd2779847f0e5",
+          "user_name": "そい｜AIアート×世界観",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273083306/profile_fa5f476a4443e24c6af93e0dead706a7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん🌸記事をご紹介下さって、ありがとうございます🥹✨\n　\nどれも素敵なアートばかりで、キタコレさんの世界観に引き込まれました☺️\n　\n世界観は、最初に掲…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc00ec30663d79",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵ですねー😍\n\n05が好きです♪これキタコレさん⁉️ってとこがいい🤭",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "ncc5b0af9082a7",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー、めっちゃ１好きだわｗ\n私はＸを頑張りましたww",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nce958a14d2c3a",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんって、1個隣のパラレルワールド🌍⇨🌏みたいな世界観………\n? ʅ(°‎▾｡)ʃ ﾁｮｯﾄﾅﾆｶﾞｲｲﾀｲﾉｶﾜｶﾗﾅｲ\n\nあまねは…言語化が…苦手す…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc446fe7a64c65",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すっごい良い！めちゃくちゃ素敵です！\n画像もいいですけど、それを作ってる思考ってなによりも財産ですよね〜。\n刺激が溢れてる〜！\n私も何か作りたくなってきました！…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc02e17e343174",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もしかして、もしかしたら、キタコレさんはコンクリート打ちっぱなしの部屋に住んでるのかも？\n緑が足りないんです、私には😭\n観葉植物を置いてください🙏\n\nそれはまた…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc0723ad28a044",
+          "user_name": "ねむねこうさぎ｜創る人。Suno音楽・イラスト・小説",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267264872/profile_16a875445bafe580aa5d2a514489d0cd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございますー☀️\n\nきたさんの記事、実験もイラストも思考も、色や音が賑やかに話しかけてくる感じの空間で…スキっ🐰笑\nまた遊びに来ますね！",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc6cdd7a589d5a",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレアートは、見た瞬間、あ！って作者がわかっちゃう世界観がもうあると思ってましたけど、自分で言語化するのは難しいってことなんですかね🤔",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nce283887cbace",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわぁ分かるー！！！\nそして、私は\nきたさんのこういうタレ流し記事が1番好き♡\nアートもプロンプト好き\n複雑な数式みたいなのはアレルギー出る！\n\nやっぱこういう…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nca61d58b0bf14",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんそう考えていたのかが知れたステキな記事でした🙂‍↕️\n\n何でしょうね\n世界観を言語化するの難しいですね\n\nただ、Xとかでもさらっと流れてくるイラスト…",
+          "article_title": "Threads再開から始まった、ワイの世界観発掘記録",
+          "note_key": "n5b867061dec6"
+        },
+        {
+          "key": "nc3462a4b59104",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちわ。\nキタコレさんありがとう！\nこれは秘伝のタレでした！\n\n肩から上の画像でも、チャットGPTなら一発でした。素晴らしいですね。\nGrokはまあ、間違っ…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncca41b26f1cd7",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すっご！！\n最近、AIのポリシー変わったのかな〜😅\nGeminiだと、長過ぎるプロンプトは動かないことが多くなってきましたね〜💦",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncb3c6dee37425",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど💡\n元のやつをちびキャラ化するっていうやり方がありましたね✨\n後で遊んでみます🫡🌱\n\n彼氏になります\nを二度見してしまいました🤣",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc92edd696afd6",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シンプルが故に安定するんですね\n勉強になりました\n\nそして、知らないところでオジサン認定されていて、コンテンツポリシーの違反に一役買っていて笑いました🤣\n\nコタ…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc9d24a921dd2e",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "にゃんて素晴らしいプロンプトにゃ🐾",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nca889cd8bab0c",
+          "user_name": "ちんぱん🐒AI×note実録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260167058/profile_23f6adcb9012ca4b93f686f4f0ee9278.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！\nfafaさんの記事からやってまいりました！\n\nちびキャラ、おっさんのちびキャラ爆誕しそうですが\n使わせていただきます🙇",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc6c40910f9361",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "病室からコンニチワ('∀`)ﾉ✨️✨️✨️✨️\n\nちびキャラはさ、ガイドラインの天敵でもあるんよ💧\nオレのアイコンのちびキャラ、タバコ吸ってるのを理由に二次加工…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc0395e8439635",
+          "user_name": "Anna",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274429080/profile_b925806be84f75d88e6c428dfab1d5e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして、こんにちは♪\nプロンプトお借りしました🙇‍♀️\n5.5Thinkingがどうしても自分の脚を長く描くので2.5頭身ではないかもしれませんが🤣、とっ…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc284d0f91ce00",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさんのプロンプトの\n考え方勉強になる！\nそして、そのシンプルさが好き！\n\nチビナナエル、\nきたこれプロンプトで\nリニューアルしました！🧜‍♀️\n\nおはようご…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncbbc6f7df2893",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268863513/profile_04c67bff5d9316b231d0fc57976d79c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！やってみました！\nといっても３頭身の柴犬が2.5頭身になっただけですが😆\n来週、記事にできたらと思います！\n",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc02a214b9d43d",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やってみました❣\n\n顔はそのまま、手足のみムッチムチになりました😆\n\n何故か画像を2枚出してきて 2枚目がちょっと不可解でした👁️‍🗨️\n\n手（肘下）のみパンパ…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncdb44802dfc91",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "プロンプトを盛るんじゃなくて、削って安定させる感じ、私も気をつけてます。\nついアレコレ詰め込みがち💧\n\nそして最後、現場情報として使ってくれてありがとｗ\nちびキ…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncef1f2d0be95f",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん🦎💕\n\nコレって……\nキャラクターだけじゃなくて、ミニチュア化出来るってことかな…⁉️\n\nうちの猫とか\nサグラダファミリアとか\nフォルクスワーゲンの…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc0f17e4bfcebd",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「彼氏になります！」😂😂😂\n\nキタコレさん、さぞ凝ったプロンプト使ってるのかと思いきや🫢\n\nそしてまさかのおじさん接近禁止令！😂",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc6d0f670d4876",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ～、これはやってたわ。残念(>_<)\nまあ、あまりチビキャラ描きませんけどね。\nはんく監督くらい(笑)\nでもこのプロンプトは折角なので、カスタムカード化します…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncd59190c1eda0",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん！\n\n\nプロンプトは短く的確に。\n\n勉強させていただきました‼️\n\n2.5次元が正解っと。メモメモ📝",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc1c31e8e04621",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAcoreさん\n\nこんばんは。\n逆にすごくシンプルなんですね…！\n元画像があればちゃんとちびキャラが生成できました！\nありがとうございます～",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncbe28685b0dd4",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ポン出しに入れてほしい！\nってコメントしようとしたら、新しい記事で紹介されてた！\nめちゃくちゃ簡単だけど重要ありですね🌸✨\nありがとーございます！",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncad8553864c43",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "僕がやってるのと同じ感じでニッコリしました！\n僕のやり方で問題ないんだ！みたいな\n\nいいのが出たらそれをベースにキャラシですよね笑",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nc23a197d91a1b",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あのう、すみません。\n元画像がこのプロンプトでどう変わったか、見本があると、わかりやすいです。\n異形ちびキャラの元イラストは、どのくらいカッコいいのでしたか。\n…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "ncafa6bf390101",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ChatGPTのスクリプトでは、分類として「チビ」というものが存在しているようです。\nそのタグをつけて作成すると、デフォルメキャラが簡単にできるため、愛用してい…",
+          "article_title": "ちびキャラ生成、こんなに需要あると思ってなかった話",
+          "note_key": "n29dc8deacb70"
+        },
+        {
+          "key": "nceb3f9abec421",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チビキャラめっちゃカワイイ💖\n\n惚れてまうやろ〜〜〜😍",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc93cc3ff6debe",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チビ可愛い💕\nおじさんを隣に置くと、ポリシー違反になるけどね🤣",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "ncb54efa44c8c4",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "またキタコレさんの正体が謎になってきましたね(;'∀')\nちびキタコレさん、言葉だけで矛盾を感じます。\n異形のちびキャラ、どうやって出てきたのか、気になります！",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "ncfe601eed35cc",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "=͟͟͞͞(๑•̀ㅁ•́ฅ✧はいっ！\n\n需要ありますっ！！\n\nかわいいですっ！！！",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc1306106880a9",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ポン出しビルダーに追加しておいてくださいｗ",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc6ca748aea93a",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわっ　新しい展開！\n\n需要？　もちろんありです。\nとくにKITAcoreさんがやるなんて、\n楽しみしかありません。",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc6bea171d4418",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん、おはようございます☀️\n\n私はここ数日、ちびキャラの一貫性に四苦八苦しています😖💦\n頭身が安定しなくて、ある時は4頭身、ある時は3頭身、時には2頭…",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc3a6dec00416e",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん🦎🦍💕\n\nデフォルメキャラは、入れてないのかな…🤔💭❓\nデフォルメだと、ちびキャラ崩れること多いんですけど…\nこれだけ安定しているということは、縮尺…",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc49fdcdd06c56",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます✨\nちびキャラかわいいです😍\n\nかわいいけど幼すぎない表現。\n↑これを目指してます🥺\n",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc0f91cb49d1d0",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、おはようございます♪\n\nちびキャラ可愛い💕\n作り方きっと載せてくれると\n思ってます🤭\n\n",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nce9aaa2d14a8e",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん、おはようございます✨\n\nKITAさんのチビキャラめっちゃ良いです❣️🤩✨\n可愛いもあカッコイイもどちらもKITAさんらしさもちゃんと残ってて\n最高…",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nce5b9c55d2a90",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268863513/profile_04c67bff5d9316b231d0fc57976d79c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きたさん、こんにちは\nかわいいです〜😆\n作り方載せていただいたら喜んで読みます！！",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc9da35c766b37",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちびキャラかわいいー！！",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc8f73fb5e9bde",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヴィランちびキャラにして、おへんじにコラボも🤭",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "ncd8a637e1bb0d",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "見事にキタコレさんの雰囲気とちびキャラがマッチしてますね☺️✨\n\nアニメのキャラがゲームになった雰囲気‼️\n\nめっちゃいいです☺️",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc7856be15c42b",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えーかわいい♡\n\nきたさん、おはようございます！\n\nなんかXの方で、すごいですね🤭\nお疲れさまです！",
+          "article_title": "目的はないけど勢いで始めた、ちびキャラ生成実験",
+          "note_key": "n8043c2285827"
+        },
+        {
+          "key": "nc990122d2f049",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "行き当たりばったりの私には足らなかった要素ですね🤣\n\n隠し味に取り入れてみようかな💖",
+          "article_title": "とある理論を教えてもらったら、note記事に使える気がしてしまった",
+          "note_key": "n2db17a253646"
+        },
+        {
+          "key": "ncac99ce710435",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "勉強になります！\n何も考えずにタイトルつけてたのバレた😭",
+          "article_title": "とある理論を教えてもらったら、note記事に使える気がしてしまった",
+          "note_key": "n2db17a253646"
+        },
+        {
+          "key": "nca3d6ecc006f8",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こういうの感覚でやっちゃうので体系化されてるものを知れてよかったです。\n\nAIに今度頼んでみますね❣️",
+          "article_title": "とある理論を教えてもらったら、note記事に使える気がしてしまった",
+          "note_key": "n2db17a253646"
+        },
+        {
+          "key": "nc440ec17245b2",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274861081/profile_59c361cea83d4f4d1c3e6a403c43a90b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この原則はじめて知りました。\n勉強になりました。\nありがとうございます♬",
+          "article_title": "とある理論を教えてもらったら、note記事に使える気がしてしまった",
+          "note_key": "n2db17a253646"
+        },
+        {
+          "key": "nca9786f7b8bf4",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "『noteはタイトルが9割』\nこれで書店に平積みされるな\n新刊・話題書のコーナー独占やな\n自己啓発書のコーナーも埋まるな\nまちがいないｗ",
+          "article_title": "とある理論を教えてもらったら、note記事に使える気がしてしまった",
+          "note_key": "n2db17a253646"
+        },
+        {
+          "key": "ncdfe30887f482",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "勉強になります！！\nいつも有益な情報ありがとうございます！",
+          "article_title": "とある理論を教えてもらったら、note記事に使える気がしてしまった",
+          "note_key": "n2db17a253646"
+        },
+        {
+          "key": "ncec91188d903b",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サインと空間は共生関係とは、非常に興味深い考察ですね🧚",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc31dbd55807da",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こうやって、言語化してもらうと自分の好みがわかりやすくて、脳内の整理が出来ますね🍀\n\n建築、空間、素材が私の1番好きなモノなので、環境に依存しやすいタイプなのか…",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc5eadf01f752a",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "解説をきいて納得です！\n空間は、見惚れてしまいますし😍\nインスタレーションは、しばらく見入ってしまいました！\n奥が深いですね✨",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc680391d0c9f8",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん💖\nこれ、めっちゃお役立ち✨☝️✨\n英語難民だし、翻訳かけるの面倒でズボめじゅ発動させがちだから‼️\nこういうの、単語帳みたいに保存しときたい…💖\n…",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc22aa73cf6bc2",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさんの世界はカッコいいけど暗いです😣\n\nなにかイヤなことあったのか🤔\nモチーフが黒い羽の悪魔だからですね～🤭",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "ncbf77735ffed3",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても勉強になり、面白かったです🤔✨✨\n特に物から環境への変化は考えたこともなかったので、勉強になりました☺️\nまた10のインスタレーションは、もはや哲学なので…",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc1a3c5deea68a",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー素敵💓です♪\n\nシンボルの解釈面白いです。 \n光とピクトグラムがスキですね😍",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nceff4c7ae3cd8",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は6が好きですね〜❣️\n\n先日まで色々お話しさせて頂いていた偏差値のやつ。\n何とか正式リリースできました😭\n\nAIプロンプト作れる人改めて尊敬します😭😭\n\nめ…",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nced9a4c9bdbcd",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "四隅のプラスがいいアクセントになってる✨",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "ncf26f13b8a5f5",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スペース、やばっ！\n好き💓",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc81201ebeb3de",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "９の埋まってるのが良いです。\nナイス👌アート🥰スキ。\nちょっと、思いついた🐶🩷。\n創作してきます。\n",
+          "article_title": "展示で出会ったパネル群を、ワイの脳ミソ用に翻訳してみた話",
+          "note_key": "n4e3b37671a90"
+        },
+        {
+          "key": "nc2fc8a8f86522",
+          "user_name": "ノラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264626959/profile_cafe07a8ccd745e31b7c8526a92284bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさん、初めまして！ノラと申します🐾 ヴィラン6体の『終焉の評議会』、中二病マインドを直撃する設定とビジュアルが最高にカッコよすぎます…！🔥 私もAIを活…",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc41ebacfbc17f",
+          "user_name": "青空 和平",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250395213/profile_7d36560465e2e53d6559ca0775647979.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1番と5番が好きです☺️💖\n\n集合ポスターの考えは無かったので、今度また遊んでみます🤭",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncdaa5bcbff1b3",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "６人の死神という感じで、迫力満点です。\n異形の４番、WING OF DEATHが個人的に、お気に入りです。\nこれが「WINGD　DEATH」だったら、もっとヤバ…",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncbf84d4eb5d09",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいいです😈⚔\n1番闇深い\n\n3. CAEL NOX\n記憶する堕天使 / The Fallen\nWitness\n\nに1票✨\n",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncba8db94cd7ba",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "異形推し！神々しいです✨✨\nポン出しビルダーの沼が深すぎます～💦",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc5f0aab6b7845",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど、鎌を揃えると雰囲気が締まるねぇ😈\nところで俺も魔王なんだけど・・・？\nああ、俺が滅ぼした後にコイツらが現れるわけね、\n了解了解🎵",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc82ce31442032",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ガチファンタジーに弱い🐶です。ポチッ！！",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncc3fef82a69a5",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\nどれもラスボス感あって最強っぽいすごい😉",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nceeaefde2a53e",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん、おはようございます✨\n\nどれもカッコイイ〜🤩😍💓✨\n全部カッコイイですが\n「収穫の獣」が1番好きです🥰✨💞\n\n最後の集合イラストは最高過ぎます❣️…",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc0d3890e0658e",
+          "user_name": "濱口貴光@AIとデータサイエンスが好きな薬剤師",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/201459904/profile_38c984a81ab9f491cc1ab44cf419ff3a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "CAEL NOXが個人的に刺さりました！\n私の古の記憶も蘇りそうです！",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc8cc59fe3f279",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277014893/profile_2c3a2d4c85afae49fa65a2b75189d343.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっちょよくてDeath！",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nca9c659659c10",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\n\nカッコいいですね〜❣️\n今度やってみます😆\n",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc7e6c21546c96",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちびサムライも仲間に入れてあげて🙋",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncaf5887e3e29b",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274998868/profile_4c39681710e612adb0ad2b992b727d67.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわぁ！！\nかっこいいですね✨✨✨\n\n3が好きです♡",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc742dd0c2f03e",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいいですね☺️✨\n\n厨二心をくすぐります❤️\n\n私は3が1番好きですね☺️",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncf77e143350e0",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276695362/profile_d7efbf364378189f86126918a30ac17c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよーございます☀\n\nこ、これはカッコいい😍\nやっぱり腕組むと映えるんですよ！\nラーメン屋もそうですしw",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nca29b6e593c51",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カッコいい！\n4が特に刺さりました！",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncbb133720d02a",
+          "user_name": "Tokyo Visual Moments",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256805436/profile_f81b26580159c31170149db5d92e55ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "鳥肌立つほどにカッコいいですね😳恥ずかしがったら負けw間違いないです😆",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "ncf01fe89bb8bc",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんといつかゲームのキャラデザしてほしいですw\nそれぐらいかっこいい！",
+          "article_title": "ヴィランを1体ずつ作っていたら、「終焉の評議会」みたいな絵ができた話",
+          "note_key": "n30fd3f84486c"
+        },
+        {
+          "key": "nc3db4d974e2c9",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーすごい！とっても嬉しいです。\n実はキタコレさんのツール使って作ったポスターや診断等\n記事にしたくて、下書きにいるんですけど、元の記事を探すのに\n苦労してまし…",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "ncfc68d733f1f3",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは(ルール)設計者あるあるで、一般の読者と設計者って密度が違うんですよ🐻 私の場合だと一週間触ってないと「大昔」みたいな感覚になる(笑)\n\n更に、機能を増や…",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nc7a46b5c89aeb",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "棚卸ありがとうございます！\nナニのビルダーかとっ散らかしてました🤣\n\n遅くなりましたが診断プロンプトも記事アップしました💦",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nca8f7ccab2c5d",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え～、昨夜、眠りにつく前に、当記事冒頭のポン出しビルダーの\nカスタムカードが33枚になったことをご報告いたします。\nマジで沼🤣🤣🤣\nKITAさんのせいやで(笑)",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nc4c5bd92ef54a",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\nPCのローカルフォルダのKITAさんツールフォルダーが散らかってます🤣\nこちら側も整理しないとって思えましたｗ\n\nツールの棚卸し＆再紹介…",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nc9c456df8fbd9",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274998868/profile_4c39681710e612adb0ad2b992b727d67.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n記事紹介ありがとうございます(ﾉ*>∀<)ﾉ\n\n棚卸しリスト見て\nなんだこれ！！って思って他の方の記事まで読破してきました。\n\n質問なんで…",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nc5660c216ae77",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさん❣️\n時間、足りない💦💦💦\n楽しみがありすぎて困る……\n時間を伸ばす魔法のプロンプト、作って欲しいデスww\n\n今週と来週は、お仕事休みにしたー✨🤭👍…",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nc86871465d34c",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キタコレさま！\nこんなにたくさんあるんですね！\nやっと１つ宿題が終わったと思ったのに…\n\nしろのあるさまとねんころさまの記事もちゃんと読まないといけないし、やる…",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        },
+        {
+          "key": "nc71bf70388b37",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あぁ時間がほしい。\n\nきたさん\nおはようございます〜🧜‍♀️",
+          "article_title": "作りすぎて作者が迷子になったので、KITAcoreツール図鑑を作った",
+          "note_key": "n98b264aec282"
+        }
+      ]
     }
   ]
 }

@@ -616,6 +616,131 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 544,
+        "likes_prev": 583,
+        "followers_start": 1210,
+        "followers_end": 1237,
+        "new_fans": 117,
+        "comments_total": 18,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "14:58",
+          "04:55",
+          "05:55",
+          "00:00",
+          "05:30",
+          "08:15",
+          "18:00",
+          "08:00",
+          "15:00"
+        ],
+        "top_article": {
+          "title": "黒パグの　#ChatGPTCreativeClub 活動日記　 そうだ、コミック作ろう④ 設定から先に進めない件　プロンプト配布あり〼",
+          "key": "nf641af135cc7",
+          "likes": 70,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "末吉宏臣（Hiroomi Sueyoshi）『noteで稼ぐ！』著者",
+          "urlname": "sueyoshihiroomi",
+          "follower_count": 29985
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nc3a6375efaf9a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんばんはー。\n流石業界の方だけあって切り込みの角度がおもしろいです。\nChatGPTとGeminiの出してきた画像私の中では\n逆だと思ってた。…",
+          "article_title": "デレ要素0のお題を投げたらなぜか全員赤面した話#ChatGPTCreativeClub 活動日記⑤ 指示プロンプトは正しく使え！",
+          "note_key": "ncdc760f56ef9"
+        },
+        {
+          "key": "nc62f0291cac34",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "生成AIの画像生成、本当にモデルによって個性が分かれるのだと、しみじみ実感しました。\n\nChatGPTは「豪華」な方向に。\nGeminiは「質素」な方向に。\nG…",
+          "article_title": "デレ要素0のお題を投げたらなぜか全員赤面した話#ChatGPTCreativeClub 活動日記⑤ 指示プロンプトは正しく使え！",
+          "note_key": "ncdc760f56ef9"
+        },
+        {
+          "key": "nc24847f8b0777",
+          "user_name": "Takeshi Nakayama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206986889/profile_a8fb2cc00d8ddb2c0dbc2d45ec138ba1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ウチのに訊いてみました\n\nいや、もう……完全にバレてしまいましたね。\n\n白状します。めちゃくちゃ叙々苑に行きたかったみたいです、当時の私（のシステム）。というか…",
+          "article_title": "ジェミニは叙々苑に行きたかった件　大喜利壁打ちから始まるカオス回",
+          "note_key": "n67bef7d53dd9"
+        },
+        {
+          "key": "nca3bcaadb24ed",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちはー。\nこれめっちゃ面白かったです💛\n\n翻訳を繰り返したら劣化する話かと思えば\nまさか人類文明ごと逆走していくとは思いませんでした\n最後の黒…",
+          "article_title": "Geminiに翻訳を繰り返させたら人類文明を逆走した　",
+          "note_key": "nebdf15381bf4"
+        },
+        {
+          "key": "nc979754b81329",
+          "user_name": "ネコイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259601493/profile_ad01def08966f3a0c92af327fe34b32c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もうダメお腹痛いｗｗｗ\n自由極まりないですねえｗｗｗ",
+          "article_title": "Geminiに翻訳を繰り返させたら人類文明を逆走した　",
+          "note_key": "nebdf15381bf4"
+        },
+        {
+          "key": "nc78352717ea3a",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スゴい✨✨⁝(ᵒ̴̶̷᷄⌑ ᵒ̴̶̷᷅   )⁝✨✨‼️\nめちゃくちゃ分かりやすい‼️\nダーウィンの進化論が、逆回転する感じです😳👍",
+          "article_title": "Geminiに翻訳を繰り返させたら人類文明を逆走した　",
+          "note_key": "nebdf15381bf4"
+        },
+        {
+          "key": "ncd8c5beb731d1",
+          "user_name": "こもりん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic3fd94079689.jpg",
+          "body": "こんにちは　黒パグさん\nわかりやすく教えてくださってありがとうございます。\nこんな仕組みだったとは....と言う感想です。\n",
+          "article_title": "note自動翻訳、5/27本番スタート——現時点で確認できたことだけ正直に報告する",
+          "note_key": "na280f8ddfc8f"
+        },
+        {
+          "key": "nca5971f54eba6",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは♪\n\n知らない機能ありました❣️\n勉強になる記事ありがとうございます♪\nコーデックスイマイチ何が出来るか\nわからなかったので、助かります😆\n色々使って…",
+          "article_title": "いまさら聞けないChatGPTの使い方【2026年5-6月版】",
+          "note_key": "naa0cab7b4272"
+        },
+        {
+          "key": "nc690ba44005c7",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コーデックスが使えたら便利だろうな〜と漠然と思っていたので、何ができるか、参考になりました🙏\nまだずうっと先だけど、いつか使ってみたいです😊",
+          "article_title": "いまさら聞けないChatGPTの使い方【2026年5-6月版】",
+          "note_key": "naa0cab7b4272"
+        },
+        {
+          "key": "nce4c0aa76e2a8",
+          "user_name": "無料枠AI探求者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242894576/profile_b212767aa24cf45bf6989373b9ddaeda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして。\nじじぃ@異世界旅行記です。\n\n分岐の話に目から鱗です！\n引き継ぎで何度泣かされた事か…\n\n書き始めた「この後どうなる？」は、引き継ぎをして、新し…",
+          "article_title": "いまさら聞けないChatGPTの使い方【2026年5-6月版】",
+          "note_key": "naa0cab7b4272"
+        }
+      ]
     }
   ]
 }

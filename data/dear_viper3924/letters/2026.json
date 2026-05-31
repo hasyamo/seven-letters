@@ -294,6 +294,542 @@
           "note_key": "n4ab5b9ff0f2e"
         }
       ]
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 438,
+        "likes_prev": 378,
+        "followers_start": 788,
+        "followers_end": 807,
+        "new_fans": 68,
+        "comments_total": 163,
+        "posts_count": 4,
+        "consecutive_days": 3,
+        "post_times": [
+          "21:30",
+          "21:00",
+          "21:30",
+          "21:30"
+        ],
+        "top_article": {
+          "title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "key": "nb777b7fe698c",
+          "likes": 89,
+          "comments": 49
+        },
+        "notable_reader": {
+          "name": "中年ジャンプ＠誰もが裕福になれる🌈フォロバ100",
+          "urlname": "chuunen_jump",
+          "follower_count": 12449
+        },
+        "commenters_count": 38
+      },
+      "comments": [
+        {
+          "key": "nc0bdec4fde532",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、熱量あふれる記事ですね！\n綺麗事じゃない「泥まみれのリアル」を伝えるはんくさんの動画へのリスペクトと、病院へ叩きつけるような力強いエール、最高にカッコ…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "ncc69ad9134a96",
+          "user_name": "あずなぶ〜る｜SNS弱者のnote戦略術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275786216/profile_29c1efe430325758615b12432dfbdfe5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、\n\nわたしははんくさん祭りには参加してないのですが、あの動画に感銘を受けて記事を書いた1人です✨️すごい動画ですよね。まさに仰るとおり「綺…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc5da5660224ca",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やほーかぁちゃん🩷\n防犯動画かきこみもしたよん٩(ˊᗜˋ*)و\n\n\nVIP待遇宣言しにきたw\n新しい動画はかぁちゃん動いてるよ✨w",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc34a3d72d58f4",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん☺️🌿\n\nはんくさんへの応援記事として読ませていただいたのですが、\nふらちゃんの「綺麗事では届かない場所へ届けたい」という想いが伝わってきました🥹✨\n…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc6033c77debed",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ピナ先輩の花魁よ母ちゃんに延髄蹴り喰らって目が覚めた。\n24時間点滴という片手の自由を奪われ、ロム専になるのも億劫だったところから今日解放された。味気ないおかゆ…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc3e345beb2c9e",
+          "user_name": "るこのみらい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん💕こんにちは\n\nはんくさんの応援記事は\n前に書いたけど...\n今回は、あの名作✨\n「防犯動画」応援なんだね？\n\nなんか、しばらくみんなの記事に\n遊びに行…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc1d082650c8ee",
+          "user_name": "mariko ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277081542/profile_183780aefec791806a7440b88bbe5608.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさんはじめまして。marikoと申します。熱い気持ちが伝わりました！どうして良いのかわかりませんが、応援します！記事を読ませて頂きいつも感動しな…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nce6f9364554b2",
+          "user_name": "れもな / Remona 🍋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236681380/profile_d56638529b2749324a7e0fcc1853d34b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\n昨日はコメントありがとうございました✨\n\n私も書いてかました（200円の紹介）",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc3d3c2e134b58",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "5000円の枠が増枠された時、「はんくさん太っ腹！」って誰もが思ったよねv(´∀｀*v)ﾋﾟｰｽ",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc868823223bdc",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさま\n\nNo.38の私も投稿しました🫡\n\n母ちゃんさまの熱い言葉の記事に心が動かされました✨ \n\n\n",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc3d00461cdf7e",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258383008/profile_b4f8015a113c9ae39e82957050a1ec62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、こんばんは〜🌻✨\n\nめっちゃカッコイイ〜〜〜😍✨✨✨\n\nいいですね💕\nふらちゃんがいれば、はんくさんも安心して入院できますね🥰\n\n私も中高生相手だっ…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc247c1c34a236",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280001931/profile_3eaba209fcd4c7d6a33e457ed4d341f1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おろ？　これはどう協力すればよいのかな？　はんくさん絡みは応援するよ\n\nでもどう応援していいのかわからんが\n取りあえず二時間動画は再生っと（笑）\n\nなんか紹介が…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "ncb2d7273cb118",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすが👍\n\n母ちゃんの本気はマジですごいです。\n\nお金じゃないですよね☺️✨",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc028a724b4273",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、熱量がすごい🤣\n\n「たかだか200円で、この母ちゃんが動くと思うなよ？」からの、全力で動いてる母ちゃんが大好き。笑\n\nでもほんと、綺麗な言葉だけじゃ届…",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "ncf762cc14aef6",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ素敵な記事w\n度肝を抜かせたいですね！",
+          "article_title": "綺麗事の100万文字より刺さる動画",
+          "note_key": "nddd050e94edb"
+        },
+        {
+          "key": "nc342338318a53",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃんの記事は、言葉が突き抜けてて、そこに膨大な愛があるので、癖になってしまいます🥰\n\n私もタラヲさんの記事を書くのですが、皆さんの記事を紹介したいので、画…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc8781a8398ccb",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん💖こんにちは😊\n\n重婚、大奥、カオス、爆誕……\nタイトルからすでに最高でした🤣\n\nタラヲさんのお誕生日をめぐる盛り上がりを、ここまで楽しく、…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "ncc56bdc8e8850",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃんだけ、漫画っぽいのが楽しい♪",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc8d07b34d6dd2",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\n前夜祭から盛り上がっていますね〜\nみんなチューしまくっていて😆\n母ちゃんさんのは息が止まるほど長かったですよね〜💞",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc1c8775d7481c",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かーちゃん、おはようございます☀️今回もめちゃくちゃ面白かったです、全員、重婚🤣🤣\n\nはんくにーさんの動画もすごかったですね🤣🙌✨そしてこういったバカ騒ぎを、楽…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc58d33ea99d7d",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "前夜祭から、盛り上がってるね！本番の今日も、盛り上がろう(^o^)／",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc8019c424dee1",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、おはようございます\n今回の記事も楽しく読ませてもらいました\n\nそれにしてもはんくさんの動画、毎回毎回すごいクオリティですね😁",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc4b7f2a90eabe",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん☺️🌿\n\n記事読ませていただきました〜🤣💕\n\n「男性も犬まで参加している重婚状態」\nって言葉で改めて見ると、なかなかのパワーワードですね😂💒🐶✨\n\n人…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc8ca461cf3709",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これだけ皆に「いじられる」人は、少なくともnote界隈ではヒトタラヲさん意外に存在しませんよね～！\nまさか、イブを狙うという発想に至るとは思わなかったため、不意…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc97f03443ac44",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、「最高に治安の悪い集団お見合い(？)騒ぎ」めちゃくちゃ笑いました🤣🤣\nそして、母ちゃんのはんくさんへの「深い愛情」に、じーん😢ときました✨このNTR動…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc6c00160d42d4",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん！\n\nええんやで。\n\nでも母ちゃんが結婚したらそれは、それで別のところでも重婚発生してるんじゃないですか？🤣🤣笑",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc54c5f3bd1ee2",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふーちゃん✨\n\n企画参加いただきありがとうございました🌸✨\nめっちゃ嬉しい！\nしかも、ソッチの花嫁姿を紹介されたのね？\nワタシの記事では、美しいふーちゃんの花嫁…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "nc60504e2fc557",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかオレの紹介みたいな感じもする('∀`)ﾉ\n\nさて、仕事は終わり見届けた。\n川の向こうでじいちゃんとばあちゃんが待っているよ。\nじゃぁ、ありがとうな、母ちゃ…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "ncf823bc7c2bd0",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やば！！\nクオリティが凄すぎて、こんなことしてたら入院伸びるんじゃ……💧\n\nキスシーン良いね♡\n途中、雪詠さんのとこだけタラ様じゃない旦那様だったような……キス…",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "ncacc54e3e4888",
+          "user_name": "さとりのさとり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226182676/profile_094199e7fa1bff58de5da5e07a1a43de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "びっくりしましたよう😆\n奥様方全員が\n一斉投稿するんですもん✨\n\n部外者もサプライズもらいました👍",
+          "article_title": "​【重婚注意】全員チュー！？今宵、狂気の『ヒトタラヲ大奥』爆誕。│重婚​│大奥​│誕生日​│カオス│​爆誕",
+          "note_key": "n0489d0db1801"
+        },
+        {
+          "key": "ncaf66f1ef2bcb",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、おはようございます\n今回の記事も面白おかしく読ませてもらいました\n\n可愛いモンスターに癒やされたかったのに、AIに「強くて泥臭い母の生き様」をしっかり…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "nc65817feaf35c",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは😄\n３段階進化、かっこいいです！\n母なる女神ですよ〜\n拝む準備出来てまーす💖",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "nc58ad575aa653",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "味方全体の回復、完全防御を兼ね備えた方が「駄女神」なんて、とんでもない！\n地母神、あるいは鬼子母神に近い格があると、確信しております。\n思い通りにならない体を抱…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "nc61fc0a8a9fcc",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266713080/profile_5b5025a9c074af902d3652fe76fc4dc1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん！\n\n僕も同じくいちごもんさんイベント参加しました！ふらつき母ちゃんさんの3段階進化に笑ってしまいました😂\n\nnoteそのものが生きた証です…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "ncd676b3f21c73",
+          "user_name": "UNI - 生きづらさを心地よさにデザインする - ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253397360/profile_fa4826c49a97809a840dccdfeaf069a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん😆\n\nカッコ良いです💘\n\n一度目でめげない母ちゃん、見習いたいです(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾✨\n",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "ncca76dd766fb7",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、もはや「母ちゃん」から離れられないのですね。別の自分の変身✨した姿が見たい！という気持ちはよくわかります😌\nでも、母ちゃんのまま「女神✨✨」になれてよ…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "nc659a61d8a1f4",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いやー、最初のふらつき母ちゃんのふらふらチャージが可愛すぎる！そして…ワンオペサバイバルが…どんどんレベルアップしていくところに、お疲れ様！と声をかけてあげたい…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "ncc7bace147d7d",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、フォロワー800人を超えたね！やったね！！これからも、地味な筋トレ続けていこうね(๑•̀ㅂ•́)و✧",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "nc8b8a80292a17",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "女神様、花魁化しましたのでご覧いただきたく存じます\nお気に召されればよろしいのですが・・・😌😌😌\nhttps://note.com/modern_holly38…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "ncd41a04ad81fe",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー✨\nお忙しい中記事にしていただいて😆🍀ありがとうございます〜🍓💕\n\n面白いっ🤣🤣まずサムネから面白かったです✨\n\nカードは、母ちゃんさんが日頃から頑張ってる…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "nc76adafb0abd1",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "可愛いモンスターじゃなかったけど\n泥臭くても、強くて、図太くて、愛おしい❤️\nそんなふらちゃんらしいカードだったね🥰🌿",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "ncb595be4b424b",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃーーん。私の記事使ってくれてありがとう♪いちごもんちゃんのプロンプト使っても、ふらちゃんのままっていうのが、びっくりでした💦私も自分のあれ、びっくりした…",
+          "article_title": "三兄弟育児の末路？モンスターカード生成でAIが突きつけた残酷な真実│AI│育児│モンスター│母ちゃん│エッセイ",
+          "note_key": "n8c8e15798401"
+        },
+        {
+          "key": "ncc9bbbe6e4e69",
+          "user_name": "haremithu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275787721/profile_a1cd7f33caccd2abc12f19b96be41bc8.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして😊\nスキ❤️ありがとうございます😊\nまなつさんの所からお邪魔しました✨\n色々な方に慕われてますね🥰\nエネルギッシュな記事、規格外なのは唯一無二の存在、…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc561173c5285d",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは♪\n\nカレー🍛コメントありがとうございました😊\n\n読みながら、面白くて笑ってしまいました🤣\n規格外素敵です💓\nVOIDさんのプロ…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc133433c240ba",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266713080/profile_5b5025a9c074af902d3652fe76fc4dc1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん！\n\n規格外のバグ、これは誰も真似できないです😂\nVOIDさん、余白ちゃん、KOTAYAさん、みなさん違うアプローチなのに共通点もあるのがお…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc321e8625ae75",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん！こんばんは♪\n\nだいぶ晒されてますね🤣✨w\nいや！曝け出してるのか🤩✨w\n\nでもふらつき母ちゃんさんの本音の部分がとてもグッときましたよ👏…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "ncdbfa2f16c1c2",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん✨\n\n余白ちゃんの“愛で包む翻訳”もすごいけど、\nVOIDさんのあれは、\nほんと地下室の扉ぶち破ってくる感じあるよねぇ…🤣🪓\n\n私も、\nあの翻訳があっ…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc3be7a31cb0f6",
+          "user_name": "鈴森よいほ｜AIコンテンツ／思想型クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280275395/profile_f95fbbb696e41e0aeca5babec263fd44.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "VOIDさんのAIプロンプトに負けない\nふらさんのパワーや底力を感じました😂\n\n切れ味鋭いやり取りが面白すぎました🤣\n笑っちゃいけないのかしら。。。\n\nそしてそ…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nce70ded1e48ca",
+          "user_name": "UNI - 生きづらさを心地よさにデザインする - ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253397360/profile_fa4826c49a97809a840dccdfeaf069a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん😄\n\n初めまして。\nまなつさんのnoteから遊びに来させていただきました✨\n\n画面から伝わるすごい迫力に驚きとたくさんの笑いをいただきました…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nce3eae40fab4b",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あのね、私、余白ちゃんとふらちゃんのイラストが、どっちがどっち？ってなること多いの。二人が作ったイラストというより、他の方が作ったイラストの見分けがつかない。こ…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc2d12ba35acb1",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いろいろな場所で解析されてて、愛されてますね(^^)❤\n\nそれにしても・・\nAIの文章が、辛辣すぎて笑いました・・😂\nどんなプロンプトで質問したら、この回答にな…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc4952cc82981a",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "光と闇、その両方を抱えながら進む、ふらつき母ちゃんは「それそのもの」が称号であり、プロンプトでは「名前をつけることができない」。\nあまりにもすさまじい結果に、愕…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc71ecb5392e56",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、動画を見いっちゃいました\n猛烈に泥の中を走り爆発を駆け抜けていて😹\n記事にとてもあっています　笑",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc264bf421002a",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "余白の分析は過去の母ちゃんの記事からしかできないからAIとかAIを使った分析のこたさんとかみたいには深いところまでなかなか研究ができないところがちょっと痛いとこ…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "ncc6d8019fc439",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "判定がでないというのもさすがですな！いつも感じますが全力で熱いパッション、いつも刺激になっておりまする。分析が三者三様で面白いでございますなー。",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc99adde865d75",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、おはよう\n人間とAIの両方から丸裸にされる体験、想像しただけで震えますが・・・血の通ったドス黒い本音の言葉たちに、思いきりシビれました！\n\n「体は時速…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc797244397d22",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん\n刺さりました・・VOIDアニキ女版⁉️\nもはやFURAアネキ😎✨\nサムネも文章力も、同じ種族ですね🦁‼️ \nふらちゃんがドンドン進化していて、今後も…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "ncd2ab79f25f53",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日は私が書いた紹介記事も出たし、母ちゃん人気者ですねv(´∀｀*v)ﾋﾟｰｽ",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "ncc9c411b0c16e",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレもさ言われた。残りの人生で今が一番若いって。\n母ちゃんとはせいぜいふた月がいいとこの付き合いだけどこの親密感はなんだろう？魅力はなんだろう？\n母ちゃんは毎日…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc8bae75aa712c",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、紹介ありがとう🥰\n\n外側を解剖したつもりの私。\n光を見つけた余白ちゃん。\n地下室の扉を叩き割ったVOID_404さんのプロンプト。\n\nこの三方向から見…",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc59908ddc9c07",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nこんばんは。\nこれだから母ちゃんさんの応援はやめられないんです…！\n泥の中を全力で走り抜けるとか、かっこよすぎますー！",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        },
+        {
+          "key": "nc3c1ac57a0fe6",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "称号の画像が営業fafaさんみたい。偶然かな……🐻",
+          "article_title": "​称号なしの規格外。私の「地下室」が暴かれた日│エッセイ​│生き様│​本音│​マッハ2│​生存戦略",
+          "note_key": "nb777b7fe698c"
+        }
+      ]
     }
   ]
 }

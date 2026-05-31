@@ -595,6 +595,52 @@
           "note_key": "n41bfade08108"
         }
       ]
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 311,
+        "likes_prev": 483,
+        "followers_start": 3164,
+        "followers_end": 3151,
+        "new_fans": 33,
+        "comments_total": 2,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "09:37",
+          "12:10"
+        ],
+        "top_article": {
+          "title": "フォロワーが伸びなかった”まいか🐇が、60日で300フォロワー増やした習慣 ｜AIイラストの魅力｜AIイラストの描き方｜NanoBanana ",
+          "key": "na01a470320f6",
+          "likes": 88,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 13406
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc18341f92ffeb",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。貴重なご指導ありがとうございます。",
+          "article_title": "フォロワーが伸びなかった”まいか🐇が、60日で300フォロワー増やした習慣 ",
+          "note_key": "na01a470320f6"
+        }
+      ]
     }
   ]
 }

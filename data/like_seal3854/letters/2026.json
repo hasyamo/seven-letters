@@ -347,6 +347,41 @@
         "commenters_count": 0
       },
       "rare_no": 3
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 176,
+        "likes_prev": 135,
+        "followers_start": 473,
+        "followers_end": 483,
+        "new_fans": 51,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:51"
+        ],
+        "top_article": {
+          "title": "東海家族旅行①｜1500キロの子連れドライブ旅",
+          "key": "n85d4c1c9cc12",
+          "likes": 106,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "みほ魔法💞⛩美保神社⛩",
+          "urlname": "happyaroma369",
+          "follower_count": 12178
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

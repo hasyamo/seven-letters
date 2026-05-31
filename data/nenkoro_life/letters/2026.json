@@ -2522,6 +2522,189 @@
           "note_key": "n3657cf436059"
         }
       ]
+    },
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 266,
+        "likes_prev": 203,
+        "followers_start": 1367,
+        "followers_end": 1405,
+        "new_fans": 56,
+        "comments_total": 42,
+        "posts_count": 3,
+        "consecutive_days": 3,
+        "post_times": [
+          "16:20",
+          "16:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い｜招待メールとnote設定の確認について",
+          "key": "n9dbfdcd27d9a",
+          "likes": 72,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "ハッタリ",
+          "urlname": "toichi_101",
+          "follower_count": 13689
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "nc22e367b0a2d9",
+          "user_name": "シクミ｜物販×AI収益設計",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278902047/profile_875a9e3c383bdda882a781770178343c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "会話AIというより作業AIだった、という表現が腑に落ちました。僕もAIをツールとして組み始めてから、チャットで相談する使い方とはまるで別物だなと感じています。新…",
+          "article_title": "MiniMax M2.7をClaude Codeで使ってわかった、作業AIとしての強みと注意点|Claude Code|AI活用|生成AI|AIツール開発",
+          "note_key": "n08660bf1de2d"
+        },
+        {
+          "key": "ncf47abf829feb",
+          "user_name": "よしこ｜続けたい人の横にいる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266470381/profile_96ce76092fe2ecbb3a6e023a1f66fd16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n\n格安SIMの喩えで少し分かった気がします😄\n\nでも、まだ混乱してる部分もあって…\n\n格安APIが活躍する時のイメージが湧かないんです😭\n\n英語…",
+          "article_title": "MiniMax M2.7をClaude Codeで使ってわかった、作業AIとしての強みと注意点|Claude Code|AI活用|生成AI|AIツール開発",
+          "note_key": "n08660bf1de2d"
+        },
+        {
+          "key": "nc4dd4a1a9c7a9",
+          "user_name": "そっとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206061612/profile_ba412f6971d5f160a7d790bccc58ba49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん本当にすごい…\nもう途中から「すごい」しかなかったです\nすいません、たぶん半分くらいしか理解してない状態での感想で申し訳ないんですが…\nそもそもこの…",
+          "article_title": "MiniMax M2.7をClaude Codeで使ってわかった、作業AIとしての強みと注意点|Claude Code|AI活用|生成AI|AIツール開発",
+          "note_key": "n08660bf1de2d"
+        },
+        {
+          "key": "nca3d82a2cb27f",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "また新しいことしてる！\nしかもばら撒きまくってる！\nどゆことーw\n\n新しいことするのって、記事書く以上に調べる時間が必要でほんと大変ですよねw\n\nいつもありがと…",
+          "article_title": "MiniMax M2.7をClaude Codeで使ってわかった、作業AIとしての強みと注意点|Claude Code|AI活用|生成AI|AIツール開発",
+          "note_key": "n08660bf1de2d"
+        },
+        {
+          "key": "ncf206113b08a5",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いやいや　ねんころさんのほうが使い勝手が上かとｗ\n\nっていうか、いつ読んでもうまく説明してますね・・・",
+          "article_title": "MiniMax M2.7をClaude Codeで使ってわかった、作業AIとしての強みと注意点|Claude Code|AI活用|生成AI|AIツール開発",
+          "note_key": "n08660bf1de2d"
+        },
+        {
+          "key": "nc190fac41830a",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんがキタコレさんのようなHTMLツールを作ったんですね！\nそこだけわかりました！\nふなさんがHTMLの説明してくれたから。\n\nボタンで画像生成できるら…",
+          "article_title": "MiniMax M2.7をClaude Codeで使ってわかった、作業AIとしての強みと注意点|Claude Code|AI活用|生成AI|AIツール開発",
+          "note_key": "n08660bf1de2d"
+        },
+        {
+          "key": "nc71e3ce11ee61",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんばんわー😊\n駆け込みました🤣\n昨日駆け込もうと思っていたのにできず本日駆け込みさせていただきました🙌\nこれからもよろしくお願いします✨",
+          "article_title": "【6/1開始】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術 | AIツール | 生成AI | Gemini | ChatGPT |",
+          "note_key": "n670e4486ed4f"
+        },
+        {
+          "key": "nc23a50c847ea1",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、\n\n実は、毎月メンシプ入ろうか迷ってるんですけど…\nついに駆け込む時が来たかも🤭",
+          "article_title": "【6/1開始】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術 | AIツール | 生成AI | Gemini | ChatGPT |",
+          "note_key": "n670e4486ed4f"
+        },
+        {
+          "key": "nc1700cf1ec12b",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい✨👏👏✨✨⁝(ᵒ̴̶̷᷄⌑ ᵒ̴̶̷᷅   )⁝✨‼️\n\nズボめじゅに、絶対ジャストフィットする✨👍😖✨\n\nお忙しい中、感謝感謝😭😭🙏🏻✨💕です🫶\n",
+          "article_title": "【6/1開始】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術 | AIツール | 生成AI | Gemini | ChatGPT |",
+          "note_key": "n670e4486ed4f"
+        },
+        {
+          "key": "nc18d56991c1d4",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさま💓\nジェミニでも使えるんですね！\n進化が止まらないから、ついて行くしかないです✨\n\nとにかく記事を書いたあと、チェックしてもらえるのがいちばん安心で…",
+          "article_title": "【6/1開始】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術 | AIツール | 生成AI | Gemini | ChatGPT |",
+          "note_key": "n670e4486ed4f"
+        },
+        {
+          "key": "nca90588c68072",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n\nすごすごのすご！😆\n直接貼れるのとか\n文末のお知らせとか、使ってみたい便利機能が満載です✨\n\n楽しみに待ちます⭐\n\nホントにありがたいです😆\n",
+          "article_title": "【6/1開始】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術 | AIツール | 生成AI | Gemini | ChatGPT |",
+          "note_key": "n670e4486ed4f"
+        },
+        {
+          "key": "ncd9c3d8908be5",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃすごい！！\n早く使いたい！！！\n\nていうか、こんなことまでできるようになったなんて⋯\nつよつよのつよだね！！\n\n6/1、楽しみにしてます～🥰",
+          "article_title": "【6/1開始】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術 | AIツール | 生成AI | Gemini | ChatGPT |",
+          "note_key": "n670e4486ed4f"
+        },
+        {
+          "key": "nc842d6cabc3a5",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは\n\nすいません🙏DMで来るものだとばかり思ってました。失礼しました。\nnoteのメールが多すぎて勢いでゴミ箱に送ってしまっていたと思いま…",
+          "article_title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い",
+          "note_key": "n9dbfdcd27d9a"
+        },
+        {
+          "key": "nc88ec384a8c8c",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企画の開始、まずはお疲れ様でした！！",
+          "article_title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い",
+          "note_key": "n9dbfdcd27d9a"
+        },
+        {
+          "key": "nc3238b6d28b1b",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、\n申し訳ありませんー！！\n私もメールを見落としてました💦\n多分参加できたと思いますー😅\nよろしくお願いします✨",
+          "article_title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い",
+          "note_key": "n9dbfdcd27d9a"
+        },
+        {
+          "key": "nc2cd5bd8f6520",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n執筆お疲れ様です🌟\n\nメールを見落としていましたー💦\n今、共同マガジンに参加できたと思われます⭐\nよろしくお願いいたします😄",
+          "article_title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い",
+          "note_key": "n9dbfdcd27d9a"
+        },
+        {
+          "key": "nc4d5ec58ad0ab",
+          "user_name": "みるぷり｜夢見るフリーランス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279566734/profile_aa919e703ad47b324435cfdf0322bc9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーんおはようございます☺️\n\nこの記事みて慌ててメールチェックしました😅\n助かりました🥰ありがとうございます✨️",
+          "article_title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い",
+          "note_key": "n9dbfdcd27d9a"
+        },
+        {
+          "key": "nc42705af5a0fb",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n忙しそうですね〜😎！\n丁寧な説明記事流石ですね🤭\n\n不明点は特にないんですがコメントしたくてしております🫡笑\n\nなかなか納得のいく記事が書け…",
+          "article_title": "PolloAIxしろねんコンテスト共同マガジン参加完了のお願い",
+          "note_key": "n9dbfdcd27d9a"
+        }
+      ]
     }
   ]
 }

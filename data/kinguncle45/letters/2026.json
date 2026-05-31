@@ -1,0 +1,517 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W22",
+      "period": {
+        "start": "2026-05-25",
+        "end": "2026-05-31"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1168,
+        "likes_prev": 1557,
+        "followers_start": 1173,
+        "followers_end": 1173,
+        "new_fans": 104,
+        "comments_total": 125,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "18:00",
+          "18:00",
+          "18:00",
+          "18:00"
+        ],
+        "top_article": {
+          "title": "エッセイ：Kingの本音",
+          "key": "nd3b15e59ffd1",
+          "likes": 264,
+          "comments": 62
+        },
+        "notable_reader": {
+          "name": "天豆　てんまめ",
+          "urlname": "tenmame0720",
+          "follower_count": 21817
+        },
+        "commenters_count": 39
+      },
+      "comments": [
+        {
+          "key": "nc6d1c7253bdfc",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "ncecd03e460aec",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すげ〜、24TBのハードディスク？\n画面もでかいし、実は、懐もでかいんだね？😇",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "nced562cddb4c5",
+          "user_name": "おにぎり＠構造翻訳家～正解より先に、まずは視界を取り戻す～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265265465/profile_7ac7501a97e36e7a2efe9f88515af612.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！いつもマガジンに入れてくださり\n本当にありがとうございます✨✨✨\n\nわたしも夫に昨年末「ちゃんとゲームするから、ゲーミングPC買って？」と\n小さなゲ…",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "ncaae2e40b7752",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ✨️さすがKingさん\n見やすさもだいじですねぇ〜",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "nc01e7efef7a0d",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うっひゃー！パソコンもKingですなー！\nでもあちきはみっけた！\nXbox ワイヤレス コントローラー　これはわいも使っておりましたぜ！\n娘とiPadでMine…",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "nc0d7f4e0ba4ae",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280175768/profile_e9b8115d4e8a61b9d3a6439776b73e24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nすごっ、、ゲーミングPCってお値段こんなするんですね😳\nいろんなガジェット組み合わせて自分仕様にするの、男心くすぐられました。\n",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "nc7f46295a6bbb",
+          "user_name": "たーゼ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267491936/profile_b274aede9a61c347dfc7d9213ffbeed9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "高そう…PC無い、たーにはよく分からん\n世界だが、Kingさん🌸✨✨\n\nありがと〜🧑👼🍭✨✨\n最近、コメント出来ない時も発生💦\n\n許してちょん🌸🐥🌸✨✨✨✨",
+          "article_title": "KingのPC関連機器紹介",
+          "note_key": "n8e6e558e0595"
+        },
+        {
+          "key": "nce69a510beb95",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc384f27866313",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます\nまた、記事の高評価、ありがとうございます",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc4ea1d41c8e5f",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nなんだかコメ返に｢色鉛筆がない｣というオチがチラチラと見えるのですが…笑\nいつもマガジン追加ありがとうございます！\n",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc5bf2de84d4d7",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😃\n\nぬりえって結構難しいですよね😆\n大人になってから塗り絵の体験に行ったことがありますが、\nトマト一つ塗るのに、何色も丁寧に重ね塗りし…",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc336d9adaec9c",
+          "user_name": "sc_fun｜AI×note収益化サポート😺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238585370/profile_d3940d29208e16d8c13feedce8989fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、ぬりえって小学生以来ですよ🙂\n\nKindle…ではなさそうですね。\n\nAmazon経由で買ったということはそういうことか。\n\nKingさん、「ぬり…",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "ncda1c4753cca9",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌛*゜\n\n早速レビューを書いてくださって嬉しいです！😭🩷\nそして、マガジンを先頭で紹介してくださるなんて✨\nいつも本当にありがとうござい…",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc529a1d2381fa",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょっと、見直しちゃいました👍",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc23d192487330",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\nあまねさん、noteの世界からぬりえ帖の出版までされていらっしゃって本当に凄いですね！！😆✨",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "nc6018ada1e2ee",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あまねさん喜びますね😊\n実際に買ってレビューまで書くの流石です👍",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "ncadc633400e89",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊こんにちは✨\n\n記事を読みながら、実際に手に取られた嬉しさが伝わってきました🌸🌿\n応援したい気持ちが行動につながるって素敵ですね😊\n完成した作品も…",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "ncec4fa1de20dd",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267718350/profile_d73fda1af8e66cc2c55152264f38ff50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは！\nこんばんは！\nこの度も、マガジンに私の記事を追加していただき、ありがとうございます！\n\n偶然キングさんの記事を読ませていただいたので…",
+          "article_title": "あまねさんのぬりえ帖を買ったぞ！",
+          "note_key": "n609d44cd15e5"
+        },
+        {
+          "key": "ncdce48f42bec5",
+          "user_name": "五條シンジ｜『Snowdrop Surfer』著者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263243256/profile_d0e5a60e70723ba546f0bf5528b96c24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんにちは。\n\nいつもありがとうございます。\n\n『苦しい時や孤独な時に反応してくれた人を、大切にしたい』\n\n自分も本当に、Kingさんをはじめ、K…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nce945cfb54b6a",
+          "user_name": "Ｊ子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275777517/profile_e9aceb14cfad7b1e599d8d39f6ec0db6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん　おはようございます♡\nマガジンに記事を紹介して頂き\nありがとうございました😭\n今日も頑張れます！\nスキ💓がつくって\n嬉しいですね^ ^\nこれからも…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc88fc89d99dae",
+          "user_name": "のあ｜自分に戻る思索note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244581020/profile_a075505b43aab98267d3b165ed95521a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nおはようございます。\n\n僕も久しぶりに自分のこと（まじめ系？笑）の記事を書きました。\n\n苦しい時や孤独な時に反応してくれた人は、大事にしたいと思う…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc028767c532b4",
+          "user_name": "たび.　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259902729/profile_b80db7bab49f37404000d03424d13de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは！\n\nいや～、おっしゃるとおりの状況です。\nこういった類の記事を書いてみても、まあ、劇的には増えませんし。\nあとは、地道に研鑽を積んでい…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc91524ff085c2",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは☘️\n\n素敵なマガジンへ掲載していぢきありがとうございます😊\nいつも感謝です🍎",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nce2e8381d5c2f",
+          "user_name": "sc_fun｜AI×note収益化サポート😺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238585370/profile_d3940d29208e16d8c13feedce8989fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、まさに初期の頃の私を思い出します。\n\nnoteを始めてから3日間くらいは自己紹介以外だとスキ数が1とか2なんて当たり前というかザラにありました。\n…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc0558ad408ebe",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは🌙✨\nよく拝見させていただいているのに、なかなかお声がけできずに、すみません🙇‍♀️\n私は今kingさんの初期の状態です😅\nフォロワーは…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nce9af62a49705",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242853208/profile_868cf0850d54d0a98ca0406d82454cfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは☀\nいつもマガジンへ記事をお迎えして下さりありがとうございます😊🍀\nKingさんの優しさが伝わる記事でしたねぇ✨",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nca2ac62913d49",
+          "user_name": "心理士ゆみこ｜支援者こそ、世界一幸せでいい。",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic3fd94079689.jpg",
+          "body": "kingさん、はじめまして。私の記事もマガジンにシェアしてくださり感謝しております😌✨️これからも投稿楽しみにしています。まずはご挨拶まで♡ 心理士ゆみこ",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc6f0a724187a3",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん・・(;_;)\n\n自分のために書いているとはいえ、やっぱり反応がもらえると嬉しいですよね・・✨️\n\n普段はあんなにおもしろいのに・・・\n\n中ではこん…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncb0d58906b2af",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん☺️\n\n素のKingさんの思いを知って、またさらにKingさんを好きになりました🥹🌈\n\n「苦しい時や孤独な時に反応してくれた人は、大事にしたいと思う…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc60d6304f94e7",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272850856/profile_5078d7016e37422cee3be424742ee433.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんが過去記事をマガジンに拾ってくださって、またスキが増える♡という現象に感謝してます😊✨",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncbdacc70f4633",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255750674/profile_80ee0ac532bef7940f81afda8d8e8a77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "​Kingさん、おはようございます🌞\n「書きたいから書く」という言葉が、印象に残っています。\n​「いいね」や数字だけを目当てにしていると、それがもらえないとき、…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc3cb1599e71a1",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初の頃は、書きたいから書く。\n\nただそれだけのつもりだった。\n\nとはいえ、やはり反応があると嬉しいものだ。\n\nあー、そうそうそうなんですよね。反応があると嬉し…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc4f5b81e41544",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\n初期の頃のスキが少なかった時期のこと、そして、苦しい時や孤独な時に反応してくれた人を大切にしたいという言葉が、とても胸に残りました。\n\n反応が…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc9903407e3ae0",
+          "user_name": "ゆらゆら/日常の解像度を上げる人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263450773/profile_81f4599be08bbfd2fb1d6abb8143c925.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは\nいつもマガジンへの掲載ありがとうございます！\nいつもありがとうございます！\n感謝です(*'▽')",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc3bd630bb8e08",
+          "user_name": "K｜病院事務出身×シンギュラリティに備える人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258035373/profile_998b98a99056dfaae7b85fbee4a6d1bc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは！\nいつもいつもありがとうございます😊✨\n本当にそう思います！！\n反応してくださる方々には感謝しかないです😭",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncad8178a42bc6",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😄\n\n初めの頃から来てくれている方々は\n本当に大切な宝物だと思います💖\n素敵なお話ありがとうございます。\n\nいつもありがとうございます😄",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc0651986423b0",
+          "user_name": "KANA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219340642/profile_093a76476fb30e2d02f549068e480940.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\nお呼ばれして来てみたら、本当に素敵な記事でしたわ♡\n\nスキが一つ、二つだった頃のことを、今もちゃんと大切に覚えていらっしゃるところ…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc1c8acff3ca6b",
+          "user_name": "龍神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/195297097/profile_8bc9db642d186cf7b66339af17c27bd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n読ませていただきました。\n\nこれは、とても大切な本音ですね。\n\n今ではたくさんのスキが届くようになっていても、最初からそうだったわけではない。\nス…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc7ceba492bd4e",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは\n\n「自分も誰かにとってそういう存在になれたらいいなと思う」\nという一文を、静かに読ませていただきました\n\n苦しい時に反応してくれた人を…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc2c53a7a064ec",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは🌕\n先日は討伐ありがとうございました。(笑)\nKingさんには引力があります。\n明るい人特有の。\nそして、いつか瀬海歩も友人やライバルと…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc459eee5de61e",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは😊\n\nいつもありがとうございます⸜🌷︎⸝‍\nスキとかコメントをいただけるとすごく嬉しいし、励みになりますよね🥺\n\nKingさんにコメント…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncbfebeda0c983",
+          "user_name": "やも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258648405/profile_ee869852783a5a9a11d34fd10d919f33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんにちは😊\n\n初期の頃のフォロワーさんは戦友みたいなものですね\n\n記事の最後のところですが、\n\n「苦しい時や孤独な時に反応してくれた人は、大事に…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncb598c160e82d",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271470614/profile_112e71abeaceddb2ab033b49d5f56568.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n初期の頃の話、\nグッときました。\n\n私にとっては、\nどこまでが“初期”なのかはわかりませんが、\nずっと励みになっています🌙\n\n今後ともよろしくお…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncde97429416a6",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨️\n\nいつもお世話になっております🙇\n私はKingさんの黒歴史や面白Song大好き♡\nこれからもヨロシクです♪",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc951db3c9f279",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nこちらからもこんにちは！\nいつもありがとうございます。素のKingさんの投稿。\nなんだかソワソワしますが、\n偉大です！\nラッキーをくださっている…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "ncb0a6286d4815",
+          "user_name": "えらん堂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242221069/profile_508d7605146c8d0a2207c10ec053fe6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは\nKingさんのような方ならフォロワーさんが増えていっても初心を忘れずやっていけると思います\n今後ともよろしくお願いします",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc8b33f93cf3dd",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日は、素で書いていますね！\n私も、最初の頃は、スキとか付くのかな〜と思いました。\nまぁ、いろいろなクリエイターさんに助けてもらって、今があると思います。",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc89d0942ae587",
+          "user_name": "境界をまたぐ心理士【振り子】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253068092/profile_684215ad7eba3d124844155dff223a1b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは✨\n\nきっと今も継続できているクリエイターさんのほとんどが、駆け出しの頃に他のクリエイターさんから助けられてますよね(特にメンタル的に)。\nだからこそ…",
+          "article_title": "エッセイ：Kingの本音",
+          "note_key": "nd3b15e59ffd1"
+        },
+        {
+          "key": "nc449238f2e3be",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nマガジンに掲載して頂きありがとうございます！\n\n夢の分析、笑ってしまいました😂量子コンピュータの『気にしすぎ82%』という回答が絶妙ですね。\n\nあ…",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "ncc711cffe86d9",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255750674/profile_80ee0ac532bef7940f81afda8d8e8a77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "鏡の中に映った「ヤツ」の話、最高でした😀\n笑いながら読んでいたのに、途中で「あれ、これ自分も覚えがあるかも、、、」とドキッとしてしまいました。\n自分の中に、普段…",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nc8a44eae23479",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nce22979575df6",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nc31774ea2ff9b",
+          "user_name": "さみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270114176/profile_0b08f44532cc428a0ce179681ac05951.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "だんちょー🍀\n良き睡眠をー🤣笑🌈　🍊",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nc40f47f97eb2c",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは〜⭐️\nもう寝て下さいね〜💤\nまた夢見ますよ🤣\n\nいつもありがとうございます💖",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nc5c9c6fc33503",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "笑う〜\nまるで、コントみたいですね\nウケる",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "ncfcfbded854c6",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん🤣🤣\n寝不足〜🤣🤣🤣笑笑\nいつもありがとうございます😊✨",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nc106ec162e2dd",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "団長🤣🤣🤣\n夢の内容を過度に気にしすぎる確率82%\nさすがハイスコアすね😂",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nca5b07cf6725a",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ラッキーで締めるのズルいですね✌️",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        },
+        {
+          "key": "nc11a614724059",
+          "user_name": "たーゼ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267491936/profile_b274aede9a61c347dfc7d9213ffbeed9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後がちと分からなかったけど、\nミラクルラッキー認定です👼👍✨\n\nイェーイ🧑🍭✨✨🎶🤗🌸✨✨",
+          "article_title": "第30話：団長の変な夢②",
+          "note_key": "n2d14f53155e6"
+        }
+      ]
+    }
+  ]
+}
