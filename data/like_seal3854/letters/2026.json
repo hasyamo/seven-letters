@@ -382,6 +382,76 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 257,
+        "likes_prev": 180,
+        "followers_start": 482,
+        "followers_end": 507,
+        "new_fans": 68,
+        "comments_total": 10,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "14:03",
+          "18:14"
+        ],
+        "top_article": {
+          "title": "アンパンマンが家族をつないでくれた話",
+          "key": "n79afe135492e",
+          "likes": 109,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "みほ魔法💞⛩美保神社⛩",
+          "urlname": "happyaroma369",
+          "follower_count": 12332
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc67fcd4346b41",
+          "user_name": "ミナト|みんなのAI×特別支援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185494/profile_29acfa6c94419d4f73303316896a686d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "3歳と1歳のお子さんを連れての1週間旅行、本当にお疲れ様です！朝5時半起きから全力で楽しむのぶパパさんご夫婦のスタンス、とっても素敵ですね。娘さんが1年前はハイ…",
+          "article_title": "東海横断旅行②",
+          "note_key": "n36c9b6e79f13"
+        },
+        {
+          "key": "ncb844e4e9adf4",
+          "user_name": "キニキニ⁠✧泥くさ毎日にオシャレを🪄🫈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268031168/profile_4f77c3ad6b5685efd46fbc96383129d4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼致します🙏🏻✨\nめちゃくちゃ良いですねー！😍娘さん可愛いですね😍次男も、ようやくアンパンマンのストーリーが分かって来たみたいで…\n神戸から連れて行っ…",
+          "article_title": "東海横断旅行②",
+          "note_key": "n36c9b6e79f13"
+        },
+        {
+          "key": "nc067c84682849",
+          "user_name": "気ままなママに生きるママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266305979/profile_177f1c2ccc1b229fd7986f73935098d4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん\nいつもスキをありがとう\nございます😊\nうちの娘もアンパンマン\n大好きな赤ちゃん時代でした。\n\nアンパンマンの優しさは\n偉大ですよね✨\n誰かの為、見…",
+          "article_title": "アンパンマンが家族をつないでくれた話",
+          "note_key": "n79afe135492e"
+        },
+        {
+          "key": "nc42951249be9c",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のぶパパさん、\nお疲れ様です☺️\nアンパンマンミュージアムって子どものためにとおもっているのに、大人の方が考えさせられて勇気づけられています。\n高知県は本当にこ…",
+          "article_title": "アンパンマンが家族をつないでくれた話",
+          "note_key": "n79afe135492e"
+        }
+      ]
     }
   ]
 }

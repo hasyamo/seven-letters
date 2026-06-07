@@ -512,6 +512,638 @@
           "note_key": "n2d14f53155e6"
         }
       ]
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1243,
+        "likes_prev": 1254,
+        "followers_start": 1183,
+        "followers_end": 1220,
+        "new_fans": 122,
+        "comments_total": 173,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "12:00",
+          "18:00",
+          "18:00",
+          "18:00"
+        ],
+        "top_article": {
+          "title": "エッセイ：基本的なコミュニケーションについて",
+          "key": "n7b232e0c8d63",
+          "likes": 219,
+          "comments": 54
+        },
+        "notable_reader": {
+          "name": "Kusabue／現代語俳句",
+          "urlname": "kusabue",
+          "follower_count": 21508
+        },
+        "commenters_count": 38
+      },
+      "comments": [
+        {
+          "key": "nc503af1a02064",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc6cd52132c887",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ〜、最初の曲は、パンクロック？\n笑う〜\nでも、良かったじゃないですか👍",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc46ad22820630",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みんな遊んでますね😆\nさすが実力派👍",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc5b9057ed964e",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん！\n\nエンゲージメントMAX❣️\n\nそしてスキ率脅威の25%超え‼️\n\nちゃんとすごい人が高い評価で安心しました笑\n\n遊んでくださり、さらに記事にし…",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc1aeb4cd00e2e",
+          "user_name": "持たざる者の再起録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256022750/profile_9bbd6c1baaf11ecb978687248758b24e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん🫠\n\nまたマガジン追加本当に感謝です。\n\nnote偏差値すごい面白いですね😊\n\n僕もやってみようかな？笑\n\nこれからもよろしくお願いします🙏",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc5f40bcc51ce7",
+          "user_name": "月が綺麗ですね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257275284/profile_60facf29c58d7534bf2094f0993df55c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n追加いつもありがとうございます✨\n\n「限界」は笑えるし、「孤独」はほろ苦いし、色んな一面があって…\nいつも本当に味わい深いなあと感じています😊\n…",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "ncf493f75b9035",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nいつもありがとうございます♪\n\n限界突破のスキをいつもいただけることに感謝です！\n偏差値80狙って良いですよ🤭\n\n今後ともよろしくお願いします！",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc67948a94c808",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nお疲れの所失礼します。\n「孤独」も、この歌で「哀愁」に変わり、なんか魅力的にみえてきました。",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc642891f70fb6",
+          "user_name": "やも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258648405/profile_ee869852783a5a9a11d34fd10d919f33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キンさん、こんにちは！\n\nキンさんもやってたんですね🫪！\nうわーっ負けちゃった😱\nけっこうやってる方いらっしゃるんですね🫪\nふぁふぁさん、すごいなぁ。\n\nキンさ…",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nce0628355a961",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😆✨\n\n凄いですね！！！🤩🎉\nおめでとうございます🎊\n僕はDでした〜〜🤣🤣笑笑\n\n販売がないことと、投稿頻度が欠点ポイントでした🤣🙌笑笑",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc01de2ce4d8c5",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nたくさんのスキおめでとうございます🎉\n\nいやぁ〜私のおかげなんて…🥰",
+          "article_title": "Note偏差値！おまけ付き😆",
+          "note_key": "n8cac8598278c"
+        },
+        {
+          "key": "nc23c25cc1a23e",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは。\nいつもありがとうございます😊\n\n基本的なコミュニケーション、大事ですよねー。\n\n趣旨は少し違うかもですが、\n\n「恐れ入ります」\n「〜…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc86db7a36ab18",
+          "user_name": "持たざる者の再起録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256022750/profile_9bbd6c1baaf11ecb978687248758b24e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読んでて、じんわりきました。\n\n当たり前のことって、実は一番難しかったりしますよね。🙂\n\n忙しかったり、余裕がなかったりすると、ついスルーしてしまう。\n\nでもそ…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "ncfdc21beb1ef6",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n当たり前のこと、シンプルだけど大切なことですよね！\nぼくもそういう一言を自然に伝えられる人でいたいです✨\nいつもありがとうございます！",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc66651c699b25",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん こんばんは🌠\n\n本当は難しいことかもしれませんね。だって、相手の心の中まではわからないですもの。それでも心を込めて気持ちを込めて伝えれば届く。\nき…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc0ed429f2bd6c",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255750674/profile_80ee0ac532bef7940f81afda8d8e8a77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、読んで胸があたたかくなりました。\n「お大事に」「おめでとう」、これらは単なる定型句ではなく、相手の存在をちゃんと見ていることを伝えるための大切な合…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc88b5467d8aa6",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは\n\n「自分もそういうことが言える人間になりたい」\n読みながら、自分のことも静かに問い返していました\n\n当たり前のように見えて、実際にその…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc23a8b0318f7f",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc64219eb4fd2c",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279549033/profile_3d53a17ce59c090b43145099e9a86669.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "その時，その時で適切な声掛けできる人って\nほんまにステキ💓ですよね✨️👏🏻(⸝⸝⸝⸝神∀神⸝⸝⸝⸝)👏🏻✨️\n\nありがとうございます😊",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nce70cd128c56e",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279549033/profile_3d53a17ce59c090b43145099e9a86669.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "その時，その時で適切な声掛けできる人って\nほんまにステキ💓ですよね✨️👏🏻(⸝⸝⸝⸝神∀神⸝⸝⸝⸝)👏🏻✨️\n\nありがとうございます😊",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc029c15aeb76a",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん☺️\n\nKingさんのコミュニケーションに毎日救われております🥹✨\n　\nいつもありがとうございます😊✨",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc2308a7c40fd8",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます😊\nいつもありがとうございます⸜🌷︎⸝‍\n\n相手の状況に応じて、何かひと言声をかけられるといいですよね〜☺️\n\nわたしは思ってて…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc18cbd9c06b1c",
+          "user_name": "『月灯りの綴り屋』🌕ﾌｫﾛﾊﾞ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/195342680/profile_b6e872945f0a395808553e7d3c8312a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nおはようございます☀️\nマガジン追加ありがとうございます🙇‍♀️\n\n自分が疲れている時など周りの声が背景に溶けてしまう感覚\n\nそんな時に掛けてい…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "ncbc6c690e2426",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253657159/profile_e3d1ed5fc794d04266be9932b804beb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "基本的なコミュニケーション、本当に侮れないですよね。\n声をかけられた側はもちろん、声をかけた側も少し優しい気持ちになれるという意味で、これぞ究極の「ミラクルラッ…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "ncdc34ac3dc6f5",
+          "user_name": "どこかにあるはず日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282074580/profile_9c2c5eb851fb9683d6fbf4a0746dc63c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シンプルな一言で気持ちは十分伝わるんですね♪\n\nありがとうございます😊\n",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc9e4d6119cbcd",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😄\nいつもありがとうございます✨\nマガジン登録もありがとうございます😄\n\n簡単なことのようで、できなかったこともあるかも。。。\nなんてこ…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc80234d97428c",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "King さん\nその通りだと思います！\nいつもマガジン追加ありがとうございます！ﾋﾞｼｨｯ",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc0a08ace7ada4",
+          "user_name": "さくさく|人生の不安に寄り添う相談室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276714619/profile_61f6d53d099641cf91b77a723cab640b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\nシンプルなこと。\nとっても大切なこと。\n大切なことなのに出来ないことがあります。\n\nシンプルなことを大切にできる人でありたい…と\n…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc7ac7f43dc2b5",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い共感します。\n私も、見習います。",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc69f9ec82d020",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271470614/profile_112e71abeaceddb2ab033b49d5f56568.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もそんな人になりたいです🌙",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nca8e71fd4c287",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nいつもありがとうございます♪\n投稿お疲れ様です。\n\n前回の闇落ちロックからの、綺麗な内容に読み返しました。\n夜更かし、又は二日酔いしすぎたのでは…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc1401b21ee240",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読んでいて、心がそっとあたたまるようでした。\nKingさんが書かれている　“当たり前のひと言”　って、\n本当にその瞬間の誰かを支えてくれる大切なものなんですよね…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc3e991dbb2954",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もそんな人になりたいです🩷",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc6532a20f1372",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊こんばんは🌙\n\nほんの短い言葉でも、\nその時の自分を気にかけてもらえたと感じるだけで、\n救われることがありますよね。\n\n特別なことではないように見…",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc98ecbd1bc819",
+          "user_name": "幸せの架け橋カエル｜境界線ケア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209698581/profile_ba002a3bb07b319e0311b6b0b05faf9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、いつもありがとうございます🐸✨\n\nいつも記事が、きめ細やかな配慮をされているなぁっと感心して拝見させていただいてます🧡\n\n",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc179a74e17772",
+          "user_name": "境界をまたぐ心理士【振り子】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253068092/profile_684215ad7eba3d124844155dff223a1b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回の記事はしっかりスキを回収しに来た感じですね🤣✨\n\n無難な記事も素敵です🥰笑",
+          "article_title": "エッセイ：基本的なコミュニケーションについて",
+          "note_key": "n7b232e0c8d63"
+        },
+        {
+          "key": "nc046e2f8a9ebd",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　こんばんは🌟\n\nいつも記事をマガジンへ掲載していただき、本当にありがとうございます🙂‍↕️これからも自分のペースで無理なく言葉を綴っていければと思…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "nc577e33d86cc9",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは🌕\nいつもありがとうございます。\n時々うたれ病になられるのですね。\nピンク色の髪の方の電子書籍を買いました（ウインク）\n三日酔いという単…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "nc65774da1ec3f",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは✨\n\nマガジンへの追加とスキをありがとうございます☺️\n\nプレイリスト、楽しみに聴かせていただきますね☺️\n\nいつもありがとうございます…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncf450eaff4c46",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😆\n\n洋楽もいけるのめちゃくちゃ凄いですね！！！😆✨\n\nまさかのウタレ病のワード笑ってしまいました🤣🤣笑笑\n\nいつもありがとうございます😊✨",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncbf5e81b0be68",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんの趣味が丸出しのリスト！！笑\n\n最初にでてきた、アリスインチェインズのPV見ましたけど、すごく９０年代っぽいですね～＾＾\n\n昔の歌手って本当に歌上手…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncfac676dbce2a",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいつもありがとうございます\nきじ、マガジンへの追加、感謝申し上げます\nまた、記事の高評価ありがとうございます",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "nc3f840a08280b",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😄\n\nギターウマ！ウタレ病も好き\n90年代何聞いてたかなあ〜",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "nc6f48bbc073e6",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊こんばんは🌙\n\n90年代オルタナ・グランジ系のプレイリスト、\nKingさんらしい選曲とコメントで楽しく読ませていただきました。\n\n音楽の好みって、…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncce670e3a82f8",
+          "user_name": "sc_fun｜AI×note収益化サポート😺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238585370/profile_d3940d29208e16d8c13feedce8989fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんの好きな曲、その一面を垣間見えました😀\n\nこれは洋楽のジャンルを集めたものでいいのかな？\n\nでは邦楽ではどんな曲が好きなのか、あとプレイリストいいで…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncdb3b66b07385",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267718350/profile_d73fda1af8e66cc2c55152264f38ff50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは、\n昨日はコメント欄で失礼しました。\nそしてこの度もマガジンに私の記事を追加していただきありがとうございます！\n毎回とても嬉しいです😂",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "nc4a89930ca277",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nお疲れ様です。\nいつもありがとうございます♪見応えすごいです、一気にミレマシエン！\nまた伺います🫡",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncce789fd830ef",
+          "user_name": "merumama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257966630/profile_0390641c9afe3b4afd829d4699648cde.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。再度マガジンに載せて頂き嬉しいです。ありがとうございます。",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncbc9e1babf124",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん こんばんは🌠\n\nこの度は、マガジンご紹介と絵本のご紹介までしてくださり、心より感謝申し上げます🙇💕\nとっても嬉しいです💖\nありがとう御座います🤝\n…",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncadde16425efb",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "リンク貼ると戻ってこない人も多いのかな？\nYouTubeをずっと見てしまうかも🤣",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "nc13c6b7ce2f86",
+          "user_name": "やも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258648405/profile_ee869852783a5a9a11d34fd10d919f33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キンさん、こんばんは😊\n\n長女が好きなのが、何曲か入ってました。\n長女、ヤバい女なので、キンさんも…あわわ🫣",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncfdf29954d383",
+          "user_name": "えらん堂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242221069/profile_508d7605146c8d0a2207c10ec053fe6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは\n書籍のご紹介ありがとうございます\nにしてもマガジンリンクの量がえらいこっちゃ\nニルヴァーナでいい感じで締まりました",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncd02a750b018c",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ✨️やった〜！\n久しぶりの1番🩷\n\nすごいの集めたねぇ〜😅\nあの曲、カラオケで歌う姿…\nやっぱそれは…やめときます🤣🤣🤣",
+          "article_title": "好きな音楽（プロフィールに代えて六）",
+          "note_key": "nb41e4b64d9ee"
+        },
+        {
+          "key": "ncbf2b5e566bf2",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\n恐縮です。記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nce1f97c1eee2e",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nこの曲は凄すぎます‼️\n一度聞いたら、忘れられないようなインパクト😳\n一曲目のヘビメタ❓が刺さりました🌈✨\nマガジン追加ありがとうございます✨",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc6e3c8113303c",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは🌕\nいつもありがとうございます。\n\nロックの方のかすれ声がステキ✨\n声を設定しだすと、止まらないですよね(笑)\n\nコングラボード普通に取…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc1ce30ed1c4ac",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271470614/profile_112e71abeaceddb2ab033b49d5f56568.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nなんか…\n最初は世界観に置いていかれたと思っていたんですけど、\n\n気づけば全部好きな曲になっていました😂\n\nさすがです🌙",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc094bfc9ccd7c",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😊\n\n前回の曲を聴いてから実は、楽しみに待ってました☺️\n\n歌詞を見たときは、びっくりしましたが曲を聴いたらどれもカッコよかったです😌✨…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc04a033090e83",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんにちは。渇望、やばばば。カッコいい！",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc40cdb92b2dce",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは！\n3曲とも最高でーす👏👏👏\nいつもありがとうございます！！",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc1d570b6d4a1b",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは🌱\n\n闇がすごくて、笑いました😂\nこれは確かに心配されるわ・・笑\n\n闇落ちからのミラクルラッキー教団😆の流れでよかった＾＾\n今が楽しいな…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc5f7b9006119b",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255750674/profile_80ee0ac532bef7940f81afda8d8e8a77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、コングラボードおめでとうございます✨\n\n今回の記事は三部構成の流れが印象に残りました。\n「欠乏から始まり、最後は再起へと向かう」という心の変化の過…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc9c3271dd1c16",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😄\n\nコングラおめでとうございます🎉\n３曲全部聴きましたよ〜\nどれも素敵💓曲は地獄がいいなあ、歌詞は置いといて😂\n教団もテンポ良くていい…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc4540d40b2df0",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\n団長の歌、今回もKingさんらしい世界観でした😊\nダークサイドがありながら、最後にはミラクルラッキータイムへ反転していく流れが印象…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc5998632f8720",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "King さま\n\nお疲れ様でございます🙇\nあら、またまたダークサイド☺️\nいいですね！闇が深い♪\n\n本音でコングラを取れるKingさま\nは人徳をお持ちですね✨\n…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc0d757ac5316f",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "早〜😇\n恐縮です。この場をお借りして、コメント失礼します\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "ncae8dcc993ce1",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "ncadcb40f1acc0",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nいつもありがとうございます♪そしてお疲れ様です！\n\n地獄ロック、闇堕ちしそうになりました。禁断の闇ロックが出来ましたね。\nラッキー教団の曲で助け…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc1cd40ee75394",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267718350/profile_d73fda1af8e66cc2c55152264f38ff50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\n先ずは、たくさんのコングラボードおめでとう御座います㊗️\nそんでもって、曲〜💦\n凄かったです😂\n\nそして、\nこの度も、私の記事ををマガジン追加し…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc1c1189b519df",
+          "user_name": "月が綺麗ですね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257275284/profile_60facf29c58d7534bf2094f0993df55c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n今日もマガジン追加ありがとうございました☺️\n知れば知るほど多才で驚きます😳\nいつも応援していただいて感謝です✨",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc44a9ff4ff2db",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "何か悪いことしたんですか？\n\nラッキー誤認！？🤣",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc6751d76739f1",
+          "user_name": "たーゼ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267491936/profile_b274aede9a61c347dfc7d9213ffbeed9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "団長さん👿🍀💦🎶✨\n曲凄いですね〜🧑✨✨✨\n\n👼🪽✨✨いつもありがとう〜🩷🩷✨",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc71a4639dc648",
+          "user_name": "天野 雫 ✿ 占い日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♪\n\n曲いいですねぇ〜\nSUNOのアルバム、探しちゃったよ〜🤣\n私も3曲目がスキかも😂",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        },
+        {
+          "key": "nc1b14f0ebe44e",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😆\n\n最初の2曲お聴きした後に3曲目お聴きして、「あーこれこれ😆」となりました🤣🤣笑笑\n\nKingさんは闇も書けるんですね🤣😆✨\n\n僕は圧倒的にラッ…",
+          "article_title": "団長の歌（裏設定）③",
+          "note_key": "n244bce00bccf"
+        }
+      ]
     }
   ]
 }

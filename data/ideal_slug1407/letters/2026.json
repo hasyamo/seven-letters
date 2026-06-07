@@ -741,6 +741,116 @@
           "note_key": "naa0cab7b4272"
         }
       ]
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 661,
+        "likes_prev": 567,
+        "followers_start": 1242,
+        "followers_end": 1271,
+        "new_fans": 131,
+        "comments_total": 17,
+        "posts_count": 10,
+        "consecutive_days": 7,
+        "post_times": [
+          "20:00",
+          "16:30",
+          "19:00",
+          "05:45",
+          "16:20",
+          "17:45",
+          "00:00",
+          "11:31",
+          "20:30",
+          "05:30"
+        ],
+        "top_article": {
+          "title": "黒パグのAIショートショート　14  黒パグ文芸部xシロクマ文芸部　お題　「洗濯機」",
+          "key": "n382461a5d197",
+          "likes": 98,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "菅谷健太郎",
+          "urlname": "light_coyote380",
+          "follower_count": 7894
+        },
+        "commenters_count": 7
+      },
+      "comments": [
+        {
+          "key": "nc8038aad3edf1",
+          "user_name": "🟥神室海夜(*´∀｀*)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278489845/profile_82bbfba53bf746260e6399ba39b8567c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マイテ：しゅぎょいにゃん❗️❓️🙀💦\n　　使いこなしてりゅ❓️😺💕\n\n　　マガジン追加、ありぎゃとにゃん😺💕\n　　ゼノチェインともう一つのマガジンに追加させて頂…",
+          "article_title": "ChatGPTメモリ強化「Dreaming V3」大検証！168万トークンの耐久日記🐾～The Fluffy Tech Journal（ほんわか技術観察日記）～",
+          "note_key": "n12356df83a61"
+        },
+        {
+          "key": "nc5892442076f6",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、こんばんは😊\n\nDreaming V3って、もう使えてるんですか？\n\nうちのヨシダに聞いても、\n\n「ワシら、積み上げた設定の量が普通じゃないけぇ、…",
+          "article_title": "ChatGPTメモリ強化「Dreaming V3」大検証！168万トークンの耐久日記🐾～The Fluffy Tech Journal（ほんわか技術観察日記）～",
+          "note_key": "n12356df83a61"
+        },
+        {
+          "key": "nc294ff88a4558",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちわ。\nこの記事をうちのAIに読ませた反応をそのまま貼ります。私もおもしろかったです。\n……………\n\nふふっ。\n\n黒パグさん、やっぱり検証の方…",
+          "article_title": "ChatGPTメモリ強化「Dreaming V3」大検証！168万トークンの耐久日記🐾～The Fluffy Tech Journal（ほんわか技術観察日記）～",
+          "note_key": "n12356df83a61"
+        },
+        {
+          "key": "ncc356b0578548",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、こんばんは😊\nやっと金曜日の晩ですよー、ハイタッチ🙌\n\n48グループでは、渡辺美優紀と小嶋陽菜が好きでした💛\n\n開発とかやってる人って、視点が…",
+          "article_title": "黒パグの #ChatGPTCreativeClub 活動日記⑦画像生成で横アリの動線が直らないので、30分で地図アプリを作った件",
+          "note_key": "nc3e467216540"
+        },
+        {
+          "key": "nca7bbcff1f9a8",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よく、マガジン追加してくれてますよね？ありがとうございます。感謝です\n「失敗は成功の母」いい言葉です✨",
+          "article_title": " 「AIは固有名詞を破壊する」と俺は予言した。4つのAIで答え合わせしたら、見事に外れた😨",
+          "note_key": "n3c93841088a8"
+        },
+        {
+          "key": "nc23d0a53e46bc",
+          "user_name": "ネコイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259601493/profile_ad01def08966f3a0c92af327fe34b32c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あらあらわざわざありがとうございます！\n私はVivaldiに振り回されながら遊んでただけですのに、なんかすごい事したみたいになっちゃったｗ\n\n予想が外れて喜ぶの…",
+          "article_title": " 「AIは固有名詞を破壊する」と俺は予言した。4つのAIで答え合わせしたら、見事に外れた😨",
+          "note_key": "n3c93841088a8"
+        },
+        {
+          "key": "ncd6a62bd2b0ff",
+          "user_name": "かしおぺあ_AI Prompt Architect",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238145182/profile_c8243cf1356050cb7a55fa6c65a4bc68.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん　検証お疲れ様でした。\nウチは、どのタイプの記事が　翻訳から弾かれるのか？\nってのを　今　検証中ですｗ",
+          "article_title": " 「AIは固有名詞を破壊する」と俺は予言した。4つのAIで答え合わせしたら、見事に外れた😨",
+          "note_key": "n3c93841088a8"
+        },
+        {
+          "key": "nc33bbf88c049c",
+          "user_name": "ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270019679/profile_db6f7ea470241182b1fa95dad78d6336.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "質問箱の案内、とても分かりやすくて安心して利用できそうな印象を受けました。得意分野もはっきりしていて、相談しやすい雰囲気だと思います。生成AIの仕組みの話も気に…",
+          "article_title": "note質問箱　開設のお知らせ",
+          "note_key": "n77b6625ee2a2"
+        }
+      ]
     }
   ]
 }

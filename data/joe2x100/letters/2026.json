@@ -366,6 +366,51 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 107,
+        "likes_prev": 108,
+        "followers_start": 459,
+        "followers_end": 476,
+        "new_fans": 30,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:29"
+        ],
+        "top_article": {
+          "title": "【描けなかった過去を越えて、技術進歩が形にしてくれた創造の世界】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop  #Nijijourney No.44",
+          "key": "n98261e71a25e",
+          "likes": 47,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "雪綴ゆき",
+          "urlname": "wise_rat6355",
+          "follower_count": 6356
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncc44a150ed572",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、こんにちは✨\n光加減、コントラストの使い方が凄すぎます～(இдஇ`｡)💖\nなんて美しいイラストなんでしょう🌸\nとても癒されるイラストで眼福です😍💓‪",
+          "article_title": "【描けなかった過去を越えて、技術進歩が形にしてくれた創造の世界】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop  #Nijijourney No.44",
+          "note_key": "n98261e71a25e"
+        }
+      ]
     }
   ]
 }

@@ -326,6 +326,81 @@
           "note_key": "n7626535e102a"
         }
       ]
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 311,
+        "likes_prev": 436,
+        "followers_start": 395,
+        "followers_end": 425,
+        "new_fans": 104,
+        "comments_total": 9,
+        "posts_count": 6,
+        "consecutive_days": 4,
+        "post_times": [
+          "16:54",
+          "21:14",
+          "11:24",
+          "20:04",
+          "22:21",
+          "12:56"
+        ],
+        "top_article": {
+          "title": "【３行日記×トピック】気分がチョロいひと",
+          "key": "na15f66e95593",
+          "likes": 57,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "福岡で働く会社員",
+          "urlname": "fukuoka1116",
+          "follower_count": 13839
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc70e90e920837",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私が価値基準を置いているのは……恐らく「神の愛」と、「徳」だと思われます。\n小説で、神の助力を感じたり、その人がより良い形に向かえるよう、コメントをしたり。\n記…",
+          "article_title": "自分を信じて、マイペースにnoteを楽しむ3つの方法",
+          "note_key": "ne156c422b22f"
+        },
+        {
+          "key": "ncadad594b402b",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258383008/profile_b4f8015a113c9ae39e82957050a1ec62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは〜🌻✨\n\nこれもめっちゃ納得〜〜〜！！！👀✨✨✨\n\nヒューさんの考え方は、とても素敵ですね🥰\n\n「徳」はなんとなくわかるのですが、「神の愛…",
+          "article_title": "自分を信じて、マイペースにnoteを楽しむ3つの方法",
+          "note_key": "ne156c422b22f"
+        },
+        {
+          "key": "nce10ff48afe2d",
+          "user_name": "レアカントリークリエイト｜里山システム設計者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます。\nちょうど、これから小説プロットを学んでいるところに、こんな書き方があるのを知れて勉強になりました。\n",
+          "article_title": "魔法の杖？ピクサー・ピッチの「正体」を知って、自分だけの物語を書き始めよう。",
+          "note_key": "nf337936659c2"
+        },
+        {
+          "key": "nc2a25a333579b",
+          "user_name": "夏生 Ⓒ Paediatrician",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281710371/profile_b486cee2a3434a6d3aeb0a75d9a8639e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。いつもありがとうございます。\nとても興味深いお話でした。\nたった6行を埋めるだけで物語の骨格が出来上がるのは\n文系が苦手な私でもできるかも？と可能性…",
+          "article_title": "魔法の杖？ピクサー・ピッチの「正体」を知って、自分だけの物語を書き始めよう。",
+          "note_key": "nf337936659c2"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

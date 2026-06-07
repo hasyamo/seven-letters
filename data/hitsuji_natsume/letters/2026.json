@@ -256,6 +256,34 @@
         "commenters_count": 0
       },
       "rare_no": 2
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 19,
+        "likes_prev": 60,
+        "followers_start": 1336,
+        "followers_end": 1344,
+        "new_fans": 7,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "早乙女　充",
+          "urlname": "mitsurusaotome",
+          "follower_count": 3654
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

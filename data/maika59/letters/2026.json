@@ -641,6 +641,92 @@
           "note_key": "na01a470320f6"
         }
       ]
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 468,
+        "likes_prev": 328,
+        "followers_start": 3154,
+        "followers_end": 3269,
+        "new_fans": 90,
+        "comments_total": 14,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "18:10",
+          "08:01"
+        ],
+        "top_article": {
+          "title": "カラフルポップアートのプロンプト5選 ｜AIイラストの魅力｜AIイラストの描き方｜NanoBanana ",
+          "key": "n8c7aefd65e5a",
+          "likes": 188,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16093
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nca3f211efc7fa",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかちゃん、おはようございます😊\nしばらくコメ活をお休みしていました💦\nたまに出るので、雨上がりのきのこみたいです😅\n\n実績も作品も凄いですね！😊✨✨\n\nAI…",
+          "article_title": "夏空アートのイラスト＆プロンプト ",
+          "note_key": "n25a7054d1117"
+        },
+        {
+          "key": "nc4c166cbd37e4",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nご紹介いただきまして、ありがとうございます。\n妹サイトも紹介いただきありがとうございます。\n\n久しぶりに、漫画に挑戦するのは、妹サイトでし…",
+          "article_title": "夏空アートのイラスト＆プロンプト ",
+          "note_key": "n25a7054d1117"
+        },
+        {
+          "key": "nc229ad60ae509",
+          "user_name": "Misakiyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268127675/profile_ba94f13eafab75f34e50a7ffb466e278.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nご紹介いただきまして、ありがとうございます。\n\nアナと雪の女王と同じような、姉妹という対比・・\nちょっと性格が悪いようにみえるサクヤの表情…",
+          "article_title": "夏空アートのイラスト＆プロンプト ",
+          "note_key": "n25a7054d1117"
+        },
+        {
+          "key": "nc37b03c9a9e43",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、こんばんは😊\n\n夏空の青さや、風に髪が揺れる感じがとても爽やかで、読んでいるだけで初夏の空気を感じました🍀⋆゜\n\nただイラストを紹介するだけではなく…",
+          "article_title": "夏空アートのイラスト＆プロンプト ",
+          "note_key": "n25a7054d1117"
+        },
+        {
+          "key": "nce5c34ab804df",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。色鮮やかなイラスト🩷。ですね。",
+          "article_title": "カラフルポップアートのプロンプト5選 ",
+          "note_key": "n8c7aefd65e5a"
+        },
+        {
+          "key": "ncc5842c553912",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nうわ・・！ありがとうございます。\nすごい！\n\nそう、境界を描く物語・・・なのです。\n\nありがとうございます。\n筆者驚くの巻になっています…",
+          "article_title": "カラフルポップアートのプロンプト5選 ",
+          "note_key": "n8c7aefd65e5a"
+        }
+      ]
     }
   ]
 }

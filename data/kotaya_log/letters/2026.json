@@ -1,0 +1,404 @@
+{
+  "year": 2026,
+  "letters": [
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 370,
+        "likes_prev": 422,
+        "followers_start": 2863,
+        "followers_end": 2863,
+        "new_fans": 100,
+        "comments_total": 108,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:00",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "note生態図鑑【創刊号】｜13人のnoterを並べて見えた、それぞれの輪郭",
+          "key": "na49497d205ac",
+          "likes": 106,
+          "comments": 68
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 24971
+        },
+        "commenters_count": 30
+      },
+      "comments": [
+        {
+          "key": "nc097d71d82ad5",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😆\n共犯者として楽しませていただいてます✨\n\n裏側シリーズも一問一答もスキです😊\n\n漫画もすごかったです✨KOTAYAさんの色んな一…",
+          "article_title": "メンバーシップ「KOTAYAの共犯者」はどんな場所？読める記事と運用方針まとめ",
+          "note_key": "n52e534bf0411"
+        },
+        {
+          "key": "ncddacfa193e3b",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "じゃあ、マガジンの古い記事は早めに読んどかなきゃならないんですね( ˃ ▵ ˂ )՞‪‪՞\n( ๑\"・・)ﾔﾊﾞｲ...",
+          "article_title": "メンバーシップ「KOTAYAの共犯者」はどんな場所？読める記事と運用方針まとめ",
+          "note_key": "n52e534bf0411"
+        },
+        {
+          "key": "nccb98598dc4ce",
+          "user_name": "h.ogawa｜AIで価値を伝わる形に設計する支援型ライター。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219476689/profile_e6b874fc4f0e38615c4b59b57447160d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA | 今日はこれで合格様\n初めまして、こんにちは。\nスキありがとうございます。\n少しでも参考になれば幸いです。\n今後ともよろしくお願いいたします。",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nce2f61f26c129",
+          "user_name": "すすむ・元気",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i31e351503487.jpg",
+          "body": "KOTAYA | 今日はこれで合格さま\n心を整えるのは足下から\nスキありがとうございます\n",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc42a49f1e0384",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そうそうたるメンバーの中に私が\nｲﾙ━━(ﾟ∀ﾟ)━━━♥\n\n私の推しの犬タラヲさんとパンイチfafaさんまでいて、お得感満載だわ！(;//Д//)'`ｧ'`ｧ…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncd83ba407adf1",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280418590/profile_d8a07343460a0e8e0aa47f1b98e2cde6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、コメント失礼致します✨\n\n記事のコミックビューア、すっごい楽しい、ステキです😍🌟\nあのツール、まだじっくり触れてないけど、ちゃんと時間作って‼…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc9bb43d57c209",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさんの記事っていっつもおしゃれ…noteでよくここまで素敵にできるな…と余白はいつもすごいって思ってます！！！",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncb515238c8c70",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteは人が面白い\n\nこれ分かるなーと思いました\n漫画分析していても思います🙂‍↕️\n\nそれぞれ雑誌の雰囲気を人によって変えてるところがナイスアイデアだなと思…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncf8c4d14d60be",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます☀️\nコミックビューアみました。\nイラスト画像のはずなのにちゃんと雑誌の厚みが感じられるのが不思議。\n紹介されている人の表紙…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc51bd11f204a8",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい素敵な並べ方です！\nあれ？coworkも、対応するですか？笑",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc536b314ca22c",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nビューアーちゃんと雑誌ですね😚\nこの前のマンガといい、なんか雑誌の編集者みたいな才能もあるんですね😙\n\n多彩ですね✨",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc1c48614b56b7",
+          "user_name": "あずなぶ〜る｜SNS弱者のnote戦略術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275786216/profile_29c1efe430325758615b12432dfbdfe5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "実はまるよかさんの分析のときから気になってて物陰からジーッと見ていました😅\n\n分析を依頼されてるのはそうそうたるクリエイターなので、さすがに私には分析依頼は無理…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncdb922fafd908",
+          "user_name": "アリゼロ🐜氷河期世代の働きアリ@自身が会社で経験してきた問題点や気づきを発信しています。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA様、こんばんは。\n\nこれア〇ゾンで売ってますか？😄いつか販売したら教えて下さい。\nなんかすごい欲しいです😁\n\nいつか私も文章を書く事がもう少し整った…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc5beace8b29ee",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270451364/profile_78017c668dbe9b00fb7cca620f05f8aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！図鑑（雑誌？）にあまねを入れてくださってありがとうございます🙏😆✨\n\nわんにゃんにまみれてる😍\n髪がちょっとボッサになってるのが好きですぅ😆💓…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc62707fe4f624",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさーん！\nすっっ…ごく素敵😳✨\nそれぞれ別ジャンルの雑誌になってて、そのテイストが各noterさんにぴったり…！\nfafaさんと犬タラヲさんのところ…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncccf931d81707",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\nえっこのビューワーすごすぎる😳✨\n\nそして、このメンバーと一緒に雑誌に載ってる感じが嬉しい💖\n\nしかも🆕UTAKOで載せてくれて嬉しい❤️\n\nあり…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nceafcc34a26c5",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243808069/profile_e9f0f6302bae0bf817c342f12a36db33.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "またこっち見てくれた♡\n\nあ、今晩わっ♪\n\n追いつけないよ（元々の力を考えろし）💦\n\nってか、なんでこんなかっこよすなの！？\n\nそしてあんがと。\n\nほんとこたし…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc307747cb57f2",
+          "user_name": "うるるん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255368906/profile_a7f64c6a770b710150139f0b2b6192c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nこれは\n凄すぎます💕\n素敵すぎます💕\n\nこんな素敵な方々の中に私がいるなんて恐縮すぎて嬉しすぎます💕\nご紹介頂きましてありがとうございます💕",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncf060826a062e",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nまた面白いものを作ってますねー！\n雑誌風で見ると楽しい✨\n\nビューアー開かなくて\n嫌われてるのかと思いましたが\n無事見れました 笑\n\n気付けば1…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc0d5dc02deac4",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235786177/profile_d3248e02f9810e16a0daf3e4a02bee0b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完璧に料理研究家扱いされていて、大爆笑しました。\nこれはもう、食品衛生責任者の資格を取るしかないですね。\n６時間のe-ラーニングで取得できるようなので、社労士と…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncdeff87b7ff7a",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😆\n図鑑雑誌、すごい✨\nみんなタイトルとか雜誌のジャンルが違うのが凝ってますね！\nディアゴスティーニみたいに集めたくなるタイプ⭐",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc7914d7baa499",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、凄いですね😳✨\n\nnoteの中で雑誌が読めるのも意味わからないし、何より雑誌のクオリティとメンバーが最高すぎます❣️\n\n是非発売しましょう‼️笑笑\n\n",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc354e3f36474d",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この雑誌が欲しいです…\nいつもKOTAYAさんが出してくださる雑誌が、本屋に売ってないんです…\nどこに行ったら買えますか？😢\n\n犬タラヲが、また使われてる🤣🤣🤣…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc4768706aa65c",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー、すごい豪華✨なメンバーの雑誌の「トップバッター」がわたしでいいのだろうか(びくびく)しかも、とてもかわいくしていただいて、ありがとうございます🙇\nそして、…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "ncf2db3ecc660b",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258383008/profile_b4f8015a113c9ae39e82957050a1ec62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うぎゃ〜〜〜！天才じゃあ〜〜〜！！！🫨🫨🫨💖\n\nめっちゃ素敵🤭✨\n図鑑に入れてくれて、ありがとう❣️\n\nみんな個性が引き立ってて、素敵すぎたよ〜🥺🫶🏻️︎💕\n\n…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc357f58ef271b",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ステキな図鑑にまとめてくださって、ありがとうございます！\n\nヒトタラヲさんのイベントでは、完敗でございました！！！本当に、すばらしかったです♡\n\nこれからもなに…",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc974ce58c338f",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268452882/profile_b97e2ceb62578be12b52fd065c9d9b06.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは大作だ〜🤩\n\nいまはまだ出先だから立ち読みだったけど、\nあとで擦り切れるまで読むぞ〜🤭",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc96606c81fc66",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n雑誌の中に雑誌が何冊もありましたー🤭\n\nそして、いつもまなつさんの破壊力がありすぎて目のやり場に困りました👀笑",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc61a46d11f2b0",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281065557/profile_3c9ddf4410a54730a2d0279b54c79d60.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これはもうスゴいので\n早速購入させて頂きました❣️",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc459ca7c91327",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ス・ス・ステキすぎます💞\n図鑑ビューア！みなさん雑誌の表紙のようなページで！\nご紹介ありがとうございます😊\n\n",
+          "article_title": "note生態図鑑【創刊号】",
+          "note_key": "na49497d205ac"
+        },
+        {
+          "key": "nc9343193c962c",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、約束は必ず守ってくれるトコ、ちゅきぃぃぃぃぃｰｰｰｰｰ💕＞(ᗜ˂*)\n\nメッチャ良かったよ🎶\n第二話には仄かにloveが芽生え始めたところに引っ掻き…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nceb03d89c54eb",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\nなんか見た事ある緑の髪の人が居たような🧐笑\n上司ポジかな😙\n\nこたやさんの恥ずかしがる顔最高でしたねー！！\nはるさん！\nもっと恥ずかしがらせて…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc967b2380cd4c",
+          "user_name": "うるるん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255368906/profile_a7f64c6a770b710150139f0b2b6192c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nこたやさん\n可愛くって\n色っぽくてドキドキしました💕\n続き読みたいです🩷\nありがとううございました💕",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc15860763cb4f",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258383008/profile_b4f8015a113c9ae39e82957050a1ec62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜🥰\n\nすごい！大人気！\nこちゃはこっちの路線までいけるのか👀✨\nこちゃのエンタメ力が爆発してる……天才すぎる😱✨✨✨\n\n普通に読みやすかった…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc9eea19cbc56e",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nきゃー🥰🥰🥰\nコレは反則だー✨\n\nこちゃさんの女子っぽいところ反則やわー🤭\nでもこれ狙って作ってるんですよね？😚そんなところも…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "ncd9b93a788db3",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん‼️\nなんですか❗️この売れっ子漫画家のような画質、内容は⁉️😳\n電子書籍デビューしちゃいそうなクオリティーですね🌸✨\n照れてるこちゃさん可愛いー😍\n…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc45a8d2517999",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん！！\n続き見たい！！見たい！！\nあーかわいい💕\nラストの朝焼けにあの表情😘\n",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc12bb45f0d58f",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんこんばんは！\n\n構成とかコマ割りすごい✨\n吹き出しの文字とかも、web漫画って感じで読みやすかったです！\n\n色んな表情のこたやさんが見れて良きで…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc9b687d7893f5",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そして、全然一番のりではなかった😅\nあれ？わたしが入力した時は、誰もいなかったのに😲\n目の錯覚？",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nce2b36a959ce4",
+          "user_name": "🍀ベンジャミン🍀",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272972301/profile_543f8834c165af684d32b6c23a4a5b1d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteの可能性♾️ですね✨",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc20bd2523f20d",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243808069/profile_e9f0f6302bae0bf817c342f12a36db33.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(/ω・＼)ｺｿｯ\n\nﾖﾝﾀﾞﾖ🌰\n\nいーなー壁ドン。\n\nおいらちっこいから、こたさんの足にタックルになっちゃう💦\n\nで、\n\nつづきはよ♡",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc5e82494bd6cf",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは🙌\n\n漫画、とても良かったです✨\nイラストも構成も素敵でしたが、何より「こたやさん」が可愛すぎます😍\nぜひ続きを読んでみたいです❣️",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nca4b815eae572",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "す、すごい！そして、一番のりにきんちょー😅\nひゃー、色っぽい💕ドキドキの内容でしたわ😳\nこんなことまで、漫画まで描けるなんて😲KOTAYAさんって、次何やるか予…",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "nc4d3a3db80631",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268452882/profile_b97e2ceb62578be12b52fd065c9d9b06.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最っ高だぁ〜🤩\n\nはるくんがダミー資料で誤魔化し成功した\n手品のからくりが知りたい😆",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        },
+        {
+          "key": "ncf90c42f64bf8",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん…こ、これは…！\nそんな乙女フェイスをするだなんて。\n\nとりあえず言えることは\n\n続き みせてください\n\nしかし、見たことある人が上司にいたような？",
+          "article_title": "「中が見たい」で火が付いた。初めてで止まらなくなった記録。",
+          "note_key": "n4483ea3d4c94"
+        }
+      ]
+    }
+  ]
+}

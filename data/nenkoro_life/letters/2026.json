@@ -2705,6 +2705,92 @@
           "note_key": "n9dbfdcd27d9a"
         }
       ]
+    },
+    {
+      "week": "2026-W23",
+      "period": {
+        "start": "2026-06-01",
+        "end": "2026-06-07"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 259,
+        "likes_prev": 273,
+        "followers_start": 1409,
+        "followers_end": 1534,
+        "new_fans": 92,
+        "comments_total": 12,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:46"
+        ],
+        "top_article": {
+          "title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術｜リリース記念キャンペーンも実施します🌸| AIツール | 生成AI | Gemini | ChatGPT |",
+          "key": "n8804f3d86177",
+          "likes": 98,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 13656
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "nc92699b1f65ab",
+          "user_name": "よしこ｜続けたい人の横にいる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266470381/profile_96ce76092fe2ecbb3a6e023a1f66fd16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nいらっしゃいませキャンペーンに乗っかって、入会しました！\n以前はタイトルもタグも自己流でやってみたかったので、入らなかったのですが、\n「継続投稿す…",
+          "article_title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術",
+          "note_key": "n8804f3d86177"
+        },
+        {
+          "key": "nc0cdd4f8612fa",
+          "user_name": "デジさしみ | IT現場の効率家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223218151/profile_f70ff5949c2473f19b8b4192391ce3cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🍣\n\nいつもありがとうございます✨\n今回はものすごくパワーアップしてますね！\n\n軽く触ってみましたが、微調整がしやすくなって益々便利にな…",
+          "article_title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術",
+          "note_key": "n8804f3d86177"
+        },
+        {
+          "key": "nc089ffe71240d",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！ねんころさん🤩\nこれまたすごいものを…✨\n\n明日以降、試してみます💕\nいつもありがとうございます😊\n\n\nちょっと逸れますが、こういうのを\nフッターというの…",
+          "article_title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術",
+          "note_key": "n8804f3d86177"
+        },
+        {
+          "key": "ncdcce5f205d62",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは！\n\nリリースありがとうございます\n明日、試してみます😆",
+          "article_title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術",
+          "note_key": "n8804f3d86177"
+        },
+        {
+          "key": "nc32f23a4af166",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n駆け込みさせてもらいました🤭\n使うのが楽しみです♪\n\n明日記事書けるかな〜？\n書ければ早速使わせてもらいますねー！！\n\n今日もお疲れ様ーーー…",
+          "article_title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術",
+          "note_key": "n8804f3d86177"
+        },
+        {
+          "key": "nc969760d48e46",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ様\nいちおうAPIまで行きましたが途中で青いボタンがなく引き返してきました。\nGPTsを残しておいてもらって、助かります！\n\n落ち着いたら再度やってみま…",
+          "article_title": "【本日公開】ねんころ式タイトル＆タグ錬成WEB版！機能と時短術",
+          "note_key": "n8804f3d86177"
+        }
+      ],
+      "rare_no": 2
     }
   ]
 }
