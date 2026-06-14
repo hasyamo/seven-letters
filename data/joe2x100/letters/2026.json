@@ -411,6 +411,52 @@
           "note_key": "n98261e71a25e"
         }
       ]
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 83,
+        "likes_prev": 113,
+        "followers_start": 477,
+        "followers_end": 489,
+        "new_fans": 25,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "11:59"
+        ],
+        "top_article": {
+          "title": "【視野を広げると、人生のキャンバスはもっと豊かになる】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop  #Nijijourney No.45",
+          "key": "n010aec8f6e5e",
+          "likes": 35,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "かぬ",
+          "urlname": "kanu8240",
+          "follower_count": 12495
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc3498eae84b7f",
+          "user_name": "Kaori",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268835829/profile_de71c98158f117dfc97788af921f522d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joe Tsukasaさま、\nフォローありがとうございます🙇‍♀️\n素敵イラストと作品を読んで、共感する部分が多々ありました。\n今後ともよろしくお願いします😊",
+          "article_title": "【視野を広げると、人生のキャンバスはもっと豊かになる】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop  #Nijijourney No.45",
+          "note_key": "n010aec8f6e5e"
+        }
+      ],
+      "rare_no": 3
     }
   ]
 }

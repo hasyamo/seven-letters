@@ -4314,6 +4314,332 @@
           "note_key": "ne32247c2caf2"
         }
       ]
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 246,
+        "likes_prev": 370,
+        "followers_start": 644,
+        "followers_end": 648,
+        "new_fans": 39,
+        "comments_total": 88,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "19:23",
+          "22:46"
+        ],
+        "top_article": {
+          "title": "しれネコ🐾The Movie｜動画解説",
+          "key": "n06a3f04e7a09",
+          "likes": 94,
+          "comments": 54
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14060
+        },
+        "commenters_count": 26
+      },
+      "comments": [
+        {
+          "key": "nce3114e5a93a0",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😊\n\n猫だって叫びたいんや、タイトルはゆるいのに、\n曲の雰囲気はかなり刺さる感じですね🐾\n\nにゃんボサのゆるい世界から入って、こういう繊細で痛みのある…",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc8a32b835411e",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃかっこよかったです〜💕 最後にはんく猫さんが助けに入るシーンも最高でした🤭✨\nあと曲もすごく好きな雰囲気でした💞\n映像と合っていて、思わず見入っちゃいま…",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "ncc960ea69a615",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう、しれネコワールドにどっぷりですね🐱",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "ncbe2e59ad5ad6",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カッコいい曲‼️\nシュン君凄い‼️",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc438f3c533cca",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285221911/profile_33233c19a81452f709036f6983544ca7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんか、毎回はんくさん若返ってない？？？\nヤル気満々ってのは顔に出まくり（笑）\n\n\n…で、これは拡散していいの？？？\n待てと言わなきゃ勝手にやるよー（笑）\n\n月…",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc023cd788c595",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日ニャンBossa聴きながらお掃除したら、綺麗になるわストレス溜まらないわ、すごい効果でした🐱💕\n\n動画、しれネコちゃんの魅力爆発してます🌸助けに来てくれたし…",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc7a5cf0a46175",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃかわいかった♡\n文字が踊ってるのが、どうやってるんだろ？と不思議だったな(੭ ᐕ)？\n\n私は猫の花嫁も好きだな〜(≖ᴗ≖๑)ｳﾌﾌ♡",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc1a20188422be",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ボサノバとぜんぜん違う歌い方、追いつめられるイメージですね！\n行き止まりで、どうしようと思ったときに救世主で登場するのカッコ良すぎます😊",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc437e935cf458",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ニャンBossaのファンだにゃ🐾\nなんともクセになるにゃん✨",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc43ae277afc2b",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271348454/profile_596a4f7c4e29751c2f01a0c148e0dfed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "にゃんだふる❣️\nはんくにゃん登場で危機脱却😆\n猫ちゃん大好きななのでノリノリde\nほっこりにゃん。\n",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc7b9b2109efc1",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、ファンアートかっこいいね！\nねこにゃーで可愛いね。しれネコさん可愛い",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc5c4bb001c099",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、先陣をきってくださりありがとうございます！！\n慌てて、マガジン追加しました🤣\n\nしれネコさんの歌詞「にゃ」を使ってインパクトがあり、言葉1つ1つが響…",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "ncb5ada08bbb8b",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YouTubeサイトの方で見てきました〜。\nいつものはんくさんらしい、グイグイと展開する動画の運びはそのままなのに、\nそれでいて、しれネコさんも繊細に違和感なく…",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "ncd51df7caeec8",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "文字の入れ方を学びたいww\n\n触るたびに、ハンクさんすごいなぁっておもいますw",
+          "article_title": "【新作動画】猫だって叫びたいんや",
+          "note_key": "n6eb16ef79801"
+        },
+        {
+          "key": "nc6c46319281a1",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "にゃん語のボサノバ長尺で\n作って欲しいーー(*ﾟ∀ﾟ*)💖って\nリクエストしたかったから最高っ🤩✨✨\n\nうちのサロンのBGM、ボサノバだから\n再生リストに追加し…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc6c31b44a2e95",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事のご紹介ありがとうございます！！\n\nちょっと聴くのにお時間をいただきました💦\nにゃんしか言っていないのに、曲変がお見事で癒されます🐱\nマーコ様の存在感は変わ…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nced71cf111d1e",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもと違うかわいい全振りの動画に癒やされましたぞ！\nこの調子で猫界隈にも凱旋行くにゃ✨",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nca740cb3de332",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "元曲の軽快なリズムは、はんくさんの動画とよく合います🥰\nホントに、にゃんだけで1時間以上歌ってますね🤗",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "ncb6819308858b",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん、こんにちはー✨！\n\nにゃんにゃんの動画みたにゃー🐈💓‪\nいやー可愛すぎる！(๑`ω´๑)💖\n猫ちゃん最高……(*´д`*)🌸✨\n私もボサノバ良く作業…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc875b5d537a5f",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ボサノバ癒される♡\n\nんー♡可愛いは正義じゃのー🩷w",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "ncec2ccbec08be",
+          "user_name": "岡本明美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257270856/profile_e12d6d0de0edee106cab44c9a4a9ba44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シュン君💕　可愛い記事🥰\n\nもう一度見る‼️",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc66edc565ac0a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アニキー　こんばんは。瀬戸内海育ちの\n可愛い妹分です（押しかけ）\n猫可愛いニャー\nだいたい動物映画ってヒットしますよね。\n\nたくさんのイベントもたのしみにしてい…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc62c8bcfbfd83",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさーん！おはようございます😊\n\nえっ…なに、この癒し動画…🥺💕\nゆめふわかわいいサンリオ感😂はんくさんこのテイストもイケちゃうのですね！\nニャンBossa…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc015afe399b91",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん\nこんばんは🌟\n\nニャンBossaにのせて♬\n\nしれネコちゃんとしろくまちゃん\nとっても癒やされます\n\n3人でお手て繋いでるところも\n(,,˃ ᵕ ˂…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc13fdfef6a061",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんと最初の入りからボサノバ感がすごかったです✨最初これ誰の動画？って確認しちゃいました。\nそして、🎉✨\nまーこさんは毎回ツボなんですよね🤭💕\nしかも、ちゃんと…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "ncd925ee6953e6",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285043549/profile_4fea1961a6d4ceff2d7201f15f6e7ddc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まぐ。さん提供ファンアート、ヤバい…兄さんがカッコよすぎて…ヨダレが…🤤笑",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc96ec6ce20e68",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ニャンBossa、延々と聴いていられるにゃん🐾\nまぐ。さんのファンアート、カッコいいにゃん😎",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc5e1e32229015",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最高にかわいくてはんくさんの投稿か！？って一瞬チャンネル確認しました（笑）",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "ncd66054e02f83",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しれネコにゃ🐱\nにゃんとコメントしたらいいかわからにゃくなったにゃ💦\n\nたしか、しれネコはんくさんの押し活してたにゃ🐾\nいつか手の届かないところまで行くんじゃな…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc9f33ebadd399",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、凄い可愛かったっす😆‼️\nはんくさんの頭の中どーなってんの？って改めて思いました(笑)\n久々のマーコ長尺出演も熱かった🔥\n次の企画、頑張ってくださいヾ(≧…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc6f298c2c6ff7",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271348454/profile_596a4f7c4e29751c2f01a0c148e0dfed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわいい〜にゃん。\nボサノバと可愛さで没入感半端なかったです。\n\n馬子ちゃんの歌唱力も凄すぎ☺️\n聞き惚れちゃいました。",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc293a32df4ca1",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは🌞\n\n見ましたよ！👍\nあまりの可愛さに、あれ？チャンネル間違えた？って思いました！🤣🌟\n\nキャ馬嬢の火野枝​馬子ちゃんは個人的にもお気に入りキャラです…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc124dba85ee92",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285221911/profile_33233c19a81452f709036f6983544ca7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あの可愛さの生物兵器のメイキングとか、視聴者を萌え悶えさせるつもりですね（笑）\n\n紹介記事このままだと、うちのトップ閲覧記事を爆走しそうですにゃ（笑）\n\n茶トラ…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "ncee5a85b6a1a8",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あれ？はんくさんが連日投稿してる…((((；ﾟДﾟ))))ｶﾞｸﾌﾞﾙ",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nca805304179d3",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281065557/profile_3c9ddf4410a54730a2d0279b54c79d60.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ニャンBossa、癒されましたにゃん❣️🐈ﾆｬﾆｬ〜♪\nシルバニアが動いてるみたいでカワイイ(о´∀`о)\n馬頭のマーコは干支だったんですね！🐴💕\n画像のご利用…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        },
+        {
+          "key": "nc6597a3f603bb",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今さっき、やっと… 『しれネコさん動画』の記事、出せました。\n今回は、あらかじめ動画を貼ってから、記事を書いたら、うまくいきました。💦\n個人的には、今回の動画は…",
+          "article_title": "しれネコ🐾The Movie",
+          "note_key": "n06a3f04e7a09"
+        }
+      ]
     }
   ]
 }

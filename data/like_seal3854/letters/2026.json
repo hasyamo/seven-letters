@@ -452,6 +452,35 @@
           "note_key": "n79afe135492e"
         }
       ]
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 86,
+        "likes_prev": 265,
+        "followers_start": 507,
+        "followers_end": 510,
+        "new_fans": 30,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "あーや | 本業＋子育てしながら仕組みで自動収入＠フォロバ100",
+          "urlname": "aya3_fukugyo",
+          "follower_count": 8207
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 4
     }
   ]
 }

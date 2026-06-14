@@ -3764,6 +3764,432 @@
           "note_key": "n33da077d6fb5"
         }
       ]
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1385,
+        "likes_prev": 1372,
+        "followers_start": 1184,
+        "followers_end": 1205,
+        "new_fans": 137,
+        "comments_total": 89,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "12:37",
+          "21:48",
+          "12:54",
+          "13:02",
+          "18:44",
+          "18:26"
+        ],
+        "top_article": {
+          "title": "まずは自分に向かって書いてみる",
+          "key": "ncfe357ee7f33",
+          "likes": 252,
+          "comments": 32
+        },
+        "notable_reader": {
+          "name": "福岡で働く会社員",
+          "urlname": "fukuoka1116",
+          "follower_count": 13828
+        },
+        "commenters_count": 32
+      },
+      "comments": [
+        {
+          "key": "ncde65ec9a91ec",
+          "user_name": "松本　瞬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275720659/profile_be220ab79f27315f058bf62d091096d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nマガジンに追加していただきありがとうございます🙇‍♀️\n記事を拝読して勉強させていただきます☺️\nよろしくお願いします！",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc71c7252b4590",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\n\n梅雨の時期なのに真夏のような暑い日でした😅\nいかがお過ごしでしょうか☺️\n\nこの度もマガジンに追加いただきありがとうございました！…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc0652181d3e6f",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\n私の記事をマガジンに追加していただき、いつも本当にありがとうございます✨\n\n「自分に向かって書けばいいや」\n\nという考え方がとても…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc47d4fa0c2013",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274861081/profile_59c361cea83d4f4d1c3e6a403c43a90b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは✨\nnoteを楽しむコツをありがとうございます♬\nマガジンへの追加もありがとうございます♬\n",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc0e02da9a2855",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n実を言うと、私がnoteをやっている理由は自分のためです😆\nだから常に自分…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "ncdbc6e16f2b08",
+          "user_name": "繋ぎ屋 ryubon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/225248206/profile_7d393ae2f58a4cda0597617fe8defa0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、はじめまして。\nマガジンへの追加をありがとうございました✨\n今後ともよろしくお願いいたします😊",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "ncc1044c880c01",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん　こんばんは⭐️\n\nこの度は、素敵なマガジンへ記事を掲載していただきありがとうございます🙂‍↕️🍀\nこれからも自分の言葉で綴っていきたいと思います。…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "ncb7dca0a37a22",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "ncaf62ec6780f8",
+          "user_name": "AYU",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/124260230/profile_7da754e5114659f81ebeca7786de3b0d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん✨こんばんは😊\n\n“自分に向かって書けばいい”✨✨…この言葉にすご〜く共感です！！😊👍✨\n私も､本当にその通りだなぁ〜と思っています！！😊✌️✨\n\n…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc8b1f3ddeccc5",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nお忙しい中、お体大丈夫ですか？\n\nさてこの度もマガジンに私の記事を追加していただき、ありがとうございます😂\n",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc9eff9dd597c0",
+          "user_name": "棚町文子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278488701/profile_96bdbaba60fe7040446dbb1485ba4222.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキありがとうございます😊\n\nやってみます🙌",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc3cdd12f13224",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n恐縮です。この場をお借りして、コメント失礼します\n記事、マガジンへの追加、感謝申し上げます\n今後ともよろしくお願いします",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc830f1c2ba499",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんわ🌙\n\n「まずは自分に向かって書いてみる」\nこの言葉、すごく心に残りました✨\nつい「誰かの役に立つことを書かなきゃ」と考えてしまうのですが…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc177071843941",
+          "user_name": "持たざる者の再起録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256022750/profile_9bbd6c1baaf11ecb978687248758b24e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジンに追加いただきありがとうございます！\n\n「自分に向かって書けばいいや」、これめちゃくちゃわかります。😆\n\n私も最初は「役に立つことを書かなきゃ」って気負…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc7a21b8f78324",
+          "user_name": "ふじ｜肌管理と美容のリアル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332159/profile_964aac0fa36a6ce9899e20c8780e9aa4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま✨いつも拝見しています✨\nnoteを長く続ける秘訣みたいなものがわかってとても勉強になりました☺️\n私もそろそろ一ヶ月経ったので、いよいよ初心者ネタ…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "ncfd05ef23ddc9",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😃\n\n「自分に向かって書いてみる」\n\nとても共感しています\n\n流石に言葉は選びますが\n「読んでもらう」ことに\n重心が傾き始めると\nなんだ…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "ncd171be5d6ae9",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276889368/profile_6f886c9c37b132a55a5bbee907c89797.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ですね✨\n\n長く続けるには、\nいいこと言った！系の記事じゃ、\n何年も続けるのは難しいですからね😭\n\nなぜよしひろさんの記事に来ると、いつも以上に眠くなるんだろう…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc2e84e9913ded",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\nこんにちは！\n\n自分に向かって書いてみる。\n\nですね🥰\n\n最近書かないといけない。\n書いた方が良い。\n\nそんな記事が増えてきており、少し息が詰ま…",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nc1b00f8141ef7",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、いろいろ余裕が感じられて、楽しそうです💕\n数字がついてきていると、心に余裕がもてる気がしてきました😊",
+          "article_title": "まずは自分に向かって書いてみる",
+          "note_key": "ncfe357ee7f33"
+        },
+        {
+          "key": "nceff9171e17c8",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、すごい！\nスペースＸ買えたんですねー\nおめでとうございます🥳\n私も申し込みぐらいしてみれば良かったなー",
+          "article_title": "最近買ったもの（スペースX）",
+          "note_key": "nd86b84104f1e"
+        },
+        {
+          "key": "nc06b75a45f44d",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nまずは当選おめでとうございます🎊\n上がるといいですね〜⬆️\n\nいつもありが…",
+          "article_title": "最近買ったもの（スペースX）",
+          "note_key": "nd86b84104f1e"
+        },
+        {
+          "key": "nc5413dda5233c",
+          "user_name": "AYU",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/124260230/profile_7da754e5114659f81ebeca7786de3b0d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん✨こんばんは😊\n\nスペースXは、確かに話題性がありますからね〜！！😊👍✨\n可能な限り､ホールドしておくことは良いかと､私も思います！！😊✌️✨\n\nま…",
+          "article_title": "最近買ったもの（スペースX）",
+          "note_key": "nd86b84104f1e"
+        },
+        {
+          "key": "nc8ecbb84e2b13",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\n\n等身大のよしひろさん、私も好きですよ〜！💕\n\n飾ることもない、ありのままを文章にできちゃう、やっぱり、よしひろさんの人柄なんだと思…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc42978104b66e",
+          "user_name": "なな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284489287/profile_47f63f4faa8ebebb2f824d3d1a8de0fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\n私の記事を、マガジンに載せてくださり、本当にありがとうございます✨\n\nよしひろさんのほんわかとした柔らかい雰囲気のnoteが好きで…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc1751b25182c8",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n何となく思っていることがあって、人って、人の飾らない部分を見るのが\n意外と…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nce2f1b485ccac",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nタイトルの\n〉思っちゃうんだからしょうがない\nにグッときました🙌\n\n思ったことをそのまま出すのは難しいこともありますが、\nその日思ったことが1番…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc9af88278a92c",
+          "user_name": "いくちょのやさしい毎日",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_5-043439195e40e86fd7641a3a1daf982637d77ec6f14b67d3fc98ab92374404ac.png",
+          "body": "よしひろさん😊\nいつもマガジンを追加してくださり\nありがとうございます😊\nそうなのです、よしひろさんの空気感がとても素敵で、師匠と呼ばせてもらいたい所以なのです…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "ncea7d957fa947",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276889368/profile_6f886c9c37b132a55a5bbee907c89797.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌺\n\nわかるな〜✨\n最後まで読んでも、\nコメントやスキとか\nできない時もありますからね😆💦\n\nもう、スキだけで腱鞘炎に\nなりそうってこと…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc8026ce63022e",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんばんは😊\nいつもスキやマガジン追加をして頂き、ありがとうございます✨\n先日の「自分のために書く」であったり今回の「衝動」であったり\n共感させて…",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc7edf08a9f0d9",
+          "user_name": "あかねこ日和＠猫被りの物書き",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266074572/profile_f2e93604e8de29a760501d2509394023.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nスキとマガジン追加ありがとうございます‪‪🫶🏻︎‪\n\nスキなものはスキなのよ～♥の\nテンションめっちゃ好きです😆💕",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc3b51eb14df58",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n恐縮です。この場をお借りして、コメント失礼します\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "ncbad3c6adcce0",
+          "user_name": "棚町文子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278488701/profile_96bdbaba60fe7040446dbb1485ba4222.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます😊",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc0f61055c4092",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はーい！\n私もよっしーさん好きぃ〜",
+          "article_title": "思っちゃうんだからしょうがない✨",
+          "note_key": "n623710616831"
+        },
+        {
+          "key": "nc02f41caa07fe",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴロゴロふかふかいいですね〜🛋️",
+          "article_title": "メンシプ四方山話",
+          "note_key": "n741da12f79d8"
+        },
+        {
+          "key": "nc783233f6c26b",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴロゴロ、好きです❤️",
+          "article_title": "メンシプ四方山話",
+          "note_key": "n741da12f79d8"
+        },
+        {
+          "key": "nc3cd2ec4c0995",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん　こんばんは⭐️\n\n私の記事を素敵なマガジンへ掲載していただき、いつも本当にありがとうございます🙂‍↕️🍀\nこれからも記事を書く励みになります。本当…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "ncf90d903720e6",
+          "user_name": "青依叶子（YokoAoi）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273388425/profile_5a0d2b33eb40ff9ead5a54dc3a06b1bc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nいつもマガジンに追加していただき\nありがとうございます🙏🏻\n本当によしひろさんが、仰ることわかります。\nいつも最初の気持ちを忘れないように、これか…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc800862bcdef3",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは。\n\nこの度はマガジンに追加いただきありがとうございました😭\nまさに、うわ、嬉しい！です！！\n\n僕は、noteを始めたての頃、右も左もわ…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc71c11c26d5c9",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは\n\n「次を求めているということは\n前に欲しかったものを、ちゃんと手に入れられている」\nこの言葉に、読みながらはっとしました\n\n以前「まだ…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "ncc5e34c8a6384",
+          "user_name": "Noa",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269973521/profile_77ebb6ddc767747de9bb5bfef312b21b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、いつもマガジンに追加いただきありがとうございます☺️\n私は、初めてスキやコメントなどの反応をいただいた時や、記事を購入していただけた時に「本当に読…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc5d73d019dfc4",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、ホントですね！\nいちばん最初のコメントがいちばん嬉しかった気がします💕\n\n今、よしひろさんの実写版のスキが出ました？",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nce2ba280e1d2e",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちわ😊\n\nとても共感しながら読ませていただきました🥰\n最初は1ビュー、1スキが本当に嬉しかったですよね✨\n最近、私も思いがけずたくさんの方に…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc993ddfb338f7",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nちょっと懐かしい気持ちを思い起こさせてくれる内容ですね！\n\n海外翻訳が始ま…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc045b3326980e",
+          "user_name": "りーまむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186523962/profile_939af6d936ad6ca5456ee55e7d9d6404.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも最近、同じようなことを感じていました😊\n\nありがたいことに、最初の嬉しかった気持ち、忘れてきちゃいますよね。\n\nでも、こうして記事にしてもらって、感情の…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc03da380334ed",
+          "user_name": "あずき☆｜ひとりで抱えないために",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271732318/profile_4fc56179333666d6a5d1c979a37f2396.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は一番最初のスキをいただいたのがよしひろさんでした。\nえ！？スキされた！？ほんとに！？って、\n心臓がばっくばくするほど嬉しかったです！\n\nでも、いつの間にか、…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "ncb69b9e445157",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん〜！\n本当に共感します！欲張るのも良いですけど、１つビュー、１つのスキ、１人のフォロワー、そこは私も大切にしたいと思っています😍✨\n\nいつもマガジン…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nc5b4e75445cc8",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしはビューもスキのシステムも知らずに登録して書き始めていたので、マガジンってナニ？を検索したのもつい最近です😂\n\nですが、楽しかったなーと思えたのは、よしひ…",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        },
+        {
+          "key": "nccd621068e848",
+          "user_name": "さとりのさとり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226182676/profile_094199e7fa1bff58de5da5e07a1a43de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あれ？\nこれってもしかして\n私のために書いてくれた記事ですか？\n\n✨",
+          "article_title": "嬉しかったことを、忘れないようにしたい💖",
+          "note_key": "nfa06b3b7cfb4"
+        }
+      ]
     }
   ]
 }

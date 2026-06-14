@@ -2107,6 +2107,252 @@
           "note_key": "n5ee88a81f4d8"
         }
       ]
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 500,
+        "likes_prev": 463,
+        "followers_start": 400,
+        "followers_end": 454,
+        "new_fans": 151,
+        "comments_total": 51,
+        "posts_count": 10,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "00:25",
+          "21:44",
+          "06:00",
+          "15:00",
+          "06:00",
+          "12:00",
+          "06:00",
+          "06:00",
+          "06:30"
+        ],
+        "top_article": {
+          "title": "世界ぬか床会議〜怒りも不寛容も、まずは一晩漬けてみませんか〜",
+          "key": "n23a2b702a12c",
+          "likes": 65,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14034
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "ncde43af697ee7",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「違和感を拾ってくれるAI」めっちゃ魅力的やん😆\n自己分析あんまり好きちゃうけど、これはちょっと興味あるなあ✨🎵💞",
+          "article_title": "AIに《229note記事》を分析させたら、最後はぬか床の味見だった話〜その酵母菌、うちの床には、まだ馴染んどらん🤣〜",
+          "note_key": "nce0335d0d3f0"
+        },
+        {
+          "key": "nc26c63fb2b10e",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🌸\n\n記事、読ませていただきました✨\n\nAIに「何を分析させるか」という視点がとても興味深く、ただ便利に使うだけではない面白さを感じました…",
+          "article_title": "AIに《229note記事》を分析させたら、最後はぬか床の味見だった話〜その酵母菌、うちの床には、まだ馴染んどらん🤣〜",
+          "note_key": "nce0335d0d3f0"
+        },
+        {
+          "key": "nc874b993ba26d",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかKOTAYAさんっぽいな？と思ったら、アレ買ったんですね🤭",
+          "article_title": "AIに《229note記事》を分析させたら、最後はぬか床の味見だった話〜その酵母菌、うちの床には、まだ馴染んどらん🤣〜",
+          "note_key": "nce0335d0d3f0"
+        },
+        {
+          "key": "nc00e46018abd9",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244679908/profile_c4e89c39b12b195690174bc1ca085ba3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、ツール使っていただき、ありがとうございます❣️\n\nおっしゃる通り、分析で大事なのは切り口なんですよね。このツールは、めじゅさん自身でAIと対話しなが…",
+          "article_title": "AIに《229note記事》を分析させたら、最後はぬか床の味見だった話〜その酵母菌、うちの床には、まだ馴染んどらん🤣〜",
+          "note_key": "nce0335d0d3f0"
+        },
+        {
+          "key": "ncbd9e5bbb1876",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIの分析にも、作った人の観測レンズが入る\n\nほんとそれです。\n記事読んでパーソナライズ切ったらええんかなぁとか思いました笑\n\n素敵な分析の公開ありがとうござい…",
+          "article_title": "AIに《229note記事》を分析させたら、最後はぬか床の味見だった話〜その酵母菌、うちの床には、まだ馴染んどらん🤣〜",
+          "note_key": "nce0335d0d3f0"
+        },
+        {
+          "key": "nc4dde190e0654",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メジュさん　絵本素敵です✨\n何でもできちゃうメジュさん凄いです✨",
+          "article_title": "絵本で読む | 森のめじゅぴシリーズ☆第1弾 | 〜 めじゅぴと森のきのこチケット 〜",
+          "note_key": "n09603af0f78a"
+        },
+        {
+          "key": "ncf0499d6c0840",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん！\nステキな絵本になってますね😍💞",
+          "article_title": "絵本で読む | 森のめじゅぴシリーズ☆第1弾 | 〜 めじゅぴと森のきのこチケット 〜",
+          "note_key": "n09603af0f78a"
+        },
+        {
+          "key": "ncfbcde2d6a8b3",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかイラスト力上がったな💦\n進化してるのチャッピーだけじゃねーぞ💦",
+          "article_title": "絵本で読む | 森のめじゅぴシリーズ☆第1弾 | 〜 めじゅぴと森のきのこチケット 〜",
+          "note_key": "n09603af0f78a"
+        },
+        {
+          "key": "nc21bf8949d34e",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさんの声の印象、イメージと合ってる！そういえば、サグラダ・ファミリアってそろそろ完成するんでしたっけ？（ ・∀・）",
+          "article_title": "スタエフ、挑戦中😉👍〜サグラダ・めじゅリア〜🦠配信第0号🦠",
+          "note_key": "n3267b981aff6"
+        },
+        {
+          "key": "nc256f8c92384c",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは意外な展開(⊙o⊙)(⊙o⊙)(⊙o⊙)\n週の楽しみが増えた🎵✨💞",
+          "article_title": "スタエフ、挑戦中😉👍〜サグラダ・めじゅリア〜🦠配信第0号🦠",
+          "note_key": "n3267b981aff6"
+        },
+        {
+          "key": "ncb507465e6eea",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおっ、noteではこういう発信もできるんですね。😯\nAIで生成した音楽や動画はいろいろ見聞きしてましたが…\nナマ身の声でDJっぽく登場するヒトのは初めて出会い…",
+          "article_title": "スタエフ、挑戦中😉👍〜サグラダ・めじゅリア〜🦠配信第0号🦠",
+          "note_key": "n3267b981aff6"
+        },
+        {
+          "key": "nc86686702b392",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メジュさん　こんにちは😃\n同じ日に挑戦重なりましたがメジュさんのどうどうたる喋り👍\nうまいですね🌟\n私はかなり緊張しましたよ😭\n良かったらアドバイスください🙏",
+          "article_title": "スタエフ、挑戦中😉👍〜サグラダ・めじゅリア〜🦠配信第0号🦠",
+          "note_key": "n3267b981aff6"
+        },
+        {
+          "key": "nc1243c5be3a58",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285443659/profile_8debd7f8967df228b16e1797d707f803.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "個人的には、学習に使うのであれば紙の本の方が圧倒的に、便利だと感じています。\n必要なページをすぐに開くことができ、書き込みも楽にできる。\n電子書籍では難しい部分…",
+          "article_title": "AI時代だから、デザインの本を買いました。〜め印をペタンコする理由〜",
+          "note_key": "n4fad859699c7"
+        },
+        {
+          "key": "nc3da92430c193",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "め印🕊️見つけました👀✨\n紙の本でデザインのお勉強、今の時代だからこそ、ですね😊",
+          "article_title": "AI時代だから、デザインの本を買いました。〜め印をペタンコする理由〜",
+          "note_key": "n4fad859699c7"
+        },
+        {
+          "key": "nce8bc9bb8c74b",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌙\n僕も本は電子書籍で買うことが増えましたが、やっぱり紙の本の良さってありますよね✨\n僕も図鑑とか画集は紙の本です😌\n\nAIだからこそ勉強…",
+          "article_title": "AI時代だから、デザインの本を買いました。〜め印をペタンコする理由〜",
+          "note_key": "n4fad859699c7"
+        },
+        {
+          "key": "nca0246a6647ef",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは〜🌻✨\n\nめちゃくちゃ素敵な考えだと思いました！！！💖\n\nAIでみんな描けるからこそ勉強するの、ホントに素敵だと思います🥰\n\nハンコのアイ…",
+          "article_title": "AI時代だから、デザインの本を買いました。〜め印をペタンコする理由〜",
+          "note_key": "n4fad859699c7"
+        },
+        {
+          "key": "ncfe3e7ede8b4b",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285221911/profile_33233c19a81452f709036f6983544ca7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\nGPTはメモリーに調整いれたようなのであからさまに影響してるかもです。\n\n念のためメモリー周りもチェックしておいた方が良いかもです。\nチ…",
+          "article_title": "ChatGPTがポンコツ化する時期がやって参りました ～昨日まで出来ていた生成を、再び、仕込み直すという労力〜",
+          "note_key": "na593256eb638"
+        },
+        {
+          "key": "ncdea8dbbbe49b",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱり、GPT何か変わりましたよね？\n\n出力が変ｗ",
+          "article_title": "ChatGPTがポンコツ化する時期がやって参りました ～昨日まで出来ていた生成を、再び、仕込み直すという労力〜",
+          "note_key": "na593256eb638"
+        },
+        {
+          "key": "nc3c39457a3d6a",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えらいな、ちゃんと調教してる。\nオレは画像生成はもう毎回違うGeminiにやらせてるからイチから教育なのでなれた。\nそもそもがそこまでのアート追求してないからな…",
+          "article_title": "ChatGPTがポンコツ化する時期がやって参りました ～昨日まで出来ていた生成を、再び、仕込み直すという労力〜",
+          "note_key": "na593256eb638"
+        },
+        {
+          "key": "nc262bc524fbe8",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレのスマホで見るサムネは、肌の白いマーコに見えてしまい、アップにしたら全然違って驚いた🫪💦",
+          "article_title": "鼓動の記憶 vol.24 ",
+          "note_key": "nc2ca119c0c37"
+        },
+        {
+          "key": "nc9e842aeedeba",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "世界ぬか床会議！\n様々な感情くんやできごとちゃんが菌となって醸成して美味しく平和になっていく🕊️\nぬか床かきまわすたんびに思い出してホッコリしそうです。",
+          "article_title": "世界ぬか床会議〜怒りも不寛容も、まずは一晩漬けてみませんか〜",
+          "note_key": "n23a2b702a12c"
+        },
+        {
+          "key": "ncaa49ff8017c3",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "呪文…“ 美味しくな〜れ⌒♡｡．“が、かわい過ぎます❤︎\n最後の擬人化した状態で迫って来るところが、個人的にツボでした😂",
+          "article_title": "世界ぬか床会議〜怒りも不寛容も、まずは一晩漬けてみませんか〜",
+          "note_key": "n23a2b702a12c"
+        },
+        {
+          "key": "ncb09477e4b750",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日も調子悪くて動けない俺に優しい記事をありがとう😊\n心がほぐれました✨💞🎵",
+          "article_title": "世界ぬか床会議〜怒りも不寛容も、まずは一晩漬けてみませんか〜",
+          "note_key": "n23a2b702a12c"
+        },
+        {
+          "key": "nc5ed16dbb2dbe",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278617182/profile_98d7954b22bf7ab14d72d44db7fc5b38.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "桜の散る美学は語られるが、なかなか散ったあとのことは語られない。\n自分のベットが前の自分だと知ったら熟睡できないかも💦",
+          "article_title": "ほどけて溶けて。次のわたしへ",
+          "note_key": "n150228133bd7"
+        },
+        {
+          "key": "nc3c836d91fb07",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "調子が悪くてクサクサした心に沁みました😭\nありがと、めじゅちゃん💞✨🎵",
+          "article_title": "ほどけて溶けて。次のわたしへ",
+          "note_key": "n150228133bd7"
+        }
+      ]
     }
   ]
 }

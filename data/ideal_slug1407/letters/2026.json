@@ -851,6 +851,147 @@
           "note_key": "n77b6625ee2a2"
         }
       ]
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 600,
+        "likes_prev": 690,
+        "followers_start": 1278,
+        "followers_end": 1304,
+        "new_fans": 124,
+        "comments_total": 25,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:12",
+          "00:00",
+          "12:24",
+          "07:00",
+          "06:08",
+          "06:57",
+          "00:00",
+          "06:58",
+          "15:00"
+        ],
+        "top_article": {
+          "title": "黒パグのAIショートショート　15 シロクマ文芸部　お題「水を飲む」",
+          "key": "ne4fb39743923",
+          "likes": 77,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "菅谷健太郎",
+          "urlname": "light_coyote380",
+          "follower_count": 7912
+        },
+        "commenters_count": 10
+      },
+      "comments": [
+        {
+          "key": "nc9132d3e508ca",
+          "user_name": "さらら | ウェルカム・マンデーな保育士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253989522/profile_31f4266d9b8cedb1eb8db584fc7a622d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "勉強になる記事をありがとうございます！\nメモリの存在を知らなかったので、勉強になりました。さっそく開いてみると、、、「メモリなし」でびっくり😳\nそこから、うちの…",
+          "article_title": "ChatGPTがもっと賢く、私専用に！？中高生のための「メモリ機能」完全マスターガイド",
+          "note_key": "n2cd3fd046b63"
+        },
+        {
+          "key": "nc5722acf4001d",
+          "user_name": "ゆうの静かな探究🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268270380/profile_c183a54f90a88d7fd260504c4b19ddb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんばんは！\n\n目から鱗でしたー！私の情報、どこまで覚えてるんだ？という不安が解消されました。こちらが主導権をにぎれるのですね☺️\n私は中高生で…",
+          "article_title": "ChatGPTがもっと賢く、私専用に！？中高生のための「メモリ機能」完全マスターガイド",
+          "note_key": "n2cd3fd046b63"
+        },
+        {
+          "key": "nc145430c0744e",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして❣️\n初コメ失礼します🙇‍♀️\nDreaming V3の匂いに釣られやってきました\nリリース直後はアメリカンダイナーでコーラ飲んでるから、数週間内には…",
+          "article_title": "ChatGPTがもっと賢く、私専用に！？中高生のための「メモリ機能」完全マスターガイド",
+          "note_key": "n2cd3fd046b63"
+        },
+        {
+          "key": "nc7306a6a451df",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、おはようございます🐾\n\n黒パグさんの記事はカワムラサル子🐒には時々難しい時があって\n今日位の難易度がぴったりだと思いました　ありがとうございま…",
+          "article_title": "ChatGPTがもっと賢く、私専用に！？中高生のための「メモリ機能」完全マスターガイド",
+          "note_key": "n2cd3fd046b63"
+        },
+        {
+          "key": "ncf0b02004ae40",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、コメントでは初めまして‼️✨️😊\nスキ♥️をいただいたりして\n本当にありがとうございます❣️✨️\n\nとても、分かりやすい記事〰️✨️\n情報の出典…",
+          "article_title": "ChatGPTがもっと賢く、私専用に！？中高生のための「メモリ機能」完全マスターガイド",
+          "note_key": "n2cd3fd046b63"
+        },
+        {
+          "key": "nc175b47a41451",
+          "user_name": "リタ雪玉",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264827303/profile_f0db1dd090a1f52634474150f454b4b5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "壮大に何も始まらない、といういにしえの言葉を思い出しました…\nお借りして遊んでみますw",
+          "article_title": "GPT-Image2の正しい無駄遣い方　遊べるプロンプト付き！",
+          "note_key": "nb6be58176dd6"
+        },
+        {
+          "key": "nc1f9ce720fb98",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "草単価表の記事、とても面白かったです。\n\n私は途中で「草」の意味が分からなくなり、ChatGPTに解説してもらいながら読んでいました。\n\nその体験が面白かったの…",
+          "article_title": "草単価表🌱2026：Fable 5襲来、経理部は泣いた🌳",
+          "note_key": "n52407e48fcc1"
+        },
+        {
+          "key": "nc8eb328ea3820",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初の「wwwwwww」で、何が起きたんだ？？？\nって思いました（笑）",
+          "article_title": "草単価表🌱2026：Fable 5襲来、経理部は泣いた🌳",
+          "note_key": "n52407e48fcc1"
+        },
+        {
+          "key": "nc08db8d19b658",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは☺\nこれは保存版ですね！\nこうやって書き出すとおもしろいですね♪",
+          "article_title": "【保存版】（保存するな）家庭内ステータスコード一覧",
+          "note_key": "nf32ca9bafc26"
+        },
+        {
+          "key": "nc15a40bfd8769",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281360538/profile_866788efec1a05f62a4847a7f094f578.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん✨ こんにちは☀\n\nビーフシチュー用のお肉🍖にヨダレが(´﹃｀)\n\n私の分も入れて9人前にしてください🙌",
+          "article_title": "【保存版】（保存するな）家庭内ステータスコード一覧",
+          "note_key": "nf32ca9bafc26"
+        },
+        {
+          "key": "nc151da43a08f5",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、おはようございます☀\n記事面白かったです❤️\n仲良さそうなご家族で素敵。\n私もビーフシチュー食べるから8人前にしてください。\n\nうちは、なき夫…",
+          "article_title": "【保存版】（保存するな）家庭内ステータスコード一覧",
+          "note_key": "nf32ca9bafc26"
+        },
+        {
+          "key": "ncb4e26d2d8144",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、こんばんは。\n月曜日お疲れ様でした。\nレッドチーミング、勉強になりました。\n\n昨日私のねとふりがペルー人のアンソニーさんに\n乗っ取らてのんきに…",
+          "article_title": "味方なのに、本気で殴ってくる ―― レッドチーミングというお仕事",
+          "note_key": "n46ae998b6ff4"
+        }
+      ]
     }
   ]
 }

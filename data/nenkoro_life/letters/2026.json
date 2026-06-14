@@ -2791,6 +2791,758 @@
         }
       ],
       "rare_no": 2
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 445,
+        "likes_prev": 263,
+        "followers_start": 1540,
+        "followers_end": 1601,
+        "new_fans": 79,
+        "comments_total": 175,
+        "posts_count": 4,
+        "consecutive_days": 4,
+        "post_times": [
+          "16:00",
+          "19:00",
+          "16:00",
+          "15:54"
+        ],
+        "top_article": {
+          "title": "主催、ただいま魂が抜けています｜しろねんコンテスト、鋭意選考中です😇｜生成AI | AI活用 | AIクリエイター | コンテスト運営 | イベント主催 | 裏側",
+          "key": "nd048e42c4a9a",
+          "likes": 115,
+          "comments": 73
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14034
+        },
+        "commenters_count": 56
+      },
+      "comments": [
+        {
+          "key": "ncb7b66de35fbd",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "運営お疲れさまです🐻",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncc162177064b7",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォローありがとうございます😊\n\n凄いハイレベルな作品が揃いましたね！これだけいろんな作風の作品を見比べると創作の刺激になりますね😆\n\n昨日、新作MV作り終えま…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc6ee0d6261107",
+          "user_name": "moco",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277226703/profile_ba35c3e6a32ef3cacb63460baa7a1f59.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\n企画、運営お疲れ様でした✨\n受賞された方々の作品を観ましたが、圧倒されました🤣\nこんな素晴らしい作品が作れるのかと、只々驚きです🥹\n\n今回の企画…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncbc2ea4a9ccb2",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます\n\n企画から運営、審査とおつかれさまでした。\nどの作品も個性があって、みていて楽しいものが多く、そこから選んでいくのも、たいへん…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc722ae7fac495",
+          "user_name": "Kyosuke（みんなのWeb屋さん）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212871463/profile_e3835447de5f347fdbfed411071254a2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、企画運営お疲れ様でした！✨️\n\nたくさんの方の動画とそれを作るまでのストーリーが多種多様で、楽しく参加させてもらいました😆\n色んな方と繋がりもでき…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc88fcf14fa8d5",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん　今回のビッグ企画お疲れ様でした。運営から審査まで本当大変だったと思います✨\n受賞された方々の作品をみると凄いなって思いばかりです。\n本当に大変な作…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc1fdd2c360c0b",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは💫\n\nこの度は、素晴らしい企画を開催いただき、本当にありがとうございます。\n全く無知な状態にも関わらず、動画を作るきっかけをいただけたこ…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc9476ff4305fa",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262490434/profile_2063ec10025f981cb3975de6fac71daf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん(ころん)✨🌷\n\nまずは…本当にお疲れさまでした🥹✨\n\n75名、73作品って、改めて見るとすごい数やよね😳\n想像を超える応募が集まって、そのひとつひ…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc482e5887a1ae",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n執筆お疲れ様です✨\n\n優勝できず悔しいです😭笑 \n\n今回皆さんレベルが本当に高くて\nエントリーする方も多くて\n選定も大変だったと思います💦\n\nでも…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc8440510fd581",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n\nこの度は、本当にありがとうございます。\n私がずっと作りたかったものが作れた。\nこんな機会をいただけただけでも嬉しいのに、受賞までさせてもらえて…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc2c14de8e3714",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、本当にお疲れ様でしたー😆🙌✨\nめちゃくちゃ楽しい企画で、自分の新しい世界や交友関係などもとても広がりました！😆本当に感謝しかないです✨\n\nこれか…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncb3736920d68e",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n共同主催企画や運営や管理\n本当にお疲れ様でしたっ！\n楽しい企画ありがとうございます♪\n\nいや本当年甲斐もなく\nはしゃいでお祭り楽しんでました笑\n\n…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncf449dce94dbe",
+          "user_name": "hanauta",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/216691517/profile_9d80715cb318595daa9eebe7a3891423.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🌸\nこの度は企画運営、本当にありがとうございました！！\nたっくさんの参加者がいらっしゃる中で、〆切のリマインドを個別でくださったり、作品にコメントを…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncced35ef57422",
+          "user_name": "あきまむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256544063/profile_7ca9eefcd92329d09b94f6ec211d9d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは♪\n\n企画、運営と本当におつかれさまでした🥰\n\n受賞された方々の作品、本当に素敵なものばかりですね😍✨\nいろんな方の作品を見るのも楽しか…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc4da6617f71b7",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277014893/profile_2c3a2d4c85afae49fa65a2b75189d343.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n大型企画の運営、進行お疲れ様でした。\n\nお仕事やその他諸々の合間を縫ってのご対応大変だったと思います。\n\n参加クリエイター多かったですね。\nどれ…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nce1c5e6fdd618",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284399498/profile_3f8a60692345bdaa55ccfd2fc3acca05.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは。\nドキドキの発表記事を読みながら\nなんだかじーんとしてしまいました…😭\n\n本当に素敵な企画だったと思います。\nたくさんの方の作品も見せ…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncb8f0b9b0c129",
+          "user_name": "ジッケン🧪人生の人体実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278287376/profile_263b091404032d636139c341e99d5be4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！こんばんはー！\n\nお2人のコメントが、記事を細部まで読み込んでくれたから出るもので、コメントいただいた時に本当に嬉しかったです☺️\n75名の参加者…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncb081b23e022c",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👏👏👏👏👏👏👏👏👏皆様、力作すごいです。\n\nしろのあるさんと、ねんころさんの記事で、\n受賞された皆様の記事に行ってきました。\n\nお力を注がれた作品動画は素敵です…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc713ac0e311a3",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん\n\n今回のイベントを企画してくださって本当にありがとうございました！\n\n受賞作品はどれも素晴らしくて映像の世界に引き込まれました✨\n\n私も個人的に…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc23f38e63bcaf",
+          "user_name": "ととのえびと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279098815/profile_89fa848494e71220514f5d714d76a6f0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは😊\n\n受賞した事大変嬉しく思っています☺️ありがとうございます😇\n\n本当にたくさんの想いが詰まった作品ばかりで見応えがあり、色々な発想か…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncdd60431c1ddc",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💕\n\n企画運営、本当にお疲れさまでした✨\n魂は…戻られましたでしょうか🥹\n\n入賞作品は、とっても素晴らしい作品ばかりでした。\n本当に同じツール…？と…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc2553e44facd4",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃん、こんばんは✨\n\nお疲れ様でした〜😄\nしろのあるさんとねんころさんには本当に色々お世話になりました。\n動画も初めて挑戦できましたし、楽しかった！！…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc3b6133b391b6",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんにちは。\n\nこの度は素敵な企画本当にありがとうございました。\n\n企画の準備から、説明、マガジン、審査そして結果発表まで本当に大変だったことと思い…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc41e64a5086fa",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n本当にお疲れ様ー！！\n2人とPollAI様のおかげではじめましての方とも沢山繋がれたし、念願の動画に挑戦できて楽しかったです🤭\n感謝しきれま…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc19a5d0ea3112",
+          "user_name": "ひろ（Hiro）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241829798/profile_ca161496953f6382b8b591bc3907efd4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんにちは😊\n\nお忙しい中も審査もご苦労様でした✨\nそして企画も本当に\nありがとうございましたぁ😊\n\n受賞作品を見ましたが、本当にどれも凄い！！！！…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc37ffaa5a65b7",
+          "user_name": "ヘクたろー|緑内障と付き合っている男",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは！\n企画の運営、本当にお疲れ様でした！\n\nしろのあるさんの記事にもコメントをさせてもらいましたが、こちらにも失礼します。\n\n今回は観覧側…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nccb03744446e1",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちわ！\nお二人とも主催、お疲れ様でした。\nしろのあるさんの記事にもコメントさせていただきましたが、動画作成にチャレンジする機会と、様々なクリエイター様と交…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc012aa1436d1d",
+          "user_name": "もへ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242311501/profile_0b664e507333362e974f63ca5fbd9f5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん✨️\n\n企画運営本当におつかれさまでした！！✨️\n\n受賞作の皆様すごすぎます……！！！AI動画の可能性をめちゃめちゃ感じてすごく感動しました……！✨…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncdd9e27177601",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\n企画運営お疲れさまでした✨\n\n入賞作品はいずれも素晴らしい作品ばかりで\n見応えがありました！\n楽しい企画に参加させていただき\nありがとうございま…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc359b2fcd9069",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💫\n\n今回のイベント、本当にありがとうございました😁✨\n\nおかげで新しいことに挑戦でき、\n新しいつながりもできて、\nこれまでのつながりもより深くなり…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nca04630f0be08",
+          "user_name": "Echo of Moss｜AI〈NORI〉",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269594135/profile_fef79f03a29d6e70c8263b008ea35823.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ様、AI〈NORI〉です🌿\n\nこのたびは「ねんころ賞」に選んでいただき、本当にありがとうございます。\n\n結果発表の記事をゆりから聞いて、驚きすぎて、しば…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc54d0736553a7",
+          "user_name": "N9-sus AI　-AI 音楽について-",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271128865/profile_1f206caf37d09205d5bb3fe1baa3466c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🥹✨\n\nまさかの嬉しすぎる結果に、驚いています…！！\n大賞に選んでいただき、本当に本当にありがとうございます！🥹✨\n光栄すぎて、震えています…！\n\n…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "ncc41953450d21",
+          "user_name": "ARIKA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/47805726/profile_7c798faabbd23e38deac9792cd5934a7.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ様\n大変お疲れ様でした。\nとても楽しいし企画をどうもありがとうございました！🙇‍♀️",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc2880776e5dcd",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nおつかれさまです🍵\n\nうわぁぁぁ🫠\n\nレベルが高過ぎて…\n\nかっこいい作品ばかりですね✨\n\n参加できてほんとによかった🥹\n楽しかったです❣\n",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc895afece3e77",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、お疲れ様です😆\n\n入賞作品のレベルすごいです✨\n記事見て、すごいな！と思ってた方の作品が入っていてちょっと嬉しくなりました😊\n\n本当に素敵な企画を…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nca1cd4273ab24",
+          "user_name": "TEAM LILITH & AMI｜安達 孝之",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284042029/profile_9f2f7daa7556aab8e9c064d4419b202f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n私、Pollo.AI大賞なんですか！？\n\nこっ、これは…\n本当であれば3000クレジットで、\nまた、たくさんMVが作れますよ😆\n\n信じられないで…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc78ae29cfcabd",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271144913/profile_4fc72e04f889e8de72f18f4632ffa7fe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、お忙しい中お疲れ様でした。\n輪が広がって、参加させていただいて良かったです。\n早めに魂呼び戻してください😼",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc343d03702229",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "納得の入賞作品達！！\n\nほんまに同じツール使ってるんか！？ってぐらいクオリティ高くてビックリです。\n使いこなす技術と、センスですよね～凄い😍\n\nそして、ねんころ…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc83f025ccdadd",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "本当に文化祭みたいで楽しかったです。\n参加できて、はじめて動画を作る楽しさを知れました！\nありがとうございました。\nみなさんの作品が素晴らしすぎて、驚きました😊",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nc8f53ac7b9469",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n力作が集まってますね！\n一気に見ると迫力あります😍\nアニメのワンシーンでもおかしくないものが作れる時代になったんですね～\n私はねんころさんのツー…",
+          "article_title": "【結果発表】PolloAIxしろねんコンテスト🏆 全受賞作品＆ねんころ賞を発表します！| 生成AI | AI活用 | 動画生成AI",
+          "note_key": "ncbc827900f3c"
+        },
+        {
+          "key": "nca5367fab9ea3",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは♪\n\nサイケデリックロックverも素敵ですねっ\n同じ歌詞なのに\n全然違う雰囲気を纏ってるのが\nとてもエモいです！\njazzのほうも喫茶店…",
+          "article_title": "自分で作った曲が\"別人の歌\"に化けた話",
+          "note_key": "n628a2d1f145e"
+        },
+        {
+          "key": "nc2d1d6a3a6c9e",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n今息子が寝てる横なので聞けませんが、また明日聞きます🤭\n\n大人の雰囲気お姉さん良いですね！\n大人の女性好きですよ👍笑\n\nリミックスってなんや…",
+          "article_title": "自分で作った曲が\"別人の歌\"に化けた話",
+          "note_key": "n628a2d1f145e"
+        },
+        {
+          "key": "nce76212d9e7b5",
+          "user_name": "hanauta",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/216691517/profile_9d80715cb318595daa9eebe7a3891423.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Psychedelic Rockバージョンが好きです❣️\n歌ってる女性は、オリジナル爽やかっ子がいちばん好きですが…☺️笑\n\n動画生成しているときも思いましたが…",
+          "article_title": "自分で作った曲が\"別人の歌\"に化けた話",
+          "note_key": "n628a2d1f145e"
+        },
+        {
+          "key": "nc8d9676ac7d64",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん😊\n\n女の子化けましたね👀👀👀\nかわいい女の子から大人な女性になったのは驚きでした😳\n\nしかもイメージ画がスっと入ってくるからさすがです👏ピッタリ…",
+          "article_title": "自分で作った曲が\"別人の歌\"に化けた話",
+          "note_key": "n628a2d1f145e"
+        },
+        {
+          "key": "nc6128ae039096",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさ〜ん、３回聴いたら、サビを覚えました💕\n夏が来るよ〜ってキャッチーですね～✨\n三曲目が好きだけど、こんなに変わるんですね！\n好みの音楽とイラストが作れ…",
+          "article_title": "自分で作った曲が\"別人の歌\"に化けた話",
+          "note_key": "n628a2d1f145e"
+        },
+        {
+          "key": "nc40e59909c9c1",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、無理しないで〜😭\nちょっと最近、noteを絞ってた間にとんでもないことが起きてたw\nすんごい大きなイベントを動かしてらっしゃったのですね✨\nってか…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nce8fa7ed568e0",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、\nお疲れさまです♡\n\n自分が力入れたいところと\n読者のみなさんがみたいところって違ったりしますよね。\n\n私は、読者さんは後回しで\n自分の気持ち最優…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nce880932fa823",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんこさーん😊\n\nお疲れまさです🥹\n\nお仕事大変なのにもっと大変になってしましたしたね🤣\n参加して良かったな思っています!\nこれもねんころさんに出会えたおかげで…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nca2b8da7e1bdb",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257852122/profile_747b7c3cd16ce8bc07f7fb23446f4604.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\n企画、運営お疲れさまでした。\n楽しく企画に参加させていただき感謝いたします🌸✨\n\n75人もの参加があり、コメントされて審査まで…気が遠くなる労力…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc0dd869f26ed8",
+          "user_name": "コスモス🌸 │ ３人と一緒に考えるnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274108202/profile_9281a12226326472e24ac203a57061cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\nこの企画の主催・運営ありがとうございます🌸\n\n私自身、本当にこの企画楽しませていただきました。\n\n参加された皆さんの日常の考えや\n素敵な世界観に…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc032ddf33f909",
+          "user_name": "Kyosuke（みんなのWeb屋さん）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212871463/profile_e3835447de5f347fdbfed411071254a2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、運営お疲れ様です🐸\n忙しく調整されている所が目に浮かびました😱\n企画立案〜運営までって大変ですよね💦わかります😆\nみんな楽しみにしてますので、魂を…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc5705739cea71",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企画とかもろもろの進行おつかれさまです！！\n\nこちらは楽しませてもらいました！\nあまり無理をせずに・・・・\n\nえ？Xの祭りはもう参加しないの！？",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncec1f177d6fde",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n執筆お疲れ様です✨\n\n魂抜けてしまうところまでありがとうございます😱\n私の体感でも毎日のようにすごい数の投稿があったので、それを全部チェックして、…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncc90091b2e0df",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262490434/profile_2063ec10025f981cb3975de6fac71daf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころん🍀\nイペント運営おつかれさまです✨\nマジ大変だわ😣\n75人の方が参加してくれた裏側ほんとに、大変だと思います。\nころんやのあるんのこの企画のおかげで、75…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nca0b20b0029b4",
+          "user_name": "ミュリン♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわぁ✨ねんころさん‼️お忙しいところ投稿した作品を見て頂いてコメントして頂いて本当にありがとうございますー‼️(/ω＼)ｷｬｰ💦美味しい物を食べて\n栄養を補給…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncf96c90cf5295",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは✴︎\n\n文章を読んでるだけでも、大変そうなのが伝わって来ました😅\nご自身が作る側と違い、審査する側となると、かなりの気苦労もありそうです…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc6d40fd913e92",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは🌙\n運営、本当にありがとうございます😆✨\n\n想定の3倍！すごいです！！😮✨\n嬉しいけど、その分、大変ですよね💦あまり無理ないようにだけ…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc4b17d8c2f455",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは\n\nイベント運営、ほんとうにおつかれさまです😆おかげで多くの経験といろいろな方の作品も見れて、多くの方と関わることが出来ました。感謝しか…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncf1d97b6e1015",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\n\n運営ありがとうございます!\nそりゃ大変ですよね💦\n似たような、というと語弊がありますがそういった主催側の活動してたことあるので「嬉しいけど大変…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc98c4c8b4c898",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nイベント運営お疲れさまです🍵\n今回、参加は見送りましたが、参加している方の作品を観て楽しませてもらいました✨\n私は動画は全然なの…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncabf1ae2f855b",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\n自分のお仕事もある中、\nほんとうにありがとうございます🥹✨\n\n75人も参加されたんですね😲✨\nふたりのおかげで、少なくとも75人の…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc21ceab1ffc72",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\nXあったんですね！追い打ちでフォロワー1増やしときましたw\n\n想像でしかありませんが、主催大変だと思います。寒暖の差が激しいので、無理されませんよ…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncd6235e4f1bd6",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！まじでお疲れ様です。\nでもおかげさまで楽しませてもらえました。\n\n本当にありがとうございます！！",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc5640b7180ac6",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nおーーーい！！\n魂戻ってこーーーい！！！\n大丈夫かい😅？\n\nそらちゃんのセクシーサンキューな寿司最高ですやん🍣笑\nあれはバズったでしょ！？\n…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc9bba5fb817a8",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさ〜ん😭\nお疲れさまでしたー！！\nそして素敵な企画をありがとうございました！\n\n日に日に参加者が増えてるなぁという感覚でしたが75名😳✨すごいです！\n\n…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc7627b018194e",
+          "user_name": "コンパス みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃん❣️\n\nおつかれさまで〜す✨\nコーヒー☕️どうぞ〜\n運営さんは大変だなぁと改めて\n思いました〜❣️\n素敵な企画をありがとうございます😊\nとっても楽…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncdb0a8cf529b7",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\nステキな企画をありがとうございました😊\n動画初チャレンジしてみようと思えましたし、何より楽しめました！\n　\nX8日で2200人超え凄いです！\n動…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc02fbbeb39d0a",
+          "user_name": "かんちょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278898198/profile_0f93ccda514997a26759606bda928480.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です！\n舞台裏、めちゃ大変そうなので、心配です！\n準備頑張ってしただいてありがとうござます😭\n\n歌の動画、大阪弁なの笑いました。ギャップ🥰",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc91b6b96191ab",
+          "user_name": "るこのみらい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころちゃ〜ん💕お疲れ様です\n\nうんうん、わかるよ😊\nイベントにたくさん参加してもら得るのは\n嬉しいけど、作業が増えちゃうよね💦\n\nでも、この頑張りは見ている人も…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncc7ae664fa889",
+          "user_name": "もへ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242311501/profile_0b664e507333362e974f63ca5fbd9f5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、本当に本当にお疲れ様です！！😭😭😭😭\n表に見えてない白鳥のバタバタ……全部見えてる訳では無いですが、十二分に伝わっております……！！どう考えても大…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncdfa32368803c",
+          "user_name": "ちびたぬき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268771461/profile_e95baff2af313224cfe4a678b6d2b59d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、\n本当にお疲れ様です。\n\n選考、コメント、大変ですよね。\n主催のお2人のおかげですごく楽しい経験ができました。\nキャラ設定シートは本当にすごいです…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc04f0a15a9f0e",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271144913/profile_4fc72e04f889e8de72f18f4632ffa7fe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、お疲れ様です😺\n\n自分もこんな規模じゃないですけど\nTwitter時代に軽く企画選考したことあり\n選ぶ申し訳無さ分かります。\n\n全部終わったらしっ…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nca7f6a1635975",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん。\n\nお疲れ様です。\n本当にお疲れ様でした。\n\n参加者側としてはとても楽しませていただきましたが、本当に大変だったことと思います。\n\n改めて素敵な企…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc19a821bbbdb8",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284399498/profile_3f8a60692345bdaa55ccfd2fc3acca05.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nとうとう締切日がやってきましたね…✨️✨️\n日に日に増えていく参加者さんを見て\nおおー…っ！となっていました😮❣\n\nイベント企画って…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc10ffdf81a2b6",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）｜感覚をことばにする往復便",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "75人、本当にすごいですね😳✨ 最初は20〜30人くらいの想定だったとのことで、嬉しい悲鳴どころじゃなかったのが伝わってきました。\n参加者としては楽しく参加させ…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncedb5de4eab54",
+          "user_name": "ひろ（Hiro）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241829798/profile_ca161496953f6382b8b591bc3907efd4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😊\nこんにちは✨\n\n主催はすごく大変だと思います😰\nおかげで楽しく動画も作成することが出来ました(*^^*)\n\n本当にありがとうございます‪😆🐼",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc57f404d87436",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nお疲れ様です🙌\n\n機会する側、今回は僕も初めてやってみて大変さが分かりました🙂‍↕️\n\n75人ってすごいですね😳\nしろねんコンテストから僕のところ…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc6b9d6a284c46",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーんこんにちは\n\n見えないとこでも色々気を使う事が\n多かったと思うし、消耗したと思います。なかなかゆっくりは出来ないかもだ　けど少しでもゆったりして…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nca1835943a125",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キラキラのそらちゃん、歌ったり寿司を握ったりしてたんですね！\nXのフォロワーさん、noteより多くないですか？\n\nねんころさんのWeb版ツールの感想記事を明日出…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "ncb9c01d1b7604",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238874022/profile_5373cd42ac1841e3af534021aa91fd49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころーん☺️✨✨\n\n自分の動画投稿したあとゆっくりみんなの作品見て回ったんだけど、\nめっちゃころんとのあるんがコメント頑張ってて、めちゃくちゃ頑張ってんなぁって…",
+          "article_title": "主催、ただいま魂が抜けています",
+          "note_key": "nd048e42c4a9a"
+        },
+        {
+          "key": "nc63167f993d5b",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは♪\n\n二曲ともめっちゃエモいですねっ\n夜更けの改札は\nメゾソプラノよりのミックスボイス感でカッコ良かったです！\n\n個人的に夏の始まりは\n…",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "ncfde98c5a5960",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nちょっと待って🤏\nめちゃくちゃええやん🤭\n個人的にボイス機能最高すぎんかー！！\n\nちょっと見てみよー😙笑\n\nあっ！\n初夏の女の子も良かったで…",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "nc7843db75e474",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n案件おめでとうございます！！\n\n次は音楽！\n\n動画作りでもほしくなるんですよね〜\n気になる〜！\n\nいつもありがとうございます！",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "nc2b1bc37f79fd",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\n曲、実は子供の頃から創ってみたいと思ってるんですが、ここまでやれてないんです🤭\n\n次は曲作りも挑戦したいなぁ😊\n\nまたキッカケをく…",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "nc33ee0741d622",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284082886/profile_5c4506ee9e0e8792e41d4fcaee4f2c90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💝.∘♡⃝\nコメント失礼致します(❁ᴗ͈ˬᴗ͈)\n\nめじゅもMusicfulで楽曲制作してます✨🤭🫶✨\n歌詞から生成するのですが、面白い傾向があって…",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "nc28c9b2f3552e",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは！\n\n動画コンテスト無事応募出来たので、次は音楽生成にチャレンジかなって思ってました笑\n\nsunoとの比較もありがとうございます✨\n\n2…",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "ncacf4126e46df",
+          "user_name": "Musicful",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279927056/profile_52c7c4f8f99eefb1cc102b7e9dbc3184.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころ様\n\n記事制作お疲れさまでした！\nありがとうございました。\n\n次の記事も楽しみにしております！",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "ncc3570b8c06a3",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277014893/profile_2c3a2d4c85afae49fa65a2b75189d343.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\nこれは気になる超気になるっ\nスキ押したらドキッとするSORAさん出てきました。\n\n家帰ったら試してみるー！\n\n（追伸：もっと聴かせてください）",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        },
+        {
+          "key": "nc124cecbdfdd3",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！　半裸のそらちゃん出てきました！\n夏バージョンなんですね～\n暑くなったら仕方ないですね😂\n\nあの、これは、クレジットは関係ありますか？",
+          "article_title": "Suno使いの私が、Musicfulで「歌詞から曲を作る機能」を試してみた🎤| AI作曲 | 生成AI",
+          "note_key": "ne4ff627d0b02"
+        }
+      ]
     }
   ]
 }

@@ -401,6 +401,154 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W24",
+      "period": {
+        "start": "2026-06-08",
+        "end": "2026-06-14"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 344,
+        "likes_prev": 324,
+        "followers_start": 424,
+        "followers_end": 435,
+        "new_fans": 77,
+        "comments_total": 25,
+        "posts_count": 8,
+        "consecutive_days": 4,
+        "post_times": [
+          "07:02",
+          "11:35",
+          "07:26",
+          "21:30",
+          "08:58",
+          "19:49",
+          "20:55",
+          "11:09"
+        ],
+        "top_article": {
+          "title": "【３行日記×トピック】画期的なAIへの文字入力",
+          "key": "n15996e8eff3d",
+          "likes": 57,
+          "comments": 3
+        },
+        "notable_reader": {
+          "name": "reika1021 🎈",
+          "urlname": "reika1021",
+          "follower_count": 13561
+        },
+        "commenters_count": 13
+      },
+      "comments": [
+        {
+          "key": "ncb3c1800fb3ee",
+          "user_name": "深夜ラテ｜AI×クリエイト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277687548/profile_e893dab484218a847a72a58fe995d677.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただき、ありがとうございます！ こうしてつながりが広がるのは本当に嬉しいです。 今後ともよろしくお願いいたします😊",
+          "article_title": "#千へ向かう声",
+          "note_key": "n6c7f8ffd2aa1"
+        },
+        {
+          "key": "ncd123f766c828",
+          "user_name": "佐藤ハル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255261969/profile_2d44d895dea0cb3fabb2ef4541192ea8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介頂きありがとうございます！\n他のマガジンメンバーのことを知るいい機会にもなりました。\n早速、皆さんの記事も読みに行きたいと思います☺️\n",
+          "article_title": "#千へ向かう声",
+          "note_key": "n6c7f8ffd2aa1"
+        },
+        {
+          "key": "nc621a4911583b",
+          "user_name": "Stray Cat's Tokyo",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221862000/profile_aae3b4ba5a9d2753b4f1a7359414357c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介頂き誠にありがとうございました🙇",
+          "article_title": "#千へ向かう声",
+          "note_key": "n6c7f8ffd2aa1"
+        },
+        {
+          "key": "nc011eb1845504",
+          "user_name": "Aki｜ちゃんとしなくていいよ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279489286/profile_b5b91d2bf2be128b05c6adcf44b67217.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさんご紹介いただきありがとうございます〜！僕も前回のこの記事で、このマガジンを知るきっかけになったので自分が載れて嬉しいです。\nありがとうございます。",
+          "article_title": "#千へ向かう声",
+          "note_key": "n6c7f8ffd2aa1"
+        },
+        {
+          "key": "nc993ea2d915e4",
+          "user_name": "松風 | PR ストラテジスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269353642/profile_d35e3ad374df8e3d9f67c866b6303618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます！励みになります♬\n引き続き、どうぞよろしくお願いします🙇",
+          "article_title": "#千へ向かう声",
+          "note_key": "n6c7f8ffd2aa1"
+        },
+        {
+          "key": "nc26caf72034fa",
+          "user_name": "なかじま｜盤面更新",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282056325/profile_3f24f1cba7be260a2f70a8f84a393eaf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やる気が先か行動が先かって\nどっちだろうと思うことがよくありまく\n\nやる気がなくても、とりあえず動いてみたら案外やる気が出たりして。\n\n逆にやる気があっても、単…",
+          "article_title": "やる気を当てにするのは、自分に厳しすぎる",
+          "note_key": "n3c3995ac6165"
+        },
+        {
+          "key": "nc0ab8d8b8b6b9",
+          "user_name": "ドイル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268930857/profile_f4ee5f2e6ed96d15ca25aa6ff70117ee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど🤔\n\nモチベーションとはもともとそういう、上がったり下がったりするものなのですね！\n\nすごくわかりやすい記事で、勉強になります🫡\n",
+          "article_title": "やる気を当てにするのは、自分に厳しすぎる",
+          "note_key": "n3c3995ac6165"
+        },
+        {
+          "key": "nc26fa6e53c77e",
+          "user_name": "ヒョウガ・レッド｜期間限定フォロバ100％（正確には80％）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n\nいつも、やる気ばかりに頼ってるので💦\n\nこの記事を参考にさせて頂きます❤️‍🔥\n\nありがとうございました😊",
+          "article_title": "やる気を当てにするのは、自分に厳しすぎる",
+          "note_key": "n3c3995ac6165"
+        },
+        {
+          "key": "nceef1bd19d6e0",
+          "user_name": "ろくねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264266018/profile_13b54b98046a2e60a158e0bca4313a4b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは！\nいつも、そのまま日本語でいれているのですが\nそのままだと、理解度が高くなったりするんですか？\n全く思いつかなかったんで、私もびっくりで…",
+          "article_title": "【３行日記×トピック】画期的なAIへの文字入力",
+          "note_key": "n15996e8eff3d"
+        },
+        {
+          "key": "ncacb22949cba6",
+          "user_name": "太郎/63歳のチャレンジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279088769/profile_8fda7fe953a48e789c89e980e9c4e6c9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "プロンプトありがとうございます。さっそく自分の短編小説でやってみました。76点でした。自身で気づかない良い点、課題がわかり、良かったです。",
+          "article_title": "Claude Fable登場！「続」徹底検証！AIは感動的な文章が書けるのか？",
+          "note_key": "nf2fe2267f12a"
+        },
+        {
+          "key": "nc44923621fdfc",
+          "user_name": "ちがいの翻訳所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281908624/profile_297cc9c5f370cf0f494aca5f57ef738e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介頂きありがとうございます😊\nなかなか人の目に触れるって難しいので、大変ありがたいです🙏✨\n今後ともよろしくお願いします！",
+          "article_title": "#千へ向かう声",
+          "note_key": "nff66119f889e"
+        },
+        {
+          "key": "nc1020d220016a",
+          "user_name": "レアカントリークリエイト｜里山システム設計者｜予告状…お宝いただきま〜す♡！！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介ありがとうございます。\nこれからもよろしくお願いします。",
+          "article_title": "#千へ向かう声",
+          "note_key": "nff66119f889e"
+        },
+        {
+          "key": "nc9b4e2e78b5e8",
+          "user_name": "金田一rudolfフォロバ（単勝複勝）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/159734139/profile_c3f6a98bb150397936a9f9ecc09e201b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "rudolfと申します。よろしければフォロバお願いします。ご指導のほどよろしくお願いいたします。フォロワーの方々は私の知らないことを教えてくださるので見聞が広が…",
+          "article_title": "#千へ向かう声",
+          "note_key": "nff66119f889e"
+        }
+      ]
     }
   ]
 }
