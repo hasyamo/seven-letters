@@ -4190,6 +4190,344 @@
           "note_key": "nfa06b3b7cfb4"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 1292,
+        "likes_prev": 1508,
+        "followers_start": 1209,
+        "followers_end": 1229,
+        "new_fans": 128,
+        "comments_total": 64,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "14:01",
+          "23:08",
+          "21:59",
+          "18:41",
+          "17:30",
+          "21:26"
+        ],
+        "top_article": {
+          "title": "同じことを書いたっていいんだよ📚",
+          "key": "n4d67bc4b6f0a",
+          "likes": 314,
+          "comments": 34
+        },
+        "notable_reader": {
+          "name": "小牧幸助｜小説・エッセイ",
+          "urlname": "komaki_kousuke",
+          "follower_count": 12514
+        },
+        "commenters_count": 27
+      },
+      "comments": [
+        {
+          "key": "nc5f281e7f2465",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\n今回もマガジンに追加していただき、ありがとうございます！\n\nまさか「酔っぱらい学」の研究成果を、こんなにも継続的に拾っていただけるとは思っており…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nced890988405c",
+          "user_name": "Yufu｜朝日と花と、これからの人生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273458821/profile_c3e2b3e7197d5a204e1d64cab81f6942.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読んでくださり、ありがとうございました。 ひとつのスキの向こうにいるあなたを思い浮かべながら、感謝の気持ちを送ります。 今日がやさしい一日になりますように。",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc0d943f0965d6",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、今回もマガジンに追加してくださりありがとうございます！\n今回はコンテストに寄せつつも、いつもの旅の話として書いてみました。\n書いているうちに、旅を…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc4ea8b367f58e",
+          "user_name": "ひより",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286434166/profile_ba0e4e669a9dea73a4cfd0794ff71a29.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いろいろな記事を拝見させていただきました。始めたばかりなので、励みになりました。\n父の日に、子供のつくる布のハンカチを求めるのは、とても素敵なことだなぁと思いま…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc364356965421",
+          "user_name": "タピ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272168408/profile_3c52f5313b371eee23c698ed6f032612.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろ様\n\nマガジン掲載ありがとうございます😊\n\n記事を読んで、同じテーマでも何度でも伝えていいんだなと改めて感じました。\n\nいつも温かい言葉に励まされていま…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc21cf1271acba",
+          "user_name": "Poma Noah | 楽天ポイ活まずはこれだけ☆彡 | ほしのはじまりもとめて☆ |フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207651029/profile_ba5e9df9e3fcf9a27f6175d9479eb757.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nマガジン追加ありがとうございます☆彡\n\nわかります〜\n\n記事書いてると、これ前書いたかも？\nって思いますよね\n\nただ、はじめてページきた方は知ら…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc3f04fc6c1068",
+          "user_name": "ロンさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280390825/profile_5ce1be1d8a1bd5d2edad7910ae126e26.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "参考になります！",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nce0c4d9ca9f19",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\n不思議ですよね。3カ月前に書いた時と視点や考察が、変わっていてまるで別の記事。この現象は、未熟な自分だけだと思っていたので、ホッ🥲🥲\n…なので、…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc29c19dbbecbc",
+          "user_name": "ハゲポッコリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232774139/profile_3ba1074548b0a18d189e6a95912c76e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして\n確かに、あれってことあります。\n結構気にしてしまうタイプなのかもしれません。\nでもこれを読んで ちょっとホッとしました（笑）\n勝手ながらフォローもさ…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc70c620e16f53",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287069680/profile_cf6dcabd14785d5901b13c5232352b8f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます🌺\n\n前に何を書いたか\n覚えていないことが多いです🤣💦\n\n重症でしょうか？😂",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc2090edb3fedd",
+          "user_name": "邪道作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250104509/profile_a00454c2cc03cce0fa8084f3147a927b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やり過ぎると管理出来なくなるがな\n　　\n500万文字を8000記事くらい複製し表現を変え出し続けた結果、ある程度記事をまとめるのは至難になった\n\n\n最早自分でも…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc85f9b330a537",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nこんばんは。\n関東は地震でしたが、そちらは大丈夫でしたか？\n\nうちは関東なので、わりと揺れました🫨\n\nこんな時に、すみません、、\n今気がついて、…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc4a96c10d4d48",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n内容が被る記事、私自身はまだないですけど、\n今日と昨日も違うし、当たり前の…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "ncb3f4ecbdc83e",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😊\n\nマガジンに追加していただき、ありがとうございます🍀\n「あれ？これ前にも書いたかな？」と思ったりすること、私もよくあります🤭\nでも同…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc328e50504e76",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは♪\n全てを肯定してくれるような記事でニッコリしました😊\nマガジンにも私の記事を追加していただき、ありがとうございます💖\n書きたいこと書き…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc423aa26f56aa",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\nこのたびもマガジンに追加していただき、ありがとうございました🌸\n\n今回の記事もとても共感しながら読ませていただきました✨\n\nよしひ…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc233174d4488e",
+          "user_name": "Supremo_ginza",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186085763/profile_80157b64e0e65935178352047dfd0d0d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま　いつもマガジン追加ありがとうございます。\n\nより多くの読者さまに届けていただき感謝いたします。\nネタをどうしようか迷ったり、一貫性がない時もあるの…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc6e2e61923881",
+          "user_name": "Asahi2026",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254994516/profile_e4bd829ad26a90b6782072a6f30ece93.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事をマガジン追加していただき、ありがとうございます🙇‍♀️\nよしひろさんの記事は、いつも私に「ありのままでいいですよ😊」って、言ってくれる気がしています。",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc0ae11de21a8a",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nこんにちは♪\n\n私のちょっと前の記事を発掘してくださり、マガジン追加していただきありがとうございます！😆💦\n\n記事の中の習慣はまだ続いております…",
+          "article_title": "同じことを書いたっていいんだよ📚",
+          "note_key": "n4d67bc4b6f0a"
+        },
+        {
+          "key": "nc29ad07040369",
+          "user_name": "m o k a   ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244970963/profile_70498c82f9b680f43cff864d5947e3da.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nマガジン追加 たくさん\n過去の記事まで\nありがとうございます( .ˬ.)\"\n\nとっても嬉しかったです\n\n娘さんのこと\n信じ 見守ってる姿が\n浮かん…",
+          "article_title": "自分の進路すら他人事だった僕が考えたこと",
+          "note_key": "n265a0acb8b32"
+        },
+        {
+          "key": "ncdf4e7657190e",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280082912/profile_27c6de0e430e96c942efcfde0e0dc5ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも自分の感覚頼りに（頼りになったかどうかは、いまだに不明🙄）ここまで流れてきています〜ぷかぷか🫧",
+          "article_title": "自分の進路すら他人事だった僕が考えたこと",
+          "note_key": "n265a0acb8b32"
+        },
+        {
+          "key": "nce31c16ac0752",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n当時の私は、特にやりたいことなんかなかったような気がします。\nむしろ今の方…",
+          "article_title": "自分の進路すら他人事だった僕が考えたこと",
+          "note_key": "n265a0acb8b32"
+        },
+        {
+          "key": "nc26ea21bae478",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も感覚任せに川を流れてきたところもあるので、ちょっとドキッとしながら読ませていただきました😁\n\n〉有用であることと、\n必須であることは\nまた別の話\n\nという言…",
+          "article_title": "自分の進路すら他人事だった僕が考えたこと",
+          "note_key": "n265a0acb8b32"
+        },
+        {
+          "key": "nc78d4a1dbea01",
+          "user_name": "あずき☆｜ひとりで抱えないために",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271732318/profile_4fc56179333666d6a5d1c979a37f2396.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この記事は私のバイブルとなりそうです・・・✨️\n一歩踏み出せそうです！\nいつも素敵な記事をありがとうございます！",
+          "article_title": "「変わりたい」と思ったときに、手放すもの",
+          "note_key": "ned27ed471128"
+        },
+        {
+          "key": "ncc5638561594d",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nお忙しいでしょうから、息切れしないようにマイペースでお願いします😊\n\nいつ…",
+          "article_title": "ゴールが近づくほど、できなかったことが目につく",
+          "note_key": "nd7efc8e5b3e6"
+        },
+        {
+          "key": "ncd41790ee67a7",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\n今回もマガジンに追加していただき、いつもありがとうございます🌸\n\n「もう少しで走り切れるからこそ、息切れを意識してしまう。」\n\n「…",
+          "article_title": "ゴールが近づくほど、できなかったことが目につく",
+          "note_key": "nd7efc8e5b3e6"
+        },
+        {
+          "key": "nc9ce2c5a0e1b2",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280082912/profile_27c6de0e430e96c942efcfde0e0dc5ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしのことを全部そのまま言語化してくれたのかなって錯覚するくらい\n🙂‍↕️🙂‍↕️🙂‍↕️頷きまくりました(笑)\n顔に何度スマホが落ちてきたことでしょう🤭寝れ…",
+          "article_title": "忙しいのに文章を書いている僕は、いったい何をしているのか",
+          "note_key": "na6bb2410e2a0"
+        },
+        {
+          "key": "nc5f69bfa8ed94",
+          "user_name": "暮らしの整え相談室　ぽんまぁ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222294136/profile_4a6854bc4f0dd7b277b78f04de10d3be.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まさに｢わかる｣って感じるお話です😊\n気持ちの片付け、大事ですね✨✨",
+          "article_title": "忙しいのに文章を書いている僕は、いったい何をしているのか",
+          "note_key": "na6bb2410e2a0"
+        },
+        {
+          "key": "ncb755a827b661",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「感情というものは、放っておくと、すぐに行方不明になります。」\n行方不明にさせてしまうことも多々ありますね〜\nそれでも脳内では、何度もnote書いて、書いたつも…",
+          "article_title": "忙しいのに文章を書いている僕は、いったい何をしているのか",
+          "note_key": "na6bb2410e2a0"
+        },
+        {
+          "key": "ncd0c856b2f27a",
+          "user_name": "瑠花",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198979905/profile_c94df5df6f3f9343801af95012e1a3f7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めは100%自分のために書いてたのに、それじゃダメって、思ってきてしまってたんだな…って思います😣\n\nもっと気楽に、自分のために書いていこうかなって思えました…",
+          "article_title": "忙しいのに文章を書いている僕は、いったい何をしているのか",
+          "note_key": "na6bb2410e2a0"
+        },
+        {
+          "key": "nc879c160f70d7",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279549033/profile_3d53a17ce59c090b43145099e9a86669.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "名言が、いっぱいある…ここに書き連ねたい❣️\nメモメモ📝\n\n\n素晴らしいクリエイターさん😀\n\nだからこそたくさんの共感が集まるのね〜💖💖💖",
+          "article_title": "忙しいのに文章を書いている僕は、いったい何をしているのか",
+          "note_key": "na6bb2410e2a0"
+        },
+        {
+          "key": "ncf74b19f56d99",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「父の日Tシャツ」、これを着て散歩に出かけられたら困る！！いや、食卓に座ったら、「こんなジーさんのどこが！？」…母の不機嫌が目に浮かぶ🙄🙄\n\n大人なのに、娘をや…",
+          "article_title": "忙しい時期の処方箋",
+          "note_key": "n84a0a67f020f"
+        },
+        {
+          "key": "nccc3cd5107ba2",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは\n\n「壮大な計画が頭をぐ〜るぐる」しながら\n「やらないのに🙄」と自分でつっこむ\nあの一節に、ふふっと笑ってしまいました\n買ってもいない宝…",
+          "article_title": "忙しい時期の処方箋",
+          "note_key": "n84a0a67f020f"
+        },
+        {
+          "key": "nc34f181ebf720",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\nマガジンに追加していただき、いつも本当にありがとうございます🌸\n\n【ソウダイナケイカク】、共感と面白さの両方があって思わず笑ってし…",
+          "article_title": "忙しい時期の処方箋",
+          "note_key": "n84a0a67f020f"
+        },
+        {
+          "key": "nce30b262ba8ef",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん〜！\n\n本当に共感👏✨\n夢だけ膨れるやつ🤭w\n私も何個あるやら😱\n\nそして！最高の父🤣✨w\n",
+          "article_title": "忙しい時期の処方箋",
+          "note_key": "n84a0a67f020f"
+        },
+        {
+          "key": "nc25da5201f68d",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n私もありますよ😆\n一旦宣言してみたけど一つも記事を上げてないカテゴリーとか…",
+          "article_title": "忙しい時期の処方箋",
+          "note_key": "n84a0a67f020f"
+        },
+        {
+          "key": "nc0e18abb6751e",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あー私も同じです\n♪あれも書きたい\nこれも書きたい\nもっと書きたい\nもっともっと書きたい〜♪\n曲と共に壮大な計画はいくつも頓挫してます😆",
+          "article_title": "忙しい時期の処方箋",
+          "note_key": "n84a0a67f020f"
+        }
+      ]
     }
   ]
 }

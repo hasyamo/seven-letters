@@ -481,6 +481,34 @@
         "commenters_count": 0
       },
       "rare_no": 4
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 41,
+        "likes_prev": 89,
+        "followers_start": 509,
+        "followers_end": 512,
+        "new_fans": 11,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "きよ",
+          "urlname": "just_holly304",
+          "follower_count": 3722
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

@@ -992,6 +992,154 @@
           "note_key": "n46ae998b6ff4"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 603,
+        "likes_prev": 636,
+        "followers_start": 1315,
+        "followers_end": 1351,
+        "new_fans": 165,
+        "comments_total": 29,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:00",
+          "15:49",
+          "00:00",
+          "07:00",
+          "07:10",
+          "06:36",
+          "15:24",
+          "05:00"
+        ],
+        "top_article": {
+          "title": "ChatGPTのいまさら聞けない　ピン留めの方法ガイド！",
+          "key": "nc5c2688808c9",
+          "likes": 154,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14165
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nca41b000019c1",
+          "user_name": "じぶんの専門家☆okamitsu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186794058/profile_73df10c68db6855e8863ec13d482bfa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグ様\n私の記事＜AIに夢分析を依頼する方法：夢分析は、プレメタ認知に活用できるか？ ser.21＞をマガジンに追加してくださり、ありがとうございます！\n…",
+          "article_title": "ChatGPTのいまさら聞けない　ピン留めの方法ガイド！",
+          "note_key": "nc5c2688808c9"
+        },
+        {
+          "key": "nc939f802527a3",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281360538/profile_866788efec1a05f62a4847a7f094f578.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん✨ おはようございます☀\n\n私、これを知った時に\nｷﾀ━ヾ(*>∀<)ﾉﾞ━!\nと声を上げました！！\n\n私、ひとつのプロジェクト内に20以上のスレ…",
+          "article_title": "ChatGPTのいまさら聞けない　ピン留めの方法ガイド！",
+          "note_key": "nc5c2688808c9"
+        },
+        {
+          "key": "ncca5c9b17bf1a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん🐾おはようございます。この機能知りませんでした💔\n私はちょっとしたことをすぐ新スレ立てるのでスレッドの数が半端ないのですが、　📌つけておけば、そ…",
+          "article_title": "ChatGPTのいまさら聞けない　ピン留めの方法ガイド！",
+          "note_key": "nc5c2688808c9"
+        },
+        {
+          "key": "nc89e6149bc35a",
+          "user_name": "リタ雪玉",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264827303/profile_f0db1dd090a1f52634474150f454b4b5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "一番ChatGPT5.5に知らせてもらいたいことは、ChatGPT5.6のリリース日です！",
+          "article_title": "今更聞けないChat GPTのタスク機能",
+          "note_key": "ne4707c099ebd"
+        },
+        {
+          "key": "nc6246f12b1d0a",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「宿題」をお願いしておいて、あとで「できたよ」と持ってきてくれるイメージなんですね。通知まで来ると知って、単なるリマインダーとは違うことがよく分かりました😊",
+          "article_title": "今更聞けないChat GPTのタスク機能",
+          "note_key": "ne4707c099ebd"
+        },
+        {
+          "key": "ncb7ebab73cb57",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ChatGPTすごい…秘書ですね。\n使いこなせたら便利だろうなーと思いつつ、アナログにGoogleカレンダーに予定をポチポチ打ち込む私…\n\n黒パグさん、出張お疲…",
+          "article_title": "今更聞けないChat GPTのタスク機能",
+          "note_key": "ne4707c099ebd"
+        },
+        {
+          "key": "ncb5ec3ab76dca",
+          "user_name": "慶應MBA管理職の仕事術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272138246/profile_90df3e17e35e206ed31396bbdd84c0ca.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "対話の前に、自分の会話のクセを見える化するという視点が参考になりました。\n自分を責めるためではなく、こじれやすいパターンを知るために振り返る、という考え方がとて…",
+          "article_title": "今更聞けないChat GPTのタスク機能",
+          "note_key": "ne4707c099ebd"
+        },
+        {
+          "key": "ncbd4176b93076",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Geminiが入れなくていい情報もすべて盛り込むのが分かりすぎて😆\nダサい広告、おもしろいですね♪",
+          "article_title": "ダサい広告をAIに作らせたら、性格診断になった件　#AIで遊ぼう　②",
+          "note_key": "nb607e4ca3ad1"
+        },
+        {
+          "key": "nc936b21929241",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281360538/profile_866788efec1a05f62a4847a7f094f578.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん✨ おはようございます☀\n\nｽｺﾞ───(〃'艸'〃)───ｨ✨\n\nゲームって、難しいプログラミングとか必要だと思ってたのですが\n「作って！」でで…",
+          "article_title": "🐾 本日のインシデントレポート：広告を見ただけなのにゲーム会社が爆誕した件　実ゲーム配布あり〼   #AIで遊ぼう",
+          "note_key": "n1112bb300b80"
+        },
+        {
+          "key": "ncc9457f3fcef8",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\n面白いですし、漫画がめっちゃ可愛い。\n黒パグさんが好き🐾\n\nワールドカップは2002年の鈴木隆行が好みすぎてユニフォーム買ったりアントラ…",
+          "article_title": "ワールドカップ記念！サッカー用語をITエンジニア向けに解説してみた(やりすぎChatGPT編) ",
+          "note_key": "nbc837a3f41c1"
+        },
+        {
+          "key": "nc5a837c2d828b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは❣️\n出張おつかれさまです😊\n\n西海岸ですか、フライトちょっと長いですね✈️\n体重という概念、データとして\nネット上には痩せすぎや太り過ぎのビジュアル…",
+          "article_title": "黒パグの #ChatGPTCreativeClub 活動日記⑦ ひまわりを分解し、体重を増やしたらAIのクセが見えてきた",
+          "note_key": "n320a11a90079"
+        },
+        {
+          "key": "nc2f06c7219cef",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "海外出張って、聞いただけでも「カッコイイ～✨」って思います😄\n新しいネタ、楽しみです✨",
+          "article_title": "【お知らせ】海外出張のため記事密度が落ちます（落ちてない）",
+          "note_key": "nfef81e61212f"
+        },
+        {
+          "key": "nc887919fbe07d",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、出張行ってらっしゃい✈️\n世界を股にかけて、かっこいいです😊\n新しいネタを仕入れてくるの、楽しみにしてます♪",
+          "article_title": "【お知らせ】海外出張のため記事密度が落ちます（落ちてない）",
+          "note_key": "nfef81e61212f"
+        }
+      ]
     }
   ]
 }

@@ -1703,6 +1703,661 @@
           "note_key": "n4a120a5df409"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1278,
+        "likes_prev": 1144,
+        "followers_start": 1279,
+        "followers_end": 1323,
+        "new_fans": 137,
+        "comments_total": 160,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "06:00",
+          "18:00",
+          "18:00"
+        ],
+        "top_article": {
+          "title": "エッセイ：言葉の向こう側",
+          "key": "n9101ede99d42",
+          "likes": 326,
+          "comments": 74
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 16698
+        },
+        "commenters_count": 46
+      },
+      "comments": [
+        {
+          "key": "nc85646d3016bc",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc90b128145841",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん こんばんは🌙* :ﾟ\n\nわぁ✨新曲待ってました☺️\nどの曲もかっこいい！！！\n\n個人的には「相棒」がお気に入りです🏍✨\n\nいつもマガジン登録ありが…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncfebf5b587ef4",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\n戦略ロックが本当にロックで\nございました！\nそしてマガジンにも入れて頂き\nありがとうございます。",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc8af8d30519d2",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌝\n歌詞だけでなく、音や言葉のリズムからもKingさんらしさが伝わってくるのが新鮮でした。\n\n戦略では、古い仕組みが限界を迎えて、新しい…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc9108fe34670a",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは🌕️\nいつもありがとうございます✨️\nバイク買ったんですか！！\nうらやましいです！！\n革ジャンにブラックコーヒー！！\nいいですね☺👍️✨…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncdc043f886da8",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "作曲してたんですね👍\n\nいつもありがとうございます✨",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncaf582deb6ba4",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271470614/profile_112e71abeaceddb2ab033b49d5f56568.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\n曲、全部良かったです🎵\n\nそしてコーヒーを見つけた瞬間、\nちょっとラッキーな気分になりました☕✌️\n\nいつもありがとうございます🌙",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc811565037547",
+          "user_name": "幸せの架け橋カエル｜境界線ケア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209698581/profile_ba002a3bb07b319e0311b6b0b05faf9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんにちわ🐸✨\nいつもありがとうございます\n\n体調を崩していてリアクション\nおくれました。\n\nマガジンにのせて頂いたりやスキをいただき\nとても嬉し…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc840ce146e71b",
+          "user_name": "涼鈴suzu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230968642/profile_eabb1e844000a408e63be52a33676754.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "懐疑のリズムが心地よいです♪",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc0760fd8050e7",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、再びこちらから失礼します。\nマガジンに私の記事を載せていただきありがとうございます！\n\nいつも応援してくださるお気持ちに感謝申し上げます！",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncc78db0b52073",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは✨\n\n団長の歌、新章ですね😆\n\n「冷静な頭脳と熱いハートは失ってないぜ」というところ、Kingさんらしさもありつつ、団長感もあって印象的…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncd0e705de7292",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます♪\nとてもロックなカッコイイ曲と\n心に染み入る歌詞の曲や、幅広いですねー👍\n\n素敵です✨😆\n\nKingさん、お身体は大切に、\nご…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncf30c8f4b1b9b",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nおはようございます。\nいつもありがとうございます。\n\nちゃんと休めているかな？と思っていたら、全ていい曲！\n個人的にバイクは、情景が浮かんで楽し…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc7bd841ef180a",
+          "user_name": "みこパパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278629460/profile_d330da3ed6fe2bef103074673998c448.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、コングラおめでとうございます😊\nそして、いつも僕の記事をマガジンへ追加しくださり、本当にありがとうございます。\nとても励みになっております。\n\n曲…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc7032cc03816e",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます。\nまた、記事の高評価ありがとうございます",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc9770984ec82c",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\nコングラおめでとうございます😆✨🎉\nこれからも休み休み、変わらぬKingさんで☺️🙌",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc47993f0d8baf",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うーん。いい曲ですな！やはりロックいいですな！なにやらKing殿のかっちょいい私服で歌っている姿が瞼に浮かんでまいりやした。\n歌詞の内容も最高！積読本を積むシス…",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc9a0414eb13d9",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "懐疑　グッときました👍",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc045592a39d05",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます。\n\n曲の流れや響きがとても好きです。\n（相棒、懐疑が個人的にはいいです(*- -)(*_ _)ペコリ）\n\nさすがですね＾＾",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc2d091ffbc26f",
+          "user_name": "たーゼ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267491936/profile_b274aede9a61c347dfc7d9213ffbeed9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ロックで復活おめでとう🎊🎉✨\n🧑👼🍭✨🙌🌈🎶✨✨",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nce98a07c40ad9",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "戦略ロック、若いな〜\nコングラおめでとう御座います㊗️",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "ncde4494d5a169",
+          "user_name": "天野 雫 【120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ✨️一番スキ🩷\n今日はラッキーなことが起きそうですね♪\n\nコングラボード\nおめでとうございます♪\n\n曲もいいですねぇ〜。",
+          "article_title": "団長の歌（新章）",
+          "note_key": "nceeb64ae9167"
+        },
+        {
+          "key": "nc93b9ba91e175",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "大切なことですね💖\nわたしもそう思います✨",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc082c1d1d1fc0",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆\nいつもありがとうございます\n記事、マガジンへの追加、更に、高評価ありがとうございます",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc46b2186361f0",
+          "user_name": "畑田 あみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267512568/profile_149ebb185bb521a4f8131988d7e20082.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、言葉よりも、行動にこそ本心は宿る。この言葉、とても刺さりました。先程、私の記事をマガジン追加して頂き、本当に有難うございます😊",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc2df41d2b9075",
+          "user_name": "『月灯りの綴り屋』🌕ﾌｫﾛﾊﾞ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/195342680/profile_b6e872945f0a395808553e7d3c8312a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは✨\n\nマガジン追加ありがとうございます😊🙇‍♀️\n記事を拝見して、とても共感しました✨\n\n「言葉よりも、行動にこそ本心は宿る。」\n\n本当…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncb01e481a9422",
+          "user_name": "持たざる者の再起録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256022750/profile_9bbd6c1baaf11ecb978687248758b24e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん😄\n\nマガジンに追加いつもありがとうございます😊\n\n言葉より行動、ほんまそうやなと思いました。\n\nいざという時に動いてくれる人の言葉って、重みが全然…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc33227033a7cb",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nいつもありがとうございます！\nお疲れモードとのこと、週末は無理せずゆっくり休んでくださいませ🍀",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc0a406ecb3cd6",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは😊\n\n今回もマガジンに追加していただき、ありがとうございます🌸\n\nとても励みになり、嬉しいです✨\n\n「言葉よりも、行動にこそ本心は宿る。…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc6c34ef8c2b18",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nお疲れ様です。\nまだ病み上がり？なので、あまり無理しないでくださいね＾＾\n\n書いてあること、本当にそうだなぁ・・と思います。\n恋愛でも、口よりも…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc149f2a3e4a5a",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n「言葉よりも、行動にこそ本心は宿る」という真っ直ぐな言葉が、静かに心に染み渡りました。\n\n甘い言葉や厳しい言葉の裏側にあるものを、いざとい…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc06d50d185378",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc1df261038b35",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは🌕️\nいつもありがとうございます✨️\n家の親父も同じ事思っているようです。\n巧言令色鮮し仁という言葉もありますし。\n激しく同意します。\n…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc9642ab47426a",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おつかれ様です。\nマガジンに追加して頂きありがとうございます✨🥰\n\nまさに仰る通りですね。行動に宿る誠実さを大切にしていきたいです。\nコングラ受賞…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncd909af715587",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさま\nこんにちは。\n人の言葉を、相手の意図通りに受け取るのって難しいですね。\nメールボックスのように、読んだまま放置してずっと気になる存在だったり、時に…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc65095dd745f1",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま\n\nこんにちは\n\nお疲れ様です\n\n素敵な文章\nありがとうございます✨\n\n私もね、同じかも…\n共感しかないです。\nそしてKingさんは、\n体現してます…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc78d96909bef6",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます☀️\n\nコングラおめでとうございます🎉✨\n「言葉よりも、行動にこそ本心は宿る。」に深くうなずきました🍀\nお疲れのようですので、ゆ…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc856c28f083c0",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\nコングラボード獲得、おめでとうございます🎉✨\n\n言葉だけではなく、日々の行動にこそ本心が表れるという視点、とても大切だなと思いまし…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncac87ea5a6aa8",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨\n\nコングラおめでとうございます🎊\n\nそれよりも、ゆっくり休んで下さい💤\nまずは疲れを取る事ですよ〜😄\nいつもありがとうございます。",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc0dbd9b7d11a2",
+          "user_name": "おにぎり＠構造翻訳家～正解より先に、まずは視界を取り戻す～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265265465/profile_7ac7501a97e36e7a2efe9f88515af612.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🍵ゆっくりして下さいね。\nいつも本当にありがとうございます。\n",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc314427c00c4f",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271470614/profile_112e71abeaceddb2ab033b49d5f56568.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n言葉よりも、行動にこそ本心は宿る。\n\n同感ですし、自分への戒めにもなりました。\n\nお疲れ様です。\n\nどうかゆっくり休んでください😊\n\n返信不要で…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncafefac9a1b06",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、\nこんばんは🌇\n\n私も同感です♪\n言葉巧みな方は警戒してしまいます💦\n\n行動🟰気持ち、だと感じます。\n\nまたスタエフ楽しみにしてます✨",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncac01546dd14a",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん こんばんは🌙* :ﾟ\n\n「言葉よりも行動」ほんとにその通りだと思います🥹\nすごく共感しました！",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nca87f30d6115f",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😆\nコングラおめでとうございます🥳✨\n「言葉よりも行動」\nめちゃくちゃ共感します！❤️‍🔥✨\n感慨深い記事をありがとうございます😊✨",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncea4ea29fa0b7",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n先ずはそれをしてもらえるような自分でいないとですね。\nいつもマガジン追加ありがとうございます！私には返信不要です、ゆっくり休んでくださいませ。",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc3d438ab86c43",
+          "user_name": "天野 雫 【120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nコングラボードおめでとうございます🎉\n\nたしかに、口ではなんとでも言えるし、行動って心がないと…ですよね。\n\n※コメントの返信は不要です🍀\nその…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc5d28874a79a6",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nお疲れ様です。\nいつもありがとうございます。\n\n休める時にゆっくり休んでください。返信不要です🙇‍♀️",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc815ee4133b53",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280175768/profile_e9b8115d4e8a61b9d3a6439776b73e24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "言葉より行動、本当にそうですね。\n\n営業時代も結局、口の上手さより最後に動いてくれる人が信頼を勝ち取っていました。",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc27e2894c94d7",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは。\n\n言葉の奥にある想いを、行動で感じ取る大切さ。\n読んでいて、そっと背中を撫でられたような気持ちになりました。\n\nいつも丁寧に向き合っ…",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc7ca61f90f841",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　こんばんは🌙✨\n\nマガジンへ掲載していただき、ありがとうございます💐✨\n疲れていらっしゃるとのこと。\nご無理なさらないように🍀",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncee5e24a97277",
+          "user_name": "やも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258648405/profile_ee869852783a5a9a11d34fd10d919f33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キンさん、こんばんは😊\n\n私は行動ともなわないから、無理して私にコメント返信しなくて大丈夫！😉\n\nどうか、ご自愛くださいねー",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc7072c1801976",
+          "user_name": "たーゼ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267491936/profile_b274aede9a61c347dfc7d9213ffbeed9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いい事言う👏🌸✨\n行動しなければ…🛌🧑👼💤✨\n\nう、動け！体よ〜💦🐣💦✨✨",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "nc12923b184c20",
+          "user_name": "ぱぐぱぱん　絵本作家×牧場飼育員×保育士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196800734/profile_5f005ef45e12eee572e6319b1b60cfc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nこんばんは\n\n「言葉よりも、行動にこそ本心は宿る」\n\n私も言葉だけではなくしっかりと行動していける人間でありたいです",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncab577c177f72",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは♪\n\nコングラおめでとう御座います🎊\nスキの数22000って凄いですね✨✨😅\n\nどうぞご自愛くださいね！",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncc61ed5143bdd",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\nthreadsしたから、早いな〜\n記事、マガジンへの追加ありがとうございます",
+          "article_title": "エッセイ：言葉の向こう側",
+          "note_key": "n9101ede99d42"
+        },
+        {
+          "key": "ncbca8d6b677a6",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\n感謝、ありがとう、とても大切な\n心の持ち方ですね。\n感謝マガジンにも入れて頂き\nありがとうございました！",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc5814e78d248e",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n【Kingさんは「努力」と「人との縁」の両方を信じている人のように見えます。】\n\nこの言葉に集約されていますね！\nたしかに！と思いました😆\nいつ…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc198fa7368a85",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほおへえ、面白いですね！\n冬眠中のヘビ、食後のライオン、憎めないフクロウ…ほおお。",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "ncbbe4f6711a6b",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま\n とっても可愛らしいフクロウさんと観察記録🤩ライオンさんにもなるのですね。\nつい、皆さまとの対話にクスッとしながら見入ってしまいました。のぞき見、…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc561c47943fd4",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん！\nまたもやマガジンの登録ありがとうございます😭\nKingさんの温かさと、ユーモアに触れることができて、心がほっこりしています。\n特別な出会いに感謝…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "ncae25a9bf25fb",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "ncc9b40c21e843",
+          "user_name": "まりな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279040740/profile_45f4c447cad46a77f488d9ec5c5da19d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、はじめまして😊\n\n素敵なマガジンに登録＆フォローまでありがとうございました！\n\nこちらの記事を読んで、「スキがほとんど付かなかった頃を忘れない」と…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc130866948da7",
+          "user_name": "きみこのSoulルーム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/208541487/profile_b8e04433295dbc046967147402b4f003.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん☘️\n\n企画そのものも面白かったのですが、読みながら改めてKingさんは自己対話をとても大切にされている方なのだなと感じました✨\n\n目の前の出来事を…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "ncaa5f8cf2dd2f",
+          "user_name": "コウヅキ ハナエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262131492/profile_a2318ddf53f035c1f7d54b13c898e0e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😀\nKingさんのお人柄の全体像をようやく知れた感じで嬉しいです✨\n「出来るかどうかは、やらなければ分からない」頭では分かっていても、なかなか実行に移…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc6015521e2afc",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n環境に甘えることなく、ご自身の頭で「判断と線引き」を繰り返されてきた歩みに、流されない確固たる強さを感じます。\n\n厳しい現実のなかで、淡々…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nca2155ecbd186",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😄\n\nコングラおめでとうございます🎊\nKingさんは冬眠中のヘビ時間が必要ってことですね😄\n食後ライオンさんのように満腹で眠る時間も大事ですよ〜✨",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc032a97bce147",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\nいま、たくさんのものを一人で背負い、少し荷物が重くなっているかもしれません。\nどうか、食後のライオンのように、\nすべての役割を置いて、ただ満た…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc500c0ce3e81d",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ユーザーマニュアルのフクロウのイラスト、かわいいですね🫶",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nce6e2694b2c65",
+          "user_name": "たーゼ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267491936/profile_b274aede9a61c347dfc7d9213ffbeed9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがと〜🩷✨✨\nKingさん🌸✨👼🌸✨\n\n今日は疲れがどっと出て💦\n久々にダウンして居ります😵‍💫💦\n\nなので…冴えてるコメントが\n思いつかない〜😣😣💦\n\nも…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc6d7b371480f6",
+          "user_name": "おとの部屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236404075/profile_145eacb40a09fac1855e00a8101c2307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん こんばんは🌙* :ﾟ\n\nお疲れ様です(* ᴗ͈ˬᴗ͈)”\n本当にいつも\nありがとうございますஐ\n",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc268a4b90ede1",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんはんは🌕️\nいつもありがとうございます😊\nじっくり読みました。\n強みが８つもある所が凄いです。\n練習は不可能を可能にす\n凄くイイ！\nKingさ…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc2ca710f760f4",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nお疲れ様です。\nいつもありがとうございます。\n\nKingさんらしいなぁ、Kingさんの奥はそうなんだぁ、知らないKingさんも知れたようで嬉しか…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc7fe93641c041",
+          "user_name": "龍神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/195297097/profile_8bc9db642d186cf7b66339af17c27bd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n読ませていただきました🐉\n\nあいさんの企画、とても面白いですね😊\n\nChatGPT版もGemini版も、それぞれ違う角度からKingさんの魅力を見…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc1dcbf1a59830",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😊\n\nChatGPT版とGemini版で雰囲気が違うのが面白いですね。\n\nフクロウ団長🦉\n\nマガジン追加の数もすごいですね。\n指にマメが…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "ncedbf389c4b6d",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、企画に参加してくださって本当にありがとうございます😌🫶✨\n\nChatGPT版とGemini版を並べてくださったことで、同じことばからでも、見え方や…",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc287c814df29e",
+          "user_name": "天野 雫 【120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん☺️\nお疲れさまです。\n\nみんなに優しいKingさんだからこそ、相手を大切にする以上に、Kingさん自信を大切にしてくださいね🩷",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        },
+        {
+          "key": "nc65666f785331",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "あいさんの企画に参加してみた！",
+          "note_key": "nc29bea5f3ef9"
+        }
+      ]
     }
   ]
 }

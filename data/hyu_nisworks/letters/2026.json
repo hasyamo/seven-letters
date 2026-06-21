@@ -549,6 +549,170 @@
           "note_key": "nff66119f889e"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 333,
+        "likes_prev": 351,
+        "followers_start": 432,
+        "followers_end": 448,
+        "new_fans": 56,
+        "comments_total": 31,
+        "posts_count": 8,
+        "consecutive_days": 4,
+        "post_times": [
+          "06:53",
+          "15:29",
+          "10:35",
+          "07:22",
+          "07:55",
+          "22:37",
+          "06:20",
+          "19:31"
+        ],
+        "top_article": {
+          "title": "#AIの活かし方｜手軽さが大事。自分にぴったりのAIを見つけるための「猫プロンプト」。",
+          "key": "n717639260dca",
+          "likes": 56,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "気ままな船乗り｜分岐点にいる人の灯台",
+          "urlname": "hisa3396",
+          "follower_count": 20808
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "nc24af280cbbf6",
+          "user_name": "夏生 Ⓒ Paediatrician",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281710371/profile_b486cee2a3434a6d3aeb0a75d9a8639e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\nいつもありがとうございます。\n記事を紹介して頂いて嬉しいです。\n出来ないことを悔やむより面白く解釈する事で\nいまを感じることが出来た記…",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "ncb829daa206c1",
+          "user_name": "beyondの旦那の方｜Cozy Cafe & Bar beyond店主",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269297151/profile_66f1756e3c374c246e637c5e2e4d5e28.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは☀️\n\nズッキーニ記事のご紹介、\nありがとうございます😊\n\n本当は、\n冷蔵庫で冷やして食べる用\nなのですが、我慢できませんでした🤫\n\nお家…",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "nc984709c0f4e6",
+          "user_name": "ジッケン🧪人生の人体実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278287376/profile_263b091404032d636139c341e99d5be4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます！！\n超次元サッカー観てもらえて嬉しいですー！\nそして他の方の記事も興味を引くものが多くて、ヒューさんの紹介文を読んでワク…",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "nc7cfdd6d58015",
+          "user_name": "クリストファー セレジェイラス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268304876/profile_d83a847ef6854a1eeafd4748bfab82fd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます！\n照れくさいですが、紹介していただいて本当に嬉しいです！\n書いててよかったー😊\nそして、どの方の紹介文も「読みたくなる」…",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "nc949a6ce55d00",
+          "user_name": "深夜ラテ｜AI×クリエイト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277687548/profile_e893dab484218a847a72a58fe995d677.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます！\nこうして取り上げていただけて、とても嬉しいです。\n一緒に紹介されていた方々の記事も読んでみます😊",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "nc5951855da36a",
+          "user_name": "ゴキタマサミチ｜よく考え、よく書き、よく笑い、よく学び直す",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261184403/profile_b6fcf81598f2e944d7641fbf2ffecb72.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n記事を紹介していただきありがとうございます！\n一緒に紹介されている記事が面白い！！！\n自分にはない視点や表現とか発見がありすぎで\nとても楽しい！\n記…",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "nce7ab0324fbc5",
+          "user_name": "Lumen C.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233701242/profile_34285f3b90b5f3bfc48742275f8d4a94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわー！ご紹介ありがとうございます✨\n\nとってもうれしいです！\n\n娘の「どうして先生と生徒って同じじゃないの？」という素朴な問いから始まった記事だったので、「子…",
+          "article_title": "#note楽しい",
+          "note_key": "nd57100eadfa6"
+        },
+        {
+          "key": "nc6657d3e12bdc",
+          "user_name": "マー先生＠50代から“書きながら考えるようになった元国語教師”",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280930635/profile_58777ee152ec453af22d300a91fbf3be.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「独り言みたいにPCに向かって話すのが、かなり恥ずかしい」、わかりますとです（笑）。\n\n音声入力、速いとは聞くんですが、いざやろうとすると誰もいない部屋でもなん…",
+          "article_title": "【３行日記×トピック】恥ずかしさを乗り越えたい",
+          "note_key": "n4117689ced9d"
+        },
+        {
+          "key": "ncacd42963de80",
+          "user_name": "貴美子｜構造を言語化する人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261823573/profile_200819dc5689a338a5e7bba624e1c852.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は車の中や1人で部屋にいる時にAIとお話しています。\n思考の整理という名のおしゃべり🤣\n今流行りのプロンプトとは真逆の使い方ですが😅\n複雑すぎる指示でなければ…",
+          "article_title": "【３行日記×トピック】恥ずかしさを乗り越えたい",
+          "note_key": "n4117689ced9d"
+        },
+        {
+          "key": "ncb56d3dedc370",
+          "user_name": "まるねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238966279/profile_fbe25ef34e1e76698dbad7d3801619b5.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "勉強になります",
+          "article_title": "【３行日記×トピック】恥ずかしさを乗り越えたい",
+          "note_key": "n4117689ced9d"
+        },
+        {
+          "key": "nc13b1746c38ec",
+          "user_name": "AI子｜AIと奮闘するアラフォー双子ママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282680040/profile_dced3188d40f335952fc7ab210a9e217.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n夜分にすみません😭とても、面白い内容で興味深く読ませていただきました。\nすごく面白い試みでした。各AIの個性が伝わりました✨また他にも読みたいので…",
+          "article_title": "#AIの活かし方",
+          "note_key": "n717639260dca"
+        },
+        {
+          "key": "nc7153e728b900",
+          "user_name": "ドタ子｜フォロバ100｜シングルマザー、AIと新NISAで人生をアップデート中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261571459/profile_c269bbaed97264fbcde5e2e1c763f061.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは☺️\n​\n猫プロンプト、設計がしっかりしていて素晴らしいなと感じました！\nやはりAIによる個性は面白いですね✨️\n自分が何をどうしたいかの…",
+          "article_title": "#AIの活かし方",
+          "note_key": "n717639260dca"
+        },
+        {
+          "key": "nc7891ca82f159",
+          "user_name": "ponta太郎｜FIRE民｜投資家｜自由人｜Kindle作家｜野良猫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269651614/profile_59c9e35016a7f500c0599c9bd291f28b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "参加希望です♥",
+          "article_title": "【３行日記×トピック】技術が進むと古典に戻る",
+          "note_key": "ne55839706980"
+        },
+        {
+          "key": "nc72f5dc11ce77",
+          "user_name": "ヒョウガ・レッド｜ご縁を繋ぐヒーロー🦸‍♂️🔥期間限定フォロバ企画⚡️早期終了しました🙇",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん！\nこれ！凄いね！！！\nまだ、全部理解してないけど、ビジュアルだけで凄いと感じました✨",
+          "article_title": "#noteCubeBlocks",
+          "note_key": "ne2f724d7918a"
+        },
+        {
+          "key": "nca2dab44fa88b",
+          "user_name": "あさひん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/216837709/profile_c8e7389ae0b4e528480fa2d00920b93c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは。\nまたまた凄いモノを作られてますね！\nスマホではうまくブロック落ちてくるところが見えなかったので、パソコンでやってみます✨\nいつもありが…",
+          "article_title": "#noteCubeBlocks",
+          "note_key": "ne2f724d7918a"
+        }
+      ]
     }
   ]
 }

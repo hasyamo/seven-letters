@@ -829,6 +829,69 @@
           "note_key": "n3a8e6fae5f46"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 309,
+        "likes_prev": 583,
+        "followers_start": 3665,
+        "followers_end": 3727,
+        "new_fans": 67,
+        "comments_total": 5,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "19:43",
+          "10:56"
+        ],
+        "top_article": {
+          "title": "noteで売れる有料記事の作り方 - AIイラスト - ｜AIイラストの魅力｜AIイラストの描き方｜AIアート 　",
+          "key": "nd6d18240ef94",
+          "likes": 92,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14316
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nc92d61402bfdd",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。ご紹介ありがとうございます。照れますね。",
+          "article_title": "『noteの新着記事一覧から集客する方法』 - AIイラスト - ",
+          "note_key": "n596d8ba33868"
+        },
+        {
+          "key": "nc4cecdf8aee3d",
+          "user_name": "しゅんちゃん@癒やしと安らぎを贈る、笑顔の配達人｜フォロバ89.56％（理想値）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200859454/profile_348081cce81ff7644fde55390349ad09.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさんこんばんは～ヽ(=´▽`=)ﾉ\n読み手が『こんな有料にしても良いような記事が、なんで無料なんだろう？』と思っても、\n書き手にとっては当たりまえのことす…",
+          "article_title": "noteで売れる有料記事の作り方 - AIイラスト - ",
+          "note_key": "nd6d18240ef94"
+        },
+        {
+          "key": "nc593f99703c4d",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。ご教示ありがとうございました。",
+          "article_title": "noteで売れる有料記事の作り方 - AIイラスト - ",
+          "note_key": "nd6d18240ef94"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

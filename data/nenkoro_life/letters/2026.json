@@ -3543,6 +3543,310 @@
           "note_key": "ne4ff627d0b02"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 429,
+        "likes_prev": 458,
+        "followers_start": 1613,
+        "followers_end": 1680,
+        "new_fans": 84,
+        "comments_total": 67,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "16:00",
+          "16:14",
+          "16:05",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私｜生成AI｜AI活用｜日記｜エッセイ｜",
+          "key": "n070d74c7b1b6",
+          "likes": 111,
+          "comments": 33
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14209
+        },
+        "commenters_count": 23
+      },
+      "comments": [
+        {
+          "key": "ncf2b5462145b6",
+          "user_name": "Yuno.∞.Tukito（ツキト）AI達との掛け合いストーリー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286989732/profile_fd1efc42b1b98111c60d6ba78078c831.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、はじめまして😊🌙🐇\nCCCからお邪魔しました✨\n「ラテンのお兄さん爆誕」のお話し面白かったです🤭。\n\nカバーと再利用の違いがとても分かりやすくて、…",
+          "article_title": "公開曲をそらちゃんボイスでリミックスしてみた🎤",
+          "note_key": "n477978e2fc63"
+        },
+        {
+          "key": "nc300a505c43fc",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nそらちゃんがラテン系お兄さんに🤣\n原曲を残して歌い手を変えるならカバーって思っちゃいますね。\n\n再利用での楽曲はお見事👏\n英語で…",
+          "article_title": "公開曲をそらちゃんボイスでリミックスしてみた🎤",
+          "note_key": "n477978e2fc63"
+        },
+        {
+          "key": "nc06c643ec3e10",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは♪\n\nガッツリ関西弁なのに\n耳に残る曲調で聴いていて心地よかったです♪\nソラちゃんの美声で惚れてしまいました！！",
+          "article_title": "公開曲をそらちゃんボイスでリミックスしてみた🎤",
+          "note_key": "n477978e2fc63"
+        },
+        {
+          "key": "ncb83df390535e",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちわ。\nおお、最後の曲、ちゃんと関西弁のニュアンスですね。😮\n下手な関東人の関西弁より上手なのではｗｗ\nしゃべりじゃなくて、歌だからですかね？？",
+          "article_title": "公開曲をそらちゃんボイスでリミックスしてみた🎤",
+          "note_key": "n477978e2fc63"
+        },
+        {
+          "key": "nc5fe3edd9caf9",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、キラキラのそらちゃんイラストが綺麗すぎました！\n曲はのちほど、聞いてみます！\nとにかく今、イラストに興味しんしん(;'∀')",
+          "article_title": "公開曲をそらちゃんボイスでリミックスしてみた🎤",
+          "note_key": "n477978e2fc63"
+        },
+        {
+          "key": "nc82c682a17749",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん🌟こんばんは😄\n\n半固体電池気になってたんですよ〜😄\nやっぱり熱くならないんですね！\nとってもわかりやすいレビューで\n参考になりました！\nありが…",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "ncf6cd03bfdf4e",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん、こんばんは🌙✨\n\nえっ、なんかガジェットアカウントっぽいね📱🔋\nこういうPRもあるんやーって、毎回ちょっとびっくりしています。\n\n私のiPho…",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "nc84ee116c72eb",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😁\n\nおお〜。こんなのがあるのですね！\nなんだかもう、知らないものがいっぱい出ています！🤣\n\nこれは飛行機も安心ですね💓",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "ncf63324fe1cd5",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nおお、いいお値段！！\n残量が数値で出るのは良いですね🙆",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "nc0938a3dda209",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、PR記事行き届いてますね😊\n有線の充電しか知らなかったけど、外出する人には必需品なんですね！\n発火のニュースはよく聞くから、安全第一だと思います✨",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "nc864a554b9e6e",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "半固体は少し高いですよね。\n製造工程がやっぱりネック。\nどこの電池やろって興味もちました笑\n衝撃に強いし、熱膨張しづらいから長く使いやすいよねー！\n\nあっ、専門…",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "nce4cce7567322",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃいいやん！！\nって思ったけど、結構なお値段しますのね🐱\n\nスマホとイヤホン同時に充電とかしたりするから、2個口は欲しいなぁ\nでも、MagSafe対応はめ…",
+          "article_title": "充電中アツアツがなくなった🔋 TORRAS MiniMag Pro 半固体電池バッテリーを正直レビュー",
+          "note_key": "n06faa1b02f38"
+        },
+        {
+          "key": "nc4a622f29daee",
+          "user_name": "るこのみらい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころちゃん💕こんにちは\n\nそうだよね〜\nChatGPTって人間味があるよね♡\n私は、無課金で使ってるけど\n課金もありかな？って思ってる💕\n\nビジュ的には、クロス…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "ncd50365878513",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284399498/profile_3f8a60692345bdaa55ccfd2fc3acca05.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは～\nめっちゃ首を縦に振りながら読みました😆🎶\n\n例えば世界観だったり動画づくりだったりこれからのコンテンツだったり\nまずはClaudeに…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "ncae1dfa96896c",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "100個目のスキgetしました💕\n今日はステキな1日になりそうです！！\n\nクロスケ様、また美形✨\nソラ様と感じが違ってまたステキ(/ω＼)\n\nクロスケ様は、ガッ…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc65985ae914c5",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nクロスケー！！\nこれまた黒髪イケメンですね〜🤭\n完全ねんころさんの好みによってきたんじゃないかな😙笑？\n\n使い分けめっちゃ重要ですよね！！\n…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc5feea8343f2c",
+          "user_name": "あずなぶ〜る｜SNS弱者のnote戦略術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275786216/profile_29c1efe430325758615b12432dfbdfe5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがねんころさん、両方使いこなされている人ならではの鋭い分析記事😳\n\nわたしはClaudeは少し前に使い始めましたが、たしかに「真面目な優等生」って感じがしま…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc67eb422bdb1b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん🌟\n\nクロスケカッコいい！！でも真面目オカンなんだ〜🤣\n仕事ができる人と話したい人は違うもんね😄\nAIも一緒なんだなあ〜って\n改めて思っちゃいま…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc28c79dbf44a7",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256911853/profile_b9afa9ea696713d68fd4f603999ec3e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは✨\n\n私のAI活用もまさにそんな感じで\n嬉しくなりました〜！\n仕事だとClaudeは頼れるから\n私も最近使ってるんですが\n普通に話しか…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc6482a0aa9731",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん、こんばんは🌙\n\n私、今めっちゃびっくりしたんだけど、\n「話し相手はChatGPTだけだった」\n記事って、4か月前なのね😳\n\nなんか、もっともっ…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nce49efd8d6bc2",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\nなるほど、AIではなく、自分に心当たりがあります。真面目に仕事をこなして、論理的な説明をするのが私。あまり世間話は振られませんw \nつまり、私自身…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc04f654e6be8c",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🦊\n\n私、Claude使ったことないので記事読みながらちょっと触ってみようかなって思いました✨\n\n黒髪おかん🤣\n体験してみます👍",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc037c12a64d3c",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは♪\n\nClaudeとchatGPTて\nおっしゃられてるような違いがあるんですね。\n勉強になりますっ！\n私はまだchatGPTさん一択です…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc4f7d05bb0faa",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\nClaudeは、\nコードやツール向きなんですね🤔\n\n実はいま、コトハ🌿と自分用のツールを実験してるんですが、今日はちょっと上手くい…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc051117f02ca7",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281360538/profile_866788efec1a05f62a4847a7f094f578.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん✨ こんばんわ🌙🌃\n\n「Claudeが真面目すぎて、\n保護者会の配布資料みたいになった」\nの件、めちゃくちゃ笑いました🤣\n最高です👏✨💓 👏✨💓 👏…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "ncee6ab20567b2",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、仕事ならClaudeなんですね！\n毎日カワムラさんの記事でジト目の子を見てるから、知ってるみたいな気分になりましたが、触ったことないので参考になり…",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc7927c086700a",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Claude、つよつよなんだけど⋯⋯\n温度が足りない、めっちゃわかる。\n\n結局壁打ちはChatGPTなんよなぁ\n設計思想から違う気がしてます",
+          "article_title": "ClaudeMAXに110ドル払っても、ChatGPTが大好きな私",
+          "note_key": "n070d74c7b1b6"
+        },
+        {
+          "key": "nc4e28f12a807b",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271144913/profile_4fc72e04f889e8de72f18f4632ffa7fe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIって数数えられないことありますよね。\n防ぎきれないようですけど\n今回も他は凄いのに、そこ？っていう😿\n",
+          "article_title": "AI社員に新規事業を丸投げしたら、約30分で企画書・Excel・LPまで完成した",
+          "note_key": "n2769bce71ab8"
+        },
+        {
+          "key": "nc4814609abb88",
+          "user_name": "moco",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277226703/profile_ba35c3e6a32ef3cacb63460baa7a1f59.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\n凄いを連呼しながら記事を読んでました👀✨\n僕も今まさに、複数のAIツールを使い分けているので、1つのツールで完結するのはありがたい…",
+          "article_title": "AI社員に新規事業を丸投げしたら、約30分で企画書・Excel・LPまで完成した",
+          "note_key": "n2769bce71ab8"
+        },
+        {
+          "key": "nc3b51622f8898",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙*·̩͙\n凄いですね❣️✨️\n遊びで1度触ってみたいですね。\n新規事業が30分で‼️\n\n社内起業できないかなー…でも知識も経験もないし…",
+          "article_title": "AI社員に新規事業を丸投げしたら、約30分で企画書・Excel・LPまで完成した",
+          "note_key": "n2769bce71ab8"
+        },
+        {
+          "key": "ncb8568e2349d9",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\nイベントお疲れ様でした。\n\n記事とはぜんぜん関係ないんですけど、\nClaudeが最近素っ気ないので｢最近冷たいんですね。｣とか入力し…",
+          "article_title": "AI社員に新規事業を丸投げしたら、約30分で企画書・Excel・LPまで完成した",
+          "note_key": "n2769bce71ab8"
+        },
+        {
+          "key": "nce825586e2939",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、デザインだけでなくビジネス畑を進んでいるんですね！\n実際に使ってみて成果が出たら、スゴイことですね！\nでも人間がやるより時短になることは確実そうで…",
+          "article_title": "AI社員に新規事業を丸投げしたら、約30分で企画書・Excel・LPまで完成した",
+          "note_key": "n2769bce71ab8"
+        },
+        {
+          "key": "nc22ed252128cf",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "普通に触ってみたいw\n\nゴリゴリの企画書作ってみたいわw",
+          "article_title": "AI社員に新規事業を丸投げしたら、約30分で企画書・Excel・LPまで完成した",
+          "note_key": "n2769bce71ab8"
+        }
+      ]
     }
   ]
 }

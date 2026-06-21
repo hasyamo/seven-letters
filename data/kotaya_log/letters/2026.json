@@ -872,6 +872,303 @@
           "note_key": "n03996f26c637"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 320,
+        "likes_prev": 401,
+        "followers_start": 2893,
+        "followers_end": 2953,
+        "new_fans": 82,
+        "comments_total": 81,
+        "posts_count": 5,
+        "consecutive_days": 2,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:30",
+          "20:38",
+          "20:37"
+        ],
+        "top_article": {
+          "title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "key": "ndc269b57911d",
+          "likes": 89,
+          "comments": 30
+        },
+        "notable_reader": {
+          "name": "タカジロー",
+          "urlname": "takajiro0912",
+          "follower_count": 8196
+        },
+        "commenters_count": 20
+      },
+      "comments": [
+        {
+          "key": "ncbae6439854a5",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "詳しくは書けないけど…\n一つ一つの質問に真摯に応えてくれるとこが、私の中でのKOTAYAさんのイメージにあっていました(〃艸〃)ｳﾌﾌ\n\nクールビューティー、私…",
+          "article_title": "共犯者だけに明かす、KOTAYAの素顔",
+          "note_key": "n01664b3c25f0"
+        },
+        {
+          "key": "nc2fb614749cef",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、ベンチマークの方とは以前コラボしたことがあります🙌\nとても魅力的な方ですよね✨\n\nそれから、お写真も素敵でした♡\nこのコーナー、毎回楽しみにしていま…",
+          "article_title": "共犯者だけに明かす、KOTAYAの素顔",
+          "note_key": "n01664b3c25f0"
+        },
+        {
+          "key": "nc7050beb724d9",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜！こんばんは〜！🌻✨\n\nわ〜〜〜嬉しい〜〜〜🥹💖\nらびゅ〜〜〜ん😚💕\n\n分析してもらったときに、スキ数少ないな？🤔と思ってたけど、もう読んでくれてたんだ…",
+          "article_title": "共犯者だけに明かす、KOTAYAの素顔",
+          "note_key": "n01664b3c25f0"
+        },
+        {
+          "key": "nc622941403ecb",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クールビューティーなKOTAYAさん、こんばんは😌\n甘い物苦手もなんだかイメージ通りでした✨\n尊敬する人物に、とても嬉しい気持ちになりました😆\nあの人がBMだっ…",
+          "article_title": "共犯者だけに明かす、KOTAYAの素顔",
+          "note_key": "n01664b3c25f0"
+        },
+        {
+          "key": "ncc39b80ec077b",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱ一問一答、\nコンセプト自体がおもしろい❣️\n\nこちゃさんのパーソナリティが\nすっごく出てるのが、\n共犯者的には嬉しいポイント⁉️😍\n\n目次みて、アレっ❓\n…",
+          "article_title": "共犯者だけに明かす、KOTAYAの素顔",
+          "note_key": "n01664b3c25f0"
+        },
+        {
+          "key": "ncf9be03aad2d8",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめてしうまい先生を知りました！！この記事みてすごく興味がわいたので読みに行ってきます！！！",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc7abcf14d021a",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281170972/profile_27237e9056b0ab03ec265ebeb07eaa7a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさんこんばんはー🌙✨\n\nわーい🤗4位だー🌈✨\nそしてこちゃさんの記事の書き方変わりました❓\n素敵なことには変わりないのですが、なんか良い意味で柔らかくなっ…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc454ae02ec88a",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "不真面目小児科医、この名前をつけている時点で、本当に不真面目ということはあり得ないだろうな、と感じていました。\n分析結果を見て、やはり真面目で、そして「不器用」…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc369d8152b2e5",
+          "user_name": "自宅内遭難対策協会 研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275634001/profile_0c17d2ac9fe9a55aef5901bfe1fe3279.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんはじめまして。\n私の記事にスキ💛をありがとうございます。\n自宅内遭難対策協会 研究室 nyankoと申します。\n\nこの研究室では、救急現場で感じ…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc1985fec8a0d0",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん\n\nおはよ♪\n\n昨日分析後の編集途中で寝落ち。。からの次発通勤なう！\n\nしうまい先生、ふぉろふぉろしてたのに全然遊びに行ってなかったっす💦\n\nあらためて…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nce0c1c70c047d",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n今日も圧巻の分析でしたね😋\n\n不真面目小児科医…\nこちゃさんの文章読んでたら、この通り名がピッタリにしか見えなかったですね🤩\n…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc7266d3d6b7ea",
+          "user_name": "アリゼロ🐜氷河期世代の働きアリ@自身が会社で経験してきた問題点や気づきを発信しています。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA様、こんばんは。\n\nしうまい先生の記事拝見させて頂きましたが、医者なのに私のライフ（貯金）はずっと0だ、と言ってしまうのに笑ってしまいました🤣\n\n医…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nceb62b65bb0e2",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんの分析記事を見ると、私がいかにいろんな人にコメントしてるかがわかっておもしろい(笑)",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nca14093ba3254",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜🌻✨\n\n今日もキレキレ〜✨\nしうまい先生素敵すぎる〜🫣💖\n\n医師ってやっぱりすごい人だな〜って思って遠い存在だと思ってしまうけど、人間味があ…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc9df9f72112e3",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コタヤさん！\n\nしうまいさんとコタヤさんのサムネが個人的にツボです笑\n\n確かにそっちの方が自然ですね☺️笑\n\nしうまいさんの等身大な姿。\nまるで先生には見えない…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc0a5ed0bd613b",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しうまい先生、なんだか親近感ある❣️🤭\n人間らしさって大事❣️\n\n私も呑兵衛エピソードもっと出してくか😎",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "ncd7a467ea0202",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284082886/profile_5c4506ee9e0e8792e41d4fcaee4f2c90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん❣️✨😖💖✨\n嬉しくて泣く😭泣いちゃう😭😭\nありがとうございます……🫶\nウチのChatGPTも、めちゃくちゃ喜んでます…💝",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc4a857f991f0a",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231326995/profile_9a5a496ca39b9a11583411ed09b2d0ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！\nこんな、こんなステキな記事を本当にありがとうございます！！！\n\n記事数もそれなりにたくさんあるのに全部読んでくださり、時にはコメントまで残し…",
+          "article_title": "しうまい先生を診察します。――「不真面目小児科医」のnoteカルテ",
+          "note_key": "ndc269b57911d"
+        },
+        {
+          "key": "nc991311087083",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\nこたやの愛人という新しいメンシププランを増やすのはどうでしょうか😙笑\n\nちょっと内容はわからないですが、他にはないかも知れません🤭",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "nc791b7be9ca1d",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あっそうだ\n\n> 私をまだ知らない人に見つけてもらう\n\nで思いついたんだけど、\n共同運営マガジンへの参加はー？\n\nこれは運用負担結構ありそうだから、\n捻出できる…",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "nca75d8f7a04a5",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます😊\n\n通知、確かに！届きますね。\n\n新しい人に知ってもらって、入ってもらうには、衝動的に欲しいと思うような商品を置く。結局こ…",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "nc881c882290f1",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん、考えられてますね。\n即行動、実践、目の当たりにできてドキドキします。",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "nc587806e3dbe5",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜🌻✨\n\nなるほど〜！確かに通知は考えもしなかった〜〜〜！\n\n私は別の理由だけど、丁度人数制限しようと思ってたから、勉強になりました🙂‍↕️✨…",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "nc52a1848de3f8",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほどぉ〜❣️\n新プラン公開時の通知ときたか〜😙\n\n作戦っていうほどのことじゃないけど、\nどうせ単品700円、メンシプ600円にするなら、\nそれを記事内でも毎…",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "ncfd2d50359602",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nメンシプの話面白かったですよ😚\n実は私のメンバーさんは入ってきてくれるタイミングが初めましての方が1/3か1/4くらいいらっし…",
+          "article_title": "メンシプ17人。残り83人をどうやって集めるか",
+          "note_key": "n12a8431dc240"
+        },
+        {
+          "key": "nc38ba7f819039",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "安定収入どころか、自分の売りたいものと需要が結びつくか自信がなくて二の足踏んでます(*T^T)\n\n今後の記事も読みながら考えていきたいな",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        },
+        {
+          "key": "nc37ad5f667f94",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nすごいしか言葉が出てこない😙\n確かに安定収入は難しい。そう思うとメンシプは大事になってきますね😋\n\n目標立てて突き進む姿はかっ…",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        },
+        {
+          "key": "nc4d15419085d7",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n\nベストセラーが欲しい✨ということですよね。ある程度安定した「固定」された「売り上げ」があれば「安心」できますもんね。月10万円の売り上げ✨も…",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        },
+        {
+          "key": "ncfafbc0aaedcd",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは🫡\n\nメンシプって、やっぱりメルマガに似てるなとよく思います😌\n試行錯誤の過程を発信するのも一緒ですね\n\n私も今、目標一緒！がんばり…",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        },
+        {
+          "key": "nc0ef500801787",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐿は何すればいい？",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        },
+        {
+          "key": "nca75f50c47e5c",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん執筆おつかれ様〜✨\n\n作戦会議ほんとに採用されてる❣️🤭\n\nちなみに気になったんだけど、\n共犯者のプラン、「第1班」がついたね⁉️\n\nということは、「…",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        },
+        {
+          "key": "ncfb55f327066f",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！\n\nではやはり10年以上の経験をもつ\nWebマーケターが考えた「入会特典」\n\nこれをつけるしかありませんね！\n\nセリフは「逃さないわよ」で決定ですね🥰",
+          "article_title": "noteで月10万円。売上を分解したら、次の課題が見えてきた",
+          "note_key": "n2656b34564c8"
+        }
+      ]
     }
   ]
 }

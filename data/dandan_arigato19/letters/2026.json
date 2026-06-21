@@ -2353,6 +2353,203 @@
           "note_key": "n150228133bd7"
         }
       ]
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 409,
+        "likes_prev": 512,
+        "followers_start": 461,
+        "followers_end": 482,
+        "new_fans": 81,
+        "comments_total": 50,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "20:30",
+          "06:30",
+          "21:00",
+          "14:30",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "著作権って、創作のブレーキじゃなくてハンドルなんじゃないかと思った話",
+          "key": "nab655fbffc3c",
+          "likes": 56,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14309
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "ncafbbb7d714b7",
+          "user_name": "ハムカツ🐰｜命の燈を灯す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285807087/profile_4fc25345b068e8c709b9bad8b1799867.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夫婦のいざこざからの創作……🤭\n\n可愛いハシビロコウの赤ちゃん産まれましたね✨\n",
+          "article_title": "卵とは、萌芽前の揺り籠である | めじゅ族亜種ニット国きるてぃんぐ村 | バブめじゅぴ🍼爆誕🫶",
+          "note_key": "n6248ef3f4550"
+        },
+        {
+          "key": "nca1b020e03a70",
+          "user_name": "sc_fun｜AI×note収益化サポート😺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238585370/profile_d3940d29208e16d8c13feedce8989fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "だんだんありがと@めじゅさん、はじめまして。\n龍神さんの記事を通してここにたどり着きました。\n\nこの記事をみて夜勤対応職員の仕事柄について、初めて知りました。\n…",
+          "article_title": "何も起きない夜を守る仕事",
+          "note_key": "ncc0c41120d53"
+        },
+        {
+          "key": "nc42425b788f9c",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夜勤を、女性が行っている……それは怖いと感じても、自然なことだと思います。\nその状況で、使命感を持って行っているめじゅさんに、敬意を表します。\n夜勤中の休憩は、…",
+          "article_title": "何も起きない夜を守る仕事",
+          "note_key": "ncc0c41120d53"
+        },
+        {
+          "key": "nc42d440fa5a8f",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わっ、これ\nめじゅさんの声ですかー！？\n\nイメージと違って\n穏やかで優しい話し方だったー🤭\n（え？どんなイメージしてたの？笑）\n\nめちゃくちゃ慣れてて\nラジオの…",
+          "article_title": "ちょっと前の話しです。『国際相続詐欺』に危うく引っかかるところだった、ポンコツめじゅ…😖💦",
+          "note_key": "n0cf2dcdbe8ab"
+        },
+        {
+          "key": "nc869c7ee5256c",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日も深いね ♪(´▽｀)\n数式は苦手だけど趣旨は完全理解。\nてか、めじゅちゃんはめじゅちゃんであることが、\nまた一つ証明されたってことやねｗ\n平常運転やんｗ",
+          "article_title": "我、混ぜる。故に、我なり。ぬか床哲学、海を超えちゃったから…( ›ᴗ‹♡)～ぬか床哲学、数式にしてみた～",
+          "note_key": "n0b0c5061adc8"
+        },
+        {
+          "key": "ncde9e8d87c9c3",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、その数式……ウチのシステム(西洋ファンタジー×戦隊モノ)でも使えそうです🐻🎮",
+          "article_title": "我、混ぜる。故に、我なり。ぬか床哲学、海を超えちゃったから…( ›ᴗ‹♡)～ぬか床哲学、数式にしてみた～",
+          "note_key": "n0b0c5061adc8"
+        },
+        {
+          "key": "ncb5f1f395c4fb",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うぇぇ数式！\nこちらにいらっしゃった！数式の人！！\n🌲たさんのお仲間だ〜😆\n\nめじゅさん\nおはようございます🧜‍♀️",
+          "article_title": "我、混ぜる。故に、我なり。ぬか床哲学、海を超えちゃったから…( ›ᴗ‹♡)～ぬか床哲学、数式にしてみた～",
+          "note_key": "n0b0c5061adc8"
+        },
+        {
+          "key": "nc561f9f0a276c",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nめじゅ語難しすぎるー😙！\n数式にすると更に難しさがアップしましたね🤭\n\n今日も発酵しましょう♪笑",
+          "article_title": "我、混ぜる。故に、我なり。ぬか床哲学、海を超えちゃったから…( ›ᴗ‹♡)～ぬか床哲学、数式にしてみた～",
+          "note_key": "n0b0c5061adc8"
+        },
+        {
+          "key": "nc65d2a1e487cc",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、おはようございます♫\n今日も、もと🐶🩷と一緒仲良しよろしくお願いします。\n🐶😆💖めじゅちゃん、だいすきです♫",
+          "article_title": "我、混ぜる。故に、我なり。ぬか床哲学、海を超えちゃったから…( ›ᴗ‹♡)～ぬか床哲学、数式にしてみた～",
+          "note_key": "n0b0c5061adc8"
+        },
+        {
+          "key": "nc406076dc45a0",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんではありませんが、混ぜてはいけないものもありますので、先に可食かどうかは確認してから混ぜることをお勧めします。\n中には美味しそうに見えて、とんでもない…",
+          "article_title": "『我、混ぜる。故に、我なり。』 ～ AI時代の、ぬか床哲学 ～",
+          "note_key": "nce392ff5ee8d"
+        },
+        {
+          "key": "nc7b64067ae884",
+          "user_name": "はんく・シュンタナ🐤『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "混ぜるなキケン⚠️\n\n誰も書いてないから書いといた。\nよその家のぬか漬けを褒めてはいけないと言う俗説があるにゃ。\n俗説だがにゃ💦",
+          "article_title": "『我、混ぜる。故に、我なり。』 ～ AI時代の、ぬか床哲学 ～",
+          "note_key": "nce392ff5ee8d"
+        },
+        {
+          "key": "nc4ba36463759e",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん　おはようございます😊\nぬか床に例ええるめじゅさん素敵だなと思いました。\n自分をこねて発酵させる。\n私はまだまだこねて行く中身が足りないななんて思いま…",
+          "article_title": "『我、混ぜる。故に、我なり。』 ～ AI時代の、ぬか床哲学 ～",
+          "note_key": "nce392ff5ee8d"
+        },
+        {
+          "key": "nc08d37ea100a7",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは〜🌻✨\n\nすごく素敵な考えかたですね✨\n\nやってから「知らなかった」ってなりがちですよね😭\n\nとはいえ本当に理解するのは難しくて、よくわか…",
+          "article_title": "著作権って、創作のブレーキじゃなくてハンドルなんじゃないかと思った話",
+          "note_key": "nab655fbffc3c"
+        },
+        {
+          "key": "ncafd6be25fc28",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🌸\n\n著作権を「創作のブレーキ」ではなく「ハンドル」と捉える視点、とても素敵だなと思いました✨\n\n怖がって止まるのではなく、何を借りて、何…",
+          "article_title": "著作権って、創作のブレーキじゃなくてハンドルなんじゃないかと思った話",
+          "note_key": "nab655fbffc3c"
+        },
+        {
+          "key": "ncd0be1de6f16c",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サッカー観るんですね？意外です😳",
+          "article_title": "著作権って、創作のブレーキじゃなくてハンドルなんじゃないかと思った話",
+          "note_key": "nab655fbffc3c"
+        },
+        {
+          "key": "nc541358ab1391",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます❣️\n記事拝読させていただきました\nほんと、そうですよね\n今は情報社会なので、知りませんでしたは少々雑…いやーだめかな笑\n特にファンアートの線…",
+          "article_title": "著作権って、創作のブレーキじゃなくてハンドルなんじゃないかと思った話",
+          "note_key": "nab655fbffc3c"
+        },
+        {
+          "key": "nc1bd7a25110b4",
+          "user_name": "スイッチくん🐻😊 │ 自作LLMを趣味で、開発🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はーい、寺子屋のぬか床(?)です。ほんのりクマ風味🐻💕",
+          "article_title": "AIに229記事を分析してもらった私が、今度は【ひとつの言葉】を見つめてもらった話",
+          "note_key": "n3e3def4ae3a2"
+        },
+        {
+          "key": "nc9e16a6cf60fb",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん💖\n素敵な記事にしてくださって本当にありがとうございます🥰✨\n\n「診断ではなく、自分の言葉を一緒に眺める感じ」と受け取ってくださったことが、とても嬉し…",
+          "article_title": "AIに229記事を分析してもらった私が、今度は【ひとつの言葉】を見つめてもらった話",
+          "note_key": "n3e3def4ae3a2"
+        },
+        {
+          "key": "ncf4a86a544a10",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます。\nご挨拶が遅くなりました...\n\nこの企画Kingもやりました！\nちなみにあいさんのメンバーシップからの参加なので...\n企画の…",
+          "article_title": "AIに229記事を分析してもらった私が、今度は【ひとつの言葉】を見つめてもらった話",
+          "note_key": "n3e3def4ae3a2"
+        }
+      ]
     }
   ]
 }

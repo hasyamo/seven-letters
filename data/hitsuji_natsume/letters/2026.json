@@ -434,6 +434,91 @@
         }
       ],
       "rare_no": 3
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 115,
+        "likes_prev": 168,
+        "followers_start": 1357,
+        "followers_end": 1368,
+        "new_fans": 23,
+        "comments_total": 6,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:18"
+        ],
+        "top_article": {
+          "title": "検証日記｜いつもの私が描かない絵が、生まれた。KITAcoreさんの「ポン出しビルダー＋」をテストしてみた話｜AI活用｜生成AI｜画像生成｜AI｜Niji7｜MJ8.1｜作風｜プロンプト｜デザイン｜創作記録｜試行錯誤｜最近の学び｜やってみた｜AIとの共創｜ChatGPT",
+          "key": "n66e942e5e8fa",
+          "likes": 80,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14310
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "nce2c72894cd3e",
+          "user_name": "♡海藻うさぎぴょん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286382270/profile_93b999d770c7ea96273d708371a63870.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👍⊂((・x・))⊃🐰",
+          "article_title": "検証日記",
+          "note_key": "n66e942e5e8fa"
+        },
+        {
+          "key": "ncf645f456887f",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目🐑さんのちびキャラひさびさに見たー😊萌え萌え～✨",
+          "article_title": "検証日記",
+          "note_key": "n66e942e5e8fa"
+        },
+        {
+          "key": "nc3e84bd2dae84",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひつじさん、こんばんは🌙\n色々違うイラストが出来るの凄いですね( ⸝⸝˙0˙)\nXで良く見た動きがある墨イラストかっこよくて好きです(*´ω`*)",
+          "article_title": "検証日記",
+          "note_key": "n66e942e5e8fa"
+        },
+        {
+          "key": "nc518588a259a5",
+          "user_name": "笹原歩奈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊くん。こんばんは。\nAYAKAちゃん、七尾くん、ELISAちゃん、なぎちゃん、リーくんみんな覚えてるよ💕\n\n臨場感や迫力が印象的！！\n今にも飛び出しそう💨\n立…",
+          "article_title": "検証日記",
+          "note_key": "n66e942e5e8fa"
+        },
+        {
+          "key": "nc9b7e4da75c3e",
+          "user_name": "しもだん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230214219/profile_97856231e4d630ac6358a01c6671ae9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、こんばんはー✨\n\nポン出しビルダー、すごいですね😳\n躍動感のある侍？剣士？もカッコいい…！\n\nそしてちびキャラ勢揃いで眼福です😍\nちびナギさんとちびリ…",
+          "article_title": "検証日記",
+          "note_key": "n66e942e5e8fa"
+        },
+        {
+          "key": "nc47c9c9045603",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、羊くん✨️\n記事の更新お疲れ様🍀\n\nアヤカちゃん、エリサちゃん、\n七尾くん、ナギちゃんと勢揃いだね🙌\nまたこの子たちのお持ち帰りが\nできたらなぁー🤭…",
+          "article_title": "検証日記",
+          "note_key": "n66e942e5e8fa"
+        }
+      ]
     }
   ]
 }

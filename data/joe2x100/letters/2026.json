@@ -457,6 +457,51 @@
         }
       ],
       "rare_no": 3
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 91,
+        "likes_prev": 88,
+        "followers_start": 491,
+        "followers_end": 509,
+        "new_fans": 25,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:36"
+        ],
+        "top_article": {
+          "title": "【「壁紙」始めました】 #壁紙 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.46",
+          "key": "n2fcc114b42d4",
+          "likes": 39,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16271
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncd561ec0692bf",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、壁紙ありがとうございます！\n家に居ながら夏の海を感じられそうですｗ\nめっちゃ高解像度でうれしいです😌",
+          "article_title": "【「壁紙」始めました】 #壁紙 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.46",
+          "note_key": "n2fcc114b42d4"
+        }
+      ]
     }
   ]
 }

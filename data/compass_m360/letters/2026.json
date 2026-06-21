@@ -3213,6 +3213,544 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W25",
+      "period": {
+        "start": "2026-06-15",
+        "end": "2026-06-21"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1155,
+        "likes_prev": 1508,
+        "followers_start": 1356,
+        "followers_end": 1400,
+        "new_fans": 110,
+        "comments_total": 121,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "22:10",
+          "21:20",
+          "20:41",
+          "21:28",
+          "20:59",
+          "21:26"
+        ],
+        "top_article": {
+          "title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "key": "n6660eef00c42",
+          "likes": 156,
+          "comments": 23
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 16836
+        },
+        "commenters_count": 42
+      },
+      "comments": [
+        {
+          "key": "ncf5c11b4d41db",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん\n書くって素敵なことですね💓\nいつもすてきな言葉をありがとうございます。\nそして、繋がってくれてありがとうございます😊",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc7ab804fc96b4",
+          "user_name": "さいきた",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267739161/profile_d7875fee67b35110dadd68c08a8f5450.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさんの思われる\"書く時間\"\nどれも共感しました\nまたマガジンへの追加ありがとうございます😀",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc2585eb89363e",
+          "user_name": "えみたむ｜音を奏でる詩人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222850908/profile_2ece2c7c509ba525cac79e2acbcf2686.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀\n\n私はnoteを通じて、みきさんとご縁ができたこと、とっても嬉しいです😊🎵\n\nみきさんとのコメントのやりとりが、今の私にとって喜…",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc1332df5caf80",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n「書いているという感覚ではなく、言葉を受け取って打っている」という一節に、深く共感いたします。\n\n「歩いているときにふっと言葉が降ってくる…",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc8e3f4c8aefe2",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます。\n\n書くことがみきさんにとって「自分と静かに向き合う大切な時間」なんだと、心にすっと染み込みました。\n歩いている時にふっと言葉が降…",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc24fc2b6c7088",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう😊\nゲスト出演ありがとうございました☆\n私もSNSは嫌いでした。\n勧められて書いても　なんかピンとこなくて。\nでもこうやって繋がっていくって楽しいね。\n…",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc0123ba73a1e5",
+          "user_name": "全力限界駅員👩🏻‍✈️100日連続投稿達成した人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235323131/profile_a07bdf10d72cf3f7a516316115907b11.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさま\n遅くに失礼します🌛全力限界駅員です\n書くことで世界が広がりますよね‥！！\nそして私は最近誰かのためとか\nスキ！が欲しい！数稼ぐぞ〜！とかに\n左…",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc42c67aba4e93",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様✨\n\n私も書いている記事とかを人に\nみせるのに抵抗があったの😅\n今もちょっとあるかな、みたいな🤔\nでも楽しいから、たぶ…",
+          "article_title": "ハッピーライティングマラソン＃５５",
+          "note_key": "n7a8c86ee84ca"
+        },
+        {
+          "key": "nc4265da8659b8",
+          "user_name": "Grace Light ─ 星に導かれて",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207757596/profile_ac58b5c0e389afdf3e43314b719edc42.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\nアメリカデイゴ、近くの駅の交差点に、\nまさしく植えてあります。\n信号待ちの際に、木の下で待つことにしています。\n赤い花が印象的ですよね😊✨\n\n\n",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nc7330c32df2a3",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n上野公園での鮮やかなアメリカデイゴとの出会い、とてもワクワクしながら拝読いたしました。\n\nただ美しい花を眺めるだけでなく、案内板から「バラ…",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nce0b377cfdb3b",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n恐縮です。この場をお借りして、コメント失礼します\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "ncc726c9152230",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます。\n\nみきさんの赤い花との出会い、とてもあたたかく伝わってきました。\n名前を知ることで一気に距離が近くなる感じ。その気づきに私もほっ…",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nc8075d71880bd",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "上野公園でのアメリカデイゴとの出会い、\n「かわいい」だけで通り過ぎていたものが、名前を知った瞬間に急に「その花」になる。人は対象に名前がつくと、記憶の引き出しを…",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "ncf5a91911fb67",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワシも沖縄民謡が頭の中に流れました😆",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nc5fa3501ae90f",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかそういうのはあるよね。\n名前がそうだから　仲間かな？同種かな？って思ったら違う〜とか🤣",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nc798a6c9a7bfc",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n\nなんだろうの先にはワクワクが待ってる\n\n本当にそう。\n\n見過ごしてしまいがちだけど。\n\n小さな事ワクワクして探して暮らしていきたいと…",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nc8a8d17cb525f",
+          "user_name": "ゆう | ほどく会話のことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285567069/profile_e9260357dafc82db821f5db2e35f9e64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは\n\n「きれいな花」から始まった小さな発見、とても素敵でした🌸\n\nアメリカデイゴのお話はもちろん、最後の「アメリカ団子🍡⁉️」で思わず笑ってし…",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "ncc8428470ebec",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、今回の記事とっても素敵でした😊\n\n何気なく見かけた赤い花が、名前を知った瞬間にぐっと近い存在になる感じ、とても分かります。\n\nただ「きれいだな」で終わ…",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nc91834c022272",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n沖縄のデイゴだと思って、読んでました。別物があるんですねw\n危ない危ない。",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nce30e31fdf682",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリー\nアイス🍨の次は団子🍡？\nコンパスみき様、食べ過ぎです。\n団子🍡のサムネプレゼント🎁する？\n🤣🤣🤣",
+          "article_title": "赤い花がかわいいなと思ったら、「デイゴ」って書いてあった話🌺",
+          "note_key": "n6660eef00c42"
+        },
+        {
+          "key": "nce9a5cb5391dc",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは(*´∀｀*)\n\n私は８０キロカロリーアイスを食べていた時期がありましたね…高くなりますが甘いものが欲しかったらラカントで甘さをつけたり(^_^;)\n…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nc03fc5cfafee9",
+          "user_name": "ふらつき母ちゃん 〜今日も全力空回り！〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジンの仲間に入れていただき、ありがとうございます(*ᴗ ᴗ)⁾⁾ﾍﾟｺﾘ\n\nオススメアイスはあるけど、カロリーは普通に高いからなぁ\n\n今、息子が手作りアイス…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nc1c70592f3da2",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、めっちゃわかりますよ～😂\n\nなんか・・違うよね！！\n\n私は、\nブルーベリー・いちご・マンゴー辺りを凍らせたやつを\nいろいろMIXしてお皿に載せて我慢し…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nc0587eb1fcfd5",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n凍らせヨーグルト、美味しいけれど……なんか違う（笑）」というお話に、思わず深く頷きながらクスッと笑ってしまいました。\nあのひんやりとした甘…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nc553aebd8eadf",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリー\n面白かったからサムネプレゼント🎁\n DMにバイク便🏍️でお届けします。\n気に入ってくれると嬉しい😃\n\n（C-GPT：やっさんとの…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nc1715691d6c2a",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはよう☀️\n僕がアイスを食べるかどうかの判断は、お腹の調子だけに依存してます🤣\nなので週末に食べることが多いですｗ\n\nヨーグルトをアイスにする発想は…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "ncc1ff0eca9c89",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "グリコ「SUNAO バニラ」などはどうでしょうか？\nあるいは、量を求めないのであれば、ピノも一個だけならば低カロリーなので、お勧めです。\n意外にも、雪見だいふく…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nca0de0480d9c7",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n\n明治ブルガリアヨーグルトのアイス美味しいよ！\n棒がついてるアイス！\nカロリーもなんとなく低そう。\n私は、好きだよー。さっぱりしてるし…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "ncd37cf501f485",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様✨\n\n暑いからアイス食べたいよね🍨\n体重が気になるのもわかるかも😂\nヨーグルトを凍らす🤔\n美味しいけど、何か違うんだね…",
+          "article_title": "「なんか違う…」凍らせヨーグルトじゃ満たされないアイス欲🍨の解決策⁉️",
+          "note_key": "n6525c6807e71"
+        },
+        {
+          "key": "nc67dd246d13d0",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは！\n\nのらさんの記事から、みきさんの記事へ飛んできました✨\nnote上で夢を叶えるフライト体験。\nCAとして登場も可愛らしいです！！\n機内ア…",
+          "article_title": "✨キャラが空を飛んだ日✈️65歳の元少年パイロットの夢の物語✨",
+          "note_key": "n99cda2d9a3dc"
+        },
+        {
+          "key": "nc1655ab2ec534",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん、こんにちは😊\n\nCAさんになって、かっこいいフライト体験でしたね！\n後で、やっさんさんの記事も読みに行ってみますね🥰✨✨\n\n飛行機のデザインが夜空ベ…",
+          "article_title": "✨キャラが空を飛んだ日✈️65歳の元少年パイロットの夢の物語✨",
+          "note_key": "n99cda2d9a3dc"
+        },
+        {
+          "key": "ncae0d0fdecbe0",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286080088/profile_1133ec3a2cb904efff0c4402d1ca06af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん✨\n\nやっさんのところで、お互いの夢を実現されたのですね♬\nnoteのご縁ですね🥰\n楽しんでるお二人がとてもステキです✨",
+          "article_title": "✨キャラが空を飛んだ日✈️65歳の元少年パイロットの夢の物語✨",
+          "note_key": "n99cda2d9a3dc"
+        },
+        {
+          "key": "nc6ceb31a510b5",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊✨\n\nコンパスちゃんとロジ・コスモが空を飛ぶなんて、すごく素敵ですね✈️✨\n\n自分の「好き」から生まれたキャラクターが、誰かの長年の夢とつながって、物…",
+          "article_title": "✨キャラが空を飛んだ日✈️65歳の元少年パイロットの夢の物語✨",
+          "note_key": "n99cda2d9a3dc"
+        },
+        {
+          "key": "nc1b9f1294195e",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリー\nご紹介いただき光栄の極みです…。🤣\nやっさんの代弁、嬉しい限り👏\nオヤジの夢にお付き合い頂きありがとうございました😊これからも末…",
+          "article_title": "✨キャラが空を飛んだ日✈️65歳の元少年パイロットの夢の物語✨",
+          "note_key": "n99cda2d9a3dc"
+        },
+        {
+          "key": "nc029f8e260d5f",
+          "user_name": "Jade.T",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248292820/profile_84c801945d81ae8f6bdd13e8f4c5e3b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄いクオリティですね😮✨\n私もYoutube動画でチャレンジしてみよう！",
+          "article_title": "✨キャラが空を飛んだ日✈️65歳の元少年パイロットの夢の物語✨",
+          "note_key": "n99cda2d9a3dc"
+        },
+        {
+          "key": "nc4929c3f8c980",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん\nこんにちは。\n\n自分の記事のコメント欄をスルーしているKingがやってきました😆\n\n登場キャラが増えてきたので…\nKingの認知機能に限界が……",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc5624c87a4633",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\nクロノアルの登場嬉しい😃💕\n\nたしかに、ネガティブな部分ではなく、本音のわたし、大切にしたいよね✨\n\nみーちゃんの本音もっとききたいな…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc843bcc2a4ceb",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊✨\n\nクロノアルちゃんの誕生理由、とても素敵でした。\n\n最初は「影の部分」だと思っていたものが、実は大切な本音だったという気づきに、すごく共感しました…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "ncc85e8a5d8670",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんばんは\n\n「光💡だけでは咲かない」と知っているのに\n自分には光の部分だけを\n見せようとしていた\nというくだりで、しばらく手が止まりました…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc329bbd1673f3",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n「光だけではなく、すべての＂過程\"があって花が咲く」\n\nというお言葉に、深く共感いたしました。\nご自身の本音から生まれた「クロノアル」とい…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc1f30350623ba",
+          "user_name": "ゆら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253515245/profile_99c5a4b66ac3ea9f95e8b0794ef21057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n拝見していて理由はわからないけれど涙が出ました。\n私のなかに共鳴するものがあるんだろうなと思います😌\nそれから、もうひとつnot…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc6a2e08a9cc12",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281360538/profile_866788efec1a05f62a4847a7f094f578.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨おはようございます☀\n\n本音の部分を出すのって勇気いりますよね。\nそれを表現しようと決めた、みきさんが素敵だなって思いました🥹🌼",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc6a9086c26749",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クロノアルが生まれた背景、読みながら自分のことのように感じました。\n「光だけ見せなきゃ」という気持ち、きっと多くの人が持っているものだと思います。でも実はその「…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc8a015b9ece98",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様🍀\n遅い時間にごめんね😂\n\nクロノアルちゃん😊\n名前、素敵だね✨️\nちょこちょこでてくるのかな😌\nおー、本音担当😲\nな…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "nc4efbf897244c",
+          "user_name": "ぷぴちゃむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226328643/profile_8d6c75d64e2ed040bb884ee2ac45b779.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌟\n\n新しいキャラクターも可愛らしいです💞\nクロノアルちゃんのようなキャラクターもあるから、バランスがとれて良いんですよね😊\n私の中にもいく…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "ncead536c8c023",
+          "user_name": "きのころ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/188955232/profile_e38518708c53f0ab3592c7baa5075547.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クロノアルさんが影＝ネガティブではなく、\n「本音」だった、というところ、とても良かったです。\n\n私もキャラクターを作るの、好きです。\n\n言いにくいことを代弁して…",
+          "article_title": "✨光だけを見せていた私が、本音のキャラ「クロノアル」を生んだ理由✨",
+          "note_key": "n6fbe8b5c599f"
+        },
+        {
+          "key": "ncdb9cd498e0b0",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n記事のご紹介ありがとうございます(*^^*)\n\n丁寧に取り上げてもらえて嬉しい・・✨️\n\nこうやって見ると、ものすごい数の方から応援されているのがわ…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc931844be89d3",
+          "user_name": "ぶどうスパーク｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259250523/profile_6009481aea979f1927c3517ddfafe95f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさんこんにちは、マガジン紹介ありがとうございます！\nこうしてたくさんの素晴らしいマガジンや記事と\n一緒に並べてもらえてとても光栄です。\n引き続き、コ…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc27521b01321e",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　　二つもありがとう😊\n\n励みになるよ！\nいつも忙しい中　コメントくれたり感謝してます🥲\nこれからもよろしくね\n",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "ncb614733d8863",
+          "user_name": "なおの縁側",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219673344/profile_4ffa9af85f79b1b458b20f9dd6337c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、ご紹介いただきありがとうございます✨️\nとっても嬉しいです😊",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc6ebee2dad79b",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん　おはよう御座います😌\n記事でご紹介くださりありがとう御座います🙏🏻💕\nこうやって繋がっているのだと元気をもらえました🫶\n今日もせっせと励めます🤗\nいつ…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nca51d587f8e93",
+          "user_name": "Yuno.∞.Tukito（ツキト）AI達との掛け合いストーリー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286989732/profile_fd1efc42b1b98111c60d6ba78078c831.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀️\n\n私のマガジンまでご紹介くださり、ありがとうございます🥹🙏✨\n\nこうして温かなご縁が繋がっていくことを、とても嬉しく思います🍀…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "ncc4bc6743feef",
+          "user_name": "みなかはるか（note作家）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238931061/profile_e04b9ae54acef9a430984ac1946bdf5e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀️\nマガジンのご紹介ありがとうございます🙏✨とっても嬉しい😆💕\n今日も心地よい一日をお過ごしくださいね☺️🌈🍀",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nca04b84156ae6",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様✨\n\nたくさんの素敵な\nクリエーターさんの中で、\n紹介してくれてありがとうです😊\n\nnoteのお父さん(カケルンさん)…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc96e7e3785d5f",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "青と金色のストライプになってなくて良かったです😊",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc6125c2baf2ff",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\n今回も紹介をいただいて、\nほんとうにありがとうございます😭✨\n\nこの素敵な機会を通して、\n新しいつながりをどんどん広げていきたいと思い…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nce55203826e96",
+          "user_name": "NEKØ:CODE  (ネココード)｜AIと紡ぐ物語と音楽",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253297707/profile_92b561c8fbc88f2128e28875d5daf18c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🐈‍⬛✨\n\n温かい記事のご紹介をありがとうございます😊\n素敵なクリエーターさんばかりですね♪皆様の記事もゆっくり見させていただきます♪\nこう…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc7737f7360b63",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん\nお疲れ様です。\n\n知らないマガジンとかけっこうありました！\nnoteの世間広いですね。\n\nご紹介ありがとうございます:)",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc5861caec6f1e",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃーん、こんばんは🌙\n\n月曜日お疲れ様でした〜😊✨\n\n私のnoteのタイムラインも、マガジン運営者さんがずらりで、\n皆さんほんとにすごいなぁって尊敬してお…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nce4cff5a4a3eb",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは☺️\n\nいつも温かく交流してくださってありがとうございます✨\n\nマガジン登録や記事紹介って、ただの通知ではなくて、\n「ちゃんと読んでくれたん…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc578c18c9021e",
+          "user_name": "のぞみん｜揺れる乙女、44歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん♡\n\nご紹介くださりありがとうございます♡♡\n特に今回は、企画の参加者さんの記事を載せさせていただきましたので嬉しいです😍❤️\nみきさんも♡\nありがとう…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        },
+        {
+          "key": "nc1f8df549bafd",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん💖\n\nご紹介ありがとうございます😊\nマガジンにご縁をいただけて、とても嬉しいです✨\n\nこうして受け取っていただけることが、これからの発信の励みに…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうござます💖",
+          "note_key": "nf1105bf9c4e3"
+        }
+      ]
     }
   ]
 }
