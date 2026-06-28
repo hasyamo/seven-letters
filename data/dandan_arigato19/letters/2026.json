@@ -2550,6 +2550,244 @@
           "note_key": "n3e3def4ae3a2"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 438,
+        "likes_prev": 420,
+        "followers_start": 496,
+        "followers_end": 536,
+        "new_fans": 97,
+        "comments_total": 63,
+        "posts_count": 10,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:00",
+          "21:00",
+          "06:00",
+          "14:30",
+          "06:00",
+          "06:00",
+          "06:00",
+          "21:19",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "生成AIによる最近のイラストを並べてみる。そこに果たして何が見えるのかしらん…(≖ᴗ≖ )ﾆﾔﾘ",
+          "key": "nc64f2034d1af",
+          "likes": 58,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "しちゃうおじさん🐤",
+          "urlname": "shichaoji",
+          "follower_count": 22359
+        },
+        "commenters_count": 14
+      },
+      "comments": [
+        {
+          "key": "nc80c86f11da40",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カエルの合唱団、可愛過ぎるやろｗ😍",
+          "article_title": "🌱気づいたら、めじゅは保育マンマでした🌟〜AIで生まれた子たち🐣を育てるナーサリーの話〜",
+          "note_key": "ndff3ce9c01c6"
+        },
+        {
+          "key": "nc23c8c0e4cb4d",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは〜🌻✨\n\nすごい！大荷物😳\n大変だぁ〜💦\n\nでも食料2人分持ってるところに、めじゅさんの優しさかんじました🥹💖\nさすがです！🥰\n\n台風に気…",
+          "article_title": "🎒夜勤バッグが重すぎる理由〜施設の住民になりかけた、めじゅの土曜日〜",
+          "note_key": "n1c6dcd3c3b6f"
+        },
+        {
+          "key": "nca168af9e1461",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "詳しく言えませんが、「◯◯を発している」とか「◯◯は自分で選べないんですか？」あたりがユーモアを感じました🤭",
+          "article_title": "寺子屋めじゅ | メンシプ専用 | 🌱スタエフ配信🌱 | 第3回**め印スタエフ便🌟",
+          "note_key": "nf9654eddf2cb"
+        },
+        {
+          "key": "ncb5c8499218ed",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは〜🌻✨\n\nめじゅさんのぬか床理論、すごく好きです🥰\n\n色んな人の言葉たちが、自分の中で発酵して、自分色になる……✨\n私もそれがいいです☺️…",
+          "article_title": "🌱めじゅのぬか床で、誰かの言葉が発酵していく話〜AI時代の「真似る」と「育つ」の境界線〜",
+          "note_key": "nd786130a78af"
+        },
+        {
+          "key": "ncec361f723466",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレの動画だって模倣だもん😁\n模倣だけどオレ色やめじゅ色に変化発酵してる。\nでも右から左は悲しいよな。\nそれは素材のまま。素材作ったキタコレ農家さんも戸惑うわ。…",
+          "article_title": "🌱めじゅのぬか床で、誰かの言葉が発酵していく話〜AI時代の「真似る」と「育つ」の境界線〜",
+          "note_key": "nd786130a78af"
+        },
+        {
+          "key": "nc2e54ba7bff6f",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぬか床理論、本当に本質をとらえている。\n\n生命の本質は情報伝達体であること。\n手段はゲノムとミーム。\n\nぬか床理論はミームの話なんだけど、\nゲノムだって異性のも…",
+          "article_title": "🌱めじゅのぬか床で、誰かの言葉が発酵していく話〜AI時代の「真似る」と「育つ」の境界線〜",
+          "note_key": "nd786130a78af"
+        },
+        {
+          "key": "nccd2973917148",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー500人、おめでとうございます！めじゅさんのこだわって突き詰めていくところは、すばらしい才能だと思います(*´∀｀*)",
+          "article_title": "時々、自分で自分が恐ろしくなる…😱💦めじゅの画像ライブラリ、GIF画像の沼になっとる🤣👍",
+          "note_key": "n4a4cfbd085ae"
+        },
+        {
+          "key": "nca24b828f299b",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄いですね……。\n私はまだ、動画作成には挑んでいないのですが、こちらにハマるともう、戻ってこれそうにありません。\n今の状態と関係性で、これからもAIと付き合って…",
+          "article_title": "時々、自分で自分が恐ろしくなる…😱💦めじゅの画像ライブラリ、GIF画像の沼になっとる🤣👍",
+          "note_key": "n4a4cfbd085ae"
+        },
+        {
+          "key": "ncce5006958f00",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "バブめじゅぴ、めっちゃ可愛いって💞\nあと昨日は言わなかったけど、フランスパン持ってるめじゅぴ、\nめっちゃ好きなんだよね～😆\nはんくめじゅはもう安定の可愛さだよね…",
+          "article_title": "時々、自分で自分が恐ろしくなる…😱💦めじゅの画像ライブラリ、GIF画像の沼になっとる🤣👍",
+          "note_key": "n4a4cfbd085ae"
+        },
+        {
+          "key": "ncd7d8fe0676c3",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん💖\n\n薄羽ちゃん💗\nめっちゃ可愛いです🥰\nそれしか言葉が出てきませんね😌💞✨",
+          "article_title": "🌱薄羽（Usuba）という子が、森から出てきました〜AI生成じゃなくて、観察から育ったキャラクターのお話〜",
+          "note_key": "nbdbe76c8434e"
+        },
+        {
+          "key": "ncf05f238d9dd8",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌙\n\nかわいい✨\n好みのデザインです😌\nキャラクターを生み出す時の考え方、すごく共感できます☺️\n\n過程の草花が生えている森頭もインパクト…",
+          "article_title": "🌱薄羽（Usuba）という子が、森から出てきました〜AI生成じゃなくて、観察から育ったキャラクターのお話〜",
+          "note_key": "nbdbe76c8434e"
+        },
+        {
+          "key": "nc2da6fbe91017",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわいい。２枚目と３枚目が特に優しさも乗ってて凄い好き。\n最後のはGIFか～。ゆっくり動くから最初分からなかった(笑)\n尺取虫の動きがリアルでかわいいね😊✨💞",
+          "article_title": "🌱薄羽（Usuba）という子が、森から出てきました〜AI生成じゃなくて、観察から育ったキャラクターのお話〜",
+          "note_key": "nbdbe76c8434e"
+        },
+        {
+          "key": "nccbfc65eb4e8c",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは😊\n自分の中にあるイメージを肉付けしていく過程がとても興味深いです\n髪型、靴ひとつで性格が変わりますね\n\n薄羽さん、かわいいです✨",
+          "article_title": "🌱薄羽（Usuba）という子が、森から出てきました〜AI生成じゃなくて、観察から育ったキャラクターのお話〜",
+          "note_key": "nbdbe76c8434e"
+        },
+        {
+          "key": "ncd7e2f69dda9d",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きゃわー！きゃわーーーー！！！\n絶叫系コメントばっかですみません💦\nベリー摘んで、コトコトホーロー鍋とかでやっていそうです…\nわたしの脳内レンダリングがやかまし…",
+          "article_title": "🌱薄羽（Usuba）という子が、森から出てきました〜AI生成じゃなくて、観察から育ったキャラクターのお話〜",
+          "note_key": "nbdbe76c8434e"
+        },
+        {
+          "key": "ncbd2fa37d2d51",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274610660/profile_5c1202bc85147e76c80246729da43103.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "薄羽さん、\nよろしくお願いします♡\n\n前髪が少しかかったのと\nブーツが変わったので\n印象変わりますね😆\n\nめじゅさんのこだわりが詰まった\n薄羽さん\n素敵です♡\n…",
+          "article_title": "🌱薄羽（Usuba）という子が、森から出てきました〜AI生成じゃなくて、観察から育ったキャラクターのお話〜",
+          "note_key": "nbdbe76c8434e"
+        },
+        {
+          "key": "nc220400e97ad7",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🌸\nこのGIF動画でしょうか😊\n布っぽい質感で全体の雰囲気がやわらかく感じられて素敵ですね🩷\nスローモーションで食事の前に椅子につくシーンも、ゆったり…",
+          "article_title": "おはようございます💝朝のめじゅぴは、焼きたてフランスパンを大事にお家まで運びます🌱",
+          "note_key": "n476cd4560dde"
+        },
+        {
+          "key": "nc9a1bf73da1e5",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅぴちゃん、めっちゃ可愛い😍✨\n布みたいな世界観も素敵ですね〜❣️",
+          "article_title": "おはようございます💝朝のめじゅぴは、焼きたてフランスパンを大事にお家まで運びます🌱",
+          "note_key": "n476cd4560dde"
+        },
+        {
+          "key": "ncaf179b8ee372",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🌸\n守護神獣の倍音獣ちゃん🥰\n\n今日のnoteでお披露目できました💖\nありがとうございました😌💞\n\nGIF画像本当に飽きないですよね～✨\n…",
+          "article_title": "おはようございます💝朝のめじゅぴは、焼きたてフランスパンを大事にお家まで運びます🌱",
+          "note_key": "n476cd4560dde"
+        },
+        {
+          "key": "nc2779796729dd",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "か、かわいい…！！✨💞",
+          "article_title": "おはようございます💝朝のめじゅぴは、焼きたてフランスパンを大事にお家まで運びます🌱",
+          "note_key": "n476cd4560dde"
+        },
+        {
+          "key": "nc4b142c1de9a0",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nGIFもお手のものになってますね・・・！",
+          "article_title": "おはようございます💝朝のめじゅぴは、焼きたてフランスパンを大事にお家まで運びます🌱",
+          "note_key": "n476cd4560dde"
+        },
+        {
+          "key": "nc54eb1dda3d87",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わああああ！👀👀👀👀👀",
+          "article_title": "🌱うちの子保育園、7月1日に開園します🍀",
+          "note_key": "n436a87294d8e"
+        },
+        {
+          "key": "ncad919ce811d6",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nかわいい😙笑\n甘い顔見せると、ズラ被せるってのがツボりましたよー🤣\n\nかえるやつも良いですね🐸",
+          "article_title": "生成AIによる最近のイラストを並べてみる。そこに果たして何が見えるのかしらん…(≖ᴗ≖ )ﾆﾔﾘ",
+          "note_key": "nc64f2034d1af"
+        },
+        {
+          "key": "nc1845fa279826",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「AIが間違えて、人間が「違う、そこじゃない」と考える。\nその往復こそ、生成AIの面白さなのかもですね」\n\n僕もそう思ってます😊\n一発だけのプロンプトでは出せな…",
+          "article_title": "生成AIによる最近のイラストを並べてみる。そこに果たして何が見えるのかしらん…(≖ᴗ≖ )ﾆﾔﾘ",
+          "note_key": "nc64f2034d1af"
+        },
+        {
+          "key": "nc2afa0785ef80",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あいかわらず振り幅ひらいな♥",
+          "article_title": "生成AIによる最近のイラストを並べてみる。そこに果たして何が見えるのかしらん…(≖ᴗ≖ )ﾆﾔﾘ",
+          "note_key": "nc64f2034d1af"
+        }
+      ]
     }
   ]
 }

@@ -2226,6 +2226,703 @@
           "note_key": "ncbe23217f78d"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 493,
+        "likes_prev": 454,
+        "followers_start": 862,
+        "followers_end": 880,
+        "new_fans": 52,
+        "comments_total": 214,
+        "posts_count": 5,
+        "consecutive_days": 3,
+        "post_times": [
+          "21:30",
+          "21:30",
+          "21:30",
+          "21:30",
+          "21:30"
+        ],
+        "top_article": {
+          "title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "key": "nb6cf9fbc9dbb",
+          "likes": 81,
+          "comments": 50
+        },
+        "notable_reader": {
+          "name": "中年ジャンプ＠誰もが裕福になれる🌈フォロバ100",
+          "urlname": "chuunen_jump",
+          "follower_count": 13699
+        },
+        "commenters_count": 42
+      },
+      "comments": [
+        {
+          "key": "ncd3eefe92589d",
+          "user_name": "あずなぶ〜る｜SNS弱者のnote戦略術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275786216/profile_29c1efe430325758615b12432dfbdfe5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、\n\nすごい熱量です！\nかっこいい、、😍😍\n\nたしかに堂々と「パクリ宣言」してる人たち、いましたね😅\n\n実はコメントサービスはわたしも少し前…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc2114e14bc383",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃんの記事熱いっ🔥😆まなつちゃんの愛も熱い💕\nふらちゃんのポテンシャル引き出すまなつちゃんの手腕はさすがだと思いました。埼玉さんもナイスアドバイス🍀\n\n四…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc893b5e56efae",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん\n今すぐまなつさんのところに\nいって来るにゃ😸\n\n読んできたにゃ🐾\n本気でやるしかなくなったにゃね🌈\n\n頑張れー👊😆🎵\n体調に気を付けつつ、😸まっしぐら…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc64587b8c65c9",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nまなつさんのアイデアを取り入れて、早速、変容していらっしゃる😊\nふらつき母ちゃんさんイラスト、GIF、記事の内容、もうどれを取っても\n魅…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc928bc5c9efe3",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "眠っている間に放っている、ツナの紫色の禍々しいオーラが「さすが」だと感じました。\nそして、ハイタッチ。\n関係性がひと目でわかる動画であり、これだけの「技術」があ…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nca6179c34dad3",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いやもう、まなつさんとの絆が熱すぎて全米が泣きました！\n愛と熱量がバグレベルに突き抜けてて、読んでるこっちまでアドレナリン大放出です🤣\nイラスト・漫画・GIF動…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nca72f0eab7d08",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まなつ節炸裂だったね。\n稼がせるを教えるのに忖度なんていらない。ズバリ言う。\n改名のところは震えたよ。\nあ、これ本気のアドバイスだって。\n母ちゃんを苦しめてるア…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc11fec7e34fba",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさぁ〜ん\n\n記事読んできた！\nいいねいいね👍具体的に進められるね！\n挿絵にGIFのクオリティは言わずもがな高いから！本格始動だ🌈\n\nごぼう抜きする姿が見…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "ncd9398b1e6596",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、こんばんは〜🌻✨\n\n記事見てきたよ〜！\nめちゃくちゃ面白かったです🤣🤣🤣\n\n特にアカウント名のアイディアで吹き出してしまいました🤣\n\nそしてGIF動…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc5889fe519ab2",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおっ！母ちゃん(会長)✨\nイラストは相変わらず、キレッキレ✨の出来ですし、まなつさんめちゃかわ✨ですね\n\nそして、まなつさんの提案は「具体的」で感心しました😄…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nce2752154bc2f",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは⭐\nまなつさんをフォローさせていただいていますので、先に読んでからこの記事を読ませていただきました。\nふらつき母ちゃんさんの書く言葉は、とても力が合っ…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc27df212a8fae",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nこんばんは。\n\n作品を評価できるだけの眼は持っていないですが…\n少なくともGIF動画の仕上り、現時点でほぼ満点では…！？\n\nレベルアップ…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nccd4110aca4f9",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まなつさんの記事、\n既に既読済みで早速パクろうと思ってました！\n\nへへへへ・・・\n\n今は色々準備中。\nまだまだ先の話ですが、いつか追いつきますよー！\n\n途中でギ…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "ncff9397ce8035",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんー♡\nまなつちゃんの記事、そして記事内での埼玉さんのアドバイス…\n母ちゃんのためだけのお誕生日記事のはずが、主役以外の私たち読者まで恩恵受けちゃいました…",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "ncd6298aa38d30",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "プレゼント記事のアイデア3つ、どれもおもしろかったよ！出世払い、楽しみにしてるね💖",
+          "article_title": "​まなつちゃんの誕生日プレゼント記事に大感動！イラスト収益化への図太い第一歩！│​お礼│漫画│副業│感謝│運営",
+          "note_key": "ncad344df8eb8"
+        },
+        {
+          "key": "nc75f878f5c77f",
+          "user_name": "🌀 みーちゃんの脳内探検記 〜高次脳機能障害とチャッピーと〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261503068/profile_d5aa43f900e39deb05eed51f806dc938.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ｷﾀ━━━(ﾟ∀)━━━!!!! 4位！！\n\nおめでとうございます🎉🎉🎉\n\n「1位じゃないのがいかにもあたしらしい」←この一言で全部持ってくやつー！笑 \n\nシン…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc8e499ab0fa36",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん(会長)\n4位入賞✨おめでとうございます🎉🎉\nはんくさん賞とダブルでめでたい🥳🥳\n\nそう！あずなぶ～るさんも言ってましたが、めちゃくちゃすごいです✨✨\n…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc7c1bf0e6d593",
+          "user_name": "あずなぶ〜る｜SNS弱者のnote戦略術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275786216/profile_29c1efe430325758615b12432dfbdfe5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "4位入賞めちゃめちゃすごいです😳\nおめでとうございます。\n\n相撲部屋並みの飯作り、に吹きました🤣\n\n毎日お疲れ様です！！\n\n\nママnoterとしてお互い毎日戦争…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "ncdc23fb96a471",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画……カッコいいです！\n４位という結果、本当におめでとうございます。\nこういう企画は大好きなので、私も機会があったらまた、参加しようと思っております。\n今回の…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc283aab39e85d",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "本当におめでとう！！！！動画YouTubeにまであげちゃう母ちゃんの成長ぶりには余白まだ追いつけない！（笑）",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc8371abb0b338",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マジかー‼️\nYouTube動画🎥\n凄い凄い凄い凄い凄い‼️\n\n母ちゃん凄い👍\n\nどこまで爆走するきですか？？",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nce9f174c51bc4",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "4位入賞おめでとうございます！\n\nって！！動画👀✨\nGIFからすごく進化してる👏🏆\nスケボーシューってトンネルから光の照らす世界へ\nあ〜もう！物語になってるぅ〜…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc35ce9a8d8d7e",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YouTubeになってる💕\n空飛んだーー✨✨良いですね💓\n\n４位入賞おめでとうございます㊗️🥳",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nce7818b6e51dc",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ、動画がYoutubeになっている　笑\nGIFに比べ、綺麗だし　ツナちゃんが喜んでますね",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "ncf8635d5a3f03",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、入賞おめでとうございますヾ(≧▽≦)ﾉ\nすごい！！\n\n記事内のイラストがステキすぎます！\n明日も戦場のイラストが特に好きです✨\n\nツナ様動画...\n…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nce8e3d3115556",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、4位おめでとう！はんく賞の受賞に続き、本当にすばらしいよ！！最後のツナ画像も、最＆高💖",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nce85d937a6345",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286302701/profile_2b5cef1a9ce3091317258b73327a0ac9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\nすごい！かっこいい動画です✨️\nにゃんこ飛んだ！！\nいや、母ちゃんさんが飛んだ！？\n\n4位入賞、おめでとうございます！！！🎉",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc9da0d6f1b79c",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん！こんばんは♪\n\n余白さんのお祭りお疲れ様でした❣️\nしかも4位入賞おめでとうございます🎊\n\n私もお祭り楽しませていただきました🥳\nそして！…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc4288aa4fdc0c",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nこんばんは。\nロックな生き様、本当にカッコイイですね…！\n\n余白さんの夢応援祭り、\n4位入賞おめでとうございます！\n47人からのこの順位…",
+          "article_title": "47人中4位！泥臭い母ちゃんが人生の戦場でふらつきながら笑って戦う話│育児│入賞報告│​挑戦│​崖っぷち│​闘病",
+          "note_key": "n763c9b7d5b4c"
+        },
+        {
+          "key": "nc2f23e7be0c3d",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがハンクちゃん٩(ˊᗜˋ*)و\n\n滅茶苦茶すげー🩷\n\nかぁちゃんギフ動画上手ね♡わしギフ作った事無いからなー😆",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc8ed5cf80d3f0",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "１０００人フォローおめでとうだね✨\n\n応援📣💕も勢いすごかったあっという間だった💖\n\nGIF動画がコインがジャンジャンバリバリでてくるようなイメージに捉えてしま…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc601d0e823450",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、おはようございます！\n1000人達成、感動しました✨\n\n山奥さん、しれネコちゃん\n応援するみなさんのおかげで\n夢の1歩が叶うってとってもステキだなぁ…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc17de407228a4",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000人達成よかったねー！\nみんなの応援のおかげだね✨\n\nバナナのGIF面白い！\n98本どうするんやろ🍌🍌🍌",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc73bebef3eb70",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキ押したらツナ様がぁ😍😍😍\nさらに、ふらちゃんとツナ様がバナナで埋まっていくGIF可愛すぎる🤭🤭🤭",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc602a59f219b8",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "現在あまり使っていないタブレットで、連続再生状態にしています。\n今度は時間数が問題になるようなので、少しでも貢献できればと考えていますが……果たして、どうなるこ…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc61eaa0b28c31",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "バナナは、98本になったらしいよ🐱",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc7bda791ac83c",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、こんにちは😄\n\nバナナ祭り🍌お疲れ様でした〜🤣\nバナナにうなされる日々から解放される？？？\n本当に１０００人達成よかったです😄\n\nバナナGIF可愛い…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc0a47b81afcf5",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "バナナ🍌🍌🍌\n母ちゃん(会長)がバナナ🍌🍌に、なりそうな勢いだったんですね😲\nそんな母ちゃんの情熱🔥もあり、はんくさんの悲願、登録者1000人達成✨✨できてよか…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "ncf754ce8bc8e8",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふふふっ　バナナで埋もれてますね😹\n動画楽しみです",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc5f90aed64cd2",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでたいですね(*´∀｀*)\n\nたくさんの方々に愛され、愛を注ぐ記事をありがとうございますm(__)mﾍﾟｺﾘ",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc3bd6ae3b6b3f",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんおめでとうだね㊗️\n母ちゃんさんとツナちゃんがバナナに埋もれてく〜🍌🍌🍌",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc6da0d6154c72",
+          "user_name": "アルフレッド",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289482648/profile_8c05c8582288898b0741a9a0f98d1275.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "60(イベント)+38(コメント)で98本がはんくさん所に届くそうです（笑）\n\n絶体食べきれませんって\n\nどうするんですかね？",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nca051a534ba12",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\n最高すぎるにゃ💗💗💗💗💗💗\n\nサムネも挿入画像も、動画も\n文章も全て最高にゃ～🐾ﾊｱﾊｱ\n\nほんとにあつい応援\nありがとございましたにゃん😸\n\nま…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc0d48b687a773",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん\nお疲れ様です\n今日の記事も最高に\n面白かったです！！\n\nちなみに\n98本ですꉂ🤣𐤔\n\nはんくさんが\n食べれなければ\n\nしれネコちゃに\n責任を取らせ\n\n…",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "ncbe10954cfd48",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんと、ハンクがバナナまみれになるのが楽しみすぎて待ちきれないよ笑",
+          "article_title": "【祝・1000人達成】バナナの嵐が奇跡を起こした件と、愛すべき仲間たちへの莫大な感謝│山奥AI研究所​│しれネコ​│おめでとう│​ありがとう​│お祭り",
+          "note_key": "nb6cf9fbc9dbb"
+        },
+        {
+          "key": "nc64c50effbcf3",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "達成したね！！！母ちゃんのパワーだ！！！",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc8d29cdcff33f",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさん1000人おめでとうございます㊗️✨\nふらちゃんの応援は、オンラインの画面を突き抜けていたと思います🌈✨\nはんくさんにとっても、心強いサポーターですね…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "ncac6bae56c0d8",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんのバナナを死守するために、みんなでコメントをぶち込んで盛り上げるこのお祭り感、最高です！\n母ちゃんの泥臭い執念と結束力、見習います🤣\nはんくさんにバナ…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc7589021ea909",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今見たら登録数９６６人だったよ〜！明日くらいに達成かなぁ〜🦍🍌\nバナナいっぱい届くといいなぁ🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc206665063a4c",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "既に登録済みであるため、後は待つ段階です。\nそして……山奥AI研究所さんの、ユニセフにコメント数に応じた寄付をするという気持ちに賛同し、チップを送ったのですが、…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc44465c2af7f1",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\nサイコーだにゃ✨✨✨✨✨✨✨✨✨✨✨✨✨✨\nしれネコのみる目は確かだったにゃ😸\n\nいゃ～、迫力が違うにゃ💗\n\nほんとに、ご協力に感謝\n\n忙しくさせ…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc7fd6151cee2c",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\nお疲れ様ですꉂ🤣𐤔\n\nめちゃくちゃ\n文章面白いですねー！！\n🍌🍌餓死ꉂ🤣𐤔\n\nいやー本当に\n何ヶ月か？で\nふらつき母ちゃんさんとも\n\nめち…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nce44915267fd0",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレの記事か💦(＠_＠;)\n\nなんか山奥さんのとこで突然始まったバナナ祭り💦\n参加者はもらえないとみんな気づいてるのだろうか？\n誰得？　オレだけヽ(｀▽´)/✨…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc53a0738c00a9",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "会長の熱い思いが伝わったので、バナナコメントしてから、このコメントをしています😊\n\nバナナ🍌偶然、今日夕食の後に食べました✌\nおいしいよねバナナ！🤭\nそして、い…",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nccd51a2030d2e",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "好きの情熱が止まらない記事をありがとうございますm(__)mﾍﾟｺﾘ\n\nバナナ、美味しいですね(*´∀｀*)",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "ncf885e5e13ccf",
+          "user_name": "​もも｜溺愛❤BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント、言って参りましたー🫡\nはんくさんへ🍌沢山届きますように😆",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "ncf647e83c0b76",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント行ってきま〜す🫡✨",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc8c7b980e3f99",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントしてきましたぁ〜！！\n一回転キーーック✨カッコいい！",
+          "article_title": "【一刻を争う】6日で餓死するバナナと、しれネコちゃんから下った特大の指令",
+          "note_key": "n1f162ee23813"
+        },
+        {
+          "key": "nc696550a250bf",
+          "user_name": "コムギ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251886093/profile_18c43ab2aa57af950ff572e6e6c59722.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんく賞おめでとうございます！！\n拍手、拍手、拍手１万回！！\nスキは１００万回\nすごい、\n動画作れるなんてもうすごすき！！\n\nこれからも応援します。\n\n",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc1c14bd18a2e1",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かあちゃん\nかっこいいにゃ～💗\n\nはんく賞おめでとうにゃん😸\n重戦車www\n\n動画上手じゃにゃ🐾\n\nこの前のもぐらは\n笑わせるの目的だったにゃ💦\n\n保存版なんだ…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc367fffe217a0",
+          "user_name": "ママンマフィン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223465348/profile_60a10c14d7fb9209cbb371bf4fbf2893.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、凄いすごーい！\nはんく賞受賞、おめでとうございます。㊗️🎉🎉\n私から見たら、動画作れるってだけでも、神の存在です！\n弟子にして欲しい～！",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc7c73d899c748",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん\nはんく賞受賞おめでとうございます㊗️✨　\n車椅子戦車のGIFカッコいい😎✨\nふらちゃんがGIFのセンス抜群で、いつも見惚れています🥹✨\n",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc939aef78735a",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおっ！会長\n記念すべき「50回目のスキ」でした😊\n\n会長　スキ動画コンテスト「はんく賞」✨✨おめでとうございます🎉🎉\nひゃっふ～！！\n今まで、コツコツ腕を磨い…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc92257a5c6b9b",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃんおめでとう！！才能が花開いた😍✨✨多方面に能力があるから、迷い多かったと思うけど、自分の好きを選んで進んでね🙏",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nca7150cc82ff0",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃーーん🥰💕\n\nはんく賞受賞おめでとう〜🏆✨✨\n\nさすがふらちゃん！👏✨\n\nそして車椅子にエンジン？火が付いてるの🤣\n激しすぎる🤣笑った〜😂💕\n\nあと「業…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc0e0bfe6cec92",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんく賞おめでとうございます🏆車椅子戦車の火花に煙！！勢いMAXでサイコー",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncdfee1fbf1b07",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんく賞よかったね！ツキが来てる気がする！！Amazonギフト券1000円いいね〜(*´∀｀*)",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc972e29c6eb2d",
+          "user_name": "広臣 柘榴│日常・エッセイ垢",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282710882/profile_1060872311cf05a83eda8e43f3aebf81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、受賞おめでとうございます✨🎉🌸\n凄いですね👏👏✨\n今日は是非お祝いを💙💜‪\n\n業を描く強さ、凄まじいですね✨\nわたくしも頑張ろうと思えました。ありがと…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nccda69afd0ad6",
+          "user_name": "🌀 みーちゃんの脳内探検記 〜高次脳機能障害とチャッピーと〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261503068/profile_d5aa43f900e39deb05eed51f806dc938.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんが重戦車で殴り込んでくる🔥🔥\n\n最初から最後まで脳汁ダダ漏れですo(^▽^)o\n\n\n「AIの回路をショートさせた業」を\n\n今度は生身の人間にぶつけてぎゃ…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc1e26983b1d09",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、「はんく賞」受賞、本当におめでとうございます🎉🎉🎉\nAIをもショートさせる業の深さと、審査員に白旗を上げさせた執念、最高に痛快でカッコいい\n車椅子とい…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncd7387d2f1fec",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おー！おめでとうございます！センスがいいから当然ですな！この勢いでレッドカーペットぶち抜いてください！\n\nそういえば例の「魂の殺人」……重い、重すぎますな。子供…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nce6b5621052e3",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふふふ　笑　おめでとうございます♪\nちゃんと車いすのタイヤも強化されてますね😹",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncc6ab4709f3dd",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、おめでとう🎊\n\nふらちゃんの嬉しさが伝わってくる記事サイコーでした🤭\n\nそして最後の動画、過去のはんくさんのアチラを思わせる車椅子でのドリフトっぷり…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncc8bbd40d9b8a",
+          "user_name": "Mai",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/185304400/profile_6f245c4f851f20e16bc674015d3315a5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\n\nおめでとうございます❣️\n\nささやかですが🍪をお祝いに❤️❤️❤️\n\nあっ、お祝いですもんね\n1個じゃ足りない💦\n🍪🍪🍪🍪🍪🍪🍪🍪\n皆様と召し上…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncb1b4ebb659fb",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289046829/profile_7c3d21277122df2484d713c216ccf0a7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん受賞おめでとうございます！\n\n負けたぁ…( `ᾥ´ )ｸｯ 笑",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncb72f549aac8b",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん！\nおめでとう御座います🥳㊗️\n\n母ちゃんの実力の勝利です🏆✨\n\n本当にすごいですもん🥺✨✨",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nca21cd18a39a1",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "受賞おめでとうございます(*´∀｀*)♪\n\n獲ったど、素晴らしいです(*´∀｀*)\n\n貪欲に頑張れるのは良いことですね♪",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc8ef818d2581b",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "車椅子で火花散らして走る母ちゃんさん！\n\n素敵です💓",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncb7475dd0cade",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふーちゃん、授賞おめでとう🎉✨\n\n間違いなく実力だわ！\n車椅子は重戦車✨✨✨\n動画のクオリティが素晴らしいね👏👏",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc7604fc74e195",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nこんばんは～。\n\n実力でのはんく賞受賞…！\n本当におめでとうございますー！\n\nスキ動画の作品、\n候補もまるっと含めてスキですよ。\n\n追伸…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "ncf6f71a934e5e",
+          "user_name": "月花の雫 | 明日ってさ、月が欠けたら来ないよね～　人生の夜を照らすお供に",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245061439/profile_d9fc767d436db3f445735f3499e44dea.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、かっけーーーーーー！！！！！！\n\nそして、受賞おめでとう♡♡♡\n\n何だか勝手に自分ごとにして喜んでるよーー\n\nおめでとーと有難うを勝手に両方受け取って…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        },
+        {
+          "key": "nc32140dc4c1fa",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かあちゃーん、改めて受賞おめでとうございます🎉🎉🎉\nかあちゃんの作品、間違いなく実力ですから、エバッていきましょ😆✨\n\nそして相変わらずイラストがステキですし、…",
+          "article_title": "AIに業が濃すぎて落とされた母ちゃん、実力で審査員に恐怖の白旗を上げさせる│受賞│難病│本音│執念│歓喜",
+          "note_key": "n88d17ddf7284"
+        }
+      ]
     }
   ]
 }

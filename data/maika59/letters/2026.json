@@ -892,6 +892,59 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 257,
+        "likes_prev": 334,
+        "followers_start": 3734,
+        "followers_end": 3757,
+        "new_fans": 36,
+        "comments_total": 4,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "06:02"
+        ],
+        "top_article": {
+          "title": "『伸びる人は“比較”を設計している。』 あなたは、どの軸で比べられたい？｜AIイラスト ｜AIアート｜プロンプト｜コンテンツマーケティング 　",
+          "key": "n14dc92b65765",
+          "likes": 55,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 25847
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nc83b9d8882f70",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。記事ありがとうございます。勉強になります。",
+          "article_title": "『伸びる人は“比較”を設計している。』 あなたは、どの軸で比べられたい？",
+          "note_key": "n14dc92b65765"
+        },
+        {
+          "key": "nc8cdcee865875",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nおかげさまで1500、紹介いただきましてありがとうございます。\n\nスキの図解は誰でも使える図解ですね。\n共感と世界観はそうだとして・・・\n…",
+          "article_title": "『伸びる人は“比較”を設計している。』 あなたは、どの軸で比べられたい？",
+          "note_key": "n14dc92b65765"
+        }
+      ]
     }
   ]
 }

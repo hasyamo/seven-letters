@@ -1140,6 +1140,98 @@
           "note_key": "nfef81e61212f"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 614,
+        "likes_prev": 612,
+        "followers_start": 1357,
+        "followers_end": 1401,
+        "new_fans": 134,
+        "comments_total": 14,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:00",
+          "00:00",
+          "06:52",
+          "18:11",
+          "08:10",
+          "17:00",
+          "07:00",
+          "17:00"
+        ],
+        "top_article": {
+          "title": "黒パグのAIショートショート　16 シロクマ文芸部　お題「雨宿り」",
+          "key": "ne443d41118d0",
+          "likes": 99,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "Gemini - Google の AI",
+          "urlname": "google_gemini",
+          "follower_count": 54012
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc46492451807f",
+          "user_name": "ミュール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259621937/profile_d72b11bb59276f4c99122b4214aa0ab7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "昆虫の標本づくりに通じる面白さがある。デジタルの時代だからできる探索。奥深いので色々みえてくる良い記事と思いました。",
+          "article_title": "[夏休み保存版] AIとはじめる夏の自由研究〜10秒ラクガキは、どこまで化けるのか〜",
+          "note_key": "n1ecc99162a76"
+        },
+        {
+          "key": "nc92f276cc2175",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ楽しみです、5.6！\n縁下で色々と煙あげてたモデルなので余計笑",
+          "article_title": "GPT-5.6 より強かったもの。",
+          "note_key": "nc0a3e48fe0b0"
+        },
+        {
+          "key": "nc6d7457078633",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます♪\n\nビーフストロガノフが美味しそうで\nそちらに目が奪われてしまいました🤭\n文脈は拾える、面白い進化？変化だなぁと思いながら読ませ…",
+          "article_title": "GPT-5.5 Instant更新で「会話」はどこまで成果物になるのか　最速検証と美味しいビーフストロガノフレシピ配布🥩",
+          "note_key": "ndbc37bb958e1"
+        },
+        {
+          "key": "ncdd8f65b1a3c0",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ、本当にAI……?🐻😂",
+          "article_title": "黒パグの #ChatGPTCreativeClub 活動日記 ⑨ AIに「描き直しの痕跡」を描かせる ──《Pentimento, Genkai》設計記録（前編）",
+          "note_key": "nea2959b5709a"
+        },
+        {
+          "key": "ncba116a0570c6",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃんこ正座して拝読させていただきました\n目線がすごい！！！！！",
+          "article_title": "黒パグの #ChatGPTCreativeClub 活動日記 ⑨ AIに「描き直しの痕跡」を描かせる ──《Pentimento, Genkai》設計記録（前編）",
+          "note_key": "nea2959b5709a"
+        },
+        {
+          "key": "nc41cc9d23f689",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ〝あ〝あ〝あ〝あ🌀(推しがKUMAAとは尊すぎる)",
+          "article_title": "黒パグの #ChatGPTCreativeClub 活動日記⑧  エッシャーを追いかけたら、画像生成沼の底に等角写像があった（前編）　2000字　",
+          "note_key": "ne690269ca0c1"
+        }
+      ]
     }
   ]
 }

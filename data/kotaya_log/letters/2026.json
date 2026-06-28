@@ -1169,6 +1169,630 @@
           "note_key": "n2656b34564c8"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 536,
+        "likes_prev": 360,
+        "followers_start": 2963,
+        "followers_end": 3037,
+        "new_fans": 142,
+        "comments_total": 156,
+        "posts_count": 4,
+        "consecutive_days": 3,
+        "post_times": [
+          "20:00",
+          "20:30",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "key": "n111fbfc22da3",
+          "likes": 155,
+          "comments": 62
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 25801
+        },
+        "commenters_count": 41
+      },
+      "comments": [
+        {
+          "key": "ncae6e891988df",
+          "user_name": "andy｜投資・仕事・noteをデータで育てている人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏祭り🎇\n本番を楽しみにしてます！\n（/◎＼）ｺﾞｸｺﾞｸ(ﾟ∀ﾟ　):∴ﾌﾟﾊｰｯ",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc7ffa9a1041b7",
+          "user_name": "ひゅー｜AI×分析｜考察と思考整理を楽しむ。note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282872828/profile_3d5a30e86f70466c0b2b25876a4e798b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんにちはー✨\n\nじまにゃんに勢いで引っ張られてるのおもしろい。\nお二人ともわたしはファンですので、素敵なコラボに感謝です。\n応援してますよー…",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "ncd5a0ca51e863",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231326995/profile_9a5a496ca39b9a11583411ed09b2d0ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごーい！\n参加したいですー！",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc070880556b58",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n初めまして。カナミンです🌱\nじまにゃんさんの記事で夏祭りのスポンサーになりました✨\nめっちゃ楽しみにしています🎆\nよろしくお願いします🙇‍♀️",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nca8afc6d30101",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\n夏祭りぃ〜屋台〜🌈✨🥰\n\n記事で出店したら良いのかな❓\n\nそれは面白そうだーーー😍😍😍",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc1a6ddbf90704",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\nお祭りー♪\n良いですね〜🤭\n\n浴衣が似合ってますね😙\n\nところで\n実はイマイチよくわかってないです👍笑",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "ncf641e6142e2d",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266713080/profile_5b5025a9c074af902d3652fe76fc4dc1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！\n\n夏祭り企画いいですね！\nじまにゃんさんとキャラの違いがわかりやすくて面白いです😂\nぜひぜひ参加希望です🏮",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc8f33dfeaf962",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nお祭り楽しみですね🤭\nお二人が主催ならきっと盛り上がりそうです✨\n\nそして役割分担もはっきりしてそう😎笑",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "ncf1e2c28e8f03",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "出店希望します😄\n\nお祭り　それは最近ひとりでしか行ってないイベント(笑)こどく…\n\n行くと、毎回「りんごあめ」を買いまーす♪",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "ncc16ebc887e7c",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "楽しそー🍎🌽🧋🥡🎪\nお祭りだー🪅",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nca7ffae1e7934",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱり夏と言えば、お祭りですね🙌🎉\nめっちゃ楽しみです😆✨\n\nそして四コマのお二人、めっちゃ面白かったです🤣🤣　じまにゃんの思い付きと、それにスンとしているこ…",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc46006561e725",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "祭りだ、祭りだぁ〜〜〜❣️🍧🍟👘🏮✨\n\n楽しみ！🤭✨\nみんなで素敵な思い出残そうね〜✌🏻💖",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nccb8da85081c9",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お祭りいいですね✨\nノープランですが参加希望です✨✨\n\n楽しみにしてます😊❣️",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc043f313c52c7",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど屋台！\nいまやってるの終われば\n参加出来ると思うような思わないような？\n頑張ります…！",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc14ddaec1ec0d",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ～なあつまつりっ♪\n\n参加希望(∩´∀｀)∩♪",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "ncc008d5220fef",
+          "user_name": "ふらつき母ちゃん │脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏祭り…考えてたけど先出しされたにゃ〜(  ߹꒳​߹ )\n違う企画、考え直そうっと🎶\n\n屋台かぁ…\n考えてみるね♡",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc44e847353833",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おまつりだー❣️❤️‍🔥\n\nこんなん出店用の記事、\n用意しとくっきゃないね❣️✨\n\nところでこちゃさん、\n浴衣になると学生バージョンくらいの\n顔になるねー❣️🤭…",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc65c4e5addfc4",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは！\n\nじまこちゃ夏祭り楽しそう✨\n概要把握しました👍どっちにも入ってるので屋台出します😆\n\n楽しみ✨",
+          "article_title": "じまこちゃ夏祭り、やります",
+          "note_key": "n52e8a0b8d976"
+        },
+        {
+          "key": "nc50a95bac6c4d",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、今晩は、フォロワー3000人おめでとう御座います🎊記事を読みながら途中でこれ私の事だと思いました、現在も迷走中のみではありますがヒトタラヲさん…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc52ec0e73d818",
+          "user_name": "ふらつき母ちゃん │脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223947442/profile_6e9b1e365cc0bed84a044dfcbd3f54db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー3000人達成おめでとうございます(*^▽^)/🎉｡･:*☆\n\nまるよか王からの躍進を間近で(多分…)見ていたので、メチャクチャ嬉しいです♡(なぜ私が…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nccb474cb18d2a",
+          "user_name": "るこのみらい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん💕\nフォロワーさん3000人超えおめでとうございます🎉🎊\n\n素晴らしい躍進劇ですね✨\n私がKOTAYAさん、を知った時はまだ\n1000人になって…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc1a2c9ce8080e",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん\nフォロワーさん3000人超えおめでとうございます🎉\nこたさんの進化を一緒に感じられて、すっごく嬉しいです。\n分析もビジュアルGPTも大活躍です！！",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "ncf889681cee59",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まずは、３０００人おめでとうございます！\n自己分析も含めて本当素晴らしいなぁと思いました。\n\n売り続けるって難しいですよねぇ\n\nこれからもこっそりとみに来ます。",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc66320505f6de",
+          "user_name": "🍀ベンジャミン🍀",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284873317/profile_2294d77b9c54dbe9a87caee6c8fd75a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、フォロワー3,000人おめでとうございます🎊\n収益20万超凄いです😁\nフォロワー1,000人まで収益ゼロだったことも励みになります。",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc0e8b4f221077",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、フォロワーさん３０００人おめでとうございます！\nそしてビジュアルGPTも第一期完売おめでとうございます！\nいつもお世話になっているので、あまり…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nca28ecaaa6960",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロアーが……３０００人？！\nnoteの基準でも、明らかにトップクラスであり、インフルエンサーを名乗っても良いレベルに達していると思います。\nそれを、わずか半…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "ncb4b3f69a6f08",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nフォロワー3000名おめでとうございます🎉🎉🎉\n半年で3000名は速すぎです😎✨\n\nnoteが稼げるらしいではじめたのは私も同…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc6bfa69c48aba",
+          "user_name": "ひゅー｜AI×分析｜考察と思考整理を楽しむ。note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282872828/profile_3d5a30e86f70466c0b2b25876a4e798b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー3000人おめでとうございます🎉\n\n分析記事からの大爆発がすごかったですねー。\nKOTAYAさんのポジション、すっかり確立されてて、かっこいいなーとい…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "ncc409be592caa",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー3000人おめでとうございます🎉\nヒット商品の分析が凄いです✨\nタラヲさんから評価されたのも大きいですね😊\nこれからも応援してます！",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc1931875df921",
+          "user_name": "アリゼロ🐜氷河期世代の働きアリ@自身が会社で経験してきた問題点や気づきを発信しています。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA様、こんばんわ。\n\nフォロワー3000人突破おめでとうございます🎉\n\nす、すごい😳本当に色んな事を試されているのですね。\n\nお子様の子育てと仕事とn…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc8ad32f0fd7f3",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん💖\n3000人フォロワーおめでとうございます💖\n自分の客観的分析が気になった時に\n浮かんだのがやっぱりKOTAYAさんで\n💖ページに遊びに来たら…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc73777af584cc",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん　フォロワー3000人✨おめでとうございます🎉🎉\nこんなに早く、フォロワーが3000人を超える人は、なかなかいないと思います。\n\nそして、まるよ…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc5c2a1a17b3f4",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、すでにXの方でお祝いコメントしてしまいましたが、改めてフォロワー3,000人おめでとうございます🎉✨\n\nメンバーシップ100人計画も達成しましょう🙌…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc1c58dccbdc35",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日は、というかもう合格ですよ💯\n\n3000フォロワー、本当におめでとうございます🎊\n\n私なんか、1年経過してもこんなゆるっとやっていて、KOTAYAさんの成績…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "ncf05c943b3141",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ！\nフォロワー3000人おめでとうございます🎉🎉🎉\n\n私はこんな雲の上の人を手書きイラストにしたんですね😱\nお祝いはえびフライをご自宅に送ったら良いで…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nca184676ede3d",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n3000名おめでとう🎊\n次は4000名目指そうー！！\n\nこれからも、あんな事やこんな事して楽しんでいきましょ〜😙\n\n4000超えたらまたDMし…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc46d0fc2ddabc",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271144913/profile_4fc72e04f889e8de72f18f4632ffa7fe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "祝3,000人🎉\n\nツールずっと悩んでて、今見たら売り切れてました！\n小説の挿絵を自動で作ってくれるツールなら10万まで出します😼\n文章が拙いので、ちゃんとした…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nca96eda6c5f6b",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜！こんばんは！🌻✨\n\n3000人おめでとう〜🥳🎉✨\n\n色々めでたいねぇ㊗️\n\nガンガン波に乗って、このまま突っ走ってこ〜🌊✨ ",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc5abdeb0a62b6",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n\nこんばんは。\nフォロワー3000名突破、おめでとうございます…！\n\nKOTAYAさんの記事で忘れられないのが2つあります。\n\n・ふらつき母ち…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc9217ac08cbae",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "3000人！おめでとうございます😊✨\n私がKOTAYAさんを知った時はもうすでにすごき人だったんですが、初期ふるわなかったご経験もされていたんですね。\nnote…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc2493a7ac9932",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワーさん3,000人、おめでとうございます🙌🌟\nKOTAYAさんを初めてnoteで見たのは、フォローさせていただくより、\nずっと前なのですが、noteには…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc90c41745ab21",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\n今日はこれで合格。\n\n元々良いキャッチフレーズだと思ってましたが、この記事には本当にピッタリですね。\n\nやり切った人の今日はこれで合格。\n\nは強…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "ncdbf874eb37e9",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、フォロアーさん3000人おめでとうございます！\n\n凄いですね！\n\n私は、ちょうどここに書かれているフォロアー1000人の時の\nこたやさんと同じような…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc19c552e1995d",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは🌃\nフォロワー3000人達成おめでとうございます🎉\n\n私もほぼ同じ頃にnoteを始めましたが、有料記事はまだ売上ゼロです😅\nだからこそ、売…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "ncc699de2e29cd",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは🌙\n\nフォロワーさん3000人おめでとうございます🎉\nメンシプに追加いただいた記事も読ませていただきましたが、けっこう今と文章違いま…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc6d659fed4223",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteビジュアルGPTも本当に良いツール。\n980円ってめちゃくちゃ安いと思うんですけどね\n\n先日、お友達にも紹介してして買ってもらったら良かったって言ってま…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc756ac53ad992",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うぉおぉぉ〜❣️🥳\n3000人おめでとぉ〜う❣️🎉🎉🎉\n\nあとで、おめでとうイラスト作る❣️🫶",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nc00c1bfee2947",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがでございますな！安定して売り上げる。難しいですよね。記事の単発売り上げでは安定しない。やはりメンシプでの売り上げを考える必要がある。そして、コアなファンを…",
+          "article_title": "noteフォロワー3,000人。売上0円から累計20万まで、半年間でやったこと",
+          "note_key": "n111fbfc22da3"
+        },
+        {
+          "key": "nca8a3b597dee2",
+          "user_name": "さくさく|人生の不安に寄り添う相談室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276714619/profile_61f6d53d099641cf91b77a723cab640b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんー！\nこんばんは😊\n\nまぐさんの分析✨️✨️\nさすがです☺️\nまぐさんの臆病な一面、前に進んでいく勇気、そして温かさが伝わってきました☺️✨️\n…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "ncdd6051d79a73",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まだ、裏の方は読んでいないので……どれだけの差があるのか、楽しみです。\nコメント制限が解除されたようなので、ようやくコメントできる状態となり、そちらの方もチェッ…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nc59bd0cba470b",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\nずるいですね。こんな分析記事読んだら、声を聞いてみたくなるじゃないですか！\nそして、30分間以上のトークをすっかり聞いて、癒やされて帰ってきました…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nc2ac6c4898f8f",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜、こんばんは！🌻✨\n\n表と裏！そうゆうことだったのかー！👀✨\nまぐさんも素敵だね〜🥰\n\n音声配信も気になる！\n聞きに行ってみよーっと🤭\n\nてかfafaさ…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "ncc4b46b8715dd",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です🌟\n\n表と裏のパターンは初めて見た気もします😋\n記事を読んで表裏一体ってこういうことだなって思いました⭐\n\nいつもfileはこちゃさ…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nc792722a2c794",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん〜❣️\nまぐさんの分析、なるほどな〜って🤔✨\n私もKOTAYAさんの分析には絶大な信頼がありますので😍✨\n\nしかも！私が1番コメントしてるとは🤣…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nc9440e4a4464f",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます😊\n超分析お疲れ様です！\n\nまぐさん、表と裏の使い方、なんか上手です✨\n気になって読ませていただきました！\n音声って人柄伝わ…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nc6a86418b33cf",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん♪\n\nまたまたねおち後の座椅子から。\n\nまぐさんの数値分析と成長記録。\nそして第３者視点からの俯瞰からの寄り添い、\n\nいつも最後まで飽きずに読み進んで、…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "ncbd3643ae5d6f",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！\n\n私の推しのまぐさんの記事✨✨\n\nすごいでしょ？←誰やねん笑\n\nJAUさんとさくさくさんが強すぎて引きましたが、愛の強さは負けてませんよ🤭❣…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nccaf04caa8c2f",
+          "user_name": "あずなぶ〜る｜SNS弱者のnote戦略術",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275786216/profile_29c1efe430325758615b12432dfbdfe5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まぐさんの分析。\n\n非常に興味深く読ませていただきました。まず、わたしがまぐさんに対してビックリしたのが\n「推し活のためにわざわざ専用アカウントを作る」という、…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "ncf97e29526395",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "表と裏の2アカウントで1セット\nってパターンもあるんだね❣️😳\n\n音声が主力の noter さんって\n初めて知ったの❗️\n\n今回も、まぐさんの人となりが\nすっご…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nce9c8b3a587dc",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281065557/profile_3c9ddf4410a54730a2d0279b54c79d60.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、丁寧に記事と音声を追って下さりありがとうございました‼️🙇‍♂️\n\n朝からずっとドキドキしていて、今ニヤニヤしながら、大切にゆっくり噛み締めて…",
+          "article_title": "文章から声へ。",
+          "note_key": "n6a6731b1bb07"
+        },
+        {
+          "key": "nc9378bfcf5e4f",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、お待たせしました。\n実は私があの時の修一です！\n\nさあ！告白バッチコーーーーイ！！\n\n自分もこういう話の１つや２つあったら\n心打つせつないnote書…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "ncee9a6f582c8c",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんにちは〜🌻✨\n\nめっちゃせつないね……🥹\nなんか、特に何もなかったのに、心に残っていつまでも忘れられないやつ、あるよねぇ……🥹\n\nでも子供の頃って、…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc8cd3db16f16b",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさーん🤗\n回答ありがとーー❤️\n控えめに言って最高でした🥰\n言葉にできない切なさ、あの頃の自分の中の恋心をどうしていいかわからなくて、通り過ぎてしまう感覚…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc4635b6bfb8d4",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😌\n\n切ないですね🥹\nでも現実の恋ってこんな風に終わりも始まりの曖昧なものだったりしますよね✨\n\n上質な短編を読んだ気分になりました…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc4ff162137279",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n修一ーーーーー！！！！\n叫びたくなった🤭笑\n\nなんか切れない縁みたいな感じの出会いが良いですね〜😍\n\nこたやさんの恋ええなー😙笑\n僕もこんなん…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "ncb711983a7ffe",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、ちょっと切ないお話でしたが、情景がありありと目に浮かびました😌\n実は、わたしにも似たような経験があります。",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc3dd9327c32f2",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "短編小説のようで、初恋の情景も心情も伝わってきました♪\n",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc836f72aedc8c",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n小さい頃のこちゃさんが\nかわいいー🥰🥰🥰\nそしてある日からのねじれ…\n切ない…💦\n\nネタバレになるのでこの辺で止めておきます😙",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nca91f1ae71ae2",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人生ってわからないですね・・\n\nもし違う人を出していたらどうなっていたか。\nでも、だから今の出会いもあるんですよね。\n\n素敵な記事ありがとうございました。",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc50adef34c0cd",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "切ない、、、😭\n\nでも、せつないのはもちろんなんだけど、\nこちゃさんの一人称で丁寧に書かれてるから、\nなんだか、読んでる間、こちゃさんになって\n追体験してるみた…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc295866eaa75a",
+          "user_name": "豹子頭 林冲",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/93833063/profile_29109b9cb76666a89333862ce6fe2bee.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんの人間味が…\n心の熱が、淡い初恋の思い出とともに\n伝わってくるようで。\n\nよくある初恋の形容では表現できない\nなんとも言えない気持ちになりました…",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nc9f16458c56e7",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はふん。。\n\nせつないけど、おもいではこころのかてに。\n\nこたさんの絵がそのまま成長していくのもよき♪",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        },
+        {
+          "key": "nca41387b3287d",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231326995/profile_9a5a496ca39b9a11583411ed09b2d0ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "切ない〜！\n初恋って感じですね🥰ほっこりしました🥰",
+          "article_title": "姉の冗談から始まった、長すぎる初恋",
+          "note_key": "n33c3786a8c0a"
+        }
+      ]
     }
   ]
 }

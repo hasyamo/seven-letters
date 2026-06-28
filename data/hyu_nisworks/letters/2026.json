@@ -713,6 +713,63 @@
           "note_key": "ne2f724d7918a"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 270,
+        "likes_prev": 339,
+        "followers_start": 447,
+        "followers_end": 463,
+        "new_fans": 67,
+        "comments_total": 4,
+        "posts_count": 5,
+        "consecutive_days": 4,
+        "post_times": [
+          "07:27",
+          "18:32",
+          "18:57",
+          "07:37",
+          "06:53"
+        ],
+        "top_article": {
+          "title": "【３行日記×トピック】@マークに悩む日々",
+          "key": "n28356329ed74",
+          "likes": 66,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14483
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nc975fafded720",
+          "user_name": "マー先生＠書きながら考える50代",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280930635/profile_58777ee152ec453af22d300a91fbf3be.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、素敵なクリエーターの皆さんと一緒にご紹介いただき、ありがとうございます♪",
+          "article_title": "#千へ向かう声",
+          "note_key": "n215179d56620"
+        },
+        {
+          "key": "nc7a75ce99a388",
+          "user_name": "考える赤柴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\nプレミアムの分析機能使ってみたいなと思いました。\nせっかくなのでセール期間中に乗っからせていただきます😆🎶\nよろしくお願いします✨️✨…",
+          "article_title": "note Cube Blocks",
+          "note_key": "ne9628dc21f74"
+        }
+      ]
     }
   ]
 }

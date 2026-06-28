@@ -519,6 +519,34 @@
           "note_key": "n66e942e5e8fa"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 57,
+        "likes_prev": 122,
+        "followers_start": 1371,
+        "followers_end": 1379,
+        "new_fans": 18,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "中年ジャンプ＠誰もが裕福になれる🌈フォロバ100",
+          "urlname": "chuunen_jump",
+          "follower_count": 13597
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

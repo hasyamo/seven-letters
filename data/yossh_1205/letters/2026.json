@@ -4528,6 +4528,472 @@
           "note_key": "n84a0a67f020f"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1309,
+        "likes_prev": 1362,
+        "followers_start": 1236,
+        "followers_end": 1244,
+        "new_fans": 101,
+        "comments_total": 108,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "11:53",
+          "23:03",
+          "18:58",
+          "23:18",
+          "21:46",
+          "22:15"
+        ],
+        "top_article": {
+          "title": "コメント欄は、面接じゃなくて世間話",
+          "key": "n48ce086ad8a4",
+          "likes": 236,
+          "comments": 43
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14346
+        },
+        "commenters_count": 40
+      },
+      "comments": [
+        {
+          "key": "nc797a03b1eff8",
+          "user_name": "moci moci 可視総合光線療法",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240481675/profile_4b52f7706e5234e13b438ad2c609fa94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんおはようございます🌞\n\nマガジン追加ありがとうございます♡\n\nまたよろしくお願いします🥺",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc38c82af1fd93",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285324530/profile_9d0cb7a9b5d306860a0cab9a95f15b9d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして。\nマガジン追加して下さってありがとうございます😊\n嬉しいです！！",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "ncdebef6b8348e",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279549033/profile_3d53a17ce59c090b43145099e9a86669.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やった〜200個目のスキ押せた〜💜なんか、ラッキー。\n\nコメント…私もかなりズレたこと書いてるなぁって、気になる時あります😆\n\n通りいっぺんすぎるかな？とか…\n…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc552d0e9c09f0",
+          "user_name": "sayu",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic3fd94079689.jpg",
+          "body": "よしひろさん、はじめまして。\nマガジンに追加していただき、ありがとうございます。\nとても嬉しく、ご縁に感謝しております✨\n\n私自身はコメントをいただくのはとても…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc78ac921a9fc8",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nマガジン追加してくださり、ありがとうございます。\n\n記事を読ませていただき、確かに、と頷いてしまいました。\nそうですよね、十人十色で良いですよね😊…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc18fa3ff80d3b",
+          "user_name": "Myung@みょんの好き推しnote🎯",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277207688/profile_f427264409f45e1a4ddf67817d41c3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんにちは♪\nマガジン追加、ありがとうございました♪とても励みになります！\n\nコメント返信、同じになってるな〜って\n結構あります。\nこれ地味に悩み…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc0f5db237075f",
+          "user_name": "Noa",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269973521/profile_77ebb6ddc767747de9bb5bfef312b21b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nいつもマガジンに追加いただきありがとうございます☺️\n「ソファに座って、言葉を交わすように」というフレーズに、心が温かくなりました💕\n返信の言葉選…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nca67d2810e542",
+          "user_name": "kotori",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i04f97ff72d86.jpg",
+          "body": "よしひろさん、こんにちは\nマガジンに追加して下さり、ありがとうございます。\nいつも感謝してます☺️\n\nコメントって、その方と会話する感じでなんだか恥ずかしく、緊…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc96869bf31892",
+          "user_name": "棚町文子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278488701/profile_96bdbaba60fe7040446dbb1485ba4222.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントはいつでも嬉しい🥰\nただ、言葉がなかなか上手く表現できない🤭なのでいつも悩みの種🤤",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc5df535d1164a",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん✨\n\nいつもマガジンに追加してくださり、ありがとうございます🌸\n\n今回の記事、「まさにです😭」と思いながら拝見しました。\n\nよしひろさんがマガジンに…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "ncc57559a72778",
+          "user_name": "ハゲポッコリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232774139/profile_3ba1074548b0a18d189e6a95912c76e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんばんわ！\nマガジンに掲載をしていただきどうもありがとうございます。\n感謝感激雨あられ、です！！！",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc3126b77eb245",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは\n\n完璧なアンサーを返そうとするほど\n言葉が重くなることがある気がしていて\n「お茶を飲みながら話すように」の\nたとえで、肩から少し力が抜…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc4efed95743fe",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n基本的に私はコメント自体が少ないので、全く気にしたことないです😆\n\nいつも…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "ncf02db0d694bd",
+          "user_name": "いくちょのやさしい毎日",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_5-043439195e40e86fd7641a3a1daf982637d77ec6f14b67d3fc98ab92374404ac.png",
+          "body": "師匠😊いつもマガジン追加してくださり、ありがとうございます😊✨\n私も、コメント欄にも何か楽しさを織り交ぜることを意識していますが、\n同じパターンになっちゃうこと…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc8a098419c6ce",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんいちは♪\n\n『コメント返信まで\nたどり着けないくせに、\n書きたいことが浮かぶと\n記事だけは書いてしまう。』\n\nこれ！同じです😊\nコメントは、「…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc201482af4745",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274861081/profile_59c361cea83d4f4d1c3e6a403c43a90b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😊\n\nコメント欄は世間話、と言われると少しホッとするのですが、いざ書こうとするとカチコチになって、面接を受けているみたいになります（笑）…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nca634f59fa967",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\n\nたまに面接に臨む勢いくらいのコメントを頂けることがあります🤣\n\n本当に嬉しいですが、もう少しゆるくても…。\n\n私はその熱量で返せないかも。\n\n…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc0fde723b13ac",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\nよしひろさんは記事回りが一番なんですね♪\nコメントはこうやって書きたくなった時に書きたいこと書いてるだけなので、返信なくてもいそがし…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nc1bd9e42aba07",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、またまたマガジン追加ありがとうございます😊\n2ヶ月前の記事なのに突然スキが増えていて、\n「え、何が起きた？」と思っていたら、よしひろさんでした笑\n…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nce7552a76c053",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nスキやマガジン追加\nありがとうございます😊\n\nコメントを頂いて返信させてもらう時に、本編に入りきらなかった「余談」「後日談」が入る時があります🤭\n…",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nce0b819d6c8c9",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント返信もらうと嬉しいですが、忙しかったらスキ押すだけで大丈夫と思ってます😊\n返信の手間を考えると、ご遠慮することありますね〜",
+          "article_title": "コメント欄は、面接じゃなくて世間話",
+          "note_key": "n48ce086ad8a4"
+        },
+        {
+          "key": "nca4a6ef0db8bc",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n表現するって自分だけで完結するんだったらいいんですけど、\n対「人」が絡むと…",
+          "article_title": "今はまだ表現できないけれど",
+          "note_key": "n0882fb815368"
+        },
+        {
+          "key": "nce3e178939cfa",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "例えば子どもの頃は、\nテスト勉強なんて\nからっきしだった人でも、\n\n親になると、\n子どもの成績を気にしたりする。\n\nまぁ、僕の話なんですが🙄\n\nまさに私もです🤣…",
+          "article_title": "今はまだ表現できないけれど",
+          "note_key": "n0882fb815368"
+        },
+        {
+          "key": "ncc935a1788afa",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280082912/profile_27c6de0e430e96c942efcfde0e0dc5ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "時々やってくる、何のためにnoteをやっているんだっけ？🙄の気持ちに、\nそうだったそうだった🤣をプラスしてくれる内容。\nありがとうございます😊",
+          "article_title": "まだ続けたいと思えているなら、失敗と決めるには早い。",
+          "note_key": "n70d0371551aa"
+        },
+        {
+          "key": "nc611795e8303e",
+          "user_name": "だんけひつじ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/199823276/profile_5c30c75049115159cfc6c3b0f77c3038.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます。\n私は、数字が大の苦手で、数字を追い出すと\nやる気がなくなってくるタイプ(^^;;\nなので、どう数字を扱っていくかが自分にとっ…",
+          "article_title": "まだ続けたいと思えているなら、失敗と決めるには早い。",
+          "note_key": "n70d0371551aa"
+        },
+        {
+          "key": "nc6641e9f5093f",
+          "user_name": "パタコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287083278/profile_6318ae2666d33efeda6208009c0cf0b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん♪\n最近グルグルと考えていたことがまさに記事に🌈\nありがとうございます♡\n\nよしひろさんはいつもほんまにわかりやすくて、\n感謝が溢れます✨\n\nこの度…",
+          "article_title": "まだ続けたいと思えているなら、失敗と決めるには早い。",
+          "note_key": "n70d0371551aa"
+        },
+        {
+          "key": "nc523f5b913d4a",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279549033/profile_3d53a17ce59c090b43145099e9a86669.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読ませてもらいありがとうございます💖💖💝\n\nよしひろさんの記事を読むと、安心感が広がる感じがします。\n\nホッとすると言うか…🧡",
+          "article_title": "まだ続けたいと思えているなら、失敗と決めるには早い。",
+          "note_key": "n70d0371551aa"
+        },
+        {
+          "key": "nc27a9a494e1ed",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n「手のひらをクルクル返せばいい」という言葉に、とても救われました🥰",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "ncc45c765b4025",
+          "user_name": "あおい｜仕事と本音のあいだ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247348666/profile_ca31673512c650bfe156dc7e5e77a9f0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "変わることは過去の自分を否定することではない、という言葉に深く頷きました☺️\n\n本質にあるのは「より良くしたい！」という純粋な思いであって、自分自身の軸は一切ブ…",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "nca8657db64eb9",
+          "user_name": "ぷかり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278486905/profile_6c0f7d7500d6330ed9cebd843356cb1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌛\nいつも、マガジンへの登録をありがとうございます✨️\n\nなにかというと、○○ハラになる世の中なので、\n実はだんだんと、窮屈にはなってる…",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "nc8ac9dd9f42d0",
+          "user_name": "涼鈴suzu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230968642/profile_eabb1e844000a408e63be52a33676754.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "手のひらをクルクル返せばいい☺️\nありがたいお言葉です。\n一度決めても状況が許さず変更を迫られた時、意固地にならず、臨機応変にいきます！",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "ncaff694416121",
+          "user_name": "シンプル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269727003/profile_3c4e525691cf98f115794d8b2e78df33.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、はじめまして😄いつも、マガジンの仲間に入れてくださり感謝！感謝です✨\nサラッとした文章に惹かれて、本当はどんな方なんだろう？と思い、興味津々で読み…",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "nc9d9e21e0c480",
+          "user_name": "Asahi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254994516/profile_e4bd829ad26a90b6782072a6f30ece93.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも記事をマガジン登録していただきありがとうございます<m(__)m>\n\n新語が蔓延しすぎて追いつけないです(笑)\nきっと私に出会うことなく去っていった「言葉…",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "ncdbcd7d7defd7",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n縛られるのが嫌いな私は息ぐるしさを感じてしまいますね。\nヒョイヒョイと波乗…",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "ncd3bc431bcea6",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パープル企業という言葉、知りませんでした☺️\n白黒決めすぎると息苦しいので、曖昧なほうが気楽ですね～",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "nc3c68f89ee51d",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんのそのマインド\n好きです😊\nというか今だからこそ\n曖昧さがあった時代の良い部分が求められているのだと思いました🤔\n\n対面で会うことが少なくなった分\n…",
+          "article_title": "手の平はクルクル返せばいい",
+          "note_key": "n41ce53313e8d"
+        },
+        {
+          "key": "nce5c91406a320",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "忙しいの大好き💕\nイレギュラーもドンとコイ\nクリアしていく感覚が楽しかった😁",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "ncaae46c02887f",
+          "user_name": "涼鈴suzu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230968642/profile_eabb1e844000a408e63be52a33676754.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたくし、独り言が増えて、テンション高めになります。\nそして、脳内では「情熱大陸」が流れます☺️",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc2074978e0fdc",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n私はちょっと不機嫌になるかも・・・😅\nそういう時は、気分転換するようにして…",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc4c6efc002967",
+          "user_name": "さとりのさとり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226182676/profile_094199e7fa1bff58de5da5e07a1a43de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "脳内再起動を繰り返し\n結局何も進まない\nって言う感じになります😅\n\n諦めた方が逆に進むって言うね💦\n天の邪鬼さん💕",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nce8e758106acd",
+          "user_name": "めぐり",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_3-39088fff430aa9ec11d6e2a385dbcad45c8b79bde6c0c9ded10cd7abb960174f.png",
+          "body": "よしひろさん、お疲れ様です😊\nお忙しいのに、読みにきてくださりマガジンに追加くださり本当にいつもありがとうございます♪\n\n私は別のことをしたくなっちゃいます。\n…",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc3d7f1351a25f",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nお疲れ様です。\n忙しすぎると、秒針を見つめてしまいます。\nあえて目を逸らして、\n「時間は止まらないのだな」\nなんて、無意識に口にしていますね☺️…",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc0d6c3813dff5",
+          "user_name": "LOVEちゃん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281631027/profile_f6409e39b7f95ff3f230ceb2b3138873.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "躁鬱持ちなので、軽躁だと忙しいほどテンション上がり、鬱だとパニクります…フツーですね😂\n\nいつもありがとうございます♡",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc9d1f02e77f28",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもマガジンに追加していただき、ありがとうございます😊\n\nこの記事、とても共感しながら読ませていただきました。\n\n私は忙しくなると現実逃避を始めるタイプです（…",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "ncb9a4ba337cbb",
+          "user_name": "Aki｜AIと、シニア猫と、50代の暮らし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287782932/profile_71352ba2ab166b6409f46c6918396cf8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！「テンション上がる」、私もそうなんです。なぜか楽しくなっちゃいます（笑）\n今日めっちゃ忙しい日で、急に機嫌が悪くなった上司を見たので、テンション上…",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "ncf465c570e46d",
+          "user_name": "太めのスローロリス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270199774/profile_fea512eb92442ee5df26b74b3bb4e1f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、私は、忙しさに忙しさが増すと、記憶が飛びます。🤭\n\nマガジンに登録ありがとうございます、感謝です。",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc4b9762053545",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、忙しいのに長文！\n無理せず頑張ってくださ〜い😊",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc3387049ab1c0",
+          "user_name": "にゃんちー【いちごオレ120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247243911/profile_1556505783b49edbf889d17fa0f50227.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n\nお忙しいところ、お疲れ様です💦💦\n\n私は大パニックになって焦ります😨😨😨\n3に近いかもしれませんが🤣🤣🤣\n\n資料作り頑張ってくださ…",
+          "article_title": "忙しいとき、人はどんなタイプになるんだろう？",
+          "note_key": "naf1203f5c51e"
+        },
+        {
+          "key": "nc78988d5d0b2a",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん　こんにちは😊\n\n山あり谷ありですね🍀\n応援しております🫶\n\nマガジンでご紹介くださり\nありがとう御座いました💖\n",
+          "article_title": "山を越えたら、次の山がデカかった",
+          "note_key": "nb00e0ec1e371"
+        },
+        {
+          "key": "nc3f1267bf844a",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nなるほど！\n超えがいがありそうですね😆\n\n楽しんで登ってください⛰️\n\nい…",
+          "article_title": "山を越えたら、次の山がデカかった",
+          "note_key": "nb00e0ec1e371"
+        },
+        {
+          "key": "nc9455610a5a42",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます☀️\n「山を越えたら次の山がデカかった」、まさにそれ！ありますよね🤣💦 次の山も、よしひろさんらしく楽しみながら乗り越えられます…",
+          "article_title": "山を越えたら、次の山がデカかった",
+          "note_key": "nb00e0ec1e371"
+        },
+        {
+          "key": "nc88aa3742318b",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nお疲れ様です😊\n\n我が家の旦那さんも\n毎日ぐったりです😵‍💫\n\nよしひろさんも体調に\nお気をつけてお過ごし下さい☺️",
+          "article_title": "山を越えたら、次の山がデカかった",
+          "note_key": "nb00e0ec1e371"
+        },
+        {
+          "key": "ncc09d0089ba63",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、お疲れ様です！\n商売繁盛ですね～\n梅雨どきなので、体調にお気をつけて😊",
+          "article_title": "山を越えたら、次の山がデカかった",
+          "note_key": "nb00e0ec1e371"
+        }
+      ]
     }
   ]
 }

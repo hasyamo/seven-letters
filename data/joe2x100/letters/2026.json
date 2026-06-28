@@ -502,6 +502,41 @@
           "note_key": "n2fcc114b42d4"
         }
       ]
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 90,
+        "likes_prev": 93,
+        "followers_start": 508,
+        "followers_end": 517,
+        "new_fans": 23,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "09:21"
+        ],
+        "top_article": {
+          "title": "【型にはまらず生きていこう】 #壁紙新作あります #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.47",
+          "key": "n4b94a179e9cc",
+          "likes": 49,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "Makari｜AIイラストと副業",
+          "urlname": "makari_5108010",
+          "follower_count": 6160
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

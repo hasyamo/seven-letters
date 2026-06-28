@@ -509,6 +509,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 33,
+        "likes_prev": 45,
+        "followers_start": 512,
+        "followers_end": 510,
+        "new_fans": 11,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "シロイ",
+          "urlname": "shiroi_ze",
+          "follower_count": 6615
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

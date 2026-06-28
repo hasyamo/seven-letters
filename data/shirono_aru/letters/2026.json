@@ -37,6 +37,34 @@
         "commenters_count": 0
       },
       "rare_no": 1
+    },
+    {
+      "week": "2026-W26",
+      "period": {
+        "start": "2026-06-22",
+        "end": "2026-06-28"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 218,
+        "likes_prev": 538,
+        "followers_start": 3853,
+        "followers_end": 3857,
+        "new_fans": 57,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "いっぽびと｜脱サラ×島移住×物語クリエイター",
+          "urlname": "ippobito",
+          "follower_count": 9609
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }
