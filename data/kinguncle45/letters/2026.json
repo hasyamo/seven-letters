@@ -2941,6 +2941,412 @@
           "note_key": "n30b16d04fff7"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1022,
+        "likes_prev": 1344,
+        "followers_start": 1404,
+        "followers_end": 1444,
+        "new_fans": 101,
+        "comments_total": 116,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "18:30",
+          "18:00"
+        ],
+        "top_article": {
+          "title": "団長の歌（線引き）",
+          "key": "n8d7224175057",
+          "likes": 272,
+          "comments": 55
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 17264
+        },
+        "commenters_count": 31
+      },
+      "comments": [
+        {
+          "key": "nc77950c2b3d60",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n初めまして🤗\n\n空を飛び落下し、それで何かを得て\nまた飛翔する🥰ですね\n\n私の拙い詩をマガジンでご紹介ありがとうございます🙇\n\n",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc0c734648599f",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nおはようございます(*^^*)\n\n忙しい時に限って、何かを思いついてしまう時、ありますよね😂\n\n創作大賞、間に合うでしょうか？\n\n応援しています…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncf35940b142d2",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　元気ですか？\nいつも記事をマガジンへ掲載していただき、本当にありがとうございます😊\n本当に嬉しく思っています🍎",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncdf3e49389e7e",
+          "user_name": "幸せの架け橋カエル｜境界線ケア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209698581/profile_ba002a3bb07b319e0311b6b0b05faf9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、掲載ありがとうございます😊✨\n\nアコギいい感じですね👍✨\n\n🐸昔、少しだけアコギ弾いてました。（主に長渕剛さん）笑\n\n懐かしさを少し感じつつ、体が…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncbd050fe69f7e",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ステキですね！私は\"自由\"のテーマで1つ下書きを作ったのですが、自然と風でも書きたいと思っています(๑•̀ㅂ•́)و✧",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc5dfbe714e4f6",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n素敵な曲です。また前を向く歌詞も！アコギのシャカシャカも好きです！\n",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncb1dd4f43687d",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n今回もめっちゃいい曲♫♪\n\nちび創作大賞まで参加とは😲\nKingさん、やっぱすごいです✨",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nca12e79ad2027",
+          "user_name": "のあ｜自分に戻る思索note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244581020/profile_a075505b43aab98267d3b165ed95521a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは😊\n\n曲、とても素敵でした✨\nアコギのビート感が気持ちよかったです！\n\nまた明日をがんばろう、という気持ちを頂きました。\nありがとうござ…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc7353654a1320",
+          "user_name": "MOMO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255901015/profile_6525db155d39a72703a0bea6883ea75b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは！\n\nコングラおめでとうございます☺️\n\n風とても良い曲ですね♡\nずっと聴いていたい…\n\n",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc1e6bbdb70162",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんにちは☺️\nコングラボードおめでとうございます。\nみなさんのおかげですって所がステキです✨\n曲最後まで味わって聴かせていただきました。本気度が…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncc579204f5a9f",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます☀\n\nすてきな曲ですね☺️\nコングラボードおめでとうございます🎉\n\nいつもありがとうございます🫶",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc2fa67f8d6e2b",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この一編には、逆境を経験した心の変化が、丁寧に描かれていると感じます。\n人を傷つけたものと、もう一度求めるものが、同じ「風」であるという構造に、深い意味を受け取…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc0f32877a4460",
+          "user_name": "やさい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254968683/profile_d779b13204b382b0c16d6c2b48fea44a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます✨\n\nいい曲ですね💖\nKingさんの多才さは凄いですね💦\n何でも出来る人だ〜✨✨✨",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc1dd961f981de",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさーんこんばんは。\n良い曲、この曲を聴きながらマガジンの皆様のサムネイルをみて\nエンドロールのように感じました。\nテーマの風ともばっちりですね。\n素敵な…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncbea190ed72e2",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めずらしく正統派ですね😆\nいい曲でした✨",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncf0047b42ea06",
+          "user_name": "＋αサチ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291433965/profile_9bd14a41e8e961acadd2353177cb954b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "良い曲です☺️\n\n……でも、これ鳥なら\nシャレにならないほど\nツライ😭\n飛べない鳥、カカポになる\n",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc20cb5cf01f6e",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは☺️\n\nとっても爽やかな風と心に響く曲ですね〜\n素敵です💖「久しぶりに風に乗りたい」\nとってもいいフレーズですね〜\n\nいつもありがとうご…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nca6584fd4213a",
+          "user_name": "きみこのSoulルーム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/208541487/profile_b8e04433295dbc046967147402b4f003.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん🌺\n\n今回の曲は、いつもの力強いロックとはまた違って、とても爽やかな風を感じました😊\n\nでも歌詞を読んでいくと、ただ心地よい風の物語ではなく、一度大…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncc7539d10a90b",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌕\n\n熱い弾き語り感、とても素敵です✨\n命が助かって安心しました😊\n\n創作大賞2026応援してます！",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc51ea01ffca95",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アコギのカッティングとコード、良い感じ🙆ですね。\n墜落は、しなくてもいいけど。🤣",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc1d1ade27cf5f",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん☺️\n　\nお忙しいところ早速名曲凄いですね！！！😆🙌✨\n\nやっぱりKingさんアイデアの数々が強烈です！！☺️🌈",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "ncfabfbc00cb31",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nいつもありがとうございます。\n\n創作大賞と合わせて、天野雫さんの風のテーマ🎵お疲れ様です！通院も大変な中、凄いです！ご自身のお身体もお大事にされ…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc62e6d4b8e48b",
+          "user_name": "あいさん💗のサブアカウント｜臨床心理士×公認心理師",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276916525/profile_d787956ef85ce3383f89cd61c43097e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌛*゜\n創作大賞2026頑張ってください‼\n\n制限中とのことですのでお返事も大丈夫ですからね～♬\nサブアカウントからのコメントでした🌈ᵕ…",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc9906e9d7132b",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♪\n\n少し切ないけど希望を感じる\n素敵な曲ですね〜✨️\n\nしかも、ちび創作大賞の「風」✨️\nありがとう🩷",
+          "article_title": "飛翔（風に乗って）",
+          "note_key": "n5305861820bd"
+        },
+        {
+          "key": "nc9560813adf06",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\nいつもマガジンに追加してくださり、本当にありがとうございます✨\n\nどの曲も、Kingさんのまっすぐで素直な気持ちが込められていて、聴きながらジ…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc3fce5252286a",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n決別も断罪も、ストレートな歌詞で気持ちいいです。文字だと強い内容も曲になるとカッコいい！となる音楽の不思議。\n\n訃報は、メロディラインの切ない感…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc89d4e5c5f7fc",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc51a6f74f108f",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん こんにちは😊\n\nコングラおめでとうございます🎉\n\n待ってました🙌✨\nどれも心の底からの叫びって感じがしてすごく良かったです😭😭😭\n\n訃報(親友)は…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc33e8442064dd",
+          "user_name": "松島光希",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/47209009/profile_6d7727531e5ae20eab644ae394e92df8.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま\n\nマガジン追加ありがとうございます。",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc0eb89a722dae",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんにちは＾＾\n創作大賞、本気で狙ってるんですね✨️\nどんな作品ができるか楽しみです。\n\n今回の記事の中で「断罪（線引き）ロック」はすごく刺さり…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "ncf6050440681a",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\nマガジンへの追加とスキをありがとうございます😊\n\n「ただ、自らを助くるのみ。」という\nお言葉が、印象に残りました。\n\nコングラボー…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc79d6456c9f99",
+          "user_name": "幸せの架け橋カエル｜境界線ケア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209698581/profile_ba002a3bb07b319e0311b6b0b05faf9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは〜🐸✨\nいつも、本当にお忙しい中ありがとうございます✨✨\n\nコングラおめでとうございます㊗️🎉🎉\n\nkingさんの言う通り、しれ〜っと戻…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc625c150ca756",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは　\nコングラおめでとう御座います🎊\n＼(  'ω')／\n\n今回の記事は私　リアルな部分でかなり刺さるところがありました。時期的にも…..\n\n胸糞なんか…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc2f97e58458e9",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc043dbf581c31",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "ncdfa9eeb976f2",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、コングラおめでとうございます。\n「線引き」という言葉を、丁寧に内容だと感じました。哲学の部分も、歌の部分も、同じ氣持ちから生まれている氣がしました…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc437d72cf3ceb",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\n沢山のコングラおめでとうございます☺️🎉✨\n\n以前にスタエフで教えてくださったご友人様のことなのかなと考えさせられました。\n\n今日という日を大…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nce637e801dddc",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん！！！\n創作大賞の〆切あと少しですね💦\n応援してます✨✨✨",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc92efbf54999e",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😄\n\nコングラおめでとうございます🎉🎉\n\n3部作Kingさんの魂の叫びって感じました😄\nどれも素敵❤️",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc6ae700dfc480",
+          "user_name": "境界をまたぐ心理士【振り子】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253068092/profile_684215ad7eba3d124844155dff223a1b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ショーペンハウアーかな？\n実存的な香りが漂っていますね。\n\n楽曲のセンスに歌詞の重さが相まって、\n何とも言えないシュールさを醸し出していて、\nシュールレアリズム…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc8bc995e2306c",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nいつもありがとうございます。\n\n他者理解に救いを求めること自体が、すでに一つの誤解である。\n\nここに深く頷き、Kingさんの背景が垣間見える歌詞…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc65e82d66ea50",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "決別、断罪でつきはなしつつ、訃報で愛を感じると、全ては愛から来るものなのかなと、私はそう感じた。\n\n他者は全て理解できないので\n私の解釈で納得していく。\n\nとい…",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "ncb7ce39909c37",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183217910/profile_a33ecb57f18c7bbea28e041c386d47a2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "真面目な哲学ですね。\n音楽は、いらない🤣",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "ncd138a19e2962",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まだkingさんフォローさせてもらったばかりのにわかですがすみません💦\n３曲とも痺れたので思わずコメントしちゃいましたっっ",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc1dbf789a5691",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どうやったら創作大賞取れるんですかね？😆\n応援してます👍",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        },
+        {
+          "key": "nc64d30e04d009",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n認知には限界があるからこそ、すべてを理解し合えると思い込まないことも大切かもですね。\n\n「自らを助くるのみ」という言葉が印象に残りました。",
+          "article_title": "団長の歌（線引き）",
+          "note_key": "n8d7224175057"
+        }
+      ]
     }
   ]
 }

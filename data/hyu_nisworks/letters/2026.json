@@ -770,6 +770,159 @@
           "note_key": "ne9628dc21f74"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 271,
+        "likes_prev": 271,
+        "followers_start": 467,
+        "followers_end": 484,
+        "new_fans": 80,
+        "comments_total": 35,
+        "posts_count": 5,
+        "consecutive_days": 3,
+        "post_times": [
+          "10:10",
+          "10:21",
+          "23:32",
+          "20:51",
+          "23:00"
+        ],
+        "top_article": {
+          "title": "「AIを使いこなしてる？」って聞かれたら「はい！」と答えられる3つのこと",
+          "key": "ne52db61415f0",
+          "likes": 61,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "長田英史(おさだてるちか) / NPO法人NOT",
+          "urlname": "osdt",
+          "follower_count": 13001
+        },
+        "commenters_count": 13
+      },
+      "comments": [
+        {
+          "key": "nc8298a1e60150",
+          "user_name": "貴美子｜構造を言語化する人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261823573/profile_200819dc5689a338a5e7bba624e1c852.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは。\n只今絶賛後ろ向き中なので😓\n「自分で自分を責めるのは、本当にいいことがない」\n言ってもらえて嬉しかったです。\nまずは自分が楽しくないと…",
+          "article_title": "noteを３ヶ月続けて気づいた、「正解探し」の終わり方",
+          "note_key": "nf38fd5978eef"
+        },
+        {
+          "key": "nc17414d7eb5e8",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは🌃\n「正解よりも自分を探す」という言葉に深く共感しました。\n私も他の方と比べて迷う時期がありましたが、今は「自分らしく続けること」が一番大…",
+          "article_title": "noteを３ヶ月続けて気づいた、「正解探し」の終わり方",
+          "note_key": "nf38fd5978eef"
+        },
+        {
+          "key": "nc13d4d2420bc5",
+          "user_name": "レアカントリークリエイト｜里山システム設計者｜予告状…お宝いただきま〜す♡！！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます。\n私は、やっともうすぐ2カ月です。\n\n正解をやっぱり探してしまいますが、上手くいった試しがありません。\n\nこれからも、色々参考にさせ…",
+          "article_title": "noteを３ヶ月続けて気づいた、「正解探し」の終わり方",
+          "note_key": "nf38fd5978eef"
+        },
+        {
+          "key": "nca1fdb2de5285",
+          "user_name": "もののけ／感情を言語化する大学教授・社労士・税理士  フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277410970/profile_71de081caf62b77be1c3294ede159575.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさま。はじめまして、もののけともうします。素敵な記事ですね❣「その時を自分が楽しんだ分だけ、なにかが積みあがって残っていく」「自分が楽しいと感じることを選…",
+          "article_title": "noteを３ヶ月続けて気づいた、「正解探し」の終わり方",
+          "note_key": "nf38fd5978eef"
+        },
+        {
+          "key": "nca5d6c0971f6a",
+          "user_name": "わさび｜人生の縁側日記｜義母生態研究家｜21年の観察記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285242961/profile_400ff085f28ed4a633f712e5a61325d7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nコメント失礼いたします。わさびと申します。\n結局、大切なのは人がどう思うか、ではなく、自分がどうしたいか。　\nなんでしょうね😊",
+          "article_title": "noteを３ヶ月続けて気づいた、「正解探し」の終わり方",
+          "note_key": "nf38fd5978eef"
+        },
+        {
+          "key": "nc3b89776a3151",
+          "user_name": "tamo-yan",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218771953/profile_40303721da2bff24226e93ea98aa0db9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます。",
+          "article_title": "noteを３ヶ月続けて気づいた、「正解探し」の終わり方",
+          "note_key": "nf38fd5978eef"
+        },
+        {
+          "key": "ncb959d730cf34",
+          "user_name": "ドイル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287992172/profile_648c2d58423ef9edbe0669d0ee22f1f1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは！\nヒョウガ・レッドさん、フォロワー1000人突破おめでとうございます㊗️🎉\n\nKOTAYAさんのnote解析もすごいです👍\n\n",
+          "article_title": "ヒョウガ・レッドさん",
+          "note_key": "n5fc0d89c57a6"
+        },
+        {
+          "key": "nc69dc4805e6c1",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、\n分析マニュアル使ってくれて嬉しいです！！\nしかも、人のお祝いに使うというサイコーの使い方で感動😭",
+          "article_title": "ヒョウガ・レッドさん",
+          "note_key": "n5fc0d89c57a6"
+        },
+        {
+          "key": "nc2b52c472039d",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは🌃\n\nヒョウガ・レッドさん、フォロワー1000人達成おめでとうございます🎉\n\n「千へ向かう声」から、こんなに早く名誉脱退の方が出るなんて驚…",
+          "article_title": "ヒョウガ・レッドさん",
+          "note_key": "n5fc0d89c57a6"
+        },
+        {
+          "key": "nc473448d9ae4c",
+          "user_name": "ヒョウガ・レッド｜ご縁を繋ぐヒーロー🦸‍♂️🔥",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんな素敵な記事をありがとうございます✨\nそして、解析が凄い（笑）\n\nマガジンは卒業しますが、プライベートでは引き続きよろしくお願いいたします😊\n\n",
+          "article_title": "ヒョウガ・レッドさん",
+          "note_key": "n5fc0d89c57a6"
+        },
+        {
+          "key": "ncd4eef54fae97",
+          "user_name": "佐藤ハル｜AI×noteで自分らしくアウトプット",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255261969/profile_2d44d895dea0cb3fabb2ef4541192ea8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャットを分けてレビューさせるのは新発見でした。\n言われてみると、自分で書いた文章は甘めに見ちゃう気がします笑",
+          "article_title": "「AIを使いこなしてる？」って聞かれたら「はい！」と答えられる3つのこと",
+          "note_key": "ne52db61415f0"
+        },
+        {
+          "key": "nc1fbb7a136d26",
+          "user_name": "ハンドパン奏者  /  kazu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/160360549/profile_2eb115a9398ce7aa34741e6bbfedc2b8.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！\nすごく参考になりました。\n最近、英語もわからないのに海外向けYouTubeチャンネルを始めたくなり、ChatGPTに頼って何とかやっています。\n…",
+          "article_title": "「AIを使いこなしてる？」って聞かれたら「はい！」と答えられる3つのこと",
+          "note_key": "ne52db61415f0"
+        },
+        {
+          "key": "ncc51957640ad4",
+          "user_name": "なかじま｜盤面更新",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282056325/profile_3f24f1cba7be260a2f70a8f84a393eaf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャットを分けてAIを使うやり方、\n画像生成でやるととても強くなるんですよね\n画像生成プロンプトを作成するチャット\n画像生成するチャット\n画像が失敗したときにど…",
+          "article_title": "「AIを使いこなしてる？」って聞かれたら「はい！」と答えられる3つのこと",
+          "note_key": "ne52db61415f0"
+        },
+        {
+          "key": "nc3e40562ecedc",
+          "user_name": "beyondの旦那の方｜Cozy Cafe & Bar beyond店主",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269297151/profile_66f1756e3c374c246e637c5e2e4d5e28.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは🌙\n\nAIが作った文を\nAIにレビューさせる...\n\nそんな発想\nどこから出てくるんですか？😭\n本当に...\n発想力すごい人がいっぱいです…",
+          "article_title": "「AIを使いこなしてる？」って聞かれたら「はい！」と答えられる3つのこと",
+          "note_key": "ne52db61415f0"
+        }
+      ]
     }
   ]
 }

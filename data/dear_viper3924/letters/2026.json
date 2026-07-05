@@ -2923,6 +2923,404 @@
           "note_key": "n88d17ddf7284"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 319,
+        "likes_prev": 533,
+        "followers_start": 881,
+        "followers_end": 894,
+        "new_fans": 48,
+        "comments_total": 83,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "21:00",
+          "21:00"
+        ],
+        "top_article": {
+          "title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "key": "nd873fb4fc550",
+          "likes": 80,
+          "comments": 41
+        },
+        "notable_reader": {
+          "name": "末吉宏臣（Hiroomi Sueyoshi）『言語化とnote発信の全技術』著者",
+          "urlname": "sueyoshihiroomi",
+          "follower_count": 30479
+        },
+        "commenters_count": 33
+      },
+      "comments": [
+        {
+          "key": "nc420e26ccb7e8",
+          "user_name": "さわにぃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273804429/profile_1cf89d90840ecf0499d0617d5f57f323.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、考えさせられるものがありますね。度合いはそれぞれ違うけど当事者しかわからない心情、心境は、推しはかろうとしてくれる事はありがたいですが、最後は本人次…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncb3b0525ba36c",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290534577/profile_67a36083536a049bbd34e5a4d462e2bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\n\n読ませていただいて感じた想いを残したくて、\n1回目は書けなくて、もう一度、読みにきました。\n\n私も、身内にいるので、\n外か…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nce1d7e678dbcf",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキありがとうございます😊\n\n初めましてですが、コメントを残させていただきました。\n\n正直に言うと、私は障害のある方と接する機会がほとんどないまま育ち、大人にな…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncd9fe41ae85c7",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん🍀\n\nめちゃくちゃ考えさせられました。\n\n「普通に接すること」と、「かわいそう」と決めつけることって、本当に全然違うんですね。\n\n子どもの頃の「座った…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc264b92bfab72",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "障害を持っているからといって、それだけで哀れな存在だと思われることに対しては、私もかなり苛立ちを感じております。\n特に発達障害の場合、逆に「健常者ではたどり着け…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc08aff8b4eed5",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃんの力強さをすごく感じました✨\n\nわたしは、今まで自分の周りで\n障害を持っている方と近しくなったことが\nなくて、、、\nだから、そこまで対等に接することが…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nccbf77a211c74",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\n今回のお話に出会っていなければ、\n私は相手を対等な人間として見ないままだったかもしれません。\n\nだいぶ自分が恥ずかしい。\nありがとうござ…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc119565e61c40",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272850856/profile_5078d7016e37422cee3be424742ee433.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "中学生の時に親が離婚してくれてやっと少し平穏が訪れたのに、教師達から無駄に特別視して頂き、傷ついていたことを思い出しました🥲\n\nこれからも、一緒に笑って生きてい…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncd12226eac288",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん。\n\n本当にそうですね。\nかわいそうとか腫れもの扱いしてほしいわけじゃない。\n\nでもだからって偉そうにしてるわけでもないのに\n\nPTAのお話😡とんで…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc2ce7d9c08fb1",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、車椅子に乗っている身障者への「逆差別」というのがあると思う。そして、世間の障害者は、可哀想で、ツラいめにあっていても、その分きれいな心で生きている　み…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc21526e29beb6",
+          "user_name": "🌀 みーちゃんの脳内探検記 〜高次脳機能障害とチャッピーと〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261503068/profile_d5aa43f900e39deb05eed51f806dc938.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "旗当番を逃れるためだけに、24時間365日、好き好んで足の悪いふりをする\n\nとんでもないハナシです‼️有り得ないです‼️\n\n足が良くても悪くてもヒトにはそれぞれ…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc1ef1c501ff05",
+          "user_name": "高取しづか｜ママのコミュトレの先生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272022611/profile_add586eada719fcfefd7fcfdd9a32e54.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんの直球、そのまま受け取っています。\n同じ地球にいる人同志として、powerもらっています。\nありがとう💗",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc9318eb7dc3a2",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごく力のある記事だなって思いました😌🌿\n\nPTAの旗当番のお話、とても考えさせられました。\n私も子どもが小学生の頃は今より症状が重く、先生方の配慮だったのか、…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncd100496729d1",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「操り人形の糸をブチブチと叩き切る」という言葉に、魂が震えるほど痺れました！\n薄っぺらい同情を跳ね除け、愛すべきカオスな現実を笑顔で爆走する覚悟が最高にかっこい…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc494000fb0251",
+          "user_name": "わさびネコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287190450/profile_a894b59f9bdee45c06be1b988f1f8ef1.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1つの記事に1つしか贈れないという「スキ」ですが、ルールを破って僕1人から100個贈ります👍",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc9c902875c378",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "障害がある人が健常者と「同じ」に暮らすのには限界がある。だが求めているのは、腫れ物に触るような憐れみじゃなく、一人の人間として「対等に（公平に）」扱われることだ…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc62b8b4bc9ea7",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「足が悪いふりをして生きている」というとんでもない言葉を投げつけてきたそのママ友、本当に何を言っているかわからない！\n\nたぶん当番をやらなくていい状況がうらやま…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc3a9679724485",
+          "user_name": "VOID_404 | AI実践コラムライター@note収益化戦略📈🔥 | フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228656014/profile_b331aa99ec4aa2d87ea2e382fe780fcf.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん、魂を揺さぶるような一作を読ませてくれて、本当にありがとうな✨\n\n舗装された道の上から「かわいそうな記号」としてしか当事者を見ない奴らの薄っぺら…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc2c292b387961",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさんの覚悟と力強さを感じました。「ずるい」の違い。そして勝手に解釈されることへの怒り。こうして、記事で気持ちを表す姿に惚れなおします！",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncb35f678a1063",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290824636/profile_19b652242f2a0c7ccf4b53ccb6c043ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人は皆、考え方も見え方も違う、ということを再確認させていただけるような、素晴らしい記事だと感じました！",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc3af44baeb64b",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、この記事は下手な感想が書けないと思うので、今は、ものすごく心を動かされました。とだけ、伝えておきます。\n後日、改めて、感想と言えるコメントをしたいです…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc4024b588b14f",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "引き込まれて、一気に読んでしましましたので、2回読ませていただきました。\n母ちゃんさん自身のことを書かれた記事に、\nいつも私はお子さんの言葉や立ち振る舞いに感動…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncc666907a6919",
+          "user_name": "🌻mimi🌻いつでもあなたの側にいるよ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259593658/profile_d651fe3a021e97f714e133e9d3f5eee3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。人って、みんな考え方ちがうんだな～って思います。自分の考えが必ずしも正解とは思ってないけど、子供の学校の役員決めの時、当時小1のクラス役員6名。1年…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncc3247ab44d25",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "色も血も姿形もそんなんに重きを置くこたあない。\nあるのは心の色想い立つ心意気。\n\nだからこその笑い\nだからこその尊び\n\n深く深く感じ入りました。",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc4d9cecb82eeb",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「心の中で泣いている」と勝手に決めつけることへの怒りに共感しました！ふーちゃんの放つブラックユーモアこそ、生き抜くための最高の武器でありプライドだよね。\n本音ト…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nca0f1461f0bf6",
+          "user_name": "みこと|ぼんやり難病主婦",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267673122/profile_95c822189833f9f8bfc13a28cd46e8c1.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもとは全く違うテイストで、どうしたの？\nと、思いましたが、\nいつも明るくぶっ飛ばしているふらつき母ちゃんさんの、心の芯を見たようで、全文が胸にグサグサ刺さり…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc5b73ab1091b7",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "同じ場所に生き、同じ生活をする喜びを毎日楽しむために頑張るのは素晴らしいです。\n\n息子さんたちは気がねなく人生を謳歌していますね。\n\n良い学びの記事をありがとう…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc951dd795004f",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、\n当事者だからこそ見える景色と感情を言語化されていました。\n次男様は、そんなお母様と過ごされて、偏見や可哀想の一言で終わらせず笑い合えたの…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "ncdb62d767bbdf",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286302701/profile_2b5cef1a9ce3091317258b73327a0ac9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かあちゃんさんの記事を読んでると、力強く歩いている印象しかないですよ。\nタップダンスかあちゃんさんがスキです(*´ω`*)\n\n障害があって心に傷が…って、そうい…",
+          "article_title": "操り人形に、泣いてる暇は無い│車椅子​│実話│ノンフィクション​│家族​│本音",
+          "note_key": "nd873fb4fc550"
+        },
+        {
+          "key": "nc1052262ad23c",
+          "user_name": "🌀 みーちゃんの脳内探検記 〜高次脳機能障害とチャッピーと〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261503068/profile_d5aa43f900e39deb05eed51f806dc938.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんーー\n\nてるてる坊主に「シュールさ強調して」ってお願いしたらまさかの集団ホラー爆誕、Geminiくん仕事しすぎです😂🤖✨ \n\n父ちゃんの晴天祈願、切実さ…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc126391d9f6c8",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "怖いよ～、母ちゃん！\n本当にホラーだよ～\nでも、めちゃおもしろかった\n動画もすごいくいいですね😁",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc5c3175ab2eaf",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290824636/profile_19b652242f2a0c7ccf4b53ccb6c043ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "怖い怖い怖い怖い！！！\n((((;;OдO;lll))))\n\n父ちゃん作のてるてる坊主は何をゲ〇ってるんですか？\n(  ˙🌈 ˙  )🤣🤣🤣\n\n動画は夢に出てき…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncdee1df5ea709",
+          "user_name": "ママンマフィン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223465348/profile_60a10c14d7fb9209cbb371bf4fbf2893.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん……ひぃぃーー！\n😱😱😱😱😱\n自分もホラー、オカルト系を書いてますが、\nレ、レ、レベルが違いすぎるぅ～！\n素晴らしいです。😍😍😍✨♥️",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncc34f9c2a2182",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\n\nおはようございます🌱\n\n朝から笑いました・・😂\n\n普通に・・めっちゃ怖い・・笑\n\n最初の「口からまろびでてる」やつも怖いけど・・\n\nAI画像が恐…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc7668fd62f3cf",
+          "user_name": "いちごもん🍓",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259041155/profile_97091cfb87f34065fb57624ebfd037af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どうしよう🤣🤣✨\nタップダンスからのAIに丸投げした、てるてる坊主の画像のホラーっぷりから、\n動画の最後のオチまで、ずっと面白くて怖かったです🤣🤣🤣💦\n面白怖い…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncc60bf495f477",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "豪雨大変でしたね。\nそして、父ちゃんのてるてる坊主🤣🤣🤣\n天気☀にならなさそう😅ちょっと間違うと、ホラーになっちゃうのね(>_<)\n動画もすごい✨迫ってくる「て…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc02b2b3b6c6b1",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290534577/profile_67a36083536a049bbd34e5a4d462e2bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは😊\n\nてるてる坊主、こわいこわいこわい💨\nこわすぎて、引きつりながら爆笑です🤣\nGeminiの感性って、ちょいちょい分からないで…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc676e78e5b204",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "集団てるてる坊主がリアルでホラー😆\nちょっと怖いけど、ズームして見てしまった👀✨\n次回投稿楽しみにしています！",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncdf45072f72de",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぷぷぷ！かあちゃんの集団ホラー！なかなかの怪作ですな！素晴らしい！あたくしもちとちび創作対象…おさそいがかかったので参戦しようかと思いやすー。かあちゃんとはジャ…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncc4e8f587f214",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286302701/profile_2b5cef1a9ce3091317258b73327a0ac9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タップダンスꉂ🤣𐤔\n私の大親方に「なんでそんなに階段登るの早いんですか？」\nって聞いたら、\n「転ぶ前に足出しゃええねん！」って言われたのを思い出しました…\nふら…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc9dfeff29a6d8",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "笑　そしてなぜ父ちゃんさんにダメだし😹😹\nしかも父ちゃんさんが作ったてるてる坊主がこわい、\nてるてる坊主をこんなに怖く作れるなんて😹😹",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc817f33653915",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279709217/profile_205b7fdd1aaf25b483eff28b5183cbe2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YouTube登録してきたにゃ🤣\nてるてる坊主って、ホラーだったんだにゃ💦",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncd0aaf53f6a14",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは(*´∀｀*)\n\nホラー全開の動画と、イベント参加の記事をありがとうございますm(__)mﾍﾟｺﾘ\n\n盛り上がっていきますね(*´∀｀*)♪",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "nc7e56ce1df235",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは⭐\n気圧とか雨とか台風が来ると、ダメになってしまう人です。\n先週から悪天候続きで、私はもうダメダメになっています。\n父ちゃんさん…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        },
+        {
+          "key": "ncc0f94f10182a",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254798847/profile_477fb1c51a6333887bbba5241c9a3dc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん(＞ω＜)b\n\nお疲れ様です🍵\n\nちょっと\nてるてる坊主\n怖すぎるｶﾀ:(ˊ◦ω◦ˋ):ｶﾀ\n\n🤣っ🤣っ🤣\n\n凄いですね！！\n母ちゃんの記事は\n\nいつ\n…",
+          "article_title": "AI暴走！龍神の愛し子こと雨男が作ったてるてる坊主のホラーな悲劇│爆笑│​Gemini│おもしろ画像​│エッセイ​│家族ネタ",
+          "note_key": "naa84313fdee8"
+        }
+      ]
     }
   ]
 }

@@ -945,6 +945,84 @@
           "note_key": "n14dc92b65765"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 814,
+        "likes_prev": 271,
+        "followers_start": 3772,
+        "followers_end": 3856,
+        "new_fans": 111,
+        "comments_total": 10,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "07:05"
+        ],
+        "top_article": {
+          "title": "『AIイラストを動かしたい！』YouTube始めました。｜AIイラスト ｜AIアート｜プロンプト｜コンテンツマーケティング 　",
+          "key": "nd9228a3a133a",
+          "likes": 208,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "山梨県の古民家和み庵",
+          "urlname": "bright_eel176",
+          "follower_count": 34289
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "ncde57069c8d88",
+          "user_name": "ゆるモダ日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250080085/profile_04a4a3a27d7e74b51452fe145e5937bf.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして、「ゆるモダ日記」と申します。\nこの度は、私の記事をマガジンに追加していただき、本当にありがとうございました！\nとても嬉しかったです。😄\nYouTu…",
+          "article_title": "『AIイラストを動かしたい！』YouTube始めました。",
+          "note_key": "nd9228a3a133a"
+        },
+        {
+          "key": "nc8e055341129f",
+          "user_name": "瑠璃ノ蒼",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/81751052/profile_fd40d98f4e312583f395d54e191d7102.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャネル登録しました。よければ、Somari Kanji Quizもよろしくね。",
+          "article_title": "『AIイラストを動かしたい！』YouTube始めました。",
+          "note_key": "nd9228a3a133a"
+        },
+        {
+          "key": "ncf34d9971142a",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。マイカさん、やりますねー、拝見します。",
+          "article_title": "『AIイラストを動かしたい！』YouTube始めました。",
+          "note_key": "nd9228a3a133a"
+        },
+        {
+          "key": "nc878a6e28597c",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n夢のある可愛い曲ですね。\nチャンネル登録させていただきました。\n楽しみにしています。",
+          "article_title": "『AIイラストを動かしたい！』YouTube始めました。",
+          "note_key": "nd9228a3a133a"
+        },
+        {
+          "key": "nc00faf3cf54d9",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介下さり、ありがとうございます🐻😊",
+          "article_title": "『AIイラストを動かしたい！』YouTube始めました。",
+          "note_key": "nd9228a3a133a"
+        }
+      ],
+      "rare_no": 2
     }
   ]
 }

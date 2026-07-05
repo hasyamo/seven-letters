@@ -1232,6 +1232,195 @@
           "note_key": "ne690269ca0c1"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 832,
+        "likes_prev": 646,
+        "followers_start": 1405,
+        "followers_end": 1465,
+        "new_fans": 200,
+        "comments_total": 38,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:31",
+          "11:28",
+          "12:58",
+          "20:00",
+          "06:54",
+          "21:33",
+          "07:56",
+          "07:58",
+          "06:30"
+        ],
+        "top_article": {
+          "title": "3分で読める　ChatGPTのアーカイブを押したら、全部消えた件",
+          "key": "nb7a245f3d357",
+          "likes": 104,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14815
+        },
+        "commenters_count": 11
+      },
+      "comments": [
+        {
+          "key": "nc4a7c2cb03447",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます！\n\nHTTPステータスコード美術館、発想が好きすぎましたｗ\n\n404、429、503がちゃんと展示室になっていて、エラーなのに美…",
+          "article_title": "日曜ステータスコード美術館　　404に流れ着いた作品たちと、いかれたAI美術批評",
+          "note_key": "n88076238e63f"
+        },
+        {
+          "key": "ncb57e0ec8c7ca",
+          "user_name": "綴（つづり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288599918/profile_6fd6aac7bbbcc34a7df10c0d365a2125.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「掃除機ではなく、引っ越し業者」という例え、腑に落ちました。ヒヤッとした経験、思わず自分ごととして読み、省みないとなぁ…と、思うしだいです。固有名詞で検索する、…",
+          "article_title": "3分で読める　ChatGPTのアーカイブを押したら、全部消えた件",
+          "note_key": "nb7a245f3d357"
+        },
+        {
+          "key": "nc17167e90e51d",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271744984/profile_daca16601326f1b3d4b6c09c0e069bc8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オススメされてたので来ました。これは心臓に悪い🐻💧",
+          "article_title": "3分で読める　ChatGPTのアーカイブを押したら、全部消えた件",
+          "note_key": "nb7a245f3d357"
+        },
+        {
+          "key": "nc4eb363f7325b",
+          "user_name": "みふゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290717168/profile_b961cc925c06a3cf8ba6a669f8139e10.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まとめてアーカイブなんてあるのですね😳⭐️\nいつもひとつずつやってたので\n知らなかったです。\n\n全部一気に無くなるのは怖いです((((꒪꒫꒪ ))))ｶﾞﾀｶﾞ…",
+          "article_title": "3分で読める　ChatGPTのアーカイブを押したら、全部消えた件",
+          "note_key": "nb7a245f3d357"
+        },
+        {
+          "key": "nc5ff0e4f49f08",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も最初はアーカイブの保管場所を探して「どこ行った!?」となりました🤣\n今は期間ごとにプロジェクトを作って、そこへチャットを移動するようにしています。\n「掃除機…",
+          "article_title": "3分で読める　ChatGPTのアーカイブを押したら、全部消えた件",
+          "note_key": "nb7a245f3d357"
+        },
+        {
+          "key": "nc18cfe6836ced",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかります😂アーカイブ重すぎて読み込みにくっそ時間取られるんですよね笑\nしかもスレッドの中ちょっと確認するそれがもう激重…わたしの環境では、なのですがアーカイブ…",
+          "article_title": "3分で読める　ChatGPTのアーカイブを押したら、全部消えた件",
+          "note_key": "nb7a245f3d357"
+        },
+        {
+          "key": "nc5080c0db5817",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは☺️\n\nめちゃくちゃ面白いですね🤣\n答えは同じなのに、人格が違うって\n誰に説明して欲しいかで使い分けができますね！\nNotebookLMの…",
+          "article_title": "「八百屋だけど元量子重力研究者」にAI8社を放り込んだら、性格が全部バレた」　ネタ記事だったはずが面白い結果になった件",
+          "note_key": "n870e26daffea"
+        },
+        {
+          "key": "nc89eeb15f4373",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オモロい😂👍✨\nさすが👏💕黒パグさん、着眼点が素敵すぎる😍✨\n\nめじゅ、八百屋に嫁入りするところで破談になって、八百屋事情&慰謝料ゲットした、ツワモノだから✊💖…",
+          "article_title": "「八百屋だけど元量子重力研究者」にAI8社を放り込んだら、性格が全部バレた」　ネタ記事だったはずが面白い結果になった件",
+          "note_key": "n870e26daffea"
+        },
+        {
+          "key": "nccaa68149a8b2",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは✨\n\nとっても素敵なお話と曲でした✨\n「風は見えない。。。。。けどこの気持ちは本物だ」\n目に見えなくても大事なものがある\nそんな気づきを頂…",
+          "article_title": "黒パグ文芸部✖️ちび創作大賞②　読み切り短編小説　「風の観測者」",
+          "note_key": "n46c35e6b7fbd"
+        },
+        {
+          "key": "ncb4f7310fb39b",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん\n\n「見えない風が確かに存在するように、言葉にならない想いも、確かにそこにある。」…\nこの一文が、とても心に残りました。\n\n目に見えないものにも確かな…",
+          "article_title": "黒パグ文芸部✖️ちび創作大賞②　読み切り短編小説　「風の観測者」",
+          "note_key": "n46c35e6b7fbd"
+        },
+        {
+          "key": "nc094d2b73f5ea",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは☺️\n\nとっても勉強になります！\nPDF丸投げ要約してって、やってました💦\n分けてそれぞれを要約してもらう\nそうじゃないと混ぜて読んでしま…",
+          "article_title": "PDFをAIに丸投げすると、なぜ事故るのか――春音先生と幕島様の「読む単位」入門　NotebookLMでも起こりうる要約の罠　プロンプト配布あります",
+          "note_key": "n197cd1de1aa9"
+        },
+        {
+          "key": "nce0e0edf7a79f",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "極座標は丸いことを覚えました！\nあと、カワムラさんの記事以外でヨシダ君が出てくる温度感も参考になります！",
+          "article_title": "黒パグ式優しさテスト🐾　幼稚園児にわかる極座標ラプラシアンを、ChatGPTのヨシダ君に投げてみた　ちび創作大賞①",
+          "note_key": "n71eface22b64"
+        },
+        {
+          "key": "nc633729698e83",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます😊\n\nAIって、それぞれ個性のようなものがあって面白いですね🤣\n「優しさの形」をAIごとに見る感じがスキかもです♪",
+          "article_title": "黒パグ式優しさテスト🐾　幼稚園児にわかる極座標ラプラシアンを、ChatGPTのヨシダ君に投げてみた　ちび創作大賞①",
+          "note_key": "n71eface22b64"
+        },
+        {
+          "key": "ncf8487c05e6ea",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん。こんばんは。\nちび創作大賞　ChatGPTヨシダ部門ありがとうございます。\n\n正直に言います　極座標ラプラシアンでフリーズしましたので\n新しいso…",
+          "article_title": "黒パグ式優しさテスト🐾　幼稚園児にわかる極座標ラプラシアンを、ChatGPTのヨシダ君に投げてみた　ちび創作大賞①",
+          "note_key": "n71eface22b64"
+        },
+        {
+          "key": "nccae6b1078ede",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、おはようございます。\nおい、黒パグってGPTに言われてるの好きすぎました。\nこれからは最新AIはすぐ庶民の手には渡らないのですね。\n\n昨日初め…",
+          "article_title": "Sonnet5 爆誕！！………と　ちび創作大賞！",
+          "note_key": "ne5c94c174186"
+        },
+        {
+          "key": "ncbdbe90bb38b8",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは☺️\n\nすごい！！凄すぎる！ホントISO取る気なんだなって\n思ってしまいました😳\nこれを2時間で出来る！！\n素敵というか、さすがです✨\nで…",
+          "article_title": "黒パグの記事は、どうやって作られているのか",
+          "note_key": "n9b3368eb9c9b"
+        },
+        {
+          "key": "nc21a1e38e7761",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃ感動してしまいました…✨😭✨\n2時間って言う驚愕😳‼️は、黒パグさんの技術と構造的思考があるからこそで、恐れ入谷の鬼子母神でございます…✨🙇‍♀️✨",
+          "article_title": "黒パグの記事は、どうやって作られているのか",
+          "note_key": "n9b3368eb9c9b"
+        },
+        {
+          "key": "ncbe37ef57a3e5",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "謎が解けました😊 以前から黒パグさんの制作時間や品質管理が気になっていたので、とても納得しました。制作フローを公開してくださってありがとうございます！",
+          "article_title": "黒パグの記事は、どうやって作られているのか",
+          "note_key": "n9b3368eb9c9b"
+        }
+      ]
     }
   ]
 }

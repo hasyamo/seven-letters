@@ -65,6 +65,43 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 338,
+        "likes_prev": 222,
+        "followers_start": 3853,
+        "followers_end": 3864,
+        "new_fans": 79,
+        "comments_total": 0,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "AIで作った画像をEtsyに出品！広告動画も作ってみた。【PolloAIコラボシリーズ Vo.2】｜AI活用｜ ChatGPT｜創作｜コンテンツ販売｜PR｜レビュー｜副業｜note｜フリーランス｜",
+          "key": "naf504caeffba",
+          "likes": 178,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14886
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 2
     }
   ]
 }

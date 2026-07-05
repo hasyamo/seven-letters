@@ -2788,6 +2788,254 @@
           "note_key": "nc64f2034d1af"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 433,
+        "likes_prev": 447,
+        "followers_start": 537,
+        "followers_end": 576,
+        "new_fans": 95,
+        "comments_total": 60,
+        "posts_count": 12,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:00",
+          "20:30",
+          "06:00",
+          "15:00",
+          "11:16",
+          "09:00",
+          "06:00",
+          "00:43",
+          "21:14",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "🐣 うちの子保育園🌱小さな扉を開く前に",
+          "key": "nfcf0e59bc78c",
+          "likes": 50,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 26088
+        },
+        "commenters_count": 14
+      },
+      "comments": [
+        {
+          "key": "nc538e3d7e2699",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「夢見る少女じゃいられない」よくカラオケで歌ってます(≧∇≦)/",
+          "article_title": "1,500クレジット、瞬殺＆溶解…😭💦なぜ❓ナゼ❓何故なんだ…⁉️",
+          "note_key": "n8424d72692ad"
+        },
+        {
+          "key": "ncbeb7c9bf0600",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すなおにみんなみたいにSUNO使えばいいのに。\n\nと言いつつひとりでmurekaAIを使うオレw\nオレなんて1曲作るのに20曲以上作って選んでる。\nそれだけ修正…",
+          "article_title": "1,500クレジット、瞬殺＆溶解…😭💦なぜ❓ナゼ❓何故なんだ…⁉️",
+          "note_key": "n8424d72692ad"
+        },
+        {
+          "key": "nc58e166cb65fe",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メジュさん　こんにちは😃\n凄い🌟\nこのMVで充分って思っちゃいますよ✨\nメジュさんの創作力は流石ですね\nなんでもできちゃう感じですね🌟\nこれが失敗😱\n衝撃です✨",
+          "article_title": "1,500クレジット、瞬殺＆溶解…😭💦なぜ❓ナゼ❓何故なんだ…⁉️",
+          "note_key": "n8424d72692ad"
+        },
+        {
+          "key": "nc3079ce4fa2f4",
+          "user_name": "中野英仁",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221026933/profile_88a590dbb48fbccf046595e3d387d1d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スゴイ！\nでも月末…あと何日あるんだ？w\n\nお手軽に出来ていいなぁ。",
+          "article_title": "1,500クレジット、瞬殺＆溶解…😭💦なぜ❓ナゼ❓何故なんだ…⁉️",
+          "note_key": "n8424d72692ad"
+        },
+        {
+          "key": "ncd29d46228c46",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ、すごい笑\n\n作るの苦労してるから試してみようかなぁ",
+          "article_title": "1,500クレジット、瞬殺＆溶解…😭💦なぜ❓ナゼ❓何故なんだ…⁉️",
+          "note_key": "n8424d72692ad"
+        },
+        {
+          "key": "ncc1437684a6d8",
+          "user_name": "考える赤柴｜司法書士試験挑戦中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは。\n見せていただきました✨\n1500クレジットの一部は、あの女性の衣装代になったのかもしれませんね🥹\n歌詞と口の動きを合わせるなんてもう当…",
+          "article_title": "1,500クレジット、瞬殺＆溶解…😭💦なぜ❓ナゼ❓何故なんだ…⁉️",
+          "note_key": "n8424d72692ad"
+        },
+        {
+          "key": "nc17e4cbb25982",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Welcome To The Edge (Todokanu Omoi 「とどかぬ想い」)に聴こえるんだよな💦",
+          "article_title": "愛別離苦の涙 vol.27.5",
+          "note_key": "na64ee4ddb5af"
+        },
+        {
+          "key": "nc34bb7bb371ea",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんコラボでYoutubeになってる～‼️(≧∇≦)\nいい曲だもんね～コレ✨💖🎵\n",
+          "article_title": "Beautiful Little Box 〜 Art Direction by KITAcore ～",
+          "note_key": "n5c1004df05db"
+        },
+        {
+          "key": "ncf39ea8608014",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵な曲に触れさせてもらってありがとございます！！",
+          "article_title": "Beautiful Little Box 〜 Art Direction by KITAcore ～",
+          "note_key": "n5c1004df05db"
+        },
+        {
+          "key": "ncff3b492c7af5",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "声が素敵で、聞き取りやすいです！\n\n楽しんで聴かせてもらいました!",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 銀座時代のお話💃🍷",
+          "note_key": "n801fd19f4c1e"
+        },
+        {
+          "key": "nca46b7b00571b",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🌿\n聞かせていただきました😊✨\nお声が本当に優しくて、とても心地よかったです🥰💕\nそして、夜のお仕事もされていたんですね😳 だからこその人との向き合い…",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 銀座時代のお話💃🍷",
+          "note_key": "n801fd19f4c1e"
+        },
+        {
+          "key": "nc0da7a07bbacb",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、もしかしてお話はアドリブなのですか？😳\n\n原稿なしでこのクオリティ、本当にすごいです🥰✨\n\nでも、きっとこれまで積み重ねてこられたご経験があるからこ…",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 銀座時代のお話💃🍷",
+          "note_key": "n801fd19f4c1e"
+        },
+        {
+          "key": "ncd1ddab1ec8e0",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、夜のお仕事されてたのですね！タラヲさんの紹介記事にもとんでみます✨",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 銀座時代のお話💃🍷",
+          "note_key": "n801fd19f4c1e"
+        },
+        {
+          "key": "ncb3e1c74e5639",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "聴きながらめじゅさんの他の記事も読んだりして、とっても心地よいめじゅ時間でした！ありがとうございます😊",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 銀座時代のお話💃🍷",
+          "note_key": "n801fd19f4c1e"
+        },
+        {
+          "key": "nc12208e11ce53",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌛*゜\nみなさんの守護神獣さん、どの子も可愛いですね😍💖\n全集合って圧巻です🥰\nめじゅさんのお優しいお気持ちがそのまま伝わってきたような気…",
+          "article_title": "ぬか床通信 🌱第1号🌱 ～ 皆さまの🌟守護神獣🌟をご紹介 ～",
+          "note_key": "n2f6747d4e5dd"
+        },
+        {
+          "key": "nce7544b7c8ea7",
+          "user_name": "えみ｜気持ちを整え、前へ進む相談室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289203749/profile_79af7f0532cd7660f71cd032248e6e34.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も最近怖いです😱",
+          "article_title": "ちょっと待って‼️まだプロンプト書いてる途中なんだけど…💦",
+          "note_key": "n0d32c025e202"
+        },
+        {
+          "key": "nccf603f041bde",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「AIは、言葉だけじゃなく、\n積み重ねた世界観まで、覚え始めているのかもしれない」\nいまのChatGPTはこれです。\n付き合いが長くなればなるほど、交わした会話…",
+          "article_title": "ちょっと待って‼️まだプロンプト書いてる途中なんだけど…💦",
+          "note_key": "n0d32c025e202"
+        },
+        {
+          "key": "nc324552a33033",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "忖度パワーですね笑",
+          "article_title": "ちょっと待って‼️まだプロンプト書いてる途中なんだけど…💦",
+          "note_key": "n0d32c025e202"
+        },
+        {
+          "key": "nc8d759b4b233a",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あふらっく🪿",
+          "article_title": "寺子屋めじゅ | メンシプ専用 | 🌱スタエフ配信🌱 | 第4回**め印**スタエフ便🌟",
+          "note_key": "ne5a926708658"
+        },
+        {
+          "key": "ncc76d2e2da0f7",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194103346/profile_5b2ee16c8d8db97758503974e4e6f9da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "明るく話しておられますが、大変だったですね。\nお腹痛くなってきました;つД｀)\n元気になってくださって良かったです💖",
+          "article_title": "寺子屋めじゅ | メンシプ専用 | 🌱スタエフ配信🌱 | 第4回**め印**スタエフ便🌟",
+          "note_key": "ne5a926708658"
+        },
+        {
+          "key": "nc3902d2ef32dc",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274383500/profile_313c9346266235fe64a2d3470c267e9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🌸\n\nとっても丁寧に、そして深く受け取ってくださって、本当にありがとうございます🥹✨\n\n記事を読ませていただきながら、何度もじーんとしてしまいました😌…",
+          "article_title": "AI時代だからこそ、「違和感」を伝える勇気を持ちたいと思った話🌱",
+          "note_key": "n40cbb9f9f008"
+        },
+        {
+          "key": "nc140d82deea12",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これはおもしろいですね！自分の作ったキャラクターに愛着がある人も多いと思いますし(*˘︶˘*).｡.:*♡",
+          "article_title": "🐣うちの子保育園🌱はじめます。",
+          "note_key": "n73084244b626"
+        },
+        {
+          "key": "ncbca73e929cb4",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285715079/profile_30b04f55953786a6374377706b410b35.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレんちのこの成長はやいよ。塩ビ女子😁\nめじゅの成長も早いな。ぬか床のせいか？",
+          "article_title": "🐣うちの子保育園🌱はじめます。",
+          "note_key": "n73084244b626"
+        },
+        {
+          "key": "nc37ac88170c6b",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nめじゅさんはキャラクターをホントに大切にしていますね～😄\n素敵すぎます！！\n\nこれからどんな感じで育っていくんだろう？\n楽しみにしていますねー…",
+          "article_title": "🐣 うちの子保育園🌱小さな扉を開く前に",
+          "note_key": "nfcf0e59bc78c"
+        },
+        {
+          "key": "nc1d575f1890d8",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "保育園という雰囲気が、素敵だと感じております。\nまだ生成AIに慣れていない方でも、気軽に参加できそうな雰囲気があり、凄く柔らかい印象があります。\nそこで、どのよ…",
+          "article_title": "🐣 うちの子保育園🌱小さな扉を開く前に",
+          "note_key": "nfcf0e59bc78c"
+        }
+      ]
     }
   ]
 }

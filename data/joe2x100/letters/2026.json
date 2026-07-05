@@ -537,6 +537,41 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 98,
+        "likes_prev": 96,
+        "followers_start": 519,
+        "followers_end": 536,
+        "new_fans": 29,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "11:42"
+        ],
+        "top_article": {
+          "title": "【ぐっすり眠る魔法をかけてみる】 #壁紙新作あります #安眠グッズ #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.48",
+          "key": "nb583f77b1840",
+          "likes": 45,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "キータン🦋写真とAIで紡ぐもう１つのリアル✨",
+          "urlname": "chocho3",
+          "follower_count": 5037
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

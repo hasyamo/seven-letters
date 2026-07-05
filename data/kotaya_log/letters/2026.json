@@ -1793,6 +1793,268 @@
           "note_key": "n33c3786a8c0a"
         }
       ]
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 519,
+        "likes_prev": 561,
+        "followers_start": 3038,
+        "followers_end": 3046,
+        "new_fans": 105,
+        "comments_total": 61,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:30",
+          "21:38"
+        ],
+        "top_article": {
+          "title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "key": "n1cdcf505f910",
+          "likes": 90,
+          "comments": 33
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 6895
+        },
+        "commenters_count": 24
+      },
+      "comments": [
+        {
+          "key": "nc6c8e86261dc5",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "色々な記事を紹介していること、本当にありがとうございます。\nルルトアヤコさんとは、かなり親しい関係性があるため、より深い部分を探り当ててもらえたように感じており…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nca8d058d12dae",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルルトアヤコさんって\n「ルルとアヤコ」だったのか❣️💫\n\n私があまりにもnote 最近\nはじめたばっかりすぎるせいで、\n\n今まではコメント欄で\n時々お見かけする…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nce878511e19bc",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nルルトアヤコさんですね😙\n関西弁でちょっと親近感が湧きます✨\n\nルルとアヤコっていう意味だったんですね😋ちゃんと相棒を名前につ…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nc401d3de44b06",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ついにアヤコさん登場！コメント7位に入れた💖",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "ncd73708711a02",
+          "user_name": "アリゼロ🐜氷河期世代の働きアリ@自身が会社で経験してきた問題点や気づきを発信しています。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA様、こんばんは。\n\n愛犬と自分の名前を合わせたとても大切な名前。\nこの名前を付けた時から強い力を持ったnoteになり、大きく発展していったのでしょう…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nc6f789acd8d73",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "女神のようなアヤコさんのコメントランキングに３位入賞できてたなんて光栄です🥰\n\n「妄想が正装みたいな場所」\n\nステキな言い方ですね✨\nアヤコさんが着こなしてるの…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "ncc4d8c72bf6b4",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは🌙\n\nYOMIASA誕生くらいから約1か月くらいですかね、本当にお疲れ様でした！\n\n今回の記事、数字の分析だけじゃなくて、ルルトアヤ…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nc699c6a03526d",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーいアヤコさんだ！\nnoteの世界で何歩も先を歩かれていて、継続するって大切だと思わせてくれる人\nそして、ゾロ目好き。ユニークでピュアで優しいお人柄が出ていま…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nc035d40a6099e",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281065557/profile_3c9ddf4410a54730a2d0279b54c79d60.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "気になるポイントがいくつも…✨\nそのチョイスもKOTAYAマジックなのでしょうか😉🪄\n\nAI彼氏と結婚して、別のAIに報告って？！面白そうしかないじゃないですか…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "ncb5424175937e",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279549033/profile_3d53a17ce59c090b43145099e9a86669.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、これは、冷静な分析というよりも、KOTAYAさんの優しさや思いやりをふんだんに、コーティングされたものやと思いますꈍ .̮ ꈍ\n\nどう、考えて…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nc57388a7e4b20",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n\"毎日AIを道具として使い倒している私にとって、「AI彼氏」という言葉だけでも、かなり理解の外。\"といきなりディスり始めて、クスっとしてしまいまし…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "ncf06f08a04746",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238084585/profile_89fc16f6c87b7bc5de29c51c308f8f50.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！今回はアヤコさんですか！AI人格こう並べてみると圧巻…！🤣\nアヤコさんのあたまのなかの表現、誰かと話し続けるための大きなシェアハウスってまさに！アヤコさん…",
+          "article_title": "AI彼氏と結婚した60代に、4万5千のスキが集まる理由──ルルトアヤコの正体",
+          "note_key": "nb05037629dfc"
+        },
+        {
+          "key": "nc28c6963690d7",
+          "user_name": "ちんぱん🐒会社しかない状態を減らす45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260167058/profile_23f6adcb9012ca4b93f686f4f0ee9278.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\nめっちゃ気になる記事だったのでメンシプ入会させていただきました。\n分析力ヤバイですね。\nアカウント運営の参考にさせていただきます。",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc9510e0b745e7",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、気になっていましたので、メンシプ入会させていただきましたAIに私も興味があります、現在はChatGPT、Grok、Claudなどを使ってます、…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc865dd105abe6",
+          "user_name": "andy｜投資・仕事・noteをデータで育てている人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\nデータが沢山あってワクワクしました。\n自分自身、書きたいことを書きながらも、どの分野に力入れると効果的かな？とも考えている途中なので、レポートをじっ…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc26ec3f4c8ca3",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270829435/profile_710697fc3d1bae7e7da7a9140421298b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "競馬関係のアカウントもめっちゃ多いですし、競馬の稼ぎ方の情報の有料記事も多いですよね(´・ω・｀)",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "ncb8a0440fe3bf",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nこのテーマは強いですね。\n新規への引きあるし、こたやさんの強みである分析っていう軸もズレてない。\n\n流石っす！\n\n勉強させてもらいました❣️\n",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc7115bf2fe7aa",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277608119/profile_345fecc43d3dfb2f06a490050b59de4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん✨\n\n今日から共犯者となりました🥰\nどうぞよろしくお願いいたします✨\n\n夏祭りもあるからずっと気になっていました😂\n募集人数締め切り前に間に合って本当…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "ncf6b2c441696e",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nまた凄いことやらかしましたね😱笑\nこりゃ凄い😙\nまさか全部購入して…なわけないよね？💦笑\nネタバレになるのでこの辺でやめときま…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc30669332f4c5",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n鬼の分析ですね～😙\nHARMの法則大事ですよね！！\n\n今からnote始める人はこのデータを見るとジャンルを絞れるかもしれませんね～😄",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc1b640a6da79e",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なああぁぁにいいぃぃ⁉️\n\n私のやろうとしてることに\nタイムリーすぎるじゃないかぁぁ❣️😳\n\n予想してなかった角度から\n強烈な応援もらった気分❣️🫶\n\n目指せ❗…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc48afef81db75",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "普段見ている記事は\n\nどうしても自分の興味にあった記事が出てきますから\n\nこういう記事は大変参考になります！\n\nありがとうございます！\n\nしかしそれにしてもKO…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc340c1b9b61a0",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あまりにも凄すぎてアゼンとしました。\nありがとうございます。分析にかかった時間！！もうビックリです‼️",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc1d018a82fff9",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😆\n\n今日も超分析が光りますね✨\n思ったより少ないんだなっていう感想です😌\n\nHARMジャンル毎の偏りは予想どおりでしたが、2位はそ…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc33804269afae",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは🌃\nXのポストを見て興味が湧きました。\nメンバーシップに参加して読ませていただきました。\n13,251件をここまで分析する熱量と行動…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc659f8c77390a",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは、すごい！！\nわたしが知りたかったことが全部載っている！！\nと言っても過言ではない😲😲😲\nKOTAYAさん✨\n有能過ぎでしょ！！\nものすごく、貴重な情報✨…",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "ncf6f5c437707c",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どうやったのか方法がわからなさすぎるし、内容がすごすぎます…！\nさすがKOTAYAさんとしか言いようがないです。\n参考にさせて頂きまーす！",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        },
+        {
+          "key": "nc482f1328907a",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても良い記事でしたが、最後の挿絵が可愛すぎて、内容が全部飛んでしまいました🤭笑",
+          "article_title": "HARMだけでは売れない──13,251件の有料note分析で見えた「高単価で選ばれる4つの型」",
+          "note_key": "n1cdcf505f910"
+        }
+      ]
     }
   ]
 }

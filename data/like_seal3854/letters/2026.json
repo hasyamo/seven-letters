@@ -537,6 +537,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 12,
+        "likes_prev": 34,
+        "followers_start": 510,
+        "followers_end": 511,
+        "new_fans": 7,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "営業パパ",
+          "urlname": "eigyopapa",
+          "follower_count": 1723
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

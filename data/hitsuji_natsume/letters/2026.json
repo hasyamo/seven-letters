@@ -547,6 +547,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W27",
+      "period": {
+        "start": "2026-06-29",
+        "end": "2026-07-05"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 14,
+        "likes_prev": 59,
+        "followers_start": 1377,
+        "followers_end": 1378,
+        "new_fans": 4,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "夏目 龍頭｜AI Creative Lab",
+          "urlname": "shio_batapopcorn",
+          "follower_count": 3428
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }
