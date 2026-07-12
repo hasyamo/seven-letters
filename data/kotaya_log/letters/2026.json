@@ -2055,6 +2055,373 @@
           "note_key": "n1cdcf505f910"
         }
       ]
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 549,
+        "likes_prev": 582,
+        "followers_start": 3045,
+        "followers_end": 3042,
+        "new_fans": 52,
+        "comments_total": 95,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "key": "n5e03b8aef07c",
+          "likes": 85,
+          "comments": 41
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 7143
+        },
+        "commenters_count": 23
+      },
+      "comments": [
+        {
+          "key": "nca61ae01e75bd",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは！\n\n確かにライティングとかWebデザインしてるより\nコード書いてるほうが楽です 笑\n\nやりがいというと逆なんですけどね😅\n\nそれに近い感…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "ncf01921d29455",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんにちは✨\n\nキャリアの変化って、仕事が嫌になったから離れるとは限らないんだなと思いました。\n\n好きだった仕事だからこそ、離れたあとも簡単に…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "ncb55ff24d0dc1",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん\nおっは！\n\n昨日の夜から完落ちしてさっき起きたとこ💦\n\nこたさんとぼくはぜんぜん違う仕事だけど、やっぱり本質は同じなんだなあって思った。\n見ているもの…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nc209f39941840",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは！\n\n面白かった✨\n友人にプログラマーがいるけど、人のコード読むの面白いって言ってました😌\n私はプログラミングはちんぷんかんぷんな単…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nc005d7ea6c12e",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271348454/profile_596a4f7c4e29751c2f01a0c148e0dfed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "経験し次のステップに行って向き合っているからこそ見える景色🪟、\n無駄を削ぎ落としていった勇気も讃えたいです。",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nccf7cd03c88f8",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nこちゃさんはたぶんやろうと思えば全部できる人だ😙\nそれをnoteで実証していると思います😄\n\n仕事っていうのは1人じゃ回らない…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nc2704579cc10a",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "七つの習慣という本に書かれていた「相互依存」（個人的には「相互協力」という文字に直したいです）の考え方が、真っ先に思い浮かびました。\n\nプログラマーとしてやって…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "ncd3b2ed6c38ad",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "離れたからこそ見える景色ってありますよね✨\n\nたどり着いた結論、こちゃさんらしい🥰✨\n\n全て読み終わって感慨にふけっていたところに、あの「オマケ」😂\n最高です❣…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nc11698010498b",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっっっちゃ共感❣️\n\nその上で、収入が足りるなら\nプログラマー側のポジションで、\n\nキャッチーにいうなら\n「モノ言うプログラマー」\n\n少しかたくいうなら\n「提…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "ncb53243148895",
+          "user_name": "さとりのさとり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226182676/profile_094199e7fa1bff58de5da5e07a1a43de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、\n完全に世界を動かす人の話ですね、\n\n別に知っていたけど\nやっぱこちゃさん\nはそっち側なんですよねぇ…\n\nわたしはどっちに側にいるのか\nわかりません😅",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nce7e58c9ea065",
+          "user_name": "豹子頭 林冲",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/93833063/profile_29109b9cb76666a89333862ce6fe2bee.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "仕事に対する向き合い方に性格が出てるよなぁ。\n働き方=生き様というか\nこういう思考の人が一緒に働いてたら\n仕事も楽しめたんだろうなぁ\n\nそう思いました。\nうん、…",
+          "article_title": "もう一度、プログラマーに戻りたいと思うことはありますか？",
+          "note_key": "n376a8d176f5e"
+        },
+        {
+          "key": "nc1f62c7ee115d",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "祭りだぁ！！🏮\n仕事だぁ！！😭\n\n私の分まで皆楽しんでくれることを\n願っております！\n\nなんとか生存確認のために\nスキとコメントだけは…！\n",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc10d0a929fbe8",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわあ～！！\n思いっきり、KOTAYAさんも勘違いしております！！\n\n気の早い人ではなく、屋台を出さないと「間に合わない」のです！\nhttps://note.c…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc7abf338080ef",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、夏祭りいよいよですね、noteを初めての夏祭りワクワクします☺️こうやって全国の方々達と繋がれる場を与えてくださって感謝です😭",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "ncb77d1964447b",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんは　やっぱり「あたたかい」方だなー😄\nクールな中から、見え隠れする優しさがたまりません😍\nたくさんの人の協力があるから盛り上がる「夏祭り」楽しみ…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc3cf137a51f87",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん✨\n夏祭り！いよいよですねー😆💓\n\nただいま屋台記事を全力執筆中です🫡\n\nスタンプラリーも楽しみ！🥰\n\nスポンサーの皆さま、ありがとうございます✨🌸✨…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc6cef0645ccc9",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です🌟\n\nきましたねー😎\nいよいよ祭りだー🎉\n\nスポンサー枠即埋まったのはすごいですね😙\nまりーさん太っ腹😄\nお祭り楽しみにしてまーす😍",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nce96c93824164",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、はじめまして😊\n木漏れ日亭さんの記事からおじゃましました🌿スポンサーの皆さんや、みんなで作り上げる夏祭りへの想いが伝わってきました✨開会がます…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "ncf1ff1983c07a",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん\n開会式のあとでよかったのですかぁ😅\n気の早い屋台です！\n",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc804c2e19bbf4",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは⭐\n楽しそう、面白そう、と勢いで出店の名乗りを上げたのですが、\n屋台も完成（下書き）しているのですが、\n間違った解釈をしていないか、不安で…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "ncce18dd25527d",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😊\n\n夏祭り楽しみですね✨\n屋台は多分明日出ます！\n\n開会式も楽しみ😆その後は屋台回ります👍",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "ncb4b54983bacf",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290838344/profile_831bd18e9a073b2b5df98d4a44a30249.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "|='ω')！\n|=ﾉωﾉ) 謎の人物Xでお願いしたのに\n|彡ｻｯ",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc80b4b7973870",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、お疲れ様〜🌻✨\n\nやー、ホント、3時間はビックリ！😭✨\nスポンサー様方に特大感謝！！！🙏💖✨\nこうやって紹介できるのも、いいね〜🥰\n\n気の早い屋台ってい…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc9ecb4cd567e7",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは🌃\nスポンサーとしてご紹介いただき、ありがとうございます😊\n夏祭りの雰囲気がどんどん出来上がってきて、ワクワクしています。\n「AIカフェ・…",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc233d10ac8b60",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "じまこちゃ夏祭り、盛り上げたい一心で。。💦\nみんなで楽しめる最高な企画、\nいろんな形で参加、遊びに来てもらえる一大イベント(*´ω｀*)♪",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "nc90f9b9978a60",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっふ〜ぃ❣️💫\n\n開会式までは前夜祭かな〜？\n屋台が出てくると一気に雰囲気でるね〜🤭\n\nわたしもスタンプラリー回ってこよ〜っと✨",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "ncf21b9e8e2c2f",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コタヤさんの屋台どんなのになるの気になるな〜❣️\n\n私はまだ何を出すか決めてません。\n\nそろそろ決めなければ😭",
+          "article_title": "じまこちゃ夏祭りは、私たちだけでは作れない。",
+          "note_key": "n5e03b8aef07c"
+        },
+        {
+          "key": "ncc59c4394eeb5",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\nカモンの画像にぶち抜かれました！\nこれは入ってなかったら入ります✨\n\n爆増おめでとうございます🎉\n\nすんばらしい戦略っす！",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc4a468ef98988",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です🌟\n\n凄すぎて震える…😱笑\n計算も偶然含めてこれはこちゃさんの実力🌟\nむしろ偶然を呼び込んだと言ってもいいと思います😎\n\n今一番勢い…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc6bd44941d32a",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n爆増すごーー！\nこたやさんがどんどん伸びていきますねー😙\n戦略がすごい！！",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "ncabb862fb8b49",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271348454/profile_596a4f7c4e29751c2f01a0c148e0dfed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "七夕祭り🎋のどさくさにメンシプに入らせていただきました。\nお邪魔致します！そしてどうぞ宜しくお願い致します。☺️\n",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc90e68f4720bb",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー✨✨メンバーシップ人数「爆増」おめでとうございます🎉🎉\nさすが、KOTAYAさん✨なかなかできることじゃないです😄\n\n相変わらず、メンバーシップに入って読み…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc2a06db00f667",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ、やべ、\n記事そのものへの感想忘れてた😱\n\n「軽い気持ちで、飛び込んでみて！」\n\nでその画像はズルい🤣🤣🤣\n\nそれとやべっ！\n\nせっかく夏祭りの展示エリアで\n…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc0d0e4a5d2728",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私はこの記事で対象にしてる\n「最近入った人」じゃないっぽいから\nこっちで書いておくかー😉\n\nまぁ知ってると思うけどおさらい！\n\n◽️共犯者を知ったきっかけ\n→か…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc410332f90298",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏祭りの参加は、DMじゃなくてこの記事にコメントお願いします！🙇‍♀️✨\n参加お待ちしておりますよ〜🥰\n\nhttps://note.com/jimanyan/n…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc98048e3ad091",
+          "user_name": "andy｜投資・仕事・noteをデータで育てている人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん　こんばんは！\nコメントで書こうと思ったのですが、ネタバレになってはいけないと思ったので、フォームから回答をさせていただきました！",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc32cd0029eaeb",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😊\nメンシプでこんなに一気に伸びるの\nなかなか見かけないです👍すごい！\n\n限定性はいつか入ろうを、今入ろうに変える力ありますね😌",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc2fe9285fc0a4",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おむねにぴょ～んっ♪\n🐿️だから許される。うん。🐿️だもん。\n\nでもすごいね、求心と拡散。\n導線と引き込むポイント切り替え。\n\n構造と結果を出すまでの計算式、見…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc5dfcb570f490",
+          "user_name": "あずなぶ〜る｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290315468/profile_84826b4f3ec242e58c9227dbc28081d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、\n\nGoogleフォーム回答しました！\n怒涛の快進撃の裏に、こんな戦略が練り込まれていたとは恐れ入ります😳\n\nこんなすごい情報共有してくださり感謝で…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "ncf3758a938973",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは🌃\n早速アンケート回答しました。\nついつい長文になってしまいました😅",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        },
+        {
+          "key": "nc8d5d5d3ffc96",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私が加入したのは、7月1日の朝。\n1班の最後ギリギリだった思います。\n\n私は元々コタヤさんのメンシプはいつ入っても良かった。\n\nただ、メンシプの数が増えるのが嫌…",
+          "article_title": "メンシプ44人。残り56人。──27人増の裏で仕掛けた4つの施策",
+          "note_key": "n936b16eb34b9"
+        }
+      ]
     }
   ]
 }

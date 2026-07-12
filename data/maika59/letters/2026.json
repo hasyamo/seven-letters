@@ -1023,6 +1023,68 @@
         }
       ],
       "rare_no": 2
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 468,
+        "likes_prev": 840,
+        "followers_start": 3913,
+        "followers_end": 4148,
+        "new_fans": 140,
+        "comments_total": 8,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:01"
+        ],
+        "top_article": {
+          "title": "『あなたの物語が、読者をそっと惹きつける。』-Noteを伸ばす方法-｜AIイラスト ｜AIアート｜プロンプト｜コンテンツマーケティング 　",
+          "key": "n497fe111b70d",
+          "likes": 194,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14974
+        },
+        "commenters_count": 3
+      },
+      "comments": [
+        {
+          "key": "nc87cfe21510d9",
+          "user_name": "律｜マーケ日報",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289272959/profile_7859ec59f57078d5246cf41bc24d23af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "\"記事にテーマ詰め込みすぎ\"、まさに私のことでした…。1テーマに絞るほど刺さる、という話に納得です。次はひとつの悩みに絞って書いてみます。",
+          "article_title": "『あなたの物語が、読者をそっと惹きつける。』-Noteを伸ばす方法-",
+          "note_key": "n497fe111b70d"
+        },
+        {
+          "key": "nc05ab6fa7fee5",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきましてありがとうございます！\n\n応援ありがとうございます。\n本日、締め切りタイミングでの最後の話とします。\n\nが・・明日、明後日の話が準備できたこ…",
+          "article_title": "『あなたの物語が、読者をそっと惹きつける。』-Noteを伸ばす方法-",
+          "note_key": "n497fe111b70d"
+        },
+        {
+          "key": "ncc38ae7cdba33",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。あの、なんでご存じなんですか？エスパーですか？言ってない、はず。",
+          "article_title": "『あなたの物語が、読者をそっと惹きつける。』-Noteを伸ばす方法-",
+          "note_key": "n497fe111b70d"
+        }
+      ],
+      "rare_no": 3
     }
   ]
 }

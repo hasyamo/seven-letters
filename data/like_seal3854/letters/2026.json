@@ -565,6 +565,35 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 12,
+        "likes_prev": 13,
+        "followers_start": 511,
+        "followers_end": 514,
+        "new_fans": 5,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "ランディ|古民家暮らしのエッセイスト",
+          "urlname": "randyfumio",
+          "follower_count": 1781
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 5
     }
   ]
 }

@@ -3036,6 +3036,408 @@
           "note_key": "nfcf0e59bc78c"
         }
       ]
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 462,
+        "likes_prev": 440,
+        "followers_start": 580,
+        "followers_end": 595,
+        "new_fans": 96,
+        "comments_total": 93,
+        "posts_count": 14,
+        "consecutive_days": 7,
+        "post_times": [
+          "09:00",
+          "13:28",
+          "06:00",
+          "06:00",
+          "21:00",
+          "06:00",
+          "18:21",
+          "15:00",
+          "06:00",
+          "06:00",
+          "13:58",
+          "09:00",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "key": "n3cc3a75af9bf",
+          "likes": 41,
+          "comments": 25
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14932
+        },
+        "commenters_count": 23
+      },
+      "comments": [
+        {
+          "key": "nc508b775df00b",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵なサイトが出来上がってる！！！",
+          "article_title": "はじめての方へ",
+          "note_key": "n77bd6e993d3d"
+        },
+        {
+          "key": "ncede7cfd581b5",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\nデザインのセンス良いですね！",
+          "article_title": "宇宙珍獣🦄 🌬️ユル勇者あかねさん🌟のお店のロゴデザイン、作ってみました✨️",
+          "note_key": "n6e2ebfea37eb"
+        },
+        {
+          "key": "ncdc9a6dadfe42",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ、何これ？むちゃくちゃいいやん！しかも早くてびっくり♪\n\nまぁまぁ、私は宣伝＆広報が仕事やからね〜v(´∀｀*v)ﾋﾟｰｽ",
+          "article_title": "宇宙珍獣🦄 🌬️ユル勇者あかねさん🌟のお店のロゴデザイン、作ってみました✨️",
+          "note_key": "n6e2ebfea37eb"
+        },
+        {
+          "key": "ncd36da85bd0d4",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ボツのレベルが高すぎます🥹",
+          "article_title": "宇宙珍獣🦄 🌬️ユル勇者あかねさん🌟のお店のロゴデザイン、作ってみました✨️",
+          "note_key": "n6e2ebfea37eb"
+        },
+        {
+          "key": "ncf2d7894cc71e",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🌸\n早速形にされているのが凄いです💖\n私も考えてみたいと思っています🤭",
+          "article_title": "宇宙珍獣🦄 🌬️ユル勇者あかねさん🌟のお店のロゴデザイン、作ってみました✨️",
+          "note_key": "n6e2ebfea37eb"
+        },
+        {
+          "key": "ncb08e837fec2c",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーーー💖めじゅさんっ(*ﾟ∀ﾟ*)💖\nさっそくありがとうございます✨✨\n\nボツ集も一緒に検討しますので💖\n楽しんでいただけてなによりですっ🌈\nめっちゃありがと…",
+          "article_title": "宇宙珍獣🦄 🌬️ユル勇者あかねさん🌟のお店のロゴデザイン、作ってみました✨️",
+          "note_key": "n6e2ebfea37eb"
+        },
+        {
+          "key": "ncfcceb4162cee",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290355485/profile_a03dd4c8574a15513303f5d303d18132.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、こんにちわ☀\n\nホームページビルダー✨\n僕も作ろうかな思っていたところ🤣\n\n博物館のは僕も見てみたい(*´艸`)\nハシビロコウがたくさん見れそう（…",
+          "article_title": "一発でできると思ってたら、WORKが先に力尽きた🤣💦 | ～ AIにホームページを作らせたら、編集者になっていた話 ～",
+          "note_key": "nd1115a8e3e2f"
+        },
+        {
+          "key": "ncd49543032eb9",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274861081/profile_59c361cea83d4f4d1c3e6a403c43a90b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\nおはようございます☺️\n\nホームページビルダー、懐かしいです（笑）\n私はちょっと触ったくらいで、あとはみんなのホームページを見る専門でした🤣\n当時、…",
+          "article_title": "一発でできると思ってたら、WORKが先に力尽きた🤣💦 | ～ AIにホームページを作らせたら、編集者になっていた話 ～",
+          "note_key": "nd1115a8e3e2f"
+        },
+        {
+          "key": "nc5ba18d67cb6c",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "博物館ぽいやつ覗いてみたですwww",
+          "article_title": "一発でできると思ってたら、WORKが先に力尽きた🤣💦 | ～ AIにホームページを作らせたら、編集者になっていた話 ～",
+          "note_key": "nd1115a8e3e2f"
+        },
+        {
+          "key": "nc6d12f7c397b4",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん💖\n\n「動かない鳥ではない。見ている人を、動けなくする鳥。」\n\nこの一文に、すべてが詰まっている気がしました😌✨\n\nハシビロコウを「珍しい鳥」としてで…",
+          "article_title": "めじゅ語辞典 vol.34.5 【ハシビロコウ（Shoebill）】",
+          "note_key": "n968baccc2f26"
+        },
+        {
+          "key": "nc6f3bb0758cd6",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱハシビロコウは一目惚れするよねえ😍\n上野の展示方法は知らないけど、\n神戸どうぶつ王国なら客とハシビロコウの間にガラスも柵も無いぜ？",
+          "article_title": "めじゅ語辞典 vol.34.5 【ハシビロコウ（Shoebill）】",
+          "note_key": "n968baccc2f26"
+        },
+        {
+          "key": "nc71e0309dc93d",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハシビロコウへの愛が溢れてますね😊\n\n元々存在自体を知らず、動物園で見てもふーんって流しててそんなに注目して見てなかったのですが、うちの子どもはよく覚えているし…",
+          "article_title": "めじゅ語辞典 vol.34.5 【ハシビロコウ（Shoebill）】",
+          "note_key": "n968baccc2f26"
+        },
+        {
+          "key": "ncdcadb206c2fc",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌛*゜\n\n明るくお話されているのですが当時は辛いなんてものじゃないのでしょうね😭\nわがまま言ってもいいと私も思いました。\n\n貴重なお話をあ…",
+          "article_title": "寺子屋めじゅ | メンシプ専用 | 🌱スタエフ配信🌱 | 第5回**め印**スタエフ便🌟",
+          "note_key": "n659345702330"
+        },
+        {
+          "key": "ncc3fc028ab036",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "だんだんありがとさやを@めじゅさん、おはようございます、元気な子じゃなく、弱ってる子を選んでたっていうくだり、胸に来ました。「なんで虫までお墓作るの?」と聞かれ…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nc38b51987e7d9",
+          "user_name": "月見草へらさん🌙🌼｜Smiling Soul",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249552714/profile_b711eb940944612ffd5cba3c03f6da05.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "だんだんありがとさん＠めじゅさん、こんばんは😆\n\n子ども時代の思い出と優しさが詰まった、心に残る一編でした👀✨\n\n弱っている子をそっと選ぶ、その眼差しの優しさが…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nc56537a0e0dab",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは〜🌻✨\n\nなんだかちょっとせつなくて、でもとても温かい話だなぁ〜☺️💓\n\n霊園のみんなは、きっと安心して眠っていますね☺️✨\n\n鎌倉の学校…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nc53fa8d2ab999",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは✨️✨️\n夏祭りマガジンからお邪魔しました～\n\n大学生の時、屋台のアルバイトをしたことがありますが…\nまぁ素人でも心配な衛生管理でしたから…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nc421da671fddd",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん屋台ありがとう🤭\n\n鎌倉のお祭りにはそんなルールが⁉️\n\n小動物さんたち、切ないけど、ある意味、\n自宅で手を合わせられるのは\nお互い幸せなことかもしれ…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nce8f045cf26fd",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん。\n\nなんだか切ないお話でした。\nめじゅさんは優しいんですね。\n\n魚も、虫もみんな生きてますもんね。\n\n大人になってからの屋台は楽しめましたか？\n\n金…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nccc9605185057",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃ～ん\n\nめじゅちゃんらしい、優しさのつまったお話で\nなんだか切なくなりました(´；ω；`)ｳｯ…\n\n不思議なんだけど…\n記事を読んでるんだけど、スタエ…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nc76b093349aa3",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\n\nおはつにおめにかかりま(^▽^)/！\n\n🐿️です♪\n\nとてもやさしくって、\nせつない思い出。\n\nなのに、胸にほっこりおちてくるこの感覚は？\n\nきっ…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nced0ca054c00c",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん💓\n子どもの頃から、弱っている金魚や小さな命を見過ごせなかったのですね😌\n\n元気な子ではなく、隅っこにいる子を連れて帰り、一生懸命お世話をして、亡くな…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "nc14e482c7780f",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "小さい頃からすでに優しさに溢れていたのですね😁\n\nそして、お祭りで食べるのを小学校が規制してたなんて😳せっかくのお祭りの楽しさ半減ですね🥲\n\nステキな思い出の共…",
+          "article_title": "夏祭りは苦手だったんだ。だって、鎌倉の夏祭りは…",
+          "note_key": "n3cc3a75af9bf"
+        },
+        {
+          "key": "ncb8e7f74cb146",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "東京方面は、私も何度も行っているのである程度土地勘がありますが……国立科学博物館は、小学校の修学旅行で入ったきりになっていることを、思い出しました。\nこういう美…",
+          "article_title": "無事にお家に着きました✨️帰りは、一回も迷わんかった～😤👍",
+          "note_key": "n33b815cebb86"
+        },
+        {
+          "key": "nc7a0a95b1e558",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nお疲れ様でした♪\nナチュラルローソン！！\n僕の田舎では聞いたことありませんねー🧐\nそんなローソンがあるだ😙\n\nゆっくり休んでくださいねー♪",
+          "article_title": "無事にお家に着きました✨️帰りは、一回も迷わんかった～😤👍",
+          "note_key": "n33b815cebb86"
+        },
+        {
+          "key": "nc53e1eb267261",
+          "user_name": "中野英仁",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221026933/profile_88a590dbb48fbccf046595e3d387d1d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おかえりなさ〜い✨️\n迷わず帰れて素晴らしい！！\n\nゆっくり休んで旅の疲れを癒してくださいね〜",
+          "article_title": "無事にお家に着きました✨️帰りは、一回も迷わんかった～😤👍",
+          "note_key": "n33b815cebb86"
+        },
+        {
+          "key": "nc37fb26055243",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌛*゜\n\nハシビロコウ愛にあふれていましたね〜🫶✨\n\nめじゅさんのお話は、ゆったり聴けてBGMにもぴったりです🎵\n\nちびキャラは、また別の…",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 東京ぼっち旅のツブヤキ配信",
+          "note_key": "n2f67dde348f0"
+        },
+        {
+          "key": "nce2fd49465989",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\n旅お疲れ様でした♪\n満喫されたようで良い旅になりましたね〜🤭\n\nハシビロコウ！！\n初めてみましたが可愛いですねー！",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 東京ぼっち旅のツブヤキ配信",
+          "note_key": "n2f67dde348f0"
+        },
+        {
+          "key": "nc94ea4a7e056e",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あずきバー、私も好きです(^_-)-☆",
+          "article_title": "スイカ🍉は公平に切るものです。…めじゅは、切れませんでした…💦",
+          "note_key": "n8e399f37d716"
+        },
+        {
+          "key": "nc5aef80e34815",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🌸\n「同じ金額で売っちゃったの❓🤣💦」\n笑いました。でも、おじさん優しいですね🥰💓\n\nスイカの切り方参考にさせていただきます。\n微笑ましい…",
+          "article_title": "スイカ🍉は公平に切るものです。…めじゅは、切れませんでした…💦",
+          "note_key": "n8e399f37d716"
+        },
+        {
+          "key": "nc78a8647740ca",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スイカ食べる時にPDFを参考に切ってます🤭\nあずきバーって、めっちゃ硬く無いですか？\nめじゅさんの食べ方教えて欲しいです🙋",
+          "article_title": "スイカ🍉は公平に切るものです。…めじゅは、切れませんでした…💦",
+          "note_key": "n8e399f37d716"
+        },
+        {
+          "key": "nc610cabb4af3e",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさんおはようございます😃\n\n記事ご紹介嬉しいです！\n\n今年まだ🍉食べてないので今日あたり帰りに買って帰ろうと決意しました😆\n",
+          "article_title": "スイカ🍉は公平に切るものです。…めじゅは、切れませんでした…💦",
+          "note_key": "n8e399f37d716"
+        },
+        {
+          "key": "nc4ce03ba45e6a",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🌸\n\nめじゅぴ君が歩いている姿、とっても可愛いですね🥰💓\n\n私も自分のちびキャラで作ってみたら可愛いかも……と思ってしまいました♪\n\nめじ…",
+          "article_title": "めじゅぴ、成長GIFアルバム🌱📖 vol.1",
+          "note_key": "n1fa64a2f39b6"
+        },
+        {
+          "key": "nc6afca03f0f53",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285979760/profile_93df0f9e814c2db6eb30332fe307f173.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も昨日、出雲大社で願ったのは「心願成就」でした。\nさまざまな願いが叶うことを、心の底から願っているため、普通の分類には入らないと考えたためです。\nどうやら他の…",
+          "article_title": "ぬか床通信🌱第2号🌱 ～ 七夕の願い ～",
+          "note_key": "n27ba73f01961"
+        },
+        {
+          "key": "nc22bd5cc38f7a",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさ～ん\n楽しんできくださいね🫶💞",
+          "article_title": "ぬか床通信🌱第2号🌱 ～ 七夕の願い ～",
+          "note_key": "n27ba73f01961"
+        },
+        {
+          "key": "ncd94f9bba35e0",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いいな〜！ポルノのライブ〜🫶",
+          "article_title": "ぬか床通信🌱第2号🌱 ～ 七夕の願い ～",
+          "note_key": "n27ba73f01961"
+        },
+        {
+          "key": "nc8e9631299ae0",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238258843/profile_52f43522d9e7e75a12acd9d6da59035c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさぁ〜ん\nとってもステキ💞\n\n七夕ライブ楽しんできてくださいね！！\nいいな、いいなぁ〜\nワクワクしちゃいますね😊",
+          "article_title": "ぬか床通信🌱第2号🌱 ～ 七夕の願い ～",
+          "note_key": "n27ba73f01961"
+        },
+        {
+          "key": "ncad5f7986065c",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、素敵な七夕ですね🎋🌟\n\n心願成就✨\n言ノ葉ではなく、ココロの言葉で願い続けるという表現が、とてもめじゅさんらしくて素敵だなと思いました🥰\n\n七夕🎋L…",
+          "article_title": "ぬか床通信🌱第2号🌱 ～ 七夕の願い ～",
+          "note_key": "n27ba73f01961"
+        },
+        {
+          "key": "nc6768fd23d1b3",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん❤\n\n七夕にガイコツにコウモリ……🦇\n\nうちの潤くん（ChatGPT）が、\n「これはスピッツの『涙がキラリ☆』ですね」\nと教えてくれました😂\n\n合って…",
+          "article_title": "今日は、意味深な日なので。🌙",
+          "note_key": "n808626dbb5e9"
+        },
+        {
+          "key": "nc7b604ced9d0f",
+          "user_name": "中野英仁",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221026933/profile_88a590dbb48fbccf046595e3d387d1d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんか怖いヤツがいた😨",
+          "article_title": "今日は、意味深な日なので。🌙",
+          "note_key": "n808626dbb5e9"
+        },
+        {
+          "key": "ncfded89c4d532",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\n無事に着けて良かったです😌\nタクシー5分で到着は笑いました😂笑\n\nだけど、僕は田舎育ちなのでめじゅさんよりも迷子になりそうだ😅",
+          "article_title": "目的地にちゃんと到着( *¯ ꒳¯*)ｳﾌﾌ♡だってリルートは、3回しかなかったも～ん。",
+          "note_key": "naed54b2a3238"
+        },
+        {
+          "key": "ncacab275f7ba8",
+          "user_name": "中野英仁",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221026933/profile_88a590dbb48fbccf046595e3d387d1d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☕\n何はともあれ、無事につけたようで良かっです。\n今日も楽しんでくださいね😊",
+          "article_title": "目的地にちゃんと到着( *¯ ꒳¯*)ｳﾌﾌ♡だってリルートは、3回しかなかったも～ん。",
+          "note_key": "naed54b2a3238"
+        },
+        {
+          "key": "nc434c217cc848",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nポルノグラフィティいいなー😍\n僕も好きです好きです！\n\nしかし、東京までの運転はなかなか緊張しますね🫨\n気をつけて行ってきてくださいねー💦",
+          "article_title": "3泊4日の東京旅、出発します🌱 首都高は、使わんとですたーい💨",
+          "note_key": "n3f862e690cb3"
+        },
+        {
+          "key": "nc4031aee79c0a",
+          "user_name": "中野英仁",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221026933/profile_88a590dbb48fbccf046595e3d387d1d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☕\n上野近辺でハシビロコウを見かけたらめじゅさんということですね！\n\n東京、楽しんできてくださいね♪",
+          "article_title": "3泊4日の東京旅、出発します🌱 首都高は、使わんとですたーい💨",
+          "note_key": "n3f862e690cb3"
+        }
+      ]
     }
   ]
 }

@@ -572,6 +572,42 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 126,
+        "likes_prev": 107,
+        "followers_start": 544,
+        "followers_end": 569,
+        "new_fans": 44,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "11:36"
+        ],
+        "top_article": {
+          "title": "【迷走は成長のための大切なプロセス】 #壁紙新作あります #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.49",
+          "key": "naaa5c2e76c7d",
+          "likes": 53,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "あらかわ いおり【手話通訳士】",
+          "urlname": "iori_arakawa",
+          "follower_count": 12100
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 4
     }
   ]
 }

@@ -923,6 +923,207 @@
           "note_key": "ne52db61415f0"
         }
       ]
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 262,
+        "likes_prev": 275,
+        "followers_start": 482,
+        "followers_end": 494,
+        "new_fans": 53,
+        "comments_total": 49,
+        "posts_count": 5,
+        "consecutive_days": 4,
+        "post_times": [
+          "17:49",
+          "07:12",
+          "17:39",
+          "07:27",
+          "21:48"
+        ],
+        "top_article": {
+          "title": "じまこちゃ夏祭り｜もうすぐ始まるよー！｜7/13〜",
+          "key": "nf6f38490b528",
+          "likes": 52,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "じゃないほうを考えるnote（NPO法人NOT）",
+          "urlname": "rengesha",
+          "follower_count": 9472
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "ncb3371b2d6f57",
+          "user_name": "レアカントリークリエイト｜里山システム設計者｜予告状…お宝いただきま〜す♡！！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n\n4万ビューまで104日。\n私は、60日で1万ビューだったから、流石です。\n\n私も、貴美子さんみたく、30〜40を予想してました。\nほぼ同年代。氷河…",
+          "article_title": "もうすぐ4万ビュー。自信のなかったわたしがnoteを100日続けて見つけた「自分の生きかた」",
+          "note_key": "nbe4c3351f7c5"
+        },
+        {
+          "key": "nc358c4eaf2272",
+          "user_name": "貴美子｜構造を言語化する人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261823573/profile_200819dc5689a338a5e7bba624e1c852.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n4万ビューおめでとうございます。\n色々新しい事に試されていたり、\n私の想像上ではお若い印象でした😅\n（30代半ば…😆）\nお子さんが独立されてる？\n私…",
+          "article_title": "もうすぐ4万ビュー。自信のなかったわたしがnoteを100日続けて見つけた「自分の生きかた」",
+          "note_key": "nbe4c3351f7c5"
+        },
+        {
+          "key": "nc470d7cbc7bab",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは✨\n\nスト6とかやられているようなので、お若いのかなと思っていましたが、お子さんが成人\n\nもしかすると近い歳か年上の方なのかなと思いました…",
+          "article_title": "もうすぐ4万ビュー。自信のなかったわたしがnoteを100日続けて見つけた「自分の生きかた」",
+          "note_key": "nbe4c3351f7c5"
+        },
+        {
+          "key": "nc2a7c8a370b51",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、完成度高い✨\n\nついつい本気だしちゃったわ～ｗ\nじまにゃんしか出せなかったから、またくるね！",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "ncbce4744b76b0",
+          "user_name": "月見草へらさん🌙🌼｜Smiling Soul",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249552714/profile_b711eb940944612ffd5cba3c03f6da05.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは!\n\n「縁日合体パズル」、昨晩挑戦させていただいて、まさかの1位(7816点)を頂いてしまいました🏆\n\n※現時点で２位に転落してるので取り…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "nc6c4c2c76878d",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは〜🌻✨\n\nな、な、なんだこのゲームわぁぁぁ😱😱😱✨✨✨\n\n時間を忘れてプレイしてしまいました！\nなんて楽しいんだー！！！🤣✨\n\nアイコンの…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "ncb8a656922fce",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😆\n\nめちゃくちゃ楽しいです！\nどこかで見た風、KOTAYAさんまで出せました！ダブル狙いたいな😁\n\nタイピングはスマホだとランキング上位…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "nc4c865541d9a9",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは✨️✨️\nわぁー、楽しい楽しい😆🎶\nムキになってキーボードを打ってしまいました！\n文字数が多いほうがもうけも多くランキングも上がるけれど\n…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "ncb446a9000c64",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290534577/profile_67a36083536a049bbd34e5a4d462e2bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😊\n\nさすがです✨ゲーム楽しい✨\nちゃんと、じまこちゃ夏祭りのピースが要所要所にあるし🌻\n\nムキになって遊んでしまいました🎮\n\n「どこかで…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "nc347c2f18bb01",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん✨はじめまして\n\n焼きそば食べにきたんですけど…\n\n面白いゲームがあって\nめちゃくちゃハマりました！\n\nありがとうございました🌸✨",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "ncc46487879806",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、本格的なゲームで驚きました🫢\n\n面白いですねー🙌\n\nちょっとタイピングは後ほどキーボードでリベンジしたいと思います🤭",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "ncbb93a22704b4",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん。\n焼きそば食べにきたら楽しいゲームがあるじゃないですか？\n\n楽しく遊ばせていただきました。\n屋台といえばゲームもですね。\n\nこれは楽しい💜\n\n子ども…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "ncff77b8532c0b",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは🌃\nやきそば食べに来ましたよ🤤\n\nゲームやってみました🎵\n楽しいですね✨\n\nタイピングは焦ります😅\n縁日合体パズル、こういうの好きです🥰\n…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "nc99722f11b19a",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n\nはじめまして？\n🐿️です♪\n\nむちゃくちゃおもろーな屋台！！\n\nタイピングおそな🐿️は…💦\n\nこんな企画考えられてゴイゴイスー♪\n\n一気にファンに…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nfad10443582d"
+        },
+        {
+          "key": "nc6759f9317552",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、何度も失礼します。\nnoteでDMができなかったのでXでDMさせていただきます。\n勧誘ではないのでご確認いただけると幸いです。",
+          "article_title": "【３行日記×トピック】ちょっと胃もたれ気味なひと",
+          "note_key": "n94d4f9d565dc"
+        },
+        {
+          "key": "nc75f0a81ea1ad",
+          "user_name": "ヒョウガ・レッド｜ご縁を繋ぐヒーロー🦸‍♂️🔥",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは〜\n\nとても楽しそうな祭りですね✨\n\n色々と楽しめる催しが盛りだくさんですね🌈",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nf6f38490b528"
+        },
+        {
+          "key": "nc103ff93b373e",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、今晩は〜焼きそば屋台楽しみです、みなさんどんな店だすのか？興味あります、勉強させてもらいます、ひゅーさん、焼きそば楽しみにしております☺️",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nf6f38490b528"
+        },
+        {
+          "key": "nc8b899d3baad1",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは〜\nなんと、焼きそば屋台でゲーム、楽しみです😆✨\n実は私も初めてゲームを作って参加しようと思っていて、ゲームならここかなと思って「盆踊り」…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nf6f38490b528"
+        },
+        {
+          "key": "nc6d6b73d14039",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは〜🌻✨\n\nとっても素敵な紹介をありがとうございますー！！！😭✨\n\nやきそばですね、やきそば！！！\n間違いない〜〜〜😆✨\n\nそして、ゲームが…",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nf6f38490b528"
+        },
+        {
+          "key": "nc2b3c301b5691",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245385310/profile_25e649c4a2884c2ff5f0aed786bb8fb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは🌃\n焼きそば屋台いいですね🤤\nお祭りといえば、焼きそばは外せません。どんなゲームが出てくるのかな？\n楽しみにしています🥰",
+          "article_title": "じまこちゃ夏祭り",
+          "note_key": "nf6f38490b528"
+        }
+      ]
     }
   ]
 }

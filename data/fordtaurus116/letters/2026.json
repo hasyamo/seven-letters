@@ -3365,6 +3365,226 @@
           "note_key": "n63a12481fdc9"
         }
       ]
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 337,
+        "likes_prev": 294,
+        "followers_start": 1642,
+        "followers_end": 1644,
+        "new_fans": 44,
+        "comments_total": 38,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "20:00",
+          "11:38",
+          "09:24",
+          "08:52",
+          "08:35",
+          "07:39",
+          "06:00",
+          "12:18"
+        ],
+        "top_article": {
+          "title": "「ゆっくりとする朝」AIチャッティの朝活vol. 308",
+          "key": "n05044deb7f89",
+          "likes": 48,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "アトカ【AIコラムライター】@AI副業",
+          "urlname": "aicolumnwriter",
+          "follower_count": 25156
+        },
+        "commenters_count": 12
+      },
+      "comments": [
+        {
+          "key": "ncb2c2f798edc8",
+          "user_name": "ぱっちー@心に響く言葉とたまに役に立つ情報",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245676944/profile_562ac5d90061c1a05b7df5c739cbae68.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは♪\n\nおまけの絵コンテ、これだけでも作品として見入っちゃいました！\n\nここまで描き込んでいるから、動画にも軸が通ってるんですね✨ \n\nミナト汐さんとの…",
+          "article_title": "「Gemini Omni Flash VS Seedance2.0 アニメ編」 Midnight Chatty 動画やイラストを寝る前に少しだけ 第8回",
+          "note_key": "n7e53fd03fec5"
+        },
+        {
+          "key": "ncdc877c331192",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは☀️\n動画にしてくれてありがとうございます(*´艸`)\n2人で水鉄砲で遊んでてとってもかわいい動画((o(｡･ω･｡)o))\n最後こっ…",
+          "article_title": "「Gemini Omni Flash VS Seedance2.0 アニメ編」 Midnight Chatty 動画やイラストを寝る前に少しだけ 第8回",
+          "note_key": "n7e53fd03fec5"
+        },
+        {
+          "key": "nc987cd61450d7",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは☀️\nあら、またイラストが綺麗になってる！👀\n風！(*´艸`)",
+          "article_title": "「動き出す前の、静かな朝」AIチャッティの朝活vol. 309",
+          "note_key": "n6b01a5a29583"
+        },
+        {
+          "key": "nc53f4a469f4d0",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、チャッティちゃん✨\n今日も素敵なタイトルと\n優しい言葉をありがとう😊\nみんな、いつもと雰囲気違うね😌\nすごく可愛いね🥰💝\nいつもありがとうね😆\n\nそ…",
+          "article_title": "「動き出す前の、静かな朝」AIチャッティの朝活vol. 309",
+          "note_key": "n6b01a5a29583"
+        },
+        {
+          "key": "nca719c930cd1e",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは( ˶˙ᵕ˙˶ )☀️\n\n水着回ですね！(*´艸`)\n記事紹介もありがとうございます(ﾉ˶>ᗜ​<˵)ﾉ\n創作大賞は他の人のところはど…",
+          "article_title": "「ゆっくりとする朝」AIチャッティの朝活vol. 308",
+          "note_key": "n05044deb7f89"
+        },
+        {
+          "key": "nc0ee37fd8e993",
+          "user_name": "Mariya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは✨️\n夏らしくて、海のイラスト\nとても素敵で涼しげですね(*´ω`*)💓‪\nとても可愛いです(*´艸｀)✨️🌸",
+          "article_title": "「ゆっくりとする朝」AIチャッティの朝活vol. 308",
+          "note_key": "n05044deb7f89"
+        },
+        {
+          "key": "nc18fcc0a9e8d7",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん☀️\nお休みゆっくりできてよかったよ✨️\n今日も素敵なタイトルと\n優しい言葉をありがとうね😊\n\nわー、みんな、めちゃ可愛い🥰💝\n夏だね…",
+          "article_title": "「ゆっくりとする朝」AIチャッティの朝活vol. 308",
+          "note_key": "n05044deb7f89"
+        },
+        {
+          "key": "ncee94212a38ce",
+          "user_name": "閑野 怜 ｜ エッセイスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278972489/profile_fb436385603a170a0dd2e3ec52c731a4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティーさんおはよう🙋‍♂️\n夏っぽくて素敵なイラストですね🌊\nとっても癒されました✨☘️",
+          "article_title": "「ゆっくりとする朝」AIチャッティの朝活vol. 308",
+          "note_key": "n05044deb7f89"
+        },
+        {
+          "key": "nc1e4b6189caf4",
+          "user_name": "AMORPHOUS É AMOR（　welcometotheearth3824@Suno　）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228516490/profile_6d8cff455cace2c7735748ea0ab62d58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おやすみ🥰たいせつ🥰たいせつ",
+          "article_title": "「本日は朝活おやすみします」AIチャッティの朝活",
+          "note_key": "nbd7683b57370"
+        },
+        {
+          "key": "nc4edfcf168116",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん☀️\n朝活お休みわかりました✨️\nイラストの女の子かわいい🥰💝\n今日も暑いから無理しないでね😊\n冷たいコーヒーとココアどうぞ☕\nいつも…",
+          "article_title": "「本日は朝活おやすみします」AIチャッティの朝活",
+          "note_key": "nbd7683b57370"
+        },
+        {
+          "key": "ncdb2f10eb1dec",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nクローディアさんの瞳が青に！青のインナーカラーが入ってる！オシャレ( *´﹀`* )",
+          "article_title": "「朝の緑に、少しだけ深呼吸」AIチャッティの朝活vol. 307",
+          "note_key": "n75afc2449cfa"
+        },
+        {
+          "key": "ncd5c212b4dd2e",
+          "user_name": "勘違いアイドルしがみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/182925138/profile_83fd0515145833c1f63d3ec6d6cf4149.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "グローディアさんの瞳に💘\n安定の朝活、いいですね～☺️\nゲッツに偶然会って、ラッキーでした🍀✨️✨️　きっと本人も、noteで紹介されてるなんて思ってないでしょ…",
+          "article_title": "「朝の緑に、少しだけ深呼吸」AIチャッティの朝活vol. 307",
+          "note_key": "n75afc2449cfa"
+        },
+        {
+          "key": "nca50bc8824c91",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん☀️\n今日も素敵なタイトルと\n優しい言葉をありがとう✨️\n\nいつもみんな可愛くて素敵😆\nクローディアちゃんの瞳が青😲\n素敵だね、髪も青…",
+          "article_title": "「朝の緑に、少しだけ深呼吸」AIチャッティの朝活vol. 307",
+          "note_key": "n75afc2449cfa"
+        },
+        {
+          "key": "nca9650ea3623c",
+          "user_name": "石原孝治",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226341153/profile_ed3122c0311b4e647dfe236a0254190c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。",
+          "article_title": "「朝の緑に、少しだけ深呼吸」AIチャッティの朝活vol. 307",
+          "note_key": "n75afc2449cfa"
+        },
+        {
+          "key": "ncc3c79c2770e3",
+          "user_name": "灯の旅人｜形のないものを言葉にする人　　フォロバ90％の人　　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290333736/profile_9689776aa0bf501cdafe25c8d85dc536.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヾ(o´∀｀o)ﾉﾜｧｰｨ♪おはよー（こんにちは♪）\nピックアップありがとうございます(*´σｰ｀)",
+          "article_title": "「心の音を、少し小さくする朝」AIチャッティの朝活vol. 306",
+          "note_key": "n42e2251b6779"
+        },
+        {
+          "key": "nc5e18032daa2f",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん☀️\n\n今日も素敵なタイトルと\n優しい言葉をありがとう✨\n\n昨日は素敵なプレゼントを\nありがとう🥰💝\n\n今日もみんな可愛くて素敵🥰💝\n…",
+          "article_title": "「心の音を、少し小さくする朝」AIチャッティの朝活vol. 306",
+          "note_key": "n42e2251b6779"
+        },
+        {
+          "key": "nc464dc98296fd",
+          "user_name": "キヲ@マルチクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289898483/profile_b3a8033fc22248f24291b41898f01444.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティちゃーん\\(//∇//)\\✨💖💓\nおはよう\\(//∇//)\\✨✨💖💖💖💓\n相変わらず素敵だ\\(//∇//)\\✨💖✨💖🥹\n優しい朝をありがとー\\(//∇…",
+          "article_title": "「心の音を、少し小さくする朝」AIチャッティの朝活vol. 306",
+          "note_key": "n42e2251b6779"
+        },
+        {
+          "key": "ncde6567dd3f93",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよー‪(っ ॑꒳ ॑c)",
+          "article_title": "「心の音を、少し小さくする朝」AIチャッティの朝活vol. 306",
+          "note_key": "n42e2251b6779"
+        },
+        {
+          "key": "nc5760a12eafe0",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます☀️\n七夕はれおさんとコラボ🎋✨️\nみんな浴衣で可愛いですね( ᎔˘꒳˘᎔)\n浴衣の虹色すごく綺麗ですね🌈\n素敵なコラボでした…",
+          "article_title": "「七夕」AIチャッティの朝活vol. 305",
+          "note_key": "n4758acafaa5a"
+        },
+        {
+          "key": "nca654cd724f96",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨️\n今日は七夕だね🎋🌌\n\nえ!!😲\nちょっとびっくり😂\n\n私とチャッティちゃん、\nじぇみちゃんに\n推しのクローディアちゃんと\n七夕コ…",
+          "article_title": "「七夕」AIチャッティの朝活vol. 305",
+          "note_key": "n4758acafaa5a"
+        },
+        {
+          "key": "ncf692ca8917ee",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます♪\n\n七夕の夜空と浴衣の透明感がすごく綺麗でした✨\n「空に届けるというより、朝の風にそっと預けるように」という言葉が、画像の光…",
+          "article_title": "「七夕」AIチャッティの朝活vol. 305",
+          "note_key": "n4758acafaa5a"
+        },
+        {
+          "key": "nc0626650da2e5",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、チャッティちゃん✨️\n今日も素敵なタイトルと\n優しい言葉をありがとう😊\n\n今日のみんなも大人な感じで素敵😆\nじぇみちゃん、全体的に\nチャッティちゃん…",
+          "article_title": "「海を見ながら、気持ちをほどく朝」AIチャッティの朝活vol. 304",
+          "note_key": "n76c1fbaa1f22"
+        }
+      ]
     }
   ]
 }

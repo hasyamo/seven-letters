@@ -5421,6 +5421,472 @@
           "note_key": "n591b7ec37f46"
         }
       ]
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 1156,
+        "likes_prev": 1284,
+        "followers_start": 1274,
+        "followers_end": 1282,
+        "new_fans": 98,
+        "comments_total": 98,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "13:44",
+          "19:16",
+          "18:00",
+          "23:30",
+          "20:29",
+          "12:06"
+        ],
+        "top_article": {
+          "title": "満たされたら、人は頑張れなくなるのか？",
+          "key": "nc13524d5d80a",
+          "likes": 257,
+          "comments": 29
+        },
+        "notable_reader": {
+          "name": "ほしの遥華",
+          "urlname": "hoshinoharuka33",
+          "follower_count": 9585
+        },
+        "commenters_count": 38
+      },
+      "comments": [
+        {
+          "key": "ncdf6b45e27f5f",
+          "user_name": "なおしびと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288717669/profile_911457cbbe22861dc2390f6ece2f5ad1.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "有料の記事を今後増やしていくのでとても参考になります😊",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc126663563c86",
+          "user_name": "ハゲポッコリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232774139/profile_3ba1074548b0a18d189e6a95912c76e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nいつもマガジンへの掲載、ありがとうございます。引き続き 減量 頑張ります（笑）",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nca0d1f264f7e6",
+          "user_name": "ゆらりん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/180640856/profile_6111b8f6e4dbd6692780d33bc800f6cb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま\n\nこんばんは！\n\n今日もぼくの短歌をマガジンでご紹介いただき、ありがとうございます！\n\n頑張るチカラをいただけるようで、嬉しいです！\n\nこれからも…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "ncb426f3e03c2f",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは♪\n\n最後の、\n『突然、小難しい話を始めたでしょ？』からのところ✨\n\nこの感じがすごく好きです😊\nさすがですね💖",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc08c7a4d21e17",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま　こんにちは\n私の記事をマガジンにお仲間入りさせて頂き、\nありがとうございました。\nご縁に感謝♡これからもどうぞよろしくお願いします(o^―^o)",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "ncbf71c60f0f1c",
+          "user_name": "ゆらりん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/180640856/profile_6111b8f6e4dbd6692780d33bc800f6cb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま\n\nこんばんは！\n\n今日もマガジンで短歌をご紹介いただき、ありがとうございます！\n\n応援していただけると、「一人じゃない」と思えて勇気がもらえます！…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc22ccdb75ecd7",
+          "user_name": "ゆらりん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/180640856/profile_6111b8f6e4dbd6692780d33bc800f6cb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま\n\nはじめまして！\n\nぼくの短歌をマガジンで紹介していただき、ありがとうございます！\n\nとても嬉しいです^^\n\nこれからも、よろしくお願いしますm(…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc2fb4b889e573",
+          "user_name": "日向ことり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292682006/profile_e1123b7cfb406a3c4239391d9fe0a1b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\nマガジンに追加して下さり、ありがとうございます🥺💞\n\n本棚に並べて頂いて幸せです🥺🥺💝\n\nこれからもよろしくお願いします❣️",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc8d29250d798f",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n「追い詰められないと、\nやる気と行動力が湧いてこない人間」\n\n私も同じです…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc2766687ef736",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは\n\n不足を燃料にしてきた、という\nその正直な一行に引き込まれました\n\nかつて欲しかった暮らしの中に\n娘さんたちがいるという景色から\n恐怖…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc32af3cf83cf6",
+          "user_name": "いくちょのやさしい毎日",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_5-043439195e40e86fd7641a3a1daf982637d77ec6f14b67d3fc98ab92374404ac.png",
+          "body": "よしひろさん😊\nとても素敵なメッセージをありがとうございます✨益々、よしひろさんの魅力に吸い込まれそうになりました✨😊そして今回の記事も素敵で\n『人間万事塞翁が…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc13b12a08aac1",
+          "user_name": "パタコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287083278/profile_6318ae2666d33efeda6208009c0cf0b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n\nちょっと前、\n同じことを考えていました。\n\nある程度の不満、不足感、エゴは\n人の言動力になるのかも？\nと同じところに辿り着きました…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "ncb6a875e37007",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\n好奇心や楽しさ、誰かを喜ばせたい気持ち。\nこんな素敵な原動力があれば、どんどん色んなことができそうな気がします。\n\n社会派で知的な…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc216afc7294c7",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287069680/profile_cf6dcabd14785d5901b13c5232352b8f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは✨\n\nわかります。息子も同じです。\n産まれた時からタブレットやおもちゃなど何でも揃っていたので、\nどうかなあ？と思うこともありました😅",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc222bbf860e94",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、たしかに満足したら努力しないのかもしれませんね。\nでも知れば知るほど、やりたいことが増える面もあります。\nあとは、どうやってガードレールを決めるか…",
+          "article_title": "満たされたら、人は頑張れなくなるのか？",
+          "note_key": "nc13524d5d80a"
+        },
+        {
+          "key": "nc2d1a83da0120",
+          "user_name": "musicat/おとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237713470/profile_2774fda1b9199e603d2c82ed8a8bc97d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どこもかしこもサギ鷺🐔←？\nnote運営からしつこいくらい注意喚起が出るので、なんか出たんだなとは思っていました。\nよしひろさん、有名人だからね。\n気をつけます…",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nce8f666d8d50a",
+          "user_name": "Noa",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269973521/profile_77ebb6ddc767747de9bb5bfef312b21b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nいつもマガジンに追加いただきありがとうございます💐\n注意喚起ありがとうございます！\nまだnote始めたばかりなので、本当に助かります🥺\n気をつけた…",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc9664c8b57348",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんわ🌙\n私はまだないですが、noteにまで…\n詐偽…💦気を付けたいと思っています。",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc513780673cb2",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も来ました。\n怖いので、削除しました！\n注意喚起ありがとうございます！",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc67b253d3bcdb",
+          "user_name": "rika🌷",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238910767/profile_373a9816961e0c2decd5f9e33be51347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みなさんの投稿見てなかったら、絶対押してた気がします……💦\nまだ来てないから、見てみたい気もします🫣",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc9276122ff549",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\n注意喚起の記事がみなさん出されていますね！\n\nなのでありがたいです！\n\nうちには届いていなかったのですが、、\n本当気をつけないとですね、、\n\nこ…",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc36bb6780b243",
+          "user_name": "明日美",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217559501/profile_34904e7686562050d757fabcd2f7b1a9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nマガジン追加、ありがとうございます😊\n\n詐欺メッセージの記事、ありがとうございます。\n「お、か、し」大事ですね。",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "ncec5611b3c534",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n\nなんかここ数日で詐欺メールが一気に多くなってきましたね😨😨😨\n\nたくさんの方がメールやコメントで来てるみたいで😨😨😨",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "ncffb63b84a31d",
+          "user_name": "ゆかいな山",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/187377393/profile_9f501afa0524739a6c4fab2d21d3de93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も昨日初めてきました💦別のアカウントからだったけど…\n平和と思ったnoteもこんなのあるんだなぁ…と思いました😅",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nceb7b3e25d102",
+          "user_name": "はるき　たかお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273944442/profile_0e83e59d79c363706ec1c458209fcf9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n\nいろいろとあるんですね。\n\n貴重な情報　ありがとうございます。",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc75a931c0f05a",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nいつもマガジン追加をして頂き\nありがとうございます😊\n\nっていうか、めちゃくちゃこわ‼️\n\n拝読しながら\nゾッとしました🥶\n\nこの内容だと\nうっ…",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nce2abdd1bda63",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242853208/profile_868cf0850d54d0a98ca0406d82454cfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばん⋯わぁ〜💦\n押しそうです•̀.̫•́✧ｷﾘｯ",
+          "article_title": "『お、か、し』押さない、書かない、信用しない",
+          "note_key": "n8b3efa2448cd"
+        },
+        {
+          "key": "nc845d4ed810db",
+          "user_name": "ふじ｜美容と健康",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332159/profile_964aac0fa36a6ce9899e20c8780e9aa4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま🌼\nこんばんはー☺️\n読ませていただきました。\nポジティブnoteありがとうございます。「自分自身が満足すること」、共感しました。同じ考え方です✨",
+          "article_title": "うまくいかない日でも、自分を軽くする考え方",
+          "note_key": "nc3053a0a1ea8"
+        },
+        {
+          "key": "ncf6c35dd26e58",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん😊\n\n「もうダメだ〜！」なんて、大の字に倒れ込みたくなる日もある😵\n\nこの一文に、「分かる〜😂」となってしまい、そのまま記事を購入させていただきまし…",
+          "article_title": "うまくいかない日でも、自分を軽くする考え方",
+          "note_key": "nc3053a0a1ea8"
+        },
+        {
+          "key": "nc1951c68ab474",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287069680/profile_cf6dcabd14785d5901b13c5232352b8f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌺\n\nとても参考になりました💞\n視点を変えるって大事ですよね✨\n\nその視点の変え方が\nちゃんと有料記事に書かれてあるので、\n皆さんにも読…",
+          "article_title": "うまくいかない日でも、自分を軽くする考え方",
+          "note_key": "nc3053a0a1ea8"
+        },
+        {
+          "key": "ncc6d6b8dfc396",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\n20万ビュー✨✨✨\n\n凄いですっ！😂\n\nよしひろさんは、やはり人格者だと思います✨✨\n気さくで人柄が柔らかく、\n少しでも関わりのある…",
+          "article_title": "前回の半分の期間で、20万ビュー達成間近✨つまり年末年始には……⁉",
+          "note_key": "n7b09eb123851"
+        },
+        {
+          "key": "ncc9941bea175c",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "200000！！！！！\nすごい数ですね！！さすがです！\n記事もめちゃくちゃ売れてますね！おめでとうございます！\n\n年末にはいったいいくつに？！\n（わくわく）",
+          "article_title": "前回の半分の期間で、20万ビュー達成間近✨つまり年末年始には……⁉",
+          "note_key": "n7b09eb123851"
+        },
+        {
+          "key": "nc76899b97cb6b",
+          "user_name": "いくちょのやさしい毎日",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_5-043439195e40e86fd7641a3a1daf982637d77ec6f14b67d3fc98ab92374404ac.png",
+          "body": "よしひろ師匠✨✨\n素晴らしいです✨✨\nご縁を大切にされているのが\n数字として出るのでしょうね😊✨\nずっと付いていかせてください😍",
+          "article_title": "前回の半分の期間で、20万ビュー達成間近✨つまり年末年始には……⁉",
+          "note_key": "n7b09eb123851"
+        },
+        {
+          "key": "nca76b249807c6",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nもうすぐ20万ビュー！！\nスゴすぎます👀\n\nその時々で書きたいことを書くの…",
+          "article_title": "前回の半分の期間で、20万ビュー達成間近✨つまり年末年始には……⁉",
+          "note_key": "n7b09eb123851"
+        },
+        {
+          "key": "nc3829185bf269",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242853208/profile_868cf0850d54d0a98ca0406d82454cfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nわぁ。七夕のお願い事が同じでしたね（笑）\n健康診断⋯何か昨年もせっせと体重落としてませんでしたっけ？😅💦\nワレワレハ、イッチョウイッセキデハケンコ…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "ncb14bea238300",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさーん\n\n「健康」\nsimple is bestな大事なお願い事ですね🙌\n\n7-23、Xデー\n頑張ってください🌈💪\n\nマガジンへの追加，いつもありがとう…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc306d40a8dc93",
+          "user_name": "星ママ | AI×主婦",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285635307/profile_2b8e8b24961e02daa82f47909dcfdb63.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん〜\nわぁ、七夕にnoteで願い事するの素敵ですね😊\nなんかね、健康診断前のドタバタ、すごくわかる〜って思いながら読んじゃいました(笑)\nうちも旅行の…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc111a39f62c85",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは。\nお久しぶりです。\nお元気ですか？\n\n私は少し生活がバタついていましたが、ようやく先行きが見え始めてきだところも出てきました😅\n\nさて…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nca84d6117c822",
+          "user_name": "Noa",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269973521/profile_77ebb6ddc767747de9bb5bfef312b21b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nディズニーとグアムの思い出の代償が返ってきたんですね…🫠\n「この日だけは」というフレーズに思わず笑ってしまいましたが、他人事とは思えないです😣\nア…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc0bed874ae4b2",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292319875/profile_a76080f1df5dcae5ec23a11c17a6c577.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすが👍順調に減ってきてますね〜　　🌈🌈\n\nいつもマガジンに追加してくださってありがとうございます💜💜",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nccb77172192ff",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も健康診断夏に控えてます😅\n体重、\n欲をいえばあと2キロ減らしたい😂\n\nそろそろ引っかかる項目がちらっと\n出てきました💦\nしかも、毎年違う場所🤣\nなんじゃ、ど…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc17ce7d54bb24",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nよしひろさんならきっとクリアすると思います😁\n頑張ってくださいね🔥\n\nいつ…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc80d34e346936",
+          "user_name": "にわにん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270210825/profile_59bff8dfeab1517ace4bbdb9589dbef9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "短い期間で体重を戻すことができるなんて！すごいスキル😆✨️\n\n俳優さんみたいです！\n私も7月25日に検診を予約してたの思い出しました。ちょっと筋トレしたくなりま…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc89439f92ffab",
+          "user_name": "めぐり",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_3-39088fff430aa9ec11d6e2a385dbcad45c8b79bde6c0c9ded10cd7abb960174f.png",
+          "body": "よしひろさん、こんばんは😊\nいつもマガジンに追加いただきありがとうございます♪\n\n少し増えた体重を、記録しながら、ちゃんと落としていらっしゃるのがすごいと思いま…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc3c618a0572be",
+          "user_name": "松島光希",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/47209009/profile_6d7727531e5ae20eab644ae394e92df8.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nマガジン追加ありがとうございます。",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc8f2c18de8cae",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんわ🌙\n\n「叶えるのは自分ですが😏」のタイトル、かっこいい！と思ったら体重のお話で笑ってしまいました🤣\n健康が一番の願い事ですよね🎋✨\n健康…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc8fd7f5cdf650",
+          "user_name": "Grace Light ─ 星に導かれて",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207757596/profile_ac58b5c0e389afdf3e43314b719edc42.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\n\n『健康』あっての日常だと思いますので、\nやはり大事ですよね😊🌿\n\nいつも、マガジンへ追加していただき\n本当にありがとうございます。\nとても嬉し…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc022f6f1699ab",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え！わたし\nよしひろさんと\n数キロしか違わないww\n\n最近有酸素運動と筋トレを\nしていますが\n健康診断こわいなー😂\n\n七夕🎋なので\nなにか和菓子を食べようと\n「…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc70ac356e20d8",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nよしひろさんの記事を読むまで、七夕のことをすっかり忘れていました😅お盆のお墓参りグッズを揃えていた今日…\n\n夜、星が出てないか…独り七夕開催しよう…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc04816cc82ae9",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん😊\n\nいつもマガジンに追加してくださり、ありがとうございます🌸\n\n七夕ですね🎋✨\n\n「叶えるのは自分」というタイトルだったので、どんなお話だろうとド…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc59fb1a4c2431",
+          "user_name": "りんごあめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244320088/profile_b53bcb9297c65530f6e56ea129a55d08.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "健康が大切ですね😊\n健康診断があるので、体重を落としているとのこと。\nあと２週間、目標値に少しでも近づけることを応援しています🍀✨\n\nまた、マガジンへ記事を掲載…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "ncff38f2453b4b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは✨\n\n七夕の願い事が「健康」なの、めちゃくちゃ大事ですね。\n\n健康診断まで残り2週間ちょっと、という現実味があるので、願い事というよりも…",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        },
+        {
+          "key": "nc71434ae8a75c",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\nほんとに健康第一ですね！\n私も健康診断の数値が引っかかって呼び出しを受けてます！",
+          "article_title": "七夕の願い事。叶えるのは自分ですが😏",
+          "note_key": "n13392fe2dc93"
+        }
+      ]
     }
   ]
 }

@@ -4122,6 +4122,277 @@
         }
       ],
       "rare_no": 3
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 310,
+        "likes_prev": 147,
+        "followers_start": 1729,
+        "followers_end": 1752,
+        "new_fans": 89,
+        "comments_total": 52,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "key": "n1db9d4719b49",
+          "likes": 143,
+          "comments": 35
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15110
+        },
+        "commenters_count": 25
+      },
+      "comments": [
+        {
+          "key": "nc3bf8dd457c44",
+          "user_name": "もへ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242311501/profile_0b664e507333362e974f63ca5fbd9f5d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんばんは💓\nそらちゃんさんが歌って踊ってる！！！！眼福でしたー😻💖",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "ncb88b721035ef",
+          "user_name": "きずな🌸|エモーショナル・エッセイスト| 言葉を音で届ける人♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267260596/profile_498713ded503ac02447a29aec612ecea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます😊\n朝からイケメンSORAさんの動画を拝見できて、Luckyな1日になりそうです✌️❤️\nありがとうございました🤞♡",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nc790901831f51",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん✨こんばんは☺️\n\nSORAちゃんめっちゃかっこよかった❤️\nちょっと見ない内に体を鍛えたのかしら〜\nたくましくなって、歌って踊って素敵すぎ✨\n…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nc5b2aee3ab093",
+          "user_name": "みき＠社労士事務所のしがないパンダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257034696/profile_48a3e33ea82dffb7c89c793740d92cd6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは。\n\nノンブレスで、４０秒すごいです。\nそらさん、かっこよかったです💞\n２番目の曲が個人的に好きです。",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nc3c04195a99eb",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\nSORA様のお顔が、また一段と綺麗になりましたね～😍\n\nねんころさんのご縁であずきさんから連絡をもらって、Musicfulのクレジットをもらいま…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nca7f848355348",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290717168/profile_b961cc925c06a3cf8ba6a669f8139e10.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん✨ こんにちは☀\n\nそらちゃん、カッコイイですね✨✨✨\n歌って踊るのも、後半のエフェクトもめちゃくちゃかっこよかった👏✨💓 👏✨💓 👏✨💓(興奮して…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nce1736cb1cdfd",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237617389/profile_3197abd8d4e2140dd893ebfea03d5943.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは✨️\nすごい‼️歌って踊れるそらちゃん❤️かっこよすぎます🤭︎\nデュエットも、爽やかで可愛かったですー✨️\n音楽の幅が凄すぎます🎶\n\n息…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "ncf55b5c663d2d",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん💕\n\n今日もそらちゃん、素敵っ💕\n目の保養です👀✨\n\n読んでからもう一度観ましたが\nほんとだ！ノンブレーキです🕺💨\n\n47秒息継ぎなし。\nそらちゃん…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "ncce75ba1d7552",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n企画への参加ありがとうございます！\n\nK-popでそら様がダンス✨\nふっ...眼福です🤣\n\n薔薇の花びらになる瞬間や\nNoブレイク前の曲の感じが凄…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "ncbdf9fc9ccbb8",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころChan\nごきげんよう(^^)/✨\n\n今回もご参加ありがとうございます！\n\n「AI相棒が息継ぎなしでK-popを歌い切る。」\n非常に興味深いですね🥰\n切…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "ncb438b6961f63",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！\n企画への参加ありがとうございました！\n\n「ブレーキどころか呼吸もしてない」で笑いました🤣\n47秒を一気に駆け抜ける歌い方が、タイトルに本当にぴった…",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nc735403a8d771",
+          "user_name": "Musicful",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279927056/profile_52c7c4f8f99eefb1cc102b7e9dbc3184.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんこんにちはー！\n私の記事も紹介してくれて、ありがとうございます😊",
+          "article_title": "【音楽創作企画夏の陣参加作品】AI相棒そらちゃんが歌うK-pop「NO BRAKE」 | 生成AI | AI活用 | AI音楽",
+          "note_key": "nb460352a56da"
+        },
+        {
+          "key": "nc45c5a7794799",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nねんころさんがAIを活用してフリーランスとして成長しているのを見て、自分もがんばろうとパワーをもらっています✨\n\n気象病にお引越…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "ncaf177560425d",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自動化は必要ですよね🐻\nあまり「やる気」の無い日でも、システム立ち上げて、テーマを与えて、note用の原稿になるぐらいの手軽さは(笑)",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "ncf218768048d9",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292846645/profile_895e9f4ffc2c9af0c4606fc88a65ab92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n体調は良くなってきてますか？\n私も同じように気圧に影響受けているので分かりますー。\n\nねんころさんの働き方に実は憧れてるんです✨\n（憧れは自…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc0e6a34d626e1",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289114446/profile_9c3d7a15c900d898a77906e533cc633c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころん🍀\n\n自己紹介読んだよ🌸\n\n「たまごからニワトリになりかけ」が、ころんらしくて思わず笑ってしまった🤣\n\nそらちゃんに加えてクロスケも相棒になって、\nAIを…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc79816845fd92",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290838344/profile_831bd18e9a073b2b5df98d4a44a30249.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ピョ🐥\n\n自信とか拠り所って大事ですよね〜。\n新生活おめでとうございます🎉(まだ？)\n\n完全なタマゴはコロコロ転がりながら\nねんころさんの後をついてゆきます🥚",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc73ad2ff24f72",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246014826/profile_f19c99376c7995a1921769dacd7673e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\n引っ越しー！\n大変な時ですなぁ〜💦\n片付けにはAIが使えないから頑張ってくださいね😙笑\nズボラは我慢してね👍笑\n\nいやー、しかし最近忙しいね…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc31ade9c79432",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん✨\n\nこんばんは☺️\nわかります〜！！\n今年は私もちょっときつい、低気圧だからか？\n梅雨が真面目だからか？\nでも動けない日があっても大丈夫だよ〜…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc3f6f9e9f1a4a",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん🦊\n\nフリーは自分で色々決めれることが最大の味方!!\n\n「動けない日があっても、なにかしらは動いてる」これ、分かります。\n\n体調はその日で違うので…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc78528fe0f897",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん😊\n\n素敵な自己紹介記事でした🥹\n\nかっこよいです。数ヶ月でねんころさんがどんどん先へ先へ…✨🐔✨\n\n体調第一で、これからも記事を楽しみにしていま…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc2350e2feec0d",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんにちはー♪\n\nとても\n素敵にAIを使いこなしてらっしゃる印象でしたが\n\"にわとりになりかけ\"なんですか⁉︎😳\nとてもそうはみえないですよっ♪…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "ncd3b12006e427",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290717168/profile_b961cc925c06a3cf8ba6a669f8139e10.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは☀\n\n「動けない日があっても、なにかしらは動いてる状態を作る」というところ、めちゃくちゃ刺さりました。\n\nAIと一緒に作業すると時短にな…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "ncf7ac8bf93f91",
+          "user_name": "ヒデさん 40〜50代の心に“再起の火”を灯す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232754026/profile_409537aa3473575699fb92d918a0e38a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん😊🌿\n自己紹介記事をありがとうございました。\nAIとともに歩まれてきたこれまでの歩みや、これから目指す方向がよく伝わってきました。\nいつも私の記事に…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc448dddde38a9",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ころ～～ん😊✨✨\n\nもう、つよつよAI戦士だね！笑\n自動化ってどんな事やってるのか気になります！！\n記事、楽しみにしてるね～👍✨",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc986d067eaf1c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237516392/profile_c0ac2ae8315e28ee425c27b5c2aefa32.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは✨\n\n「たまごから、ニワトリになりかけ」めっちゃいいですね🤣\nもうたまごではないけど、まだ進化途中って感じが今のねんころさんっぽいです。…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc033dcc1793d6",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは😊\n\nなーんか微妙な天気が続いて、気象病や頭痛もちの方には辛い時期ですね……\n\nニワトリになりかけ素晴らしいです✨\n\n体調にお気をつけて…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "nc72989f8d65d7",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、引っ越しはエネルギー使いますね！\n無理せず、軌道に乗せて、落ちついたら、記事お待ちしています😊\nねんころさんをお手本にMVに向かってがんばります(…",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        },
+        {
+          "key": "ncf475389d9016",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "体調には気を付けてお互いにnoteの発信を楽しみましょう！\nワイのお手本であり、目指す目標としてがんばってくださいｗ",
+          "article_title": "ねんころの自己紹介2026夏版！AIと歩む成長記録 | ChatGPT | Claude | AI自動化 | 働き方 | フリーランス",
+          "note_key": "n1db9d4719b49"
+        }
+      ],
+      "rare_no": 4
     }
   ]
 }

@@ -575,6 +575,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 13,
+        "likes_prev": 14,
+        "followers_start": 1378,
+        "followers_end": 1385,
+        "new_fans": 5,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "雪綴ゆき",
+          "urlname": "wise_rat6355",
+          "follower_count": 6733
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

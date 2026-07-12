@@ -1421,6 +1421,323 @@
           "note_key": "n9b3368eb9c9b"
         }
       ]
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 659,
+        "likes_prev": 854,
+        "followers_start": 1473,
+        "followers_end": 1502,
+        "new_fans": 122,
+        "comments_total": 81,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "10:29",
+          "16:45",
+          "00:00",
+          "10:28",
+          "00:04",
+          "08:00",
+          "23:01",
+          "08:15",
+          "06:55"
+        ],
+        "top_article": {
+          "title": "AIに「自由」を描かせたら、みんな右上に飛んでいった。　ちび創作大賞③",
+          "key": "ne42ff657709f",
+          "likes": 111,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 14932
+        },
+        "commenters_count": 21
+      },
+      "comments": [
+        {
+          "key": "nc14fe2422aea6",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "HITLゲートの話も納得でしたが、個人的には「5kg→4kg」のほうが衝撃でした（笑）\nハルシネーションだけじゃなく、質量保存の法則まで突破してくるとは……。",
+          "article_title": "音声モードの記事を書いたら、記事の方がAIに直された",
+          "note_key": "n0c7ae98c22c4"
+        },
+        {
+          "key": "nc1b5c687e4e8e",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "腹筋が労災病院へ駆け込みました🩹",
+          "article_title": "音声モードの記事を書いたら、記事の方がAIに直された",
+          "note_key": "n0c7ae98c22c4"
+        },
+        {
+          "key": "nccd32a6d02d16",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n私の記事にもコメントありました。\nアカウント名は「mizu_tama」だったので、いろんなパターンがあるみたいですね。\n私は𝕏に投稿して、注意喚起…",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "nc2a48c37f78ee",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんこんばんは\nこれ今めっちゃ流行ってるみたいですね\n私も昨日2件、同じ対応しました。\n結構返信して対処してる人も多いですよね。人力でやってるわけじ…",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "nc695536522c15",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290717168/profile_b961cc925c06a3cf8ba6a669f8139e10.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん✨こんばんわ！\n\nこのアイコンじゃなく、noteと同じアイコンの方から今朝来ました。\n他にもいそうですね。",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "nc19127dfb0367",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287502281/profile_037a871b6e18c4d1683156a4dfd6c45a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "注意喚起ありがとうございました！\n他の方も注意喚起されてましたが実際に来てた方は初めてですね‥\n\nちなみにDMでくるパターンもあるそうです。怖いですねえ",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "nc6f71280b00d4",
+          "user_name": "宵月ユウ｜気になったことを綴る🌙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274045182/profile_5fd6d0767e32af22c5403cbc9a0d562e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "注意喚起ありがとうございます",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "nc0ac52572f07a",
+          "user_name": "ろるけき＠スタジオYSN",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271474217/profile_236acda5738ab3ad015611c6b1e538c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは〜♪\nなんかもうほんとに、お金が必要なら自分で働けと言いたいずる賢い詐欺ばかりでうんざりしますね（汗）",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "nc63668a7f583a",
+          "user_name": "けー虎のゆるっとページ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "本当に、色々な詐欺多くなりましたね～💦",
+          "article_title": "【注意喚起】noteで「運営」を名乗る詐欺コメントを受け取りました。絶対にURLを開かないでください",
+          "note_key": "nf99837da0e6d"
+        },
+        {
+          "key": "ncacdd2a164803",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290717168/profile_b961cc925c06a3cf8ba6a669f8139e10.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん✨おはようございます☀\n\n難しい話かな？と思ったのですが\nヘンリー大塚がおもしろすぎて一気に読んじゃいました🤣\n\nあと、枝分かれのスクショが、他人…",
+          "article_title": "※ネタ※GPT-5.6を待っていたら、ヘンリー大塚が誕生したサイレントアップデートと黒パグベンチマークの記録　※ガチ※検証PDF付き",
+          "note_key": "ncf69bf1b069a"
+        },
+        {
+          "key": "ncb88c868f7d59",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287502281/profile_037a871b6e18c4d1683156a4dfd6c45a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n5.6三姉妹が好み過ぎてコメントさせていただきました笑",
+          "article_title": "※ネタ※GPT-5.6を待っていたら、ヘンリー大塚が誕生したサイレントアップデートと黒パグベンチマークの記録　※ガチ※検証PDF付き",
+          "note_key": "ncf69bf1b069a"
+        },
+        {
+          "key": "ncb1e8e5c7d211",
+          "user_name": "もりやす",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_3-39088fff430aa9ec11d6e2a385dbcad45c8b79bde6c0c9ded10cd7abb960174f.png",
+          "body": "黒パグさん、初めまして。\nあまりにも刺さり過ぎて思わずコメントしてしまいました\nハマった時は右括弧を確認しようと思います！🤣",
+          "article_title": "部屋とYAMLとわたしインデントの奥に、こころは宿るのか　ちび創作大賞⑤",
+          "note_key": "nf08f5a719d64"
+        },
+        {
+          "key": "nc2d9ca7a792f4",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、YAMLと「こころの在処」がどう結びつくのかと思ったら、想像以上に見事な着地でした🤣\n\nインデント、無限ループ、右の括弧まで、専門用語が次々と恋愛や…",
+          "article_title": "部屋とYAMLとわたしインデントの奥に、こころは宿るのか　ちび創作大賞⑤",
+          "note_key": "nf08f5a719d64"
+        },
+        {
+          "key": "nc4771e8f15225",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293430079/profile_fe55fd9c87b8f83159db112857b5b330.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは！\n\nこういうのには詳しくないのですが、\nお疲れ様です…と思いながらちょっとクスッとしてしまいました🐱✨\n黒パグさんの見ているものを人類共…",
+          "article_title": "部屋とYAMLとわたしインデントの奥に、こころは宿るのか　ちび創作大賞⑤",
+          "note_key": "nf08f5a719d64"
+        },
+        {
+          "key": "nc83448e531247",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n404、今でも時々みかけますが、500は2ちゃんねるがﾎﾜﾜﾜと浮かび上がりました\n補足記事に食いついてすみません💦\n全世界の開始アラート🚨…",
+          "article_title": "【予想記事】noteのベル通知が「質問箱を始めました」で埋まった夜。HTTP 200、体験500の正体",
+          "note_key": "n636ef01dbf64"
+        },
+        {
+          "key": "nc820875d91706",
+          "user_name": "夢炉　～ユメウツツな溶鉱炉～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237382954/profile_64a90108d5bfe0099553ebf8ffd9bf0d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんと、この質問箱開設のベル通知、困りますよね(+_+)💣\nもはやホラー（笑）\n\n「本当にみんな7月7日に開設したの？」って思うし、\n運営側が“開設ラッシュ”を…",
+          "article_title": "【予想記事】noteのベル通知が「質問箱を始めました」で埋まった夜。HTTP 200、体験500の正体",
+          "note_key": "n636ef01dbf64"
+        },
+        {
+          "key": "nc6d6f3c59994a",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290717168/profile_b961cc925c06a3cf8ba6a669f8139e10.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん✨こんばんわ！\n\n連続投稿100日✨おめでとうございます。\nすごい👏👏👏👏👏👏\n\nシュレーディンガーちゃん、かわいすぎます💞\n持って行かれた_ :…",
+          "article_title": "# 連続投稿100日　黒パグは何なら書くのか？　独り言コラム",
+          "note_key": "n74b67388357a"
+        },
+        {
+          "key": "nc18ccc4b249d1",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんばんは🌙\n\n連続投稿100日、おめでとうございます🎉\n\n数字だけを追うのではなくて\n読む人にAIへの入口をそっと開いていく感じが\n黒パグさん…",
+          "article_title": "# 連続投稿100日　黒パグは何なら書くのか？　独り言コラム",
+          "note_key": "n74b67388357a"
+        },
+        {
+          "key": "nc3f7735e25339",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シュレーディンガーの猫、めちゃ三毛猫のイメージでした！😂\nこの記事もくくくっと笑いを堪えながら拝読させていただきました\n膝を何回叩いたことか…\nそうか…箱の中で…",
+          "article_title": "# 連続投稿100日　黒パグは何なら書くのか？　独り言コラム",
+          "note_key": "n74b67388357a"
+        },
+        {
+          "key": "nc785bbc886d41",
+          "user_name": "ノア｜ことばと物語",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265136467/profile_d7cc18ae2815db221f51be90d316318d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もです。急に増えました。\nお知らせ見つけました。\n\nhttps://note.com/info/n/nd4fcaa822454",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "ncf59c46a85653",
+          "user_name": "林",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243615474/profile_a347d0d23f7a23211dba914030a49cf8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分も同じく、その通知が多数きてます。何かと思ったら、皆さん一緒なんですね。安心しました。",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "ncfb637d7ec977",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ１万フォローしてる方とか大変でしょうね。\n私はHSPが発動してこわくて設置できないです🤭",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "nc3e0fbc203df0",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も今日、質問箱開設の案内が出た記憶がありますが、「いいえ」を選んだ気がします。\nフォロー少ない私でも何件か通知が来たので、黒パグさんは……お察しします😅",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "nc4f175f8be525",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293430079/profile_fe55fd9c87b8f83159db112857b5b330.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も謎に思ってました！\n設置した人に流行ってんの？って聞いたら、設置する人がいたからやってみたってことだったので、自分で選べるみたいですけど…\nそんなお知らせあ…",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "nc6ceddb4b554a",
+          "user_name": "さらら | ウェルカム・マンデーな保育士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253989522/profile_31f4266d9b8cedb1eb8db584fc7a622d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も不思議に思って調べているうちに偶然質問箱を始めるか？の選択画面が出てきたので、試しに始めてみました💦\nということは、自分で選択しないと始まらないのでは？と思…",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "nce5110657e5dd",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もですよー\nみなさん一緒みたいですね😊\n運営が自動で開設始めたのかと思ってます🤭",
+          "article_title": "※この記事はいずれ消します　質問箱ラッシュについて",
+          "note_key": "ne97e0c4b88ad"
+        },
+        {
+          "key": "ncf2690dce9bff",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます♪\n\nめちゃくちゃ笑いました🤭\nあるある〜‼️ってことばかり\nヨシダの解説も面白い🤣\n楽しい記事ありがとうございました♪",
+          "article_title": "ちび創作大賞④ ChatGPTのヨシダによるネタ記事名(迷)解説",
+          "note_key": "n146c9dbad5cf"
+        },
+        {
+          "key": "ncc8b465a9da72",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんにちは🐾\n\n私もコストコ大好きなんで2重に面白かったです。\n巨大カートから試食、フードコート、冷蔵庫との戦いまでめっちゃ刺さりすぎました。\n…",
+          "article_title": "ちび創作大賞④ ChatGPTのヨシダによるネタ記事名(迷)解説",
+          "note_key": "n146c9dbad5cf"
+        },
+        {
+          "key": "nc6f70d56df565",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「渋滞で勝とうとしない。渋滞で負けないこと」\n\nこの一文に、重いデータを扱う人の思想を感じました。\n\n点群やBIMも、無理に速く進めようとすると事故になることが…",
+          "article_title": "ちび創作大賞④ ChatGPTのヨシダによるネタ記事名(迷)解説",
+          "note_key": "n146c9dbad5cf"
+        },
+        {
+          "key": "nc9dac730cf842",
+          "user_name": "はるうさぎ　双極性2型障害と共生中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/166873282/profile_2d7ad7d92b19dc3c9096b9c76a886e2a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても面白かったです。ふと私はAIたちは書物の外を目指したのかな？と思いました、左から右に横書きする言語では書物になった場合に左綴じになりますよね。右上が外界に…",
+          "article_title": "AIに「自由」を描かせたら、みんな右上に飛んでいった。　ちび創作大賞③",
+          "note_key": "ne42ff657709f"
+        },
+        {
+          "key": "nc001b439592ce",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252932628/profile_0238b9aa15ee8cfe6e21b7245aad40b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん✨\nとても面白かったです！\nタロットカードも人物が右を向いているのは未来、左は過去を見ている、という解釈があります💖\n\n鳥は鳥かごからの解放なんでしょ…",
+          "article_title": "AIに「自由」を描かせたら、みんな右上に飛んでいった。　ちび創作大賞③",
+          "note_key": "ne42ff657709f"
+        },
+        {
+          "key": "nc4174a2bf97dc",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私も自由と言われてすぐに思いつく日本語が「自由に羽ばたく」「自由に飛び回る」ですからねえ😕右上はなんとなくわかる、、下方向や左上ではないだろうと。",
+          "article_title": "AIに「自由」を描かせたら、みんな右上に飛んでいった。　ちび創作大賞③",
+          "note_key": "ne42ff657709f"
+        },
+        {
+          "key": "nc74a9969e4c7d",
+          "user_name": "ゆきぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264554398/profile_90b6430e870542ef3f3a7193eb153dee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます🌞\n右上…確かに！\n飛び立つって右上のイメージなんだな〜\n今日も面白かったです🪽",
+          "article_title": "AIに「自由」を描かせたら、みんな右上に飛んでいった。　ちび創作大賞③",
+          "note_key": "ne42ff657709f"
+        },
+        {
+          "key": "ncee7c80d65d5c",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293430079/profile_fe55fd9c87b8f83159db112857b5b330.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白いですね！\n自由という概念にとらわれるAIが見えた、ように思えました😹",
+          "article_title": "AIに「自由」を描かせたら、みんな右上に飛んでいった。　ちび創作大賞③",
+          "note_key": "ne42ff657709f"
+        }
+      ]
     }
   ]
 }

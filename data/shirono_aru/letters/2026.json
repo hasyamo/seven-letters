@@ -102,6 +102,43 @@
         "commenters_count": 0
       },
       "rare_no": 2
+    },
+    {
+      "week": "2026-W28",
+      "period": {
+        "start": "2026-07-06",
+        "end": "2026-07-12"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 470,
+        "likes_prev": 383,
+        "followers_start": 3881,
+        "followers_end": 3911,
+        "new_fans": 127,
+        "comments_total": 0,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:09",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "ChatGPTとClaudeだけで満足してた私が、AIツールの進化にちょっと焦った話",
+          "key": "nf85866909a98",
+          "likes": 163,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15186
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 3
     }
   ]
 }
