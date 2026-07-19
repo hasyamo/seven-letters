@@ -4393,6 +4393,83 @@
         }
       ],
       "rare_no": 4
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 198,
+        "likes_prev": 316,
+        "followers_start": 1753,
+        "followers_end": 1778,
+        "new_fans": 49,
+        "comments_total": 9,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "MusicfulでAIコラボ曲爆誕！マッシュアップ機能の簡単手順とコツ",
+          "key": "n43ebf3a9d382",
+          "likes": 74,
+          "comments": 9
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15299
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nc5eb7506fe555",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん🦊\n\nマッシュアップって言葉知らなかった🙄\nリミックスは分かる😂\n\n音聞いて良さがわかった🙌\nそしてそら＆ひかりちゃんいいですね🥰\n今日は1つ勉強…",
+          "article_title": "MusicfulでAIコラボ曲爆誕！マッシュアップ機能の簡単手順とコツ",
+          "note_key": "n43ebf3a9d382"
+        },
+        {
+          "key": "ncf4281e6ac9bc",
+          "user_name": "浅井めぐみ🎨フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234933909/profile_d6a4fc2f5f1eaa165f996a3bae9ae48c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\n「え、いいんですか。」の一言で、思わず笑ってしまいました。あの拍子抜けした感じがすごく伝わってきました。無料枠でAIツールを触ること…",
+          "article_title": "MusicfulでAIコラボ曲爆誕！マッシュアップ機能の簡単手順とコツ",
+          "note_key": "n43ebf3a9d382"
+        },
+        {
+          "key": "nc47afa74f5907",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "SUNOすらDLしただけで\n使ってみようかどうしようか悩んでるのに\n凄い時代になっとりますなぁ…\n\nまずマッシュアップの\n元を作るとこからヨチヨチ始めてみます🔰",
+          "article_title": "MusicfulでAIコラボ曲爆誕！マッシュアップ機能の簡単手順とコツ",
+          "note_key": "n43ebf3a9d382"
+        },
+        {
+          "key": "ncd36c24da5c24",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282582391/profile_cbb1c7834b910b8016f4673db345b618.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん　こんばんは♪\n\nマッシュアップ機能があるんですね。\nソラさんxヒカリちゃんの\nデュエット良かったですよー♪\n歌詞一緒なのに\n纏ってる雰囲気がガラッ…",
+          "article_title": "MusicfulでAIコラボ曲爆誕！マッシュアップ機能の簡単手順とコツ",
+          "note_key": "n43ebf3a9d382"
+        },
+        {
+          "key": "ncafcd47106485",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、マッシュアップって、どういうことなのか、曲があるので、わかりやすいです！\n2曲を混ぜると、複雑なメロディができるんですね！\n\nいろんな使い方がある…",
+          "article_title": "MusicfulでAIコラボ曲爆誕！マッシュアップ機能の簡単手順とコツ",
+          "note_key": "n43ebf3a9d382"
+        }
+      ]
     }
   ]
 }

@@ -5638,6 +5638,736 @@
           "note_key": "n2ea3f4dcb730"
         }
       ]
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 1255,
+        "likes_prev": 1202,
+        "followers_start": 1556,
+        "followers_end": 1622,
+        "new_fans": 166,
+        "comments_total": 185,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "20:09",
+          "19:10",
+          "20:43",
+          "20:37",
+          "21:33",
+          "19:52"
+        ],
+        "top_article": {
+          "title": "  🌻夏になると思い出す風",
+          "key": "n86e207daeadb",
+          "likes": 192,
+          "comments": 29
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 26467
+        },
+        "commenters_count": 62
+      },
+      "comments": [
+        {
+          "key": "nc94499502331f",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは\n\nつい口ずさんでしまう素敵な曲ですね♬\nパパさんだけでなく、みんなで一緒に育てよう！\n支えていこう！っていうのが共感できました🥰",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc45752bfe0e03",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n昭和の高度経済成長を支えたお父様の背中と、現代を生きるパパたちの姿を重ね合わせた温かいメッセージ。\n時代とともに家族の形や役割が変わっても…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "ncd5dfcce7c5b2",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは！\n\n一緒に育てよう〜♪\n一緒に笑おう〜♪\n\nつい口ずさんでしまいますね😁\nめっちゃいい曲でした！！！",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc25d53d3ed707",
+          "user_name": "Minase",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252218916/profile_2d8e56a11e63c2fb94115031787c1ac2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。この曲は歌詞が素敵ですね、スッと入ってきます。\nそしてSUNOを上手いこと制御したのでしょうね、良い曲になっていて、\n素晴らしいなと感じました。\n\n…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc450975313b16",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは☀️\n\nパパへの応援だけじゃなくて、周りのみんなで支えていこうというメッセージが素敵でした😊 \n\n曲も企画にぴったりですね！",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc1adf6bc87cd4",
+          "user_name": "kakokikiy",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207317271/profile_64d80738352449278700572f1ce76d70.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは。\nパパ、いつもありがとう。パパだから、ママだからではない時代。\nみんな頑張りすぎないで、自分にも優しく、お互いにいたわっていこう！\nみきさ…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc60886e64737e",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206114899/profile_68baea5ab0198c13748a02af04252fdc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\n\nみきさん😊🌸\n\n昭和のパパと令和のパパ、それぞれ歩んできた形は違っても、家族を想う気持ちは変わらない──そんな温かいメッセージが心に響きました🥹🍀\n…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc9f547f0c254b",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パパ応援企画への参戦、本当にお疲れ様です！！\n\nもう記事を読みながら、そして歌詞を一つひとつ追いながら、胸がじんわり温かくなってちょっとウルッときちゃいました……",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "ncc3f0d9bd4db8",
+          "user_name": "LOVEちゃん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281631027/profile_f6409e39b7f95ff3f230ceb2b3138873.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ライブ感が「一緒に！」って感じられていいですね👍️✨",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "ncc658daae0e9e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ一体感出てましたね💃💃\nフォー✨すべてのパパへ～🎵",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc3926196fa37f",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "元気が湧いてくるような、すばらしい曲ですね！「一緒に育てよう」の気持ち、これからますます必要になるかと感じています(^_-)-☆",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "ncd4f47e463c82",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295231976/profile_b715be9c554df2bd8e7b5cd28289fc98.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\n企画の応援と、応援ソングの提供ありがとうございます！\nとても熱くなるような平成感のあるメロディも結構好きです😊\n\nパパさん企画ですが、応援してくれ…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "ncb93467d2f8e8",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキさん\nこんばんは。\nいつもありがとうございます:)\n\nこの企画に携わっている方々は、皆さん知っているので、マガジンで応援していました！\n\nパパの応援曲めちゃ…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nca4a448b2060d",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵な曲ですね！\nチャンネル登録しました✨\n僕も子供はいないので亡き父の話を考えてます☺️",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nce6fd24621247",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250890261/profile_548edec71c867e28f1107e76c88507ef.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い❣️👏😳💗\nパパを励ます、明るい曲！\nテーマが本当に素敵💕\n\n時代は変わっても\n変わらないものがある\n\nほんとに！\n頑張ってるパパさん達が\n元気になる歌です…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc3a40ac96c147",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　ティッシュ2箱目だよ( ˃ ⌑ ˂ഃ )\n明日　仕事行けんよ( ˃ ⌑ ˂ഃ )",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "ncb9aa2189a43b",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183446709/profile_716b52e85c5980ef8068debe7dca4d93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは(*´∀｀*)\n\n蛍さんの記事から飛んできました(*´∀｀*)\n\n父親世代に歌われていたコーラスのような音楽が、働いて頑張っていた原点を感じました。\n…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nceb81b81f0a7f",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nどうも、パパの一人ですw\nライブみたいな雰囲気。\nすごいですね👍\n\nよし、頑張って明日は疲労回復に努めますww",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc2efeb9bd7893",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280175768/profile_e9b8115d4e8a61b9d3a6439776b73e24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\n\n歌聞いて、泣きそうなりました😭😭😭\n魂震えました🔥\n\n一緒に育てよう\n出会えてよかった\nつながれてよかった\n\nまっすぐな歌詞が、そのまま胸に突き…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc94aec4d058a8",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん、こんばんは✨\nマガジンへの掲載ありがとうございます❣️\n\n子育てをするパパを応援する歌は、歌詞もメロディも元気がでる素敵な曲でした☺️✨\n",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc45ed1af0cb4f",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリーみき様😆コンサート会場に一体感があるから迫力もありますね！一緒に育てよう♪一緒に笑おう♪昔だったら…子どもがいっぱいいて、近所が子…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc01f48c1912c9",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　ありがとう😭\n\n待ってたよ〜\n\n凄く嬉しいです。\n色々ありがとうね。\n\nもうみんなに助けてもらって嬉しい🥹\n\n",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc7053d7d0c788",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295038110/profile_ba8202861f5267b461bc2fac23f8017b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは＼(^▽^)／！\n\nめちゃくちゃ\n嬉しいです。\nなんかバグってて\nログイン出来なかったんですが\n\nYouTube聞かせてもらいました！！\n後でチャンネ…",
+          "article_title": "✨パパへ贈る歌『一緒に育てよう ～すべてのパパへ～』🎶：昭和と令和の家族の形",
+          "note_key": "n92b389bf6a52"
+        },
+        {
+          "key": "nc5067402f2fbf",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290534577/profile_67a36083536a049bbd34e5a4d462e2bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\n積み重ねてきた\n一つひとつの選択が\n今の私を作っている\n\nそう考えると、1日1日を大切に生きたくなります🌈\n素敵な言葉を、ありがとうご…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc1bad621d9fcb",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは。\n１つの選択だけで全てが決まるわけではなくて\n小さな選択の積み重ねというところに\nとても共感しました✨️✨️\nbestかどうかはすぐには分…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc3e2592fa4fc6",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　　うちも　離婚後　そんな経ってないのにあっちは再婚してるわ🤣\n同じかー。\n元夫にあった時は義父は亡くなってお会いしたことなかったのだよ。義母はいい人…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "ncc647f3bbd96b",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "一文字一文字じっくりと大切に読ませていただきました。\n\n「あの日の選択が今の私を作ったわけじゃない、毎日の小さな選択の積み重ね」という言葉が、胸に深く深く刺さり…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "ncddfff3a344a6",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙*·̩͙\n\nあの日から今日まで、自分で考え\n自分で選び続けてきた毎日の積み重ね\n\nこの言葉が、すごく印象に残りました。ターニングポイントか…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "ncf7330a8fad97",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n元旦那さんの再婚を聞いて、ホッとされたとのこと、悪い関係ではなかったんだろうなと想像しています。\nまた、みきさんも心が広いんだなと感じました。元夫…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc529674255945",
+          "user_name": "ゆら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253515245/profile_99c5a4b66ac3ea9f95e8b0794ef21057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n大きなゆったりした川の流れのような世界を感じました。\n黄河でもナイル川でもなくて…ドナウ川🌟です。\n（うまく表現できない語彙力のなさをご…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc6156155182b6",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280175768/profile_e9b8115d4e8a61b9d3a6439776b73e24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今のみきさんをつくっているのは、「あの日」じゃなくて「あの日からの毎日」だったんですね。\nじーんと胸に来ました。\n\n元旦那さんへの「ホッとした、嬉しかった」これ…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc0ccebd369aae",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「人生は\n一つの大きな選択だけで決まるものでは\nないのかもしれません\n\n毎日の小さな選択\n…積み重ね」\n\nってとこ\nめっちゃ心に沁みた～😭\n\n離婚という、大きな…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc72cdd0749181",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは\n\nみきさんの文章、とてもあたたかくて胸に広がりました。\n離婚という大きな分岐点を「終わり」ではなく、\n自分で選ぶ人生の始まりとして受け止め…",
+          "article_title": "✨あの日の選択が今の私を作ったわけじゃない⁉️人生の分岐点と毎日の積み重ね✨",
+          "note_key": "n771544dd99ad"
+        },
+        {
+          "key": "nc685b21e0f8d6",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき✨さま、こんばんは。\nRogersページにお立ち寄り頂きありがとうございました\nこの度も、「みんなのワクワクキャビネット」に追加して頂き\n心配りに感…",
+          "article_title": "「自然」🍀の漢字を調べて気づいた、私が私らしく生きるということ✨",
+          "note_key": "nb344afe9e330"
+        },
+        {
+          "key": "nc6dbbca286720",
+          "user_name": "サトエコ｜問いと観察を続ける人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291997406/profile_a03c6c7380c6395ad75bf515bdadecc0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨🌱\nなんと素敵な記事🥹　\n本当ですね。\n生命の誕生は自然からですから、人だって同じですね。\n少し迷ってる事？というかこれでいいかな？と思う事があったの…",
+          "article_title": "「自然」🍀の漢字を調べて気づいた、私が私らしく生きるということ✨",
+          "note_key": "nb344afe9e330"
+        },
+        {
+          "key": "nc0df1c1cb2319",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293430079/profile_fe55fd9c87b8f83159db112857b5b330.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは✨\n\n自然体な自分でいることって、つい難しく考えちゃいますけど…\n今の自分を受け入れてあげればいいのかなって、少し肩の力が抜けた気がします🐱…",
+          "article_title": "「自然」🍀の漢字を調べて気づいた、私が私らしく生きるということ✨",
+          "note_key": "nb344afe9e330"
+        },
+        {
+          "key": "nc7d22eb57d779",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206114899/profile_68baea5ab0198c13748a02af04252fdc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\n\nコンパス みきさん😊🌸\n\n「自然」という漢字を調べたことから、ご自身らしい気づきへつながっていく流れがとても素敵でした🍀\n\n「自ら、そのようにあるこ…",
+          "article_title": "「自然」🍀の漢字を調べて気づいた、私が私らしく生きるということ✨",
+          "note_key": "nb344afe9e330"
+        },
+        {
+          "key": "nc46aec3aa310f",
+          "user_name": "碧乃よしえ｜旅とアートと日常と",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282514016/profile_fba49f8c5dab799ad74e26c8345abb35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん😊\n「自然」のお話、とても共感しながら読ませていただきました✨\n自分が自分らしく在ること。心に響きます。\n私も自分らしく花を咲かせたいです🌸\n…",
+          "article_title": "「自然」🍀の漢字を調べて気づいた、私が私らしく生きるということ✨",
+          "note_key": "nb344afe9e330"
+        },
+        {
+          "key": "nc16fe8abd928e",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌉マガジンファミリーみき様😆「自然を体感されましたね♪」💦\n人間は…自然の中で生かされているって思っています😐豊かな自然から人は恵と感動を得て…それを…",
+          "article_title": "「自然」🍀の漢字を調べて気づいた、私が私らしく生きるということ✨",
+          "note_key": "nb344afe9e330"
+        },
+        {
+          "key": "nc0f30ac18b546",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん🍀\n素敵な記事を(人''▽｀)ありがとうございます☆\n\n心の在り方の自由。\n\n自由を奪っていたのは、自分だったんですね。\n\nとっても共感しました😊✨",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc03a2817f0484",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "心の在り方の自由🌈✨\nとても素敵で本質的なことだなぁと思いました。\n色んな考え方がありますが、私はみきさんの考え方にすごく共感しました🌸\n",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc52a47bb6174d",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206114899/profile_68baea5ab0198c13748a02af04252fdc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\n\n初コメント失礼します😊🌸\n\n「自由を奪っていたのは誰でもない、自分だった」という一文が、とても心に残りました✨\n\n自由はどこかへ行けることだけではな…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc9927f16f9768",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250890261/profile_548edec71c867e28f1107e76c88507ef.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分が自由ではないって\n思ってしまってるかもしれない\nありますよね💕︎\n凄く共感できるような詩を書いた事があったので、嬉しくなりました😊✨\nGIF可愛かったです…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "ncc783e012feb5",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんにちは\n\n「自由には決まった形なんてない」\nという一文に目が止まりました\n\n外せるのに外さずにきた枷を\nご自身で見つめ直された振り返りに…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc297fc98f1290",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n「自由」という深く普遍的なお題に対し、ご自身の心の軌跡を丁寧に見つめ直された真摯なエッセイ。どこかへ行くことだけではなく、自分の感情に素直…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nce63133d7fa68",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき✨さま、\nこの度は、Rogersの投稿を引き続き\n「みんなのワクワクキキャビネット」に追加して頂き\n心配りに感謝申し上げます。\n\nうーん！難しいお題…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "ncbde07b7a6a0a",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267110140/profile_a7a14a7914bcb2b217602601d3f3e0e1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん˙˚ 𓆩 (*´▽`*)✿𓆪 ˚˙\n\n「自由って何だろう」と、\n読みながら私も一緒に考えていました。\n自由はどこへでも行けることではなく、\n自分の心の…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nce0d687d3c36e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ～正直、あんまり自由か自由じゃないかなんて考えたことがないなあ😆",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc02669fc69ddd",
+          "user_name": "宵月ユウ｜気になったことを綴る🌙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274045182/profile_5fd6d0767e32af22c5403cbc9a0d562e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "前職では両足に足枷がつき、手錠をしていたような感覚だったのですごく共感できました😂素敵な作品ありがとうございます✨",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc58f61e1ccbc8",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、心に残るエッセイをありがとうございます。「自由」という大きなテーマと向き合い、ご自身の内側にある「枷」に気づかれた、その視点に共感しました。\n私たちは…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc234720b01f82",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nこんばんは😊\n\n「今日やりたいことを自分で選べることも、そんな毎日もきっと自由なんだ。」\n\nこの言葉が胸に響きました。\n\n当たり前のように過ごしてい…",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc4cf2405f87e4",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃんにとっての自由\nとってもいいね。\n\n読んでいて心がこちらも軽くなります🥹",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc46b6740cc978",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆。恐縮ながらこの場をお借りして、コメント失礼します。\n記事、マガジンへの追加、感謝申し上げます。\n本当にありがとうございます。",
+          "article_title": "✨私にとっての「自由」とは🍀",
+          "note_key": "n1df9439557ed"
+        },
+        {
+          "key": "nc169d671d2730",
+          "user_name": "るぴなす(Lupinus)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198580494/profile_6984197174a780f5b2a07959782443f7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん、私のkindle 挑戦の記事をマガジンに追加してくださってありがとうございます。\n\nゆっくりですが、進めています。\n\n関心を寄せてくださること…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc52f981217fec",
+          "user_name": "♡海藻うさぎ猫♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294471916/profile_a45c9fb18544dde3a34e58e731d93159.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん✨おはようございます。ありがとうございます。☺️🐰♪",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc267f8fd2980a",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき✨好きのタネ🌱を育てる案内人さま、\nこの度は、Rogersの投稿を「みんなのワクワクキャビネット」に\n追加して頂き心遣いに感謝申し上ます。\nうわーー…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc264e16c93eb9",
+          "user_name": "持たざる者の再起録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256022750/profile_9bbd6c1baaf11ecb978687248758b24e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n通知ラッシュすごかったですよね😅\n\nみきさんは質問箱作ったんですか？🫠",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc504aafa7a4e1",
+          "user_name": "なおの縁側",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219673344/profile_4ffa9af85f79b1b458b20f9dd6337c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは✨\nご紹介いただきありがとうございます😊\nとても嬉しいです✨️✨️",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc769f8430548b",
+          "user_name": "Yuno.∞.Tukito（ツキト）27人AI達との掛け合いストーリー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286989732/profile_fd1efc42b1b98111c60d6ba78078c831.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは🍀\n通知ラッシュ、お疲れさまでした😊💦 \nたくさんのご紹介や企画への参加があると、見逃してしまうこともありますよね。\n\nそんな中、マガジンで…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "ncb3755e2bd17e",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nおはようございます☀\n\n通知ラッシュ💦\nホントに、大変でしたよね😅\n\nご紹介、ありがとうございます😊✨️",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc99faf32b7430",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀\n\n今回も記事を紹介いただき、\nありがとうございます😂✨\n\n通知、ほんとうにビックリしましたね。\n何が起きたかと思いました😅💦\n\n…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc15b9526c7c6d",
+          "user_name": "物書き　五郎八まなみ(Iroha Manami) のいろいろ日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214060629/profile_3807db7966a3b78b3734821b3037e289.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nおはようございます❤️\n本当に、通知ラッシュとんでもなかったですね❣️\n私も見落としがないかヒヤヒヤしております💦\n\n記事のご紹介ありがとうございま…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc341ff7bfe08f",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nいつもスキ＆コメント＆マガジン追加、本当にありがとうございます🙏\nめっちゃうれしいです🙌\nそれにしてもすごい数のマガジンですね💦\nさすがです！！！😆",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "ncf62cd248fcd5",
+          "user_name": "MOMO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255901015/profile_6525db155d39a72703a0bea6883ea75b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは！\n\n通知メールラッシュ…\n確かに凄かったですね💦\n私も見落とし無いか不安…\n\n記事紹介して貰えて\nめちゃくちゃ嬉しくて\n感動です🥹\nご縁に…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc8dbd719836b6",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様🍀\n\nお父さんと一緒に紹介ありがとう🥰💝\nめちゃめちゃうれしい🥰💝\n「娘の取り合い」が頭から離れない🤣\nお父さんもみき…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc76b9666f2108",
+          "user_name": "おーちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265075393/profile_a4072d8e9748600da58942f1ccba6fd7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんわ。\n記事をご紹介頂き、ありがとうございます。素敵なご縁に感謝です✨️\n今後ともよろしくお願いします💖",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc710f6d49eaef",
+          "user_name": "花日和と碧色",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279916697/profile_02821861953d3f534e26268dc1a1f3cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨\nいつもありがとうございます☺️💖みきさんの愛と笑顔と素敵なお人柄に、ますますみきちゃんファンがいっぱいですね〜🥰\nいつも元氣をいただきありがとうござ…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "ncaf008a218001",
+          "user_name": "シロツメクサにワタシ🕊️🍀✨🐬🌕🎻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281951900/profile_1b10f7bceb6eb037d8e0c4947a56ceda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん✨🌱\n素敵なマガジンへご相席賜り\n感謝いっぱいです♬\nお招きありがとう\nございます✨️🍀\n\nまた立ち寄らせて\nいただきますね🕊️🍀✨",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nce550b6b5cb50",
+          "user_name": "へろん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260577582/profile_e57188fbd824b63f3e264bc1c5b08ab6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\nマガジンご紹介くださってありがとうございます！\n\n質問箱通知、すごい数でしたね。\nいろんなものを見落としていそうでとても怖いです😅\n\n…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc5d918e98120c",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　いつも有り難う😊\n\nこう書いてる横で　うちの🐍が脱皮した掃除を早く終わらせて飯じゃーと言っているよ😏\n\n本当に見る勇気ある？",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "ncfb8d7abb02dd",
+          "user_name": "KAi_ss",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280700055/profile_dbe9688914e5a2515a2a3eaeb7016931.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nこんばんは！\nマガジン掲載ありがとうございます😁",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nceed8535b35d1",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nめっちゃ\n凄いサムネ💓\n\n皆さんと\n一緒の\nご紹介ありがとうございます♪\n\n嬉しかったです☺️",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "ncbf18d276533e",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは。\n\nご紹介ありがとうございます:)\nやっぱりKingの知らない方もいらっしゃいますね！\n\n今後ともよろしくお願いいたします。",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n37b3042e2b70"
+        },
+        {
+          "key": "nc4bc200204025",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん　こんにちは(^▽^)/\n風で思い出すのはお正月の二見興玉神社です⛩\n海際に立っているから、毎年すんごい風で。\n波が掛かり吹き飛ばされそうになりながらも…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc231e4369f4fb",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊\n爽やかな風ではなく、あえて台風を思い浮かべる視点がとても印象的でした。\n\n子どもの頃、大人たちが船を陸へ上げたり、家を補強したりする姿を、少しの高揚…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc1c49c68c2f09",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289479442/profile_b94316985c57b9c7a8b78e470b638ccf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは✨\n\n「優しさも、厳しさも、どちらも風」\n\nホントそうですね！\n自然の中に生きているからこそ、台風のような強風に恐怖を覚えたり、朝窓を開けた…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc4ec6eab4f2ea",
+          "user_name": "はぴ♡ゆか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251142040/profile_ca00dae3955378a5a1efd07fad083edd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨️\nいつもマガジン追加、ありがとうございます😍💕\n「風」大好きです✨\n水瓶座で風の星座でもあるからかな〜と😆\n春風の穏やかな風もあれば、台風のように強…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc8f362faf8156",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。優しさと厳しさという、風が持つふたつの表情にそっと目を向ける深い眼差し。素敵✨です。\n\n子どもの頃の記憶と大人になってからの経験が丁寧に紡が…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nca48270f7ca1a",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n台風そのものだけでなく、それに備えて動く人たちの姿が強く残りました。\n\n港の船を陸へ上げる大人たち、夜中に戸袋を押さえるお父さま、そして…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "ncac4c8ab7a678",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "コンパスみきさん\n穏やかな風でありますように。\n\nマガジンにも入れて頂き\nありがとうございました！",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc73ba058b99bb",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは✨ \n記事を読みながら、自然の持つ圧倒的なパワーと、それに備える人間の営みについて深く考えさせられました。\n\n2019年の台風、本当に凄まじ…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc27de1a790d01",
+          "user_name": "六恵×チャッピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248345563/profile_50197c6e038c552bec53601d3a327aec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "インド神話のシヴァ神みたいなイメージで風を捉えてる感じがして滅茶苦茶かっけーですね♡",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "ncc236d6ee442d",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリーみき様😆風🌪️のようにテーマライバル出現💦\nゴルフ⛳️も優しいフォローの風や厳しいアゲンストの風🌪️があって味方にするか？謙虚にプ…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "ncac12a8a664d2",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは。\nいつもありがとうございます:)\n\n近年、厳し過ぎる台風、突風が多いですけど…\n\n優しさも、厳しさも、どちらも風\nおっしゃるとおりですよね…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "nc8f74cb4074e7",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは。\n\n風という存在がただの自然現象ではなく、人生の中でそっと寄り添ってくる「記憶」そのものなんだと感じました。\n\n子どもの頃の田舎の風景や、…",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        },
+        {
+          "key": "ncd2f762a71f09",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\n「私たちは自然と共に生きている」\nという一文が心に残りました🍀 \n当たり前のようで、とても大切なことですね😊\n\nありがとうございます🥰",
+          "article_title": "  🌻夏になると思い出す風",
+          "note_key": "n86e207daeadb"
+        }
+      ]
     }
   ]
 }

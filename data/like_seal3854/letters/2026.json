@@ -594,6 +594,34 @@
         "commenters_count": 0
       },
       "rare_no": 5
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 6,
+        "likes_prev": 16,
+        "followers_start": 515,
+        "followers_end": 509,
+        "new_fans": 2,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "りこひん",
+          "urlname": "rikohin719",
+          "follower_count": 2488
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

@@ -608,6 +608,59 @@
         "commenters_count": 0
       },
       "rare_no": 4
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 114,
+        "likes_prev": 132,
+        "followers_start": 573,
+        "followers_end": 592,
+        "new_fans": 33,
+        "comments_total": 6,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:28"
+        ],
+        "top_article": {
+          "title": "【自分のなかの「初期設定」に感謝して、元気に、そして幸せになる魔法】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.50",
+          "key": "n4b96ae6ea3bb",
+          "likes": 53,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16585
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nc25e75a407852",
+          "user_name": "keito@necocan",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267962346/profile_2e75c8daf5a1d0c86b3df6adfdb3a7d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして、フォローありがとうございます。ギターを弾いているイラスト、すてきですね✨。私も自分のところのキャラに楽器を持たせたかったのですが、AIが、鍵ハモの…",
+          "article_title": "【自分のなかの「初期設定」に感謝して、元気に、そして幸せになる魔法】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.50",
+          "note_key": "n4b96ae6ea3bb"
+        },
+        {
+          "key": "nc8cb9f671a7a5",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196459015/profile_5e9754f831da374fb4c5c7d81cf37176.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。今朝の記事に貼らせていただきたいのですがよろしいでしょうか？",
+          "article_title": "【自分のなかの「初期設定」に感謝して、元気に、そして幸せになる魔法】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.50",
+          "note_key": "n4b96ae6ea3bb"
+        }
+      ]
     }
   ]
 }

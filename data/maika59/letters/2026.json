@@ -1085,6 +1085,92 @@
         }
       ],
       "rare_no": 3
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 527,
+        "likes_prev": 496,
+        "followers_start": 4179,
+        "followers_end": 4368,
+        "new_fans": 124,
+        "comments_total": 12,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "18:36",
+          "06:04"
+        ],
+        "top_article": {
+          "title": "Google Flowの使い方『映画のような動画を作る3つの方法』-【動画生成AI】-｜AIアニメ ｜AIアート｜プロンプト｜AIイラスト 　",
+          "key": "nba6b4978f497",
+          "likes": 207,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16585
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nc6b79285dc2fe",
+          "user_name": "ほんだ  |  CAD  |  AutoLisp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262999433/profile_22d7f4c1ab13d88cfd3dcf2e1544818d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "千住さま、投稿お疲れ様です！\nこの度は当方の記事をご紹介くださり、誠にありがとうございます！\nアプリ、使ってみてくださりとても嬉しいです！\nアプリ制作はまだまだ…",
+          "article_title": "『サイバーパンク夏祭り』-【AIアニメ動画】-",
+          "note_key": "nfc6d470427c2"
+        },
+        {
+          "key": "nc94d65f53b2be",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。教えてくださってありがとうございます。",
+          "article_title": "『サイバーパンク夏祭り』-【AIアニメ動画】-",
+          "note_key": "nfc6d470427c2"
+        },
+        {
+          "key": "ncb0163b627f16",
+          "user_name": "くろえ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294480202/profile_c06255ca50ad0f98ca1ebd1a823aee81.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは～動画作る過程がわかりやすかったです。\nでも、実際作るとなると私の頭ではケムリがでそうです。( ;∀;)",
+          "article_title": "Google Flowの使い方『映画のような動画を作る3つの方法』-【動画生成AI】-",
+          "note_key": "nba6b4978f497"
+        },
+        {
+          "key": "nc5ef477cbcd33",
+          "user_name": "マカロニぐらたん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295049107/profile_1577103b53a70345cfe6632a2c9a1210.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんはです。🌙\n千住さんの絵が可愛らしかったので、記事にして大丈夫ですか。ヨロシクです。",
+          "article_title": "Google Flowの使い方『映画のような動画を作る3つの方法』-【動画生成AI】-",
+          "note_key": "nba6b4978f497"
+        },
+        {
+          "key": "nc6d9c8d516f16",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。教えて頂きありがとうございます。",
+          "article_title": "Google Flowの使い方『映画のような動画を作る3つの方法』-【動画生成AI】-",
+          "note_key": "nba6b4978f497"
+        },
+        {
+          "key": "nc58fbb77d6025",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\nご紹介いただきましてありがとうございます。\n\nGoogle Flowで映画的な動画を作るなら、を観ました\nわかりやすく、なるほどその手が…",
+          "article_title": "Google Flowの使い方『映画のような動画を作る3つの方法』-【動画生成AI】-",
+          "note_key": "nba6b4978f497"
+        }
+      ]
     }
   ]
 }

@@ -4523,6 +4523,372 @@
           "note_key": "nd85cc3ca9a61"
         }
       ]
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1102,
+        "likes_prev": 1456,
+        "followers_start": 1504,
+        "followers_end": 1554,
+        "new_fans": 90,
+        "comments_total": 90,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "18:00",
+          "18:00"
+        ],
+        "top_article": {
+          "title": "こころの葛藤😆",
+          "key": "n1f7cfeb6e705",
+          "likes": 301,
+          "comments": 76
+        },
+        "notable_reader": {
+          "name": "Kusabue／現代語俳句",
+          "urlname": "kusabue",
+          "follower_count": 21571
+        },
+        "commenters_count": 32
+      },
+      "comments": [
+        {
+          "key": "nc7e910b86882d",
+          "user_name": "境界をまたぐ心理士【振り子】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253068092/profile_684215ad7eba3d124844155dff223a1b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😆💴✨",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "ncd441ba269dfe",
+          "user_name": "ゆるしまshow｜小説．体験談．HSP．AC",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291492491/profile_1ee22ae8c8667405509fc9191ff5e611.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "買ってもうた🤤🤭",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "nc2e9dc22381eb",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😆\n\n「石油王歓迎！」からの「札束で殴り合え！」に笑ってしまいました🤣\nいつもながら、タイトルから最後までKingさんワールド全開ですね😆\n\nいつも…",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "ncc5ad98d03289",
+          "user_name": "コウヅキ ハナエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262131492/profile_a2318ddf53f035c1f7d54b13c898e0e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは😃\nあまりの面白企画に、ついメンバーシップに加入してしまいました🤣🤣🤣",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "nc307975825c31",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271470614/profile_112e71abeaceddb2ab033b49d5f56568.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤣",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "nc97f5533eafef",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは☕✨\nいつもありがとうございます。\nところで、参加者は購入しないでください！❌\nこれがよくわかりません。\n私メンシプに参加しているけどチ…",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "nc8d0c1cfbb0b2",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私の顔面を札束で、引っ叩いて😇",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "nc39a0c0d7b949",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤣🤣🤣",
+          "article_title": "スーパーチップ企画！😆",
+          "note_key": "n74774ca36809"
+        },
+        {
+          "key": "nc39b5b9301c06",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは\nコングラボードの獲得、おめでとうございます\n\n計算と直感のあいだで揺れるお話を\n私自身の日常にも重ねながら\n頷きつつ拝見いたしました\n…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc68807a13d316",
+          "user_name": "♡海藻うさぎ猫♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294471916/profile_a45c9fb18544dde3a34e58e731d93159.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨\nいつもありがとうございます😊\nわーい🙌🐰\n",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nca2cee365632f",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc454b9831f7f4",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\n私も先ほどいろぉさんのとこに行って、試してみました✨\n前はINFJだったのに、INTJになっていてビックリ😳\n面白そうな本がたくさん✨\n近々kin…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc0ae84ecc4e9f",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い量の本とコングラですね✨\nnoteだけで大変そうですね😆",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "ncb6f299455a94",
+          "user_name": "sc_fun｜AI×note収益化サポート😺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238585370/profile_d3940d29208e16d8c13feedce8989fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、私の知らないことがいっぱい…\n特にMBTIアーキタイプ診断。\nあれをやってみたいです🐱",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc73cdb978af15",
+          "user_name": "黒米たけし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234585253/profile_22b67fe04fba4ffcf2951bf73a82c99a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\n\nこんばんは。\nINFJ だったのですね。\n当方、間をあけて４回行いましたが、いずれもINTJでした。FとT の違いはありますが、遠戚のようなもの…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "ncaa56228c92b6",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌆。\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます。\nまた、記事の高評価ありがとうございます。",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc7f5445e5ccf4",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nいつもありがとうございます！\n\nMBTIアーキタイプ診断、面白そうだったのでこっそりやってみました。\n僕もやっぱりINFJでした😎\n同じですね〜✨",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nca6b465ac7100",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、「空気を読み過ぎて言動を行うと、空気として扱われる」という言葉が、とても印象に残りました。\n\n周囲の状況や相手との関係を考え、冷静な最適解を選ぶこ…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc0dd4f0c40ce3",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\n空気読みすぎて空気になる\nなるほど、気づかなかったです。\n\nマガジンにも入れて頂き\nありがとうございました！",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "ncd6e3ca1d94da",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは！\nいつもありがとうございます♪\n\n私の記事をマガジン追加していただき、ありがとうございます！",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "ncfc41fc0aee2d",
+          "user_name": "まんまる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269144961/profile_2ddd16bbb0f86761640576ac43019453.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nいつも私の記事をマガジンにピックアップしていただき有難う御座います！",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc87d4cc386ef5",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nccff0c16c2c84",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nMBTIよくわかりませんが私もINFJ-Tです。一緒Yeah！\n最近は｢あえて｣空気を読まない、が私の中で流行ってます。\n",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc122e994eb915",
+          "user_name": "てらす｜不登校から大学受験　　　ASD      パニック障害の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221157900/profile_64d666d2410a7e45c9b6519032c0aa66.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんにちは😊\n答えを急がず、考え続けることの大切さを感じました。\nお名前に込められた思いを想像しながら。\nマガジン追加を本当にありがとうございます…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc2e238e7641cc",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そうそう、計算機と脳 (ちくま学芸文庫 フ 29-4 Math&Science)\nJ.フォン ノイマン　いいですなー。アタクシも読みたくなっちゃいました！ノイマ…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc7df77f006c95",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、冷静に考えた最適解と、それでも動かずにはいられない気持ち。\n\nその二つがぶつかり合う葛藤の中に、こころの在処があるのかもしれないという言葉が、とて…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc628242b8b74a",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267110140/profile_a7a14a7914bcb2b217602601d3f3e0e1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌛\n\nやってみました！\n私も提唱者です🌸*･\n\nたしか相性いいですね(*´˘`*)\n\nコングラボードも\nおめでとうございます🎉",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc0e11c2d641be",
+          "user_name": "Noa",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269973521/profile_77ebb6ddc767747de9bb5bfef312b21b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nいつもマガジン追加やご紹介をいただき、本当にありがとうございます☺️💕\n空気を読みすぎて空気として扱われるか、言わずに後悔するか。\nその狭間で迷う…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc7ffec785907d",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\nKingさんらしい心のありかだった〜\n対立や矛盾を乗り越えた先\n\nで最近買った本がまたすごいねえ\n法哲学辞典　ちょっと何が書いてあ…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "ncf17ea94997bf",
+          "user_name": "やも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258648405/profile_ee869852783a5a9a11d34fd10d919f33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きんさん、こんばんは🤗\n\nコングラおめでとう🎉🎉\n\n診断、面白そうだからやってみまーす！",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "ncb70cfdb07aa2",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは☕✨\nコングラボード獲得おめでとうございます✨\nいつもマガジンご紹介ありがとうございます。\n\n最適解では黙っていた方がいい。\nそれでも、…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc642a19a6bd84",
+          "user_name": "yoちゃん｜人生迷子のアラフォーOL",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279470465/profile_777275ca763868d309f35bcf79988cc6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんこんばんは✨\n先日もマガジンに記事を取り上げてくださり、ありがとうございます😊\n\n今は黙っておいた方が良さそう、\nでも心では言うべきな気もする、\nそ…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc45f76132eba5",
+          "user_name": "IQロジック心理士いろぉー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221242972/profile_5343e4195be448687a54f6059ad8cc9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\n\n記事でご紹介いただき、ありがとうございます。\n\nこのアプリ、私はINTJでしたので、INFJのKingさんとは相性抜群みたいですね‼️\n\nミラ…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc032c561f305f",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あたくしも記事で拝見してやってみようかなーと思っておりやした！Kingどのがやっていらっしゃるのでアタクシもやってみよ！",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc58cb78672de5",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290931619/profile_413d37d78cf8c89db67f4770c38ad6cb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちわ😊\nMBTI、やったことないからやってみよー✨\n\n持ってる本が出てきて、前のめりで記事読んじゃいました🤩",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc0bd3ec8810da",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、今日は比較的、冷静になって記事を記載されていますね。\n直感って意外と当たります。\nその間で揺れ動く心、大変良く分かります。",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc5882e2945b99",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは\n\n冷静な最適解と、直感が導く想いのあいだで揺れる気持ちを、丁寧に言葉にされていて、心に響きました。\n\n空気を読みながらも、ご自身のここ…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc08822c00306b",
+          "user_name": "やさい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254968683/profile_d779b13204b382b0c16d6c2b48fea44a.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんこんにちは！\n\nMBTIで提唱者なんですね！\nたしか世界で一番希少なタイプですよね？キング牧師と同じ🤭\n\nもしかしてKingさんの名前はそこからです…",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc58fb3b7a9d98",
+          "user_name": "境界をまたぐ心理士【振り子】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253068092/profile_684215ad7eba3d124844155dff223a1b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすが知的エンターテイナー👏😊💕\nMBTIですか🤔\n僕もやってみようかな🤔",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc2471458b40a5",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285324530/profile_9d0cb7a9b5d306860a0cab9a95f15b9d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさんいつもありがとうございます。\n今日は深いお話でした。\n考えてしまいます。\n\nそして🍀\n\n✨kingさんコングラボードおめでとうございます！💕✨",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        },
+        {
+          "key": "nc0773b263f11b",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nやっぱりかなりレアな存在だったんですね✨️\n\n私もやってみようと思います♪",
+          "article_title": "こころの葛藤😆",
+          "note_key": "n1f7cfeb6e705"
+        }
+      ]
     }
   ]
 }

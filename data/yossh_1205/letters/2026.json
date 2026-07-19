@@ -5887,6 +5887,472 @@
           "note_key": "n13392fe2dc93"
         }
       ]
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1214,
+        "likes_prev": 1231,
+        "followers_start": 1288,
+        "followers_end": 1302,
+        "new_fans": 105,
+        "comments_total": 102,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "12:35",
+          "22:48",
+          "18:53",
+          "20:59",
+          "18:38",
+          "19:02"
+        ],
+        "top_article": {
+          "title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "key": "nada4e15354bc",
+          "likes": 266,
+          "comments": 39
+        },
+        "notable_reader": {
+          "name": "ほしの遥華",
+          "urlname": "hoshinoharuka33",
+          "follower_count": 9645
+        },
+        "commenters_count": 39
+      },
+      "comments": [
+        {
+          "key": "nc2e46a89912d0",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nはじめまして。\n\nマガジン追加していただき、ありがとうございます。\n皆さまと繋がりを持たせて下さり感謝です✨\n\n",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nce6a33718eb07",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、わかります～😊\n\n",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc35832c307d54",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回も取り上げていただき、ありがとうございます。\n\nこうして続けて見守っていただけることが、とても心強いです。\nこれからも、自分らしい言葉で書き続けていきます。",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "ncefa0e85b2f3d",
+          "user_name": "なごみさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289968642/profile_589301d313b47d3ed1e8f3cfdf4a4768.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは。\n初めてマガジンなるものに登録していただき、感激しております。読んでいただけたと分かると嬉しいです。マガジン登録までして頂いたら、もう…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc2aa18b2c1ca7",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、はじめまして。\nご挨拶が遅くなってしまいごめんなさい🙇\n\nマガジン追加して頂きありがとうございます✨🙏\nご縁に感謝いたします。\n\n今後ともどうぞよ…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "ncfbc55b4a0969",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292319875/profile_a76080f1df5dcae5ec23a11c17a6c577.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん(///з///)♡\n\nわかってくれてありがとう〜⁄(⁄•⁄ω⁄•⁄三 ⁄•⁄ω⁄•⁄)⁄ﾃﾚﾃﾚ\n\nあ？私だけやないのに…照れてます( ˶°⌓°˶…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nce726072a6f53",
+          "user_name": "🌿風の猫｜ココロリーフの物語",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/197291914/profile_c75b122fa98092d4eee4b73b093e9d3e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、はじめまして☺️\n\n「読みに来てくれてるの、ちゃんとわかってますよ〜」\nその一言に、なんだか胸が温かくなりました🥹\n\n読者には見えないところまで、…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc21196394659e",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読みに来てくださっていることが、スキやコメント、マガジン追加を通してちゃんと伝わるのって、うれしいですよね😊\n\n今回も「茶色いものは美味しい」をマガジンに追加し…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc9cf9b2d1cfe9",
+          "user_name": "ふじ｜美容と健康",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332159/profile_964aac0fa36a6ce9899e20c8780e9aa4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま✨\nこのサムネのよしひろちゃん可愛い～😻💕\nいつもマガジン追加や、ぼちぼち見にきてくだり\nありがとうございます！\n嬉しいです😊😊",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "ncb5435dc76db2",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもマガジン追加をして頂きありがとうございます🥹\n嬉しい気持ちでいっぱいです🥰",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc08c71bf5c03d",
+          "user_name": "あおい｜仕事と本音のあいだ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247348666/profile_ca31673512c650bfe156dc7e5e77a9f0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもマガジン追加ありがとうございます✨\n私も、よしひろさんの気持ちがうれしいのです☺️\n\nなにかコメントしたいと思いつつ、うまく言葉にできないことばかりです🧸…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc35dc207f99cf",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは。\n\nすごくお気持ちわかりますし、いつも感謝しております。\nいつもマガジン追加ありがとうございます(*- -)(*_ _)ペコリ\n",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc94ad82bc48c7",
+          "user_name": "パタコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287083278/profile_6318ae2666d33efeda6208009c0cf0b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんだなー🌈✨\n\nもう全部が納得✨\nいつもなんとなーく思ってるところを文章化してくださっていて、\n「あぁ、神🌸」\nと思っています🤭\n\nいつもマガジンへお…",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc1aba4b880003",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nマガジン追加\nいつもありがとうございます😊",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nce033ac6d64e5",
+          "user_name": "月 りつこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265760878/profile_d04ec914ff573ea0659c020a07049970.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもマガジン追加ありがとうございます✨️優しいお気持ちが嬉しいです😄",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "ncc7aa14f77921",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、いつもマガジン追加をありがとうございます。\nお返しマガジン作ってみました。\nよろしくお願いいたします😊",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc6716c54a72fd",
+          "user_name": "佐藤雀＠すずめ組",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169740013/profile_2e3e9c826d37a12338795bf96a653fa5.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "投稿はそれぞれのペースですからね。\nコメントもそのときのノリみたいなものを残したくて書いています。\nせっかくなのでコメントしましたｗ",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "ncb839b76bdddc",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295450260/profile_aeaeabb7114ee51b93eeeb226430126a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは🌺\n\nちゃんと読んでいても、\nコメントが浮かばない時って\nありますしね🥰\n\nって言いながら、コメントを書いてみました🤣",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc87ece4e01122",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは☀️\n\n過去記事も読んでいただいてましたからね🙈🙈🙈\n\nこちらこそ、いつもありがとうございます🥹🙏\n\nマガジンへの掲載も感謝です🥹🙏",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "ncf0e0eabd8472",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは。\n\nすごくお気持ちわかります😅\n\n面白いです。そんな気持ちを文章に🤭\n\nマガジンに記事追加をありがとうございました！\n",
+          "article_title": "読みに来てくれてるの、ちゃんとわかってますよ～",
+          "note_key": "nada4e15354bc"
+        },
+        {
+          "key": "nc5a3d11d177ba",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242853208/profile_868cf0850d54d0a98ca0406d82454cfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは☀\n投稿時間23時…徹夜予定のコーヒーですか？😅💦\n私だったら、とりあえずお風呂と歯磨きとお布団の準備を整えますね✨\nよしひろさんは、エライ😊🍀\n",
+          "article_title": "いつ終わるかわからない予定がある日",
+          "note_key": "n3d36d9cd408a"
+        },
+        {
+          "key": "ncd2096bf6d3ce",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは\n\n「始めていないのに、\nすでにちょっと疲れている」に\nふふっと笑ってしまいました\n自主性の手ごわさ\nよくわかります\n\n「笑いながら、な…",
+          "article_title": "いつ終わるかわからない予定がある日",
+          "note_key": "n3d36d9cd408a"
+        },
+        {
+          "key": "nc126e2c071d23",
+          "user_name": "Lumen C.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233701242/profile_34285f3b90b5f3bfc48742275f8d4a94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "未完了の予定って、実際に動いていなくても認知の一部を占有し続けるんですよね。\n締切も開始時刻も自分次第だと、自由がそのまま判断コストになる。\nだから始める前から…",
+          "article_title": "いつ終わるかわからない予定がある日",
+          "note_key": "n3d36d9cd408a"
+        },
+        {
+          "key": "nce03e2bb13a93",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは♪\nその感覚、すごくわかります。\nコーヒーの後、予定に取り掛かることはできましたか？\n\n",
+          "article_title": "いつ終わるかわからない予定がある日",
+          "note_key": "n3d36d9cd408a"
+        },
+        {
+          "key": "nc60b363125742",
+          "user_name": "musicat/おとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237713470/profile_2774fda1b9199e603d2c82ed8a8bc97d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど、お上品な逃げ方ね🗒️✍️\nとっても大事だと思います✨\n\n逃げた先に寛ぎセット用意しておきます🍺🎆",
+          "article_title": "原因を考える元気もない日だからこそ、お上品に逃げましょう✨",
+          "note_key": "n1fbcfbf72726"
+        },
+        {
+          "key": "ncc1a62adf5ee0",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292319875/profile_a76080f1df5dcae5ec23a11c17a6c577.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "柔らかな感性やわ…読むお薬…ラクになる捉え方…生き方、行き方やと思う…\n\nいつもありがとうございます💖💖💝マガジンも、ありがとうねー♪",
+          "article_title": "原因を考える元気もない日だからこそ、お上品に逃げましょう✨",
+          "note_key": "n1fbcfbf72726"
+        },
+        {
+          "key": "nc52417fcd0d40",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295450260/profile_aeaeabb7114ee51b93eeeb226430126a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌺\n有料記事の執筆、お疲れ様でした👏✨\nかなり勉強になりました🥰❣️\n\nよしひろさんみたいな考えの人が増えたら、\n世界はもっと優しくなる…",
+          "article_title": "原因を考える元気もない日だからこそ、お上品に逃げましょう✨",
+          "note_key": "n1fbcfbf72726"
+        },
+        {
+          "key": "nc2fe323cda6a3",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteだけの話じゃないですけど、ひと昔前はよく「作り途中のエクセルファイルが保存する前にフリーズした･･･（絶望）」と味わっていたことを思い出しました。\n今は…",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "nc5e68cce76981",
+          "user_name": "太めのスローロリス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270199774/profile_fea512eb92442ee5df26b74b3bb4e1f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。記事を読んで、\n楽しさが先行してnoteの記事もコメントも返信も勢いで書いてアップしている自分に気づきました。😁\n記事だけはバックアップや下書きをし…",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "nc3d1a2d1a9251",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます✨\n\n書きかけの文章が消えた瞬間って、内容以上に「さっきの勢いまで消えた」感じがして悲しいんですよね🤣\n\n対策した方がいいのは分…",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "nc7d977a5c1a38",
+          "user_name": "右脳鍼灸師｜健康と自由の探究者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287823379/profile_ed467903c9a7195c6c228bd9b585d8ea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うっかり、てたいてい集中してない時にやらかしますね😅\nながら作業は危険です",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "ncd39d60d3a354",
+          "user_name": "rika🌷",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238910767/profile_373a9816961e0c2decd5f9e33be51347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もです💦\n\nぎゃー！！！！消えた💦\n書き直しだ😱ってなります😭",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "ncbe9a6f038523",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネの泣いてる子が可愛いですね☺️\nうっかりコメント消えることもあります😢",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "nc7379ce71b52e",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしもですよー😂\n\nスマホからぽちぽちしてたら\nガッツリ消えて\nまあ、そんな時もあるくらいで\n勢いでサーっと書いちゃいます✍️\n\nいつもスキやマガジン追加をし…",
+          "article_title": "準備と対策は大事だよね。",
+          "note_key": "n6488ce8c0862"
+        },
+        {
+          "key": "nca332b942fe11",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは♪\n質問箱の使い方や機能を知らなかったので、\n教えていただいてよかったです😊\nなんでも楽しめるってステキです✨",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "nc74ae0e6683c4",
+          "user_name": "凸凹おばば（ひなたばあ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211548948/profile_c4d4f328aa56aa4ce7c54133cc42645b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは\n質問箱への見方が変わったかも？です。\n楽しんでいらっしゃいますね。\n使い方も教えてくださって、ありがとうございました。",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "ncf6628f91c756",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは\n\n赤丸のところは\n隠さなくてもよかったかも、と\n添えられていた一言に\n気さくなお人柄がにじんでいました\n\nフォロー数を絞っている理由が…",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "ncc24b1ec712cd",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんの質問箱、にぎわっていますね✨\nお人柄ですね〜🤭",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "ncd62efa5b57b0",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\n\nこの進化知りませんでした✨回答にスキも押せるようになってますね！\n\nいつもマガジンへの追加ありがとうございます😊",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "ncafc42779a187",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295159746/profile_a32b43e632372613a987b91911c54cca.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "質問箱、改良されているのは良いのですが……匿名性を悪用し、個人攻撃に使っている方もいるので、個人的にはいかがなものかと感じる部分があります。\nそのため私は、使用…",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "nc4cafbefd0f67",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "質問箱にこんな機能があったんですね😳 \nフォローしている方の回答をまとめて見られるのは、また違った楽しみ方ができそうです✨\nそして、いつもマガジンに加えていただ…",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "ncd21f0d5ff2fb",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\nいつもありがとうございます😊\n\n質問箱、パワーアップしてたんですねー。\n初期版含めやってないのでよくわかってないですが笑\n\n設置して…",
+          "article_title": "質問箱の楽しみ方💡",
+          "note_key": "nbc02742fe317"
+        },
+        {
+          "key": "nc8ca2d772a708",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nブロックに気付く仕組みはそういうことなんですね👀\nはじめて知りました！\n\n…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "ncbfbb2f05ce3d",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "知らなかったです。\nブロックしたらスキは減るのに？\n\nよしひろさんが認知されている証拠かもしれませんね🫡",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "nc387ff3f02bdb",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280082912/profile_27c6de0e430e96c942efcfde0e0dc5ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ブロックされていることに気づける機能ってなかなかないですね😅noteってそういう場所なんだぁと初めて知りました。ありがとうございます😊",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "ncefb0bb118537",
+          "user_name": "まやのまさこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236870224/profile_7b1d6960187c5813832bb7734662d75f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もスキのブロックされていました！\nそれも全く知らない方から！\n\n同じ方がいるんだ！と思って\nついついコメントさせて頂きましたが🙏\n\nスキのブロックって不思議で…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "nc95abea67731f",
+          "user_name": "ふじ｜美容と健康",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332159/profile_964aac0fa36a6ce9899e20c8780e9aa4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま🌿\nこんばんはー🤭\n読んでて笑いました🤣\nブロックを喜ぶとかw\nしかしそれにしても急にブロック？💦なんなんでしょうねww",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "ncd67692138e7d",
+          "user_name": "シンプル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269727003/profile_3c4e525691cf98f115794d8b2e78df33.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nいつもスキ、マガジン追加ありがとうございます😊\n\nブロックとか、あるんですね。1つ賢くなりました😆\nそして、ブロックを嬉しがるよしひろさんにも、そ…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "ncf4c0114e55a2",
+          "user_name": "Imbue（インビュー）/文筆家/発達凸凹育児",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295450260/profile_aeaeabb7114ee51b93eeeb226430126a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ブロックされて喜ぶよしひろさん🤣🤣\n\nきっと出る杭ではなく、突き抜けているからそういう思考ができるんですね👏✨",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "nc71519bf807b1",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283549989/profile_3a7ebea614b15d29770b137a35c8bdb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nいつもスキ、マガジンへの追加\nありがとうございます😊\n\nブロ⁉️\nもしやお前さん業者やろっていう\nアカウントさんにはブロしてますが\nそんなふうに…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "nc78145411d7b1",
+          "user_name": "空風マナミ　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247072511/profile_f8c3cb6911c80de4c8b865ead1a349c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nいつもありがとうございます♪\n\n途中、よしひろさんはドMなのかと勘違いしそうになりましたが、それほど認知されている。\n受け止め方に素敵を感じまし…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "ncdec943ba4924",
+          "user_name": "さくさく|人生の不安に寄り添う相談室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276714619/profile_61f6d53d099641cf91b77a723cab640b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n\nいつもマガジンへのお気遣い、ありがとうございます✨️\n\nブロック…\nあるのですね😱\n\n私なら落ち込むところ、\nよしひろさんの気もち…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        },
+        {
+          "key": "nc8152c7860e4d",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274861081/profile_59c361cea83d4f4d1c3e6a403c43a90b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんばんは🌙✨\n\nマガジンに追加していただき、\nありがとうございます♬\n\n「ブロックされてて、ちょっと嬉しかったこと」というタイトルに、思わず二度…",
+          "article_title": "ブロックされてて、ちょっと嬉しかったこと。",
+          "note_key": "n4c8a8fdfa12f"
+        }
+      ]
     }
   ]
 }

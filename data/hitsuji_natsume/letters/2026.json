@@ -603,6 +603,35 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 29,
+        "likes_prev": 15,
+        "followers_start": 1389,
+        "followers_end": 1394,
+        "new_fans": 15,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "矢田　和也　(フォロバ94)",
+          "urlname": "joyous_shrew9162",
+          "follower_count": 13142
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 4
     }
   ]
 }

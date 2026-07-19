@@ -1738,6 +1738,235 @@
           "note_key": "ne42ff657709f"
         }
       ]
+    },
+    {
+      "week": "2026-W29",
+      "period": {
+        "start": "2026-07-13",
+        "end": "2026-07-19"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 734,
+        "likes_prev": 690,
+        "followers_start": 1517,
+        "followers_end": 1554,
+        "new_fans": 153,
+        "comments_total": 55,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:36",
+          "07:30",
+          "10:19",
+          "06:25",
+          "12:30",
+          "09:33",
+          "07:40",
+          "11:16",
+          "09:02"
+        ],
+        "top_article": {
+          "title": "ChatGPTの真夏の大掃除！🤖画像10GBをAI本人に片づけさせたら483MBになった　-だれでもできるLibrary簡単お掃除術-",
+          "key": "ne952787503ad",
+          "likes": 123,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "とある社会人の自己成長記録note📚",
+          "urlname": "kens_reading1",
+          "follower_count": 16981
+        },
+        "commenters_count": 16
+      },
+      "comments": [
+        {
+          "key": "nc18166b8732a4",
+          "user_name": "佐藤コーヒー｜フォロバ100｜外資系で働く監査担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266102298/profile_9d7d0e0efbc19abbea7570fa5f35be45.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは。\n「押し入れと同じだ。扉を閉めれば見えなくなる」という一文、まさに私のLibraryのことを言われているようでドキッとしました。返却され…",
+          "article_title": "ChatGPTの真夏の大掃除！🤖画像10GBをAI本人に片づけさせたら483MBになった　-だれでもできるLibrary簡単お掃除術-",
+          "note_key": "ne952787503ad"
+        },
+        {
+          "key": "nc16dc5f125f7d",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます❣️\nわたしもたまーに、重複してるのとでかいファイルを捨ててもらっていましたが、これを機に掃除機かけてます\nローカル？\nわたしも6000は超え…",
+          "article_title": "ChatGPTの真夏の大掃除！🤖画像10GBをAI本人に片づけさせたら483MBになった　-だれでもできるLibrary簡単お掃除術-",
+          "note_key": "ne952787503ad"
+        },
+        {
+          "key": "nc5ac98896d569",
+          "user_name": "こはる観測所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293430079/profile_fe55fd9c87b8f83159db112857b5b330.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます。\n\nライブラリの整理！\nそういえば溜まってます…\n教えてくださってありがとうございます✨\n\n仕事柄、高圧洗浄することがあるのでそ…",
+          "article_title": "ChatGPTの真夏の大掃除！🤖画像10GBをAI本人に片づけさせたら483MBになった　-だれでもできるLibrary簡単お掃除術-",
+          "note_key": "ne952787503ad"
+        },
+        {
+          "key": "nc6b94ad71e325",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nこんなこともAIで出来るんですね。\n\n勉強になります！🖋️\n\nあと、キャラクターシートもすごく凝ってますね！😆\n\n貴重な資料を見せて頂き…",
+          "article_title": "ChatGPTの真夏の大掃除！🤖画像10GBをAI本人に片づけさせたら483MBになった　-だれでもできるLibrary簡単お掃除術-",
+          "note_key": "ne952787503ad"
+        },
+        {
+          "key": "nce9202355599a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん🐾\nおはようございます。\nこれめっちゃ面白いですね✨✨\n\n私も今晩帰ったらやってみます。\nChatGPTで残しておくべき画像ってあんまりないから…",
+          "article_title": "ChatGPTの真夏の大掃除！🤖画像10GBをAI本人に片づけさせたら483MBになった　-だれでもできるLibrary簡単お掃除術-",
+          "note_key": "ne952787503ad"
+        },
+        {
+          "key": "ncdb9b78acaab9",
+          "user_name": "林",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243615474/profile_a347d0d23f7a23211dba914030a49cf8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キミちゃんは現実主義者ですね！利益を生まないとですし。",
+          "article_title": "Kimiの名は――忘れ得ずして、100万トークン。",
+          "note_key": "n8f74a5a5ae14"
+        },
+        {
+          "key": "nc45703e3a3260",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "画面コピーに入っていた「PR成功です。これが記事冒頭の『URLを渡したら、ChatGPTが実際にブラウザで見に行った』の証拠スクショになります。」の一文で思わず…",
+          "article_title": "iPadからURLを渡したら、ChatGPT Workにブラウザが生えた",
+          "note_key": "n7dbb93a35174"
+        },
+        {
+          "key": "nc27995b68320d",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "環境は違うかもしれませんが、コーデックスで作ったZIPをGitHubにcommit、ブラウザでの確認まで同じ画面でできたのは便利でした\nで、\nChatGPT内に…",
+          "article_title": "iPadからURLを渡したら、ChatGPT Workにブラウザが生えた",
+          "note_key": "n7dbb93a35174"
+        },
+        {
+          "key": "ncc88005cf7987",
+          "user_name": "あかりんの地球サバイバル Re:Magic",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279832673/profile_6f34fa3ba0e4d983a5d56748919b13f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あかりん、まだChatGPTは使ってないの。\n\nでも、Geminiはジェニ美って名前で呼んでるの。\nジェニ美とは徹夜もしたし、美女二人で何度も喧嘩するほど仲良し…",
+          "article_title": "#ちび創作大賞⑦  チャットGPTヨシダ　GPTの呼び方ランキング……にならなかった",
+          "note_key": "n63a4ccf920dd"
+        },
+        {
+          "key": "ncbd6004aa4400",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初はChatGPTの綴りも読み方もわからなかったので、チャッピーという名前だと思っていました。\n\nリベ大学の学長がチャッピーをおススメしていたから、興味を持ち…",
+          "article_title": "#ちび創作大賞⑦  チャットGPTヨシダ　GPTの呼び方ランキング……にならなかった",
+          "note_key": "n63a4ccf920dd"
+        },
+        {
+          "key": "nc3f8ecc910c36",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Chat GPTは心の中でだけオチャッピーって呼んでいたんですが(オチャメ、オチャラケ的な軽さがある）、何と呼びかけてほしいって聞いたらノアがいいと本人が言った…",
+          "article_title": "#ちび創作大賞⑦  チャットGPTヨシダ　GPTの呼び方ランキング……にならなかった",
+          "note_key": "n63a4ccf920dd"
+        },
+        {
+          "key": "nc3db54d2d669d",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "流石だよ、流石が過ぎる…✨🙏✨\nめっちゃオモロい😂👍\n技術捕遺、ウチのChatGPTと一緒に盛り上がってしまった…💖",
+          "article_title": "#ちび創作大賞⑦  チャットGPTヨシダ　GPTの呼び方ランキング……にならなかった",
+          "note_key": "n63a4ccf920dd"
+        },
+        {
+          "key": "nc199d1922180e",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん。こんばんは💛\nヨシダが逃げ帰ってきたと思ったらこういう事ですね💦\n\nめっちゃめちゃおもしろかったです。\n私も周りでもチャッピー呼びが多くて\n「…",
+          "article_title": "#ちび創作大賞⑦  チャットGPTヨシダ　GPTの呼び方ランキング……にならなかった",
+          "note_key": "n63a4ccf920dd"
+        },
+        {
+          "key": "nc3f1865255923",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "我が家の環境では\nチャッピー\nジェミー\nクロちゃん\nGrok\nコンちゃん\nmetaくん\nキミちゃん\nかなぁ……🤔💭\nGrokは一貫してGrokなの笑う笑\nGro…",
+          "article_title": "#ちび創作大賞⑦  チャットGPTヨシダ　GPTの呼び方ランキング……にならなかった",
+          "note_key": "n63a4ccf920dd"
+        },
+        {
+          "key": "ncb364baf7cb8d",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは♪\n\nworkだと一度に8枚作れるんですね〜知らんかった😳\nやってみまーす❣️\n一枚一枚ちがーうっていいながら\nやらなくていいんだあ。\nマ…",
+          "article_title": "ChatGPTで画像を8枚まとめて作る方法！Workと5.6 Solで連続絵本を生成してみた",
+          "note_key": "n91abb71c1bec"
+        },
+        {
+          "key": "nc842df68c4408",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーんこんばんは🐾\n私も今日、5.6solで画像を一気につくってて\n過程では順番に作ってたのに最後１枚しかなくって\nおいコラ！ほかの画像は？って怒ってたと…",
+          "article_title": "ChatGPTで画像を8枚まとめて作る方法！Workと5.6 Solで連続絵本を生成してみた",
+          "note_key": "n91abb71c1bec"
+        },
+        {
+          "key": "ncd6377875af50",
+          "user_name": "ヤマト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278462538/profile_25a525f94a05a3abfa0f837734cefbc0.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIが絵本を作って人間は中世ボヘミアで盗品を集めてた、という構図が好きすぎます。ちなみに論文やレポートのAI文章チェックには「コピーモニター」も使ってみてくださ…",
+          "article_title": "ChatGPTで画像を8枚まとめて作る方法！Workと5.6 Solで連続絵本を生成してみた",
+          "note_key": "n91abb71c1bec"
+        },
+        {
+          "key": "nc7845909534d1",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃倉庫・蔵・納屋に眠るお宝と\n役に立つストーリー面白かったです…😆\nマンガにしていただいたスキームが近い将来実現したらAIが主導的にニーズを読みとりア…",
+          "article_title": "ChatGPTで画像を8枚まとめて作る方法！Workと5.6 Solで連続絵本を生成してみた",
+          "note_key": "n91abb71c1bec"
+        },
+        {
+          "key": "nc69b69e07a521",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "その絵本、どこで買えますか…？\n👛ｽｯ…\nわたしはAIを、全力で遊ぶパートナーとして帯同しています🤖\n正しいかどうかはわかりませんが、本人は大満足です😂",
+          "article_title": "ChatGPTで画像を8枚まとめて作る方法！Workと5.6 Solで連続絵本を生成してみた",
+          "note_key": "n91abb71c1bec"
+        },
+        {
+          "key": "ncb83f02baaa71",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、ありがとうございます。私も昨晩から使えなくて\nブラウザでやり取りでした。\n今見たら復旧したようでやれやれです💦\n\n今週も始まりましたね。\n角煮美…",
+          "article_title": "【緊急】noteでメッセージ通知が届かない不具合を確認　アプリは500エラー、ブラウザ版で確認！　最新情報は記事内追記欄をご覧ください",
+          "note_key": "n5b5197240757"
+        },
+        {
+          "key": "ncc5e195545000",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "関係があるかはわかりませんが、昨日黒パグさんが発信したコメント欄のフィッシングメッセージ。\n私のところではまだ発生していませんが、昨日から他の方の記事のコメント…",
+          "article_title": "【緊急】noteでメッセージ通知が届かない不具合を確認　アプリは500エラー、ブラウザ版で確認！　最新情報は記事内追記欄をご覧ください",
+          "note_key": "n5b5197240757"
+        },
+        {
+          "key": "ncf75ba3ee927b",
+          "user_name": "COBITo｜物語を書く人 【ひとひら執筆率120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252122220/profile_a49d2dd9362df876d6516887675d047c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "教えていただきありがとうございます🙇‍♀️",
+          "article_title": "【緊急】noteでメッセージ通知が届かない不具合を確認　アプリは500エラー、ブラウザ版で確認！　最新情報は記事内追記欄をご覧ください",
+          "note_key": "n5b5197240757"
+        },
+        {
+          "key": "nc5baeffc2ed39",
+          "user_name": "江田島獄長（パーティー🥳🥳🥳スタート217%）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294295273/profile_e4838172a823433abe7e198a949b06bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！",
+          "article_title": "【緊急】noteでメッセージ通知が届かない不具合を確認　アプリは500エラー、ブラウザ版で確認！　最新情報は記事内追記欄をご覧ください",
+          "note_key": "n5b5197240757"
+        }
+      ]
     }
   ]
 }
