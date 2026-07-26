@@ -3254,6 +3254,541 @@
           "note_key": "n63b035638856"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 372,
+        "likes_prev": 495,
+        "followers_start": 3107,
+        "followers_end": 3197,
+        "new_fans": 75,
+        "comments_total": 129,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "20:00",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "key": "n3f63225d5338",
+          "likes": 83,
+          "comments": 56
+        },
+        "notable_reader": {
+          "name": "Kikuchi（STORYLINE）",
+          "urlname": "cob",
+          "follower_count": 7905
+        },
+        "commenters_count": 35
+      },
+      "comments": [
+        {
+          "key": "ncd92311b0707d",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは……知っていたら、かなりのめりこんでいたかもしれませんね。\nとにかく、生き残るだけで精いっぱいだったのが、心底悔やまれます。\n逃走前に新型のノートパソコン…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "ncd26096a8b1a7",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんにちは😊\n夏祭り、お疲れ様です✨\n\nひゅーさんの、\n賞金を懸けたランキングバトルになってるのは知ってましたが、\n結果の裏でも熱い展開があっ…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc1887aa4bbb28",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n\n白熱のゲームの裏側にそんな熱いドラマがあったなんて！\n企画の主催というだけでも大変なのに、メンシプの屋台紹介までキッチリされていて素晴らしい…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "ncde734943008e",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、お疲れさまです！\nねー、せなさん、すごかったですよね🤣🤣\nもう赤柴は脱落したまま浮上できず…\nお二人をWで出すこともかなわなかったのに\n3人出すって…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc3173e16729b5",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292846645/profile_895e9f4ffc2c9af0c4606fc88a65ab92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\nお疲れさまでした〜！\nひゅーさんのゲームの裏側にそんなドラマがあったなんて🤭\n最後の頃に遊びに行ったら、ランキングにこちゃさん、まりーさん、せなさん…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc915db0582ba5",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん〜❣️\n夏祭りお疲れ様でした〜😍✨\n\nどデカい規模の企画、本当に大変だったと思います🙇‍♂️💦\nですが！とても楽しい企画を本当にありがとうござい…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc48cb05b60300",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n参加させてもらった側としても想定を超えていてびっくりしました😱笑\n\n主催の2人やまりーさんが楽しんでいる姿が参加者さんがより楽…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc15c0a8f46237",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n猫耳マリーさんのフェアプレー流石すぎますね🤣笑\nマリーさんらしい！！\n\nドヤ顔おもろかったです😂\nあれ誰やろか〜？？笑\n\nnoteで本気のゲー…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc1eee9264f1fb",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いいドヤ顔\n自ら立てたフラグだったんですね😺\n\nこゆイベント見るたびに\n主催は凄いなぁと思います。\nお疲れ様です😼",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc1ef292c6adfb",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん😊\n夏祭りの主催、運営、\nお疲れ様でした✨\nたくさんの屋台、展示、盆踊り♫\n歌や花火、ゲームまであって😳思わず夢中になってしまいました🤣\nHPやスタン…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc9b244b43c6d3",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん✨\n\n焼きそばタイピング、私、3回とも30円しか稼げずでした🤣\n\n夏祭り、本当に楽しかったですね〜✨\n後夜祭もあって余韻に浸っております🥰❤️\n楽しい…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "ncc0ee322646a8",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\nとっても素晴らしい夏祭りの運営お疲れさまです。\n私のご紹介ありがとうございます。\n\nそして、賞金ありがとうございます！！\nたいせつに使わせていただき…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "ncbd23880752eb",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\nなんか、じーんとしてしまった😢\nこちゃさんの「キャラ」ではない、夏祭り、最初は、じまにゃんさんに引っ張られていたような感はあったけど💦\nどんどん、こ…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "ncac39629476e9",
+          "user_name": "ひゅー｜AI×分析｜考察と思考整理を楽しむ。note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282872828/profile_3d5a30e86f70466c0b2b25876a4e798b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "激闘おつかれさまー🎉\n\nそっかーMarieさんがそんな粋な計らいをしていたとは。しかし虎視眈々とタイピングTopを奪取しようとしていたメインスポンサーは確かに油…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc299160bdf16a",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n屋台側も客としても\nめっちゃ楽しめました😆\n\n素晴らしい企画ありがとうございました✨",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc6e0402bddcda",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n私もランキングを見て驚きました。\nベスト5のうちの4つが、せなさんとはww\nそして、スコア1位は、じまにゃんさん1つにKOTAYAさん2つ。\nうん…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nca6b51e35a172",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私のフェアプレーが紹介されている🤩\n\nそんな想定外ばっかりだったのか〜\nこれはメンシプ限定での裏話が\nさらに楽しみになっちゃうね〜❣️💫\n\nタグが後夜祭必須タグ…",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nc254458a8e08e",
+          "user_name": "ひと｜60代の健康と暮らし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292929519/profile_4277fd47bf8b915a318b61b3ac326e8a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても楽しかった！\n楽しかった！\n\nありがとうございます！",
+          "article_title": "主催なのに、想定外ばかりだった。じまこちゃ夏祭りの思い出",
+          "note_key": "n99aaa72543b6"
+        },
+        {
+          "key": "nca178ab5bbf4d",
+          "user_name": "もも │ 溺愛♥️BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！\n素敵な記念画像ありがとうございます♥️\n\n可愛い女の子、わざわざ作成くださり感謝です😭✨\n夜空、ピンク、花火🎇\nちゃんとピックアップいただい…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc9486e7ab8b77",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わわわわ！！\nこちゃさんとじまにゃんさんのラジオですと！😆❣️\nもちろん聴きたいです👏👏👏",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nce3ef22b7f4de",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、\n称号と記念画像が出来上がっていて感動です✨\n駆け込みだったけど、completeできて良かったです😊\n夏祭りに参加させてもらって楽しかったですし、…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc0c7513a1c7ef",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ラジオは、ぜひ聞いてみたいです！\n実際に企画した人たちの、生の声というのは非常に参考になりますし、振り返る良い機会になると思いますので。\nもし公開されるのであれ…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc33bfa6538dd6",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンプリートした画像の私のドヤ顔と称号で通勤中に吹き出しそうになった🤣\nありがとうございます✨",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc347af92ef897",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、ラジオめっちゃ楽しみです😆\nはい、後夜祭記事も書きます😊",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc7917737f6616",
+          "user_name": "ういまる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285175913/profile_d660b4121bc62bc35e9ecd2db27eaa29.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさんお邪魔します🙇\nラジオ風！？いやぁおたより出さないとなぁ🤔ペンネーム：牛乳に恋したリス\nいやふざけてるより先に、記念画像ありがとうございます🙇(笑)\n…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc93560189bc23",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295583025/profile_9cf61c8e1319cc8be987073651d05c4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ラジオ聴きたいです！！！\n\nコンプ目指すかあああっ😆",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc00fcea1c9b9a",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんにちは。\n走り抜けた10日間も終わると思ったら\nまりーさんの後夜祭企画、すごいですね！！\n\nひとまずここまでお疲れ様でした🍺\n\nじまにゃんさんと…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "ncd3223ab745f9",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、おはようございます、現在じこまちゃ夏祭り後夜祭の記事を書いております、そこで私のタロットカード爆発事件にこちゃさん、じまにゃんさん、マリーさんに登場…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "ncfa03b8a957d5",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます！\n\nラジオめっちゃ聴きたい😆\nスタンプ帳、夏祭りコンプ目指して屋台巡ってきます😊",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc45fbe4d08f4b",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\nラジオ良いですね〜ぜひ見たいです！\n\n祭り参加できずに申し訳ないです😭\n\nとりあえず更にカオスになったので\n夏は色々と諦めることにします🤣",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc538782358b97",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴイゴイスー！\n\n盛り上げ隊長の🐿️です♡\n\n早々からの賑やかし、お邪魔じゃなかったかな。。\n\nこんな壮大で面白く楽しい企画。\n少しでもなにかの協力できないかな…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc6ace65f0dc9e",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさーん\n\n素敵すぎるご紹介ありがとうございます🌈✨\n夏祭り、出店もするつもりだったのが、なぜか過密スケジュールになってしまい、スタンプラリー5件で精一杯に…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc9d07e573172d",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん✨記事紹介✨ありがとうございます🙇素敵な記事紹介で、うれしかったです🥰心の奥に少し触れたような感じになっていただき、ありがとうございます😆\n\nそして、…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc844526af9cbe",
+          "user_name": "羅生門SKY",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272587994/profile_595ad687080d54acadbb715ef5a48250.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさーん、こんばんは🌙\n\n夏祭り、盛り上がっていますね🎉✨\nメンシプで裏側も知れるとのこと。めっちゃ楽しみです😆\n自分はどこが一番予想外のできごとだったのか、…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc70e00a4aaf7a",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさーーん！\n\nホームページが盛りだくさんになってますね♬\nステキな画像をありがとうございました🌸\n\nお二人のラジオ✨楽しみにしていますね🌈",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "ncc76bab837ee0",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メインスポンサーが凄すぎて\nたまたま流れ着いた先で\n\n(='ω')？\n\nって顔でポチッとした自分が\n恥ずかしい(=ﾉωﾉ)\n\n|彡ｻｯ",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc9685fc690c70",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n34のうち35ってどういうことなんですかね😆笑\n\n私はホームページ解説して欲しいです✨個人がサラッと作るLPのレベル超えてるし…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc66aa241aca28",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nあ、いつのまにか、ホームページの内容が増えてるじゃないですか！\n天才ですか！？\n天才ですね😎\n称号とイラストが既にあるなんて！！\n\nん？\n称号が「…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "ncace392a19869",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜！お疲れ様〜！🌻✨\n\n画像、めっちゃいいやん〜✨✨✨\n\nラジオ……しちゃおっかな〜〜〜？😚💖\n\nこちゃが語る裏話、私も気になるな〜👀\n\n予想通りなのか？…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc72ce64910c07",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297538927/profile_a32cc670056a55f9879eb0331d84da8f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンプリートじゃない！と思ったのですが、大丈夫でした。\n称号と記念の画像ありがとうございます😊\n\n「じまにゃんとKOTAYAのラジオ、聞いてみたい」\n\n楽しみに…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc3a8bdb2717df",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、おつかれさまです。\n手厚いです、あまりにも手厚くて感動しています。\n面白くて心当たりのある称号とイラストありがとうございます😆🌟\n明日までですね、寂…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "ncf80d5f0fd560",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜❣️🫶\n\nめちゃくちゃ急な差し込みだったのに、\n全力で協力してくれて 大❗️感❗️謝‼️\n\nしかも、「これだけ」のピックアップの仕方、\nうますぎる〜情報…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc5e061735bc4c",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コタヤさん！\nラジオ聞いてみたいです☺️\n\nあと、裏側で聞きたいのは、企画前どこまで詰めて、どこで計画外が出てどうやって修正したか。\n\nよろしくお願いします❣️",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc51a356c1b908",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、お疲れ様です、後夜祭の詳細、丁寧にまとめてくださってありがとうございます✨\n\n10店舗コメントでチップ100円、コンプリートで称号と記念画像というの…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc51a14fce8486",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😊\n一足先にいただいたスタンプラリーの称号と記念画像、見ました！\n\n私の書いた夏祭り記事だけじゃなく、\nコメントに書いた言葉まで拾っ…",
+          "article_title": "【緊急告知】夏祭りは終わらない。後夜祭と8月の振り返り企画のお知らせ",
+          "note_key": "n3f63225d5338"
+        },
+        {
+          "key": "nc9c24100376d7",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい😍　損切りが潔いです。\nタスクが多く断捨離判断軸をご自身で持ち合わせていらっしゃるからこそですね。\n\nこちゃさんの生きた実験。\n引き続き勉強させて下さい。",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "ncfc0622d909ba",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ＸでもKOTAYAさんを見かけたのでフォローさせていただきました。\n\n次はXですね。AIだけだとなかなか難しいところがありますよね💦\nいかんせんどこも交流が一番…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc677c12f677a2",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\nなんだこれはーー！\n行動力が凄過ぎる！！\n\nたまにはゆっくりスーパードライ飲もうや🍺🍺",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "ncc6665a119742",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは🌙\n\nKOTAYAさんは研究家気質ですね✨\nこの記事もさすがの分析力でした👍\n\nXも色々実験されていてすごい⭐\n自分で試してみて、初…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc9f2b4f6ff789",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "発信することと、SNSの相性ってありますもんね。そしてそれは、やってみないとわからない。\nThreadsも、またはじめようと思えばはじめられますしね。\n今はXに…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nce882e2c85f99",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271416481/profile_2ad0ca9caa57d9e15e2778f354874128.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これだけ目を引くKOTAYAさんでも\n\nそうなんですね(;ﾟロﾟ)\n\nSNSは働きながらはホント難しいです。\n\n頭の回路がそちらに行かないです。",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc9c7ba8750b8e",
+          "user_name": "🐾コロッケノスケ☕🌙｜ゲッコーカフェ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、お疲れ様です、262投稿分の分析、データの粒度がすごいです…！\n\n「正直に言う。」から始めると伸びる、というの、noteのタイトル付けにも通じる話だ…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc3c0c369c309f",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは。\n私もThreadsはいまいち苦手で、あまりうまくいってません。\nXは昔からやっているので、フォロワーは多いものの、Xのアルゴリズムが変…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc00fefabaa8d9",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "実験結果と分析力が面白いのと\nスパって切る損切りがうまいです😊\n\nスレッズは凍結の嵐でインスタまで停止させられると困るので手出してません。\n\nXは難しいです。\n…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "ncad3b90e71f3e",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "threadsは……アカウント停止の悲鳴があちこちで聞こえるため、怖くて手を出せない状況です。\nしかも、停止された理由を全く説明しないようなので、noteと同等…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "ncc9099270e791",
+          "user_name": "ジョーイ・ボイオ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278897500/profile_1ac866b33d7a2edde47aa61398088a86.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん😊\nめちゃしっかりデータ分析してますね。\n\nノリだけで生活してる僕には、真面目なコメントは無理そうです。\n\nXをしばらくやっていくとのことなので、僕も…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc057f6bda66ad",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "実験結果、面白かったです。\n\n私も少しやりまひたが、感覚でスレッズはダメだと思いました。\n\nその直後に垢BANされました。\n\n私は辞めさせられたんじゃない。\n辞…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "ncc31e7a307ec6",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがの分析ですね！\n\n仕事と育児の両立だけでも大変なのに、こちゃさん本当に尊敬します✨\n\n感覚だけで失敗認定しない。\nAI使いこなせるのって、やっぱり強いなぁ…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "ncfcf1bee67be0",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ面白〜い🤭\n\nこちゃさんの投稿は全部読んでるから、\nなるほどな〜って思ったよ〜💫\n\nでもAI投稿とそれ以外は\nやっぱ一発でわかるよね〜😙\n\nでも、AIで…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc4463c2b79f96",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n天才かー😍\n何と何を比較してって何パターンあってとか思うと考えたくない😅\n\n中身についてはネタバレで言えないけど一個だけ😆\n\n…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc06531a5e42ef",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、threadsもX運用してたんですね😳\nそれも半自動で！凄いなぁ✨AIを使いこなせるのって強いですね👍\n私は全然…😭\nまだまだ学ぶことがたくさんです…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        },
+        {
+          "key": "nc95cbd331ab8b",
+          "user_name": "はる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281469774/profile_7bd32c16543ff41852d1eaaa8d2e8912.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは✨\n\nAIぽい投稿あるなーって思ってたら\nやっぱりAIでしたか 笑\n\nなんかやってるのかな？って思ったら\nちゃんとやってたんですね！\n\nこ…",
+          "article_title": "Threadsを262投稿分析。AI半自動運用は本当に意味があったのか",
+          "note_key": "n12069de21dce"
+        }
+      ]
     }
   ]
 }

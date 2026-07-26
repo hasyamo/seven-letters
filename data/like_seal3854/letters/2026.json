@@ -622,6 +622,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 7,
+        "likes_prev": 8,
+        "followers_start": 510,
+        "followers_end": 510,
+        "new_fans": 2,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "キシラ | 月10万円の継続収入を最速で作る方法",
+          "urlname": "artist_kishira",
+          "follower_count": 3011
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

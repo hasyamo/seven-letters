@@ -661,6 +661,60 @@
           "note_key": "n4b96ae6ea3bb"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 141,
+        "likes_prev": 121,
+        "followers_start": 598,
+        "followers_end": 626,
+        "new_fans": 41,
+        "comments_total": 4,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:47"
+        ],
+        "top_article": {
+          "title": "【なぜイラストを続けるのか？「上手い／下手」の先にある私の原点】 #壁紙新作あります #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.51",
+          "key": "ned31a9e2afe3",
+          "likes": 65,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "Makari｜AIイラスト",
+          "urlname": "makari_5108010",
+          "follower_count": 6515
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "ncc5efeb133e43",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290320634/profile_4d8ac99ffbb5507d37ab02f02980a1b6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは〜🐾\n楽しいから続けられる。本当にそうですよね( *´꒳`*)\nギターも楽しくなって趣味のひとつになりますように😌",
+          "article_title": "【なぜイラストを続けるのか？「上手い／下手」の先にある私の原点】 #壁紙新作あります #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.51",
+          "note_key": "ned31a9e2afe3"
+        },
+        {
+          "key": "nc53416174d547",
+          "user_name": "ブン｜名画プロンプト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263283129/profile_60ba7dd942e92b06a7bae2c4a97d446f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かき氷のシロップが花びらみたいにひろがってるの気づきました~✨ ステキです☺️",
+          "article_title": "【なぜイラストを続けるのか？「上手い／下手」の先にある私の原点】 #壁紙新作あります #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.51",
+          "note_key": "ned31a9e2afe3"
+        }
+      ],
+      "rare_no": 5
     }
   ]
 }

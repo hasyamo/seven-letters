@@ -3748,6 +3748,234 @@
           "note_key": "n1f0281f64982"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 360,
+        "likes_prev": 396,
+        "followers_start": 660,
+        "followers_end": 680,
+        "new_fans": 74,
+        "comments_total": 65,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "15:00",
+          "06:00",
+          "06:00",
+          "09:22",
+          "06:00",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "最近生成しているイラストたち。可愛いのとか、カッコイイのとか、なんだかワケわからんとか。",
+          "key": "n43991e064326",
+          "likes": 46,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 13401
+        },
+        "commenters_count": 16
+      },
+      "comments": [
+        {
+          "key": "nc2ef90fb621a8",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290931619/profile_413d37d78cf8c89db67f4770c38ad6cb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "幼女戦記、わたしも小説から読んでます😆\n\nものすごく学び多いですよね🤔✨",
+          "article_title": "戦争を起こすのは、国民じゃない。政治と軍事の中枢なんだ。『幼女戦記』から戦争を語る。",
+          "note_key": "n4deb79601aea"
+        },
+        {
+          "key": "nc015576c0d6ad",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たしかに…。幼女戦記、小説から読み始め…文体がちょっと合わず挫折。アニメを途中まで観ていたのを思い出しました！\n別本になりますが「大本営参謀の情報戦記」机上での…",
+          "article_title": "戦争を起こすのは、国民じゃない。政治と軍事の中枢なんだ。『幼女戦記』から戦争を語る。",
+          "note_key": "n4deb79601aea"
+        },
+        {
+          "key": "nc774b0c3a3389",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "小説から読んでますw\n戦略の勉強として読んでますw",
+          "article_title": "戦争を起こすのは、国民じゃない。政治と軍事の中枢なんだ。『幼女戦記』から戦争を語る。",
+          "note_key": "n4deb79601aea"
+        },
+        {
+          "key": "ncbbe53c4bf22b",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1人で連泊する客には、注意！また1つめじゅちゃんのことが知れて、うれしいな(*´∀｀*)",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | オモロいお仕事してました😂👍",
+          "note_key": "ndb3d446c6941"
+        },
+        {
+          "key": "nc3c245c7ab3f4",
+          "user_name": "MeiMei",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246492250/profile_40c6320c73cb9a9473f24655f3366059.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "だんだんありがと@めじゅさん\nこんにちわ\nたくさんの妖怪を見せて頂き、ありがとうございます♪\nおー、こうなるのかー。見られて嬉しいです。",
+          "article_title": "100円で買った型紙を5つのChatに貼ったら、それぞれ違う怪異が棲んでいた…🫣",
+          "note_key": "n4ffb9e380041"
+        },
+        {
+          "key": "nc0aa2899665fe",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん✨おはようございます☀\n\n午後から夜勤お疲れ様です！\n\n2枚目のまたひらきめちゃくちゃかわいいですね🥹🧡",
+          "article_title": "100円で買った型紙を5つのChatに貼ったら、それぞれ違う怪異が棲んでいた…🫣",
+          "note_key": "n4ffb9e380041"
+        },
+        {
+          "key": "ncde47289d2d5f",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🌸\n\n日本語版と英語版で、ここまで曲の印象が変わるのですね✨\n歌詞だけでなく、空気感まで細かくプロンプトに落とし込まれていて、とても興味深かったです。…",
+          "article_title": "泥中の蓮vol.28.5を、英語歌詞で生成する。 『I Breathe in the Mud』",
+          "note_key": "n9ce4b7ff47ff"
+        },
+        {
+          "key": "nc113140d2b934",
+          "user_name": "シツカン｜質感LoRA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291580822/profile_bf4f21a54faea20f5270fd12d8389392.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒と金の装飾で彩られたタロットカードの重厚感がめちゃくちゃすき~✨✨ たまらないです🧡",
+          "article_title": "旅する22枚のタロットカード | タロットカード | 大アルカナ22枚の物語",
+          "note_key": "n534068063189"
+        },
+        {
+          "key": "nc803769bf0382",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タロットの大アルカナ、一通り知識としては知っていたのですが……より詳細に描かれており、これはじっくり後で観賞しようと思いました。\n９番以降に、そのカードのシンボ…",
+          "article_title": "旅する22枚のタロットカード | タロットカード | 大アルカナ22枚の物語",
+          "note_key": "n534068063189"
+        },
+        {
+          "key": "nc7859c334ac21",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タロットカード、中学生のころに買って、一時期ずっと夢中になっていました。\n今振り返ると、少しませていたのかもしれません🤭\n\nタロットカードって、不思議と当たるこ…",
+          "article_title": "旅する22枚のタロットカード | タロットカード | 大アルカナ22枚の物語",
+          "note_key": "n534068063189"
+        },
+        {
+          "key": "nc1ad8d24226f1",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごく素敵です！\n私もいつか作ってみたいw",
+          "article_title": "旅する22枚のタロットカード | タロットカード | 大アルカナ22枚の物語",
+          "note_key": "n534068063189"
+        },
+        {
+          "key": "ncecd7db020a4e",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは✨\n\n同じプロンプトを使っているのに、めじゅ族それぞれの世界観や分析結果が全く違っていて面白かったです😊  \n\nKITAめじゅから異形頭ハ…",
+          "article_title": "零式360度分析、めじゅ族一同でチャレンジしてみた(  •̀ •́ )୨⚑︎゛",
+          "note_key": "n5091afa9ebac"
+        },
+        {
+          "key": "ncb6f9927133f9",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌛*゜\n昨日はありがとうございました💗\n\n今日の記事も素敵ですね😍💓\n整理することがあまり得意ではない私にとって、これだけクオリティの高い…",
+          "article_title": "零式360度分析、めじゅ族一同でチャレンジしてみた(  •̀ •́ )୨⚑︎゛",
+          "note_key": "n5091afa9ebac"
+        },
+        {
+          "key": "nc06b26c552536",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いろんなめじゅちゃんが🥰\n\n薄羽ちゃんはお初でした\n繊細でかわいい\n\nはんくめじゅちゃんとめじゅぴちゃん すきです☺️",
+          "article_title": "零式360度分析、めじゅ族一同でチャレンジしてみた(  •̀ •́ )୨⚑︎゛",
+          "note_key": "n5091afa9ebac"
+        },
+        {
+          "key": "nc935653c4f35e",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ここ最近、異常なほどの暑さですからね。\n外出をできるだけ控えて、冷凍の枝豆を食べる……かなり、魅力的な選択肢に見えてきました。\n今はマンスリーマンションを利用し…",
+          "article_title": "最近生成しているイラストたち。可愛いのとか、カッコイイのとか、なんだかワケわからんとか。",
+          "note_key": "n43991e064326"
+        },
+        {
+          "key": "nc70fba7bdc8a1",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "猫の手の上に王冠が素晴らしい✨\nそうだ肉球は超萌えポイントだ‼️💞💖",
+          "article_title": "最近生成しているイラストたち。可愛いのとか、カッコイイのとか、なんだかワケわからんとか。",
+          "note_key": "n43991e064326"
+        },
+        {
+          "key": "nc630531b69d3c",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "srefの重ねがけや重み付けもいいですよね！！\n画風をさがすのつかうと沼です笑",
+          "article_title": "最近生成しているイラストたち。可愛いのとか、カッコイイのとか、なんだかワケわからんとか。",
+          "note_key": "n43991e064326"
+        },
+        {
+          "key": "nc4840f76ab4a0",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、かっこいい！\nそしてゲコっぴちゃんもできるんですね～\n赤柴の画像で試したらかっこいい女の子に変換されました🤣\nもう一回やってみようっと！",
+          "article_title": "カッコイイだろぉ〜‼️🥴✨👍✨",
+          "note_key": "n806b64123f0c"
+        },
+        {
+          "key": "nc506b730be75d",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいい！！！！\n",
+          "article_title": "カッコイイだろぉ〜‼️🥴✨👍✨",
+          "note_key": "n806b64123f0c"
+        },
+        {
+          "key": "ncc6794bf50f10",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きゃわカッコイー❣️😍😍😍🫶💕",
+          "article_title": "カッコイイだろぉ〜‼️🥴✨👍✨",
+          "note_key": "n806b64123f0c"
+        },
+        {
+          "key": "nc6307a1325e8e",
+          "user_name": "ミュリン♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゲコッぴのダンス✨\nめっちゃカッコイイです✨\n(≧▽≦)✨",
+          "article_title": "カッコイイだろぉ〜‼️🥴✨👍✨",
+          "note_key": "n806b64123f0c"
+        },
+        {
+          "key": "nc8edb210b5859",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nおーーー！\nめちゃくちゃカッコいいじゃないですかー😎\nクールカッコいい！！\n\nゲコっぴはなんだか可愛かったです😙笑\n\nプロンプト使用ありがとう…",
+          "article_title": "カッコイイだろぉ〜‼️🥴✨👍✨",
+          "note_key": "n806b64123f0c"
+        },
+        {
+          "key": "ncb5ec5a3f1859",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かっこいい～😍💓",
+          "article_title": "カッコイイだろぉ〜‼️🥴✨👍✨",
+          "note_key": "n806b64123f0c"
+        }
+      ]
     }
   ]
 }

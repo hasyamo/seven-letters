@@ -632,6 +632,165 @@
         "commenters_count": 0
       },
       "rare_no": 4
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 345,
+        "likes_prev": 29,
+        "followers_start": 1394,
+        "followers_end": 1560,
+        "new_fans": 97,
+        "comments_total": 22,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "22:19",
+          "23:53",
+          "12:00"
+        ],
+        "top_article": {
+          "title": "検証日記｜女神が宙に浮いたので、姉神の「美人は山に入るな」まで辿ってみた。｜ポン出しビルダー＋｜木花之佐久夜毘売命｜石長比売命",
+          "key": "n5047c83be249",
+          "likes": 104,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "山梨県の古民家和み庵",
+          "urlname": "bright_eel176",
+          "follower_count": 35315
+        },
+        "commenters_count": 13
+      },
+      "comments": [
+        {
+          "key": "nc8c5f5d1f3e23",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "DeepLとの差がきになるところw",
+          "article_title": "院生じゃないから関係ない？ 卒論でぶつかった「英語論文の壁」を、対訳PDFで越えてみた",
+          "note_key": "nce1656882abb"
+        },
+        {
+          "key": "nc1002b7cfbf81",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😁✨👍😉",
+          "article_title": "院生じゃないから関係ない？ 卒論でぶつかった「英語論文の壁」を、対訳PDFで越えてみた",
+          "note_key": "nce1656882abb"
+        },
+        {
+          "key": "nc83bd626ea40d",
+          "user_name": "笹原歩奈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊くん。こんばんは。\nサムネを見て、危うく気絶するところでした\n_:(´ཀ`」 ∠):\n\nみなさん、とっても素敵な衣装✨\nかっこいい&かわいさに惚れてしまう😍\n…",
+          "article_title": "零式360度分析",
+          "note_key": "n590243aa6856"
+        },
+        {
+          "key": "nccfd18de0e2f7",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、こんにちはー✨\n\n4人それぞれの世界観が見えて、とても面白かったです😊\n\n同じ銀髪でも、AYAKAさんの柔らかな光と、七尾さんの乾いた空気では、ここま…",
+          "article_title": "零式360度分析",
+          "note_key": "n590243aa6856"
+        },
+        {
+          "key": "nc70a1e81a52bd",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さんとお呼びしていいですか？\n\nこんにちは♪\n\n＼(^o^)／めちゃくちゃ素敵💓😍\n本当に結婚式みたいな、白衣装\nいいですね〜✨\n\nカッコよさと美しさが合わさ…",
+          "article_title": "零式360度分析",
+          "note_key": "n590243aa6856"
+        },
+        {
+          "key": "nc982a910bca36",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがですね🐻✨\nPROJECT AYAKAの画像も立体的！！",
+          "article_title": "零式360度分析",
+          "note_key": "n590243aa6856"
+        },
+        {
+          "key": "nc7ea3cfda9e37",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290355485/profile_a03dd4c8574a15513303f5d303d18132.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん\n\nこの度は企画ご参加☘\nありがとうございました✨\n\n錚々たるオリキャラ😊\n拝見していましたが、こうやって並べることで改めて夏目さんの愛が伝わりました。…",
+          "article_title": "零式360度分析",
+          "note_key": "n590243aa6856"
+        },
+        {
+          "key": "nccf6770100763",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😍💖✨💞💗🤩💓",
+          "article_title": "零式360度分析",
+          "note_key": "n590243aa6856"
+        },
+        {
+          "key": "nc1b96847ea043",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え！？\nKITAさんが！？\n（はしゃもさんの時も完全に騙されましたw）\n\n山岳安全管理担当\n私もこの解釈のほうが好きです💖",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        },
+        {
+          "key": "nc49bde594433f",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんばんは🌙\n\n途中まで普通に羊さんの記事として読んでいたので、種明かしで完全にやられました笑\n\n文体を再現するだけではなく、外側から書かれた自分の文章…",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        },
+        {
+          "key": "nca9560fb7e0b5",
+          "user_name": "浅井めぐみ🎨フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234933909/profile_d6a4fc2f5f1eaa165f996a3bae9ae48c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "石長比売命さまの見方が変わりました😊\n嫉妬ではなく安全を守る女神、しっくりきます⛰️✨",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        },
+        {
+          "key": "ncd1bef096c70a",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "真夜中におじゃまします💕スキしたら、久々にケモ耳ちゃんに会えました😍♥️\nびっくり‼️何の違和感もなく、羊さんの考察だと思って読んでました‼️（笑）キタコレさん…",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        },
+        {
+          "key": "nc8f67accd1e1b",
+          "user_name": "ノラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284839197/profile_00d0686431c2f5e4a24690e342ffff12.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "\"浮いた違和感\"を修正せずに残して、そこから神話へ広げていく発想がすごく好きです。破綻を消すんじゃなく物語の入口にする、というのはAI画像ならではの遊び方ですね…",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        },
+        {
+          "key": "nc52b27d306de2",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🥰💖✨💗💞😉👍",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        },
+        {
+          "key": "nc109327890b3f",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォローに戻します",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよー(*`･ω･)ゞ\n久々の記事、私も楽しく読めたよ(ง ˙ω˙)ว♪\n\n自分が書いていないのに、自分が書いたように感じるほど思考の流れまで再現されていた部…",
+          "article_title": "検証日記",
+          "note_key": "n5047c83be249"
+        }
+      ]
     }
   ]
 }

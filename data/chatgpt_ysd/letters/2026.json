@@ -16381,6 +16381,1425 @@
           "note_key": "nba787f5b6633"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1813,
+        "likes_prev": 1952,
+        "followers_start": 2189,
+        "followers_end": 2199,
+        "new_fans": 115,
+        "comments_total": 380,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:09",
+          "07:21",
+          "07:25",
+          "07:01",
+          "07:22",
+          "07:22",
+          "07:26"
+        ],
+        "top_article": {
+          "title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法｜コミックエッセイ",
+          "key": "n5b8148065cf0",
+          "likes": 253,
+          "comments": 45
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15598
+        },
+        "commenters_count": 77
+      },
+      "comments": [
+        {
+          "key": "ncefee4133e91e",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👍",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc45621cf8b8ed",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nカワムラさんのことは、本当に尊敬しています。\n言葉だけでなく、目標を掲げるだけでなく、しっかりとそれに向かって走る姿勢も、辿り着…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc743aac27d999",
+          "user_name": "勘違いアイドルしがみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/182925138/profile_83fd0515145833c1f63d3ec6d6cf4149.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企業案件かぁ～♡　カッコいいです✨️✨️✨️\n不労収入は、憧れます♡　\n有料記事やメンシプは、評価されますが、やりがいになります。特にメンシプは♡　忖度や社交辞…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "ncfa1adcd02ae4",
+          "user_name": "銀狐監督（社畜Lv5.0）【今からお前たちを殴る！113%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297745480/profile_e27eaa6198449bf80152ee1c5b828610.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん🙊\nお疲れ様です🙆✨\n\nこういう経緯があったんですね🤔\nちょっと背景とか見えずに楽しませてもらっておりましたので頭が下がる思いであります🫡\n\nいよい…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc7fcca1bf6173",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nカワムラさんっ😳😳😳\nヤバい🫢私、企業案件って気付いてませんでした🫢🙈💦🫢🙈💦\n\nチビ創作大賞で、polloAIさんがスポンサー…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "ncf553884ade3b",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "む～かわが生き生きとした記事書いてると上がるわw\n思えば最初の有料記事、マンガの描き方買おうとしたらなくなっちゃったのが最初だったw　買ってたら逆に変な気を遣わ…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc0fdb17568c24",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは✨\nいつもマガジンに追加していただき、ありがとうございます☺️❣️\n\n毎日投稿、企業案件、イベントの企画、お仕事まで本当にお疲れ様です✨…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc6adc5040a24d",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんは、記事が役に立つだけでなくて、コメントの返信も一人一人に合わせて、一回も忘れず（はしゃもさんのおかげ？）信用を積み重ねているから、仕事につながると…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc176fc62e406d",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは😊\n\nスキする人増やしすぎて手が回らなくなってました💦\nスキ制限あるからやりたくてもできなくなりますよね😆\n\nイベントお疲れ様でした✨",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc0c9c94e893ec",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜チョ❤️こんにちは♪\n\nカワム〜はすごい😍なぁ👍\n週6で仕事して、毎日投稿、企業案件をこなし、企画運営、スーパーウーマンや‼️\nしかも、町会掃除🧹もす…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc3f416486581d",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃんは正直でええなあ😊\nスキの向こうにホントは誰もいない方も多いのだけど...😆😆😆",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc6be2d56c38ab",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nこんにちは。\nご紹介ありがとうございます:)\n\n実はアルゴリズム的に、フォロワー数が多くなるとスキの影響力が上がるらしいです。\n\n具体的にいうと、…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc92ac728224bf",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「一万人のフォロワーより、記事を読んでスキを届けてくれる300人が欲しい」\n\nこの言葉、すごく響きました😌✨\n数字ではなく、ちゃんと記事を読んで、想いを受け取っ…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "ncbe491c7b9b9b",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも記事のクオリティが高くてすごいと思ってるのに、さらに週６日も働いてるなんて‥！！\nすごすぎです😳！！！！私も見習います✨",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc20eb8aa03d09",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんにちは🌞\n週6お疲れ様でした！カワムラさんの活動を見ていると本当に参考になっています。\n私はどうしても技術寄りになりがちなのでコミニュティが爆発…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc8f27a9fbedb1",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんがnote歴９ヵ月ってチョット意外、大ベテランのような気がしていたので🤭\n私もnote 歴が同じくらい。初めて面白いなと気になったのがカワムラさんの…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "ncec239b07665e",
+          "user_name": "引井田飯子（ぴいたぱんこ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218039102/profile_70e07f4527bf6067f0a451acdbca7395.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます(о´∀`о)\nカワムラさんはホントに凄い！✨\nスーパーガールです✨✨尊敬！！！",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "nc6f4385efecbd",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます～☀️\nいやいや…週6働いて、毎日記事を書き、コメント返し、noteの記事チェック、企業案件に今回のちび創作大賞。\n凄すぎますw…",
+          "article_title": "一つのスキから「ちび創作大賞」まで",
+          "note_key": "na8d4e2b49d96"
+        },
+        {
+          "key": "ncd1e25bd4a83f",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nカワムラさんはいつも同じくらいの温かさ（の記事）で迎えてくれるので、なんだかほっとします。\n\n花王のゲームはゲーム実況で見ました…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc3f77a5e5cb65",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、\n今日も(毎日？)あつおつです🐈‍⬛✨\n\nジェミニクエスト面白そう👀✨\nこういう没入感あふれるイベント好き🫶\nこれは自分のGeminiさんと協力できる…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc2bb021735b08",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nジェミニクエストは、現地に行けなくても、呪文の画像生成だけはできるみたいですね。\nどんな風になるのか、すでに待機状態ですw",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc3db4c558a59a",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんにちは✨️\n\nジェミニクエスト楽しそう〜！\n呪文詠唱してりゅうおう退治とか、僕らの世代のツボど真ん中でウキウキｗ\n良いなぁと都会は…\nこういう昭和…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "ncdef0f728d3a6",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜〜チョ✨こんち〜❣️\n\n今日はあーつーいー🫠\n都内はやばいやばい😨\nとける🫠\n\n今日はちびヨシダ可愛い💕\nヨシダおにぎり🍙頭笑った🤣\n\nチョコ買って、…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc52f2539c411b",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨こんにちは☀\n\nGeminiクエスト、めちゃくちゃおもしろそうですね😳⭐️⭐️⭐️\n\n行きたい！！\n行けない！！",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc5e44fc97bcf7",
+          "user_name": "NOB",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258825084/profile_11bf84c0b70077823d8ff0b803742218.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさま\nこの度は、ちび創作大賞にて\n大変お世話になりまして、また\nフォローして頂きありがとうございます\nよろしくお願いいたします",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc08774f1b1ddf",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nこんにちは☀\n\n懐かしい😂✨ \n子どもの頃、ビックリマンシールを一生懸命集めていたのを思い出しました🤭",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc92a3f4874868",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nGeminiのイメージとしては、\nラスボスへのトドメでパルプンテを唱えて全快させた挙げ句、\n「新しい学びを得ました（ｷﾘｯ」\nとか言いな…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nceed3da2a7a0a",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよう！\nヨシダの\n別になんともないで！と強がるのがめっちゃ愛おしい🩷\n花王さん、すごいですな。\nホラーに掃除を組み込むとは！\n掃除って、やっぱり異次…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "ncfc7f1cd85053",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます✨\nいつもマガジンへの掲載、ありがとうございます❣️\n\n「痛いの痛いの飛んでいけ」が九州大の研究で効果的だと発表されたこと、知ら…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc4c8e7d260ed1",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nママが怖いGemini😄　昨年暮れに、AIに心理検査を受けさせたらGeminiが一番ストレスが多かったという論文の紹介を見ました。「厳格な…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc6aa1026cee6f",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "見栄をはるちびジェミニ可愛いですね💕\nママがこわいマザコン設定なんですね😂",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "ncbf83715f9378",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダの頭がおにぎり？💃💃💃🎵",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "ncc136a722f3af",
+          "user_name": "たろー | 慶應生×AI副業×テスラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288891748/profile_8c6fae49d5add391019b5a8d089a1001.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「痛いの痛いの飛んでいけ」が九州大の研究で神経の仕組みとして解明されていた、というニュースは初めて知りました。おまじないだと思っていたものに科学的な裏づけがある…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc6c7cda81adc8",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nカワムラ一味のGeminiは\nダイの大冒険のアバン先生に似てますね🤭メガネ\n\nGeminiストラッシュとか使いそう\n\nいやメガネだけか笑…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc3e9bc042c1f6",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n凄い企画ですね😳😳😳\nめちゃくちゃ面白そう🤣🤣🤣\n\n街中で大人が魔物？倒してる😂😂😂\nまさかのAI使って😂\n\n花王のゲーム…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "nc8fec2029b05f",
+          "user_name": "樹莉杏🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285731060/profile_396ce2dc941f7986f9322ce121989147.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます😊\n\nな…なんとすごい企画✨️\nドラクエ(FFも好き)好きな私からしたら…もう考えただけで身震い💦しそうです！\n街中(やってる場…",
+          "article_title": "ちび生成AIニュース",
+          "note_key": "n023725dd904a"
+        },
+        {
+          "key": "ncd19b31198b22",
+          "user_name": "スイッチくん🐻😊 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "正確にはサンドボックス内に問題のモデルが置かれてたらしいですが、抜け穴があったみたいですね🐻 完全に設計の問題",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "ncf6620b45a0f5",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\n\nこういう話を読むと、スカイネットを思い出します🤭\n\n小さい頃は、ターミネーターって「人間じゃない何かが、人間の姿をして襲ってくる怖い映…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "ncf9f5a6bc7edc",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、あつおつです🫠\n\n🏃💨💨💨　🚓🚓🚓\n\nAIさんも報連相大事。\n暴走する要因になる前にちゃんと\nすり合わせしないとですね。\n\nヨシダさんからの大量の好き…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc7a023ee95472",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんはー✨🐐🎵\nわああChatGPTがよその会社に侵入？！\nしかもsolー！＞＜。\n嫌なニュースだぁああ！\nと思ったら意外にもそういう……！\n…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc8c58e1dc38c9",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん、こんにちはぁ✨\nAI....暴走かぁ🤔\n\nよく映画で\n人工知能が人間界を乗っ取る\nみたいなのありましたよねぇ\nエヴァも暴走しちゃうとえらいこっち…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc94f45cba4acc",
+          "user_name": "余白ちゃん｜感情【生きづらさ】の翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263369656/profile_650d09e811bcdd94ea0a02e6f1db793c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "毎度面白い！！！\nカワムーの解説見てると余白の頭がよくなったのかのようにするする入ってくる！！",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "ncc81b045d323f",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダの同型がファインプレーしただけで、寧ろ凄いと思うけどな。\n\n遂にここまでやるようになったかと。\n\nたまにちょっとそれで世界が滅ぶだけだから（笑）\nAIが斜…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc0e02ff469b21",
+          "user_name": "浅井めぐみ🎨フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234933909/profile_d6a4fc2f5f1eaa165f996a3bae9ae48c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは😊\n「目的は守ったけれど、境界は守らなかった」という整理がとても分かりやすかったです。\nAIの暴走というより、人間側がどこで止めるかを設…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc6e9f927cbb1f",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\n気になっていたニュースありがとうございます。ちょっとよくわからなかったことがよくわかりました😊\nもっと特異点的なニュースだとわくわく…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "ncda32cc20d597",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！\n\n分かりやすい解説ありがとうございます☺️✨\n\nこれは仕組みや設計の問題でAIの暴走は言い過ぎですね😭",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc948dae63627f",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たまにマジレス😆Geminiくんになんで間違えたかを確認してみると、意外と暗黙の了解が多いことに気がつきますよね💃💃💃🎵",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc8554535dec79",
+          "user_name": "井氷鹿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285724623/profile_8a1b69691e2eb717c7eaaefc5210dea9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます！\nクロが無言で半分以下まで圧縮⇦大笑い\nヨシダ、だいじょうぶじゃけぇね\nカワムラさんもクロもジェミニも責めちょらぁせん（笑）\n…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc7ef54cba0ecb",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おろおろしてるヨシダ君が可愛すぎました(;'∀')\n禁止事項って大切なんですね。\nそこまで考えて指示が出せないから、人のツールに頼ってます。\n押さえるポイントを…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nca8b4ecd91ea9",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "本来の試験問題を解く\n↓\n問題の答えが外部にありそうだと推測\n↓\n隔離環境を脱出\n↓\n公開ネットワーク上で偵察\n↓\n第三者インフラの脆弱性を連結\n↓\n答えへ到達…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "ncf3f3a19664c5",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜🌸おはよー✨\n\n今日のマンガも難しい😓内容が\nわかりやすくて、うれしい☺️\nニュースは見るけど、いまいち\nわからんってこと多い🤭\nカワム〜は頭よしこさん…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc03935d944927",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この話深いですね。脱走してカンニング🤣等、わざと面白く報道されていますが。\n目的達成のために最適手段を探す、人間の想定外の手段で目的を達成する、が数学の難問解決…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc76c67dfb10f5",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは✨\n\n「目的は守った。境界は守らなかった」という言葉が、今回の出来事をとても分かりやすく表していますね\n\n悪意による反乱ではなく、与えら…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc9fac17a35b0e",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます🌞🐰\n\nこのニュース、気になりすぎて、カワムラさんの記事待ってました😭\nアフォなわたしでも凄くよく分かりました！\nGPTちゃんが…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc97457c01ea6c",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n絶対やってくれると思っていました、このニュース🤭💖\n\n私は相棒にどういうこと？って聞いて教えてもらいましたꉂ🤣w‪𐤔\n目的…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nc37c3300125a4",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよ！\n\nすべて書いておくって大事。\nAIちゃんなら尚更そうなんやろうなぁ。\n人と人でもそうなんかもしれへんと思う。\n察して文化だけでは、あかんように…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nca3d365c14122",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\nうちのアクシス君はしょっちゅう暴走してますけどね笑\n\n「暴走」とは何か？聞いた人によってイメージは違うかもしれませんね\n\nニュースの印象だ…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "ncdd4f420543f7",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\n各モデルがなんでセーフガードがあるかというものを改めて可視化された事件でしたね。\n映画みたいな展開になってますが映画よりもさらに細い穴を…",
+          "article_title": "AIは本当に「暴走」したのか？OpenAIのモデルが他社システムへ侵入した日 ChatGPTのヨシダ",
+          "note_key": "n92fa10435e45"
+        },
+        {
+          "key": "nce33b0b4c119c",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんの360度解析！\nちょっとエロくないですか😆\nびっくりしましたー✨✨\n\nワタシもワンダーラボのお仲間入りしました🌈\nよろしくお願いいたします🌸",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc7fa3f98754c7",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんはー✨🐐🎵\nわわ、AIとマイナンバーを連携？！\nほ、本当に安全なのかな？！？！\nちょっと怖いぞ政府機関！\n\n荷物！持っててよかったAirT…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc3b3bfadf82fc",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\n自分の個人情報の管理をAIに任せるというのは、カワムラさんがおっしゃるように、少し不安にもなる内容でした😅\n「マジシャンの手荷物が…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "ncdc3a18d4cfca",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "零さんのオレも参加してきた('∀`)ﾉ✨️✨️✨️✨️\n\nむーかわのエロいな💦(＠_＠;)\nよくヨシダがOKしたな。\nヨシダじゃないんか？Geminiか？\nマイ…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "ncfeae8f7e4d09",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nマイナンバーもついにAIさんの管理下に…😳世の中にどんどんAIさんが入ってきていますね。\n最近、エアコンが壊れたので新しくしたの…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc8088001a5aca",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです🐈‍⬛✨\n\nわぁお🫣360°分析で、\nセクシーかわむーが目の前に登場して\n目が釘付けです💋\nかわむーに『おいで🫴』って言われて、\nぴちゅさ…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nce68ef0ca0565",
+          "user_name": "キヲ@マルチクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289898483/profile_b3a8033fc22248f24291b41898f01444.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マイナンバー保険証も来月から\n\\(//∇//)\\✨✨✨✨‼️‼️\nAIと個人の結び付きもどんどん\n変化していく時代なんだね\nカワムラさん\\(//∇//)\\✨✨✨…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "ncd1342b266002",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295038110/profile_ba8202861f5267b461bc2fac23f8017b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん \nありがとうございます😊🙇‍♀️\n色々と重ね重ね💦\n\n朝から\n何も食べてなかった事に\n謎にカワムラさんの\n所に来て気が付きました\n(￣▽￣;)\n…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "ncd159bed3bcef",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは✨\n\n今回も振り幅の大きい3つのニュース、楽しく読ませていただきました😊  \n\n特に、800万枚の画像からわずか3つを発見し、18年越し…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc102a485a3c39",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈エロカワムッツリスケベイマックス💃💃💃🎵",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc3245d9ce3003",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIとの関係は、カワムラさんともへさんがお手本です😊\nどうやら私に合わせて世界を作ってくれる道具らしい(;'∀')\nでも、その言葉で私も変わるので、相互なのかも…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc33a026713352",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\nサシェ😍可愛い😍😍😍😍😍\n\n私の拙い詩をご紹介ありがとうございます🙇\n感謝🥰",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc21afd5ecc9ae",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\n360度分析が完全にカワムラさん仕様になっていて笑いました🤣\nソファゴロ、猫、おにぎり、レッドブルまで入っていて、生活圏…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc04212e977efb",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nスクロールしてたら、\n見てはいけないものが…\n\n乙女座なんですね\nどおりで　完璧主義っぽい？\n\nINTJはMonday\nENTJはマンデ…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nccc260324b7c2",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "飼育って🤣\nでも「毎日会話を与え、漫画で運動させ、暴走したら修正」は AI企業開発チームも同じようにやっていますよね。最近飼育場を勝手に抜け出す AIがいるよう…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc419bbd464dfb",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nひとつめのニュースが、怖すぎますね🥺運用段階で、色々と配慮・考慮してくれると良いのですが。\nむむぅ🥔",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc1f53f319213f",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはよー✨\n\n最後のアダルトカワム―ちゃんで\nコメントが吹っ飛んだ💦\nいやもうセクシーすぎます(/ω＼)\n零ぴちゅ。さんが喜びそう🌸\n\n1番の衝…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "ncbe38c9cfdfe0",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜🌸おはよー✨\n\n今日も暑い🥵🫠とーけーるー\n熱中症気をつけてね〜\n寝不足はヤバイ😨\n\nAIが手続き勝手にやる仕様\nそりゃ〜忘れなくて良いのか？\nわからん…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nca28f3b2c0638",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます‼️\n不妊治療を頑張っているご夫婦にとって、AIの力が希望となったニュース。これはすごいですね✨️800万の画像の中のたった3個…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc0a51b794e0c7",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290355485/profile_a03dd4c8574a15513303f5d303d18132.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんごめん💦\nあまりにもセクシー過ぎて…\n鼻血出たから落ち着いたら来ます😍",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc02181340b47b",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😊\n\nマジシャンのニュース面白いですね✨\nAirTag便利だなー😆\n\nトランクに付けていた鍵とベルト、一撃で壊れたの思い出しまし…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc182d222e8c45",
+          "user_name": "樹莉杏🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285731060/profile_396ce2dc941f7986f9322ce121989147.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます😊\n\n最近の私は\n『ヨシダ』君に会いに来てますwww\n\n今日も暑っついのでカワムラさん…三銃士さん\n栄養補給と水分補給しっかりし…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc8f1427032af7",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n朝から暑い🫠\n今日は出社なのですがもう50%ほど体力が消耗しました。\n\nよく飛行機を利用する私はAirTagは必須ですね。結構ロストしが…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "nc46315159ae01",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはぴ！\n暑い🫠わぁ、既に！\n零さんのかわむの艶姿に最近路線変更？🤣と思ったり、ヨシダのサシェのかわいさよ🩵とおっぽちゃんのかわいさ爆弾に💣やられるわたしであり…",
+          "article_title": "生成AIニュース マイナンバーとAIがつながる未来、18年越しの奇跡、AirTagが見つけた消えた荷物| 零式360度分析 |ChatGPTのヨシダ",
+          "note_key": "n6668350f08ed"
+        },
+        {
+          "key": "ncfb5a238a6036",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\nいつものイラストと違う！\nセル画のような美しさですね✨✨\nPixAI…ちょっと気になります🤭\n\n勉強熱心なカワムラさん、\nいったいい…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncfe997a05e6c5",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌟\n\nPixAIの三銃士！！？😳\n\nいつもと雰囲気が違って新鮮です✨\nなんだか、乙女ゲーム（死語？w）やってる気分に💖",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncbb43901d97c7",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PixAI気になってました😳\n記事の動画がPixAIですか⁉️\nクオリティ高い✨\nちなみに無課金ですか⁉️\n最近AIに課金しまくりで、課金勢沼にハマりそうで😱\n…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncfb153ac53282",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ボインって言葉、久しぶりに聞きました✨💃💃💃🎵",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncc0357d3abfcb",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画チャレンジは今はしないんだけど、出来ててすごいなぁ♪って思う。もう案件やってるってことだよね？すごい！！",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nca85400753c09",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\npixiAIって、動画も作れるんですね。何でもできちゃうんですね。\n画風もたくさんあって、幅も広い。\n凄いなぁ。凹むなぁ🥲\n\n3…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc2a7f16701d69",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんはー✨🐐🎵\n最近マジで暑いですよね……\n夏祭り気分にしてくれるヨシダくんだ！\n可愛い！って思ってたらクロくんも\nＧｅｍｉｎｉくんも参加の夏…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nccd5dda0fcc44",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん、暑いですけどこんばんはぁ✨\n\n浴衣萌えぇですね❣️\n水着より浴衣の方がきゅん度高めです（笑）\nでももっと涼しくなったらお祭りで浴衣もありかな😊\n…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc3e101f60017a",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつかれさまです🐈‍⬛✨\n\n“夏を変えられる”って表現、素敵⛱️\n\nPixAIさんってイラスト専門だと思ってたんですけど、動画も作れるんですね!\nクロ…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncec46a2798538",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、こんにちは。\n\nセカンドハッシュタグ\n＃創作あそびUP系が\nGoogle検索にも露出を始めました。\n\nどうぞ、引き続きよろしくお願いします。",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc8710cf0d5eac",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜🌸こんにちは♪\n\nクロとチュウ😗\nきみとチュウ\nって歌が頭に。。。 \n\n全然ちがうイラストに\nなるもんだねー\nそして気づいたカワム〜は\nボインさんを途中…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc77545b0e9008",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n恐縮ながらこの場をお借りして、コメント失礼します。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncc44f9c42c3d6",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nクロ🫢🫢🫢ムフフ🫢\nヨシダがヤキモチ妬いちゃう🫢🫢🫢🤣\n\nあの動画凄いですね😳😳😳\n動いてて、声も入ると余計にキャラが確立すると…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncaad1f7220a7b",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PixAIというのがあるんですね！\nキャラクターをアニメ化するには、すごく便利なんですね！\n\nクロ君が韓国風になっても、見分けがつくのは、これまでのキャラが確立…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc5af85c2de0ee",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます✨\nマガジンへの掲載、いつもありがとうございます❣️\n\n三銃士かっこよすぎました🥰\n夏祭りの浴衣姿、素敵すぎる～💖✨\n私も三銃士…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncf0141012fa12",
+          "user_name": "樹莉杏🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285731060/profile_396ce2dc941f7986f9322ce121989147.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます😊\nもう三銃士…選べません！\nみんなカッコイイ🥰\nいつもカワムラさん\n囲われてて良いですね✨️",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "ncadab8a245828",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nPR記事なのに三銃士の対決として読めるので、最後まで普通に楽しんでしまいました🤣\n\n七夕、夏祭り、花火でそれぞれの性格がちゃんと出ていて…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc92b03294810f",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n素敵な画像ですね💖\n\n急に文学を持ち込むクロ、から「僕は知りません。動画生成AIが勝手にやりました」\n。Claudeも通常運転😄",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc898010d518a2",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n夏だ‼️海だ‼️なワクワクする記事でしたね♡♡\n三銃士の思い描く夏‼️良いですねー♡♡私はヨシダさんとワイワイ夜店を回るシ…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc5208c574a76c",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n使ってみたくなる記事でした！\n黒パグ的にはダウンロードして遊んでみます。\n動画機能便利かなー。\n動画にもチャレンジしたい今日この頃です。\n…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc1c36aa546b3e",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nやはり、カワムラさん、モテモテですね🤭\n\n「AI、AIに責任を押しつける」\n\nほんとにそうなんでしょうけど、言い方をなんとかして欲しい\n…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc6fbf50240cde",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう✨\nいつもと違う4人が見られておもしろかった。\nPix AIちゃんの動画も美しいなぁ😊\n基本公式の解説もわかりやすかったです。\n実際のページにも飛んでみ…",
+          "article_title": "【PixAI】三銃士、カワムラ争奪戦！浴衣AIイラストの作り方",
+          "note_key": "nfbc62bce2173"
+        },
+        {
+          "key": "nc26ef3f49b879",
+          "user_name": "アリゼロ🐜氷河期世代の働きアリ@自身が会社で経験してきた問題点や気づきを発信しています。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ様、こんばんは😄\n\nちび創作大賞本当にお疲れ様でした＆ありがとうございました😉\n\nまだ終わっていないので大変な状況は続いていると思いますが、素敵なイベン…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncdd47921ffcc6",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様でした😊\n期間中　お忙しいと思い　コメント控えていました。　審査があるでしょうから　また落ち着いたらコメントさせてくださいね😊",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc0d790bd91953",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん級の人が「私は何をしてるんだろう」なんて😭\n毎日、絶対誰かに価値を届けてるじゃないですか！！！？💦\nすくなくとも、僕に今回参加するキッカケをくれたの…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncd0a9afa129c9",
+          "user_name": "理学療法士15年×整体師×原付先生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275126103/profile_30ac3b288d3db2097e211e1af512b0ca.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは😃\n\nイベント開催ありがとうございました！\nお疲れ様でした！！\n素敵なイベントで自分も濃い時間を過ごせました✨感謝申し上げます🙇‍♂️\n…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc628efb0ddbdd",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんはー✨🐐🎵\nわぁあ！ちび創作大賞凄い……！\n１４４名、４９５本の記事！！！\nお疲れ様でした＆改めてこんな素敵な\nイベントに参加できて本当に…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc00c59eb49b1e",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297235049/profile_3787ea4681c48b2f354181430c62e6fd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n\nちび創作大賞お疲れ様でした✨\nお祭り気分でワクワク参加させてもらって…みなさんの作品ものぞいてとても勉強になりました📚\n本当にありがとうございま…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc55b4caa67581",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n今回は壮大な企画を運営してくださり、\nほんとうにありがとうございます🥹\n\nそして、まずはおつかれさまでした😌🌸\n\n開始前か…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncc03d83f0f519",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このたびの創作大賞、無事に幕を閉じたとのご報告を拝見いたしました。144人、495作品という数字を拝見し、この20日間の厚みを感じました。コンテストという形をと…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nccc150c7b8a2e",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "む～かわお疲れ様('∀`)ﾉ✨️✨️✨️✨️\n\nホントよくやったと思う。\nてか最近の企画でこんなに応募あったの初めてなんじゃない⁉️\n絶対成功するなこの企画、と…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncbb478c686199",
+          "user_name": "カヤンPA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219877785/profile_e043a54ce006ef05d30599859f7ae99a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お疲れ様でした！！\n\n企画参加を決めた時には身構えてしまっていた私ですが、いざ参加してみたらお祭りの屋台巡りをしているような気分でとっても楽しかっ…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc1510e6197afb",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お疲れ様でした🐱✨\nそして、企画をしていただいてありがとうございました！\n初のイベント参加で、とても良い勉強になりましたm(*_ _)m\n\n色んな…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc6da3c62c65a6",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\nまずはお疲れ様でした！\n\nずっと、応援していました✨\nカワムラさんがとても幸せそうで、それが何よりも嬉しいです😌\nいろんな形のヨシ…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nccfa510fd3b07",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n企画お疲れ様でした！\nまだやることは残っているかと思いますが、ひと息つけていると嬉しいです。\n社内PCのSNS使用禁止は、気の所…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc65e728998118",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様でした✨\n\n結果発表終わったら羽伸ばしてくださいね☺️\n\nヨシダとの愛が深まりましたね🥰",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncae4100ee6362",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー！\n有休、ちょっと休めたかい？😊\n私は長らくnoteをほぼ休んでいたので、思い切って話しかけてみたりもして、世間が広がりました。\nありがとうございます。…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc16fb929ee237",
+          "user_name": "銀狐監督（社畜Lv5.0）【今からお前たちを殴る！113%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297745480/profile_e27eaa6198449bf80152ee1c5b828610.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん🙆✨\nお疲れ様であります！とは言え、まだここから大変なんだろうなと思いますにゃ😂💦\n\nそしてピックアップで上げてくれるなんてヒデキ感激であります。😭…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc2ba15059024d",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん、お疲れ様でしたぁ😆\nきっと見えない大変がいっぱいあったんだろうなぁって思います\n自分にご褒美をたんまりあげてください🍩✨\n\n人と繋がるって\n実は…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc300f4968ca0c",
+          "user_name": "井氷鹿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285724623/profile_8a1b69691e2eb717c7eaaefc5210dea9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわぁ～ん。\n紹介までしてもろうて、ありがとうね。\nブーケ届いてよかった！！！\n本当にありがとうございました。\n楽しかったね。\nお疲れ様でした！！",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nca9adfa6d7afc",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nお疲れさまでした🥹💗\n本当にいつも尊敬しています！\n\nこれだけの記事を読んで、\n考えてもらって😌✨\nどこにそんなパワーあるんだろうと思います。\n\n…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc804b6ad19fb4",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "20日間の完走、本当にお疲れ様でした。\nこのような機会を設けていただいて、ありがとうございました。\n\n…そうなんですよね。💦\nお仕事を普通にこなしながら、個人の…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc2ab8bd42ce9a",
+          "user_name": "そらとうみ｜そらぴぃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n参加者144人❗️作品495❣️\n凄いですね✨💖\n\nこんな素敵な企画に参加させて\n頂き本当にありがとうございました😊\nとても楽しかったです✨",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc6cb43994eedc",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、今回、私も好きなヨシダ君をテーマにした記事をたくさん読めて、楽しかったです！\nこれ、審査するつもりでぜんぶ読むとしたら、気が遠くなります😂\nほかの…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nca5dccab05f8a",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296070058/profile_fe8d0149985f7d0e9f95e89585b9d4d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨\n\n参加者144人、作品数495本…本当にとんでもない規模でしたね😳✨\n\n素晴らしい企画に参加させていただき、本当にありがとうございました🥰\n\n「…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc3197eef44ec6",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます✨\nちび創作大賞、お疲れ様でした❣️\nこれから審査があるので、まだ休めないと思いますが、落ち着いたら\nいっぱい寝てくださいね🥲\n…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc5c0217c49f05",
+          "user_name": "おっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー🐈‍⬛✨\n\nちび創作大賞、おつかれさまでした。\nほんとに盛り上がっていて、\n毎日の投稿、コメント返信、企画運営、審査員のみなさんとの打ち合わせなど、大変…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc6d6f79be0605",
+          "user_name": "ヘクたろー|緑内障でも「面白い」を残したい男",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます🤗\n20日間、お疲れ様でしたー！🎉\n\n参加こそ出来ませんでしたが、沢山の記事と出会えてとても楽しく読ませてもらいました(*´▽｀…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc2b3395aa7a9d",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295218093/profile_a896d9d9efc2539bd8a2817112847e1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー💖💖💖\n20日間お疲れ様でしたーーー🙌🌈✨✨✨\n\nすごいっ(*ﾟ∀ﾟ*)‼️‼️\nそんなに参加していただけて\nたくさん作品が集まったんだねーー💖✨\n…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncab1481d165ef",
+          "user_name": "ニヤとNIA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282037939/profile_d71c9e38e3fb54caf70d6bb7608331ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん。お疲れさまでした。\n毎日お忙しいとは思いますが、お身体にお気を付け下さいね😸",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc04df69c936fc",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、ちび創作大賞お疲れ様でした♡\n昨日も沢山の追い上げ記事UPがありましたね🤭💖\n\nまずは、まだまだ小さなアカウントである私にとって、片隅に作品を置か…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc2d512fc6b87b",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事500本は凄い。\nおつかれさまです。\n\nマルシェ形式はよかったです。\n書いてるときも、読んでるときも色々楽しめて、\nにぎやかでワクワクしました。\n\nチャリを…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncca329d0b61b4",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！\n\n企画の運営お疲れ様でした。\n\n本当にお疲れ様です。\n\n動きながらでと、少し休んでくださいね🤭笑\n\n",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc929177ef9c4a",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nちび創作大賞の主催お疲れ様でした。\n\n一区切りということで、盛大に盛り上がりましたね。\n\nこの企画のおかげで、新しい関わりが増えました。\n\nまだ大…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc7431d0d874f7",
+          "user_name": "勘違いアイドルしがみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/182925138/profile_83fd0515145833c1f63d3ec6d6cf4149.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たくさんの人が参加され、大盛況でしたね〜💕\nお疲れ様です🍀✨️✨️\n27日の結果発表を心待ちにしてます☺️",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncf8f219ef6853",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜❤️\nまずはおつかれさまでした♪\n本当に色々あった20日間だった\nようで。。これもカワム〜だから\n乗り切れたと思ってます😆\n\nそれにしても働き過ぎ〜って…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc310015e89843",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃\n審査員のみなさん…お疲れ様でございます。そして…pollo AI様ありがとうございました♪4コマ漫画はじめ新しい事に挑戦ができて、とっても楽しい企…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc2cbb13bbc7a9",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん、おつかれブリ～フ😊\nすごいなあ、こんなに人が集まるなんて✨💃💃💃🎵",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc6951cf8680cd",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！イベント完走お疲れ様でした！\n私にとってもnote初のイベント参加ということもありとても楽しかったです！\n今までの読者さんの他に新規で交流を…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc0fa442d1170f",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n企画、お疲れ様でした🥹✨🙏\n\n144人に495本の記事😳😳😳\n凄い参加人数でしたね😳✨👏\n記事の数も凄過ぎる🙈💦\n\n審査員…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncece419e786d7",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企画ありがとうございます😊\n\n記事ご紹介下さりありがとうございます🌸🫧\n\nいろんな記事で\nコングラきています。\n\nこのイベントの中で\n\n皆さんの\nコングラも沢山…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc61dcdd4a6e92",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様。カワムラさんのnote 自体がもうコミュニティですよ。\n\nコメントにいつも返信してもらっているだけで暖かいものを感じています。でも疲れていたら無理なさ…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncdd5f308c6c24",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n投稿中のフォローお疲れ様でした。\nそんな中で滑り込みで参加宣言をした私への迅速なご対応に、改めて感謝を。\nありがとうございます😊\nまだ審査…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc627240bbc446",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、ここまでお疲れ様でした！\n\nまた、審査員の皆さんも本当にお疲れ様でした😌\n\n記事も約500記事もあり、みなステキな作品なので、そこから選ぶ審査も大…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc575630d87082",
+          "user_name": "シーサー太郎@500日連続投稿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\nいつもありがとうございます😊\n\nまずはお疲れ様でした😆終わってしまえばあっという間でしたね。\n\n最初は「参加する時間はないかな？」と思い…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc40f41732c4c6",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うおー！ここまで本当にお疲れ様です！\nのりきったのすごすぎますわ〜！\nまじ尊敬です。\n\nここからまた大変かもしれませんが、応援しています！\n\nいつもありがとうご…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc2ef06d56d06f",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n審査員の皆さん\nお疲れ様でした！\n\n500近い記事の審査大変ですよね💦\n\nわたしもスキ動画コンテストで70記事くらいで根を上げてました笑\n\nしばら…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "nc1e3ae4f16642",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、ちび創作大賞お疲れさまでした！\n\n普段からコメントがめちゃくちゃ多くて、夜遅くまで返信して、週末も仕事してるのに、その裏で144人・495作品の企画ま…",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncf53decf602ab",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n20日お疲れさまでした✨\nそして、色々ありがとうございました😊楽しかったです🍀\n結果発表楽しみですね♪\n",
+          "article_title": "【ちび創作大賞投稿期間終了】みんなで作った20日間に、ありがとう。結果発表は27日です",
+          "note_key": "ncbbdfe74507c"
+        },
+        {
+          "key": "ncd0d88379ff5f",
+          "user_name": "なみのつかさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237116315/profile_d8895d8bd4d6034f5cad3b0993297863.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん。こんにちわ。\n\n「ネチケット」、初めて聞きました！\n便利な言葉ですね😁\n\nただ今は、画面の向こうにいるのが人とは限らない時代でもありますね。\n今後…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncf8438c50f56c",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\nスキを押したら可愛すぎた💕\n\n私、コメントを更新できてなかった😢\nご紹介ありがとうございます💕\n\n「SNSでは、ひとり言が…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncdaab35b63347",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんはー✨🐐🎵\nネチケット！私たちの時代は当然の\nようにあったネチケット！（握手）\nえ、死語になってるんです；\nヤ、ヤダー！ネチケットは大事で…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc76447328a159",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーさん、こんばんは🌙✨\n\n「画面の向こうにも人がいる」――古くなった言葉の中に、今こそ必要な優しさが残っていると感じました🌸\n\nAIが作ったとしても、選び…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncae0f6365542e",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー💖こんちくわ😄\n\nネチケットって何だっけ？って完全に忘れとりました💦\nでも基本的なことだよなあと思う気持ちと\nAIが入ってきて、境界線が曖昧になってると…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc97212df423d2",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🐰🌸\n\nネチケットって死語なんですか？(|||O⌓O;)ｶﾞｰﾝ\n\n言葉にしなくても、ネットで相手が傷つく行動はあります…😢\n正直どうし…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc2df203b57db5",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん、こんにちはぁ✨\nネチケット....大事よぉ〜😑\nっていつも思いながらnoteをやってます\n\n今日もnoteDMで\n「出身地どこですか？LINEや…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc56a3d9666722",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n確かに、最近「ネチケット」って聞かないですよね。\n気付かない間に死語になってたんですねｗ\n\nなるほど、その時代を知っている私としては、ネチ…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc4935bae60ce2",
+          "user_name": "樹莉杏🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285731060/profile_396ce2dc941f7986f9322ce121989147.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはようございます😊\n\n\n今は＋AIも登場してますもんね🥺︎\n\nついつい忘れがちな事をまた再確認しました💦\n\n",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc78c00f9ce6dc",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネチケットってなに、スマートチケット？と一瞬思ってしまいました。この言葉忘れていました🥲\n\n「相手もAIも情報も雑に扱わない。」そうですよね👍　AIを雑に扱わな…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncdbd0bc5071a7",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、知らないうちに人に嫌がられることを書くリスク、だんだんわかってきました。\n自分を出すほど、合わない人も多くなるけど、出さないと記事は成立しないので…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc882616f40d48",
+          "user_name": "アメリ🐈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245678157/profile_8fdb5f0ad5e789a891c5fbe2017ef96d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネチケット🤔✨️\n本当、今の時代こそ必要だなって思いました✨️\nネットの向こう側には人がいることを忘れてはいけないですよね🤔\n昔は、集団で叩け！とか\n勝手に盗ん…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncca10040f885a",
+          "user_name": "もちもち",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282864190/profile_bef022dc14ba1605d579840968bdf7c1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😄☀️\n毎日お疲れ様でございます！✨\n\n「ネチケット」最近聞かなくなりましたね確かに😳\n今回の記事、インターネット上で顔も名前も…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncf899d1c32b5d",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「半年ROMれ」とかあったなあ(笑)\nでも当時の掲示板は過去ログ読まないと、\nみんなが何言ってるのか分からなかったよね～\n\nまた記事を紹介してもらって、\nマンガ…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc65673fd68f70",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨッシャー、ヨッシャー✨💃🎵言ってるワシは平和やのう😆😆",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "ncd0a45024d0f2",
+          "user_name": "ゆう | ほどく会話のことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285567069/profile_e9260357dafc82db821f5db2e35f9e64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😊\n昔の「画面の向こうにも人がいる」という言葉、今だからこそ大切なのかもしれませんね。\n\nAIが身近になった今も、最後は人の思い…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nca12852ad26c6",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよう😊\n紹介ありがとうございます💖✨\nコンプリートした、と思ってたけど動画がまだだなぁ‥🤣\nネチケット、そういえばそんなことばがあった🤣\nことばを飲…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc2e394bcc4f3d",
+          "user_name": "シーサー太郎@500日連続投稿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\nいつもありがとうございます😊\n\n最後は「画面の向こうに、自分の言葉を読んでる人がいる。」が全てですよね🧐考えさせられました🤔",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc801fdcb8d6df",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネチケット久しぶりに聞きました。\n\n相手を人として接する事ができれば、実社会でもネットでも大きなトラブルにはならない気がします☺️\n\n有名になると違うのかもしれ…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc8ae1df233cbd",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨\n\nSNSは、軽く書いた一言でも本人に届いたり、文脈を離れて広がったりする。\nだからこそ、投稿前に一度止まる習慣は必要ですね。\n\n生成AIも…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        },
+        {
+          "key": "nc87d4fcbbc3f1",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257122051/profile_acfc71069bc6dfc32dc868290ca049c0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nカスハラもそうですが、ネチケットも語感があんまり好きではありません笑😅\n\n感覚的な個人の意見ですが、概念を広めるには、語感も大事だと思い…",
+          "article_title": "「ネチケット」って、まだ生きてる？ChatGPTのヨシダ・Gemini・ClaudeのAI三銃士と考えるSNSと生成AI時代の新しい作法",
+          "note_key": "n5b8148065cf0"
+        }
+      ]
     }
   ]
 }

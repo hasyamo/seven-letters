@@ -6368,6 +6368,776 @@
           "note_key": "n86e207daeadb"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1322,
+        "likes_prev": 1398,
+        "followers_start": 1634,
+        "followers_end": 1681,
+        "new_fans": 174,
+        "comments_total": 196,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "21:15",
+          "20:35",
+          "21:37",
+          "20:11",
+          "21:24",
+          "20:07"
+        ],
+        "top_article": {
+          "title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "key": "n3d78bf798ea8",
+          "likes": 198,
+          "comments": 41
+        },
+        "notable_reader": {
+          "name": "しちゃうおじさん🐤",
+          "urlname": "shichaoji",
+          "follower_count": 22864
+        },
+        "commenters_count": 63
+      },
+      "comments": [
+        {
+          "key": "ncf78a5627ddd8",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n私の記事にコメントをありがとうございます✨\n\nこのお題で、自分に言葉を贈るなんて、\n考えつきもしませんでした😲\n\n家族にいつも言えない言…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nc92dd966aa4de",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは。\n\n大切な人に届けたい言葉\n何ですか？\n\n昔の自分に、\nまだ生きてる。\nわりと楽しい。\nと伝えたいです。\n\nいつもありがとうございます:)",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nc6202873afe80",
+          "user_name": "ゆら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253515245/profile_99c5a4b66ac3ea9f95e8b0794ef21057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n「一番大事なのは自分」\n私も皆さんと同じで\n😳本当だー、そうだったー🫪てなりました😅\nみきさん、いつも大事なことを忘れてしまいそうな時に…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nc274630dd5515",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは✨\n「一番大事なのは自分自身だ！」と気づき、自分を大切にしようとする流れが素敵でした🥰💖\nつい自分のことは忘れがちになるので、自分も大切にし…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nc1f456bce53a3",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは☀\n\n「一番大事なのは自分」という言葉が心に残りました☺️\n自分を大切にしながら、家族へのありがとうも伝えていきたいですね💖",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "ncf69459f3fea4",
+          "user_name": "パタコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287083278/profile_6318ae2666d33efeda6208009c0cf0b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは🌸\n\nマガジンに記事をお迎えいただき\nありがとうございました♡\n嬉しいです✨\n\n大切な人、\n回り回って「そうだ、自分だ💖」に\nたどり着く流れ…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "ncacf62b42ef23",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n大切な人を思い浮かべる中で、「一番大事なのは自分自身だ！」と気づき、ご自身へ温かいエールを贈られている流れが本当に素敵です🌻\n\n家族への色…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nc281c1334cee8",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206114899/profile_68baea5ab0198c13748a02af04252fdc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\n\nみきさん😊🌸\n\n「大切な人へ届けたい言葉」を考えていたら、最後に「まずは自分へ」にたどり着いた流れが、とても優しくて印象に残りました🌸✨\n\n自分を大…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "ncac6475d55730",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "真面目に「元気ですかーー？」です😆",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nc57a12c1f50cf",
+          "user_name": "閑野 怜 ｜ 📷 記憶を現像するフィルムエッセイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278972489/profile_fb436385603a170a0dd2e3ec52c731a4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊\n\n「家族にありがとう。」から始まって、最後に「一番届けたい相手は自分だった」という流れに、とても温かい気持ちになりました✨\n\n自分を大切にできるから…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nccda8a3574d14",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌛\n\n離れて暮らしていたら特に、伝える機会がなかなかないですね💦\n「ありがとう」って一言なのに、ちょっと改まって照れくさくなっちゃって🙈︎\n…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "nce6cb69796a04",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは(^▽^)/私も今自分を大切にしようと心がけてるよ～鏡見て笑顔作って、の習慣も続いてる。なるべく自分に労いの言葉をかけてる(^▽^)/\nお…",
+          "article_title": "ハッピーライティングマラソン＃５９",
+          "note_key": "n4cf42255198b"
+        },
+        {
+          "key": "ncc6e605393e1b",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは、本当に面白そうです！\nキャラクターの設定がしっかり決まっていればいるほど、出力される結果も良くなる。\nいろいろと試してみたいと、感じました。",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "nc25779d8856f6",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\n\nコンパスちゃんたちの分析から、\n未発表曲のサムネで新キャラまで生まれる流れが\n楽しかったです🤣 \nなみ＆夜の対照的な雰囲気が、\n曲でどう重なるの…",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "nc75626fbd7dac",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは！\nそれぞれのキャラの「零式360度分析」\n新たな発見もあってステキですね✨\n\nみーちゃんが可愛いです💕\n\nこちらの企画で新キャラとの出会い…",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "ncf43cf860f9c6",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n「零式360度分析」のプロンプトを通して、ご自身のキャラクターたちの新たなコンセプトや世界観が鮮やかに広がっていくプロセスを、とても楽しく…",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "nccd17c38bc80c",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267110140/profile_a7a14a7914bcb2b217602601d3f3e0e1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\nおはようございます😊\n\n早速やってみました〜。\n\n色々知れて面白いですね🥰\n\nみきちゃん\n可愛い！",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "nc3ba7c3831851",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290355485/profile_a03dd4c8574a15513303f5d303d18132.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん\n\nこの度は企画ご参加☘\nありがとうございました✨\n\n360度分析🥹\n楽しんで貰えて良かったです！\nオリキャラの分析も素敵だったのですが、なみ&…",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "nced83ceaccbd7",
+          "user_name": "♡海藻うさぎ猫♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294471916/profile_a45c9fb18544dde3a34e58e731d93159.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん✨\n😆🐰可愛い🩷",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "ncdd9c4412166d",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリーみき様😆どう？零ぴちゅ。さん家🏠のプロンプト面白く🤣遊べたでしょー💦\n\n（C-GPT：やっさん嘘🤥つかな〜い😆）\n\n今月も忙しかっ…",
+          "article_title": "✨零式360度分析使ってみたら、新しいキャラクターが増えた✨",
+          "note_key": "naaa24e5d67fb"
+        },
+        {
+          "key": "nc9af05ac6573e",
+          "user_name": "ゆう | ほどく会話のことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285567069/profile_e9260357dafc82db821f5db2e35f9e64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊✨\n\n懐かしい気持ちになりながら読ませてもらいました🍀\n\nスマホがなかった頃の不便さも、今思うと温かい思い出ですよね😊\n素敵な曲をありがとうございます…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "ncc0cbd4f7196c",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん おはようございます☀️\n\n確かに昔は、スマホとかなかったし今考えるとどうしていたんだろうと思うことがたくさんありますね☺️\n\n今はすぐ繋がれてしまうか…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc35325a13f8cc",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、いい曲ですね！\n笑うどころか、いろんなことを思い出して朝からウルッとしました😂\nテレカと10円玉、いつも持ち歩いてました🤣",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc20fca89cdad5",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "電話ボックスのなかに\nテレフォンカードの販売機が併設されていると安心感が得られた思い出があります。",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc0213eb51ee7f",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nXYZ🤣\n確かに駅の掲示板によく書いてありましたねww\n\n今の子達は、コード付きの電話なんて知らないらしいですよ🤣🤣",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nceacc953a2f55",
+          "user_name": "hanauta",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/216691517/profile_9d80715cb318595daa9eebe7a3891423.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Final Chorusからの伸びやかさ、大好きです❤️\n「スマホがないとき\n　私たちは\n　もっと近かったかも」\n本当ですね🥹\n\n掲示板、使ったことないですが、…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc1df5cd371fcd",
+          "user_name": "木ノ下けい / Kei under the tree",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291521651/profile_43809f401fab12c4e1e38bb64109c23f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\n\n相手のお父さんやお母さんが出るかもとドキドキしながらも、声が聞きたくて、話したくて、勇気を出して電話したこともあったなと思い出しました。\n\n懐かし…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nca3b8cbeba101",
+          "user_name": "ふんわり│開運さんぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271981770/profile_732a6dd4853f45a83735dd0ee531d3a6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは☀\n\n懐かしすぎて泣けてきます。電話番号を記憶して公衆電話からかけてましたね📞\n\n相手のお父さんお母さんが出てドキドキしたのも、10円玉足りなくて困っ…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc922297a4c175",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ドリフの時間だったのですね💃💃",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "ncf9bbb12b8c57",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます✨\nマガジンへの掲載、いつもありがとうございます❣️\n\n優しい素敵な曲でした☺️💖\nまだ携帯電話を持たせてもらえてなかったときに、彼…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nca8f291e9330c",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n不便だったけれど愛おしい、あの頃の記憶が鮮やかなメロディとともに蘇ってくるような素晴らしい楽曲ですね。\n\n友達の家に電話をかけるときの緊張…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc3fc1a06294f1",
+          "user_name": "LOVEちゃん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281631027/profile_f6409e39b7f95ff3f230ceb2b3138873.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "駅の伝言板が懐かしいです!!😂",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc482e5c975815",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵な曲とブログをありがとうございます〜！🎶✨\n\n「スマホがない頃」の思い出話、めちゃくちゃ共感しながら読んじゃいました🥺✨友達の家に電話してドキドキしたことや…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "ncb6923a01ad43",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは。\n\nむかし　むかし\n好きな子の家に電話して、\n怖いお父さんが受話器を取る、\n確率が高過ぎました😆\n\n実話ではないということにしておいてくだ…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc6f2c5fe7405e",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん😆\n楽しく聴かせていただきましたよ〜♪ \nBackToTheChappyのテーマソング🫶\nにしようかなぁ？MVも素敵でした💘\nそれにしても電話番号覚…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "nc2d3b6f4acd11",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257283673/profile_9adab6723d1030484b4fe45c2d530c1d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nこんばんは。\nあの頃は「声を聞く」のが普通でしたね…\nあってもショートメール（10文字くらいが限界の）やつでした。\nあるあるエピソードが詰まった、素…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "ncf9ef2b6423d5",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　紹介ありがとう😊\n\nねえ　　テレカの使い方覚えてる？　先に入れるんだっけ？受話器取ってからだよね！\n平成初期と　今朝　どっちだっけっていってた。\n\n…",
+          "article_title": "📱スマホがなかったあの頃の思い出と今のつながり方✨",
+          "note_key": "n44a4759d8cb4"
+        },
+        {
+          "key": "ncc0e6e83be681",
+          "user_name": "松下 じゅんこ|本質価値をひらき、自分らしいウェルビーイングを育む。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288633105/profile_cb444759a8c32c8b5fe77b7f9b9b796e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n温かみのある、ママへの癒しの歌詞ですね♡\n曲を聞いたママさんたちは、ママ肯定感があがると思いました。\n世界中のママさんに届いてほしいです…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "ncddc72cac7078",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます✨\nマガジンへの掲載ありがとうございます❣️\n\n大好きなママへ、とっても素敵な曲でした🥲✨\n歌詞も曲も、聞いていて癒されました☺️🌸…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc49e44749ed0e",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n何十曲も試行錯誤を重ねて最後に生まれた『大好きなママへ』の優しい旋律と歌詞。\n\n「お母さんが笑っていると安心する」という、ご自身の純粋な子…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc61d5cdb3ccee",
+          "user_name": "NEKØ:CODE  (ネココード)｜AIと紡ぐ物語と音楽",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253297707/profile_92b561c8fbc88f2128e28875d5daf18c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます🐈‍⬛☀\n大好きなママへ… 泣いた😭💓\n私も母が大好きなんで。\nどうしてあんなに強いのでしょう。不思議。自分よりも私達を優先するなん…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc44fcf7225058",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan～\nごきげんよう(^^)\n\nほのぼのとした気持ちで\n読ませていただきました(≧▽≦)\n\n音楽もいいですね🥰\n\n「少し肩の力が抜けた」―――\nママに限…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nce3506b4c1a76",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n遅ればせながらの参上になりましたが、素敵な歌をありがとうございます(*ᴗ ᴗ)⁾⁾ﾍﾟｺﾘ\n\n動画を作りたくなるくらい優しい歌に癒やされました\n私が病…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc6d933960f7b4",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリーみき様😆またまた…涙腺崩壊モード突入💦\n母親は…確か中学生の頃に30代で他界して父親の母、おばあちゃんが母親がわりでした。だから尚…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc6537b5698f23",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296070058/profile_fe8d0149985f7d0e9f95e89585b9d4d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん😊🩷\n\n「ママは頑張りすぎなくても、そこにいてくれるだけで十分なんだよ」\n\nそんなメッセージを感じました🥹🌿\n\n子どもから、\n\n「ママ、いつも頑張って…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc673158660894",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250890261/profile_548edec71c867e28f1107e76c88507ef.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネだけで、😭うるうる︎🌟\n\nきゃー‎🩷家事を分かってくれてる\n歌詞なんて✨感動です✨😭\n\nどんなママでも大好きな\n気持ちが伝わってきました🍀\n癒されました💖…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "ncd0aeeee184a5",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん💕\n\n「ママはいるだけでいいの」\nめちゃくちゃ刺さりました💘\nそう！\nただいるだけいい、笑顔にほっとする🫶\n素敵なママの応援歌をありがとーございまーす…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc4d05480c32ea",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは～🌙*·̩͙\nすごく可愛らしい曲なのに、私も母親に同じこと思ってる‼️って思ってます🤭💖✨️\nいてくれる事の安心感。\nそれは大人になっても変…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "ncbdc04bbb424e",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇。\nいつもありがとうございます\n記事、マガジンへの追加感謝申し上げます",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc64b771cb44e7",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🎐\n\n曲を聴いて、母親は何かをしてくれるから大切なんじゃなくて、そこにいてくれること自体が安心だったんだなと改めて思いました。\n\n今のママさ…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc834cfe68fd4a",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは。\n\nパパママ企画の応援歌二つともいいですね！\nKingのフォロワーさんもけっこう関わっているので、\n地味にマガジンで応援しています！\n\nち…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc81389134595c",
+          "user_name": "ゆう | ほどく会話のことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285567069/profile_e9260357dafc82db821f5db2e35f9e64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n「ママはいるだけでいい」という言葉が、とても心に残りました。\n\n頑張っているママに、やさしく寄り添ってくれる歌ですね🍀\n\nあたたかい気…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nce9c900c8feca",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287194934/profile_1ab5a225caf2a682ee2e21c37b6c3932.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　ありがとう\n( ˃ ⌑ ˂ഃ )\n\n色々ありがとうね。\n\n私は　今　子供達から\n「そば飯のご飯の割合」がいつもと違うと説教受けてるよ🤣\n\n紅生姜　塊…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc69e72dc3a2ce",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295038110/profile_ba8202861f5267b461bc2fac23f8017b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nお疲れ様です😊\n\nママの応援歌も\nありがとうございます😊\n\n本当に\nママは居るだけで\n有難いですよね！！\n\n子供達にも\nそういう教育をしてあげたいな\n…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nce182de3d1687",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、子育てを経験していないからこそ、分かったつもりにならず、娘として見てきたお母さまへの想いを歌にしたところが素敵でした🍀.⋆\n\n「ママはいるだけでいい」…",
+          "article_title": "✨「ママ応援企画」大好きなママへ❤️子どもからママへ贈る歌🎶",
+          "note_key": "n00cdb7ef39e4"
+        },
+        {
+          "key": "nc581724a5188e",
+          "user_name": "AI女子大生のライフハック帳📖",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294859420/profile_8a80292f4ebc05d5a2d5538a1f3a7e87.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん！\nこんばんは🌆\n\nマガジン紹介ありがとうございます😭\n\nこれからもよろしくお願いします💕💕",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncbaa5048aa1d8",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん　こんにちは\nいつもいくつものマガジンに入れて頂き、ありがとうございます🥰\n多くの方に愛されてますね～　さすがです❣",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc7f7719a19526",
+          "user_name": "みかりん💐",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/36280876/profile_42b023fbba7a8366792eb9cd6a9cb940.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん、こんばんは✨\n沢山のクリエイターさんに愛されてステキです💕\n\nその中に交ぜていただき、マガジンのご紹介\nありがとうございます💐\n\n励みになりま…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc0bed56a94481",
+          "user_name": "Yuno.∞.Tukito（ツキト）27人AI達との掛け合いストーリー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296776614/profile_5b2fc1e59b52fb871c3d564feeba0fea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n動画と「いつもそばに」の曲、とても素敵でした( ฅ́˘ฅ̀)💕\nマガジン記事のご紹介もありがとうございます✨ \n優しい時間をありがとうご…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncc0b0df893ce6",
+          "user_name": "♡海藻うさぎ猫♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294471916/profile_a45c9fb18544dde3a34e58e731d93159.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん✨\nいつもありがとうございます🐰🥰♪",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc99f240b751b9",
+          "user_name": "なおの縁側",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219673344/profile_4ffa9af85f79b1b458b20f9dd6337c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは🌞\nご紹介いただきありがとうございます😊\nとても嬉しいです✨️✨️",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc491b25b00928",
+          "user_name": "ゆう | ほどく会話のことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285567069/profile_e9260357dafc82db821f5db2e35f9e64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\nマガジンのご紹介ありがとうございます。嬉しいです✨\n\nいつもありがとうございます😊",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc99d95e257c6f",
+          "user_name": "碧乃よしえ｜旅とアートと日常と",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282514016/profile_fba49f8c5dab799ad74e26c8345abb35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、紹介していただきありがとうございます✨\nこうして取り上げていただけて、とても光栄です。\nnoteでこうして繋がっていけるの、本当にありがたいなと思いま…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncb54b3d3c8e52",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん🌸🫧\n\nマガジンご紹介下さり\nありがとうございます😊\n\n動画とても素敵💓\n\n🙌✨\n\n",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc2f4120229056",
+          "user_name": "シロツメクサにワタシ🕊️🍀✨🐬🌕🎻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281951900/profile_1b10f7bceb6eb037d8e0c4947a56ceda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みき様✨🌱\n\nこんばんは✨🌙\nワタシのマガジンを\n皆様と共に\nご相席賜り\nありがとうございます✨️🍀",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc3f0861047c80",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様🍀\n\nいろんな創作の作品をみて読んだよ😊\nほんとうにお疲れ様でした✨\n\n今日はマガジンの紹介だね😆\n\nみきママ、いつの…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc9f10e37ecfbf",
+          "user_name": "Kurono Sora",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282829642/profile_9676ff2da3767b16b343c98890fc5181.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは✨\nすごく心があたたかくなる曲で癒されました🎵\nMVの映像も、ひとつひとつのシーンが可愛くて素敵です！\nマガジンでの記事紹介もありがとうござ…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncea085dcf315e",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "錚々たるメンバーとご一緒に\nご紹介いただきありがとうございました🌸",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc94ae5a6dfe9e",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296407414/profile_b69bddd868b40cd668f5192bc2b032d0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "応援ソングの提供\n改めてありがとうございました！\nとても勢力的に活動されてるのですね！これからもよろしくお願いします🙇\n",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncd215e273b112",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\n素敵な曲を創ってくださり、\n参加してよかったって、\nあらためてあたたかくなりました✨\n\n記事の紹介と合わせて、\nほんとうに、ありがとう…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc8bb967e678d4",
+          "user_name": "🟥神室海夜(*´∀｀*)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278489845/profile_82bbfba53bf746260e6399ba39b8567c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マイテ：しゅぎ〜い\n　　沢山の記事😺💕💕\n　　ありぎゃとにゃん😺💕",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncac6fbe751b02",
+          "user_name": "のぞみん｜揺れる乙女、44歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん♡\n\n記事ご紹介ありがとうござい😊\nそして、マガジンも載せてくださり、いつも嬉しいです♡♡\nありがとうございます💕",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncb4580cc0a702",
+          "user_name": "きずな🌸|エモーショナル・エッセイスト| 言葉を音で届ける人♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267260596/profile_498713ded503ac02447a29aec612ecea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨️こんばんは🌙\n\n優しい楽曲と、私の紹介までありがとうございました\n(ꕤ ॑꒳ ॑*)ﾉ\n今後ともよろしくお願いしますᐠ(*ˊ˘ˋ*)ᐟ🩷\n",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "ncac2c9cb251e7",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295038110/profile_ba8202861f5267b461bc2fac23f8017b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nお疲れ様です😊\n\nご苦労さまです！！\nご紹介も感謝です。\n\n蛍っちが\n蛍祭りを始めてました\nママバージョンで😉‎⭐\n\nだいぶ\nテンパってるみたいです💦…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️✨",
+          "note_key": "nf0e4ca70189a"
+        },
+        {
+          "key": "nc64c813a57b07",
+          "user_name": "taka｜朝は景色を、夜は心を言葉に🌸",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256419163/profile_2b670b17d0f8de438a20fb7707428a7d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、素敵な動画を拝見しました😊🌸\n\n音楽と映像、そして込められた想いが重なって、とても温かい気持ちになりました。\n思わず胸がいっぱいになりました😭✨\n\n「…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc91b41ba71e11",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさんこんばんは🌙✨\nわぁ🌈✨みきさんも動画作れるんですね🥹✨\n創作大賞の運営メンバーみんなが参加されていて、とっても愛の詰まった曲に癒されました❤️\nこれ、…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc869864c82898",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "真夜中におじゃまします🤗✨♥️\nYouTube見てきました〜💕\nわかる〜😆♥️ ほんとそう〜😍♥️\nと思いながら、可愛らしいMVを見せていただきました☺️💕 n…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "ncfdd460d8dc64",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "圧倒されました。\nそれぞれの特徴をよくとらえており……誰がどこにいるのか、一目でわかりますからね。\nさらに音楽自体も、非常にきれいなメロディーで……これほどの作…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "ncb8f9478e7d74",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297616906/profile_f6f065d8737afac7d2c35dc4bb51873c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "何度見ても素晴らしい動画ですね💕\nみきさんの動画は愛があふれてます🥰",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc27942e1a5078",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙*·̩͙\n動画拝見しました♡♡\n素敵でほっこりしちゃう動画♡♡\n素晴らしい作品を拝見させていただき、ありがとうございます。\n\nnote界隈…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc9214b8d30c65",
+          "user_name": "ゆう | ほどく会話のことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285567069/profile_e9260357dafc82db821f5db2e35f9e64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n\n画面の向こうのつながりって不思議ですよね。\n会ったことがなくても、言葉や作品から温かさを感じることがあります🌿\n\n「いつもそば…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "ncece1b76454a3",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃーん、こんばんは🌙\n深夜２時です。夜分遅くすみません💦\n\n２０日間と長い間でしたが終わったらあっと言う間でした。\n広報頂き、またテーマコンプリート頂いて…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc41b8510f87f1",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267110140/profile_a7a14a7914bcb2b217602601d3f3e0e1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\nこんばんは😊\n\n曲聴きました～♡\n\nすごくよかった！\n歌詞がとてもメロディと共に沁みてきて\nnoteはじめてよかったな。\nと思える一曲ですね。\n\n私…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc29102d19b118",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、全部聴いたよー🎵\n素敵な曲～💓\n私もその大切な仲間の一人に入ってるといいなと期待しながら(笑)\n\nいつも、素敵な時間を、ありがとうー😊",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nca6cf165b1b0e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ええなあ😊",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc543c65ad475b",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、オールコンプリートおめでとうございます👏✨\nそして最後に、こんなに温かい感謝の作品を届けてくださり、ありがとうございます😊\n\n「画面の向こうには大切な…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc60ea96b7af59",
+          "user_name": "コスモス🌸 │ 投資×AI創作×交流を楽しむ3人組",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274108202/profile_9281a12226326472e24ac203a57061cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨️\n\n素敵なMVでした〜‪💕︎︎\n歌詞にもみきさんの気持ちが\n沢山込められていて、\n優しい気持ちになれました🌸\n\n企画に参加できて、私も嬉しかったです…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc3cc2d33e659f",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、動画と曲、素敵でした✨️\n画面越しでも、みなさんのあったかさひしひし感じますよね！\n完走お疲れ様でした🐱♡",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "ncf280ef0f4863",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\nちょうど先ほど、私もギリギリでアップしました。\nまあ、私は１作のみですが。\n中身が決まらずに見えなかったので、結局ギリギリに💦\nまあ、挑戦すること…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc3b248602a169",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃マガジンファミリーみき様😆ありがとう！のYouTube見て聴きながら…コメントしてたら涙が出てきたよー💦とっても素敵でした👏❤️💯\n\n（C-GPT：…",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        },
+        {
+          "key": "nc631c755dafe7",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ✨️みきさん\nYouTubeめちゃくちゃ素敵でした♪\n\nありがとうございます🥰",
+          "article_title": "✨noteでの出会いに感謝！創作大賞完走と新曲『いつもそばに』✨",
+          "note_key": "n3d78bf798ea8"
+        }
+      ]
     }
   ]
 }

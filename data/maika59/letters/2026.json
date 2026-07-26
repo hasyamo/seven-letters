@@ -1171,6 +1171,76 @@
           "note_key": "nba6b4978f497"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 418,
+        "likes_prev": 549,
+        "followers_start": 4420,
+        "followers_end": 4658,
+        "new_fans": 119,
+        "comments_total": 10,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:37",
+          "08:21"
+        ],
+        "top_article": {
+          "title": "『AIアニメで伸びる人伸びない人の違い。』｜Google Flowで作るAIアニメ！ ｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "nfc0f82831ee9",
+          "likes": 101,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16753
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "ncbd65cf8e060b",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます。\n5月にフォロワー1000になっていると教えていただいたのは、\nまいかさんでしたね。\nまずは、少しづつ・・ラベンダーいただきます。\n\n夏祭…",
+          "article_title": "『パステルの風が、夏をそっと描きはじめる。』-2026年の夏アート- ",
+          "note_key": "nb430ecf04b1f"
+        },
+        {
+          "key": "ncf6b349b5cf38",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。ゆかりやさんすばらしいですね。フォロワー２０００人達成！！あとまいかさん、今度はaiイラスト女王様を目指してください。",
+          "article_title": "『パステルの風が、夏をそっと描きはじめる。』-2026年の夏アート- ",
+          "note_key": "nb430ecf04b1f"
+        },
+        {
+          "key": "nc929477c2b73d",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。教えていただきありがとうございます。",
+          "article_title": "『AIアニメで伸びる人伸びない人の違い。』",
+          "note_key": "nfc0f82831ee9"
+        },
+        {
+          "key": "nc3c7b18511464",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます😊\n\n世界観、キャラクター、物語の３つの視点。なるほど、その通りと思います。\n\n提示いただいているFlow用のプロンプトはある意味画期的です…",
+          "article_title": "『AIアニメで伸びる人伸びない人の違い。』",
+          "note_key": "nfc0f82831ee9"
+        }
+      ]
     }
   ]
 }

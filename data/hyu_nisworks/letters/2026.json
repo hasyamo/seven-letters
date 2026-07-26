@@ -1244,6 +1244,175 @@
           "note_key": "n5628ebf7eaad"
         }
       ]
+    },
+    {
+      "week": "2026-W30",
+      "period": {
+        "start": "2026-07-20",
+        "end": "2026-07-26"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 313,
+        "likes_prev": 269,
+        "followers_start": 505,
+        "followers_end": 523,
+        "new_fans": 81,
+        "comments_total": 32,
+        "posts_count": 5,
+        "consecutive_days": 3,
+        "post_times": [
+          "11:35",
+          "06:57",
+          "20:25",
+          "08:20",
+          "09:26"
+        ],
+        "top_article": {
+          "title": "noteに「フライホイール」を実装しよう！物理学×noteの運用術！？",
+          "key": "n2ef5b7c52a53",
+          "likes": 93,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "末吉宏臣（Hiroomi Sueyoshi）『言語化とnote発信の全技術』著者",
+          "urlname": "sueyoshihiroomi",
+          "follower_count": 30525
+        },
+        "commenters_count": 14
+      },
+      "comments": [
+        {
+          "key": "ncafa67206a4bf",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\n\nこの歌なんですか！！\nうわ、カッコよすぎる😎\nやたい記事のゲームも良かったけど、\nさいこーですね、この歌🎤\nいやー、全部持っていかれましたww\n…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "nc4c566e8b6946",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n夏祭りおつかれさまでした。\n\n後夜祭記事読ませていただきました。\n\nかえるこさんのLIVEもかっこよかったですよね。\nこたやさんのMV…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "ncc25f8b855fb7",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは〜✨\n\nピヨピヨ電子音の落ち物ゲームから、わずか数日で2つのゲームを完成させた裏側に驚きました😆\n\nしかも、そこで終わらず、かえるこさんの…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "nc0732ecec22e0",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさーん！こんばんは🌻✨\n\nめっちゃいいじゃないですかーーー！！！💖\n\nアップテンポでカッコイイです✨\n歌詞もいいですね✨\n「すくったのは出会いの方だから」…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "ncc16a47507401",
+          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、最高やん♥️\n\n思い出に残る曲だね！\n後夜祭をテーマにしてるところが、\n終わりそうで、まだまだ！という\n切なさと熱さが入り混じってぐっときたよ～👍✨…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "nc39d6131e05b8",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Suno始められたのですね。\nはじめたばかりとは思えない、とってもいい曲ですね。\nじまにゃんさん、こたやさんへの愛を感じます😊\n\n夏祭り屋台、特にパズルは長く滞…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "nc1026bcdb2e3c",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは！\n\nうえぇ…ひゅーさんも初めて作られたゲームだったのですか😮！！\n屋台→コメント→ゲームの発想の流れは同じなのに\n仕上がりのクオリティの…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "nc2469517d83f1",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n執筆お疲れ様です✨\n\n思い出屋台に選んで\nいただき嬉しいです🤭\n\nまたひゅーさんの創作意欲に繋がったことも、自分のように嬉しいです😚\n\n音質が良かっ…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "ncf8c36c40037c",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは😆\n\n曲カッコいいですね✨\n私もそのうち手出しちゃいそうです⭐\n\nピコピコ電子音ゲームから、あのレベルまで持っていけちゃうのがすごいです👍…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "nc10db95854058",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n\n早速、後夜祭へのご参加\nありがとうございます❣️🫶\n\nなんと❣️\n音楽まで作り始めちゃいましたか〜😳\n\nかえるこさんは、Suno の商用可能な\n有…",
+          "article_title": "「ミリしら」でも曲は作れる？AIと挑んだ「じまこちゃ夏祭り」後夜祭",
+          "note_key": "n4d3bb4cf9da6"
+        },
+        {
+          "key": "ncd476fc8a427c",
+          "user_name": "コスモス🌸 │ 投資×AI創作×交流を楽しむ3人組",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274108202/profile_9281a12226326472e24ac203a57061cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん✨\n\nまさか1000フォロワー達成していたなんて🎉\n素敵に分析していただいて大変光栄です✨️\n\n最初にマガジンへ参加させていただいた時はフォロワー50…",
+          "article_title": "コスモス🌸さん、フォロワー１０００名達成おめでとうございます！",
+          "note_key": "n415c39431b1d"
+        },
+        {
+          "key": "nc0655b19e8cbd",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😊\n共同運営マガジンでお世話になります🍀\n\nひゅーさんの夏祭りゲーム屋台が、\nランキングバトルになってたんですね😲\nみんな、すごいなー✨",
+          "article_title": "【３行日記×トピック】番外編",
+          "note_key": "n825a44f665d4"
+        },
+        {
+          "key": "nc24febe37fd65",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268449247/profile_b727e414cc1b1261707729f254b6ce56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵なゲームを作っていただきまして、ありがとうございます。\n楽しませていただいています。\n私のご紹介をして下さり、とてもうれしいです😊\n途中からは「じまにゃんさ…",
+          "article_title": "【３行日記×トピック】番外編",
+          "note_key": "n825a44f665d4"
+        },
+        {
+          "key": "nc4e9b0bfee514",
+          "user_name": "薄紫もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\nnoteの今を走る３行日記、すごいですね。\n\nせなさんのところにも、\nこちらの記事から行かせていただきました。\n\nありがとうございます…",
+          "article_title": "【３行日記×トピック】番外編",
+          "note_key": "n825a44f665d4"
+        },
+        {
+          "key": "nc0e983c459992",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは〜🌻✨\n\nすごい！！！\nせなさんがー！！！👀✨✨✨\n\nダブルで出す人、ほんとにいるんですね🤣🤣🤣\n凄すぎます！\n\nこちゃもタイピングめちゃ…",
+          "article_title": "【３行日記×トピック】番外編",
+          "note_key": "n825a44f665d4"
+        },
+        {
+          "key": "nce68e385378c1",
+          "user_name": "ヒョウガ・レッド｜ご縁を繋ぐヒーロー🦸‍♂️🔥",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは☺️\n\nとても、勉強になりました✨\n\n私も、ビュンビュン回して行きます🦸‍♂️♻️",
+          "article_title": "noteに「フライホイール」を実装しよう！物理学×noteの運用術！？",
+          "note_key": "n2ef5b7c52a53"
+        }
+      ]
     }
   ]
 }
