@@ -5576,6 +5576,501 @@
           "note_key": "n378e8eef9539"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 1045,
+        "likes_prev": 1269,
+        "followers_start": 1625,
+        "followers_end": 1674,
+        "new_fans": 102,
+        "comments_total": 115,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "18:38",
+          "14:48",
+          "21:04"
+        ],
+        "top_article": {
+          "title": "熊本の地震",
+          "key": "n900ca451a86d",
+          "likes": 299,
+          "comments": 62
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 18344
+        },
+        "commenters_count": 44
+      },
+      "comments": [
+        {
+          "key": "nc4c79540125da",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "良い寓話ですね。\n結局は、その男は、孤独な存在だったことに気がつき、面白く人生を謳歌しているはずだったのに、本当は、不幸だったのだと思いました。",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "nc2852d887bd77",
+          "user_name": "コウヅキ ハナエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262131492/profile_a2318ddf53f035c1f7d54b13c898e0e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは☺️\n\n福岡名物の梅ヶ枝餅を置いていきます🫓🍵🌸\n\nゆっくりおやすみくださいませ🌱",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "nccf47777b3716",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285324530/profile_9d0cb7a9b5d306860a0cab9a95f15b9d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんこんばんは。\nとても考えさせられますね🍀\n相手の一面だけ見たらそうなる気がして\nちょと怖かったです💦\n\nそんな日は甘いもの🍰とコーヒー☕で\n心穏やか…",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "ncb10999651f45",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは☕️✨️\n鰻の蒲焼き買ってきました。\nここに置いておきます。\n食事も大事ですから。",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "nc2724f920d560",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😊🍀\n寓話、とても考えさせられました。最後の子どもの「おじさん、大丈夫？」の一言が、とても心に残りました🥹✨\nメンバーシップへのご参加、…",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "nc717fa360bc59",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは。\n\n寓話は、静かで、どこか胸の奥に触れてくるような物語でした。\n\n「すべてが思い通りになる」という、一見すると満たされた世界が、実はど…",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "nc4f57be14f17a",
+          "user_name": "Micchi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209562465/profile_442a9aacc1463b5d33a77640ba7ab143.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　大丈夫ですか？\n心も身体もゆっくり休めてあげてくださいね💕\nマガジンへ追加していただき、ありがとうございました🤗",
+          "article_title": "寓話、すべてが思い通りになる男",
+          "note_key": "n4dfb45361feb"
+        },
+        {
+          "key": "nce436c2aec7a6",
+          "user_name": "月凪（つきなぎ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274044810/profile_94b40ef52fd48a8e14b98a9c74ff0f7c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは🌻\nいつもマガジンに追加してくださりありがとうございます✨\n励みになります😊これからも記事作り頑張ります💪\n今後ともよろしくお願いいたし…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc7e95c032d212",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「入口は普遍的、出口はKing独自」という言葉が、この記事全体の核心だと感じました。今回のAI分析が示したのは、テーマの選び方ではなく、Kingさんが書くこと自…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "ncb431fb2f7e59",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、マガジン追加ありがとうございます～😊励みになります🍀",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc2c26f41fa544",
+          "user_name": "🇯🇵🌸Sakura SUN☀🌐",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294480225/profile_7925d9323f8ecc194e1770c33313231c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、はじめまして。\n\nこのたびは、私の記事「🇯🇵🌸日本社会を、透明に見つめ直す。🤖🔐🏭🌍」を素敵なマガジンに加えていただき、本当にありがとうございます…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc0e5c79c0a715",
+          "user_name": "かすみさき||出来事には、意味がある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299566489/profile_a4fb4516ed8870ace38cc96448ef2ae3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは✨\nお弁当かすみです。\n「弁当記事が伸びるよ」と分析してくださったこと、覚えていらっしゃいますか？\nあれ、私、先週特にスキを～の「コング…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nca8191a49b2a5",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがKingさん。\n\nこの分析、めちゃくちゃおもしろいし、勉強になりますね＾＾\n\n私、全く分析とか出来ない人間なので、頭が良くて羨ましいです✨️",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc7323134f7c0b",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄いデータ分析ですね✨\n\n本アカでメンバーシップ入り直しました👍",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nce098e1affb99",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nおはようございます☕️✨️\n\n「やらかしました」\nというタイトルが今までで一番引き寄せられました（笑）\n素のKingさんの文章の時も好きになりまし…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc77959c5675ae",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\nいつもありがとうございます\n記事、マガジンへの追加、感謝申し上げます",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc0420ef85f35f",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　おはようございます😊\nちょっとこっちだと照れますな🤭\n\n熊本での支援の輪が広がるといいですね。\n\nKingさんの振り返り　盛りだくさんで楽しいです…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc710aab4c89c9",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\n７月の振り返り面白かったです☺️\nコングラ＆32,000回のスキおめでとうございます🎉\n\nはしゃもさんのツール便利ですよね〜\n私も…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc4ab9f5403829",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさま、こんばんは。\nRogersの投稿を引き続き、マガジンtysm:）に追加して頂き\n心より感謝申し上げます。\n\n7月の振り返り楽しく読ませていただきま…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc03ef670d24f3",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\n分析すごすぎますね😲\nもう立派なコミュニティ型\nクリエイターですね😁\n\nいつもマガジンへの追加、\nありがとうございます🙇",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc9458b22e332a",
+          "user_name": "mimi｜生き延びるための静かな考察",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282211059/profile_18983e058a211095cabe67891fd8784c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんはvv\n熊本での地震、ご親戚のみなさまのご無事と1日も早い平穏を心よりお祈り申し上げます。熊本地震への義援金のご案内もありがとうございます…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nccbbea00173b4",
+          "user_name": "Noa｜アイコン変更しました",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298929466/profile_ad4fecb15a309051e7a4b0731849d2b1.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n熊本の地震、ご親戚のみなさまのご無事を心からお祈りいたします。\nお一人ずつ確認を取りながら丁寧に執筆されているKingさんの誠実さが、このアナウン…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc035bf3264390",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297235049/profile_3787ea4681c48b2f354181430c62e6fd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nAI分析、とても面白かったです✨\n興味深く拝見しました。\n\nそして、熊本地震への義援金、気持ちばかりですが寄付させていただきます。\n\nほかにも何…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "ncb8b37cd8d7b3",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは。\n\nご親戚は熊本だったのですね、、大変でした、、💦　\n皆さんこれからも大変ですが、\nお身体、ご無理なくお過ごし下さいますよう願っており…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc9b15d28508e8",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは😊✨\n\n「観測は続く。」のAI分析、本当にすごいですね！\nKingさんの記事は、内容だけではなく、「Kingさんが次に何をするのか」を皆…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "ncf8dd984113be",
+          "user_name": "やも｜ウェディングドレスを着ます",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258648405/profile_ee869852783a5a9a11d34fd10d919f33.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きんさん、ご親戚の熊本は大変なことでした。\nご心配、ご心痛いかばかりかとお察しいたします。\n\n微力ながら寄付させていただきます。",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "ncb1d40ef87aa9",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n今月も毎回マガジンに追加してくださり、本当に本当に本当にありがとうございますだ！\n私も寄付してきます！",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc6ec1ac4cefee",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\n今月もありがとうございました。\nはしゃもさんの分析ツール、すごいですね！\n\n熊本にご親戚がいらっしゃるのですね。\n\n自治体の義援金情報、ありがと…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "ncb02160512eb1",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い、おかげさまで半周年✌️で、この数字は、ラッキー✌️でもなく、kingさんの人柄と、取り巻く環境ですね。\n被災地の方々、本当に胸が痛いです。\n私は、今日の午…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc7a9bd12bcd06",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nそして、なかなか濃厚な振り返りですね！\nさすがです✨️\n\n地震、大変でしたね💦\nご無事で何よりです。\n私も微力ながら募金で応援しようと思います。…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nce17e11e7db1a",
+          "user_name": "龍神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/195297097/profile_8bc9db642d186cf7b66339af17c27bd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n7月の歩みから、Kingさんと皆さまのご縁の深さが伝わってきました🐉🍀\n\n実際に、Kingさんをきっかけに私のメンバーシップへ参加してくださった…",
+          "article_title": "7月の振り返り！",
+          "note_key": "n53ff622191fd"
+        },
+        {
+          "key": "nc2cef247a8d2f",
+          "user_name": "てらす｜不登校から大学受験　　ASD パニック障害の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221157900/profile_64d666d2410a7e45c9b6519032c0aa66.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\nいつもマガジン追加をありがとうございます✨\n自治体の義援金情報ありがとうございます。\nこれからずっと忘れずにいたいと思います。",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc86b822e7e4a6",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "小さな一歩に応援ありがとうございました。裾野が広がることで、被災地の方々にこんなに応援してもらってたんだって、いつか知ってもらえたらうれしいと思っています。水で…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncc45451d44911",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\nご親戚がご無事でよかったです。\n1日もはやく安心できる環境と復興を祈っております。\n\nマガジンへの追加も、いつもありがとうございます…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncdea11d0c721c",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\nご親戚が大丈夫でよかったです。\n被災された皆様に心より\nお見舞い申し上げます。\n\nまた\nマガジンにも入れて頂き\nありがとうございました。",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncd5b934f72590",
+          "user_name": "Micchi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209562465/profile_442a9aacc1463b5d33a77640ba7ab143.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　おはようございます😊\nマガジンへ追加していただき、ありがとうございます❣️\nご親戚の方が大丈夫とのこと、何よりですヾ(๑╹◡╹)ﾉ\"\n震災の影響の…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc11309a5ebb9c",
+          "user_name": "コウヅキ ハナエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262131492/profile_a2318ddf53f035c1f7d54b13c898e0e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは\n\nご親戚がご無事で何よりでした。私も友人に確認し、無事だったので一安心です。\n\n後は強い余震が無く、未だ安否不明の方々が無事である事を…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc9951313db367",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nいつもマガジン追加ありがとうございます。\n\n私も、親戚やいとこがガス爆発を起こしたイオンモールの近所に住んでいるので\n心臓がバクバクしましたが、み…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncda202ca2a3a5",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nマガジン追加ありがとうございます。\n\nご親戚の方、無事で何よりです。\n余震と暑さで体調を崩しませんよう願っています。\n\n",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc9df0ff603d95",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。\n九州のご親戚大丈夫でしたか。\n稀に見ない大地震でしたね。",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nccddc45b6e429",
+          "user_name": "ｓｅｏｒｉ🧚‍♂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295621476/profile_1a36531ff581438cbb66c5f40f1e9d83.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Ｋｉｎｇさん🧚‍♂\n\n\n地震大丈夫だったよ！！😉\n\n龍神🐉様　エネルギー✨加速し過ぎてます\nハロ🌈　マガジン載せて下さって　感謝💕\n致します\n\n\n龍神🐉　エネル…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc202f74cfe95e",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298270124/profile_2b6c611d443055ec415082ce8c69d90c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは。\n\nご親戚、ご無事でよかったです。\n私の記事も入れてくださってありがとうございます。\n\nこの暑さで、体調の方も不安ですね…\n１日でも早…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncd19d783c12ac",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんにちは🌱\n\n御親戚、無事で良かったですね💦\n\nここ最近、地震が多くてちょっと怖いなぁ・・と思っています💦\n\n東京に住んでいるのですが、そろそ…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc4bfd8a1e3bfd",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nご親戚の方、ご無事で何よりです。\nこの暑さなので、ご心配ですよね。\n1日でも早く安心して過ごすことができるよう、国に頑張って欲しいです。\n",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc649959715979",
+          "user_name": "まんまる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269144961/profile_2ddd16bbb0f86761640576ac43019453.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nまたまた記事をピックアップしていただき有難う御座います！\n熊本の地震ビックリしました。8月上旬に猛烈な台風も上陸する可能性があるようですし心配です…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc785c0f604840",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nおはようございます☕️✨️\n昨日は存在をお気づかいいただきありがとうございます。Kingさんの御親戚もご無事で何よりです☺✨️",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nccae6f5d29f39",
+          "user_name": "いちごもん🍓｜半径1メートルにやさしさを届けたい人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295378028/profile_06adc6977d55c4dda0079472fdcac17b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんの、熊本の親戚の方無事で良かったです。\n私も親戚とクライアントさんが熊本で、安否確認取れました。\n暑いからライフラインが無事だといいのですが…🙏\n熊…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc471c9d30fe9f",
+          "user_name": "LOVEちゃん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281631027/profile_f6409e39b7f95ff3f230ceb2b3138873.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "また大きな地震ですね🥲\n私のところは影響無いようです🌸",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc243c3dcba349",
+          "user_name": "令和　舞",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234789263/profile_b88eee04a293b6ffb436e21f045323d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご親戚の方がご無事で安心でしたね🙏\n\n311を思い出して…\n怖くて怖くて…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc071bfd1ee246",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "親戚の方々がご無事でよかったです…！実家が九州、という友人が多いので、連絡しまくってました…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc55e7cf7c5686",
+          "user_name": "mimi｜生き延びるための静かな考察",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282211059/profile_18983e058a211095cabe67891fd8784c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんはvv\nご親戚の方々がご無事でよかったです🙏\n久方ぶりの7クラスでしたね💦\n熊本、九州の皆様が、少しでも心安らげるひと時を過ごせますように…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc69b5c37ffc7c",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは。\n熊本映像で見るとすごいですね。\n親戚がご無事でよかったです。\n福岡の親戚も怖かったーと連絡ありました。\n優しい気遣い素敵です。",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncaa2211a1b5d7",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさま、こんばんは。\nRogersも、熊本のクリエイターから返信コメント\n先ほど頂きました。\n\n仕事中に、みんなのスマホが一斉に鳴り…\nグラグラと地震がき…",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncecbca98318f7",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん！！\n\nひとまずKingさんの親戚の方がご無事で何よりです！！\n\n安心しました！！\n\n先程は心配のメッセージも本当にありがとうございました！！",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc66cf2de35534",
+          "user_name": "たび.　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298375642/profile_0063b0d3235d208d9b3f82083820469b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ホントにみなさんのご無事を祈ります。\n\nイオンモールの件がすごく心配です・・",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "nc03d5408f7f42",
+          "user_name": "yoちゃん｜人生迷子のアラフォーOL",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279470465/profile_777275ca763868d309f35bcf79988cc6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "皆さんご無事でありますように。\nこの暑さなのですごく心配です。",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        },
+        {
+          "key": "ncaa63ef883b65",
+          "user_name": "さんみ～＠ヤングケアラー２５年の人生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/4620903/profile_89e247ec25f892b6133264485871d760.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。親戚と連絡はとれましたか💦",
+          "article_title": "熊本の地震",
+          "note_key": "n900ca451a86d"
+        }
+      ]
     }
   ]
 }

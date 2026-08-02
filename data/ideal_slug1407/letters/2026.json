@@ -2211,6 +2211,236 @@
           "note_key": "nafeec9265314"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 688,
+        "likes_prev": 608,
+        "followers_start": 1605,
+        "followers_end": 1631,
+        "new_fans": 165,
+        "comments_total": 50,
+        "posts_count": 10,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:00",
+          "07:00",
+          "00:00",
+          "07:00",
+          "06:30",
+          "21:45",
+          "20:45",
+          "06:30",
+          "19:54",
+          "07:21"
+        ],
+        "top_article": {
+          "title": "無料版ChatGPTを初めて使う人へ——今日から試せる5つの使い方",
+          "key": "nb626751f238a",
+          "likes": 96,
+          "comments": 9
+        },
+        "notable_reader": {
+          "name": "伊藤ようこ| 強み×ITサポート| 自己受容から始まるしなやかな生き方note",
+          "urlname": "bright_knot21",
+          "follower_count": 12990
+        },
+        "commenters_count": 16
+      },
+      "comments": [
+        {
+          "key": "ncc0e0a392d4c8",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんおはようございます。\nやっとよく寝たわーてくらい寝ました。\n一年間？ってとこにびっくりしました。\n流石黒パグさんでしっかりまとめられていて、どこ…",
+          "article_title": "【PR】PDFだらけのLLMエンジニア、UPDFを一年使う。第1回：iPad版で何ができるのか",
+          "note_key": "n815d2adb78d1"
+        },
+        {
+          "key": "ncc1475696882a",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もやってみま～す(≧▽≦)✨",
+          "article_title": "夏を飲む",
+          "note_key": "ncdf9d0162629"
+        },
+        {
+          "key": "ncf252b5e66afd",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます☀️\n三ツ矢サイダーとICE BOX良いですね💕︎お手軽ですし✨️\nうちの娘はコーラ×ICE BOXの組み合わせをやっていましたね…",
+          "article_title": "夏を飲む",
+          "note_key": "ncdf9d0162629"
+        },
+        {
+          "key": "nc57c72897d322",
+          "user_name": "ゆきぽ🦥🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます🌞\nサイダーもＩＣＥ ＢＯＸも好きなのに、この掛け合わせ知りませんでした!\n夏って感じですね🌻\n美味しそう〜",
+          "article_title": "夏を飲む",
+          "note_key": "ncdf9d0162629"
+        },
+        {
+          "key": "nceadca2126c84",
+          "user_name": "Yufu｜朝日と花と、これからの人生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273458821/profile_c3e2b3e7197d5a204e1d64cab81f6942.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私の記事にスキを届けてくださり、ありがとうございます。 今日という日が、あなたにやさしく微笑みかけてくれますように。",
+          "article_title": "無料版ChatGPTを初めて使う人へ——今日から試せる5つの使い方",
+          "note_key": "nb626751f238a"
+        },
+        {
+          "key": "nc4535c59bc79c",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、夜分にすみません。\nめちゃわかりやすい記事でした。奥様のご依頼とか\n愛妻家でうらやましい限りです。\n私も１年前は、ちょっと画像出したり、資格の…",
+          "article_title": "無料版ChatGPTを初めて使う人へ——今日から試せる5つの使い方",
+          "note_key": "nb626751f238a"
+        },
+        {
+          "key": "nc536f6cf57b6d",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "好きな音楽や映画の話等、一方的に感想を話してみるのでもいいと思うのですよね。手ごたえを感じて長々話し込み、初回であっという間に制限を超えすぐ課金。。でもそれを続…",
+          "article_title": "無料版ChatGPTを初めて使う人へ——今日から試せる5つの使い方",
+          "note_key": "nb626751f238a"
+        },
+        {
+          "key": "nc34213cea3acd",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💖🎀✨ 今日ﾞのﾞ記事ぱﾞヂﾞャッピーどﾞﾞ仲ﾞ良ぐﾞﾞなﾞる方ﾞ法だﾞっだﾞﾞんﾞでずﾞね。\n\n ✨🎀💖\n\n使いました！笑\nHTMLの背景がCSSで流れるポル…",
+          "article_title": "無料版ChatGPTを初めて使う人へ——今日から試せる5つの使い方",
+          "note_key": "nb626751f238a"
+        },
+        {
+          "key": "nc20db68e90352",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは。\n初心者向けの記事、すごく分かりやすかったです。\n\n読んでいて思ったのですが、初めてChatGPTを触る人には、便利な使い方を覚える前に…",
+          "article_title": "無料版ChatGPTを初めて使う人へ——今日から試せる5つの使い方",
+          "note_key": "nb626751f238a"
+        },
+        {
+          "key": "nc0dddac7c4c92",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは♪\n\n最後のダミ声製造機で笑って\nしまいました🤣\nすごい😍\nAIも毎日ニュースで追いつかないですが、こうしてまとめて頂けると\nわかりやすい…",
+          "article_title": "もう名前を覚えられない。2026年上半期＋7月の主要AIを全部並べてみた",
+          "note_key": "nb14b0e6bbcec"
+        },
+        {
+          "key": "nc455aa71e53c8",
+          "user_name": "シンゴ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278329569/profile_c9e7c6de6d23ff0ad8661988864b00cc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキありがとうございます。\n私の「今日のあなたに」でよく名前を見かけます。\nアルゴリズムに愛されてますね👍",
+          "article_title": "もう名前を覚えられない。2026年上半期＋7月の主要AIを全部並べてみた",
+          "note_key": "nb14b0e6bbcec"
+        },
+        {
+          "key": "nc834209fbb40d",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおはようございます😊\nはい、正座してお待ちしています🍺✨\nAIって、自分の体感で、シーンに合わせてお願いして回ってる感じです\n何が一番かより、使っていて手応え…",
+          "article_title": "もう名前を覚えられない。2026年上半期＋7月の主要AIを全部並べてみた",
+          "note_key": "nb14b0e6bbcec"
+        },
+        {
+          "key": "ncb6305799393e",
+          "user_name": "優里",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295057336/profile_ea5fe247de1385f66a76276a7e0fca6d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIで作業は早くなっても、仕事そのものが減るとは限らないという視点に共感しました。私も効率が上がるほど、新しい挑戦が増える経験があります。大切なのは空いた時間の…",
+          "article_title": "AIで時短したはずなのに、なぜ仕事が減らないのか——調べていたら「率」が増えた　2026年7月→8月草単価表付き",
+          "note_key": "n43250ba5d7e2"
+        },
+        {
+          "key": "nce007041d3d65",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん🐾おはようございます。私はレッドブル派です\nモンスター飲んだことないのですが\n🍎出てたので1個だけ買いました。\n飲んだらめちゃめちゃ覚醒します。…",
+          "article_title": "開発者の身体には、ピンク色の川が流れている　#飲み物のある時間",
+          "note_key": "n662ae4e5bdf2"
+        },
+        {
+          "key": "nc29bf70d1c780",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "エナジードリンクって、飲んだこと無いです(*‘ω‘ *)\nコーヒーは…好きですけど🥰",
+          "article_title": "開発者の身体には、ピンク色の川が流れている　#飲み物のある時間",
+          "note_key": "n662ae4e5bdf2"
+        },
+        {
+          "key": "ncd73b3847cbbe",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、お疲れ様でした😄\n\nこれは家庭内でなく、会社でもありますね💦\nヒアリング大事ですけど、大体あー使えるように作ってとか？\nそういう曖昧な言葉で返されま…",
+          "article_title": "嫁からP1。「漢字練習用のマス目を作って」――仕様変更3回、報酬は甘いスイカでした🍉",
+          "note_key": "n71e65aa2aa6d"
+        },
+        {
+          "key": "ncde8ab7b452c0",
+          "user_name": "もこなが丸",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270438766/profile_39065d43b93603c739ff6299f39f8ac1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんちは。\nコメント書くつもりはなかったのですが、どうしても伝えたくて…。\n\n笑った🤣\n再現度🤣\n\n最近はもっぱら焼酎の炭酸割だけど、久しぶりに「アサヒ スーパ…",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        },
+        {
+          "key": "nc8244681c297c",
+          "user_name": "こどものことば",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260039411/profile_7290d8aa625be03f9ab8eae334bc1281.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「飲み物の記憶は、味だけでは残らない」という一文が、読み終えたあともずっと頭に残っています。\n\n夜泣きの深夜、寝不足の父親が全力でビールのCMを叫ぶ——その場面…",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        },
+        {
+          "key": "ncd2b3e68e4240",
+          "user_name": "ろるけき＠スタジオYSN",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293874934/profile_335c63a3f6e562609d3f24c844198588.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こういうのありますよね笑\nうちは何だったかなぁ🤔\n\nでも子供自体、あさひすぅぱぁどぅらぁぁぃ！を真似して言いますしね笑",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        },
+        {
+          "key": "ncd951ea0f0964",
+          "user_name": "五十嵐雉虎（イガラシ・キジトラ）｜準文筆家｜掌編小説・ショートショート作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/177475360/profile_590d0419ed4a65e554de7e8288c064e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "我が家には子も孫もいないので、試しようがありませんが、試したい！！\n\n泣いてる他人の子どもにやったら、通報されるかなぁ。\n小さい子のいる知り合いに教えてあげよう…",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        },
+        {
+          "key": "ncbe6001d7ef38",
+          "user_name": "朋香@ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パグさんこんばんは😊\nコメントできる記事には張り付いているわたしが来ました😂\nあの声とスチルはインパクトありますよね🍻\n子供さんの夜泣き、親が一緒に泣きたくなる…",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        },
+        {
+          "key": "nc3ff7995da7c4",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん(勝手に省略すみません)、こんばんは🌙*·̩͙たまたまnote開いたら、このタイトルの通知が上がってて、吹きましたꉂ🤣w‪𐤔\n私もこらは、声も発音まで…",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        },
+        {
+          "key": "nc2bcee1694c04",
+          "user_name": "スイッチくん🐻😊 │ Qwen3 8B │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "時々、あのCMの真似をしたくなる時がありますよね🐻😂\n「アサヒィ、スーパー……ドゥラァアアアアイ！🍺」",
+          "article_title": "アサヒィ！スゥーパァーどぅぅらあ“ぁ”ぁぃ",
+          "note_key": "n8e9a42b99736"
+        }
+      ]
     }
   ]
 }

@@ -3976,6 +3976,229 @@
           "note_key": "n806b64123f0c"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 339,
+        "likes_prev": 382,
+        "followers_start": 681,
+        "followers_end": 691,
+        "new_fans": 61,
+        "comments_total": 50,
+        "posts_count": 11,
+        "consecutive_days": 7,
+        "post_times": [
+          "14:30",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "04:23",
+          "04:18",
+          "21:33",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "構造の強さは、個性でもある。似たAIイラストが大量発生する理由",
+          "key": "nd4c1538588b6",
+          "likes": 41,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 27012
+        },
+        "commenters_count": 17
+      },
+      "comments": [
+        {
+          "key": "nc6c28388374cf",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\n\n神社に関連するお話、とても面白かったです。\n不思議な体験、いっぱいされてるんですね。\n「神様は人間くさい」の一言がすごい印象に残りました。",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 土地の神様のお話🌟",
+          "note_key": "n684de3f76aee"
+        },
+        {
+          "key": "nc07704ac207f4",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "畑でかがんでいるのを見て「お義父さん！」って呼んだらサルだったっていうのが、おもしろい🤣",
+          "article_title": "スタエフ🎙サグラダ・めじゅリア | 土地の神様のお話🌟",
+          "note_key": "n684de3f76aee"
+        },
+        {
+          "key": "nca43d40807f93",
+          "user_name": "プチクラゲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296368006/profile_8d2771fff47913f444784bd31473ba90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんか凄い話だったのだ💦",
+          "article_title": "頭の良い人は、遊びなはれ。",
+          "note_key": "n55bddd974821"
+        },
+        {
+          "key": "ncb6f4a6dbf8c1",
+          "user_name": "ヒョウガ・レッド｜ご縁を繋ぐヒーロー🦸‍♂️🔥",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n頷きながら記事を読みました。\n\n新発見って、失敗作から見つかったり、偶発的な発見も多いので、遊び心は大事ですよね✨\n\n私もモノづくりの時に、色々な…",
+          "article_title": "頭の良い人は、遊びなはれ。",
+          "note_key": "n55bddd974821"
+        },
+        {
+          "key": "ncc27aa68dc7e6",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い面白いアイデアですね。\nあとは地球は数億年かけてきたのを、物の数百年でこんなにしたので、急激な化学変化させてるような物なので同じ様に調整しようとすると予想外…",
+          "article_title": "頭の良い人は、遊びなはれ。",
+          "note_key": "n55bddd974821"
+        },
+        {
+          "key": "ncc51a64e171bd",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いま視察中なんだが、現場ではじめてわかるかことって多い。\n夢は描く。現実は見つめる。\nかたちにするとはそんな事だな。",
+          "article_title": "頭の良い人は、遊びなはれ。",
+          "note_key": "n55bddd974821"
+        },
+        {
+          "key": "ncfd724a968b51",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "研究の初期は、遊び心から。\n途中から予算。\n\n境目に困ってる今日この頃w",
+          "article_title": "頭の良い人は、遊びなはれ。",
+          "note_key": "n55bddd974821"
+        },
+        {
+          "key": "nca5b6510c80dd",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄く読み応えがあって中身の濃い記事でした。\n「個性がないというより、個性を支える構造が、まだ弱い」\nいきなりぶっ刺さりました🤔\nゆっくり考えながら生成を繰り返し…",
+          "article_title": "構造の強さは、個性でもある。似たAIイラストが大量発生する理由",
+          "note_key": "nd4c1538588b6"
+        },
+        {
+          "key": "nc02bfc36ef196",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちなみに現在、ヤマザキビスケットは「ノワール」という商品を販売しているので……まあ、形状が異なるため「オレオ」との差は分かりやすいと思いますけれどね。\n元々はヤ…",
+          "article_title": "構造の強さは、個性でもある。似たAIイラストが大量発生する理由",
+          "note_key": "nd4c1538588b6"
+        },
+        {
+          "key": "nca2e48ebc077f",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます☀️\nいい記事書いてるなって思ってたら、\nハシビロコウに頭食べられてるのに大笑いしました🤣\nぜんぶ吹っ飛んでしまったんですけど🤭",
+          "article_title": "構造の強さは、個性でもある。似たAIイラストが大量発生する理由",
+          "note_key": "nd4c1538588b6"
+        },
+        {
+          "key": "ncced9871ac8bd",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299199505/profile_fff9a3cd9573f5c07452e8d237b2f246.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かに、キャラクターの骨格を残したまま変化させるのって難しいですよね🌿\nうちのルーシャーナも、チャッピーが特徴を覚えてくれていてもこれちょっとちがうなーってなる…",
+          "article_title": "構造の強さは、個性でもある。似たAIイラストが大量発生する理由",
+          "note_key": "nd4c1538588b6"
+        },
+        {
+          "key": "nca7ef01b0130d",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャラに個性を出すってむずかしいですよねぇ。\n何を残して、何を削るのか。\n\n考えさせられるいい記事です！！",
+          "article_title": "構造の強さは、個性でもある。似たAIイラストが大量発生する理由",
+          "note_key": "nd4c1538588b6"
+        },
+        {
+          "key": "nccfc1b035c558",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "占い……さまざまなものがありますよね。\nタロットカードもそうですし、私自身が主に使っているエニアグラムも、一種の占いといえるのかもしれません。\nそれらを深堀りし…",
+          "article_title": "占えることを、全部書かない。めじゅ式占術マップ進化版【あなたの世界をパッチワークする】",
+          "note_key": "n60e48a241cf3"
+        },
+        {
+          "key": "nc67f29c027da8",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん💗こんにちは🌸\n\n先日は、メンバーシップ特典として私の占術マップを作ってくださり、本当にありがとうございました🥹💕\n\n今回ご紹介されている販売版とは内…",
+          "article_title": "占えることを、全部書かない。めじゅ式占術マップ進化版【あなたの世界をパッチワークする】",
+          "note_key": "n60e48a241cf3"
+        },
+        {
+          "key": "ncbe5fc16fb7ee",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299563992/profile_dd1b14d2d28fcde6dae7c936f80ed52b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スゴイ✨本格的な占いなんですね👏👏\nワタシも簡易的なタロットをはじめるところでした🌿\nって、まだ調整中ですが💦",
+          "article_title": "占えることを、全部書かない。めじゅ式占術マップ進化版【あなたの世界をパッチワークする】",
+          "note_key": "n60e48a241cf3"
+        },
+        {
+          "key": "nc7ee457e3ef4f",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292114750/profile_8a2931391f071b70941f85c7d8f490e6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんのこと、これからも一緒に応援していきましょうね(^o^)v",
+          "article_title": "大好き💖はんくさんHappyBirthday🌟",
+          "note_key": "n6efae619c7a4"
+        },
+        {
+          "key": "ncc3a42ddf486d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちんあなごのめじゅさん、懐かしい😊\nnoteいろんな繋がりが生まれるので楽しいですね✨\nメイシンさんも書いてますけど、最初みた時はインパクトありましたね🤭",
+          "article_title": "大好き💖はんくさんHappyBirthday🌟",
+          "note_key": "n6efae619c7a4"
+        },
+        {
+          "key": "nc5c001d3b30b8",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298214090/profile_4e925f0f687ecaa56ff6c59b247ecd26.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます\n\nちびめじゅちゃん、かわいい💕\nそうだったんですね〜\nこのイラストに優しさが詰まってます💖",
+          "article_title": "大好き💖はんくさんHappyBirthday🌟",
+          "note_key": "n6efae619c7a4"
+        },
+        {
+          "key": "nc4fd2ef5ef482",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、可愛すぎます💕\n\nそっか、めじゅちゃんは\nはんくさんが爆誕させてくれたんですね！！\nなつかしい💕\nかわいいめじゅちゃんに出会ったときは衝撃でした！…",
+          "article_title": "大好き💖はんくさんHappyBirthday🌟",
+          "note_key": "n6efae619c7a4"
+        },
+        {
+          "key": "nc70538d2d8634",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この作者、ずっと男性だと思ってました。\nストーリーの描きかたやプロットの建て方から？　あれ？　もしかして？\n\nとも思いつつ、知ったのはチョッと前だったかな\n\nそ…",
+          "article_title": "いっぱいいるんだけど💦振り絞って考えた結果、荒川弘さん💖",
+          "note_key": "n4840fbc11101"
+        },
+        {
+          "key": "ncc7ba24fbe891",
+          "user_name": "いちごいぬ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213181612/profile_699199ae339deda4f12f0ff817d176d2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハガレンもさることながら、\n銀の匙が大好きです！\nほのぼのしていて、でも命をいただくということを\n深く考えさせられました😌",
+          "article_title": "いっぱいいるんだけど💦振り絞って考えた結果、荒川弘さん💖",
+          "note_key": "n4840fbc11101"
+        },
+        {
+          "key": "nc1fea42f99c4e",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nちょっとー！！\n僕も鋼の錬金術師めっちゃ好きー♪\n\nエドもアルも良いけど！\n実はヒューズ中佐が1番好きやったなー🤣笑\n\n残念な役でしたけどねー…",
+          "article_title": "いっぱいいるんだけど💦振り絞って考えた結果、荒川弘さん💖",
+          "note_key": "n4840fbc11101"
+        }
+      ]
     }
   ]
 }

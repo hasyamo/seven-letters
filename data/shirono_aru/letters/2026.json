@@ -211,6 +211,41 @@
         "commenters_count": 0
       },
       "rare_no": 4
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 358,
+        "likes_prev": 868,
+        "followers_start": 3981,
+        "followers_end": 3996,
+        "new_fans": 89,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "在宅フリーランスのカフェ風デスク環境を初公開。もっと理想の作業環境を求めて、新たに投資しました。｜画像生成AI｜AI活用｜ChatGPT｜在宅ワーク｜働く女性｜モチベーション｜ガジェット｜最新｜",
+          "key": "n0f444345de58",
+          "likes": 108,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15763
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

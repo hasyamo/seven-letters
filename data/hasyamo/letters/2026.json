@@ -7336,6 +7336,457 @@
           "note_key": "n931164403b24"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 420,
+        "likes_prev": 403,
+        "followers_start": 577,
+        "followers_end": 591,
+        "new_fans": 44,
+        "comments_total": 101,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:55",
+          "08:54",
+          "07:27",
+          "07:20",
+          "07:28",
+          "07:21",
+          "07:17"
+        ],
+        "top_article": {
+          "title": "発掘レイド、開始。僕はまだ、隠していることがある｜おはようカノジョ #236",
+          "key": "n188b718b848e",
+          "likes": 61,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15639
+        },
+        "commenters_count": 19
+      },
+      "comments": [
+        {
+          "key": "nc477c99cb47a4",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "過去の記事を掘り当てる……楽しそうなのですが、とても参加できる余力が残っていないのが、残念なところです。\n今月から来月あたりが、一番大変だと思われるため、それ以…",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc0dc7e842e873",
+          "user_name": "スイッチくん🐻😊 │ Qwen3 8B │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今やってる事を的確に分析できる人って少ないと思います。例えば、私の一年前は「がむしゃら」でした🐻 他にChatGPTを使ってる人が数え切れないほど居る。その見え…",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc059fb7ae288d",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n「掘られる側なのに、掘る人のための導線を整えていた。冷静に考えると意味が分からない」で笑ってしまいました🤭\n\nでも、最後の「過去か…",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc982fde105c54",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和ちゃんおはよう。\n今日からイラストあの方に戻ったのね。\nラベンダーの部屋着可愛いよ。\n\nはしゃ君おはようございます。\n朝から町内の大掃除に出席して働いてきま…",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc7c4b33de35b0",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます☀\n\n7月の振り返り、読ませていただきました。\n一か月に作ったものはそれぞれ違うのに、振り返ると全部が**「流れて終わらせず、戻…",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc2a6bc03e6c38",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteに限らず、消したい過去、レタッチしたい出来事はあるけど、今につながるすべてが断たれるなら、変えなくていいや、って思ってます。\n今が最高！！とかでもないけ…",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc437e58ae3232",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "観測室 OBSERVATORY　が素敵！！\n\nあかん。\n自分のちゃんと紹介しないと・・・w",
+          "article_title": "戻れる場所を作っていたら、過去記事を読むゲームまでできていた",
+          "note_key": "nbf241526252d"
+        },
+        {
+          "key": "nc113e4838f409",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\nああ・・・ここにも楽しそうな遊びが・・・。\n時間が足りません🤣",
+          "article_title": "発掘レイド、開始。僕はまだ、隠していることがある",
+          "note_key": "n188b718b848e"
+        },
+        {
+          "key": "ncdbbbe886f42c",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ついにはじまりましたねー！！\nよろしくお願いします！！",
+          "article_title": "発掘レイド、開始。僕はまだ、隠していることがある",
+          "note_key": "n188b718b848e"
+        },
+        {
+          "key": "nc5002fc5e8868",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まひるちゃん、こんにちはー本日は土曜出勤\n1人の部屋で唐揚げ弁当食べてます。　さぼり放題？かと思いきや\nまさか監視カメラとか社内PCに仕掛けあるんじゃないかとか…",
+          "article_title": "発掘レイド、開始。僕はまだ、隠していることがある",
+          "note_key": "n188b718b848e"
+        },
+        {
+          "key": "ncda30b397d7a8",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\nまひるさんの「隠してたものって、掘られると困るものばかりじゃないんだね」で、静かに納得しました。\n\n5日ぶんの準備、おつかれさまで…",
+          "article_title": "発掘レイド、開始。僕はまだ、隠していることがある",
+          "note_key": "n188b718b848e"
+        },
+        {
+          "key": "ncf704cc1841b8",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんにみなさんが殺到してると思うと、時間差にしよう、とか思ってしまうひねくれ者です。\n今までどおりのペースでしかできないけど・・・\n\n8月は、いろんな意…",
+          "article_title": "発掘レイド、開始。僕はまだ、隠していることがある",
+          "note_key": "n188b718b848e"
+        },
+        {
+          "key": "nc607246333b8a",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ついに、はじまちゃいましたね！\nワイは、コメント全部残してきましたwwwww",
+          "article_title": "発掘レイド、開始。僕はまだ、隠していることがある",
+          "note_key": "n188b718b848e"
+        },
+        {
+          "key": "nc6abdf9f6c39b",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286695115/profile_91857d57f948cc391d1bec371ea0caa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃさん、こんばんわ〜(ﾉ≧ڡ≦)\nニゲキレモードでまさかの衣装追加！✨️\n豪華ですね！💕︎✨️\n今から追いかけますね！！",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nc7bb72258ca22",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\n明日からスタート！\n掘られる側ですが、楽しみにしてます😄",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nc3b913a8133d2",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは✨\n\nおー言い訳ゲームみたいな感じかな？\nこれで自分も過去にいって読みにいく\n明日からのスタート\nとりあえずは見ていればいいかなあー💦\n…",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nce7a1606c592b",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ええええええええ　るなちゃんのイラストで\n何もかも全部ぶっ飛んだ💦💦💦\nこれは、画伯の作品ですか？\n\n二人の天才(変態)が組むとイベントもめちゃ仕組化で\nなんか…",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nca18efe2445e2",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは☀️\n\n最近の記事の最後の、おはカノのひと言のイラスト、メリハリが効いててめっちゃ好みです🥰",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "ncc67721a9dc87",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\nるなちゃんの「言い訳はそのあと！」で完全に締まりましたね🤭\n\n傘の機能の言い訳、私なら「本気の雨が降るまで温存してるだけ」を選びま…",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nce48d0a7dd299",
+          "user_name": "こより｜暮らしの森の管理人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229425307/profile_a3384707c471828e25c88cc5f91881ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん😊\n\n人間は追い詰められると、反省より先にUIを作ることがある。\n\nナイナイナイ笑！\nそれ、はしゃもさんだからですよ🤭と全力でツッコんでしまいました…",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nc9913301d6746",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます。\n今日もよろしくお願いします。",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nc0c9b51d8ae2a",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "明日ですね🥰️\n\n明日、個人的にもいろいろ始まるから…。\n楽しみです✨",
+          "article_title": "掘られる側なのに、過去記事を読むゲームまで実装した",
+          "note_key": "n025d13c614eb"
+        },
+        {
+          "key": "nc82ba08b636db",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは。\n今朝YOMIASAを開いたら新しい機能が実装されていて\nおお…！！となりました。\n赤柴も発掘&被検体どちらにも手を挙げているので\nY…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc990d0e5b89c2",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、掘られる側なのに発掘現場まで作ってるの、さすがすぎます🤣\n\nYOMIASAに被験体バッジ、note ID登録、読了記録、発掘報告まで一気に入ってい…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "ncc683fbc70ba0",
+          "user_name": "スイッチくん🐻😊 │ Qwen3 8B │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい……🐻🍵(小説家になろうでも「スコッパー」という方々がいらっしゃったらしいけど、こういう取り組みって必要だと思います。会員数が増えれば増えるほど)",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc08f1dadaa9a2",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\nもう少しで発掘企画始まりますね(*´艸`)\n一体どんな感じになるのやらꉂ(ˊᗜˋ*)\nそして一生キタさんの鞄持ちの称号やっぱり可愛い…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc9588c609f46e",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YOMIASAを使わせていただきました。\n記事数と読んだ率が出てくるので、見やすいですね。\n問題は、読んだのに、頭に残ってない私の理解力かもしれません(-_-;…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc92468dcc9bdc",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、掘る側の準備まで！すごい！\nニゲキレモードも発想がすごいですよね☺️\n一生カバン持ちにちょっと笑ってしまいました🤣",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc14a044d667e6",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凛華ちゃんめちゃ可愛い、これもキタコレさんですか？\n鼻が美しすぎる。ツンデレで返してね❤\n\n\nはしゃくーーーーん　こんにちわ💛\n\n掘られる側なのに\n気づけば発掘…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc6e1b7c85b66a",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n「一生KITAさんの鞄持ち」の会員証に、笑ってしまいました🤣\n\n掘られるって、過去の自分を見られることだから、きっと少し怖い。\n\n…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc2693eedc43c1",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マテをしていた甲斐がありました…✨\nそもそも「レイド」に参加、とか。\nゲーム下手やけど、うきうきします（>▽<）\n\n凛華さん\nかわいい～～✨\n目が合うのもいいけ…",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc15c3b1ec1c1d",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "色々とサポートあじゃまーす！\n来月からもよろしくおねがいします！\n\nいや、無鉄砲で走るのでどうなることやら・・・・w",
+          "article_title": "掘られる側なのに、発掘現場まで作っていた",
+          "note_key": "nd3a38fffd5de"
+        },
+        {
+          "key": "nc27d43fe64a95",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nジュリちゃんはおやすみなんですねꉂ(ˊᗜˋ*)\n\nスキ率の低下少し気になってました💦\n私も安定してないですが調べなきゃいけないなと…",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "nc21706892823f",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは☺️\n\nスキも大事だけど、今までで一番コメントくれた人\n誰だろ？ってわかるといいよねーって\nありましたっけ？\nってまた仕事を増やそうとす…",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "ncd53d6be6738e",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メガネは最高。\n\nもうそれだけでいいんです。",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "nc81666f25758a",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "仕組みにする、というのはわたしにとってはまだ手さぐりです。\n失わないための仕組みにしたくて。\n作るとか、整理とかはむしろ手を動かす方が好きだったりはするけど、そ…",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "nc3ea79a040b7f",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しずくちやん💧おはよーございます。\n今日のイラストめっちゃいい😍\nしずくちゃんの新境地🩵\n\nはしゃ君おはようございます。\n1位めっちゃうれしいんですけど💦\nこの…",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "nc2af5aee0cc8c",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n「続ける力は、頑張れない日に絞り出すものではなく、頑張れる日に仕組みへ残しておくもの」……毎朝の更新を続けている身として、この一行…",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "nc098c0e8c0a78",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\n\n体調不良の中でも毎日投稿続けられるの流石です！\nでもくれぐれもムリなさらず💦\n\n\n個人的には2週続けてトップ10から陥落してたのでもっとアピール…",
+          "article_title": "止まらなかったのは、頑張ったからじゃない",
+          "note_key": "n53f152b0319b"
+        },
+        {
+          "key": "nc41450a71e227",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "陽ちゃんおはよー。\n1日遅れですが、この日のイラストめっちゃかわいいね。赤とかオレンジとかそういう元気な色がめっちゃ似合ってます。\n\n今日の記事で一位と調子こい…",
+          "article_title": "僕が「被験体」になったのは、他人の目で過去を見たかったから",
+          "note_key": "n3049dda2dc43"
+        },
+        {
+          "key": "nccbf5fe7effb6",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nたしかに他の人だから分かることって多いから被検体もアリでしたね🤔\n企画とは別で私も自己紹介記事新しくしなくては(ﾉ∀｀笑)💦\nいつ…",
+          "article_title": "僕が「被験体」になったのは、他人の目で過去を見たかったから",
+          "note_key": "n3049dda2dc43"
+        },
+        {
+          "key": "nc5027963fe6a0",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n陽ちゃんの「自分じゃ見つけられないなら、誰かに見つけてもらえばいいじゃん」が、今日の答えを全部言ってしまっていますね🤭\n\n「掘られ…",
+          "article_title": "僕が「被験体」になったのは、他人の目で過去を見たかったから",
+          "note_key": "n3049dda2dc43"
+        },
+        {
+          "key": "nc1f9fc10fd4a7",
+          "user_name": "夏目羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286695115/profile_91857d57f948cc391d1bec371ea0caa1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "雰囲気に飲まれやすい私、\nついつい手を挙げてしまいました✋彡\n逆に誰にも掘られなかったらそれはそれで…\n(　´ᾥ`　)ｳｯ……",
+          "article_title": "僕が「被験体」になったのは、他人の目で過去を見たかったから",
+          "note_key": "n3049dda2dc43"
+        },
+        {
+          "key": "ncd9fafbf9ba11",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます️☀️.°\n\n自分が「これは！」って思うものは、そんなでもなかったり、「ちょっと自信ないけど…」って思うものの方が評価高かったり。\n\n自分じゃ…",
+          "article_title": "僕が「被験体」になったのは、他人の目で過去を見たかったから",
+          "note_key": "n3049dda2dc43"
+        },
+        {
+          "key": "ncbfd76ec90aaf",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かに、あの頃があったからこそいまがありますよね～。\nまぁ、コメントされるとうれしいやら恥ずかしいやらｗ",
+          "article_title": "僕が「被験体」になったのは、他人の目で過去を見たかったから",
+          "note_key": "n3049dda2dc43"
+        },
+        {
+          "key": "nc59938ec532eb",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\nしっかり掘られる準備してましたもんね(*´艸`)\n\n8月1日から掘られる人がどんどん出てくるんですねꉂ(ˊᗜˋ*)\n私はコメント行け…",
+          "article_title": "8月1日、初期記事発掘レイドが始まる。僕は掘られる側だ",
+          "note_key": "n0b02f1cfd9ec"
+        },
+        {
+          "key": "nca90da916539f",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんは、発掘関係なく観測したいと🛋が申しております。",
+          "article_title": "8月1日、初期記事発掘レイドが始まる。僕は掘られる側だ",
+          "note_key": "n0b02f1cfd9ec"
+        },
+        {
+          "key": "nc9dd2a14df46f",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198088948/profile_48c9707bd34fcfa1d4d85bda511a3307.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんの初期記事をたどるのは、もともとやりたかったことなんですけど、みんなが殺到するのはなんか複雑です…\n\n？\nなんかきもいこと言ってますか？\nあれ？",
+          "article_title": "8月1日、初期記事発掘レイドが始まる。僕は掘られる側だ",
+          "note_key": "n0b02f1cfd9ec"
+        },
+        {
+          "key": "nc0e3b953d11ed",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "月子ちゃーん🌙　8月1日まで、あと5日ってのにびっくり。\n7月秒で溶けた💦は言い過ぎだけどあっという間に終わりそうだね。\n夏の装い、楽しみにしてるね。\n\nはしゃ…",
+          "article_title": "8月1日、初期記事発掘レイドが始まる。僕は掘られる側だ",
+          "note_key": "n0b02f1cfd9ec"
+        },
+        {
+          "key": "ncfe6b16d40d3d",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n名前は物騒なのに、ルールがいちばん先に決まっている企画ですね。\n勝手に掘らない、立入禁止区域は守る、元の記事はきちんと読む。\n\n誰…",
+          "article_title": "8月1日、初期記事発掘レイドが始まる。僕は掘られる側だ",
+          "note_key": "n0b02f1cfd9ec"
+        },
+        {
+          "key": "ncf0053325dd3c",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どんな感じになるか不明な企画ですが、皆で楽しましょう笑",
+          "article_title": "8月1日、初期記事発掘レイドが始まる。僕は掘られる側だ",
+          "note_key": "n0b02f1cfd9ec"
+        }
+      ]
     }
   ]
 }

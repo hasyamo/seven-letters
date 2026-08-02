@@ -791,6 +791,35 @@
           "note_key": "n5047c83be249"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 194,
+        "likes_prev": 359,
+        "followers_start": 1598,
+        "followers_end": 1691,
+        "new_fans": 82,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 13670
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 5
     }
   ]
 }

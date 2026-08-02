@@ -715,6 +715,42 @@
         }
       ],
       "rare_no": 5
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 131,
+        "likes_prev": 147,
+        "followers_start": 637,
+        "followers_end": 671,
+        "new_fans": 45,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:07"
+        ],
+        "top_article": {
+          "title": "【世界は数字だけでは語れない】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.52",
+          "key": "n12de7adb524b",
+          "likes": 47,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "Makari｜AIイラスト",
+          "urlname": "makari_5108010",
+          "follower_count": 6558
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 6
     }
   ]
 }

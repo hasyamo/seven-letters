@@ -7138,6 +7138,736 @@
           "note_key": "n3d78bf798ea8"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1123,
+        "likes_prev": 1437,
+        "followers_start": 1695,
+        "followers_end": 1730,
+        "new_fans": 110,
+        "comments_total": 194,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "20:22",
+          "21:13",
+          "20:49",
+          "20:08",
+          "20:21",
+          "21:28"
+        ],
+        "top_article": {
+          "title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "key": "na49a6c116843",
+          "likes": 189,
+          "comments": 50
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 18473
+        },
+        "commenters_count": 56
+      },
+      "comments": [
+        {
+          "key": "nc94685e5e7110",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、クリエイター図鑑かっこいいーーー‼️‼️✨✨\n\nうわー！プロンプト試したくなっちゃいました！！\nやります！！",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "ncf81b10128367",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃワクワク感溢れ出てます！！\nキラッキラー✨✨\n躍動感がすごすぎますね(*´つ_⊂｀) まぶしっ\nそれにしても鳴き声とな…！？笑\n\n限界突破のSSRで…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc301990d0b731",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "指名ありがとうございます😊\nメンバーシップまで紹介していただいて嬉しかったです🙏\n図鑑、みきさんらしさが出てますね✨",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc11b43871aca6",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nとても素敵な図鑑ですね😊\n「ワクワク探しを日課とする探求者」なるコンパスを持っている\nかっこいいみきさん、ぴったりだなと思いました。\n\n水着姿のかわ…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "ncca738a3d9cf5",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299199505/profile_fff9a3cd9573f5c07452e8d237b2f246.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん💕\n迫力ある図鑑が完成しましたね〜😆✨\n豪華版では水着バージョンまで登場していて、思わず「おぉ〜！」となりました🤭💕\nやっさんさんのレコードジャケット…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc6a61f7f20282",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき　さん\nコメント失礼します♪\n\nカッコいいカードになってますね！\nしかもレア度も高いし\n生態コメントの内容もとても素敵でした♪\n\n水着verも可愛く…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc60da3af07c2f",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280175768/profile_e9b8115d4e8a61b9d3a6439776b73e24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーーん\n\n記事、心待ちにしておりました。\n想像の１００倍かっこかわいいカードで、圧巻でございます😳✨\nナギさんも書いてますけど、サインどうやってやるんです…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "ncc56c00eaa574",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296407414/profile_b69bddd868b40cd668f5192bc2b032d0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃかっこいいですね！しかも星の数も多いです✨\n手に持ってるのがペンにコンパスってもの良いですね！\n\nあと、サインが入ってるのが凄い！他の人と差別化され…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc9d3874a975b2",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc8492f670170c",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "魔王が待ってたよー\n\nさっきはありがとう😊\nみーちゃん　強いな\nみんなでカード見せ合える機能欲しいね🤭\n",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "ncd8b1ad64dd45",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nバトンありがとうございます😊\n確かに受け取りましたよ👍\n\n他の方みたいに、水着サムネで釣らなかったんですね🤣\nでも、黄金のコンパスがカッコいい🧭\n…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc4d3ecad5a6c1",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\nわぁ…素敵なバトンをありがとうございます🍀\nワクワクを察知すると、輝くって素敵ですね〜✨️",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc684761a65a07",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん💦\n早速、ありがとう😊\n図鑑も良いし…水着はもっと素敵😎\nレコードジャケットお気に入りです。\nみきちゃん！音楽たくさん作ってるから\nレパートリー増え…",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nc574546b537d6",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299563992/profile_dd1b14d2d28fcde6dae7c936f80ed52b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんでそんなにカッコイイんですかーー😍\nワタシもやっさんの水着でやってみよかな！\n\nご紹介の3名とも素敵な方ばかり✨\nカードが楽しみですね💕",
+          "article_title": "✨営業パパさん企画✨クリエイター図鑑やってみました❤️",
+          "note_key": "nbdfa14a7573d"
+        },
+        {
+          "key": "nccbb6e70ac5e2",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "去年の夏は祭りでベビーカステラを売ってました☺️\n今年はあと1ヶ月で何か思い出を残したいですね✨",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc792e9b5d47b8",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ショートムービー観たよ～！\nめっちゃ良い感じだった～！\n屋形船から見る花火綺麗だねえ。\n\nベンチから眺める花火もいいねえ。\n今年の夏は暑すぎるけど、楽しめたよ♪…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc67c51349b212",
+          "user_name": "♡海藻うさぎ猫♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299053805/profile_a8e589402c6926b5092339a9b558ea9b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃\n可愛い🩷\nいつもありがとうございます♪\n🐇シュタタぴょん🐰",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "ncf54cc47043a1",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃーーーん💛こんばんは\nなんかやっと来れました💦ご無沙汰しております💦\n\n改めてみるとみーちゃんはすごいね。\n音楽やって、動画やって、人の企画は参加して\n…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc680756355398",
+          "user_name": "kakokikiy",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207317271/profile_64d80738352449278700572f1ce76d70.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、夏ですね！！\nたしかに、今と昔では感じ方が違うかもしれません。\n昔のわくわくドキドキした雰囲気も良かったですが、最近の安定感ばっちりの夏も、なかなか…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc3d048b3bf69d",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan～\nごきげんよう(^^)/🌙\n\n「花火より大切な時間」\nう～ん、あれこれｗ考えちゃいました😄\n\nショートムービーを視聴させていただき\nいいなぁ～って…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc00518742d4b5",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさ～ん💕\n天才すぎます！\n今年は花火にも行けそうにないので\nみきさんのショートムービーで堪能させて頂きました💓\nありがと～～～🥰",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc823376cd7c26",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299199505/profile_fff9a3cd9573f5c07452e8d237b2f246.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん✨\n花火の映像と音楽、とっても素敵でした〜🎆💞\n39秒の中に、東京の夏の空気や思い出がぎゅっと込められている感じがしました🥰\n「2026年の夏は、20…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc250ea2563388",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちわ\n\n浴衣姿の人たちを見て「今年も東京の夏が来たんだ」と感じる瞬間、\n読んでいてその景色が浮かんできました。\n花火そのものより、一緒に過ごした…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "ncec3d7d4fdb10",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\nおはようございます☀️\n\n夏を感じられる\n素敵な記事でした。\n\n夏の思い出は\nあの人と過ごした思い出！\nですね。\n\n動画も曲も\n懐かしく夏らしい！\n…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc61711723f4ff",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀️\n素敵な夏の記事でしたー！🎆✨\n\n花火そのものより、\n「あの人と一緒だったな」という記憶が残る\nというところが、すごく印象に残り…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc4a201b687470",
+          "user_name": "Jade.T",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/248292820/profile_84c801945d81ae8f6bdd13e8f4c5e3b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはよー😊☀️\n素敵な動画✨✨✨\n夏は暑いけど花火って戦後の復興した日本に象徴のように感じてまして😅\n花火を見る時って空を見上げるじゃないですか。なん…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "ncc2caed74d9cd",
+          "user_name": "きずな🌸|エモーショナル・エッセイスト| 言葉を音で届ける人♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267260596/profile_498713ded503ac02447a29aec612ecea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n私の2026年の花火大会は、みきさんの動画🎇になりました〜ꙭ(*˙︶˙*)ノ҉\nありがとうございます✨",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nca947beca92f9",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n「2026年の夏は、2026年だけ」という言葉に、ハッとさせられました。夜空に大輪を咲かせる花火そのものだけでなく、かつて共に過ごした大切…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc01904479c75f",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\nこれ、めちゃくちゃお祭りに行きたくなるやつですね🎆\n\n花火そのものももちろん綺麗なんですが、浴衣の人たちを見かけたり、夜の街を歩いたり…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc4f618b867edc",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "花火そのものよりも、「誰と見たか」「どんな時間を過ごしたか」が記憶に残るという言葉に、とても共感しました。\n\n毎年同じように巡ってくる夏も、その年に一緒に笑った…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc28a96a607e84",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "隅田川の花火、凄いですよね！！\n花火も、、人混みも、、、😭\n\n屋形船で見る優雅な花火も憧れます✨\nオトナな楽しみ方～🐱✨\nあの、胸に響く音がたまりません💕",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc6ef53611d2fc",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🎆\n\nもんのすごく素敵な映像and音楽です…！！\n\n以前、隅田川やスカイツリーが身近な場所にいたことがあるので、郷愁のようなものがこみあげて…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nce4e5d814498d",
+          "user_name": "みゆ ｜生きづらさを整える人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278929889/profile_8e06e94bf08bfee1828bb834d72bcf5c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n花火そのものよりも、「誰と過ごしたか」が思い出として残るという言葉、わたしもとても共感しました😊\n素敵な作品を通して、夏の一瞬を共有してくださりあり…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc7ffd7ff61efa",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n花火そのものより、一緒に歩いた夜道や笑っていた時間の方が残っている。\nそこ、すごく分かります😊\n\n「2026年の夏は、2026年だけ」…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "ncb21317961cc9",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん💦\n素敵な動画と記事紹介ありがとサングラス🕶️このような動画も…ありですねー😆\n花火🎆…情緒…音無し…侘び寂び…ジーンとしみわたる感情に浸った記事で…",
+          "article_title": "🎆 花火より大切な時間2026年✨東京の夏に感じたこと",
+          "note_key": "na49a6c116843"
+        },
+        {
+          "key": "nc742694f7d1ad",
+          "user_name": "みゆ ｜生きづらさを整える人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278929889/profile_8e06e94bf08bfee1828bb834d72bcf5c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは\n\n「私にとっての直感って日々の選択に似ている気がする」という部分、とても共感しました🙌\n\n何気なく選んでいることの中にも、その時の自分の感…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nc290310596146",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん\n\n直感てなんだろう？と考えるお題でした✨\nみーちゃんの記事で、なるほどーと、\nすてきな感性に、ほんわかしました💕\n\n楽しい記事をありがとう🌈\n8月も…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "ncfc79751112e4",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n\nなるほど～直感は日々の積み重ね～、考えたこともなかったー！\n\nじゃあ、毎日の直感を鍛えれば、どうにかなるのかなー(笑)ってそんなもん…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nc0819fa6ec5c5",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "可愛い記事でした(*^^*)\n\n「直感がピピっと働いて\nこれだーってわかったら\n面白いけど\nやっちゃったーっていう笑い話は\nなくなりますね🤣」\n\nここがいかにも…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nc37fef19d4d8a",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは！\n会社に行きたくないのは、たぶん直感じゃないですね🤣\nでも、当たってもうれしいし、外れても笑い話になるなら、それも楽しいですよね😆\n傘だけ…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "ncc12464cf0806",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nおはようございます。\nいつもありがとうございます:)\n\n記事を読んで思いました。\nKingは直感と勘の違いがよくわかっていなかったです😆\n\n具体的にど…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nc1cf01f155375",
+          "user_name": "potechiのほっとノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213480386/profile_7c5d7459e8549d46cf9a8ddbcebbbc1a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん💫\nおはようございます🍀\n\n「毎日何気なくしている選択」\nこれは直感ですよね😊\n私も一日な何回もしています🌷\nそして、この直感の、\n当たり外れを…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nca216276f05dd",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき✨さま、おはようございます。\nRogersの投稿を「みんなのワクワクキャビネット」に追加して\n頂き心より感謝申し上げます。\n\n直感って、「おっ、当た…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "ncf2bf7d5c468e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あー昔勉強してたことが役だつことはあるね。作曲とかもそうです😊",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nce0d128f6dcb8",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「直感」についての等身大なエピソード、すごく楽しく読ませてもらいました😆💡\n\n旅行先でなんとなく選んだお饅頭が美味しかったり、テレワークに変えたら電車遅延を回避…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "nc8edebec871d4",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nこんばんは～\n私の直感、大体真逆に外れてしまいます。\nその裏をかこうとして逆張りしても外れちゃう！\n\nむしろ勘だったり当てずっぽうの時のほうが、\n正…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "ncd94c9da6cea6",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\n僕の場合は、情報を見たり聞いたりしたあとに、理由より先に「これはあるな」とか「これは少し違うな」みたいな感覚が来ることがあります。\n\n…",
+          "article_title": "ハッピーライティングマラソン＃６０",
+          "note_key": "n79b0b5a52814"
+        },
+        {
+          "key": "ncbe2366a7423a",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250890261/profile_548edec71c867e28f1107e76c88507ef.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ペイフォーワード🌼*･\n「優しさ」と「応援」が\n輪になって繋がっていくの\nいいですね‎🩷",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "ncc7d9c31440ec",
+          "user_name": "芽奏",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299548739/profile_1728c9882e1a17d50ec7d43619a4de83.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは☕\n「一人のご縁が、みんなの未来につながる」って、いいなぁ…と思いました☕🌱\n\n紹介文を読んでいたら、三人ともそれぞれ違うのに、みきさんがど…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nc5b2d1161011e",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n\n私の記事を取り上げてくれて、本当にありがとう～💓\n\n嬉しいです😆\n\n「等身大で…」って書いてくれたところ、とっても嬉しかったよー。\n…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nc90a62b50c4c2",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん♡\n\nこんにちは♪\n\nnoteのチェックができてなくて、お礼が遅くなってしまいました💦\n\n優しく紹介してくださって、本当にありがとうございます🥹🌸\n\n…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nc4071cf3b5cea",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\n素敵なバトンですね✨\n読んでいて、noteには本当に温かいご縁がたくさんあるんだなぁと感じました🍀\n\n紹介されている皆さんへの想いも伝…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nca9e2ede1482a",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295476516/profile_a7cedcec901d4bbe20e2bbed6690cb3c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🍀\n\n一人のご縁が未来につながるという想いが、とても素敵でした✨\n\n紹介されていた皆さんへの言葉にも、\nみきちゃんの優しさがあふれていました😊\n\n私も…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nc19ff166b1e7f",
+          "user_name": "haremithu | 迷う母に言葉を🪷|",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298024713/profile_1b88a7011812312485f284d215796892.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご縁が広がる素敵な企画ですね✨\nマガジンに追加をしてくださり、ありがとうございます😊\n励みになります✨",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "ncd7a2d47c8f24",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "3名それぞれへの紹介文を読んで、この記事がみきさん自身の丁寧な観察の記録になっていると感じました。  \n​誰かから受け取ったものを別の誰かへ渡していく動きは、自…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nc1d81e79d8c65",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、いっつも素敵なイベント？プロジェクト？？やってますよね🐱❤\nアンテナがひろーーい！！\n\n素敵な方を紹介っていいですね✨\n類は友を呼んで、優しい方が集ま…",
+          "article_title": "✨一人のご縁が、みんなの未来につながる「note版ペイ・フォワードプロジェクト」🌸",
+          "note_key": "n930ee3735e2b"
+        },
+        {
+          "key": "nc1bef1b935862",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんはー🌙*·̩͙\nどちらも素敵！\n私はDark Techno Version。かっこよかった‼️\n同じ歌詞でもこれだけ違うと面白いですし、全然違…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc7bb6d6ec1447",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\nもう苦しいくらいリアルでした。\n飾らずストレートに書いたからこそ、待つことも強がることも、そのまま届いてきます。\n\n同じ歌詞を二つの音に預けたのも、…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nccaf5604b3b84",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nAMCジョインおめでとうございます🥰\nわたしも3週間前？くらいに入りました💖\n曲🎧光と影のバージョンで作られたんですね☺️新しい✨\n私は個人的にダーク…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc99fb2610a042",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299563992/profile_dd1b14d2d28fcde6dae7c936f80ed52b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "同じ歌詞でも全く違う景色になるのが面白いですね✨✨\nいつもならAcoustic なんですけど…\n\nDark Techno Versionが切なくグルグルしてる感…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "ncc882c526326e",
+          "user_name": "プチクラゲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296368006/profile_8d2771fff47913f444784bd31473ba90.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は、Acoustic Versionの方が好き😊\n\n同じ歌詞でも、曲調変わると、全く違う景色になるから面白いですよね🎶",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "ncef01bf576852",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは☀️\n\nみずみずしくて切ないですね✨✨\n\nアコースティック版を聴いて、こっちが好きかもって思ってダークバージョンを聞いたら、こちらも意外と女…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc3e0b9cc95e58",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\n同じ歌詞なのに、曲が変わるだけでこんなにも景色が変わるんだなあと感じました✨\n\n「もっと素直に 可愛くなれたらいいのに」という歌詞が、…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc95663d77bbbf",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます✨\nぼくはアコースティックに1票です😁\n同じ歌詞でも曲調でこんなに印象が変わるんですね！\nお蔵入りしないでよかったです🤣",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc86cdb18849b7",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290355485/profile_a03dd4c8574a15513303f5d303d18132.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん\n\n楽しみにしてました✨\n通知が来るドキドキ。\n待っていると思われたくない気持ち。\n\nその状況で色んな景色が見えた気がします🥹\n\n企画から素敵な…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc7eacd276a902",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき✨好きな種さま、おはようございます。\nRogersの投稿を「みんなのワクワクキャビネット」に追加して\n頂き心遣いに感謝申し上ます。\n\nスマホの通知を…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc206784098172",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワシはアコースティックがいいなあ😊乙女だから✨",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "ncca68407913f6",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、昔の苦しい恋を言葉と音楽にして届ける勇気が素敵です😊\n\n同じ歌詞なのに、アコースティック版では優しく包まれるように、ダークテクノ版では当時の孤独や葛藤…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "nc587e2bac65df",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは🤩\nどっちも素敵な曲だったよ。すごい。\nわたしには、Dark Techno Versionの方がぐっと入ってきたなあ。\nいつか、あの雲のよ…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "ncffbffce82c35",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキさん　こんばんは😆\nどちらも切ない思いを感じますが都会と自然って感じがしますね\n風が吹いている感じを両方で感じますが都会の方が少し湿度を感じますね\nとても素…",
+          "article_title": "🎶新曲「空に浮かぶ雲のように」公開！昔の苦しい恋を２つのアレンジで✨",
+          "note_key": "ne5d2398b71db"
+        },
+        {
+          "key": "ncc9c4f7225266",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは😊\nご紹介ありがとうございます🎵\n本当に日が続きますね💦\n\nみきさんも体調にはお気をつけてお過ごしくださいね🎶\n\n引き続きよろしくお願いいたします😊",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "ncb9a7b28ef7df",
+          "user_name": "なおの縁側",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219673344/profile_4ffa9af85f79b1b458b20f9dd6337c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは！\nご紹介いただきありがとうございます✨️\n塩分タブレット、大事ですよね！\n今年はまだ買っていなかったので、今度買ってこようと思います😊",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc852bdfdc9e9a",
+          "user_name": "へろん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260577582/profile_e57188fbd824b63f3e264bc1c5b08ab6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\nいつもマガジンをご紹介下さりありがとうございます！\n\n暑い日が続き、今日はマシかと思えば低気圧。\n過酷な日が続きますが、体調には気を付…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc751d771ae943",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさ～ん💕\nいつもマガジンの紹介＆コメントもありがとうございます。\nみきワールド、楽しみにしています💓",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc947092c1fd23",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n暑い日が続きますね💦\nマガジンの紹介嬉しいです\nいつもありがとうございます🥰",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nca9b818b383f9",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀\n\n今回も記事の紹介をしてくださり、\nありがとうございます🎉\n\nこうして紹介していただけると、\nほんとうにやってて良かったって思い…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc856cba196721",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n\nいつもマガジンのご紹介ありがとうございます。\nすごく、励みになります。\n\nみきさんの記事いつも楽しみにしてい\nます。\n今後とも…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc341e46f97e1a",
+          "user_name": "シロツメクサにワタシ🕊️🍀✨🐬🌕🎻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281951900/profile_1b10f7bceb6eb037d8e0c4947a56ceda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは✨🌙\nれお様のみきママ様✨⭐\n\nいつもワタシへ\nスキやマガジンへの\n素晴らしい皆様と\n共にご相席賜り\n感謝いっぱいです🌸✨",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "ncdcde3d6ed2ef",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは、みきママ🌙\n記事の更新お疲れ様✨️\n\nいつも紹介ありがとうね🥰💝\nよくみたら何人か\n知っている方もいてうれしい🙌\n\n今日もお疲れ様😊\n暑いからゆっく…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc5ad931608dcb",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243237206/profile_4d42c81f09e9a50f6883d0731bbd3d0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nご紹介ありがとうございます:)\n\nしかし暑いです！\n熱中症・夏バテに気を付けたいところですね。\n\n今後ともよろしくお願いいたします。",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc0ad293c4f22e",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、いつもありがとうございます💖\nすごい数の記事紹介・マガジンですね👏✨\n熱中症、気をつけましょうね！外出時はレモン塩タブレット、試してみます🍋🧊💕ありが…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc06adf7a970b3",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジン紹介\n３つ\nありがとうございます😊\n\n映画🎬音楽🌸🫧\nお気付き下さり\n感謝申し上げます💓\n\nありがとうございます🍀\n",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc7d0b52e77462",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん😆\n凄〜い👍記事添付の数…100個以上\nそのうち…やっさん…7個もあるや〜ん💦◯◯大賞より嬉しいかも🤣\nマガジンファミリーの愛を感じるね🫶\n貼るだけ…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "ncc6d423d50d37",
+          "user_name": "山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nありがとうございます😊\n\nこれ\n本当に作るの\n大変だったでしょ😅\n\n本当に\nありがとうございます😊\n\nいつも\nいつも\n\n本当に感謝です！！\n(*/>ω…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc21d3444f6a62",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも有り難う！\n\nふむふむ。\n紹介文　参考になります。\n私とはえらい違いだ🤣\n\nみーちゃん　どうしよう😏",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        },
+        {
+          "key": "nc067640035985",
+          "user_name": "みゆ ｜生きづらさを整える人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278929889/profile_8e06e94bf08bfee1828bb834d72bcf5c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nわたしのマガジンを紹介してくださてありがとうございます☺️\n\nみきさん、これほど多くの方に支持されているのですね🤲素敵✨️✨️\nこれからも素敵な投稿楽…",
+          "article_title": "✨マガジン登録・記事紹介・スキ・フォロー・コメントありがとうございます❤️",
+          "note_key": "n7196653db72b"
+        }
+      ]
     }
   ]
 }

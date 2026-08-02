@@ -1241,6 +1241,60 @@
           "note_key": "nfc0f82831ee9"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 495,
+        "likes_prev": 461,
+        "followers_start": 4717,
+        "followers_end": 5043,
+        "new_fans": 174,
+        "comments_total": 4,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "11:10"
+        ],
+        "top_article": {
+          "title": "『ミナトさんの「猫タイプ診断」やってみた!』-オリキャラ”折原れい”- ｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "nd207bee9bb06",
+          "likes": 145,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16824
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "ncac93e11e1460",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、こんにちは✨️\n色んなツール使って試してくれてありがとうございました\"(ﾉ*>∀<)ﾉ\nAIアート1位とAIアニメ2位おめでとうございます✨️",
+          "article_title": "『ミナトさんの「猫タイプ診断」やってみた!』-オリキャラ”折原れい”- ",
+          "note_key": "nd207bee9bb06"
+        },
+        {
+          "key": "ncbe2f971156fb",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。キャラ判断面白い🤣動画勉強させて頂いております。ありがとうございます。",
+          "article_title": "『ミナトさんの「猫タイプ診断」やってみた!』-オリキャラ”折原れい”- ",
+          "note_key": "nd207bee9bb06"
+        }
+      ],
+      "rare_no": 4
     }
   ]
 }

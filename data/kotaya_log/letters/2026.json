@@ -3789,6 +3789,509 @@
           "note_key": "n12069de21dce"
         }
       ]
+    },
+    {
+      "week": "2026-W31",
+      "period": {
+        "start": "2026-07-27",
+        "end": "2026-08-02"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 341,
+        "likes_prev": 387,
+        "followers_start": 3203,
+        "followers_end": 3257,
+        "new_fans": 76,
+        "comments_total": 142,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "白衣の奥にいたHONOが見えた日｜142記事から読み解く、ママ薬剤師の正体",
+          "key": "n30b6cb6cdec7",
+          "likes": 82,
+          "comments": 30
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15780
+        },
+        "commenters_count": 40
+      },
+      "comments": [
+        {
+          "key": "ncefa2ccc1fd8d",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もすみれさんと同じ流れで気づきました😅\n出遅れた〜😱\nそして、こちゃさん、また全部期待しちゃいました🤣",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc9f2447c606c6",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "作ってほしーーー！！\nでも出遅れすぎました💦まるよかさんの記事で気づきましたっ！もう満員御礼ですよね？？！",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nce935252d6d12",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今年の夏はみんな、大胆だなぁ…！！\n\n今年の12月に欧州法案施行で脱がすの規制が入るので今年が最後のチャンスなるかもなので、この夏はっちゃけるのはアリかもです！…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "ncbc9f28b48451",
+          "user_name": "ゆきだるま｜仕事×育児｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277993993/profile_30bea735add599592fbf49273ce71d00.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は女ですが\nこういうの好きです🥰️\n綺麗な動画ですねー！",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc9d2cf7a99acb",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、Residence Wing 観測係🛋です。\n\n今回の初期記事発掘では、こちらを今回確認した記事として使用させていただきます。\n\n初期記事とあわせて…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc1a157933b68b",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わらってもうたwww\n\nワイもこんなの大好きw",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc061a13d764c6",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295583025/profile_9cf61c8e1319cc8be987073651d05c4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん！\n\n応募動画のこちゃさんのボディーラインが最高✨️今までみた生成AIのセクシー画像の中でもダントツ。\n女性らしさと健康美の比率が素晴らしく、男女どち…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nce9ce730e2bb2",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA さん　はじめまして\nコメント失礼します。\n\nかなりコメントするのに\n違う勇気がいるのですが\nただ、最高！です。\n\nスキを押したら\n脱いでくれる仕様…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc005ba67115ca",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "思わせぶりで、浴衣からTシャツが一番スキでした。私もああいうのスキみたい(笑)",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc20785de7dada",
+          "user_name": "みふゆ｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、はじめまして🌼\nフォローコメントをありがとうございます✨\n気になってこちらにも伺い、夏の陣の作品も拝見しました！\n\nめちゃくちゃおもしろかった…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc0f8688a6f42f",
+          "user_name": "自宅内遭難対策協会 研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275634001/profile_0c17d2ac9fe9a55aef5901bfe1fe3279.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんおはようございます。(￣＾￣ゞ\n\n男の性ですね～見ちゃうって。_(￣▽￣)ﾉ彡☆ ﾊﾞﾝﾊﾞﾝ !",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc73edb6bd35ed",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます😆\n\nあざとい🤣でも見ちゃいますね！\nタイトルの引きも強い！\n前回より攻め感マシマシ笑\n\n万人受けではないもの作りたくなりま…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc836abac8d100",
+          "user_name": "seiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240204219/profile_1c5e8230d5dc3e8dba01427060a28585.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n\nめちゃドキッ🫣ってしちゃました🥰\n次はどんな感じだろぉって見たくなっちゃいますね!",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc5d9108845127",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nあざとすぎだなー😚\n男性審査員狙いですかね😆\n\n分析からの脱ぎのギャップに男性ファンは大喜びです🤭\nそして私も大喜びです😍😍😍",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc2b01572eb970",
+          "user_name": "わかりのぽん（Egg_bird）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/139398033/profile_dc3aba05a3be6e197610a0e827d55450.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA さん　はじめまして\n\nスキ画像を見て、ドキが胸胸しました。\n\n「今日はいいもの見せてもらったよ」\n「生きていてよかった」\n\nつい、手を合わせて拝ん…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nceeeaa729a54a",
+          "user_name": "Noter専用ホスト  :   【じゅん】 〈クラブ⭐︎ジュンタ・ラヲ〉公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/215320593/profile_4575b3e790c62db016b3854eef9f25cf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさんあなただけはズルい\n(*´Д｀*)\nなにがそんなにズルいのかわかってるけど分からんからズルい\nつんく♂の気持ちが分かる程ズルい！今日はそれだけ",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc3c8a1d557a1f",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぬぁ〜にぃ〜、\n酒飲んでぶっ倒れてたら出遅れたぁ〜⁉️\n\nPollo AI のフレーム間生成ってさ、\nマジガチの NSFW はやっぱアウトなんかな？\n\nスキ動画…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "ncf9d4e40743fd",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、お願いしようか少し迷ったのですが、やっぱりぜひ作っていただきたいです♡",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc21ef47416b8c",
+          "user_name": "コスモス🌸 │ 投資×AI創作×交流を楽しむ3人組",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274108202/profile_9281a12226326472e24ac203a57061cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょっとスキだけつけていたのですが、\n正直、どうコメントしようか困ってた所でしたꉂ🤣𐤔\n\n完全に狙ってる審査員が分かって最高でした🌸\n前回からさらにパワーアップ…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc678e6590fa59",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜🌻✨\n\n攻めたねー！🤣\n臆するところないところが好きだ🤣\n\nカネカネしてるところもさすがだな〜と思ったよ😂✨\n\n今回もキタコレさんに刺さりそ…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc4f521e1d9a1b",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298447523/profile_d93afab915847ca4b24ed6aa6a16c29f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どうやってこんな動画を作れるのだろう。\nとまじまじと長時間見ていましたら、なんだか耳が熱くなってきました。\nとっても刺激的ですね🫣",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc0d3e9e4e9c1a",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\n作ってください😆\n\nそして、こちゃさんの表情が今回もエロいです！😍",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc952838a649d1",
+          "user_name": "あん｜noteと遊ぶ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298214090/profile_4e925f0f687ecaa56ff6c59b247ecd26.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん\n私もくだらないこと大スキ💞\n\nご紹介ありがとうございます✨\n",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc4e9a12742a24",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん💕\n\n「今回も脱ぎます」に、\nなぜか、ドキドキ⁈\nハラハラ⁈しちゃいましたよ〜😅\nクールなこちゃさんも、セクシーなこちゃさんも\n魅力的🤭\n",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc52867fea233e",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたしゃん♪\n\n攻めたね♡\n\n最後のは反則だよお(´ε｀ )だもん♪\n\n夏だもんね、こういうのもおおいにありありですんよ😊♪",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc2d79e1f6d8a5",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255981447/profile_6ace0f4ab559c8afbbab471abd036f4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\n脱いだらTシャツでホッとしたと思ったら、ちょっとTシャツが濡れて透けてませんか？\nドキッとして心臓に悪いじゃないですか🤣\n\nちなみに、この記事にス…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nccd47f0931373",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\n夏の陣へのご参加ありがとうございます😊\n\n「どうやら脱いだ先に夢があるらしい」の時点で、もうこちゃワールド全開ですね🤣\n\n前回の「脱いだらTシャツ…",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc8a2ab44a1744",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネで釣るシリーズ流行ってます？🐟\n大物(fafaさん)まだかー！？",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "ncd168ca613b91",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事紹介ありがとうございます😊\n\n男のロマン❤️僕が審査員なら満点優勝です🏆",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nc3f35fb0c5f88",
+          "user_name": "安達【筋肉メタル親方】｜Creator’s Notebook",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295431192/profile_859bda703ee3b660ebee15e445ac0954.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう、なんとコメントしたらいいのか😅\nとりあえず好きです😆",
+          "article_title": "今回も、脱ぎます。",
+          "note_key": "n7dce519330c3"
+        },
+        {
+          "key": "nca7c71cb77a14",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "医学系の記事を、１００本以上読んで解析する……気が遠くなりそうです。\nそれをやり遂げたKOTAYAさんに、心底敬意を表します。\n私の医学の知識は、子供のころに得…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "ncbd59a6e6b743",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "142本も分析したのがすごいですね😳\n\n数字だけじゃなく、その人らしさまで見えてくるのがKOTAYAさんらしい分析だなと思いました😊",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nc06044e478521",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n\nHONOさんが過去記事で腎臓病書いてるのでちょっと行ってきます。\n\nガチ慢性腎臓病ですんで😅\n\nHONOさんを深堀りしてくれてありがとうござ…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nc67d4a8636fa7",
+          "user_name": "自宅内遭難対策協会 研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275634001/profile_0c17d2ac9fe9a55aef5901bfe1fe3279.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんはじめまして放射線技師のnyankoと申します。\n\nHONOさんの紹介記事で、こんな形で私のページまでご紹介頂けて光栄です。\n分析もすごくって読…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "ncc4bee2ee155a",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん〜✨\n\nなんかちゃっかり私がいる🙄💦w\n\nHONOさんとイロドリさんは本当に仲がいいですね🤭❤️\n\nそして！KOTAYAさん！\n相変わらず最高の…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "ncf9f3e3b8b2af",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nHONOさんは医療系ということで普通の人だと難しくて、ちょっと入りにくいというイメージを変えてくれるような記事だった気がしまし…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "ncb2519f10737f",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさんの分析記事はとても興味深い🤔\n知ってるクリエイターさんでも、新しい発見があったり、より深く知るきっかけになったり🌱\n\n初めてのクリエイターさんは、分析…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nc0bb2c688817d",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは🌙\n\n分析記事、回を重ねるごとに、ますます読みごたえが増していますね🙌\n数字を見せるだけでなく、その向こうにいる人の姿や思いまで、そっと伝…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nc4bc930105f45",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "HONO病棟にはJAUさんとイロドリさんもいるのね🤣\n\nHONOさんの記事はこの前の推し紹介ダービーでイロドリちゃんを推してるやつで初めて読んだなぁ🤭\n\nでも、…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nc83fa5b9bc15d",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298270124/profile_2b6c611d443055ec415082ce8c69d90c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん🤩🤩\n\nありがとうございました😆✨\n\nなんて嬉しい分析✨\n\n自分では分析できなかった細部がわかっただけじゃなく、素の自分を出したら仲間が増えたって感覚…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nc81d53b500bcf",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\n紹介ありがとうございます☺️✨\n\nホノさんのオロナミンC大好きな記事の一つです😁💕\n\nほのさんにコメントするようになったのは、割と最近だからラン…",
+          "article_title": "白衣の奥にいたHONOが見えた日",
+          "note_key": "n30b6cb6cdec7"
+        },
+        {
+          "key": "nce83e42a7ffe4",
+          "user_name": "きくちゃん｜人生立て直し中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284228823/profile_98ec8a95744b93d39b803d402f64d9f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\nこんばんは🌟\nまずHPがかっこいいです😎\nこたやさんのメンシプの一員としていれるのが嬉しいですね☺️\n\nラジオはこたやさんの生の声を聞けるのであだち…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc32fd3a8e2b9e",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292846645/profile_895e9f4ffc2c9af0c4606fc88a65ab92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんにちは！\nHP拝見しました〜！かっこいいです😎\nお祭りきっかけで共犯者になりましたが\nまだまだメンシプがよく分かってないので嬉しいです！\n\n8月…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc58a1a6fd1a34",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんにちは！\nしっかり土台になってますね✨\n\n52人すごい😆\nそしてラジオ楽しみだな✨\n祭りの裏側も一問一答も、まだまだ楽しみは続きますね⭐\n…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc766aa88520b1",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\nラジオトークって…\nもしかしてこたやさんの生声聞けるんかな🤭\nめっちゃ聞きたいですねー😙",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc837cee996e6f",
+          "user_name": "考える赤柴｜司法書士試験結果待ち中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさんこんばんは！\nHPかっこいいですね～😆🎶\nわたしは今４つ入っていますが、\n来月の予定を具体的に載せてくれるメンバーシップって\n初めてかも😮\nしかも特典…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc60f1f6b121dc",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、HPカッコイイです✨\n夏祭りも楽しかった🥰\n本当にありがとうございました〜🫶\n運営の裏側、ラジオトーク、BLACK FLAME」MV制作の裏側…et…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc89d1debf67d6",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふつうのメンシプなら、\nその離脱率なのかもだけどね〜\n\n一般論の上限はさすがに\n悲観シナリオすぎると思うけどな〜🤭\n\nこんなに主催者の愛が感じられる\nメンシプは…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nca315b7c6303e",
+          "user_name": "ちんぱん🐒会社員の実験記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、HPかっこよすぎで見やすすぎ、センス良すぎ🥰\n\n裏側がしりたいんです（笑）\n\nめっちゃ楽しみにしています😊",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc9a3fac5db124",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん✨\n夏祭りとっても楽しかったです✨\nHPカッコいい！\n8月のラインナップが魅力的すぎ❤️\n\nもちろん継続します🫶💕",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc288f76513dda",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ラジオの開催が、決定したのですね！\nこれはぜひ、聞こうと考えております。\n果たして舞台裏で、何が繰り広げられていたのか……相当気になりますからね。\n\nホームペー…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc0884c68700a5",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286107837/profile_fc94642aa38eb15706a6f1da79b5313c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたしゃん。\n\nお祭り、ほんとにほんとにお疲れ様でした！\n後夜祭も無事に終わりそうだし、いよいよフィナーレだね。。\n\n最後まで応援してます。\n\nあ、HP。\n\nす…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "ncb79868bbe17e",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nキャラじゃないとツッコミが入りそうやけど\n\nただただ誠実🥰\n\nミステリアスで何考えてるかわかりづらいと思われがちな、こちゃさん…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc9ee75cb2f89e",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298270124/profile_2b6c611d443055ec415082ce8c69d90c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは♪\n\nHPカッコよかった〜✨✨\n入ったばかりだけど、離脱は考えられませーん🙂‍↕️\n\nそれにしても分析が凄い✨✨",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc07205eaf3025",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\n今回も、この後、ワクワクする企画でo(^o^)oうれしいです🎶\n特に、じまにゃんさんとのラジオトーク✨✨\n楽しみにしてます😉",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "nc7a19552b651d",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは。\n共犯者のHP拝見しました。\nシックでカッコいい✨\nそして、スクロールで次々表示されるので初めての人にわかりやすいです。\n次月の予定がわ…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "ncd1731f26f95e",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nかなり満足度の高い記事でした。\n次月への戦略、離脱率の読み。その為の対策。\n\nいつか私がメンバーシップに本気出す時が来たら死ぬほど参考にさせても…",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        },
+        {
+          "key": "ncc1697129a84a",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは🌙\n\nわたしはこれからも、ずっとこちゃさんのメンシプにいますよ🥰",
+          "article_title": "共犯者は52人に。増やすだけじゃ終わらない、100人への次の一手",
+          "note_key": "n6c0ba364646d"
+        }
+      ]
     }
   ]
 }
