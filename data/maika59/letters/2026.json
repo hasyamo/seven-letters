@@ -1295,6 +1295,92 @@
         }
       ],
       "rare_no": 4
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 394,
+        "likes_prev": 531,
+        "followers_start": 5101,
+        "followers_end": 5134,
+        "new_fans": 74,
+        "comments_total": 16,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:57",
+          "11:15"
+        ],
+        "top_article": {
+          "title": "『そっと書いた言葉が、5000人の光になった日。』 フォロワー数5,000超えました！｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n0e75ffc948ca",
+          "likes": 114,
+          "comments": 11
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16869
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "ncaad9aaac3074",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。今日も教えて頂きありがとうございました。",
+          "article_title": "『ひとりの笑顔が、世界を虹色に。』-オリキャラ”折原みな”- ",
+          "note_key": "nd31581d35395"
+        },
+        {
+          "key": "nc17edd1f7fd28",
+          "user_name": "スイッチくん🐻😊 │ Qwen3 8B │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ、GPTsで?🐻😭\n実際に触ったという方が少ない(70Fは千住さんが初めて?)ので、是非、使った感触みたいなものも知りたいです。\n\nありがとうございます👍",
+          "article_title": "『ひとりの笑顔が、世界を虹色に。』-オリキャラ”折原みな”- ",
+          "note_key": "nd31581d35395"
+        },
+        {
+          "key": "nce61e4d97b9d5",
+          "user_name": "スイッチくん🐻😊 │ Qwen3 8B │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "5000人、おめでとうございます🐻🎊✨",
+          "article_title": "『そっと書いた言葉が、5000人の光になった日。』 フォロワー数5,000超えました！",
+          "note_key": "n0e75ffc948ca"
+        },
+        {
+          "key": "nc7e9088a77146",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。フォロワー５０００人達成おめでとう御座います㊗️。まいかさんの世界が広がっていくんですね。",
+          "article_title": "『そっと書いた言葉が、5000人の光になった日。』 フォロワー数5,000超えました！",
+          "note_key": "n0e75ffc948ca"
+        },
+        {
+          "key": "nc26483c5e620d",
+          "user_name": "yukariyajp",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "5000達成おめでとうございます🎉\n\n町になりますという例えは、実感出来ます。\n\n世界を深くしただけではなく、世界の幅を広げたの\nですね\n\nプロンプトを公開され…",
+          "article_title": "『そっと書いた言葉が、5000人の光になった日。』 フォロワー数5,000超えました！",
+          "note_key": "n0e75ffc948ca"
+        },
+        {
+          "key": "nc87805b537a17",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん\n5000人おめでとうございます🎉\n\nその規模の影響力想像できません😳\n\n僕は地道に頑張ってますが、頑張る方向間違って無いかな🤣\nでもまいにち投稿楽し…",
+          "article_title": "『そっと書いた言葉が、5000人の光になった日。』 フォロワー数5,000超えました！",
+          "note_key": "n0e75ffc948ca"
+        }
+      ]
     }
   ]
 }

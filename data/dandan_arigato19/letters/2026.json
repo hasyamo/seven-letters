@@ -4199,6 +4199,204 @@
           "note_key": "n4840fbc11101"
         }
       ]
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 265,
+        "likes_prev": 360,
+        "followers_start": 695,
+        "followers_end": 707,
+        "new_fans": 41,
+        "comments_total": 50,
+        "posts_count": 10,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:00",
+          "20:00",
+          "15:00",
+          "06:00",
+          "20:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "祈りを、長く。｜8月6日、広島原爆の日",
+          "key": "n80b11bb21e9f",
+          "likes": 33,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 13938
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nc412a1422fc2b",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すべてを受け入れるのではなく、どの横棒、そしてどの縦線とつなげるのかを取捨選択する。\nこれは、AIの学習方法と少し異なる点であり、重要な論点だと感じております。…",
+          "article_title": "この記事そのものが、あみだくじだった🤣",
+          "note_key": "ndff63174fbfb"
+        },
+        {
+          "key": "ncf72accf69264",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "数式が出た時点で、画面を閉じようかと思ったわ🤣🤣🤣",
+          "article_title": "この記事そのものが、あみだくじだった🤣",
+          "note_key": "ndff63174fbfb"
+        },
+        {
+          "key": "nc3e93033a7918",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌛*\n\nうちも犬が3匹います。\n娘が帰省するときにはうちの家にいる兄弟の親が帰ってきて5匹になります。\nお盆もそんな感じです🤭\n\n腕の中で…",
+          "article_title": "寺子屋めじゅ | メンシプ専用 | 🌱スタエフ配信🌱 | 第9回**め印**スタエフ便🌟",
+          "note_key": "nae6737f3c961"
+        },
+        {
+          "key": "nc383f541fc46f",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あみだくじ、横線が増えれば増えるほど、どこにつながるのか分かりにくくなるところもまた、特徴の一つですね。\nある意味AIの思考と同じで、結果として「ずれる」ことも…",
+          "article_title": "あみだくじは、世界を立体にする。",
+          "note_key": "nff7dd8718eee"
+        },
+        {
+          "key": "nc004fb4a087c1",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん😊\n\n正直、少し難しかったのですが（笑）、めじゅさんの頭の中の世界に少しお邪魔できたようで、とても面白かったです✨\n\n点と点の間に横棒を一本引くことで…",
+          "article_title": "あみだくじは、世界を立体にする。",
+          "note_key": "nff7dd8718eee"
+        },
+        {
+          "key": "ncdc484f110ee5",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレも希望するかな。\nけど例の場所の紹介で使いたいからさ、まだ公開とか紹介は・・・\n個人的に面倒見てよ('∀`)ﾉ\n\n\nだめか💦｡･ﾟ･(ﾉ∀`)･ﾟ･｡",
+          "article_title": "【βテスター3名募集】6つの質問だけで、初心者でもWebサイトを作れるのか⁉️",
+          "note_key": "n932dee25a999"
+        },
+        {
+          "key": "nc30a08a3f7ac1",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やりたいけど、自分でChatGPTが使えないといけないのよね…(泣)\n\nあっ、それと、フォロワー700人おめでとう♪めじゅちゃんのファンも、増えてきてるね💖",
+          "article_title": "【βテスター3名募集】6つの質問だけで、初心者でもWebサイトを作れるのか⁉️",
+          "note_key": "n932dee25a999"
+        },
+        {
+          "key": "ncf0edf6204980",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌛*\n\nβテスター希望です😊\nまだ間に合うようでしたら、「Iカウンセリングルーム」の活動や、気持ちノートアプリを紹介する1ページサイトを作…",
+          "article_title": "【βテスター3名募集】6つの質問だけで、初心者でもWebサイトを作れるのか⁉️",
+          "note_key": "n932dee25a999"
+        },
+        {
+          "key": "nc0435b2e03fa3",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\n\n「あの日の痛みを知ったつもりにならず、忘れないことを選びたい」という言葉が、深くこころに残りました。\n\n祈りを一年で終わらせず、世代を越えてつない…",
+          "article_title": "祈りを、長く。",
+          "note_key": "n80b11bb21e9f"
+        },
+        {
+          "key": "nc07bb9306ce88",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "テストして、クラッシュさせるのであればむしろ「デバッカー」としてありがたいのではないかと感じました。\n想定外の動作をする人は、一定数存在しているのですから、それ…",
+          "article_title": "企業案件記事に望む‼️「使ってみてね✨」の、その先を書いてくれ🤣",
+          "note_key": "nc75b6e0ada19"
+        },
+        {
+          "key": "nce4c1b6c9a8ee",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、これ、めちゃくちゃ分かります🤣‼️\n\n完成した作品はすごいし、「使ってみたい」と思うのだけれど、実際に開いてみると、どこまで無料なのか、どの操作でク…",
+          "article_title": "企業案件記事に望む‼️「使ってみてね✨」の、その先を書いてくれ🤣",
+          "note_key": "nc75b6e0ada19"
+        },
+        {
+          "key": "nc035ddf98367b",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nわかりすぎてヤバい😭\n僕も無料部分と有料部分の詳しい詳細知りたいーー！",
+          "article_title": "企業案件記事に望む‼️「使ってみてね✨」の、その先を書いてくれ🤣",
+          "note_key": "nc75b6e0ada19"
+        },
+        {
+          "key": "nc9a5733e07c1b",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃんはチャレンジ精神スゴいよね！私は新しいもの苦手🐌",
+          "article_title": "企業案件記事に望む‼️「使ってみてね✨」の、その先を書いてくれ🤣",
+          "note_key": "nc75b6e0ada19"
+        },
+        {
+          "key": "nc4f161ab111ec",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "海外サービスは、入り口から初心者に厳しい\n\nほんとそれです。\n翻訳がだいぶん使いやすので、マシになってはいますが。。。。、",
+          "article_title": "企業案件記事に望む‼️「使ってみてね✨」の、その先を書いてくれ🤣",
+          "note_key": "nc75b6e0ada19"
+        },
+        {
+          "key": "nc4298740da282",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは〜🌻✨\n\nめっちゃ勉強になりましたー！！！😳✨\nそして同時に、キャラクターへの愛を感じました🥹💖\n\nなるほどその子らしさをそうやって守って…",
+          "article_title": "見つけた個性を、プロンプトへ保存する。",
+          "note_key": "nd9a080d7869d"
+        },
+        {
+          "key": "nc62b2fd4b5e5d",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こういうふうに、一人ひとり（ひとキャラひとキャラ😊）の個性を整理して保存しておくことって、本当に大切ですね✨\n\n必要だと頭では分かっていても、私はこ…",
+          "article_title": "見つけた個性を、プロンプトへ保存する。",
+          "note_key": "nd9a080d7869d"
+        },
+        {
+          "key": "nc1ab15e22e153",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさーん！\n\nおーー！\nすごい🤩\nバリエーションが多すぎてビビりました🤣笑\n\n個人的にゴージャスビューティーマーベラスと必殺スキ返し好きです😙",
+          "article_title": "気づけば増えていた🤣「めじゅ族」は、みんな同じ『めじゅ』なのか？",
+          "note_key": "n096b4b6c47c9"
+        },
+        {
+          "key": "nc52233af771e9",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295051169/profile_3304b8448524136d82b2446d03e267fc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\nおはにゃー😸\n\nめじゅさんの七変化‼️\nどのめじゅさんも、それぞれの世界観があって素敵だにゃ💗\n\nしれネコはいまのめじゅさん、はんくめじゆさん、髪の…",
+          "article_title": "気づけば増えていた🤣「めじゅ族」は、みんな同じ『めじゅ』なのか？",
+          "note_key": "n096b4b6c47c9"
+        },
+        {
+          "key": "ncfef95602217f",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます☀️\n\n可愛いキャラクターさんたちみなさんひとりひとりに、明確な個性があるんですね😳\n私…最後の方のオフザケKITAめじゅさんのじ…",
+          "article_title": "気づけば増えていた🤣「めじゅ族」は、みんな同じ『めじゅ』なのか？",
+          "note_key": "n096b4b6c47c9"
+        }
+      ]
     }
   ]
 }

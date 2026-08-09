@@ -7030,6 +7030,264 @@
           "note_key": "na7be7f919caf"
         }
       ]
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 988,
+        "likes_prev": 1171,
+        "followers_start": 1326,
+        "followers_end": 1341,
+        "new_fans": 85,
+        "comments_total": 48,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "21:40",
+          "19:12",
+          "12:42",
+          "15:28",
+          "18:05",
+          "12:29"
+        ],
+        "top_article": {
+          "title": "「正解」を知りたいと思う心",
+          "key": "nb325640c751b",
+          "likes": 179,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "Daisuke noteログ",
+          "urlname": "jihon",
+          "follower_count": 14456
+        },
+        "commenters_count": 21
+      },
+      "comments": [
+        {
+          "key": "ncabb4660d5684",
+          "user_name": "人生インスペクション｜一級建築士・建築基準適合判定資格者＠しばらくフォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272176397/profile_49a53a612d9fcf8f2bb6c0253b34b0ec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事を読ませて頂きました。\n「0」だったものが「1」になった、という部分が印象に残りました。\n小さくても一度やってみることで意識が変わる、という感覚に共感しまし…",
+          "article_title": "大きなことじゃなくても「0」を「1」にしてみる",
+          "note_key": "n94a03de9f4cc"
+        },
+        {
+          "key": "nc7709dfec7461",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n0から1。\nまずはやってみる。\nこれしかないですね😊\n\nいつもありがとうご…",
+          "article_title": "大きなことじゃなくても「0」を「1」にしてみる",
+          "note_key": "n94a03de9f4cc"
+        },
+        {
+          "key": "ncd226f352e473",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌒\n「大きさより、まず0を1にする」って素敵ですね✨いろんなことに通じるなぁと思いながら読ませていただきました😊そして、いつも私の記事を…",
+          "article_title": "大きなことじゃなくても「0」を「1」にしてみる",
+          "note_key": "n94a03de9f4cc"
+        },
+        {
+          "key": "nc774c70ba0b4b",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今月、私もネット募金とクラファンデビューしました😊\nnoteの影響力って大きいです✨",
+          "article_title": "大きなことじゃなくても「0」を「1」にしてみる",
+          "note_key": "n94a03de9f4cc"
+        },
+        {
+          "key": "nc6ed9e1107e15",
+          "user_name": "Chill",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは♪\n\n『欲しがらない理由を探しにいくこと』\n\nわかります💦\nでも欲しいものは欲しい✨\nいまの暮らしと両立させながら\n上手に手に入れていき…",
+          "article_title": "「今、何が欲しい？」と聞かれたら……",
+          "note_key": "n8d2fd59e2996"
+        },
+        {
+          "key": "ncf35aeffcd0ea",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱり💴が欲しい…でもものは言いようで😅\n\nこの考え方を選べば、ストレスなく心地よく暮らしていけますね👍💝\n\n",
+          "article_title": "「今、何が欲しい？」と聞かれたら……",
+          "note_key": "n8d2fd59e2996"
+        },
+        {
+          "key": "nca1866d4abe62",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nこんにちは！\n\nヨガの帰りに最寄りの駅に寄ってみました。\n太鼓の音が、あー夏祭りかぁと実感です♪\n\nこの度もマガジンに記事を追加していただきあり…",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "nc07fbb63312d6",
+          "user_name": "GOGOおじさん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic0567a0e070c.jpg",
+          "body": "いつもピックアップいただきましてありがとうございます。\n直接伝える手段がわからなくて、こちらの返信で失礼かと存じましたがお礼申し上げます。\nよしひろさんの軽やか…",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "nc092dfd9b6655",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは\n\n「はじめ・なか・おわり」という\n言い直しに、思わず笑いながら\n読んでいました\n\n仕事で書く「文書」と\n自由に書く「文章」の違いに\nな…",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "ncf2dc3f9d853a",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nよくありますね！\n買ってもらうための文章の読ませ方みたいなの。\nでも、それ…",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "nc1c566796a4e2",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic3fd94079689.jpg",
+          "body": "よしひろさん、こんばんは☺️\n\n「僕が悩み、もがく姿を見たい方」に、えっ、よしひろさんももがくの？と思ってしまいました（笑）\n\nいつも会話しているような自然な文…",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "ncfd01d00b5371",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんがもがいてる姿、\n想像つきませーん🤭",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "nc0486c54b99fb",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんの文章は、肩の力が抜けてるとこが魅力です。\nと同時に自分について赤裸々に書けるとこも。\nいろいろ見習いたいので、読んでます😊",
+          "article_title": "「正解」を知りたいと思う心",
+          "note_key": "nb325640c751b"
+        },
+        {
+          "key": "nc4b3e1e605a9f",
+          "user_name": "おがたまゆみ｜ボディスピーチ創始者｜グローバルスピーチコーチ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/196251995/profile_85dd5341f28b823738e2dc1e5ddcedcd.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "子どもが生まれた時に、\n同じ時間を重ねていけるものを\n用意したいな。\nって、ホント素敵ですね！\n私は娘が生まれてから続けてるのは、五感ウォーキングです😊\n子育て…",
+          "article_title": "あなたの日記も、読んでみたい。",
+          "note_key": "n9174c5d9fe63"
+        },
+        {
+          "key": "ncdb38a5ee240b",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろ様\n​記事のシェアありがとうございます✨　\n\n「長さや頻度は関係なく、書く人も読む人も色んな楽しみ方がある」という言葉にすごく共感しました🥰\n\n緩い企画…",
+          "article_title": "あなたの日記も、読んでみたい。",
+          "note_key": "n9174c5d9fe63"
+        },
+        {
+          "key": "nc36fefdc53651",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nそういえば出てきますね！\nですが、下書きをコピペしていくことに精一杯の私😆…",
+          "article_title": "あなたの日記も、読んでみたい。",
+          "note_key": "n9174c5d9fe63"
+        },
+        {
+          "key": "nc22edcf916f82",
+          "user_name": "ゆかいな山",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/187377393/profile_9f501afa0524739a6c4fab2d21d3de93.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、丁寧にご紹介下さりありがとうございます✨\n\n一緒に昔の記事も紹介して下さるのがよしひろさんらしい😁\n\n夏休み、なかなかnoteをする時間がなくて、…",
+          "article_title": "あなたの日記も、読んでみたい。",
+          "note_key": "n9174c5d9fe63"
+        },
+        {
+          "key": "nc0be9aeb1116e",
+          "user_name": "ハゲポッコリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232774139/profile_3ba1074548b0a18d189e6a95912c76e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nいい人、ですよね。\n都合のいい人\nどうでもいい人\nこの2択でしかないよって教えてくれた先輩諸氏は、もうみんな亡くなってます。\n当たらずも遠からじ、と…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nc46804f32cdee",
+          "user_name": "みなみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247199725/profile_cdc22b41f3598ae146b940f9d6b6d6d0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジン追加、ありがとうございます。",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nc722679ddadfa",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301505355/profile_a6524e5a947e9a43084e2f244421a91c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "『24時間365日フル稼働するには、\n時折、新しい顔を焼いてもらって\n交換する必要があるでしょう😏』\nここがイチバン響きました🤣時々クスッポイントがあるところが…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nc71a6cdbec96c",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n私が思ういい人とは、「その人の存在が心に残る人」ですかね？\n当然、反対によ…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "ncf1f287e253ee",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nおはようございます☀️\n\n同じ言葉や優しさでも、自分に余裕がある時と、そうでない時では受け取り方が変わるなぁと思いました。\n\n余裕がない時は、相手…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nc1468e5585ff9",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「『いい人』は、受け取る人の状況やタイミングによって見え方が変わる」という言葉が、とても印象に残りました。\n\n良かれと思ってしたことが伝わらないと落ち込むことも…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nc3c81dcb643a6",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245815450/profile_895c5cbbab6c0033dbcdef70f9261def.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん✨\n\n〉受け取る人の状況や気分次第で、見え方が変わってしまう〈\n共感しました🌿\n\n私も誰かに伝えているようで、だいたい自分に言い聞かせている事多いで…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nca108ef2e3d7f",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic3fd94079689.jpg",
+          "body": "よしひろさん、こんばんは☺️\n\n新しい顔を焼いてもらって交換するのところで、アンパンマンを思い浮かべて笑ってしまいました😆\n\nできるときに、できる範囲で…ですね…",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nccca55f291b16",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n共感も含めてすごく好きな記事でした💗🙌\n\nマガジンへもまたお迎えくださってありがとうございます🌻",
+          "article_title": "『いい人』の正体とは",
+          "note_key": "n555c1de5808f"
+        },
+        {
+          "key": "nc5cb2d9ba0fc0",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃポジティブになれる〜ありがとうございます💖💖💝",
+          "article_title": "後先なんて、自分で作っていけばいい",
+          "note_key": "ne06cf96c3e0d"
+        }
+      ]
     }
   ]
 }

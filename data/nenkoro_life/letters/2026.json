@@ -4820,6 +4820,108 @@
           "note_key": "n8df073390949"
         }
       ]
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 182,
+        "likes_prev": 264,
+        "followers_start": 1823,
+        "followers_end": 1867,
+        "new_fans": 56,
+        "comments_total": 13,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "画面録画後の編集を自動化｜FocuSeeで動画制作はどれだけ楽になる？| AIツール | AI活用 | 画面録画ツール | 動画編集 | 効率化",
+          "key": "n12c657adc5fa",
+          "likes": 61,
+          "comments": 13
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 15954
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "ncffedc3c828d3",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん！\nまたまたおめでとうございます！\n\n動画編集って、大変そうなのにすご〜。\nてか、記事にするのも大変そうなのにすごい！\n\nめっちゃ参考になるし刺激も…",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "ncc9fe064fd82c",
+          "user_name": "Kinu｜AIイラストと発信づくり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます！\n\nさすが、ねんころさんの解説\nいつもわかりやすい(*´꒳`*)🩷\n\n動画編集機能、便利そうですね✨\n試してみます♪",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "nc043a2c528026",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーーーん💛こんばんは🌙\n\nええーめっちゃ便利そう💦\n確かに動画を編集するの難しすぎる💦\n\n沈黙33箇所にも笑ってしまったけどすごいと思いました。\nい…",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "nce8f57e092207",
+          "user_name": "FocuSee",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275380762/profile_e815ab14821b49d68cdb873548abf8af.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "FocuSeeをご紹介いただき、ありがとうございます！😊",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "ncfac59abba3ac",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272621430/profile_c751790b6f7095f8d0f0803c418939ea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え、めっちゃ便利じゃん！\n使ってみよっと😆",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "nc62dea0151f6d",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nなるほど！\n録画から編集まで一発やったら楽ちんですね～😙\n\n録画やってみたいけど\nなかなかやれてないんですよね🤣",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "ncbd99ed70f071",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、タグ錬成ツールの使い方がよくわかりました🙌\n最近、毎日使っていたわりには、知らない機能もいろいろありました😊\n動画で説明するって、わかりやすいもの…",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        },
+        {
+          "key": "nc997521b47cf6",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "解説に動画使いたいけど、\nあとあとの編集がめんどくていつも通り画像でいいやの僕が通ります。\n\n\"操作の録画\"を即AI編集って、新しい観点やね。\n仕事で動きのある…",
+          "article_title": "画面録画後の編集を自動化",
+          "note_key": "n12c657adc5fa"
+        }
+      ],
+      "rare_no": 6
     }
   ]
 }

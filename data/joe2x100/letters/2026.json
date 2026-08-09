@@ -751,6 +751,52 @@
         "commenters_count": 0
       },
       "rare_no": 6
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 144,
+        "likes_prev": 137,
+        "followers_start": 676,
+        "followers_end": 719,
+        "new_fans": 44,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:43"
+        ],
+        "top_article": {
+          "title": "【イラストと写真と音楽が創り出す美しい世界】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.53",
+          "key": "na60316d6a11f",
+          "likes": 62,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "HiroTax@サラリーマンの副業の税金が全部わかる本🐷🔰フォロバ100",
+          "urlname": "ohashi_tax",
+          "follower_count": 7519
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncd32922428d1e",
+          "user_name": "金田一rudolfフォロバ（単勝複勝馬連ワイド）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/159734139/profile_c3f6a98bb150397936a9f9ecc09e201b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "rudolfと申します。よろしければフォロバお願いします。ご指導のほどよろしくお願いいたします。フォロワーの方々は私の知らないことを教えてくださるので見聞が広が…",
+          "article_title": "【イラストと写真と音楽が創り出す美しい世界】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.53",
+          "note_key": "na60316d6a11f"
+        }
+      ],
+      "rare_no": 7
     }
   ]
 }

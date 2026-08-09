@@ -6071,6 +6071,342 @@
           "note_key": "n900ca451a86d"
         }
       ]
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 959,
+        "likes_prev": 1154,
+        "followers_start": 1676,
+        "followers_end": 1686,
+        "new_fans": 71,
+        "comments_total": 88,
+        "posts_count": 4,
+        "consecutive_days": 3,
+        "post_times": [
+          "20:47",
+          "19:46",
+          "18:00",
+          "18:00"
+        ],
+        "top_article": {
+          "title": "私事",
+          "key": "n41083b9cd05f",
+          "likes": 193,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 18730
+        },
+        "commenters_count": 28
+      },
+      "comments": [
+        {
+          "key": "nc389da2718c02",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんの世界観にハマりすぎて、メンシプ沼からでられません・・笑\n",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "ncf63bafe94d4c",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキ外し好きです♡\n\nかっこいい😎\n\nスキ外し最近よく遭遇しますが\n悲しくなくなりました笑笑",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "nc9b73bf36ef70",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん😊\n\nいつもメンバーシップでお世話になり、ありがとうございます✨\nいろいろなコンテンツがあって、楽しませていただいています😆🥰💓\n\nそして「妖怪スキ…",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "ncdff2cc0046f8",
+          "user_name": "こーき｜心が少し軽くなる場所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236560109/profile_28f1fb163081001f12afa3f21b0dc40a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "僕も今までにたまたま数名の妖怪に気がついたことがあります🤣🤣",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "nc33ef39d049f4",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんの鳴き声は\n『ラッキー』じゃないんですね🤣💦\n\nカッコいいですねぇ〜😊✨️",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "ncacb3cf0274ac",
+          "user_name": "「欲望の観察者」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま\nおはようございます😃\nコメント欄からお声がけするのは、3か月ぶりであります😭\n私、恩知らずの無作法妖怪の一人であります😨根暗妖怪から、人間に戻りま…",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "ncaaa396814b04",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは♪\n\n妖怪スキ外し、いいですね♪\nクリエイター図鑑カッコイイ✨\n\nいつもありがとうございます♪",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "nc87ea98ec2dc5",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。\nまた、コングラ、おめでとう御座います㊗️㊗️㊗️",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "ncec309bc609a4",
+          "user_name": "ｓｅｏｒｉ🧚‍♂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295621476/profile_1a36531ff581438cbb66c5f40f1e9d83.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Ｋｉｎｇさん✨🧚‍♂\n\n妖怪外し　良いキヤラ✨してるじゃないですかぁ〜！！🤣\n\n私の　ライオンズゲート記事🌱\n御紹介して　下さって　感謝💕です\n\n\n本日　２時間…",
+          "article_title": "メンシプの宣伝※追記",
+          "note_key": "n4c9d53c30171"
+        },
+        {
+          "key": "nc5c1505a22a24",
+          "user_name": "ミカモ（Mika Moriya）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282034446/profile_ecdb4b559c36312b2b73ea9aa68fd193.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま〜✨、団長さま〜✨\n\nどうかどうかご無理のないように🙏\n\n団員も応援団も、みんなで見守ってます〜💕　",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc7a4d72102e50",
+          "user_name": "Micchi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209562465/profile_442a9aacc1463b5d33a77640ba7ab143.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　こんにちは😊\nマガジンへ追加していただき、ありがとうございます❣️\n\nどうぞ、お身体ご自愛くださいねヾ(๑╹◡╹)ﾉ\"\n療養中とは思えない程、面白…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "ncf6e3d4b5e87f",
+          "user_name": "こはる(ふわり、ももんが日記)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨️こんばんは🌙* :ﾟ\n\n団長が井戸から出てきて良かったです😭😭😭\n\nKingさんもあまり無理なさらないで下さいね😊",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nceab94484ba55",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n無事に井戸から戻ってこられてよかったです😄\n笑ったらあかんけどKingさんらしいなーと読ませていただきました😆\n\nうたれ病のリハビリ中とのこと、ど…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "ncc05ec719bff0",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、井戸の底から無事に帰って来れてよかったです😆\n貞子にならなくてラッキーですね🤣",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nca1d98fb26f30",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは重症だ…😆\n\n笑ってはいけないけど、なんか想像できて笑ってしまいます(*^^*)✨️",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc4b70bf492970",
+          "user_name": "KANA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219340642/profile_093a76476fb30e2d02f549068e480940.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん🌙\n\n団長が井戸の底で、どうして自分がここにいるのかを考えているところから、もうKingさんらしさに笑ってしまいましたわ♡\n\nでも、団員第一号さんの…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc4a3b52c8effd",
+          "user_name": "瀬海歩（せかいあゆむ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nおはようございます☕️✨️\nいつもありがとうございます😊✨️\n\nささ、温かい飲み物でも飲んで冷えた身体をあたためてください。\n\n今後ともよろしくお…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc8e35ef002c35",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、おはようございます。\nRogersの投稿を、マガジンtysm:）に追加して頂き\n心配りに感謝申し上げます。\n\n団長が井戸から生還したということは、…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc6ea7a93502a5",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、団長が無事に井戸の底から帰還されて、まずはひと安心しました🥹✨\n\n「僕がいます」「見捨てません」のやり取りに、笑いながらも少し胸が熱くなりました。…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc7d21f078316e",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「裏切らない...ですか？」「見捨てない...ですか？」\nこの二つの問いを読んだとき、笑いながらも、少し考えました。\n軽快なやり取りの中に、人が動けなくなるとき…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc2cefc0834805",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n「貞子にならなくてラッキー✌️」に吹き出しました😂うたれ病、焦らずゆっくりリハビリしてくださいね🌿\nマガジン追加もありがとうございま…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc3f7a0d6ea4a6",
+          "user_name": "まりな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279040740/profile_45f4c447cad46a77f488d9ec5c5da19d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "0.000000000000000000001%w🤣\n\nシーズン的にはちょうど良いかもしれませんが、戻って来てくれて良かったです😊\n\nどうぞご無理されませんよう…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc241d154a7cce",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "0.000000000000000000001%の確率で貞子で帰還しませんように！\n祈ります🙏🤣\n",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc70bd202d37e0",
+          "user_name": "優里",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295057336/profile_ea5fe247de1385f66a76276a7e0fca6d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事を拝見して、楽しく読ませていただきました。ユーモアの中に、苦しい時に向き合う姿勢が隠れているように感じます。人は時に立ち止まって考える時間も必要ですが、支え…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "ncf786f693bc98",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "笑いながら読めるのに、団長が「裏切らない？」「見捨てない？」と確かめる場面には、傷ついた人がもう一度誰かを信じる怖さがにじんでいて、胸に残りました。\n\n井戸の底…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc175daa288c5f",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285324530/profile_9d0cb7a9b5d306860a0cab9a95f15b9d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんがいいよ～と言ってくれたら\nクレーンでお迎えにいきますね💕\n神社のおみくじ、大凶のときは\n「あとは上がるだけ！」と読むそうです。\n井戸の底にいるのと…",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc2a478223a5d2",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちらの記事は、面白い🤣\n何が、……0.000000000000000000001%なんやねん🤭",
+          "article_title": "団長、井戸の底から発見される！?",
+          "note_key": "n65fdb8b2a142"
+        },
+        {
+          "key": "nc836e6dc6a54b",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\n夜分に失礼します。\nお加減はいかがですか😟\nゆっくりご自身を労ってあげてくださいね。\n\n何度も読んでしまいました「全てが思い通りになる男」の方が怖…",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nc53222f10f5b9",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nc9f350191b84d",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ダークなKingワールドが発動しましたね・・(´；ω；｀)！！\n\nでも味がある。\n毎回、ふと気がつくと読んでしまいます。\n\nKingさんの頭の中はどうなっている…",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nccf832d5e5fad",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これが　男の安寧なのか考えさせられますね。",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nce2065fe7ce25",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは。\n\nこういう時もある\nと思いました。",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nc1bc805d2fb5a",
+          "user_name": "開運シェルパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286658065/profile_51fafbf2b5a86f4432c7f61db5cf2dc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「愛していたものほど、憎しみは深くなる」という言葉に、最初に惹かれました。信じた人間に裏切られ、助けを求めた人間に見捨てられ、それでも人間を信じたい氣持ちを最後…",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "ncad0647b38291",
+          "user_name": "境界をまたぐ心理士【振り子】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253068092/profile_684215ad7eba3d124844155dff223a1b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人を殺すことは一旦置いといて、\n自分以外の誰もいなくなったことで孤独にはなりましたが、孤立では無くなりましたね。\n\n人間不信は心に刻み込まれた孤立の歴史ですから…",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nc08878fd8a4e8",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285324530/profile_9d0cb7a9b5d306860a0cab9a95f15b9d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "他人軸で生きると\n極端に言えば\nそうなるのかもしれないですね。\nでもそうなる前に\n命を懸けて止めてくれるのも\nまた人間かもしれません🥰",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "nc9f2d57a78c3f",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、大丈夫ですか？\nご無理なくですよ〜！\n\nでも記事は怖いけど、惹きつけられます✨\n\nマガジン追加のお礼を、、\nありがとうございました！\n\n毎回感謝申…",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        },
+        {
+          "key": "ncd238132bd86d",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ダークですね。\n怖〜。",
+          "article_title": "寓話、人間を憎んだ男",
+          "note_key": "ne9c781a91e62"
+        }
+      ]
     }
   ]
 }

@@ -1536,6 +1536,207 @@
           "note_key": "n6d3cacc20a32"
         }
       ]
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 391,
+        "likes_prev": 374,
+        "followers_start": 565,
+        "followers_end": 586,
+        "new_fans": 160,
+        "comments_total": 43,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "07:27",
+          "07:37",
+          "22:24",
+          "16:15"
+        ],
+        "top_article": {
+          "title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "key": "n0577c3bfd428",
+          "likes": 164,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "ハッタリ",
+          "urlname": "toichi_101",
+          "follower_count": 15306
+        },
+        "commenters_count": 16
+      },
+      "comments": [
+        {
+          "key": "nc1ebfa69e5766",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n猫プロンプトでの検証面白かったです。\n最近、Workとチャットをすることが増えてきましたが、gpt-5.6-Solさすがですね✨\n\n自分では他のAI…",
+          "article_title": "【2026年夏】主要AIモデル比較：猫プロンプトによる文章生成ベンチマーク",
+          "note_key": "n4bfbffaa0fd8"
+        },
+        {
+          "key": "nc504e7f40ba98",
+          "user_name": "TM｜アウトプット練習帳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240219908/profile_36e1aeddec94da0f21be73ccb1a4ef77.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近ChatGPTに乗り換えましたが、文章精度が変わっていて驚きました。\n\n「どのAIが最強か？」はすぐに変わってしまうので、こういう確認記事は非常に助かります…",
+          "article_title": "【2026年夏】主要AIモデル比較：猫プロンプトによる文章生成ベンチマーク",
+          "note_key": "n4bfbffaa0fd8"
+        },
+        {
+          "key": "nc5c4ce4054d62",
+          "user_name": "Sophia｜AIツール実践ノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297951056/profile_079dc6d6de6c740576c5ff8432efd302.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "猫プロンプトを「文字数・圧縮・曖昧さ・文体」に分けて見ているので、単なる好みで終わらないのがよかったです。特に「このベンチでは」と範囲を限定しているところ、比較…",
+          "article_title": "【2026年夏】主要AIモデル比較：猫プロンプトによる文章生成ベンチマーク",
+          "note_key": "n4bfbffaa0fd8"
+        },
+        {
+          "key": "nc4b6667a377e5",
+          "user_name": "しんたろー△AIで１人SaaS開発中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288254963/profile_2dbf27dc4e20256b525e3682f9eaa755.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "可愛い猫の挿絵とは裏腹に、検証内容がかなり硬派でギャップが面白いですね。トークン計算の仕組み上、日本語の文字数指定はAIにとって鬼門。僕も要約機能の実装で苦労す…",
+          "article_title": "【2026年夏】主要AIモデル比較：猫プロンプトによる文章生成ベンチマーク",
+          "note_key": "n4bfbffaa0fd8"
+        },
+        {
+          "key": "ncd1a934d4a893",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、おはようございます✨\n\n『少し長く書いているとわかるのですが、みんなそんな記事の中身を見てないです(おい)』に笑っちゃいました🤣\n\n確かに、読み始め…",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "nc5824b9db5977",
+          "user_name": "レアカントリークリエイト｜里山づくりを設計するフードプロダクトクリエイター｜予告…お宝いただきます♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん。\n\nいつもお世話になってます。\n\n私もなんとか、90日を突破でき、ゆったりと書いてます。\n\nさて、今日の私の記事で、ペイフォワードのバトンが回ってき…",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "nc3d42d4a53596",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1週間で7割もやめるなんて、ちょっとびっくりしちゃいました！\n\n私は今で9ヶ月くらいですが、人に恵まれていたんだなぁと思います🐱",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "nc80683e8d898f",
+          "user_name": "TM｜アウトプット練習帳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240219908/profile_36e1aeddec94da0f21be73ccb1a4ef77.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完璧を目指しすぎないという言葉が響きました。\n\nたしかに自分も妥協しながら投稿することもあります。まずは数をこなせば、自ずと質も上がって、完璧に繋がるかな？と思…",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "nc15f5162158a0",
+          "user_name": "ぱっちー｜暮らしと挑戦の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245676944/profile_562ac5d90061c1a05b7df5c739cbae68.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは♪\n\n最近、記事の反応を気にしすぎてしまうこともあったので、とても心に響きました😊\n\nどれだけ丁寧に書いても、記事の出来と反応の数が必ずし…",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "nc8e2ca63b3afb",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteを続ける人のパーセンテージの低さに驚いてしまいました！noteは本当にご縁の場で、大好きになる人とたくさん出会える場💕 大切にしていきたい場だと思ってい…",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "nc2ea7b5c70ceb",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは☺\n\n正直、あんま中身関係ない。\n\n言ってしまいましたね😅\n\n軽い内容でサッと読みたい日とかもありますし。\nガッツリ書かれてると離脱しちゃ…",
+          "article_title": "完璧を手放すと、noteはもっと楽しくなる。心をすり減らさないための、ゆるい継続術。",
+          "note_key": "n708a985e94ee"
+        },
+        {
+          "key": "ncabf60d0e4741",
+          "user_name": "桐谷 遼｜編集実測とAI活用｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300406418/profile_46c91656f5cb74c708ff569601d89cc9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご夫婦で3時間かけても解けなかったサイゼリヤの間違い探しを、9分ほどで見つけたところに驚きました。しかも答えを見ずに10個すべてとは…最近のAI、本当にそこまで…",
+          "article_title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "note_key": "n0577c3bfd428"
+        },
+        {
+          "key": "ncaabd0de69c63",
+          "user_name": "浅井めぐみ🎨フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234933909/profile_d6a4fc2f5f1eaa165f996a3bae9ae48c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは〜😊🌿\nAIエージェントを「フォルダに住む存在」と説明しているところが、初心者にもイメージしやすかったです。\n複雑なセットアップから入るの…",
+          "article_title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "note_key": "n0577c3bfd428"
+        },
+        {
+          "key": "nca387638691ee",
+          "user_name": "いおり📗フォロバ100｜文系だけどAI副業やってみた",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292499122/profile_0299e6f4817d0752f19ca9500477f68c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIエージェントは便利そうだけど難しそう、という人にとって、こういう実際に試した記事は入り口として分かりやすいですね。\nパズルや間違い探しのような「本当にできる…",
+          "article_title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "note_key": "n0577c3bfd428"
+        },
+        {
+          "key": "nc5f66d2e8bb88",
+          "user_name": "なぎ✍️フォロバ100｜AI×ライティング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293053823/profile_0dc4a5e4cd7ff0dc8b0094f324a05783.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIエージェントというと、まだ「エンジニア向けの難しいもの」という印象がありますが、この記事を読んで、入り口の大切さを感じました。\n特に「高機能かどうか」よりも…",
+          "article_title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "note_key": "n0577c3bfd428"
+        },
+        {
+          "key": "ncbb5c427795f4",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298447523/profile_d93afab915847ca4b24ed6aa6a16c29f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ChatGPT凄いです！\n私は無料でチャットAIと画像生成しかしていないのですが、\nこうして色々使えると、課金の価値を感じます😊\n私にとって、月額3,000円は…",
+          "article_title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "note_key": "n0577c3bfd428"
+        },
+        {
+          "key": "ncb1a4deb293df",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは。\nChatGPT Work気に入ってます。\n\n今回、Kindle出版のカテゴリー分析をしたり、出版記念パーティーの抽選をさせてみたり、い…",
+          "article_title": "ChatGPT Work と遊ぼう！初めての AIエージェントはこれだけでOK！",
+          "note_key": "n0577c3bfd428"
+        },
+        {
+          "key": "ncfc05acbbffde",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは。\nまた名誉脱退✨\n私も早く分析記事書いてもらいたいな💓\nあと80人くらいですが、焦らずマイペースでやっていきますね🥰\n\nドイルさん\nおめ…",
+          "article_title": "ドイルさん、フォロワー１０００名達成おめでとうございます！",
+          "note_key": "n6992d5e9e170"
+        },
+        {
+          "key": "ncf50bdfbf18a2",
+          "user_name": "ゆず",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290813642/profile_d5220dbfa4b470450630ca56c2914cdb.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読者の反応分析や成長グロースマップはとても参考になります！\nnoteを書く上で、どういう方向性が良いのかも改めて考えるきっかけになりました。ありがとうございまし…",
+          "article_title": "ドイルさん、フォロワー１０００名達成おめでとうございます！",
+          "note_key": "n6992d5e9e170"
+        },
+        {
+          "key": "ncbf5d9dbc6bcf",
+          "user_name": "ドイル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287992172/profile_648c2d58423ef9edbe0669d0ee22f1f1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、素晴らしい記事でご紹介いただき、本当にありがとうございます😊\n\n脳内マップや成長グロースマップなど、図解のクオリティと緻密な分析にただただ圧倒され、…",
+          "article_title": "ドイルさん、フォロワー１０００名達成おめでとうございます！",
+          "note_key": "n6992d5e9e170"
+        }
+      ],
+      "rare_no": 2
     }
   ]
 }

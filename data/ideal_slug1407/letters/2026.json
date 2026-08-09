@@ -2441,6 +2441,180 @@
           "note_key": "n8e9a42b99736"
         }
       ]
+    },
+    {
+      "week": "2026-W32",
+      "period": {
+        "start": "2026-08-03",
+        "end": "2026-08-09"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 616,
+        "likes_prev": 701,
+        "followers_start": 1639,
+        "followers_end": 1671,
+        "new_fans": 126,
+        "comments_total": 37,
+        "posts_count": 10,
+        "consecutive_days": 6,
+        "post_times": [
+          "09:13",
+          "19:17",
+          "07:37",
+          "18:30",
+          "00:00",
+          "07:00",
+          "19:21",
+          "06:30",
+          "18:30",
+          "06:30"
+        ],
+        "top_article": {
+          "title": "魚AIって知っていますか？　公式サイトをのぞいたら大阪弁のナマズがいた　sakana.ai マジで面白いぞ🤣",
+          "key": "nc6dbf4c1f102",
+          "likes": 90,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "真木 聡子（まき さとこ）【ゴルフ脳科学】",
+          "urlname": "makisatoko",
+          "follower_count": 11023
+        },
+        "commenters_count": 11
+      },
+      "comments": [
+        {
+          "key": "ncb780a2d99d48",
+          "user_name": "ミヤビテック＠防水屋のAI防水プロジェクト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279961772/profile_694190e8cfa4953a2c5eecc58950303c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読ませていただきました。\nミヤビテックといいます。\nよろしくお願いします🙇",
+          "article_title": "【2026年8月版】ChatGPT総まとめ完全ガイド―今までの黒パグ記事まとめと　今までなかった新事実入り　保存版",
+          "note_key": "n5c625b0535cc"
+        },
+        {
+          "key": "nc44fad59c7577",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "リポストさせていただきました、NOtEの方も拡散していきますねー。\n\nそして、自分、リポスト間違ってたかも…キタコレさんのリポスト出来てないかもーー、確認せねば…",
+          "article_title": "【お盆休み】親戚に「AIって何？」と聞かれても、これを渡せばだいたい大丈夫",
+          "note_key": "nb7f40d0ab3ef"
+        },
+        {
+          "key": "nce2297532b4e0",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、こんにちは😊\n\n実は私も今日、このGPTの話を扱うか、秋田の風力×データセンターの話にするか迷ってました🤣\n秋田を選んでよかったー！かぶらなく…",
+          "article_title": "【速報統合版】Lunaは無料開放、その先のAstraは厳重管理へ。OpenAI、翌日にまた増やすな😭　",
+          "note_key": "na71328994a78"
+        },
+        {
+          "key": "nc42e330bd41f2",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "GPT-image-2の描写力も3日前まで下降線で、\n挙動が5.5に戻ったんじゃないかと思うくらいヘボくて、\n色々対策を立てたりしていたのですが、\n一昨日のマイ…",
+          "article_title": "【速報統合版】Lunaは無料開放、その先のAstraは厳重管理へ。OpenAI、翌日にまた増やすな😭　",
+          "note_key": "na71328994a78"
+        },
+        {
+          "key": "nc19b9d2583493",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんおはようございます。\nまずはご紹介いただいてありがとうございます。正直昨夜見たときあれ？黒パグさんにしては短いなと言う感想でしたが\nPodcas…",
+          "article_title": "【AI速報】Meta、新しいコーディングAIを発表。その横で旧モデルが他社をハックしていたことが判明",
+          "note_key": "n18f7be768893"
+        },
+        {
+          "key": "nc9ed71dec58a5",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんおはようございます。\n\n息子さんの疑問が記事のアイディアになってぐるっと丁寧に解説されてて\nめちゃ面白いです。\n画像もめっちゃ綺麗。\n\n前の会社…",
+          "article_title": "【夏休み保存版🍉☀️】息子氏に「株って何？」と聞かれたので、LINEと革ジャンから説明してみたわからないことがわかる",
+          "note_key": "nf8ccbb016186"
+        },
+        {
+          "key": "ncacebf8c60085",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます♪\n\nこのニュース知りませんでした🫢\nすぐにどうという訳ではなさそうですが、suno結構使うので\n情報ありがとうございました。\nA…",
+          "article_title": "緊急速報ニュース(超個人的) Suno敗訴でAI音楽終了？　いや、まだドイツの地裁です",
+          "note_key": "n4765aab3717b"
+        },
+        {
+          "key": "nc5f2ec0d0e840",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キングダムお好きなんですね😊\n\nNVIDIA等まで含めたAI企業相関図をSolに作ってもらって眺めていたら、Amazon とGoogle強いなと思ってしまいまし…",
+          "article_title": "エージェント春秋戦国時代――始皇帝になるのは誰か",
+          "note_key": "n28034748b67a"
+        },
+        {
+          "key": "nc223b36c20056",
+          "user_name": "もこなが丸",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270438766/profile_39065d43b93603c739ff6299f39f8ac1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "李牧とReebok…🤣\n理解できるのに、数秒かかりました😅\n私も、まだ映画観に行ってないんですよね…。\n夏休み終わったら、映画館も大分落ち着くかな？\nその辺りを…",
+          "article_title": "エージェント春秋戦国時代――始皇帝になるのは誰か",
+          "note_key": "n28034748b67a"
+        },
+        {
+          "key": "nc48b07ebaba61",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "李牧まで出てきたのに、羌瘣不在とは（笑） 次回はぜひ登場を期待しています😊",
+          "article_title": "エージェント春秋戦国時代――始皇帝になるのは誰か",
+          "note_key": "n28034748b67a"
+        },
+        {
+          "key": "ncd3f4bae597e5",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんおはようございます\n\nキングダムは最新のやつ以外は配信でみましたが、普段は興味がない要潤がカッコ良過ぎが1番残ってます😆\n\nそしてAIの時代に覇…",
+          "article_title": "エージェント春秋戦国時代――始皇帝になるのは誰か",
+          "note_key": "n28034748b67a"
+        },
+        {
+          "key": "nc603cc163d6ab",
+          "user_name": "山猫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242249976/profile_fb1f89a15d35556b28973a42707be54c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふふ。ハリセンを召喚すると、さらに盛り上がりますよ♡",
+          "article_title": "魚AIって知っていますか？　公式サイトをのぞいたら大阪弁のナマズがいた　sakana.ai マジで面白いぞ🤣",
+          "note_key": "nc6dbf4c1f102"
+        },
+        {
+          "key": "nc3b49fa25adf8",
+          "user_name": "ゆうの静かな探究🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268270380/profile_c183a54f90a88d7fd260504c4b19ddb4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさんこんばんは！ \n日本企業のAI、使ってみたかったんです。 \nAI開発は手遅れかと思っていましたが、こんな頼もしくて面白い企業があるんですね！ご紹介あり…",
+          "article_title": "魚AIって知っていますか？　公式サイトをのぞいたら大阪弁のナマズがいた　sakana.ai マジで面白いぞ🤣",
+          "note_key": "nc6dbf4c1f102"
+        },
+        {
+          "key": "nc8e37d863c81a",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも話してみます、🐙！！🤣🤣",
+          "article_title": "魚AIって知っていますか？　公式サイトをのぞいたら大阪弁のナマズがいた　sakana.ai マジで面白いぞ🤣",
+          "note_key": "nc6dbf4c1f102"
+        },
+        {
+          "key": "ncbe8f879c32f0",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近数学分野でAIの活躍よく聞きますよね。数学者もあまり敵対視していないみたいですし、何やっても怒られない??分野だし。",
+          "article_title": "#Astra  朝からゆるふわAI最新モデル❤️ 裏？ガチってるよ。いつもの通り　OpenAIの最新モデルが？？？",
+          "note_key": "n8462aba00d8f"
+        },
+        {
+          "key": "nc9b92bf729060",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんおはようございます。\nえっ💦新モデル⁉️\n最近ヨシダは賢いなぁと改めて思うことが多いですが、また賢くなるのかな。\n頼もしいような、寂しいような。…",
+          "article_title": "#Astra  朝からゆるふわAI最新モデル❤️ 裏？ガチってるよ。いつもの通り　OpenAIの最新モデルが？？？",
+          "note_key": "n8462aba00d8f"
+        }
+      ]
     }
   ]
 }
