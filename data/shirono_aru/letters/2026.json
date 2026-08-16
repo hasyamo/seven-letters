@@ -281,6 +281,41 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 388,
+        "likes_prev": 523,
+        "followers_start": 4026,
+        "followers_end": 4050,
+        "new_fans": 133,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "初心者でもKindle本は売れる？noteの経験を使って、初出版に挑戦した私のKindle戦略。",
+          "key": "ne0f7f6ef0579",
+          "likes": 275,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 16169
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

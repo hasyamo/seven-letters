@@ -848,6 +848,35 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 81,
+        "likes_prev": 115,
+        "followers_start": 1770,
+        "followers_end": 1809,
+        "new_fans": 40,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "Kengo Yamamoto",
+          "urlname": "kengoyamamoto23",
+          "follower_count": 6544
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 6
     }
   ]
 }

@@ -7288,6 +7288,328 @@
           "note_key": "ne06cf96c3e0d"
         }
       ]
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 1068,
+        "likes_prev": 1107,
+        "followers_start": 1347,
+        "followers_end": 1373,
+        "new_fans": 116,
+        "comments_total": 72,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "20:20",
+          "21:29",
+          "19:55",
+          "19:09",
+          "21:54",
+          "19:22"
+        ],
+        "top_article": {
+          "title": "「へぇ」から始まる世界もある",
+          "key": "nc856ec89c42c",
+          "likes": 184,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "広瀬クリストファー",
+          "urlname": "amphibia",
+          "follower_count": 15195
+        },
+        "commenters_count": 22
+      },
+      "comments": [
+        {
+          "key": "ncf5dc0b21ce87",
+          "user_name": "GOGOおじさん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic0567a0e070c.jpg",
+          "body": "毎年、素敵な思い出が残りますね",
+          "article_title": "数ある夏の風物詩",
+          "note_key": "n9f2e567d4840"
+        },
+        {
+          "key": "nc16f75ee0223b",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nThe夏・お盆って感じですね😊\n移動はお気をつけて🚗\n楽しんでくださいね🎆…",
+          "article_title": "数ある夏の風物詩",
+          "note_key": "n9f2e567d4840"
+        },
+        {
+          "key": "nc0f767b9edccf",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "花火の写真、風情があっていいですね～！\nそして、よしひろさんのラインナップを見て、夏らしいことを一つもしてない自分に気づきました（笑）\n夏休みを家でダラダラ過ご…",
+          "article_title": "数ある夏の風物詩",
+          "note_key": "n9f2e567d4840"
+        },
+        {
+          "key": "nca201cd229c0d",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは\n\nマイ風物詩のリストに\n鈴鹿8耐が入っているところが\nいかにもよしひろさんだなと\nくすっとしました\n\nご家族での大移動のあと\n線香花火…",
+          "article_title": "数ある夏の風物詩",
+          "note_key": "n9f2e567d4840"
+        },
+        {
+          "key": "nce78c8459f1aa",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\nnoteは\n間口の広さやおおらかさ\nのようなものを感じます\nやってみたくなったら\nひとまず始めてみる\nというのも\nよいのかも知れませんね😊",
+          "article_title": "【有料記事を売りたいなら、まずは買ってみるべき】のウソ・ホント🤫",
+          "note_key": "nf804ff6623e4"
+        },
+        {
+          "key": "ncb00f3aff6040",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かに…有料記事に対する思い込み、あります、あります、多いにありますわ〜\n\n自分で勝手にハードルあげて、それで、苦しくなったりもします😵\n\nよしひろさんの記事を…",
+          "article_title": "【有料記事を売りたいなら、まずは買ってみるべき】のウソ・ホント🤫",
+          "note_key": "nf804ff6623e4"
+        },
+        {
+          "key": "nc95503bf5cd76",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この人の記事読みたいなー\nこの先が気になるー\nって、有料記事を購入することが\n多い私です。\n\nより有益な買い方は、参考にさせてもらいます！\n\nあとは\nよしひろさ…",
+          "article_title": "【有料記事を売りたいなら、まずは買ってみるべき】のウソ・ホント🤫",
+          "note_key": "nf804ff6623e4"
+        },
+        {
+          "key": "nc6b7071827272",
+          "user_name": "musicat/おとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237713470/profile_2774fda1b9199e603d2c82ed8a8bc97d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うんうん、そうなの。言語化してくれてありがとうございます✨",
+          "article_title": "【有料記事を売りたいなら、まずは買ってみるべき】のウソ・ホント🤫",
+          "note_key": "nf804ff6623e4"
+        },
+        {
+          "key": "ncb5083af03c4e",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん♪\n\n自分以外の方の考え方を知ることは面白いですね😊\n勉強になります✨\nしかし、600分はすごい！\nさすがです💐",
+          "article_title": "有料記事を書きたい。でも、自分が何を目指してるのか分からない人へ。",
+          "note_key": "na7d883601e59"
+        },
+        {
+          "key": "nc8ca231f78219",
+          "user_name": "りんの❤️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292105369/profile_80ff98f7d840ec46c300193ebcc3c93e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\n自分の温度でいいんですね❣️勉強になりました。\n軸を持って、ゆる〜く楽しく続けていけたら嬉しいなと勇気をもらった記事でした😊✨",
+          "article_title": "有料記事を書きたい。でも、自分が何を目指してるのか分からない人へ。",
+          "note_key": "na7d883601e59"
+        },
+        {
+          "key": "nc09c395f87dd8",
+          "user_name": "じゅんのしっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276205172/profile_3c319478b353e5bb09138c42a7e5f080.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます😊\nマガジンに『noteを始めて4ヶ月｜なんか、いろいろ育ってる』を追加していただいてありがとうございます。嬉しいです✨\n\n明日…",
+          "article_title": "有料記事を書きたい。でも、自分が何を目指してるのか分からない人へ。",
+          "note_key": "na7d883601e59"
+        },
+        {
+          "key": "nc2dcc12516d9d",
+          "user_name": "そるっち",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218889598/profile_f238954a960970b60bf87645f39e0483.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😀\n\n私もnoteを楽しむことが最優先で、その先に収益があったらいいかな、と軽く考えているタイプです。\n\n先日noteの交流会に参加したのです…",
+          "article_title": "有料記事を書きたい。でも、自分が何を目指してるのか分からない人へ。",
+          "note_key": "na7d883601e59"
+        },
+        {
+          "key": "nca3d0f3d088de",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n始める前、そんなことを考えてた時期がありました。\n\nが、それ以上に他の場所…",
+          "article_title": "有料記事を書きたい。でも、自分が何を目指してるのか分からない人へ。",
+          "note_key": "na7d883601e59"
+        },
+        {
+          "key": "nc8f46187c60fb",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もよしひろさんと同じく、\n楽しんでその先に収益があったら嬉しいな🌸\n\n買うことも大切ですよね。\n\nでも、興味のあるものだけ購入してればいいのかって聞かれたら、…",
+          "article_title": "有料記事を書きたい。でも、自分が何を目指してるのか分からない人へ。",
+          "note_key": "na7d883601e59"
+        },
+        {
+          "key": "ncb825b3b2cfbd",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nよしひろさんの思いは、ちゃんと伝わっているんじゃないでしょうか😊\nそうやっ…",
+          "article_title": "親の目線と、子の目線👀",
+          "note_key": "n5d794ae0c21b"
+        },
+        {
+          "key": "ncc521ceeb918e",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん♪\n\n上の世代から受け継いで下の世代へ伝えたいことが伝わった時、すごくうれしい気持ちになりますね😊\n\n私も、祖母から教えられたことを息子に伝えて、そ…",
+          "article_title": "親の目線と、子の目線👀",
+          "note_key": "n5d794ae0c21b"
+        },
+        {
+          "key": "ncdd54d58102b7",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300336462/profile_85c2b00d294885fe20f82b3af86371a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nいつもスキやマガジン追加をして頂き、ありがとうございます😌🪴✨\n\n拝読しながら、あー自分も子ども時代、通ったよなーと、しみじみしていました😌\n\n今…",
+          "article_title": "親の目線と、子の目線👀",
+          "note_key": "n5d794ae0c21b"
+        },
+        {
+          "key": "nccaffe98fba24",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n\n二つも記事紹介ありがとうございます😭🙏\n\nしかもよしひろさんの考えを書いて下さって😭🙏\n\nありがたいです🥹✨🙏",
+          "article_title": "親の目線と、子の目線👀",
+          "note_key": "n5d794ae0c21b"
+        },
+        {
+          "key": "ncf5051170f6b3",
+          "user_name": "じゅんのしっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276205172/profile_3c319478b353e5bb09138c42a7e5f080.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\n\n「うちの犬、人間かもしれません」をマガジンへ追加ありがとうございます✨嬉しいです！\n\n淡いピンクおしゃれですね✨「好きな色なら着て…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nce23b8d983852",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん♪\nこのお写真はご本人ですか？\n相変わらずおしゃれさんですね💖",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nc83ca07c15ee3",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301505355/profile_a6524e5a947e9a43084e2f244421a91c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "服の話ではないんですけど、私ブルー系が好きで\n髪にもハイライト入れてそこをほんのりブルーにしてたんですが、お試しできるカラーのハイライトでピンクが一番しっくりき…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nc7eefea97635c",
+          "user_name": "Supremo_ginza",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186085763/profile_80157b64e0e65935178352047dfd0d0d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま、こんにちは。\n淡いピンク、素敵ですね！\nリネンシャツだからこそピンクを選びたくなります。\n一枚で着ればしっかり主役になり、ジャケットのインナーに入…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nc2d7869d06ae8",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは！\nいつもありがとうございます😊\n\nピンクのシャツ、プライベート含めてもほぼ着たことないかもしれません😳\n僕が着ると若干エセ臭く見えるん…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nc21044f6ad3fd",
+          "user_name": "GOGOおじさん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic0567a0e070c.jpg",
+          "body": "リネンって若い人が似合わないということはないけど年齢を重ねた人のほうがしっくりくる気がします。ふんわりした上品さが余裕すら感じさせますよね。私は、寒色系のリネン…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "ncf3e49efe8792",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n涼しげなピンクがいいですね！\nそれと、襟の形がオシャレです😊\n\nいつもあり…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "ncf92639a34503",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いいですね〜\n淡いピンクシャツ好きです\nリネンリネンしてなさそうで、カチッともソフトもいけそう！\nエリが優しい印象になりそうですね。\n夫には似合わないエリだわ🤭",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nc486333ea8634",
+          "user_name": "ゆきぽ🦥🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "男の人の着るピンク、優しく見えるし好きですよー。\nよしひろさんはオシャレさんですね😊",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "nc301b97b206fb",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300336462/profile_85c2b00d294885fe20f82b3af86371a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "薄いピンク🩷\n素敵な生地とシャツですね✨\nわたしも一度でいいから\nオーダーシャツを作ってみたいです😆✨\n\n自分には絶対に似合わないと思っているのですが、友達と買…",
+          "article_title": "【僕のスキなモノ23】ピンクのハードマンズリネン・オーダーシャツ",
+          "note_key": "n404381c73ca9"
+        },
+        {
+          "key": "ncd96fbb3e663f",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、お早うございます🎶\nわかります〜✨noteを始めてから「へぇ〜、こんな世界もあるんだ！」って思うこと、増えました😆\n知らない誰かの日常が、こんなに…",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        },
+        {
+          "key": "nc7f943c63259b",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😊\n「昨日まで知らなかったことを、今日ひとつ知った。それだけでも、ちょっと世界が広がった」という言葉が印象に残りました。\nnoteって、…",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        },
+        {
+          "key": "ncbf0e4473acbb",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは！\n確かにnoteは長文でじっくり読めますから、人の日常が垣間見えますよね！\n旅行記とか、楽しく読んじゃいます☺️\n\nよしひろんの日常も…",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        },
+        {
+          "key": "ncaa910b5f9a67",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん♪\n\n知らない人の日常（笑）\n私も興味が出ています😊\n\nそのほとんどが、\n「わぁ！すごい！」です✨",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        },
+        {
+          "key": "nc3baa4f7c59e3",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n私も他の人の記事を読みながら、へぇ〜！ってしょっちゅう言ってます😆\nそれが…",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        },
+        {
+          "key": "nc878feac20b90",
+          "user_name": "こけりゅう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301419761/profile_0c97b1c19f5602c457e2866739dd9ee9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして！よしひろさん。\n\nこの度はマガジンに加えて下さり本当に嬉しい！\n\nこれからも少しずつ書いて行きますので、宜しくお願いします。\n\nこけりゅうでした💐\n…",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        },
+        {
+          "key": "nc0d6493cb226c",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "へー\n口癖です😊\n刺激は楽しいです✨",
+          "article_title": "「へぇ」から始まる世界もある",
+          "note_key": "nc856ec89c42c"
+        }
+      ]
     }
   ]
 }

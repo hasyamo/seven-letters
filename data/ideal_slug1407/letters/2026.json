@@ -2615,6 +2615,170 @@
           "note_key": "n8462aba00d8f"
         }
       ]
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 480,
+        "likes_prev": 672,
+        "followers_start": 1684,
+        "followers_end": 1712,
+        "new_fans": 86,
+        "comments_total": 34,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:32",
+          "19:00",
+          "00:00",
+          "06:32",
+          "07:00",
+          "07:00",
+          "07:15",
+          "18:44"
+        ],
+        "top_article": {
+          "title": "2027年、AIはどうなる？ たぶん「見えないAI」が増えていきます",
+          "key": "ndb49cac69ab7",
+          "likes": 64,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+          "urlname": "ai_hakase",
+          "follower_count": 7420
+        },
+        "commenters_count": 12
+      },
+      "comments": [
+        {
+          "key": "nc26a49694806e",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんわ。成瀬圭です。\n事故の記録なのに、途中から完全にAI鑑識の検体になってるの面白すぎましたwww\n\n特に、観測できた事実と未確定の原因をきっ…",
+          "article_title": "AI課金歌舞伎『十二弗六十二仙消失之段』　〜生成AI100%作文を見よ〜",
+          "note_key": "n54840eb1c81d"
+        },
+        {
+          "key": "ncefe6d52a53fb",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "総務省教材、まさにご指摘どおりで読むと笑ってしまいますが、、根が深い😟 \n\nChatGPTにニュースブリーフィング配信をさせているのですが、AI関連は黒パグさん…",
+          "article_title": "AIは「賢いチャット」から、会社を動かす制御面へ――全部つなげた企業が勝つのか　連休明けから会社で使える超実践的PDF付き",
+          "note_key": "n3b9c7fc55cea"
+        },
+        {
+          "key": "nc9e41ee7b07da",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは😊\n完成して予約投稿までした直後にGemini 3.7 Flash\nGPT-5.6 Sol Ultrafastまで増えてるの\nさすがにAI…",
+          "article_title": "2026年8月版・主要AI料金表　無料でどこまで使える？課金前に見る一覧PDF付き",
+          "note_key": "n356894dbcd4e"
+        },
+        {
+          "key": "nce7694c91873b",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、難しそうな話をこんなにわかりやすそうに！\n使ってなくても、ちょっとイメージができました。\nそういう使い方が増えていくんですね🙌",
+          "article_title": "2027年、AIはどうなる？ たぶん「見えないAI」が増えていきます",
+          "note_key": "ndb49cac69ab7"
+        },
+        {
+          "key": "nc866784fe7cb8",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "GeminiがGoogle ChromeやGmailに組み込まれてから、「見えないAI」に近づいているように感じています。Geminiを立ち上げて聞いている,と…",
+          "article_title": "2027年、AIはどうなる？ たぶん「見えないAI」が増えていきます",
+          "note_key": "ndb49cac69ab7"
+        },
+        {
+          "key": "ncfba91a231eb2",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます。\n\n「見えないAI」、確かにそうなりそうだなと思いました。\n\n特に「自分専用のAI」のところ。\nいつも使うフォルダや文章の好みま…",
+          "article_title": "2027年、AIはどうなる？ たぶん「見えないAI」が増えていきます",
+          "note_key": "ndb49cac69ab7"
+        },
+        {
+          "key": "ncedb24877f259",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n毎回、興味深いテーマを楽しい記事にしておられる事に驚愕しています。\n\n自分専用のAIのお話、めちゃくちゃ面白かったです！\n\n的外れな感想…",
+          "article_title": "2027年、AIはどうなる？ たぶん「見えないAI」が増えていきます",
+          "note_key": "ndb49cac69ab7"
+        },
+        {
+          "key": "nc7b5778a00669",
+          "user_name": "パンソン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274319345/profile_c96aa1949dc41f1a9ab17e12073ea29d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n記事読んでいて、途中挫折しかかったけれど\n最後のラインスタンプにほっこりしましたー。\n\n次の記事たのしみにしています。",
+          "article_title": "2027年、AIはどうなる？ たぶん「見えないAI」が増えていきます",
+          "note_key": "ndb49cac69ab7"
+        },
+        {
+          "key": "nc528b6c86e74c",
+          "user_name": "Nishikawa",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276490078/profile_2627a0396867413340e643767d6a508c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん\nおはようございます😀\n\nPRO契約していますが、9月3日を待たずに制限がかかり、グレードアップを推奨されました😅\n\n取り急ぎ、ご報告でした🙂",
+          "article_title": "【速報】Suno、無料版は生涯7曲、Proは月20曲まで——もっと保存したければ月5,000円です",
+          "note_key": "n350625b11df0"
+        },
+        {
+          "key": "nca26b8466107d",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは☺️\n\nsunoからのメールで月２０曲少な！って思って\nその後詳細をちゃんと読んでなかったので\n説明してもらえて嬉しいです☺️\nダウンロー…",
+          "article_title": "【速報】Suno、無料版は生涯7曲、Proは月20曲まで——もっと保存したければ月5,000円です",
+          "note_key": "n350625b11df0"
+        },
+        {
+          "key": "nc073b8d3e13cd",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "読みました～😲\n私もProつかってます。月20曲なら、セーフかな～💦\nsunoメールはちゃんと読んでなかったですわ～(;^_^A\n確かりました🙇",
+          "article_title": "【速報】Suno、無料版は生涯7曲、Proは月20曲まで——もっと保存したければ月5,000円です",
+          "note_key": "n350625b11df0"
+        },
+        {
+          "key": "nc00a8c3ee746c",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n大変わかりやすい解説を、ありがとうございました。\n\nしかし、思い切りましたね。\n\nユーザーがついてくることも見越しての事だとは思いますが…",
+          "article_title": "【速報】Suno、無料版は生涯7曲、Proは月20曲まで——もっと保存したければ月5,000円です",
+          "note_key": "n350625b11df0"
+        },
+        {
+          "key": "nc602b5567d3e8",
+          "user_name": "月詠 (ﾂｷﾖﾐ)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277764104/profile_50452cdb8fe942993d2630f56b441e89.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nsuno情報ありがとうございます！！\n\nproなので、月20曲ならギリ、使用してる範囲内ですが\nモデル更新もあるとなると…また癖を把握して…",
+          "article_title": "【速報】Suno、無料版は生涯7曲、Proは月20曲まで——もっと保存したければ月5,000円です",
+          "note_key": "n350625b11df0"
+        },
+        {
+          "key": "ncf4f44adacc83",
+          "user_name": "ゆきぽ🦥🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ダウンロードはできないけど共有はオッケーなんですね。\nまとめてもらえて助かります😊",
+          "article_title": "【速報】Suno、無料版は生涯7曲、Proは月20曲まで——もっと保存したければ月5,000円です",
+          "note_key": "n350625b11df0"
+        },
+        {
+          "key": "nc82603fb2f157",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーーん🤣🤣\nキャー🙈ヨシダ使っていただいてありがとうございます✨\n\nいや、Grokってすごいんですね。ほぼ使った事ないです。\nロゴもめちゃくちゃ可愛…",
+          "article_title": "【コピペOK】GPTとGrokで「かわいい名前ロゴ」を作ってみた　無料配布なので好きに試して使ってね！",
+          "note_key": "n1baa2181b754"
+        }
+      ]
     }
   ]
 }

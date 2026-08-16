@@ -8422,6 +8422,616 @@
           "note_key": "n144ef9f988f2"
         }
       ]
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1165,
+        "likes_prev": 1138,
+        "followers_start": 1784,
+        "followers_end": 1812,
+        "new_fans": 143,
+        "comments_total": 156,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "20:05",
+          "20:15",
+          "20:10",
+          "20:44",
+          "20:04",
+          "20:23"
+        ],
+        "top_article": {
+          "title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "key": "ne12f2a5691da",
+          "likes": 186,
+          "comments": 29
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 19040
+        },
+        "commenters_count": 46
+      },
+      "comments": [
+        {
+          "key": "nc5c326e26087a",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、これはかなり深いところまで潜ってるね😳✨\n\n読んでいて感じたのは、「何が好きなのか」以上に、その“好き”とどう関係を育ててきたのかを見ている記事なんだ…",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "ncbdcb0b286878",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊こんにちは🎵\n\n「何が好きか」じゃなくて、その好きがその後どう育っていったのかを見るって面白いですね。\n\n最初はバラバラに見えていたものが、時間を追っ…",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "nc4dd9accd5d4f",
+          "user_name": "🌸おはな＆🐕️まめしばさん裏アカ公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303002867/profile_cb3b85972e82e61471cce0a27922ce31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nコンパス みきさん、はじめまして😊\n「何が好き？」じゃなくて、「その好きがどう育ってきたんだろう？」って見る視点が、とても面白かったです🌱\nELISA…",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "nca038a3231595",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301705120/profile_03e29a2200fbe97afd10211b38aba40c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\n\nCASE-001、研究の深さがすごいです🔬🌱\n「何が好きか」ではなく、「その好きとどんな関係をつくってきたのか」という視点がとても面白…",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "nc625d0c81ef44",
+          "user_name": "けい｜自分に戻る心理ワーク",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286646783/profile_022698b255895c93587c0adf71df40ee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊やっとスキ制限解除されましたー😭ほんとあの機能いらないですよね・・・\n\n「何が好きか」じゃなくて、その好きとどんな関係を作ってきたかって見…",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "nc7055ede869bf",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊🐑さんは、カワムラちゃんと似てますよね😊",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "nc38e7d0326cfd",
+          "user_name": "🌸おはな＆🐕️まめしばさん裏アカ公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303002867/profile_cb3b85972e82e61471cce0a27922ce31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな「みきさん、今回の“好きになったあと”を追う視点がすごく面白かったです🌱✨ ただ好きで終わらず、名前をつけたり、宝物にしたり、相方と呼んだりする中で、好…",
+          "article_title": "✨「好き」だけ見ていても、スキのタネ🌱は見つからなかった。",
+          "note_key": "n5cc9f0e3dfaf"
+        },
+        {
+          "key": "nc2f84efc1611b",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みき所長！\nまず、おもろいです😆\n\n目の付け所が違いますね～✨\n羊さんのまた新たな一面を知った感じです。\n思わず釘付けになりました👀\n\nみきChanのステキな活…",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "nc9916fb1ec6a4",
+          "user_name": "じいじ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260613845/profile_f156682de777ca8ce8fa5d0271e5c020.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "NRTの研究　いいですねえ　\nマガジン追加　ありがとうございます",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "ncb446c9927ac1",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\nインディジョーンズなみの発掘…ご苦労様です♪そして…物語は…科捜研みき研究所に持ち込まれました🤭果たして…結果はどうなったのか？お楽しみに〜💦",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "nc6b1ee08f01cb",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき　さん　こんばんは♪\n\n\n発掘調査お疲れ様でした♪\nとても深いところまで掘ってらっしゃるので読み応え抜群の素敵な記事ですね。\n「白衣をきてみてかった…",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "ncfe3696ecc23b",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんと、ワシの推しの羊🐑さんを深掘りするのですかー？✨読まねば💃💃💃🎵",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "nc77b080aa11d5",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、今回かなり面白かった😆\n\n「白衣が着たかった」と「いつもの自分が描かない絵」って、一見すると全然違うのに、どっちも“自分の外側へ一度出てみる”ことで繋…",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "nc397489d121a3",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは～！\n発掘調査おつかれさまでした！！\n\n初期記事と現在の記事の２つを並べるだけで\nこんなにいろいろな考察ができるのですね😮\nお見事、と思いま…",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "ncf1e26d6ed6e6",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "また面白そうなことをしてますね😸✨\n\nスキの表現力がアップ( 'ω'🫶)\n初期記事と比較検討できる情報量がすごい👏\n\nそして、両方見てきましたが、比較検討する時…",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "nc823e85c5da9d",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タイトルとスコップの絵文字を見た瞬間から「わぁ、面白そう！」とワクワクしながら読ませていただきました🤣✨\n\n自己紹介のタイトルがまさかの「とにかく白衣が着たかっ…",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "nc102e38bc70d3",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\n初回発掘おめでとうございます🎉🎉\nでも、まだ続くんですかねｗ？\n発掘隊の素敵な世界観ありがとうございます。",
+          "article_title": "【初期記事発掘】夏目羊さん🪏",
+          "note_key": "nf3594eef0691"
+        },
+        {
+          "key": "ncc4b1c9f06ff4",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは。\n\n楽しくて切なくて、胸がぎゅっとなりました。\n\nお父様、すごく面倒見が良くてシゴデキなかたなんですね✨目に浮かぶようです。\n\nうちの祖父…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "ncc2b97744ae5e",
+          "user_name": "seri_eyes",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198110269/profile_b383575645c1b2850c62f36a76f8e2b8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みき様\nおはようございます✨\n\n亡くなった人の個性を\n優しく捉えて受け入れておられて、\n胸に来るものがありました。\nお父様のお節介は、\n実は似た部分があるから\n…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc300a1e54be5b",
+          "user_name": "花日和と碧色",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279916697/profile_02821861953d3f534e26268dc1a1f3cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nいつもありがとうございます✨\n記事をお読みしながら、\nお父様の気配を感じさせていただきました。面倒見のよいハートの温かな方でいらしたのですね。胸にじー…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "ncc795bee5e2e3",
+          "user_name": "ゆら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253515245/profile_99c5a4b66ac3ea9f95e8b0794ef21057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\nこんばんは🥹\n粋で可愛いお父様ですね。\nそして大きな優しさもお持ちだったのかなって感じました。\n\n記事を拝見して\n私も父を偲んで温かい気持ちになれま…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "ncec3d979427b6",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293072442/profile_8b6499ff1096e660ee01f82b8898b1ec.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n恐縮ながらこの場をお借りして、コメント失礼します。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nccec8eb1c72c3",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303699603/profile_84b427ef8ba5d645a2062af319599383.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「迎え火の最後尾に、父がいる」\nカッコよくて素敵なタイトルですね✨\n愛嬌のあるお父様の姿が目に浮かびました。\n\n実家では迎え火と送り火をする習慣がありますが、義…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc71052ae70076",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんにちは。\nお父さんお世話好きな面白い方だったんだね～☺️\n\nみーちゃんにも少し似てるのかな？なんて読みながら思ったり..😊\n\nきっとこのお盆も帰…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc14d149d9044e",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nお父さま、「お節介をして帰ってくるの忘れるんじゃ」\nというような面倒見の良いタイプの方だったんですね😊\n\n読みながら、ほのぼのとした気分になりました…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nced24e4d077fd",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん\nおとうさま、とっても楽しい方だったんですね💗\nわたしも姿が浮かんできて、笑ってしまいました😊\n\nおとうさま、ちゃんと帰ってきたよ！と突っ込みいれてそ…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc9a0e9eef9bbb",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303061472/profile_b5be8eb2c9fcba4afc62f1724705313b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん✨\nお父さま、本当に最後尾でみんなのお世話をしていそうだなぁって、読んでいて姿が浮かびました☺️\n「その人らしさを、もう一度家の中に戻してくる」という…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc40230274597b",
+          "user_name": "辻 智也｜広告運用 × AI動画で素材量産｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300687665/profile_1ce836bea6264c00993b40412f92a0af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "迎え火の最後尾で、文句を言いながら帰ってくるお父さま。寂しさだけではない、温かくて少し愉快なお盆の景色が素敵でした🏮",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nccaf4a83bbe0e",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は父がいない3度目のお盆です。もう居ないってわかってるのに、\n時々、父がいた時の習慣を思い出してしまったり……\nシャツとモモシキ姿をだらしないと叱っていた母が…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "ncafd70e19d1c5",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\nお父さまの姿が目に浮かぶようで、思わず笑ってしまいました☺️\nしんみりするだけじゃなくて、その人らしさを思い出せるお盆って素敵ですね。…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc57472cace611",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フッと笑えてジ～ンと心に沁みる\nお父様への愛が込められた記事、素敵ですね✨\nでもお父様、みきさんに似ているような・・・（笑）\n嫁ぎ先の地域では迎え火の習慣がなく…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nce9dce7ebcc0b",
+          "user_name": "閑野 怜 ｜ 📷 記憶を現像するフィルムエッセイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278972489/profile_fb436385603a170a0dd2e3ec52c731a4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "迎え火を焚きながら、オヤジのことを思い出す。\nみきさんの優しい人柄が、そのまま文章に滲んでました。\n世話焼きだったお父さんの印象が、それだけ強く残ってるんですね…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "ncfe3839725c1a",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\n最近は…近所でも…迎え火する光景が少なくなりました…ちょっと前までは…夕方になると…一斉に…鐘（チン）が鳴り響く…お盆を感じる…最近は安全性から火…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc2786a80c085b",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nみきさんの迎え火のお話、優しい時間が流れているように感じました。\nお父さまのことを思い出す言葉がひとつひとつ丁寧で、私まで胸の奥がじんわ…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc340dcf945657",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「迎え火の最後尾に、父がいる」って、すごく素敵な表現だね☺️\n\n亡くなった人を思い出すことって、「いないこと」を確認する時間じゃなく、その人の口調や癖まで含めて…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "ncecd4c364cc21",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん　お父様　みーちゃんに会いたいと思うよ。\n\n迎え火がない地域もあるけど　みーちゃんのところ　あるんだね。\n\nうちはそのあと花火して　こっちだよって幼い…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc2e7f08183d15",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\n\n迎え火、少ししんみりしそうなお盆の光景ですが、みきちゃんのお父様の性格や仕切りを思うとちょっとホッコリして☺️🍀\nクスッと笑ってしまいますね！\n\n…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc2ca8578d6280",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "迎え火を知らない北海道民です💦\n無知でスイマセン💦\n地域によって、お盆の迎え方違うのですね～😲",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc0d1e0c752064",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙✨\n今回も心にしみ入る、そしてクスッと温かい気持ちになる素敵な記事をありがとうございます🥹🏮\n\n迎え火を炊きながらお父様のことを思い出すお…",
+          "article_title": "🏮迎え火の最後尾に、父がいる✨",
+          "note_key": "n4e92bee4eb73"
+        },
+        {
+          "key": "nc3bfb485a10a3",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\n褒めてもらったときに、つい「いやいや、そんな…」って返してしまうの、\nすごく分かります🤣\n\nでも「ありがとう」って受け取ることは、自分…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nc00683ea94791",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは😊\nすごく共感しながら読ませてもらったよ🤩\nたしかに、人に与えてばかりで\n与えてもらったものは、いやいやそんな事はない\nと素直に受け取れな…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nc2d6640c557a3",
+          "user_name": "shie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237391365/profile_5c7e628da535786b1d1c4e3047c0c90a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん🌱✨️\n以前、アカウント名に「リリア」を使っていたことがあり、リリアちゃんに親近感🧚✨️\n「境界の図書館」素敵です🔮\nレムリアの図書館も開いてみたくなり…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "ncf823aa166d68",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コマチちゃんが、ちょっと私に似てるかな？と思っちゃいました🫶",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "ncdfe3fc7869af",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "コンパスみきさん\n「ありがとう」受け取っていきます🍀\n\nマガジンにもいれて頂き\nありがとうございました！",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nc4da0e7a672d1",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n\n「私の頑張りは足りないのかな」って思ってしまう気持ち、すごくわかります。\n誰かに褒められたときも、つい「いやいや、そんなことな…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nc052393574b89",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299967471/profile_6c6d1d1ada2c8774e44d755b8cfacdb1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nみきさん、「月は一度も自分では光っていない、太陽の光をそのまま受け取っているだけだ」というコマチさんの言葉、深く心に残りました🌿 誰かの評価に揺れる気…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nce0118073425f",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日は月になれるかな🌕　🌙\n\nいい言葉だね😊",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nc390ff6b61598",
+          "user_name": "けい｜自分に戻る心理ワーク",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286646783/profile_022698b255895c93587c0adf71df40ee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n「受け取ることは信頼すること」っていう言葉がすごく残りました。\n褒めてもらっても、つい「いやいや、そんなことないです」って返したくなる時…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nca15e6f4b7693",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、「受け取ることは、信頼すること」ってすごくいいね☺️\n\n褒められるとつい「いやいや🤣」って返しちゃうけど、それって相手が差し出してくれた気持ちまで返し…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "ncc249745e787c",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙✨\n今回も本当に素敵な「境界の図書館」の物語をありがとうございます📖🌿\n\n同僚が表彰されたときの「私の頑張りは足りないのかな」というモヤモ…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "ncc268b040338b",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301705120/profile_03e29a2200fbe97afd10211b38aba40c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさんこんばんは🌙\n\n「いやいや、自分なんて」めちゃくちゃ言います🤣\n\n褒められると、なぜか全力で打ち消しにいくんですよね😂\n\n「今日は、月になれ」🌙\nこれ良…",
+          "article_title": "📕境界の図書館",
+          "note_key": "nbfb3bcbad527"
+        },
+        {
+          "key": "nccd444bf54e4f",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わ～素敵な思い出＾＾\n\nこれぜひまたオーストラリアに行ってほしい～✨️\n一度も行ったことがないので、羨ましいです＾＾\n\n夜空がきっとすごくきれいなんでしょうね。…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "ncb70233cbfb42",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "コンパスみきさん\n「この広い敷地を3人ってどういうこと？」\n海外あるあるですね、笑。\n\nマガジンにも入れて頂き\nありがとうございます！",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc977617583352",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき さま\n\nこんばんは\n\nみきさん、オーストラリアに\nワーカ ーホリック！！\n30年前って、今ほど制度充実\nしてなかったはず😆🍀凄い✨\n勇気が素晴らし…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc369596d67631",
+          "user_name": "Micchi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209562465/profile_442a9aacc1463b5d33a77640ba7ab143.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みき✨️さん　こんにちは😊\nマガジンへ追加していただき、ありがとうございます❣️\n\nオーストラリアでの、たくさんの思い出が素敵過ぎて\n読ませていただい…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "ncffb72c1e3cf7",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、おはよー！\nオーストリアにワーホリ行ってたんだね✨\n南十字星綺麗だろうね～☺️\n\nみーちゃんにとって今は棚卸しの時期なのかもしれないと読んでて思った…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "ncf9299e6b2a74",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "南十字星観てみたいなあ😊",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "ncdd970a302009",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\n「いつか行きたい場所」って考えると、自分は昔少しだけ住んでいた、カナダのアルバータにもう一度行ってみたいなと思いました✈️\n\n当時と今…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc9f913aaeb1c2",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは🌙\nオーストラリア行った事ないー。\nワーホリすごい！かっこよい。\n\n私は死ぬまでに４７都道府県制覇したいです。\n前に言った事あるかもだけど…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc040a585a682e",
+          "user_name": "🚨🌏️地球侵略阻止ミッション👽️⚡️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256830690/profile_908f78a19229ffc424b715689e05c7db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきサンの発信に触れれば触れるほど、深い人生経験をされているんだなあと感じていマス🪐🌌\n\n思い出深い場所への再訪がもたらすものは、まだ見ぬ自分との出会いか、はた…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc694e7defb664",
+          "user_name": "天使くーちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213242345/profile_0d1661244cfbd23492846d124e449b2c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん🌻\nできなかったけど、\nワーホリ憧れでした🥰\nオーストラリア🐨いつか\nコアラに会いに行ってみたいです！\nオーストラリアしかないお花🌼も探しに行き…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "ncb369574ce649",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、これはもう「旅行に行きたい」だけじゃなくて、30年以上前の自分に会いに行く旅なんだろうなって感じました☺️\n\n「ここで1から始めよう」って思った場所を…",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc3fd5cbc0dc5d",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もロンドンに帰りたい。\n\nなかなか難しいけどね。\nやり残したことがいっぱいある。\n\nお互い叶うといいね",
+          "article_title": "✨ハッピーライティングマラソン#62| 「いつかやろう」と思って、もう何年もたっていることは何ですか？",
+          "note_key": "ne12f2a5691da"
+        },
+        {
+          "key": "nc1d127420eed3",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、これめちゃくちゃ面白かったです🤣✨\n「発掘するなら、発掘隊から作ろう」で、ほんとに別企画になってるwww\n\nNRTのメンバーそれぞれに見る役割があるの…",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nc552d183ea621",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、スコップ磨いてたと思ったら、まさか本当に発掘チームまで結成しちゃうとは🤣⛏️\n\nただ昔の記事を掘るんじゃなくて、「今の好きって、どこから育ってきたんだ…",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nc957646167c30",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきた〜ん👅あっ😅舌噛んだ💦\nそう言えば、この間…何故か…みきちゃんの事を…もっと知りたくて…昔の記事を読みました…😆🤣😎とっても初々しくて可愛いかった印象だっ…",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nccc6620146827",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき　さん　こんばんは♪\n\n共同プロジェクトみたいで\nとってもカッコいいですね♪\n\n発掘調査記事楽しみにしてます！\n",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nc6206aca19feb",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "所長って呼ぶわ",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nc5527476e78e2",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんはー！！\n\nスコップ係とうとう始動ですね！！\n\nKITAcoreさんのツッコミ妄想、ありえるって思っちゃいました🤣🤣\n\n発掘記事読むの楽しみに…",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nc1744ec73a3cd",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\nおお、なんかカッコいい✨✨\n発掘している様子も楽しそうです😄\n本記事も楽しみにしてます👍",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        },
+        {
+          "key": "nca3d2e169f7c9",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは〜🌙✨\n「いつまでスコップ磨いてんねん！凶器にするつもりか！」のツッコミで、冒頭から見事に笑わせてもらいました😂🤣笑\n\nキタさんの初期記事発…",
+          "article_title": "「初期記事発掘レイド」発掘隊から作ってみた",
+          "note_key": "na16ae9e45de5"
+        }
+      ]
     }
   ]
 }

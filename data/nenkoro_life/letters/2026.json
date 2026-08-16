@@ -4922,6 +4922,391 @@
         }
       ],
       "rare_no": 6
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 313,
+        "likes_prev": 198,
+        "followers_start": 1868,
+        "followers_end": 1910,
+        "new_fans": 53,
+        "comments_total": 78,
+        "posts_count": 4,
+        "consecutive_days": 3,
+        "post_times": [
+          "19:25",
+          "18:06",
+          "16:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "key": "nb2dca6a7de4a",
+          "likes": 86,
+          "comments": 31
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 16281
+        },
+        "commenters_count": 24
+      },
+      "comments": [
+        {
+          "key": "nc1df89f54462a",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\n食器は通販で買うことにしたのですね。\nお目当てのものがあるならそれもまた良しだと思います✨\n\nマグカップは見て選びたいのわかる気…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "ncc426db1dfcf5",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん😁\n\nわかります、マグカップはお気に入り探したいですよね💕\n\n食洗機、本当に、あれがないともう私だめな人間になってしまいましたよ…🤣\n\nねんころさ…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc22ad26245f15",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コレール（CORELLE）のお皿✨️\n上品な花柄がなんとなくねんころさんに似合っていそうでステキです〜✨️\n(⁠≧⁠▽⁠≦⁠)％✨️私もDAISOのマグカップと…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc52f090b7cd12",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299954884/profile_4bef21e1f548885f46651ce1baca17ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん\n\nねんころさんの日常知れて嬉しいです！\n引っ越すと色々欲しくなりますよね🤭\n\n私の場合も料理したくないんで、テンション上がる食器を買って、それを…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "ncd14bad32dd79",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ウチのコンロの上は\n各種取説置き場になっております😺\n火ぃつけたら即火事🔥\nレンジと冷蔵庫だけで人は生きてゆけるのです。\nステーキ肉もレンチンで😼",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc370aa0c45326",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🤣🤣🤣\nめちゃくちゃ面白かったし、分かりすぎましたwww\n\n「そこまでして皿を買いに行きたいか？？？」からの\n「楽天ポイントあるやん」、もうそれでい…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "ncbcb6689bbd75",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nそうそう！\nネットで買っちゃいなよー😂\n\nとりあえず1軍のマグカップはセカストで買うとして！\n2軍のマグカップもネットで買っちゃいなよー🤣笑…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc2a1f4dc390fe",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん　こんばんは♪\n\n\"これを買うためだけに外へ行く\"\n面倒くさいですよねw\n私もネットでポチッと派です笑\n\nマグカップいいの見つかると\nいいですね😁\n",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc71836ed42ede",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🦊\n\nマグカップ分かります✨\n\n私は旅に出た時に迎え入れます。\n\n変わり物に出会いたくてガラスや陶器を見るのが趣味なんだけど\n\n数年前、淡路島で買っ…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc93f231e4c6a1",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\n\nなかなか一人だと自炊の効率も大変ですよね💦\n\nでも食べる時の目からの情報も大事らしいですから、オサレな食器で食べた方がいいかもしれませんね🤗\n\n…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "ncfe32b6612602",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、コレール割れにくいです🙌\nうちでは20年以上使ってるのもあります😂\n気に入ったお皿が見つかるといいですね💕",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc0a16f10edc71",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\n以前、どこぞの料理研究家が言ってました。\n自炊は、栄養管理のためでも、家計を抑えるためでもない。\n自分が食べたいものを、好みの味付けで食べるためだ…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc7389e765f64b",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは。\nうちでは、DEAN&DELUCAのマグカップが、おたくは喫茶店でもやるんですか？くらいあります。笑\nほとんどはAmazonで買ってし…",
+          "article_title": "「食器どこで買う？」雨と犬で断念！私の選択は | 面倒くさい | 文明開化 | 快適生活",
+          "note_key": "n9e3cbe827f3c"
+        },
+        {
+          "key": "nc72d3e5c121e8",
+          "user_name": "Kinu｜AIイラストと発信づくり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます！\n\nSeedanceの比較検証めっちゃ助かります！大感謝〜🥰\n\n「性能の差より、性格の差」\nとても面白い視点ですね✨\n\n用途に…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nc29556fd0fee5",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299954884/profile_4bef21e1f548885f46651ce1baca17ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nありがとうございます😊✨\nなるほど🤔\n最近はじめて使ったんですが、違いが分からずだったので、無駄にクレジット消費しちゃってました。\nそもそもゆっく…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nc3c66126e193e",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん✨\n\n比較検証記事ありがとうございます♪\n\nとっても分かりやすかったです😁\nminiでも全然いけるんですね♪\n今度はminiで遊んでみようかな？と思…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nc05363c6e9f54",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\n検証お疲れさまです🍵\nほほーっと読ませていただきました。\n\nやはり動画は動きが激しいものになると性能の差が出やすいのですね（性能…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "ncc2d09454ea8c",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん✨こんにちは！\n2.5すんごいですね🌸\n\n「カメラが現場にいる」という表現が本当にぴったりでした⭐\n\nそして、実写版クロスケかっこよすぎです！",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "ncbabd7a72c6cc",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、昨日からPollo AIを使い始めたところなので、めちゃくちゃ参考になりました😊\n\nモデルの違いが分からないまま使っていたので、危うく全部2.5で…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nca2952090d65a",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、上位モデルなら映画がつくれるくらい凝ったことができるんですね😊\nAIでなにをつくるか、それによって使うモデルも選んだほうがいいんですね🙌",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nc1e1e21d66129",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんわ。\nなるほど、違いが分からずに使おうとしていたので、とても助かります！\n私の用途だとダイナミックな動きはないので、2.5はいらなさそう・・・😅\nでも、…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nc156c6fe769a3",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "2.5のコストに手が震えて\nどうしようか迷ってたので助かります😼\n\n自分の実力＆作りたいもの的に\nminiでも十分すぎそうでした😽\nでも50%OFFの間に1回だ…",
+          "article_title": "Pollo AI『Seedance』4モデル徹底比較！最適な選び方| AI動画生成  | 比較 | 選び方 | レビュー",
+          "note_key": "ne08a38f817ef"
+        },
+        {
+          "key": "nc7e3077a8040c",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nお引越ししてから、いろんなことがいい方向に転がってるようでなによりです✨\n\nお仕事もいっぱい舞い込んでいるようで、またばたんきゅ…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "ncf7ceb906c4fe",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ウチはカット野菜の袋がお皿ですよ😽\n\n引っ越して色々好転してえかったです😺\nリアルで会った時のエピソードまだですか？\n\nお湯かける系の完全メシ(カップ麺・カップ…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "ncde746373f83b",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは😊\n\nAI社員は夜勤体制まで整いつつあるのに、\n食器がまだ配備されてないの笑いました🤣\nティファール総料理長、かなりの長期休暇ですね😂\n…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "ncba37b45f2d3c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、仕事環境はMac miniにAI社員まで揃って進化してるのに、食卓だけ紙皿と紙コップだけなんですね。しかもまだ「改造途中」🤣\n\n食器も揃って、AI…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc410b6e8f1a94",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころちゃーん✨こんにちは😄\n\n新生活楽しそう！！\nでも、食器はないんだね🤣\n家電はあるのに🤣\n思わず笑ってしまいましたー。\n\n仕事も順調で生活も充実してきて…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc87037ccf4709",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん　おはようございます♪\n\n\nお仕事と新生活の両立お疲れ様です！\n読ませてもらった印象では\n大変そうだけど楽しそう、という感じが伝わってきました♪\n紙…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "ncbe22cd1c4bbd",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん🦊\n新生活楽しくできているみたいで良かったです!\n「環境が合っていなかった」っていうの分かります。きっと自分の流れにその部屋が合っていなかったんで…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "ncd178ea48e078",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "充実した日々だ〜！\n新環境楽しそうで、こっちまで幸せをお裾分けしてもらった気分に！\n\nいつかAI料理人も現れればいいのにw\n\nこれからも応援してます！\nいつもあ…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc38be2e58a79d",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301097676/profile_c14a3d836856d6c1785cfd57ea24b34c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "プレートあるいは平皿を一つ買って、ラップを敷いてから食材のせれば洗う手間が減ってらくちんー🤗\n\nオフ会感いいですねー🤭",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc3f644d507814",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nちょいちょい！！\nAmazonで食器買およーーー😙笑\n\n流石にAIで食器は作られへんでな🤣\nUberで食器とか買ってきてくれへんのかな🧐笑？",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc6b2e3d43fce8",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは😊\n\n順調そうで何よりです👍\n食器も気に入ったいいものが見つかると良いですね！\n\nナッシュ美味しいらしいですね！食べたことないけど！\nリ…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc1dc720709633",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "新生活これから楽しみですね！\n食器も含めて🤭\nAIで仕事を増やして、素晴らしいです👍",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "ncbeeb0fc4fe82",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完全メシが気になって仕方ないwww",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc035202b58a03",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわ～リアル仲よしになったんですね💕\n一人暮らしの自由さ、仕事には便利ですよね！\n自分の時間で動けるのが効率的ですね🙌\nAIに働かせるフリーランスの時代になって…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc59325a1dce95",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "仕事たくさん、人生順風満帆だね✨\n\nオンラインで仲いい人に会うあるあるも、くすってきました☺️\nどれだけ深く話したかなんだよね、なんて思ってます。\n\nセカスト物…",
+          "article_title": "仕事は増えた。AI社員も増えた。食器はない。| AI活用 | ChatGPT | Mac mini | 引っ越し | 新生活 | 効率化 | フリーランス",
+          "note_key": "nb2dca6a7de4a"
+        },
+        {
+          "key": "nc1e2cc2e5da93",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌙\n\nSeedance2.0と2.5の比較お疲れ様でした‪(꜆*ˊᵕˋ)꜆🍵\nとても分かりやすくまとまっていて見たいてとても勉強になりま…",
+          "article_title": "Seedance 2.5で約30秒のMVを一発生成！2.0と作り比べてわかった違い【Pollo AI】【PR】",
+          "note_key": "n748bef230b8e"
+        },
+        {
+          "key": "nc8d9128256b41",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\n比較検証、とても勉強になります。\nありがとうございます🙇\n\n動画生成はほぼやってないのですが、やはりクレジットの消費が激しい印象…",
+          "article_title": "Seedance 2.5で約30秒のMVを一発生成！2.0と作り比べてわかった違い【Pollo AI】【PR】",
+          "note_key": "n748bef230b8e"
+        },
+        {
+          "key": "ncd0db8d7adc76",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん　こんにちはー♪\n\n比較記事の執筆お疲れ様ですっ！\nseedance2.5なんて\n昨日のうちには無かったはずなのに\n情報を精査して\n執筆までが早いで…",
+          "article_title": "Seedance 2.5で約30秒のMVを一発生成！2.0と作り比べてわかった違い【Pollo AI】【PR】",
+          "note_key": "n748bef230b8e"
+        },
+        {
+          "key": "nc52a2c513337c",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nこんにちは♪\n\nSeedance は音楽参照できたんですね！\nわたしはメインはViduが多いので、気づきませんでした💦\n\nどうしても長めのMVだと…",
+          "article_title": "Seedance 2.5で約30秒のMVを一発生成！2.0と作り比べてわかった違い【Pollo AI】【PR】",
+          "note_key": "n748bef230b8e"
+        },
+        {
+          "key": "nc97475dd9c241",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう記事にしてる！！はやー！！\n\n30秒がいっきに作れるのすごいですよね〜。楽曲のところそんな使い方できたんですね。\nめちゃ参考になる〜！\n\n私もやらねば〜！w…",
+          "article_title": "Seedance 2.5で約30秒のMVを一発生成！2.0と作り比べてわかった違い【Pollo AI】【PR】",
+          "note_key": "n748bef230b8e"
+        },
+        {
+          "key": "nc5bb27347e416",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、PolloAIは音楽も参照できるんですね！\nなんだか、まだまだ便利になりそうな予感🙌\n\n剣士のそらちゃん、目が光ってカッコいいです😍\nどちらかとい…",
+          "article_title": "Seedance 2.5で約30秒のMVを一発生成！2.0と作り比べてわかった違い【Pollo AI】【PR】",
+          "note_key": "n748bef230b8e"
+        }
+      ],
+      "rare_no": 7
     }
   ]
 }

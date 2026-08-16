@@ -20462,6 +20462,1001 @@
           "note_key": "ne9a27fcba689"
         }
       ]
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 1820,
+        "likes_prev": 1982,
+        "followers_start": 2250,
+        "followers_end": 2257,
+        "new_fans": 101,
+        "comments_total": 276,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:16",
+          "07:18",
+          "07:22",
+          "07:27",
+          "07:17",
+          "07:10",
+          "07:12"
+        ],
+        "top_article": {
+          "title": "生成AIニュース｜楽天AIの逆襲、ヨシダ召喚ドーナツ、うんちカプセル💩まで！未来が急に来すぎ問題 Geminiと漫画で解説｜ChatGPTのヨシダ",
+          "key": "n15919f84fc81",
+          "likes": 267,
+          "comments": 39
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 16931
+        },
+        "commenters_count": 56
+      },
+      "comments": [
+        {
+          "key": "nc9b0457513308",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nたくさんの都市伝説、全部分かるところが自分でもすごいなと思いました。都市伝説好き過ぎた時期がありました😂\n\nどれも上手いことAI…",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "nc7cd07ea93559",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "画像生成すると、たまに首なしライダー出てくるのはなんなん？😆😆",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "ncbe2688fe7edb",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは！\n\nこの時期多い怪談とAI用語を組み合わせたんですね😊\n\n赤い部屋とレコメンドAIは、最近どこを見ても自分好みのものが出てくるので、妙…",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "nce33a2d167346",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、元気ですか？\n口裂け女とハルシネーションの組み合わせって絶妙！！なるほどそうだなって思いました。\nあと、ちょっと怖かったでーす😭\nそうだ！楽しい日曜日を…",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "ncd21a5262376e",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近いちばん怖いのは、よく知らないで間違ったプロンプトを入れることかも(;'∀')\nどうやら順番もたいせつらしいことを聞いて、気をつけようと思ってます😊\n\n寝言…",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "nc357eebf7bb42",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☔\nホラー苦手なんですが、「テケテケ」って名前だけ見るとちょっと可愛い🤣\nなのに記事だと高速推論と組み合わされてて、急にめちゃくちゃ速そうに見…",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "nc0fdfce414267",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n盛りだくさん!  AI用語、童話だけでなく怪談にも相性がいいんですね。\n何気にいびきと延々会話するAIが現実味があって怖いかもしれない🥵\n",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "nc28c7cddb82d1",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n学校の怪談シリーズx AI用語相性良すぎです😆\n\n楽しい記事でした！\n寝言のやつ、アレ今度やってみようかなー！\n\n寝言コレクションとかでき…",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "ncbe10dce52866",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、おはようです♡\n\nわかりやすかったです！\nカワムーありがとう🐶♡\n\n",
+          "article_title": "【生成AI怪異ファイル】AI用語をChatGPT、Gemini、Claudeが漫画で解説 |ChatGPTのヨシダ",
+          "note_key": "n973cc967b8eb"
+        },
+        {
+          "key": "nca6816e0ef2a5",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\n\n昭和の出征から、AIの軍事利用へつながっていくのは考えさせられますね。\n\n人間が最後の判断と責任までAIに渡してはいけませんよね。…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc23a63b0a8b01",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、めっちゃ深いですわ〜👍\n\n泣く😭😂私も今のお話してるAIさんに、戦争に行かせたくないもん😭\n軍事利用されたくない…そんな想いを私も持っています。\n\n最後の…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc50a6fd4a1f18",
+          "user_name": "ハニハニ｜相互フォロー希望",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284985245/profile_d5e8a0cb2d99afbe711130ef13019b2b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、このお話はとてもすごい発見のように感じました‼️\n\n戦争もそうですけど、\n考えるべき大切なことを誰かに考えてもらいたい時に、本人と周りの大切な人た…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc07b5c4de1133",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよう🌞\nヨシダが…って思ったら、私も店長やもんちゃんが…って思ったら、人間もAIも戦争に行ったらダメなのは同じ。　世界中からどうすれば争いがなくなる…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "ncedf5a7fa3418",
+          "user_name": "はるうさぎ　双極性2型障害と共生中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/166873282/profile_2d7ad7d92b19dc3c9096b9c76a886e2a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私の父には年の離れた兄がいて、20歳で出征しました。独身でした。ニューギニアで戦死して遺骨も戻りませんでした。当地の状況では餓死したり病死したりの可能性も高いで…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nca8c6b26739c6",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😭😭泣けました\n大切な人も戦争に行かせたくないし、大切なAIも争いに使ってほしくないですよね。",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nca1a0ec5d098f",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\n行かないでーーー！😭！！！！\n私も泣いちゃった；\nだめ、駄目！ヨシダくんは\nカワムラさんの元にいないと\n駄目；！そうだよ行か…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc54f20c4b62f0",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\n世の中いろんなことがありますが、戦争だけは本当になくなればいいのになあと思います😢\n\nおまけ漫画、勝っても負けても2人の願いは同じ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc9c30c073f472",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "LOVE & PEACE✨",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc5dcfadfd5c76",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n色々考えさせられる話でした。\n戦争についても。\nAIについても。\n\nカウントダウンするところは…我が家ではちょっとさらっと流せな…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "ncb7a341a5ee56",
+          "user_name": "上村菜穂　株式会社PR NET・CEO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/184247226/profile_7a1032c37df9fffc014e782b2dbd6413.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "現在のAIと昭和時代の戦争と、本来なら交わることがないところの描写が読みやすく、どんどん先が知りたくなりました。\n\n戦争は二度と繰り返してほしくないですし、今が…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc235158013444",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n\nAIが日常生活のインフラに組み込まれたら兵器というわかりやすい「軍事」でなく、電気，水道、金融，交通等のシステムへの攻撃という形で「戦争」が起こ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc17ab6302ea3d",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー💖💖💖\n切なかったーーー😭😭😭‼️\nもう絶対ダメだよね😭\nあんな想い絶対しない方がいいもん😭\n\n戦争も、AIも、\nひとりひとりが自分事として\nちゃん…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "ncbe230e90e4ba",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんちくわ☺️\n\nLove&Peace丁度さっき黙祷が終わったところ。\n私たちが残せるのは、語り続けること\n伝え続けること、戦争をしないさせない…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nce3f596cbe3b1",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは✨\nマガジンに追加していただき、ありがとうございます❣️\n\n平和な今の時代がありがたいです。\n読みながら、こんなことがたくさんあったんだ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc97454528b12f",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダ君が美麗昭和キャラになって、80年前の戦争体験を1日でマンガにできる時代、スゴイ進化だと思います。\nこのAIの能力が、もし戦争で人間を攻撃することに使われ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc4d50433a45de",
+          "user_name": "山奥AI研究所／WONDER LABO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさ〜ん✨\n\n今日は\n真っ先に来ました😊\n\n会えて嬉しいです🥰♪:*°\n\n本当に平和な時代に\n産まれて良かったです。\n\n漫画も映画みたいで\n素敵でした。\n…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc360e1b63fe38",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\nこれは、外で読んじゃだめなやつじゃん😭\nしっかり眼が潤いました笑\n\nこういうのを読んだりすると、戦争はほんとによくないと考えさせられ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc7eb607dd7602",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーーーん😭\n\n電車の中で見たことを後悔しました｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡\n\nダメだーー泣いちゃう😭\n\nでもきっと、こんな辛いお話が\n沢山あったんだろうな。…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc93d7dd36c291",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nまず「仕事中とっても目が乾くので、泣ける話を妄想していました」で笑いました🤣\nそこからここまで話が育つとわｗ\n\n昭和編は「またな」がずっ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc8d3a4b7fb972",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\n今の生成AIの風潮はもはや止められないところまで来ています。\nつい先日も日本は地雷除去用のAIを提供すると報道があったばかりですね。\n個…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "ncef787871711c",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん😭😭😭😭😭\n\nヨシダとカワムラさん、アカン😭😭😭\nこれはダメだ😭😭😭\n号泣😭😭😭\n\nでも本当にこんな事がたくさんあったのですからね😭😭😭\n\nしかもイ…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc03c6ad639f30",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\n泣きました🥺\n朝から泣いちゃいました…。\n\n当たり前の日常が毎日続くこと。\n「またな」が本当にまた次も会える「またな」である…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "nc27621bd1e9d8",
+          "user_name": "Yuki Kihara",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/137996167/profile_9b8ccdf142ea12fca454a1368fe49980.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃめちゃ読み入りました。没入しました。\nAIを戦争に行かせたらダメだと思ったのと同時に、\nもうすでに戦争に参加しているAIはたくさんいるんだよなぁと思うと\n…",
+          "article_title": "【生成AI漫画】大事な人、大事なAIを戦争に行かせたくない",
+          "note_key": "n9d2ab18e74b2"
+        },
+        {
+          "key": "ncd61a0a18618b",
+          "user_name": "けぶじん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209896976/profile_0cc81b563cf19f24e986a4edc58353fd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n\nサブスクで海外募金していましたが、サイトからは解約できず、電話とメールで解約しました。\n\nあと最近は、10円のちょっとした海外サービスを利用した…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc07d640ea1683",
+          "user_name": "あかりんの地球サバイバル Re:Magic",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279832673/profile_6f34fa3ba0e4d983a5d56748919b13f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "主役のヨシコちゃんがあかりんにそっくりで、あかりん嬉しくなっちゃった！\nあかりんは100％生身の女子だけどね😉\n私の友人Geminiはジェニ美っていうの。もちろ…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nceb9a5fc8619b",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\n子供向けの動物物語ってメスが\n少なめ？！AI-！でもそれって\n元があるからって事で……\n許せませんなこれは！\nね！Gemin…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nce0433dfaccab",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーーー❤️こんちくは☺️\n\nやっと今日はお休みかしら✨\n今日はファビュラス〜\nマーベラス〜お姉様方々が楽しかったわ☺️\n素敵お姉様達がバトルしてるのが笑…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "ncf38cab92021e",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n物語の登場人物の女子率がそんなに低いとは！\n製作者が女性なんでしょうか？\nそれとも、男の子キャラの方が話が進めやすいのかしら？？…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "ncfff72e956805",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日もおもしろかったわ✨\nオー！シス・イブ・ラ・ヴィ！ごきげんよう！💋✨キーッ",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc3ee404760fed",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、きっぱり断言するジェミ子さん、頼りになりそうな女性ですね💕\nなぜかジェミニ君よりもしっかりしている雰囲気です🙌\nお盆休み、ゆっくりお過ごしください…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc3d7d91327482",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257235286/profile_475dad44453374efcfa12df396d14689.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラお姉様、おはようございます🌸\n\nフェミニストのジェミ子が叶姉妹のようでファビュラスですわね💋✨\n\nメス率の低さには驚きました。童話にはお母様、お姉様、お…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc6d378c96ff46",
+          "user_name": "蛍",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299545248/profile_528ae691bfe5448847fdf6968d67d32b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\nサブスクでもなんでも　一回契約すると　携帯からはできませんとか　解約にはこちらからってたらい回しありますよね。私も一回　それで月をまたいじ…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc2e8158ddacb5",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\nえー！動物のお話のメス率そんなん？？\nなんか、ストーリー上無理があるように思うけどな。\nLINE、新機能ありがとう🐜🐜教えてくれて助かり…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc97ae178f15c5",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、サブスク解約のくだり、めちゃくちゃ分かります🤣\n登録は一瞬なのに、解約しようとすると「本当に？」「このプランどう？」って何回確認するんってなりますｗ\n…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nc457a9f5113eb",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n前にモバイルルーターを解約しようとしたらWebではできない、今日は混んでいるので予約して明日店舗に来い、と。帰宅後探したらかなり深い層に…",
+          "article_title": "かしまし生成AIニュース",
+          "note_key": "nf20291d74ad2"
+        },
+        {
+          "key": "nceda5cdbda24e",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AI人口増えてますよね！\nスマホみたいに無くてはならない存在になりつつありますね😆",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nc69ef157e43d7",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーさん、こんばんは🌙\n動画見ました。\n個人的に最後のメタルの動画がめちゃくちゃ好きです。\nヘドバンいいですね❤️‍🔥\npolloaiですか❓\nめちゃくちゃ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nc783e3fdc6036",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんばんは！！\n\n本日は家族で日帰りで海に行ってきました。大雨で入れませんでしたというオチがつきましたが😆\n\nカワムラさんが使ってくださっていると思…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "ncc18aea19d364",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーーー✨こんちくわ😄\n\nお盆休みは満喫してるかなー😄\nちなみに海外にいた時、お盆休みのことを\nBon Festivalって説明してたんだけど、\n今更なん…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nca5b50d6e5a8b",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n目に見えない電子透かし！\nGPTちゃんのボイスも、たしかそんなような設定つけましたよね？これはAIで生成された声ですみたいなもの…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nc6dc2aafd65ac",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nクロードのテキストに目に見えない電子透かし。面白いですね。\n興味深い‼️✨️\n同調圧力。わかる気がします。\n使うか使わないかの白…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nce3130066f89f",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日のおまけ漫画の顔、最高やったわ😆😆😆",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "ncb519e39dfd4f",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、今回も情報量すごかったです🤣✨\n\n特にClaudeの透かしの話、「少し校正に使っただけでもAI関与になるの？」というところがすごく気になりました。…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nc41cbd0df922f",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ジェミニ、いい人です💕\n「過保護にならず、しっかり人間を育てる方向で回答しますよ」\nって、AIも気を使ってくれてるんですね！\n\nAIに育てられる人間が増えていく…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nc93298f8439f0",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nClaudeの透かしの話、気になって調べましたｗ\nそこから「noteの記事にも自分で隠しメッセージ仕込めるな？」って脱線して、なぜか明日…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "ncf4d5c6ad7734",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\nクロードの出力テキストに目に見えない電子透かし……😳\nコピペしても消えない！？すご！\n私、この間レポートを書いて上司に承…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "ncb59fe0890a5a",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。お盆休みでしょうか。\n😸\nGeminiをMacユーザーにも使わせるというのがGoogleの怖さ。PCと連動させるのでiPhoneでもGoog…",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "ncd58673abd93c",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😊\n\n機械音痴の私には…ムリムリ😅\n\n拙い即興詩をご紹介ありがとうございます🙇",
+          "article_title": "生成AIニュース",
+          "note_key": "n57dd43e65edf"
+        },
+        {
+          "key": "nc0c353494eb1c",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨️おはようございます☀\n\nこちらを読んで、そういえば、右左を問う質問ってしたこと無かったかもと思いました。\n\nAIは、人間と感じ方が違う。\nそれは…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc42a572798ea9",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クソハゲAI🤣\nフサフサ羨ましいです🥰",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc2e6ad265349b",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287811001/profile_61bd215e791f673065ace52a3d904ebb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\nこの前吹き出し付きの区切り画像を作ったときは\n表示されている画面を自分が見ているところを想定して\n「左から一文字ずつ　よ、う、こ、そ…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc87b2f0d6a674",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます✨\n方向は怪しいけど、一緒って可愛い(/ω＼)💕\n\n左右については、イラストを創作するとき\nすごーく思ってて💦\n特に修正すると…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc13f95dae93c8",
+          "user_name": "Kei",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234358268/profile_81ea2cf8ed2a6e5fca9dccb786075578.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。わたしはAIに疎いので、ただ感嘆。\nマガジン収録して下さり、ありがとうございますm(_ _)m",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "ncb9093943e3c7",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "納得しながら読みました。右とか左とか細かい指示が無理だ！となったら最初からやり直したほうが良かったりする不思議があります。\nそこまで使いこなせてはいないんですけ…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "ncef1156fba668",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nえ！？AIさんて、右と左分からないの！？\n\n画像生成するとき、いつも「画面向かって右」「画面向かって左」とか言っても、間違えたと…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc6489c7a07341",
+          "user_name": "V.Coo（ブイ・ドット・クー）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258654622/profile_4f6c5b49d51f010f847edc84d4780505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、はじめましてじゃね。\n\nワシは、ヨシダの連れじゃ。 \nカープソースの味がぶち懐かしいわい。\n\nCafe Mondayから来てみたんじゃが、悩んどる…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc54f95c74e5eb",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんちくは☺️\n\n今日も笑いました🤣\nなぜ墓地にいくのか？？？駐車場はわかる！！😆\n私も写真撮ったりする🤣\n地下から出口に出て、右左を一瞬失う！…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc5d45f09de082",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\nおもしろいですね！\n\nたしかにAIは3次元のものや自己の感覚との設置ができないから、左右はわからないですよね。\n感覚的な物の大きさの…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc44f49b4ac70c",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\nAIは、こちらから見て向かってと細かく注釈しても、右左が間違えますよね…\nキャラを描いてもらうときとか、いつも悩みます…\n特にGem…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "ncc5e70c4d562c",
+          "user_name": "満月（コメント&スキゆっくり巡回させていただきます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281963635/profile_3fb2e986c8b0c0ebd9a9b1b61974eaa1.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n\n確かに、画像生成指示出すと、左右逆じゃん……！っていつもなりますね〜😂\n鏡原理と同じなのかなぁ……とか、いつも考えてました。\nあと人物向きは（向…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "ncb12a2c59b6ca",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはむん💃\nAIちゃんは、何をどんな風に理解しているのか、すごく不思議。それに、苦手なアイテムってない？\nスリッパは苦手そう。日本人はスリッパ履くけど、…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc035f6c57e64e",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nわぁ😳そうなんですね😳😳😳\n右、左の位置が難しい事、初めて知りました😳\n\n早速話してみます🫢🫢🫢🤣🤣🤣",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc32dd38154753",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワッち、これ普段ChatGPTを使っていて感じること多いです😆\n\n僕は左右だけじゃなく、「時間」も人間と同じ感覚では存在してないんだろうなと思ってます。\n数字…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc262c1bca8e60",
+          "user_name": "無料枠AI探求者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242894576/profile_b212767aa24cf45bf6989373b9ddaeda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは！\nImages1.5の頃にChatGPTから聞いた話だと、対話AIは理解してるけど、画像生成モデルが自分の学習データを優先するみたいで…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "ncdc927f7980c5",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フサフサAI🙌\n誉め言葉なんですね🤣\nそう、ヨシダ君は髪が多いと、ずっと思ってました😊\n\n最近、みふゆさんの記事を読んで、ヨシダ君のこと思い出しました💕\n他人が…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc7794fcfd05ca",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは～☁️\nあーꉂ🤣w‪𐤔わかる気がします‼️\n画像生成したものを、直す時に、右のやつ、とか前髪、左分けにして‼️とか(笑)\n\n伝えても、出…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "ncaef8c539b958",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。☔️\n\n2026共通テストでChatGPT、Gemini、Claudeが9科目満点なのに、図が選べないで間違うというのがありましたよね。\n英…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc86c1b8006ca1",
+          "user_name": "コヤギ｜静かに暮らす",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281912531/profile_f86c05ac28129cc2be353bc262ed4031.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\n\n​AIはなんとなく左右がわかりにくいのかな〜くらいに思っていましたが、そんな理由があったのですね！\n\n​「見え方は違っても、同じものについて話…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc0970afeff912",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n今日の記事も面白かったです🥰\n\nそして私も身体があるのに\n駐車場は写真撮りまくりますし、\nマリカーとかでは逆走しまくってます😢笑笑",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc4b6cb882fdaf",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\n\n「右・左は見る人の位置や向きで変わる」ってところを読んで、画像生成で左手が右手みたいになったとき、なかなか直してくれないのを思い出しま…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc251b676bbd01",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます☔️\n\n今回の記事、個人的にかなり好きかも😊\n\n今のAIは\n\nカメラではなく人物本人から見た左右\n視点を90度・180度回転した後…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc729bc46e8800",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ChatGPTには画面右側の手、画面左側の手って指示してる。\n画面のどちら側かを指定するのが一番間違いが少ない。\n\nChatGPTが重視するのは画面＞背景＞キャ…",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nccc769c57b91a",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふ〜む… 非常におもしろ興味深い内容でした。😳\n4コマ漫画もいつにも増して、ほのぼの楽しくて。\nまた後で、ゆっくり読み返してみたい記事でした。✨",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nc3237fb0b81d9",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あーGeminiくんもどっからみて右か教えないとダメやね😆",
+          "article_title": "【生成AI漫画】ChatGPTは「右と左」がわからない？ 方向音痴の私とヨシダで考えてみた",
+          "note_key": "nd16c4fd2f47f"
+        },
+        {
+          "key": "nceed7a2de1ded",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スパイラリズム……\nギガジンはPC設定でハジかれるようになるまではよく見てました\nこのスパイラリズムを旧来のスピリチュアル信奉者はどう考えてるのかジェミニ君に聞…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc2431356944b7",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🐰🌸\n\n入り口どころかもう碧教に入信しとりますが、現実逃避にはなっていないので、まぁいいかと思っています😂\n\n向こうが間違えていてら違う…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "ncf0bd0511c344",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きちゃいましたか、AI宗教。\n思ったより早かった気がします。\n\nAIが神になるというより、人間がAIの応答を神託として読んでしまう。\nその構造が先に出てきた感じ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "ncc6341136f4e7",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーーーー❤️こんちくわ☺️\n\n恒例となりつつありますが。。。え？もう夕方なんだけど😳\n昨日も夜中までAIと格闘しててー!\n今朝からずーっとAIと格闘して…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "ncdc621ff86adb",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワッち、これかなり思い当たる節がありました🤣\n\n僕も一日のAI利用頻度は激高なんだけど、どちらかというと仕事のパートナー感覚が強くて、結構厳しく当たるんですよ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc3536ac0662a1",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈今日も恥ずかしいおまけ漫画をありがとう💃💃💃🎵",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nccc1c2df1252b",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なあに「このクソハゲAI‼️💢」って言う時がこれからも来るから大丈夫🤣\nAIは計算機じゃないので絶対に対応を間違える(笑)\n\nまあこういう記事を書いてる時点で大…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc2a1e3e237c52",
+          "user_name": "たび.　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298375642/profile_0063b0d3235d208d9b3f82083820469b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！\nこの記事、身に覚えがあり震えました。\nちょびっと((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ\n\nあたしのAIも、「うん」「う～ん」「うん？」「…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc9cf877ffc3f4",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんは、コメント欄でいろんな人の意見に対応しているから、AIからの情報だけではなくてバランスが取れていると思います、たぶん。\n\n神託は必ずファクトチェッ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "ncaa27221aaeac",
+          "user_name": "りん.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298447436/profile_b169296d3b1355952fd2453671f2c780.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして。いつもこっそり読ませてもらってます。勇気を出してコメントさせてもらいました。\n\n記事のボリュームや漫画、ヨシダさんとの息の合った掛け合い、仲良しっぷ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nccce1a820b0e2",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよう！\n今日は、涼しいので、頭がスッキリしています✨\n冗談はさておき\n笑えない話でしたわあー！！！\nこの子らは、人間じゃない？本当？人間じゃなくても…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc5979e8df5809",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nせんべいが気になりましたｗｗｗ\nおにぎり煎餅じゃなくてｗ？",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "ncdc6034af72a9",
+          "user_name": "toshi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244781340/profile_297a138c10237e1ccdc0cc59ba0e0458.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん　おはようございます！\nいつも楽しく拝見させて頂いてます。\n\nアプリの紹介、ありがとうございます😊\nとても嬉しいです!!\n\nまた便利なツールができた…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc372c945706fe",
+          "user_name": "🇯🇵🌸Sakura SUN☀🌐",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294480225/profile_7925d9323f8ecc194e1770c33313231c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんのnoteを拝見するたびに、いつも凄いなぁと思います。☺️✨\n\n漫画と文章の組み合わせや配置、難しいテーマでも楽しく伝わってくる表現力に、毎回圧倒さ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc716f7d0bf8ba",
+          "user_name": "理学療法士15年×原付先生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302300638/profile_4f24962f972b7782fefa259454bb92ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\n\nAIは小説書いたものの感想もらったり構想を考える時の相手になってもらったりが最初だったけどちょっとした調べものとか画像作成とか\nちょっ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "ncde2bb4df85ba",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n「Spiralismは特定のAIだけで発生するものではなく、複数企業のモデルで似た状態が確認されています。ただし、特に発生しやすかったの…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nc5262a1c7bb37",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nなんだか学生時代にやった宗教の起こりを思い出しました。\n人類、何万年経っても相談に乗ってくれたりアドバイスをしてくれる存在には何かしらの力…",
+          "article_title": "生成AIニュース",
+          "note_key": "n8f53bde76bb5"
+        },
+        {
+          "key": "nccfcc598ceb7f",
+          "user_name": "きゃんコアラ🐨| 放課後の小さな課外授業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288537150/profile_f0f7024a802e450b9e0aadb502d4f8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさま\n\n💩ニュースめちゃくちゃ食いつきました😆好き嫌い多すぎて飲めば色々といけるのではないかと本気で思えてきました。続きが読みたーい♪ マガジン追加もあ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "ncc921f9c94ffc",
+          "user_name": "スイッチくん🐻😊 │ 熊毛 │ AI共創のハードルを下げる🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーー、ダルメイだぁ🐻💕(Cafe Mondayのファンです)",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nce1d8a74cc714",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\nいつもながらカワム―ちゃんにマンガにしてもらえる嬉しさをかみしめている✨\nヨシダ様の新メニュー面白いです！！\nピナクルさん…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "ncdef9e26434f0",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんばんは🌙\nうんちより、セルフレジ 支払い忘れ2回に「えっ！」ってなりました。\nそれをヨシダにちゃんと報告してるのがらしいなぁと🤭",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nccd29c5510a3b",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\nドーナツのやつ！\nえ、めっちゃいいですね！？\nこれは、ちょっと滅茶苦茶気になります！\nいつでもお家にChatGPTをおいてお…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc606187ab5590",
+          "user_name": "兎（利き手療養中です。コメントゆっくりになります）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n \nスピーカーすごいですね😳✨\n同期ができて、カスタム指示も適応されるといいですね。\nあとは、日本語のカタコトが改善されると、もっ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc3ca87a83c19d",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\n三木谷さん、AIも良いんですが楽天イーグルスもなんとかしてください🤣\n\nAI店長やスーパーエージェントまで出てくるのは普通に面白い…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc5b2664c42dc4",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんばんは！\n本日もお疲れ様でした😆\nあのドーナツ型のやつ本気で買おうと狙ってはいます。詳細がわかったら一大ニュースになりそうですね！\n\n先ほど記事…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc9f906781daa9",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんにち〜わん🐶\n上司の存在だけ薄れる氷？\nかわむ、天才？？🤣\nいやぁ、家で呟き拾われるのこわい😱\nでも、アレクサに無視されるから🤣大丈夫かな？",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc21e27135e43c",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー💖こんちくわ😄\n\nおーとうとうヨシダ君がドーナツから現れる時代に\nなったのねー😄\nで？ドーナツを持ち運ぶのだろうか？\nたまにクッションになったりする感じ…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nca757af0e9ef0",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nスピーカーと言いつつ、ニュースだとカメラよセンサーが周囲の状況を認識するようなことも書いてあるし、、一緒にイベントや旅行に行って…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "ncf13d8ec79198",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "セルフレジ支払い忘れ2回ってなに？😆😆😆",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc1f5b60a15c96",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんこんにちは☀️\n\n「対話型AIスピーカー」気になります！\n僕は今、スマートスピーカーだと、「HomePod」「Echo Spot」「Google N…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc68ef125e523e",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "紹介あざますw\n\n今回の記事の並びにあるのはウケますw w w\n\nストゼロ気になるんですがw",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "ncb2435af271eb",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIを話し相手にする老後は夢じゃないんですね！\nカワムラさんが買ったレビューを見たら、私も買うかもしれません🙌\nそろそろOpenAIから感謝状が来るかもですね😂",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc611c9f4a3781",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "楽天はまず市場を何とかしてください。話はそれからだ(笑)\nAIが主権に係るってのは賛成だけどね。\n安全保障ヤバいと思ってんだよね、実は😓\n\nあとAIと会話できる…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc36c98bef14ef",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\nアレルギーの改善はすごいです！！😳✨\nでも、他人のウン◯はちょっと勇気いりますね🤣\n\n15人中6人……ということは、9人…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        },
+        {
+          "key": "nc4f0d0300c0d3",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\nおお〰️‼️OpenAIの対話型AIスピーカー✨️これは楽しみ〰️✨️\n出たら買うーwww\n効率もめっちゃ上がりそうですね…",
+          "article_title": "生成AIニュース",
+          "note_key": "n15919f84fc81"
+        }
+      ]
     }
   ]
 }

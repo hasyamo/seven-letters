@@ -1381,6 +1381,61 @@
           "note_key": "n0e75ffc948ca"
         }
       ]
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 442,
+        "likes_prev": 416,
+        "followers_start": 5179,
+        "followers_end": 5487,
+        "new_fans": 140,
+        "comments_total": 4,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:14",
+          "10:49"
+        ],
+        "top_article": {
+          "title": "『透明なガラスの器に広がる、夏の夢』-それは、見る人の心に涼やかな風を運ぶ、ひと匙の魔法。- ｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n2db24da8909f",
+          "likes": 113,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 16241
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "nc38418451d68b",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": ",お疲れ様です。投稿拝見しました。かき氷の女の子、涼しい感じですね。\nあと教わった動画作成、作ってみました。新番組　快傑アソシエイター\nに埋め込んで見ました、",
+          "article_title": "『透明なガラスの器に広がる、夏の夢』-それは、見る人の心に涼やかな風を運ぶ、ひと匙の魔法。- ",
+          "note_key": "n2db24da8909f"
+        },
+        {
+          "key": "nc2b6ed4b221f7",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！\n\nご紹介いただきましてありがとうございます。\n\nYouTubeの分析ですね\n\n感情のフック、キャラの固定とストーリー・・・\n\n動画・・・…",
+          "article_title": "『まいか🐇のユーチューブ応援共同マガジン』-ユーチューブ始めて1ケ月が経ちました。- ",
+          "note_key": "ncb85d81542cf"
+        }
+      ],
+      "rare_no": 5
     }
   ]
 }

@@ -1737,6 +1737,86 @@
         }
       ],
       "rare_no": 2
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 273,
+        "likes_prev": 409,
+        "followers_start": 589,
+        "followers_end": 597,
+        "new_fans": 84,
+        "comments_total": 10,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "08:01",
+          "09:37",
+          "07:37",
+          "23:02"
+        ],
+        "top_article": {
+          "title": "note有料記事の「使い方」｜稼ぐだけじゃない3つの大分類と13のパターン",
+          "key": "n5572e4f23296",
+          "likes": 62,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "reika1021 🎈",
+          "urlname": "reika1021",
+          "follower_count": 14100
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc338324da8137",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n有料記事を分類すると結構いろいろなパターンがあるんですね。\nまとめ記事ありがとうございました。",
+          "article_title": "note有料記事の「使い方」",
+          "note_key": "n5572e4f23296"
+        },
+        {
+          "key": "nc49c142163bfa",
+          "user_name": "そっとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206061612/profile_ba412f6971d5f160a7d790bccc58ba49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ここまで体系的にまとめられているものは初めて見ました。\nねこはY1と、実はY3の記事もあります。\nY2はざっくりと「交流型」と認識していましたが、細分化するとけ…",
+          "article_title": "note有料記事の「使い方」",
+          "note_key": "n5572e4f23296"
+        },
+        {
+          "key": "nc82cbbbb1b7dc",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは👋\n\nめちゃくちゃいろんなことにチャレンジしてますね✨\nキーボードの配列を変えるなんて、難しいですね。指が無意識に動きますから😅\n\nそれで…",
+          "article_title": "習得が先か、発狂が先か。「大西配列」の特訓で指を震わせる夏。",
+          "note_key": "n67196d8052ab"
+        },
+        {
+          "key": "nc0b117dba3975",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、お疲れ様です〜🌻✨\n\nチャレンジ量が半端ない！😂\nいったいどうやって生活まわしてるんですか🤣\n\nあと、ドイツ語しゃべれるんですかー！？👀\nそれもすご…",
+          "article_title": "習得が先か、発狂が先か。「大西配列」の特訓で指を震わせる夏。",
+          "note_key": "n67196d8052ab"
+        },
+        {
+          "key": "nc238e4b4b7630",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298447523/profile_d93afab915847ca4b24ed6aa6a16c29f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n濃い５ヶ月ですね、多くのことを学ばれていらっしゃって凄いです。\nこの記事を読んだあとに、私の５ヶ月は恥ずかしくて話す気になれません🫣\nドイツ語、ち…",
+          "article_title": "習得が先か、発狂が先か。「大西配列」の特訓で指を震わせる夏。",
+          "note_key": "n67196d8052ab"
+        }
+      ]
     }
   ]
 }

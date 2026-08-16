@@ -702,6 +702,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 7,
+        "likes_prev": 2,
+        "followers_start": 510,
+        "followers_end": 510,
+        "new_fans": 4,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "Naota_t",
+          "urlname": "naota_t",
+          "follower_count": 2769
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

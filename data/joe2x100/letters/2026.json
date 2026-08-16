@@ -797,6 +797,51 @@
         }
       ],
       "rare_no": 7
+    },
+    {
+      "week": "2026-W33",
+      "period": {
+        "start": "2026-08-10",
+        "end": "2026-08-16"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 158,
+        "likes_prev": 153,
+        "followers_start": 730,
+        "followers_end": 751,
+        "new_fans": 41,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "11:14"
+        ],
+        "top_article": {
+          "title": "【AIの恩恵を価値に換える魔法】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.54",
+          "key": "n53bf0040be47",
+          "likes": 59,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "こっぺぱん",
+          "urlname": "masato2855",
+          "follower_count": 11754
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc091d899b491a",
+          "user_name": "AI紳士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230980124/profile_236f99f4d4696d7004ba81b519830676.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "僕も大昔に漫画を嗜んでいた時は部屋にａｎａｎとかありましたww昔はネット環境が家に無くて民族衣装の本とか、高くても買ってましたね。\nそういった資料等でリサーチす…",
+          "article_title": "【AIの恩恵を価値に換える魔法】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.54",
+          "note_key": "n53bf0040be47"
+        }
+      ]
     }
   ]
 }
