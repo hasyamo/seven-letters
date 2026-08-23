@@ -4602,6 +4602,130 @@
           "note_key": "n4eb9a3af4a9a"
         }
       ]
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": true,
+      "stats": {
+        "likes_total": 338,
+        "likes_prev": 279,
+        "followers_start": 712,
+        "followers_end": 719,
+        "new_fans": 61,
+        "comments_total": 22,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "私は、初心者を卒業しない。🔰永久初心者目線が、私の武器になった話。",
+          "key": "n0535bc18c649",
+          "likes": 44,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 14865
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nc04810e247a19",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🥰\n今回、私のサブアカの記事をご紹介くださって、本当にありがとうございます💗\n\nしかも、1000人近く鑑定されてきためじゅさんに、あのプロンプトまで見…",
+          "article_title": "なんでめじゅは、占いの「矛盾」を消さないんだろう？🤔",
+          "note_key": "nfc5fe06beb83"
+        },
+        {
+          "key": "ncfcdf07ff12d3",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298054265/profile_067db9ce36487e0127332ba8086ac1e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いや、これいい話！！\n\nわたしは何で？\nじゃなくて\nどして？？\nって何でも気になっちゃう「どちて坊や」なのww\n\n知らないことを知るってすっごく楽しい～～！！",
+          "article_title": "学生諸君、数学を楽しみたまえ。物理で遊ぶのじゃ。🤣",
+          "note_key": "nd2d0fee56d8a"
+        },
+        {
+          "key": "nc804afe3656e4",
+          "user_name": "でかも(de.🦆)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264187959/profile_8fc902ebbd0044ceaa19f501cb733fdd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは🪶\nあれ…これ…それ……\nそれです。で通じていたのがでかもの数学？？\n本当は算数からやり直し組です💦\nめじゅさん、ありがとうございます🌻とてもうれしく…",
+          "article_title": "学生諸君、数学を楽しみたまえ。物理で遊ぶのじゃ。🤣",
+          "note_key": "nd2d0fee56d8a"
+        },
+        {
+          "key": "nc6ae6d5cac4a5",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "感情型は、\n\n「この人だから読みたい」\n\n技術型は、\n\n「この人の情報だから役に立つ」\n\nこの解説で、やっとこ、わかりました🙌",
+          "article_title": "技術が足りないと思っていたら、「あっちとこっちが手を繋いでる」のが見えていた。",
+          "note_key": "n2eb4e00c6801"
+        },
+        {
+          "key": "ncb302f7dc982e",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよー(*´ω｀*)\n\n私も自分がよく分からなくて最近は創作方面行こうとフラフラしてます(∩^o^)⊃━☆ﾟ.*･｡\n\n私は一体どっちなのだろうか(っ ॑꒳ …",
+          "article_title": "技術が足りないと思っていたら、「あっちとこっちが手を繋いでる」のが見えていた。",
+          "note_key": "n2eb4e00c6801"
+        },
+        {
+          "key": "nc2d0af377e341",
+          "user_name": "そらとうみ｜そらぴぃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\nこんにちは😃\nめじゅさんが\n感情型とは？\n私からどちらかと言うと\n技術型なのかと\n思ってました🤭\n\n難しいのは\nわかりませんが\n未知の世界で\n興味深…",
+          "article_title": "技術が足りないと思っていたら、「あっちとこっちが手を繋いでる」のが見えていた。",
+          "note_key": "n2eb4e00c6801"
+        },
+        {
+          "key": "nca0725e4f696d",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私の記事はずっと難しいって言われてますよねw\n\n全く治せないので、すごく助かりますwwww",
+          "article_title": "技術が足りないと思っていたら、「あっちとこっちが手を繋いでる」のが見えていた。",
+          "note_key": "n2eb4e00c6801"
+        },
+        {
+          "key": "nc199bf53d23ea",
+          "user_name": "ヘクたろー|緑内障でも「面白い」を残したい男",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます(*≧ω≦)\n\n一度自分の中を更地にしてから始める、その姿勢が素敵だなと読んでて感じました！\n初心者の時の気持ちを忘れずに、そこに…",
+          "article_title": "私は、初心者を卒業しない。🔰永久初心者目線が、私の武器になった話。",
+          "note_key": "n0535bc18c649"
+        },
+        {
+          "key": "nc860303819e48",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございます😊\nわかります‼️\nわたしも同じような目線でものづくりをしたいなあと思っています\nできるだけ迷わないようなUI\nわからないさんは、…",
+          "article_title": "私は、初心者を卒業しない。🔰永久初心者目線が、私の武器になった話。",
+          "note_key": "n0535bc18c649"
+        },
+        {
+          "key": "nccfda3a4a3265",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、これって実はすごく大切なことなのでは…？と思いました😳✨\n\n昔は職人さんの世界でも「技は見て盗め」なんて言われていましたよね。\n\n誰かのやり方をよく…",
+          "article_title": "パッチワーカー、あながち大ぼらじゃなかった。",
+          "note_key": "n4570d809abf1"
+        }
+      ],
+      "rare_no": 3
     }
   ]
 }

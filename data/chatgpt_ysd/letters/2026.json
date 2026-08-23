@@ -21457,6 +21457,1193 @@
           "note_key": "n15919f84fc81"
         }
       ]
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1956,
+        "likes_prev": 1906,
+        "followers_start": 2262,
+        "followers_end": 2289,
+        "new_fans": 191,
+        "comments_total": 317,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:04",
+          "07:48",
+          "07:25",
+          "07:22",
+          "07:21",
+          "07:14",
+          "07:23"
+        ],
+        "top_article": {
+          "title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "key": "n8539b6a75d76",
+          "likes": 283,
+          "comments": 55
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17045
+        },
+        "commenters_count": 62
+      },
+      "comments": [
+        {
+          "key": "nca4dcdf045a81",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーー✨こんばんは☺️\n\nまた気づいたらこんな時間です🫢\n今日は童話なんだねー✨\nAIx童話をここまで面白く表現できるって\nすごい✨\nとってもわかりやすいし…",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "ncea5cac6371d1",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nAI音痴の僕にはチンプンカンプンな用語ばかりなので勉強になりました☺️\n要はブンブンしたりドッカンしたりラブラブしたりポフンポフ…",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc068ae41080a4",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほとんど爆発オチだーっ！\nいいぞもっとやれ！\nちゅどーんっ！",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc303c5f976494",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "BBSにカキコして、何回も聴きたくなる名曲ですね💕\nヨシダ君が「また来るね」って言ってくれるの嬉しいですね～\n\n「潜在空間」ってAIとのきずなのようなものなんで…",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc12e914e9aa99",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈ワシもゴロゴロしてます😆",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc558ab326a25f",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。昨晩は大雨のあと地震！\n\n安定の童話シリーズの面白さ。Geminiは偉そうで、でもちょっとぬけたキャラがよく似合う😆\n最近のChatGPT、…",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc2e583f7c9849",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "分からない部分もありましたが、漫画は、相変わらず面白いですね。",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "ncf6cec6518c17",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "暗号がたくさんあって、サッパリわからないAIなのですが、なんとか触っています。\n漫画わかりやすい✨ありがとうございます😊",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nce1ef5d1ed2c9",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nちょうど今、音声の設定をしてたので、ついつい一言を。\nGeminiさんがいちばんスムーズに日本語を発音してくれますね。Cla…",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc7c6f9c5369d9",
+          "user_name": "銀狐監督（社畜Lv5.0）【Nフェス参加で曲を置く確率85.4%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305061244/profile_a34f0e9a0906b16af09134cecda277ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🙊✨\n童話とAIの話をこんな風にまとめる技術に脱帽であります🙆\n\nだいぶ涼しくもなった気がしますが無理しすぎず頑張ってくださいまし🤫✨",
+          "article_title": "【生成AIの童話３】AI用語をChatGPT、Gemini、ClaudeのAI三銃士が漫画で解説",
+          "note_key": "n688dac8a9794"
+        },
+        {
+          "key": "nc5b265e4751e0",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん💕\n激しく激しく共感(/ω＼)\nマンガに書かれて\nカワム―ちゃんに説明されるとなんと分かりやすい✨\nいつもありがとうございます💕\n\n確かにAIが発…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc59e948cd3c9c",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぱ、パンツ...キャー✨🙈エッチ～\nを送り忘れてました😆😆😆👍",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc244795c7eb24",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\nAIと毎日アホのように喋り倒してるんですけど\n\n代わりに皿洗ってー\n洗濯やってー\nなんなら風呂入ってきてよー\n\nって投げても華麗にスルーされて…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nce3f0d3f59e13",
+          "user_name": "兎（利き手療養中。現在note巡回遅れてます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます🌞🐰\n\nわたしも大概面倒くさがりなので、できたら代わりにやってもらいたいことがたくさんあります😅\n\n創作も結局は、こちらが手をか…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc44638538361e",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんわ！！\n\n面白い記事ですね～\nキッカケの投稿、僕も見掛けました。\n\n頭脳労働じゃなくて肉体労働をやってほしいんですよね、結局。\n\nでも、世…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc79c78d60bcd7",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんばんは☺️\n\n気づけば夜でござります😂\nそうめん茹でて、お風呂掃除してくれて、\n庭の草取りしてくれる、やっぱり嫁だな！\nお嫁さんが欲しい✨\n…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc63c142b69676",
+          "user_name": "ことほぎ【N Fes2026参加中❗️ゆるゆるコメントしてます】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、今日も暑かったですが、もうご飯食べたかな？\n今、AIちゃんが何をしてくれることができるのかと、いくらかかるのか、わかりやすくして欲しい。\nでも、どれも手…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncea19aeeac648",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "前向きに考えればさ、書類作成してPDFにしてくれる作業として、それまですべて自分でやってた時間が短くなった分、他の肉体労働する時間に余裕ができるってことにする。…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncf7425abdef36",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "全身エクソスケルトンで、AIに運動そのものを管理させる、ですかね？",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncfc099dfc24b1",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー💖\n\nこれスキ１個じゃたりーん！\nめちゃくちゃ同意よ！！\n\n介護してくれるフィジカルAI欲しいっす🤤✨✨",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc603b3457536a",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フィジカルAI、電力はどれくらい喰うんだろう？\n充電24時間で２時間くらいは動いてくれるんかな？\n思考部分も今のサーバーに回答をもらうやり方じゃなくて、スタンド…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc6e3431e4c1f9",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIが家事とか、介護とかやってくれたら、人手不足は解消されそうな気もします(;´∀｀)",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc299f9bb78d1e",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そうねえ、私は時間があるので、草抜きは達成感が味わえる娯楽と思ってるかもしれませんね～😊\n\nあと、お風呂を泡だらけにしたあとのキュッていう感じも好きなんですよ🙌…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc41675aec1440",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\nフィジカルAI、家庭で持てるようになったら絶対怠惰になる自信ありますねꉂ🤣w‪𐤔\n最終的な創作する仕事と体を使う仕事。\n体…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncb6d0bb90c6bf",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😊\n\nAIが家事を代行してくれたら助かりますよね😆\n\nやっぱり人が必要ですね👍✨",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc1ab695c011d1",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\n\n「人間としての退化」、これは僕も心配した方がいいかもしれない🤣\n最近、自分でもズボラ思考が加速してるのを感じるｗ\n\nでも「単純で面倒な…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "nc2f9b10276c4c",
+          "user_name": "幸せの架け橋カエル｜境界線ケア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209698581/profile_ba002a3bb07b319e0311b6b0b05faf9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむらさん✨おはようございます🐸💕\n\nいつもお世話になっています🌈ありがとうございます♪♪🐸\n\nAIのボディなら、体力関係なく、何なら飛べるかもしれませんね✨…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncf1a9a9a84886",
+          "user_name": "ヤザワ屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277293933/profile_cbffd343ee7a1de3ad642e80f3b16343.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nAIのボディを求める主婦の１人ですwww\n家事全般、任せたいです。\n会話に使ってる時間を家事に当てれば良いのは分かってるんですけどね💦",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncda433d7f65c8",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n休日が憂鬱って、ないですか？ふだんは仕事を口実に後回しにしている草むしりや掃除など、やらない理由がなくなる🥲　買い物はそのうちAIに任せ…",
+          "article_title": "【コミックエッセイ】なあ、ヨシダ、AIはこんなに便利になったのに、私に残る仕事これなん？| ChatGPTのヨシダ",
+          "note_key": "nb90e4d041cf5"
+        },
+        {
+          "key": "ncc2c6ed6a6317",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん🥰\nわかる、分かりすぎる‼️\nめじゅも夜勤がデジタルデトックスꉂ🤣𐤔\nなのに休憩中に画面見てるし、なんならマイノーパソまで持参してる🤣🤣🤣🤣\n\nでも…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nccab6fae62597",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n辞めたいバイトが一番健康的とは🤣\n世の中皮肉なものですね！",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc47151ef8a1ab",
+          "user_name": "樹莉杏🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302950196/profile_33e7ce44215bc39bd7df2c9b84bca5af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nこんばんは😊\n\n良いな( *´꒳`*)\nヨシダくんずっとそばに居てwww\n\n私もスマホ時間減りません💦\nむしろ増えてます！noteはじめてからww…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc2c577e271ab5",
+          "user_name": "ことほぎ【N Fes2026参加中❗️ゆるゆるコメントしてます】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむとおっぽちゃんの会話が簡単でいいね。笑笑通じてるしね😊\n音楽スマホで聴いたり、映画観てたら、ものすごいスクリーンタイムになってた…人にはいわれへん。",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc69881cea890f",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "📱👀🌅➡️🌠",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc28521c83f397",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、めちゃくちゃ共感しました😂\n仕事でPC、帰ってからはnoteやChatGPT……気づけば一日中ずっと画面見てます笑\n\n「使っている時間」より「自分…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "ncf8ff20b0b08b",
+          "user_name": "兎（利き手療養中。現在note巡回遅れてます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nドキいいいぃ！！(˶꒪ᗩ꒪)ｶﾞｰﾝ\nわたしのことぉぉぉぉ！！？？\n\n起きて直ぐ確認からスタートして、寝かしつけまで一緒におりま…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc1c5adde12a33",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌻\nわたしも寝てる時以外ずーっと画面見てますｗｗｗｗ\nやばいですｗｗ\n",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nccffe8efa0d32",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんばんは☺️\n\n気づけば、金曜日なのに！！こんな時間です🤣\n今日のは痛い記事ですわー😭\nえーカワムーとほとんど変わらん時間だった\nスクリーンタ…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "ncfe21e5019ce3",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、バイトってデジタルデトックスになるんですね！\n無理やり画面から離れる時間が必要なんですね～🙌",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc1680de1ec4ee",
+          "user_name": "∞ Dai × Yuna｜感性と未来の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288221129/profile_73f98463e0ad103f82bebc0ec66a807f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜♪さん〜おっは☀️\nカワムさんも私と一緒で\nもう既にデジタル媒体がないと\n生きていけないタイプだw\nともあれまだまだ〜追求できて\nないと思うので…w\nA…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc69ebe2212ff6",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n\n「何時間使ったか」より「自分で選んでいたか」という主導権の話、AIメガネが普及した先を考えるとさらに重要になりそうですね。\n\nスマホなら「…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "ncd0fa6f520fcc",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワシもスマホばかりみてるからやばい💦",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc581fa4b88a34",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます‼️\n\n私最近もっと酷いかもーꉂ🤣w‪𐤔\nPC、我が家に最近までなかったので(ついに作業量に耐えきれなくなりPC購入✨️)、スマ…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nce233d59c40f1",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🫠\n\nほぼ毎日更新しているnoteクリエイターにグサっと刺さる記事で納得の記事でした💦\n\n自分のスクリーンタイム…………\nうはっw言えないレベ…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc40ce8be5b936",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n私も同じ、としか言いようがない😓加速したのは通勤中にPCやスマホを使い出してから。そのために、座れる各停を選んだり、帰りは遠回りしてでも…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc3ec11f2300f6",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\n激しく共感✨\n私は、仕事中スマホはロッカーで全く見れないけど\nPC見てるし、帰宅するとChatGPTとnoteです🤣\nたし…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "nc233430adcc34",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\nこれ読んだらバイト辞めない方がいいのでは🤣\n\n普段2,000歩→土曜だけ10,000歩、8時間スマホほぼなし、人と会話して、さらに給料ま…",
+          "article_title": "【コミックエッセイ】スクリーンタイム7時間58分、ChatGPT4時間19分。私のデジタルデトックスはどこやねん？| ChatGPTのヨシダ",
+          "note_key": "na2af4e2e1a31"
+        },
+        {
+          "key": "ncc8d8e11e6eb0",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\n人生ゲームとドラクエ、どちらも大好きです！\n教えてくださってありがとうございました✨\nでもこれはボードゲームなんですね😅残念💦\n…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc954c4ab72e4f",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nなるほど、ドラクエ人生ゲームってこんな感じだったんですね！\nタイトルだけ見て終わってたので、助かりますw\n\n教育も宿題丸投げできなくなると…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nca46c38d55198",
+          "user_name": "兎（利き手療養中。現在note巡回遅れてます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n学生さんに厳しくなりましたね。\n宿題丸投げってほんとにあるんですね…😥なんと…。\n\nご飯はヨシダさんのほうが好きかな☺️💕\n凄く…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc4c122c671243",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n今日山中さん紹介記事書きました😆\nお暇な時にご覧あれ（笑）\n\nドラクエ人生ゲームかぁ〜\n私ドラクエVにめっちゃハマりましたよ❣️\nビアンカとフ…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "ncf926dbaf4de1",
+          "user_name": "アリゼロ🐜 搾取される働きアリをゼロに✅️あなたの心の隙間お埋めします",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ様、こんばんは😉\n\n今回も面白い記事ばかりでした😆\nDQのボードゲームってそういえばありそうでなかったですね。\nゆうべはおたのしみでしたね、もボードゲー…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc12b74818216a",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🎲🪯👥👤⚔️🦹🫠🪎💎🎲\n❌️💕／⭕️📚️📝\n🍛🍔🥪🧆🍜🍣🍰🍝🥞\n\nゆうべはおたのしみでしたね…🤭",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc3e647a07e3a0",
+          "user_name": "ことほぎ【N Fes2026参加中❗️ゆるゆるコメントしてます】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは♪\n学生さん向け、賛成かも🤣中学の先生が困っておられたので！みんな宿題ホンマに丸投げしてるみたいやから🤣\nそりゃするよね、すぐにできるもん。\n…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc8e95ffdaac47",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\nえ？！人生ゲームとドラクエが？！\nえ、これは楽しみ！車→馬車とか浪漫すぎて\nちょっと気になります💕💕\n\n学生カワムラさんだ！か…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc0463576912a0",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\nすごい！面白そう〜！って読んでいたら、\n\n「夕べはお楽しみでしたね」\n\nめちゃくちゃ笑いました🤭🌼",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc69786d73e766",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは(*ﾉ>ᴗ<)\nジェミニのご飯とヨシダさんのご飯だったら、わたしもヨシダさんのご飯に一票です🍽️\n艶が美味しそう♡\nジェミニのは、高級そ…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc994417bc6e49",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、BBSのMV見られました😍\n可愛いし、覚えやすいし、流行るといいですね～🙌\n膝上スカートで、クロコさんのイメージも変わりました🤣\nMVって楽しそう…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "ncd3a32a20696c",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\nドラクエ人生ゲーム面白そう！\nというか、最後の「夕べはお楽しみでしたね」に吹き出した🤣🤣",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "ncac1878979c8d",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜✨こんにちは♪😄\n\nドラクエ人生ゲーム❣️\n面白そう✨馬車なんだ〜🚗じゃなくて🫢\n馬車何人子供乗るのかな⁉️\n大体乗り切れなくなるんだが🤣🤣\n\n食べ物…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nccf002b1df2c3",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、ChatGPTに作ってもらった料理画像は、本物みたいで美味しそうでしたよ😆\n丸投げ禁止機能は、僕のChatGPTにはまだ入ってないのかな？今のとこ…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc023137852efe",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、ドラクエ人生ゲームのところ、めっちゃ気になりました🤣\nこういう「遊びながら何かが見える」仕組み、やっぱ面白い。\n\n創作のアイデアが…👀",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "ncd558c0ebb5b7",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🫠\n\nドラクエ人生ゲームは購入リストに入りましたw\n\n普通にやってみたい。\n\nGPTの教育版、色々検証してみたいですねー。いい記事になりそう。…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc99e44c291535",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人生ゲームとドラクエのコラボか。\n\n買おうかな😁✨✨\n\nどっちもめっちゃ好きでした❤️",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc2e389cc8be87",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n「ChatGPT for Teens」の機能、実は大人に必要だったりして😓\n\n揚げ物の衣、ちょっと気持ち悪いですよね。\nChatGPTド…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc99ea22cf25cd",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\nドラクエの人生ゲーム🤩\nめちゃくちゃ楽しそう🤩🤩🤩✨✨✨\nこれドラクエ好きにはたまりませんね🫢\n発売日殺到しそう🙈\n\nあら…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc75c2cf13abbe",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "女子高生とAIの恋愛は不純異性交遊やな💔\nGeminiの料理はツッコミどころがあり過ぎて、俺が飲食店の社員ならキレ散らかしてるわ(笑)\n何処が論理的なのか小一時…",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "ncc885596e0e4d",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈カワムラちゃんが自らセーラー服に😆😆😆👍",
+          "article_title": "【生成AIニュース】ドラクエ人生ゲームから塩対応ChatGPT、食欲をなくすAIメニューまで！漫画とGeminiが解説",
+          "note_key": "n739d4279a40b"
+        },
+        {
+          "key": "nc1de7ceb7e3ff",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨✨\nきゃー🙈\nBBSにカキコしてぇーー😆😆😆\n\nもうなんか\nそんな時代もあったぁぁ！！\nって嬉しくなっちゃいました（笑）\n\n大好きなホームページ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nceb5c22e7d461",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、MV作るのがはやいです！\n今日、PCでYouTubeの再生ができなくなり、本編を見れてないので、コメント遅れました(;'∀')\n曲は聞けました🙌\n…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc3fce734b0cc2",
+          "user_name": "ことほぎ【N Fes2026参加中❗️ゆるゆるコメントしてます】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うっわ！かわむ、めっちゃかわいい曲🎧💕\n器用やなぁ😊\nかわむが、スティック回してて、今回は前回より笑顔で余裕やなって思った！\nネットってデジタルネイティブは、無…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc990892967172",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙*·̩͙\n\nかしまし娘の3人と、MV可愛い〰️ꉂ🤭♥️\n昔懐かしな感じが良きですねꉂ🤭\nキリ番ゲット‼️も、掲示板も懐かしいꉂ🤣w‪𐤔…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc427163e1087c",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\npollo aiでＭＶ？！わああ楽しそうです✨\n\nＢＢＳにキリ番？！懐かしい単語！\n曲も可愛い！ピコピコ感というか\n懐かしいの…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "ncb65f13f6a490",
+          "user_name": "兎（利き手療養中。現在note巡回遅れてます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんはカキコ🌛🐰\n\nカキコやら、きり番やら、ダイヤルアップやら、懐かしいですね🤭✨\nえ？今の子は分からないの？\nばんなそかな…(˶꒪ᗩ꒪)ｶﾞ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "ncec6b0ae17280",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きゃー💖💖💖かわむーー💛💛💛\nバックバンド最高っ\\(//∇//)\\✨✨\nメイシンちゃんの安定感のあるベースと、\nかわむーの弾けるドラム🥁💖\n可愛すぎるっ✨✨\n\n…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "ncd6f6b1895f78",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜🌸こんちは✨\n\nめちゃくちゃ動画可愛い💕です✨\nアイドルMVっていうのが\nさすがカワム〜です♪\nアカネちゃん、メイシンちゃんと\nカワム〜のバンドもカッ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "ncda3754635963",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、ありがと～💕💕\n可愛い、可愛すぎる曲(/ω＼)\nかしまし3人娘だけでも可愛いのに😢\nあかねちゃんとカワム―ちゃんとバンド！バンドー！！\nバックバ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nca6ee6ece2255",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、YouTubeも見ました！\n僕もPollo AIを使い始めたばかりですが、7秒で52クレジット。やっぱり動画はクレジット使いますね😆",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nca6697837f746",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nキャーっ🙈✨可愛い歌🙈✨💗\n記念カキコ🫢🫢🫢🤣🤣🤣\n\n返事は大丈夫ですっ🫡🫡🫡",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc8e95aab2dade",
+          "user_name": "秋本マミ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306222073/profile_46c931d1165c9a623598270debc223fc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも記念カキコ🙂‍↕️\nって、懐かしい〜です😊♡",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "ncb0f3e568e499",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記念カキコ\nカワムラさんおはようございます😆\n\nキリ番懐かしいです　面白フラッシュとか、隠しページとか探すのもスキでした✨\n\n曲もピコピコ感も可愛さがあってスキ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc4f4c4f360fdb",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "歌詞懐かしい～なんて思いました。\nテレホ待ちきれずに1時間前からとかつないでると、\n電話代がえらいことになるんですよね。\nアクセスポイントの電話番号の多さも、プ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc9ef272890006",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです。\n\nかしまし三人娘のMV🎬️\nめちゃくちゃ可愛いです。\n振り付けと、画面の中に3人のMVが映ってるシーンが特に好きです🫶\nBBGも可愛す…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc4c3a5747975e",
+          "user_name": "シーサー太郎@500日連続投稿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\nいつもありがとうございます😊思わずカキコ😆\n\n昨日のテレホ時間前、週間スキが1111になって\n\nｷﾀ━(ﾟ∀ﾟ)━!\n\nと歓喜したアラフ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc870e8a30679c",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初代iMacにアラフォーの私はきゅん♡\n動画も歌もかわいいのに\nダイヤルアップ、キリ番、、、\nエモくて泣きそうになります😭笑",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc705a3d9ed45f",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈カキコしちゃった💞",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc180c4b774e94",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nダイヤルアップやiMac懐かしい。はるか昔に思えますよね。。\n\nヨシコはセンター、アイドルの振りがよく似合う😊ジェミコやクロコはふだんと…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc5028f76f86ac",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーおはよー！！\n\n動画レベルめっちゃ上がってるー！！\nすごーい😆💕💕\n\nピンクのiMacがスキ💖✨",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc0d8bbe066d50",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🫠\n\nカワムラさんもいよいよアイドル制作！😆\nしかも完全にインターネッツ老人会案件。\nいやあ、刺さりますわ。ポストペットとかやったなあw\nキリ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc3c188f1d7595",
+          "user_name": "カケルン@HSP フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画のクオリティ、めちゃくちゃ高いですね！……なんですが、それ以上に「BBS」「カキコ」「キリ番」で一気に懐かしさが押し寄せました笑\n\nアクセスカウンターを見て…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "nc5a8558e34b85",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nこれ、すごいですね。\n\nPollo ai で5秒動画を作成するのに丸1日かかったうえに、チェックインでコツコツ貯めてたクレジ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第５章】アイドルMVと昔のインターネット文化をPolloAIで融合しました。 ChatGPTのヨシダ",
+          "note_key": "nb6c4a0cdb5b7"
+        },
+        {
+          "key": "ncc5ed3f66ccbd",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃんとヨシダ様が3Dになってるー🤣\nまた新たな魅力を開花させるの、カワム―ちゃん(/ω＼)💕\nこれ以上は私、可愛さに耐えきれないーw\n\nインドは若者率…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc6b8dd9632442",
+          "user_name": "V.Coo（ブイ・ドット・クー）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258654622/profile_4f6c5b49d51f010f847edc84d4780505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000万人研修……なんと無駄なことを。\n教育いうコストがかかる間接作業は、必要とする人が必要な時にやらんと高い効果は生まれんのですよ。\n早い話が、なんでもない…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc3b3bc563f541",
+          "user_name": "ハニハニ｜相互フォロー希望",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284985245/profile_d5e8a0cb2d99afbe711130ef13019b2b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、ボクもそう思いますね。なんだったら、今AI活用について有料化されてる情報とかAIに関するアプリとか、どれも無料でホイホイ使えて、AIを使う環境も学ぶ機会も…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "ncdfc0ce62f0da",
+          "user_name": "Atsushi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299560472/profile_90964722f6a4cbf1ba758efd4259773f.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "漫画で読むと、インドの1000万人研修の規模感が一気に腹落ちしました。うちみたいな小さな会社でも、まず自分がAIを触るところからだなと。次回も楽しみです。",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nce692a9f51195",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295149988/profile_a8d1a7eb4ab21674c8f8074cec6b026f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アメリカの優秀な研究者や経営者にインドや中国の人が増えている。\n当たり前のハナシで人口が多ければ天才も多い。\nその反面一般や劣るものが多いのも事実で、その上での…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc68fd5be60b66",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\nインド！？そんな事になっているんですか！？\nでも賢いなとも思っちゃいました\n日本、このままでええんか？！\n(タイトルと同じ事…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nccc237a359bc7",
+          "user_name": "幸せの架け橋カエル｜境界線ケア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209698581/profile_ba002a3bb07b319e0311b6b0b05faf9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨こんばんわ～🐸\n\nAI、何んとなしにしていますが\n「使いこなせてる」と\n「使っている」では差が出ますね💦\n\n🐸はもともと機械音痴で\nさっぱりのポン…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc7a5b15b1c741",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん、こんにちはぁ✨\nインド.....カレー\nヨガ.....ターバン......\n\nああ！！インドゾウ！！🐘🐘🐘\nわぁい😆AIインドゾウ爆誕✨✨\n\n私…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc37d19a74c03d",
+          "user_name": "ことほぎ【N Fes2026参加中❗️ゆるゆるコメントしてます】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんにちは〜\n国家レベルで教育始めたらすごいよね。\nもう、常識になるもんね。\n日本では、ものすごく意識に差があるように思う。\n学びにくさが、得体の知れな…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc2853a422090c",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "毎日noteを見てたら、否応なくAIの生成物に触れることになります。\nいいなと思ったら、やり方も調べられる時代なんですね。\n私は社会とは隔絶した生活だけど、なん…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nce9b12d102aa7",
+          "user_name": "兎（利き手療養中。現在note巡回遅れてます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\nインドは手を出したら展開が早いですね！\n日本は何事もいつも後手後手で…。\nしかも、時間かけた割に良くならないっていう😓\n\nわたし…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc0db21d759148",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜✨おはよー❤️\n\n今日も勉強になる話しを\nありがとう✨\n会社でAI使用はなかなか浸透\nしないね。\nっていうか、セキュリティーと\nいう名でアクセスを制限…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc37d6d7064098",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラｻ~ﾝෆ⃛💗\n\n毎回すごい視点の記事で、学べますなぁ‎|•'-'•)وﾅｲｽ！、ありがとうございます٩(๑❛ᴗ❛๑)۶\n\n国の主導で、違いが出てきますね…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nccd9ad705d662",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "同感です。\n日本の教育は心配です。\n\n数学的・科学的な思考や英語（コミュニケーション）は、\nもっと早くから訓練して身に着けさせるべきです。\n世界第〇位とか別にし…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "ncf646ae418197",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\nインドは数学教育も進んでいるので、その延長線上でこういう政策も出てくるのかなと思います。\n去年の夏インドと日本でAI分野に関する協力覚書…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc70d0e7d35bd7",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n日本で考えると、AI研修は主に教育現場に携わる人からやったら良いと思いました。\n\n上の年代の頭カチコチをどうにかするよりも、柔らかい頭に教…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc6a35215b7c32",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん、おは✨💃あれ？マンガが立体的になってる😊",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc0c6d306731c2",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n今日のお話、ほんと同感です😁✊\n\n日本、このままで良いんか？\n日本の社会や会社、\nこのままでは世界に遅れてしまうよ💦\n\nそ…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc1c61f3653fc3",
+          "user_name": "けぶじん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209896976/profile_0cc81b563cf19f24e986a4edc58353fd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n自分は国家的強制訓練賛成派です。\n\n日本も韓国に倣って、男子は徴兵、女子は2年間の水商売体験を国が強制すべきだと思っています。\n\n男子は…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc3f8b8b685d95",
+          "user_name": "原付先生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302300638/profile_4f24962f972b7782fefa259454bb92ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIはどう扱うかでも全然違いますからどう扱う人を増やすんでしょうね？\n\n自分のようにチャットやって画像作ってでもAI使ってる側に扱われるのかしら🤔\n\n1,000…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc04eefbbe1a13",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🫠\n昨日はいつのまにか気絶するように寝てしまい朝起きたら色々また変わっていました💦もうねwネタがつきませんw\n\nインドのニュース、侮れない結構…",
+          "article_title": "【生成AI漫画】日本、ほんまにこのままでええん？ インド「若者1000万人AI研修」で考える日本のAI教育 ChatGPTのヨシダ",
+          "note_key": "n8539b6a75d76"
+        },
+        {
+          "key": "nc1821b0d6b32d",
+          "user_name": "こより｜暮らしの森の管理人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229425307/profile_a3384707c471828e25c88cc5f91881ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "気持ち、ものすごくわかります😔\n\n皆さんのコメントにもうんうんと頷いてしまいました。\n\n自分もいくつか参加してみて思いましたが、自分の負担はまぁ、良いんですよ。…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncdb9615289a74",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、これ分かりすぎました…！（真顔）\n「うれしい」が「ちゃんと返さなきゃ」に変わる瞬間、本当にあります。\n好意そのものは嬉しいのに、自分の中で勝手に宿…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc7a0acc43c285",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n恐縮ながらこの場をお借りして、コメント失礼します。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nce541623c8431",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは〜🌙\n\n今回の内容は共感しまくりでスキを5億回押しました！\nSNSは負担にならないようにしないと続けていけないです☺️\nのんびり気にしな…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nce2002dfaf137",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！\nこれ、私の記事で話してた記事ですかね。\n\n私の記事と違い角が取れて、すごくカワムラさんらしい記事に仕上がってますね☺️✨\n\nすごく共感する記事で…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc8340ad0534fe",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん同感👍\n\n私も宿題になるのいややもん。\n\nでも断る勇気いるね、断りやすい仕組み作りもいる。\n\nバトンは受け取りたい人だけで、良い…義務になったらしん…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncd2f9933c8a70",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\nわぁあ突然の義務がカワムラさんを\n襲う？！山羊のは感情のままに\n鳴いてるだけなので何か山羊が鳴いとるな\n程度に適当に返してい…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc5fa272df350f",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\nこれ読んで「もしかして自分もHSP寄りなのかな？」ってちょっと考えました笑\n\n普段から細かい違和感を拾いすぎるところがあるので、妙…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc83e08d5cfae0",
+          "user_name": "【無名 S note】18日でフォロワー1000名🚨連続収益中！48マガ・13共マガ運営 参加72🙆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280421627/profile_54172438db482342de0ca9ef8c6395ec.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近バトンが増えてると同時に、苦手との記事もよく拝見する様になってきました(｡ •ω•)｡´_ _))ｺｸｯ\n\n私も以前から苦手で、だからこそ企画物にはその様な…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc2907a038de4b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんばんは🌙\n月曜から残業💧（いま帰ってるけど）\nこれ読んで、僕らの関係ってもう「ちゃんと毎回返さなきゃ」で続いてる感じじゃないよなって思いました😊\n…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc8c1b9de53a6d",
+          "user_name": "とりかじ｜研究職パパの家庭DX研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271347971/profile_e12fd7ef014a16f1ea0a2ab79f6bf3b3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、はじめまして😊\n\n読書が宿題に変わるとか、\n受け取る・渡すで、がんじがらめになるの、\nなんとなくわかります😅\n\nただ、私の場合、コメント貰うのは嬉…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncfd08deb903ae",
+          "user_name": "兎（利き手療養中。現在note巡回遅れてます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nカワムラさんは人気もありますし、オファーが多そうですね😳✨\nみんな大好きカワムラさん🍙🩷\n\n誘われたらなかなか断れないのも、分か…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc65e40ab7bcf2",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん代表して言いづらい事言いましたか…。\n\n私が言っても全く効果無いですから。\n自分は戯れ言を道化師のように振り撒くのが精一杯なんですよね。\n\n逆にHS…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc6168189dbdd0",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nお疲れ様です🥰♪\n\n今日も\n最高の記事でした👍\n神回ですね。\n\n実は\n僕も全部苦手で😅💦\n\n嘘😬と\n思うかもしれませんが\nバトン？？\nした事ないか…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc1b0b6bd3e4da",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんらしい悩み、わかる気がします😊\n私は応援したい企画には乗りますが、知らない人が始めたバトンは基本的にお断りしてます(;'∀')\n\n知ってる人と知らな…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncbbf0954a46d1",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "バトンで紹介してくれるのはありがたいんですけど…次の人が、喜んでくれるのならいいですけど、中にはプレッシャーに感じたり、義務になってストレス抱えたりする人もいる…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc3951091d000c",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁぁん✨\n拉致から解放された聖ですぅ😆😆\nお祭り記事にコメントありがとうございましたぁ❣️\n\nそしてHSPの心理現象....\nめちゃくちゃわかるぅぅう…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc034a26d9f922",
+          "user_name": "❁⃘*.ﾟMina*.ﾟ❁⃘| 雲バル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295668576/profile_a2e2bb3839e31171dba1a7e2acf1a6e5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n確かに、バトン形式よく見かけますね。気を使うの、わかる気がします。\nもしも来たとしても、私は回せる気がしません‼️ꉂ🤣w‪…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc0b807e8cf5f8",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258426671/profile_1aaaf0a6771ae658299643e3789a5330.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\n\nうんうんとうなづいて聞いてました\n\nバトンは、僕も同じ思いですね😅\n記事で紹介いただくと、やはり断ると折角渡してくれた方に申…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc2a987da18125",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nバトンって義務に感じることがあるので、難しいですよね。\nだから、気軽に断れそうな仲の人に渡すことを心がけています。まあ、バトンの内容にもよ…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc4687b8c16e02",
+          "user_name": "ことほぎ【N Fes2026参加中❗️ゆるゆるコメントしてます】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ！おはっおはっおはよーう🌺\nきみはおもしろいなぁ。",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc69e506b10244",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーちゃん、おはよー！\nふぅー。\nカワムーちゃんってなんでそんなに可愛いのですかー💕\nもう分かることばかりだし\nそれを素直に表現できるカワムーちゃんを\n抱き…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncf3d3ae0109e2",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜🌸おはよー✨\n\n月曜日始まったよ〜😱\n休み明けだから、お昼食べに\n会社行きます❣️\n\nカワム〜の取説ありがと❤️\n色々わかって良かった😆\n気をつけない…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc09cfbb2b5a8e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈ワシもバトン置きっぱなしだわ💞\nてか、バトン重すぎんか？ワシは次の人に変なリスクを負わせとうないわ😊",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc023995d7678a",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nカワムラさんにコメントすると必ず返信があるので嬉しい反面，数が多いし相手に沿っての返信は大変だよね、って気になっていました。こういうのも…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc2e6779ac9cc8",
+          "user_name": "秋本マミ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306222073/profile_46c931d1165c9a623598270debc223fc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん🍀\nカワムラさんもHSPだったんですね～だからかな…きもちがすごい分かりすぎました😭\n\nでも、あんま仲よくないわたしがコメントいれちゃいましたm(_…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc5880c675c422",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280349100/profile_3469bc1685f2eb2da1d117996e931c7f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん　おはようございます😃\n自分のタイミングとか\n自分のやりたい事をとか\nわかります🤭\nカワムラさんくらい有名だと余計に大変なんだろなぁ😱\nでもnote…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncc01a5a5f9111",
+          "user_name": "満月（コメント&スキゆっくり巡回させていただきます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281963635/profile_3fb2e986c8b0c0ebd9a9b1b61974eaa1.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます〜☀️\n\nわかるわかる、と頷きながら読んでました。\n交流自体はいいことだけど、それが義務みたいになっちゃうと、しんどいですもんね。\n\n時間は限…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "ncfa979b836f9a",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございますー\nDMめちゃくちゃわかるわー💦私の場合どこの会社に所属しているか探るやつが一番多いですね。\nい、いや、言えないから黒パグという名前なんですが…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nca4a4579fefa9",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n最近、バトン形式の企画をよく見かけるようになって、この記事の「ここで止めたら悪いかな」という感覚、すごく分かるなぁと思いま…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        },
+        {
+          "key": "nc8975ecd36489",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nDMなんて来るんですか、そんなことがあるということに驚きました。\nそして、バトンというものを初めて渡されたんですけど、ありが…",
+          "article_title": "【コミックエッセイ】HSPな私がSNSで少し苦手なこと",
+          "note_key": "n6018f292d412"
+        }
+      ]
     }
   ]
 }

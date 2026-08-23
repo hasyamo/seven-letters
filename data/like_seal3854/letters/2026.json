@@ -730,6 +730,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 1,
+        "likes_prev": 9,
+        "followers_start": 510,
+        "followers_end": 508,
+        "new_fans": 1,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "*かつおん",
+          "urlname": "nappame0526",
+          "follower_count": 501
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

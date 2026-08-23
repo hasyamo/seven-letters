@@ -1817,6 +1817,111 @@
           "note_key": "n67196d8052ab"
         }
       ]
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 259,
+        "likes_prev": 310,
+        "followers_start": 606,
+        "followers_end": 613,
+        "new_fans": 81,
+        "comments_total": 15,
+        "posts_count": 5,
+        "consecutive_days": 3,
+        "post_times": [
+          "15:55",
+          "10:21",
+          "08:21",
+          "15:58",
+          "19:27"
+        ],
+        "top_article": {
+          "title": "note巡回がもっと快適に｜600件超に対応した「note Creator Summary」の使い方",
+          "key": "nde036e9f7fb1",
+          "likes": 64,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "とある社会人の自己成長記録note📚",
+          "urlname": "kens_reading1",
+          "follower_count": 18498
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc88ca4bed85c0",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは😊\n私の記事を紹介していただき、ありがとうございます✨\nいつもスキをいただいて、励みになっています😃\n\nマガジンから名誉卒業生が出ると、\n…",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
+        {
+          "key": "nca7074415861f",
+          "user_name": "BBE｜見かたをかえていく人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272859397/profile_89b822cd16039a033f3ceba952a71d48.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nご紹介ありがとうございます\nとても嬉しいです\n感謝、感激！\n\nまだまだ未熟者ですが、\n今後ともよろしくお願いします🙇",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
+        {
+          "key": "nca60840fed613",
+          "user_name": "cocoro_michi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285649017/profile_7f08b7f653730aded83e2ee6afd3587a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、🔰参加者枠でご紹介いただきありがとうございます！とても感激しています✨\n\nnoteは、まだまだ理解できておらず、右往左往している私ですが、これまで自…",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
+        {
+          "key": "nc762e200fac5d",
+          "user_name": "ラクダ｜50代AI課金実験室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286632702/profile_f795b19281ec9a9c03827d1c66483d75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n\nフォロワー1000名、\n紹介していただき、\nありがとうございます。\n\n「千へ向かう声」、\n\n初めて参加させてもらったマガジンでした。…",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
+        {
+          "key": "nccfdc92358a12",
+          "user_name": "金田一rudolfフォロバ（単勝複勝馬連ワイド）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/159734139/profile_c3f6a98bb150397936a9f9ecc09e201b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "rudolfと申します。よろしければフォロバお願いしてもいいですか。",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
+        {
+          "key": "nc1961ffe1dba3",
+          "user_name": "貴美子｜構造を言語化する人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261823573/profile_200819dc5689a338a5e7bba624e1c852.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おお、ひゅーさん本当にすごいの作りましたねー👀✨\nしかも二段目に私が載ってるの、ちょっと嬉しいです🤣\n\nこういう「noteを使いやすくする便利機能」系、見つける…",
+          "article_title": "note巡回がもっと快適に",
+          "note_key": "nde036e9f7fb1"
+        },
+        {
+          "key": "nc978ffde79679",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは🌙\nフォロワー数、1000くらいまで取れませんでしたっけ？\nちょっと調べてみます！",
+          "article_title": "note巡回がもっと快適に",
+          "note_key": "nde036e9f7fb1"
+        },
+        {
+          "key": "nc7607dc425a27",
+          "user_name": "aya",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298465058/profile_a4fe4057ff990660ee5dd80f746a8583.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n無料版を初めて使わせていただきました！\n\n私のnoteのジャンルは『メンタル、自己啓発』で「そうなんだ〜！」となりました😊\n\n客観的に…",
+          "article_title": "note巡回がもっと快適に",
+          "note_key": "nde036e9f7fb1"
+        }
+      ]
     }
   ]
 }

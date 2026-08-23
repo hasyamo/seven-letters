@@ -1436,6 +1436,133 @@
         }
       ],
       "rare_no": 5
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 693,
+        "likes_prev": 481,
+        "followers_start": 5551,
+        "followers_end": 5785,
+        "new_fans": 167,
+        "comments_total": 21,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:45",
+          "18:16",
+          "10:30"
+        ],
+        "top_article": {
+          "title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n7d36555421bb",
+          "likes": 239,
+          "comments": 15
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17039
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc84b885056b65",
+          "user_name": "スイッチくん🐻😊 │ 湊花町の住人 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事の紹介ありがとうございます🐻💕 1点だけ。uGPTの部分、(差し支えなければ)有料記事の方に差し替えて頂けますか?\nよろしくお願い致しますm(_ _)m",
+          "article_title": "『涼しさの奥で、誰かがまだ息をしている。』-夏の怪談- ",
+          "note_key": "n92ae79d34f61"
+        },
+        {
+          "key": "nc5ffb3aa2175f",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。怪談、季節ですね。",
+          "article_title": "『涼しさの奥で、誰かがまだ息をしている。』-夏の怪談- ",
+          "note_key": "n92ae79d34f61"
+        },
+        {
+          "key": "nc4bfddffb6c75",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ・・いや・・\nほんとうにありがとうございます！\n\n言葉がうまく出てこない・・・\nありがとうございます！\n\nマツバボタンいただきます！",
+          "article_title": "『Kindle出版おめでとうございます。』-yukariyajpさん- ",
+          "note_key": "nda1f6a06e425"
+        },
+        {
+          "key": "nce8a5971e6cdb",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。ほんとKindle出版おめでとう御座います♪やりましたね。",
+          "article_title": "『Kindle出版おめでとうございます。』-yukariyajpさん- ",
+          "note_key": "nda1f6a06e425"
+        },
+        {
+          "key": "nc37f9aca9c145",
+          "user_name": "赤平秋夏",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285028546/profile_b2a5692cdc69c8c5ae0ba98a7868ab3e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして。\nフォローして頂きまして、ありがとうございます🙇\nこの絵めっちゃ可愛いですね🤩\nAIに頼む時はこう指示するんですね！\nまた絵を観ようと思います。\nど…",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        },
+        {
+          "key": "nce926cb9ed4ca",
+          "user_name": "🌸おはな＆🐕️まめしばさん裏アカ公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303002867/profile_cb3b85972e82e61471cce0a27922ce31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\n千住まいかさん、こんにちは！浴衣姿で手持ち花火を見つめる「静謐の美」を描いたAIアートの繊細な光と影、儚く澄んだ瞬間の輝きに、深く心を奪われました😊🌸…",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        },
+        {
+          "key": "nc495ee8831b99",
+          "user_name": "かつ|社会学者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/146655852/profile_725ee3cb690399c3c624e8e79c2c08a7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォローしてくれてありがとうございます。\n社会学者のかつと申します。\n記事にいいねありがとうございます。\nこれからもよろしくお願い致します。",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        },
+        {
+          "key": "nc421dec146c46",
+          "user_name": "しょう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303096072/profile_20e270fe97f45e3d35846737f436a06c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "千住まいかさん、初めまして。\nこの度は、スキとフォローありがとうございました。\nこれから何卒宜しくお願い致します。",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        },
+        {
+          "key": "nc6320310ed8ba",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303864006/profile_ecf9a7026234478a939f1b08cb234a57.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、こんばんは🌙\nプロンプト使ってもらえてすごく嬉しいです🤭\nまさか、まいかさんに取り上げてもらえるとは...感動です(,,- -,, )\n\n素敵な線香…",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        },
+        {
+          "key": "nc9b6e9940bad5",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきましてありがとうございます😊\n\n夏らしい祭り、かき氷、花火・・・いいですね!\n\n今日は、免許更新後、普段はやらないのに献血までしたり・・・\n\n時に…",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        },
+        {
+          "key": "ncb45c2ed9d447",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。夏の夜、線香花火🎆、素敵でした。そして記事紹介していただきありがとうございます。照れますね。",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
+        }
+      ]
     }
   ]
 }

@@ -877,6 +877,92 @@
         "commenters_count": 0
       },
       "rare_no": 6
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 186,
+        "likes_prev": 83,
+        "followers_start": 1817,
+        "followers_end": 1895,
+        "new_fans": 67,
+        "comments_total": 7,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:46"
+        ],
+        "top_article": {
+          "title": "コラボ｜30秒一本勝負。HIX AIで「線画→彩色」ショート動画を作ってみた｜Seedance2.5",
+          "key": "na9ecd1a0bd6a",
+          "likes": 105,
+          "comments": 7
+        },
+        "notable_reader": {
+          "name": "山梨県の古民家和み庵",
+          "urlname": "bright_eel176",
+          "follower_count": 36727
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "nc932b94a5afdd",
+          "user_name": "Mariya｜AI創作クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こちらにも失礼します(⋆ᴗ͈ˬᴗ͈)”🌸\nHIXさんの使い方が、本当に人それぞれで面白いです(ﾉ)ﾟ∀ﾟ(ヾ)💓‪✨️\nそして、クオリティ高ーい٩(◍`…",
+          "article_title": "コラボ",
+          "note_key": "na9ecd1a0bd6a"
+        },
+        {
+          "key": "nc14dee432785e",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アホみたいにSeedanceスゲェスゲェしか\n言ってませんでしたけど\n本当に凄いんですねぇ。\n背後からの視点で顎が動くなんてビックリです😼",
+          "article_title": "コラボ",
+          "note_key": "na9ecd1a0bd6a"
+        },
+        {
+          "key": "ncdb09cc25e912",
+          "user_name": "ノラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284839197/profile_00d0686431c2f5e4a24690e342ffff12.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "狙ってた検証項目より、狙ってなかった部分で発見があるの、地味に一番面白い瞬間ですよね。私も別の検証で「そこ見てなかった」を偶然拾うことがあります。顎の動きまで拾…",
+          "article_title": "コラボ",
+          "note_key": "na9ecd1a0bd6a"
+        },
+        {
+          "key": "ncf1369c2ebedb",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおお！夏目さん、こんばんも！\n分かりやすい記事をありがとうございますっ✨\nやはり動画があると頭に入ってきますねー＼(^o^)／\n\nそして神で笑いましたw\nAI…",
+          "article_title": "コラボ",
+          "note_key": "na9ecd1a0bd6a"
+        },
+        {
+          "key": "ncccb7b9cfe993",
+          "user_name": "けぶじん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209896976/profile_0cc81b563cf19f24e986a4edc58353fd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、\n新しいことやってるー！\n\nAIトップクリエーターの関心は今や動画ですよね！\n\n何事も触って慣れることでした見えてこないことが沢山ある。\n\nフェスで動…",
+          "article_title": "コラボ",
+          "note_key": "na9ecd1a0bd6a"
+        },
+        {
+          "key": "nc8efc0d464f91",
+          "user_name": "悠 (𝕪𝕦𝕦)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238808795/profile_8ad16d82bf07e0a3c6cbee7e605512d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、こんばんは🌙\n\n派手な動きをあえて入れずに画面を構成したからこそ、生成モデルの繊細な挙動が綺麗に見えてくるというのは面白いですね。\n\n斜め後ろからのア…",
+          "article_title": "コラボ",
+          "note_key": "na9ecd1a0bd6a"
+        }
+      ],
+      "rare_no": 7
     }
   ]
 }

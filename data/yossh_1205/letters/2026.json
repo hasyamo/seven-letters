@@ -7610,6 +7610,288 @@
           "note_key": "nc856ec89c42c"
         }
       ]
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 1125,
+        "likes_prev": 1174,
+        "followers_start": 1378,
+        "followers_end": 1385,
+        "new_fans": 107,
+        "comments_total": 50,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "22:12",
+          "17:28",
+          "19:16",
+          "19:36",
+          "12:23",
+          "19:53"
+        ],
+        "top_article": {
+          "title": "今と並べられる過去がある。noteに気持ちを書いてて良かったこと",
+          "key": "nde1f66baed88",
+          "likes": 186,
+          "comments": 7
+        },
+        "notable_reader": {
+          "name": "ものかき大学公式",
+          "urlname": "monogaku",
+          "follower_count": 10297
+        },
+        "commenters_count": 19
+      },
+      "comments": [
+        {
+          "key": "nc0813f8f833e4",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n言語は大事ですよね😊\nなんとなくも大事です😆\nなんとなくを発展させて言語化…",
+          "article_title": "「なんで？」の答えは『なんとなく』",
+          "note_key": "n5bb0e1bf8fa0"
+        },
+        {
+          "key": "nc7d5fb40b760c",
+          "user_name": "シンプル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269727003/profile_3c4e525691cf98f115794d8b2e78df33.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😃\n\nいつも、マガジンの仲間に入れてくださりありがとうございます！\n\n「なんとなくステキ」\nありがたい言葉です\n\n根拠や説明が苦手な私には、\nとても救…",
+          "article_title": "「なんで？」の答えは『なんとなく』",
+          "note_key": "n5bb0e1bf8fa0"
+        },
+        {
+          "key": "ncb50741f63fec",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、お早うございます。\n「なんとなく」いいですね～😊\n何でも理由をつけなくても「なんとなく好き」「なんとなく楽しい」で十分なこと、ありますよね🥰\n私も…",
+          "article_title": "「なんで？」の答えは『なんとなく』",
+          "note_key": "n5bb0e1bf8fa0"
+        },
+        {
+          "key": "nc18c4232f8931",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「なんとなく〜」\n\nって、私にとってはとっても大切なコトバです🙌\n曖昧というよりはむしろ、私の中では正確な感じがします♪",
+          "article_title": "「なんで？」の答えは『なんとなく』",
+          "note_key": "n5bb0e1bf8fa0"
+        },
+        {
+          "key": "ncee4abb3a1f26",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n\nなんとなく\nなんとなくでここまできてしまった🤭\n言語化は課題！",
+          "article_title": "「なんで？」の答えは『なんとなく』",
+          "note_key": "n5bb0e1bf8fa0"
+        },
+        {
+          "key": "nc2602a37031fb",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは♪\n\n言語化できないことがNGってわけじゃないって✨\n私にはとてもありがたい見解です☝️\n\n上手に言語化できるひとってすごいな！と思いま…",
+          "article_title": "「なんで？」の答えは『なんとなく』",
+          "note_key": "n5bb0e1bf8fa0"
+        },
+        {
+          "key": "nce00c93587726",
+          "user_name": "暮らしの整え相談室　ぽんまぁ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222294136/profile_4a6854bc4f0dd7b277b78f04de10d3be.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは😊\nまさに「わかる〜」って感じでした！\nありがとうございます😊",
+          "article_title": "自分には「売れるものがない」って、悩んだりするよね？",
+          "note_key": "n41a08219edfb"
+        },
+        {
+          "key": "nc09aca3154063",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\n夜分にすみません。\n\n再びマガジンに仲間入りさせていただき、ありがとうございます🙇‍♂️\n\n書き残しておくと、後で振り返れる、すごくいいですよね…",
+          "article_title": "今と並べられる過去がある。noteに気持ちを書いてて良かったこと",
+          "note_key": "nde1f66baed88"
+        },
+        {
+          "key": "nc6ec7cd0cd516",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n私の拙い詩をマガジンでご紹介ありがとうございます🙇",
+          "article_title": "今と並べられる過去がある。noteに気持ちを書いてて良かったこと",
+          "note_key": "nde1f66baed88"
+        },
+        {
+          "key": "nc4cb61c54bea7",
+          "user_name": "GOGOおじさん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic0567a0e070c.jpg",
+          "body": "いつもマガジンにピックアップいただきありがとうございます。\n書く楽しさ。私も実感しつつ、難しさも感じつつ。\n引き続き、気づきやナイスな作家さん教えてください！",
+          "article_title": "今と並べられる過去がある。noteに気持ちを書いてて良かったこと",
+          "note_key": "nde1f66baed88"
+        },
+        {
+          "key": "nc7b0e18312404",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n続けてみてはじめて見えるものもありますよね😊\nちなみに私はやらずに後悔する…",
+          "article_title": "今と並べられる過去がある。noteに気持ちを書いてて良かったこと",
+          "note_key": "nde1f66baed88"
+        },
+        {
+          "key": "nc4019fdb09bf3",
+          "user_name": "暮らしの整え相談室　ぽんまぁ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222294136/profile_4a6854bc4f0dd7b277b78f04de10d3be.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさ〜ん！\n記事を紹介していただきありがとうございます✨💖✨\n嬉しい！けど、恥ずかしいような、、\nでもやっぱり嬉しいです😭✨️\n続けてきて、誰かの目にとま…",
+          "article_title": "今と並べられる過去がある。noteに気持ちを書いてて良かったこと",
+          "note_key": "nde1f66baed88"
+        },
+        {
+          "key": "nc533b599f617b",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n食べ物といえば、数年ぶりにアイスクリームを手作りし、毎日食べています🍨\n\n…",
+          "article_title": "ちょっとした幸せに囲まれてみる✨",
+          "note_key": "n71a38fd13806"
+        },
+        {
+          "key": "ncf189e219ad62",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、記事を読んでいて「食べ物って強く記憶に残るよなぁ」と思いました😊\n\n旅先のことを思い出すときも、景色だけでなく「あそこで食べたあれ、美味しかったな…",
+          "article_title": "ちょっとした幸せに囲まれてみる✨",
+          "note_key": "n71a38fd13806"
+        },
+        {
+          "key": "ncc0a5cef03ffe",
+          "user_name": "じゅんのしっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305902051/profile_1889bddf9d61ca9a705e43fedde043be.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\n\n『ひまわり畑と、うちの犬』をマガジンに追加していただいてありがとうございます♪嬉しいです😊\n私もチョコとコーヒーが好きです🍫☕️",
+          "article_title": "ちょっとした幸せに囲まれてみる✨",
+          "note_key": "n71a38fd13806"
+        },
+        {
+          "key": "ncfb56f6db83fd",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300336462/profile_85c2b00d294885fe20f82b3af86371a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コーヒーが大好きな父のために\nカルディに行くたびに\nコーヒーの値上がりが…\nすごく高くなりましたね🤔\n\nわたし、コーヒー☕️\n飲めないんですけんどもww",
+          "article_title": "ちょっとした幸せに囲まれてみる✨",
+          "note_key": "n71a38fd13806"
+        },
+        {
+          "key": "nc62eb49678e87",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん💖\n\nいや～ん✨✨✨\n２つも記事をご紹介くださり恐れ入ります🥰\nうれしびっくりです♪\nありがとうございます😊\n\n食べ物ばっかりですね～\n実は、私は食…",
+          "article_title": "ちょっとした幸せに囲まれてみる✨",
+          "note_key": "n71a38fd13806"
+        },
+        {
+          "key": "nc61a335a7b179",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nコメ返のオチが判明しましたね😆\nお醤油、ぜひ買ってください😆\nだいぶ持つと…",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "nceb9c696e22a4",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\n昨日の「人への期待」記事の続き…\n宝くじ🤭www\n楽しかったです♪♪\n\nマガジンへのお迎えありがとうございますᰔᩚᥫᩣ໒꒱⋆ﾟ",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "nc77972576ef65",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近宝くじ買ってない！",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "nc061e01b8838c",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300336462/profile_85c2b00d294885fe20f82b3af86371a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nいつもスキやマガジン追加\nありがとうございます😊\n\nウチの父がいつも宝くじを買って\n¥300を当てて\n¥2700でアレが買えた、コレが買えたと、し…",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "ncefa1dea8eb5d",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど。宝くじを買うことは、noteのネタを買うことに等しいわけですね。\n勉強になります。",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "ncc8de8b22141a",
+          "user_name": "まやのまさこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236870224/profile_7b1d6960187c5813832bb7734662d75f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございます😚💕\n当たらない事もあるから，\n300円×3枚はおめでたい事です🥳\n素敵なラッキーのお裾分け\nありがとうございます🙏✨",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "nca30269c68ac2",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "期待＝宝くじだったんですね！\n一種のギャンブルだと思うので、買ったことがないです😂\n夢を見るための出費なんですね～🙌",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "nc64c1ddd43b53",
+          "user_name": "ゆきぽ🦥🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かに😆\n醤油買えましたね！あっ、言っちゃダメでした🤐\n宝くじ当たらないー\n買ってないから当たらないーー🎯",
+          "article_title": "期待には、期待なりの対価がある",
+          "note_key": "nccaf91c85b05"
+        },
+        {
+          "key": "nc8aab0a31939a",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん♪\n\n『自分の期待を、\n相手が守るべき約束みたいに扱うこと。』\n\nそれです！\n期待しないことへの違和感はそれだったんですね☝️\nスッキリしました。あ…",
+          "article_title": "人に期待しない方が楽、って本当なんだろうか？",
+          "note_key": "n6e59106fbbd6"
+        },
+        {
+          "key": "nc9a6f330e35aa",
+          "user_name": "日向ことり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292682006/profile_e1123b7cfb406a3c4239391d9fe0a1b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんわ🌙\n\n『期待しない』ではなく『期待を握りしめすぎない』という言葉、すごく共感しました😊\n期待すること自体が悪いんじゃなくて、それを相手に…",
+          "article_title": "人に期待しない方が楽、って本当なんだろうか？",
+          "note_key": "n6e59106fbbd6"
+        },
+        {
+          "key": "nc57019133eff5",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n期待はコントロールにもつながる気もして、しないようにしています。\n\nよしひ…",
+          "article_title": "人に期待しない方が楽、って本当なんだろうか？",
+          "note_key": "n6e59106fbbd6"
+        },
+        {
+          "key": "nc2f967469da5f",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メンバーシップは楽しいですか？\n人数が増えて、いろんな人が入ると対応が大変そうな気がします。",
+          "article_title": "人に期待しない方が楽、って本当なんだろうか？",
+          "note_key": "n6e59106fbbd6"
+        },
+        {
+          "key": "ncb7b1b197cca4",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n「相手を無意識に自分と同じ目線で見ちゃう」ってことなのかなと思いました🧐\n\n僕ならこうする、ここまで言えば分かる、がいつの間にか相手…",
+          "article_title": "人に期待しない方が楽、って本当なんだろうか？",
+          "note_key": "n6e59106fbbd6"
+        }
+      ]
     }
   ]
 }

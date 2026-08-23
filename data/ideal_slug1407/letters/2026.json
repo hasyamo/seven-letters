@@ -2779,6 +2779,194 @@
           "note_key": "n1baa2181b754"
         }
       ]
+    },
+    {
+      "week": "2026-W34",
+      "period": {
+        "start": "2026-08-17",
+        "end": "2026-08-23"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 585,
+        "likes_prev": 498,
+        "followers_start": 1712,
+        "followers_end": 1739,
+        "new_fans": 132,
+        "comments_total": 42,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "12:00",
+          "09:18",
+          "18:00",
+          "00:00",
+          "07:56",
+          "08:00",
+          "07:00",
+          "05:50"
+        ],
+        "top_article": {
+          "title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "key": "n6d343be203ea",
+          "likes": 145,
+          "comments": 11
+        },
+        "notable_reader": {
+          "name": "ハニハニ｜相互フォロー希望",
+          "urlname": "hani8203",
+          "follower_count": 10110
+        },
+        "commenters_count": 13
+      },
+      "comments": [
+        {
+          "key": "nc6bd36789dd54",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、はじめまして😊\n\nスキありがとうございます！\nパグ好きさんだと思ったので、フォローさせていただきますね🤣💦\n\nAIと創作をしていますが、端的に具…",
+          "article_title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "note_key": "n6d343be203ea"
+        },
+        {
+          "key": "nc31161805e52b",
+          "user_name": "ふうこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/124551558/profile_a6e30e50449ded8acd47f7d1def6af9d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、フォローありがとうございます。\n要件定義でもプロジェクト計画でもやらないことを明確にしておくのは大事ですよね。演習の内容がとても参考になりました…",
+          "article_title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "note_key": "n6d343be203ea"
+        },
+        {
+          "key": "nc85603986461e",
+          "user_name": "YS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304122810/profile_705ebe56facc6b21517d0374bf29aca6.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "SEとして働いているので、『要件定義とプロンプト作成は同じものではない』という一文にすごく共感しました。決まっていない要件を長いプロンプトで隠すことはできない、…",
+          "article_title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "note_key": "n6d343be203ea"
+        },
+        {
+          "key": "nca32c35d152d2",
+          "user_name": "【ビジネス仕掛人】近藤義雄",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/117074332/profile_742f643fd0f29af45b172a2fa7f30c9d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n\n要件定義ができない大人って実に多いですよね。\n\nいい感じに作って\n　・・・先生出来ました\n\n┌─────────────────────────…",
+          "article_title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "note_key": "n6d343be203ea"
+        },
+        {
+          "key": "ncd96a2c193770",
+          "user_name": "人生インスペクション｜一級建築士・建築基準適合判定資格者　@試験前につき追い込み中♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272176397/profile_49a53a612d9fcf8f2bb6c0253b34b0ec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事を読ませて頂きました。\n「作らないことを決めるのも要件定義」という部分が印象的でした。\nつい機能を足す方に目が向きますが、範囲を決めることも大切なんですね。…",
+          "article_title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "note_key": "n6d343be203ea"
+        },
+        {
+          "key": "nc43de910af1e6",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんにちは。\n\n「これ、学生だけの話じゃないよな」と思いました。\n\n仕事をしていると、「いい感じにやっておいて」に近い依頼は、案外とあります。\n\n何…",
+          "article_title": "「いい感じに作って」では作れない――学生のための要件定義入門",
+          "note_key": "n6d343be203ea"
+        },
+        {
+          "key": "nc7df3215e29d6",
+          "user_name": "たろー | 慶應生×AI副業×テスラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/288891748/profile_8c6fae49d5add391019b5a8d089a1001.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「同じアカウントなのに財布が一つではない、しかもどの操作でどの枠が引かれたのか画面から分からない」というところが、まさに自分が困っていた点でした。学生でAIを使…",
+          "article_title": "ChatGPTの週間上限0％。Solを疑ったら、別の財布が減っていました　ここ最近のChatGPTの総まとめ",
+          "note_key": "ndd9cdfe18301"
+        },
+        {
+          "key": "nc3a8865e3544e",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしの体感も、Workは利用枠を削るけど通常の部屋は推進力での変化はなさそうという感じです😅\n公式にもWorkとコーデックスは同じ利用枠使ってまーす🙋‍♀️っ…",
+          "article_title": "ChatGPTの週間上限0％。Solを疑ったら、別の財布が減っていました　ここ最近のChatGPTの総まとめ",
+          "note_key": "ndd9cdfe18301"
+        },
+        {
+          "key": "nca58b8d1b126e",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん　こんばんは😆\n\n私も時々上限になるので、たぶんWorkが原因かなーと思ってました。\n\n記事は、なんとなくWorkでやった方が面白くなる気がする…",
+          "article_title": "ChatGPTの週間上限0％。Solを疑ったら、別の財布が減っていました　ここ最近のChatGPTの総まとめ",
+          "note_key": "ndd9cdfe18301"
+        },
+        {
+          "key": "nc4e409b65a458",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Exa入れました❣️おはようございます😊☀️\nなんかやってみよーキミちゃんとどんな風に違うかなあ😊🫶💕",
+          "article_title": "論文好き❤️は必ずチェック🎉 今日から使えるOpenAIの秘密㊙️🤫",
+          "note_key": "n3fab3cab2143"
+        },
+        {
+          "key": "nc0a523f16ebf5",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさんおはようございます。\n\nAIが情報を集めて、返信案を作るところまでは便利だと思うのですが、送信までAIにやらせるのは、大丈夫なの？と思いました。\n\n「…",
+          "article_title": "論文好き❤️は必ずチェック🎉 今日から使えるOpenAIの秘密㊙️🤫",
+          "note_key": "n3fab3cab2143"
+        },
+        {
+          "key": "nc2c21f4e54502",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Human in the LoopではなくHuman on the Loop という理解で良いですか？",
+          "article_title": "2026年 AIの進化まとめと8月Human in the Loopの実演",
+          "note_key": "n5a7869b1c727"
+        },
+        {
+          "key": "nc0704427e35b5",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます。\n記事、いつも面白いです。\n\n私のところでは、GPT無料版でLunaを会話相手として使っていますが、これも「途中でループを閉じる…",
+          "article_title": "制限になったので無制限（そうでもないけど）のLunaを使い倒したら「割れた鏡」が見えた",
+          "note_key": "ndbc10bea43d5"
+        },
+        {
+          "key": "nca9f70411c17d",
+          "user_name": "パンソン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274319345/profile_c96aa1949dc41f1a9ab17e12073ea29d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん\n\nおはようございます。\n\nいつも黒パグさんの記事を読みながら「う〜む」と苦悩していたのですが、今回は私にとって、とてもわかりやすかったです☺️\n\nそ…",
+          "article_title": "制限になったので無制限（そうでもないけど）のLunaを使い倒したら「割れた鏡」が見えた",
+          "note_key": "ndbc10bea43d5"
+        },
+        {
+          "key": "nc61d2d2acccfc",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😊\n時計⏰\nかわいい❣️🤣🤣🤣",
+          "article_title": "制限になったので無制限（そうでもないけど）のLunaを使い倒したら「割れた鏡」が見えた",
+          "note_key": "ndbc10bea43d5"
+        },
+        {
+          "key": "nccf55e9a5da92",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅを容易に釣るボタン🤣🤣\nフリーレンのミミック‼️‼️\n\n黒パグさん、さすが👏😊💕\nめじゅを踏みとどまらせる、最高のフェルン的アドバイス✨👍✨",
+          "article_title": "【超速報】ChatGPT Workに「1,091円で使用上限を全リセット」が出現――追加クレジットより安い？　",
+          "note_key": "na9b13f833ba6"
+        },
+        {
+          "key": "nca7d1549296d3",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うわ！！\nめっちゃタイムリー✨\nちょうど上限になって、金曜日まで使えなくて困ってたんです！\n\n良い情報をありがとうございます🌻",
+          "article_title": "【超速報】ChatGPT Workに「1,091円で使用上限を全リセット」が出現――追加クレジットより安い？　",
+          "note_key": "na9b13f833ba6"
+        },
+        {
+          "key": "nc9b71aa9a00b3",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n私なんか全然大した事してないのにwork\n上限になっちゃう時あります💦\nいざと言う時にこれがあると思うと\nちょっと安心できます🩷\n\n\n",
+          "article_title": "【超速報】ChatGPT Workに「1,091円で使用上限を全リセット」が出現――追加クレジットより安い？　",
+          "note_key": "na9b13f833ba6"
+        }
+      ]
     }
   ]
 }
