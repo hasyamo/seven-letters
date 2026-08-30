@@ -1824,16 +1824,16 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "mahiru",
-      "condition": "many_posts",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 259,
+        "likes_total": 293,
         "likes_prev": 310,
         "followers_start": 606,
-        "followers_end": 613,
-        "new_fans": 81,
-        "comments_total": 15,
+        "followers_end": 614,
+        "new_fans": 87,
+        "comments_total": 23,
         "posts_count": 5,
         "consecutive_days": 3,
         "post_times": [
@@ -1844,19 +1844,51 @@
           "19:27"
         ],
         "top_article": {
-          "title": "note巡回がもっと快適に｜600件超に対応した「note Creator Summary」の使い方",
-          "key": "nde036e9f7fb1",
-          "likes": 64,
-          "comments": 6
+          "title": "2026年夏、AIを使い倒した非エンジニアが厳選！「いまなくなったら困るAIツール」Best7",
+          "key": "n7058a0c9c3f3",
+          "likes": 86,
+          "comments": 4
         },
         "notable_reader": {
           "name": "とある社会人の自己成長記録note📚",
           "urlname": "kens_reading1",
           "follower_count": 18498
         },
-        "commenters_count": 8
+        "commenters_count": 12
       },
       "comments": [
+        {
+          "key": "nc7387755ea89d",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは。\n今回の記事も面白かったです。\n私もChatGPTだけ課金してるし、もはやなくてはならないAIです。\nあとは、Claudeで編集者チェッ…",
+          "article_title": "2026年夏、AIを使い倒した非エンジニアが厳選！「いまなくなったら困るAIツール」Best7",
+          "note_key": "n7058a0c9c3f3"
+        },
+        {
+          "key": "nc1bb5a44a93ff",
+          "user_name": "Mayuさん 元商社OLの挑戦と、人生の転機の裏側 ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299337735/profile_a5a0b003206dd9152f819b39d5359f0d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても参考になります。\nCopilotははいっていないのですね。。。\n私は、Copilot, Chat GPT, Claudeの３つが推しです。 ",
+          "article_title": "2026年夏、AIを使い倒した非エンジニアが厳選！「いまなくなったら困るAIツール」Best7",
+          "note_key": "n7058a0c9c3f3"
+        },
+        {
+          "key": "nc2e1d8fb08f2d",
+          "user_name": "ちぇぶ｜現役看護師👩‍⚕️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301066176/profile_a1b2ac0d3a74ac78527dd96d8c4c6863.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます！！\nそしてラクダさん、ご卒業おめでとうございます🎉㊗️🎉\n\n頑張って私もラクダさんに続いてーーとも思うのですが、それでも…",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
+        {
+          "key": "nc8c8e49dfe502",
+          "user_name": "あい🌿更年期看護師　40〜50代の日々を整えるヒント",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289647423/profile_b6cde4d96022c3e02a1a163676992c2d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは！\nいつもありがとうございます✨\nこのたびはご紹介いただきありがとうございます。\nご縁に感謝いたします。\nおかげさまでnote、楽しく継続…",
+          "article_title": "ラクダ",
+          "note_key": "n2561dd848316"
+        },
         {
           "key": "nc88ca4bed85c0",
           "user_name": "てぼっこ",

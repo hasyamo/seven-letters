@@ -1443,16 +1443,16 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "mahiru",
+      "condition": "many_posts",
       "rare": false,
       "stats": {
-        "likes_total": 693,
+        "likes_total": 731,
         "likes_prev": 481,
         "followers_start": 5551,
-        "followers_end": 5785,
-        "new_fans": 167,
-        "comments_total": 21,
+        "followers_end": 5796,
+        "new_fans": 175,
+        "comments_total": 27,
         "posts_count": 3,
         "consecutive_days": 1,
         "post_times": [
@@ -1463,15 +1463,15 @@
         "top_article": {
           "title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
           "key": "n7d36555421bb",
-          "likes": 239,
-          "comments": 15
+          "likes": 293,
+          "comments": 18
         },
         "notable_reader": {
           "name": "OSAKA",
           "urlname": "market_osaka",
           "follower_count": 17039
         },
-        "commenters_count": 8
+        "commenters_count": 9
       },
       "comments": [
         {
@@ -1505,6 +1505,14 @@
           "body": "お疲れ様です。投稿拝見しました。ほんとKindle出版おめでとう御座います♪やりましたね。",
           "article_title": "『Kindle出版おめでとうございます。』-yukariyajpさん- ",
           "note_key": "nda1f6a06e425"
+        },
+        {
+          "key": "nc3f8e981f595e",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n恐縮ながらこの場をお借りしてコメント失礼します\n記事、マガジンへの追加感謝申し上げます",
+          "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
+          "note_key": "n7d36555421bb"
         },
         {
           "key": "nc37f9aca9c145",
@@ -1541,7 +1549,7 @@
         {
           "key": "nc6320310ed8ba",
           "user_name": "あいびより。AIクリエイターの日常🐾",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303864006/profile_ecf9a7026234478a939f1b08cb234a57.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306471146/profile_cbaa66739c5488d5bce2c80aa7221b7c.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "まいかさん、こんばんは🌙\nプロンプト使ってもらえてすごく嬉しいです🤭\nまさか、まいかさんに取り上げてもらえるとは...感動です(,,- -,, )\n\n素敵な線香…",
           "article_title": "『AIアートクリエイターの頂点に立つまいか🐇の花火アート』-夏アート2026- ",
           "note_key": "n7d36555421bb"

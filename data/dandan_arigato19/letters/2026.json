@@ -4609,16 +4609,16 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "rinka",
-      "condition": "consistent_time",
-      "rare": true,
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
       "stats": {
-        "likes_total": 338,
+        "likes_total": 351,
         "likes_prev": 279,
         "followers_start": 712,
-        "followers_end": 719,
-        "new_fans": 61,
-        "comments_total": 22,
+        "followers_end": 720,
+        "new_fans": 64,
+        "comments_total": 32,
         "posts_count": 7,
         "consecutive_days": 7,
         "post_times": [
@@ -4631,19 +4631,27 @@
           "06:00"
         ],
         "top_article": {
-          "title": "私は、初心者を卒業しない。🔰永久初心者目線が、私の武器になった話。",
-          "key": "n0535bc18c649",
-          "likes": 44,
-          "comments": 4
+          "title": "なんでめじゅは、占いの「矛盾」を消さないんだろう？🤔",
+          "key": "nfc5fe06beb83",
+          "likes": 48,
+          "comments": 6
         },
         "notable_reader": {
           "name": "龍神",
           "urlname": "tatsuopapa",
           "follower_count": 14865
         },
-        "commenters_count": 9
+        "commenters_count": 11
       },
       "comments": [
+        {
+          "key": "nc00641d9b78cd",
+          "user_name": "永野江理「ひらがな研究所」「楷書の鬼」",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249970376/profile_88fc2c91db7840abc8e618b00cc46d37.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん初めまして🙇永野と申します。\n私もINFJｰA（提唱者）です😄\nこういうの結構好きです😆\nまた他も覗かせて頂きます✨",
+          "article_title": "なんでめじゅは、占いの「矛盾」を消さないんだろう？🤔",
+          "note_key": "nfc5fe06beb83"
+        },
         {
           "key": "nc04810e247a19",
           "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
@@ -4667,6 +4675,14 @@
           "body": "こんにちは🪶\nあれ…これ…それ……\nそれです。で通じていたのがでかもの数学？？\n本当は算数からやり直し組です💦\nめじゅさん、ありがとうございます🌻とてもうれしく…",
           "article_title": "学生諸君、数学を楽しみたまえ。物理で遊ぶのじゃ。🤣",
           "note_key": "nd2d0fee56d8a"
+        },
+        {
+          "key": "nc6708511b537b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、これ読んで、AIが進化すると「コードを書ける」みたいな技術そのものは、どんどん平坦になっていくのかもなぁと思いました。\n\nでも「あっちとこっちが手を…",
+          "article_title": "技術が足りないと思っていたら、「あっちとこっちが手を繋いでる」のが見えていた。",
+          "note_key": "n2eb4e00c6801"
         },
         {
           "key": "nc6ae6d5cac4a5",
@@ -4701,6 +4717,14 @@
           "note_key": "n2eb4e00c6801"
         },
         {
+          "key": "nc7fe1ef9286a4",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌙\nサイトマップって自己紹介記事でよく見かけますよね✨️\nズボラなんで、極力楽したい〜🤣\n毎日投稿してるとどんどん記事が追加されて、新しい…",
+          "article_title": "私は、初心者を卒業しない。🔰永久初心者目線が、私の武器になった話。",
+          "note_key": "n0535bc18c649"
+        },
+        {
           "key": "nc199bf53d23ea",
           "user_name": "ヘクたろー|緑内障でも「面白い」を残したい男",
           "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -4724,8 +4748,7 @@
           "article_title": "パッチワーカー、あながち大ぼらじゃなかった。",
           "note_key": "n4570d809abf1"
         }
-      ],
-      "rare_no": 3
+      ]
     }
   ]
 }

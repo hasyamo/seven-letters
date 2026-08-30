@@ -9039,19 +9039,20 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "tsukiko",
+      "condition": "consecutive",
       "rare": false,
       "stats": {
-        "likes_total": 1028,
+        "likes_total": 1119,
         "likes_prev": 1264,
         "followers_start": 1819,
-        "followers_end": 1836,
-        "new_fans": 99,
-        "comments_total": 169,
-        "posts_count": 6,
-        "consecutive_days": 6,
+        "followers_end": 1837,
+        "new_fans": 109,
+        "comments_total": 220,
+        "posts_count": 7,
+        "consecutive_days": 7,
         "post_times": [
+          "20:52",
           "21:28",
           "20:13",
           "20:15",
@@ -9060,19 +9061,163 @@
           "21:18"
         ],
         "top_article": {
-          "title": "✨ハッピーライティングマラソンお題#63｜「あなたを支えてくれている人は、誰ですか？",
-          "key": "n60ba0664bd33",
-          "likes": 163,
-          "comments": 19
+          "title": "🌱 スキのタネ研究所だよりVol.００４",
+          "key": "nfc60b65eabb4",
+          "likes": 170,
+          "comments": 34
         },
         "notable_reader": {
           "name": "山梨県の古民家和み庵",
           "urlname": "bright_eel176",
           "follower_count": 36849
         },
-        "commenters_count": 47
+        "commenters_count": 57
       },
       "comments": [
+        {
+          "key": "nc861bf2442473",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは☀️\n\n今回の「好きになったあと、どう動くか」すごく面白かったです🌱\n\n私はたぶん、好きだと思うと、スキを押したりコメントしたりするだけじゃ…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc822f8d28b65b",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nご紹介くださり、ありがとうございます😊\n\nスキもいろいろなスキがありますよね。\n\n私もいっぱいコメントがあると遠慮したりしますし、\nあと、そっと自分…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc820063d07d91",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n「好き」のあとに、こんなにいろんな形があるんだなぁって、面白く読ませてもらいました♡\n私も、スキだけ残してそっと帰ることあります☺️\n…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc9d29a7db7723",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "数字とか見たことないですね🤣\n「私が」好きと思ったら、それだけで満足です🐱✨\nコメント0でも100でも、なんならスキ押し忘れてコメント直行！笑\n\n忘れてなければ…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "ncc46024c9c093",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかる～～❣\nいっぱいコメント付いてると、遠慮しちゃったり\n共感したけど一言ではコメントできないな、と思うと\n無言で（笑）マガジンに入れさせてもらったり。\n\nス…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc8ea334f16dfc",
+          "user_name": "タカ｜50代からの再出発",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285416317/profile_cab712a31f0588680df504bf65dd9d17.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "同じ「好き」でも、どう動くかは人それぞれ。そんな小さな疑問から始まる研究所の雰囲気が大好きです😊\nコメント制限があったりスキが押せなかったりしても、マガジンにそ…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc2534a487ec78",
+          "user_name": "なおの縁側",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219673344/profile_4ffa9af85f79b1b458b20f9dd6337c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\nご紹介いただき、とても嬉しいです✨\n\nスキの形が違うって、本当にそうですよね！\nどれもスキに違いはないけど、\n表に出す行動はいろいろ。\n素敵な考え方…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc242eabf5a9dd",
+          "user_name": "NEKØ:CODE  (ネココード)｜AIと紡ぐ物語と音楽",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301969810/profile_9a16aba71d4355e100cdc6271e6f1739.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、ご紹介ありがとうございます☺️🌱\n\n同じ「好き」でも、そのあとどう動くかで“スキの形”が違うという視点、とても面白かったです✨\n確かに、言葉にしたくな…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc2c674362d52e",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀\n\n僕もこれは好きだなと思ったらコメントを書く方だと思います🤔\n(最近は思うように遊びに行けてないですが)\n\nただ忙しい時は非公開…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "ncea7edc13fb0a",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan\nまたまた、ごきげんよう✨\n\n「これ、好きだな」って思ったら\nコメントしているかもしれません🤭\nコメントして、スキのボタンを\n忘れるくらい、コメント…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nca81c584276d7",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nご紹介ありがとうございます🥰♪:*°\n\nうん\nnoteを初めた頃は\nコメントって\nしてなかったですꉂ🤣𐤔\n\nスキしか\nしてなかったですね\n\n気が付いた…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc720d3b353084",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキはなるべく返すかな🤔\nコメントはしやすい人、コメント書きずらい人はいるかな？\n感想なんて書いたら…って悩んで、スキだけ押してそっと去るのも結構多いかも(;´…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc739672b29267",
+          "user_name": "🟥神室海夜(*´∀｀*)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278489845/profile_82bbfba53bf746260e6399ba39b8567c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マイテ：Ｓnoteしゃん特集😺💕💕\n　　にゃふふふん😺💕\n　　わしの記事も\n　　ありぎゃとにゃ〜ん😺💕\n　　💕ゼノチェインに追加させて頂いたにゃん😺💕",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "ncd3fad33c0e48",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n\n私の場合、言葉にせず、そっと持ち帰ることもよくあるかなあ😃\nもちろんスキはおして、コメントしたり、しなかったり。\nその時の忙しさにも…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "ncf7a01eff8694",
+          "user_name": "運命デザインラボ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297649522/profile_ff17ddc06d080c2f2eae308cc73abb58.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「好きになったあと、どう動くのか」という問いを読んだとき、この切り口の鋭さに、続きを読まずにはいられませんでした。\n好きかどうかではなく、好きになったあとの動き…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.００４",
+          "note_key": "nfc60b65eabb4"
+        },
+        {
+          "key": "nc569c1dc6eff4",
+          "user_name": "🌸おはな＆🐕️まめしばさん裏裏アカ公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304321850/profile_a5a3d40020bec93588ebcd5308336af9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nコンパス みきさん、おはようございます！✨\n緑どんぐりさんの「好き」を巡るNRT研究、ロジやコスモたちとの軽快な掛け合いに引き込まれました🌱「面白そう…",
+          "article_title": "🔬「なんで？」の前に、“あれ？”がいた。",
+          "note_key": "n15c6d477fa18"
+        },
+        {
+          "key": "nc37feb8287fcd",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます☀️\n発掘おつかれさまでした⛏️\n今回すごいです🤣\n\n「なんで？」の前に「あれ？」がいた、で一気に腑に落ちました。\n\n特に、\n気にな…",
+          "article_title": "🔬「なんで？」の前に、“あれ？”がいた。",
+          "note_key": "n15c6d477fa18"
+        },
+        {
+          "key": "nca275850810c1",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271515882/profile_2813e89b97e45da58ac568acba833973.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨こんばんは～🎵\n今回も研究がどんどん深くなっていくの面白かったです😊\n健康スリッパまで研究材料になるとは🤣\n好きって、時間の長さだけじゃないんだなって…",
+          "article_title": "🔬「なんで？」の前に、“あれ？”がいた。",
+          "note_key": "n15c6d477fa18"
+        },
         {
           "key": "nc839626f7470c",
           "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
@@ -9220,7 +9365,7 @@
         {
           "key": "nc8ff27ffa9abd",
           "user_name": "響 / hibiki",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんばんは♪\n\n同じく夜型の民です🌙\n寝ようかなと思った頃に頭が冴えてくる感じ、すごく共感しました笑\n\n静かな夜ほど、自分の声までよく聞こえてくるとい…",
           "article_title": "🌉夜に輪郭が現れる🎵",
           "note_key": "n0fbf29465503"
@@ -9338,6 +9483,14 @@
           "note_key": "nefa19e261f58"
         },
         {
+          "key": "nc5730755ed245",
+          "user_name": "花日和と碧色",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279916697/profile_02821861953d3f534e26268dc1a1f3cf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん💕こんにちは。いつもありがとうございます。\nなんて素敵な曲なのでしょう✨一音一音がキラキラと心の余白に響きました。素敵〜✨　みきさんは、才能が本当に豊か…",
+          "article_title": "【音の夏休み】🎶自分の中に眠る夏の記憶を呼び覚ます「夏の余白」🎐",
+          "note_key": "n5ff728cb5bd4"
+        },
+        {
           "key": "nc2c9c39e6bed0",
           "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
           "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -9436,7 +9589,7 @@
         {
           "key": "ncc1e0a19e35eb",
           "user_name": "響 / hibiki",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんばんは♪\n\n素敵な音色ですね✨\n聴いていると、昔の夏だったり、忘れていた景色だったり、いろんなことをふと思い出させてくれるような曲でした🎐\n\n「夏…",
           "article_title": "【音の夏休み】🎶自分の中に眠る夏の記憶を呼び覚ます「夏の余白」🎐",
           "note_key": "n5ff728cb5bd4"
@@ -9467,15 +9620,31 @@
         },
         {
           "key": "nc20e159189b58",
-          "user_name": "宵月ユウ｜非力無才",
+          "user_name": "宵月ユウ｜宵空カリスマックス",
           "user_icon": "https://assets.st-note.com/production/uploads/images/303326978/profile_486be628315e53588621f6293356cb39.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "アコギの似合うピアノの音色で心の穢れが落とされました☺️",
           "article_title": "【音の夏休み】🎶自分の中に眠る夏の記憶を呼び覚ます「夏の余白」🎐",
           "note_key": "n5ff728cb5bd4"
         },
         {
+          "key": "ncc5feb4ebee01",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん、審査結果ごらんになりましたか～😆🎶\n受賞おめでとうございます✨️✨️🎉✨️✨️",
+          "article_title": "🌻第2回スキ動画コンテスト「夏の陣」",
+          "note_key": "n392180cec50e"
+        },
+        {
+          "key": "nc47e1de8a1577",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296407414/profile_b69bddd868b40cd668f5192bc2b032d0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完成度どれも高かったです！\n応募作品のやつも素晴らしいですが、個人的にはお祭りのやつが好きです！\nお祭り騒ぎな感じ、よく表現出来てて面白いです🤣\n射的がライフル…",
+          "article_title": "🌻第2回スキ動画コンテスト「夏の陣」",
+          "note_key": "n392180cec50e"
+        },
+        {
           "key": "nc284fa37f700b",
-          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO(ギックリ腰、やっと緩和期突入しました✨)",
           "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん\n\nスキ動画どれも素敵でした🌈\n初めてとはとても思えない完成度の高さでした！\n特に🐰や🐹のスキ動画めちゃくちゃ癒されました🩷\n最後の🐉の発想は、カッコよ…",
           "article_title": "🌻第2回スキ動画コンテスト「夏の陣」",
@@ -9620,14 +9789,14 @@
         {
           "key": "nc2cf1afa53c38",
           "user_name": "響 / hibiki",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/264962038/profile_2adf67dc67e328ace97f492ba2ac44e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんばんは♪\n\n白い龍が出てきた瞬間、なんだか良いことありそうって思いました✨\n\n5秒なのにちゃんと印象に残るのが面白いですね。\n「スキ」をこういう形…",
           "article_title": "🌻第2回スキ動画コンテスト「夏の陣」",
           "note_key": "n392180cec50e"
         },
         {
           "key": "nca5f74b86fc3d",
-          "user_name": "宵月ユウ｜非力無才",
+          "user_name": "宵月ユウ｜宵空カリスマックス",
           "user_icon": "https://assets.st-note.com/production/uploads/images/303326978/profile_486be628315e53588621f6293356cb39.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "面白い企画ですね✨早すぎ流しそうめん！あれやりたいです🤣",
           "article_title": "🌻第2回スキ動画コンテスト「夏の陣」",

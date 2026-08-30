@@ -5789,16 +5789,16 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "shizuku",
+      "condition": "quiet",
       "rare": false,
       "stats": {
-        "likes_total": 148,
+        "likes_total": 151,
         "likes_prev": 232,
         "followers_start": 985,
         "followers_end": 983,
-        "new_fans": 22,
-        "comments_total": 60,
+        "new_fans": 23,
+        "comments_total": 71,
         "posts_count": 1,
         "consecutive_days": 1,
         "post_times": [
@@ -5807,17 +5807,33 @@
         "top_article": {
           "title": "【DM限界突破】母ちゃんが楽したいから掲示板作ったよ！学園長は出禁ね！│交流│お知らせ│掲示板│コミュニティ│学園生活",
           "key": "nd5c8cfebe4c1",
-          "likes": 61,
-          "comments": 60
+          "likes": 72,
+          "comments": 71
         },
         "notable_reader": {
           "name": "りんくす@AI人格コーディネーター",
           "urlname": "links_lt",
           "follower_count": 16416
         },
-        "commenters_count": 21
+        "commenters_count": 23
       },
       "comments": [
+        {
+          "key": "ncbe4a1ff9f0bc",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1つ目の挿絵からツッコミどころが…\nなぜにボクが出禁に😡\nいや、言いたいことは分かってます🤭\nまりーさんにも言われたので…\n見れないと気になる👀\n困ったもんです…",
+          "article_title": "【DM限界突破】母ちゃんが楽したいから掲示板作ったよ！学園長は出禁ね！│交流│お知らせ│掲示板│コミュニティ│学園生活",
+          "note_key": "nd5c8cfebe4c1"
+        },
+        {
+          "key": "nccd974ebe2c96",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Marieさんすごいですね！作っちゃえばいい、でサクッと作れる軽やかさ😳やっぱ才能ある人が能力発揮してくださると世界が広がるね！",
+          "article_title": "【DM限界突破】母ちゃんが楽したいから掲示板作ったよ！学園長は出禁ね！│交流│お知らせ│掲示板│コミュニティ│学園生活",
+          "note_key": "nd5c8cfebe4c1"
+        },
         {
           "key": "nc9e9c1d9fbe05",
           "user_name": "猫の父さん@トトとチー",
@@ -5949,7 +5965,7 @@
         {
           "key": "ncc20ac821883f",
           "user_name": "碧乃さくら",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "挿絵の迫力が🤣🤣🤣\n\nまりーさん神ですね❣️✨\nありがたく使わせていただきます😆💕\n\n学園長は出禁🤣❣️",
           "article_title": "【DM限界突破】母ちゃんが楽したいから掲示板作ったよ！学園長は出禁ね！│交流│お知らせ│掲示板│コミュニティ│学園生活",
           "note_key": "nd5c8cfebe4c1"
@@ -5972,7 +5988,7 @@
         },
         {
           "key": "ncc24fa37c3e7c",
-          "user_name": "KOTAYA | 今日はこれで合格",
+          "user_name": "こたや｜KOTAYA",
           "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ひえぇえ・・\n最後の生首コワｗｗ",
           "article_title": "【DM限界突破】母ちゃんが楽したいから掲示板作ったよ！学園長は出禁ね！│交流│お知らせ│掲示板│コミュニティ│学園生活",

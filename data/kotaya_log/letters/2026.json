@@ -5096,19 +5096,20 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "rinka",
+      "condition": "consistent_time",
       "rare": false,
       "stats": {
-        "likes_total": 395,
+        "likes_total": 456,
         "likes_prev": 313,
         "followers_start": 3362,
-        "followers_end": 3459,
-        "new_fans": 68,
-        "comments_total": 198,
-        "posts_count": 4,
+        "followers_end": 3462,
+        "new_fans": 77,
+        "comments_total": 250,
+        "posts_count": 5,
         "consecutive_days": 2,
         "post_times": [
+          "21:06",
           "20:30",
           "20:30",
           "20:30",
@@ -5117,17 +5118,569 @@
         "top_article": {
           "title": "フォロワー数は、あなたの点数じゃない。｜BREAKOUT GRAND PRIX開催",
           "key": "n81c4eec465c2",
-          "likes": 120,
-          "comments": 101
+          "likes": 142,
+          "comments": 108
         },
         "notable_reader": {
           "name": "まなつ/突出マイノリティ列伝",
           "urlname": "tosshutsu_m",
-          "follower_count": 8560
+          "follower_count": 8587
         },
-        "commenters_count": 46
+        "commenters_count": 55
       },
       "comments": [
+        {
+          "key": "nc19e3dac7fd85",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、\n\nたしかにバトン企画は好き嫌いが分かれるよね！最初から「バトンは受け取らない」って公言してるクリエイターもいるし。\n\n動かすというアイデアは全くな…",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc4362e52545e9",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238898866/profile_b47389bc5953cb4d37cf45a1d4d208c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん〜❣️\n\nな、なんか！\nカード動いてる〜🙄✨\n\nさすがKOTAYAさん👏💕\n私のハートの怪物も動かしてみようかな😍✨w",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncd04ea9bdf3da",
+          "user_name": "空手家パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296028366/profile_a19cb9a5d5c82edf888eae8c776d69d8.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、はじめまして！\nすげー、カードカッコいいと思ってたら、、うごいとるーーー！！！\n\nびっくりしました。\nコレクションにさせていただきます🙇‍♂️",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc79f8a9de73cf",
+          "user_name": "ぱっちー｜暮らしと挑戦の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245676944/profile_562ac5d90061c1a05b7df5c739cbae68.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは♪\n\nクリエイター図鑑、まさか動くとは驚きました😆\n「ついでに動かしました」とさらっと書かれていましたが、すごいですね！\n\n「楽しそ…",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncb89b6fc54dcc",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "壁ちら　壁ささ　壁ちら　（ぼそ）魔法少女か！？\nにげろおおおおおおおおおおおおおおおおおおおおおおおおおお",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncac8ceb06eed0",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、かっこいいです、星の数凄⁉️\n",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc54ba7dd9f179",
+          "user_name": "営業パパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280175768/profile_e9b8115d4e8a61b9d3a6439776b73e24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントでは初めまして✨\n営業パパと申します。\n\n実は前々からフォローさせていただいておりまして、圧倒的なセンスと分析力にいつも惚れ惚れしています😳💦\n\nそして…",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc6963ab9f7361",
+          "user_name": "ゆぴか ☀︎在宅で働きたい主婦（ちょっとワケあり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんにちは😃\n\n動いてるカード初めて見ました👀✨\nしかも星がいっぱいですごいですね🤩",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc7c5dca501c22",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\nバトン受け取りました( • ̀ω•́  )ｷﾘｯ✧\nそして…やっぱりメチャクチャかっこいいなぁ💦\n\n私がカード出すのは時間がかかるかも…(*>…",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nca166e5ac4812",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です🌟\n\n普通に終わらせないあたりがこちゃさんらしい🤭\n動画にして、サラッと終わらるのがクールです🌟\n",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncdc0ada0eff96",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クリエーター図鑑✨✨\nめちゃくちゃかっこいいです😄\n星の数、すごっ！動画いいですね👍\n\n次の母ちゃんも楽しみ🎶🎶",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncaa8b6ad6ba0e",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんの、そう言った思考が大好きです💖\n大人の品格と余裕とカッチョよさ満載で、素敵すぎる案件で萌えます～💖💖\n\n大人の流儀、最高👍✨💕\n\n動いてるKO…",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncfbff4ed110d8",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ、待って！星、何個？11個😳",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc338717a1ca4c",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキ押したら\n「もう一回押して」が出たんですけど、\n消せってことですか？(°∀°)\n\n動くのステキですけど一部文字読めない…\n目がー目がー('A`)",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nce0c8ecb8fe62",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308356896/profile_b746fee088341446ccd32354201ffc76.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー❣️❣️❣️\n\n動いてのすごいカッコいいですね‼️🤩✨✨✨\nさすがKOTAYAさんだ…☺️🌸",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc2e07f526c183",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\n愛する共犯者でよかった👍笑\nそして、共犯者へのバトン🙆",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc92b337ea78b3",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動いてる( ﾟДﾟ)\n\nさすがKOTAYAさん😆",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncea1f6343fe3b",
+          "user_name": "コツシバ｜ベンチプレス140kgエンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303549581/profile_ee075004d3db40aaa6cdbc7e5ebd416a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "甘いもの無理なのはイメージ通りですね🤭\n\nブラックコーヒーLOVEなイメージ☕️",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "ncc722139259ba",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「共犯者に見たいって言ってもらったから」\n\nなんともこちゃらしい執筆理由だね〜❣️✨\n\nその共犯者への愛の強さ、\nこちゃの好きなとこランキングで\n間違いなく上位…",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc3383b8fbac71",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動いてるの初めて見ました❣️✨\n\nさすがこちゃさん😆💖",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nce031ada32471",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298054265/profile_067db9ce36487e0127332ba8086ac1e3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クリエイターカードがう、う、う、動いてるうぅぅう！！\n\nすごっ！！\n\n素敵💕",
+          "article_title": "クリエイター図鑑、私も作りました。ついでに動かしました。",
+          "note_key": "nade9e7005adf"
+        },
+        {
+          "key": "nc79e56e9befc5",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299954884/profile_4bef21e1f548885f46651ce1baca17ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさーん\n私もGPTsをめちゃくちゃ使わせてもらってるんで今回も購入させてもらいます✨\nCodexははじめてだけどこの機会に使ってみます🤭\nあとで落ち着いた…",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc192213e1ef0e",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん！\n\nめっちゃ売れてますねー🫨\n凄すぎるよ姉さん😎！\n\nそしてBrainまでやってたなんて！\nフットワーク軽すぎんかー！！",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc604ad30a6a3d",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これはね〜、なるべくターミナルから\n離れたくない病の患者にとっては\nめちゃくちゃ画期的よ〜❣️✨\n\nとくにアイキャッチに関していえば、\n\n「このGPTsの中身の…",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nce02ff7d2771c",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは。\nGPTsがめちゃくちゃ便利だったので、Brain購入させていただきました。\nChatGPTはPIusですがCodexはまだ使ってなかっ…",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "ncbbc2e929bb61",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "買っちゃいました。\n\n早速使いたいけど、今日は酒におぼれてダメっす💦\n\nどれかの記事で使ってみた感想書きまする。",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "ncb421371d4e79",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "良いなぁ…私…PC💻ないから…早くどーにかしないと…🤣",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc3dfcc64f9d28",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "使い分けと販売方法、なるほど～でした！\nChatGPTのプラン、今のところPlusの下のGoなので\n引き続きGPTsにお世話になります🙂‍↕️",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc87a7fea9591e",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは！\n\nついにBrainも✨\n誰でも紹介がしやすいプラットフォームなのが良いですよね😌\n\ncodexは使ってないので、引き続きGPTs…",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc7aced4841964",
+          "user_name": "andy｜投資・仕事・noteをデータで育てている人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事1本分で使って見ました〜\nほかの絵柄のスタイルも色々試してみたくなりました！\n共犯者っぽく、使って色々紹介させて下さい💰",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nccd73aa3128be",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そういう使い方もできるのね！\n勉強になりました✨",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc25e1e6233369",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "へえー！！切り口おもしろい！！",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc0205c2bf767d",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nビジネスセンス半端ない🤣\nちゃんと特徴切り分けて…\n\nこれ以上はあんまりいえないですね🤫笑",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc7b2432ac7f6e",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かう～～～🐂ｺﾚﾊcow",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "nc29612041879f",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "共犯者っぽくていいですね✨",
+          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
+          "note_key": "ncaebbacdefba"
+        },
+        {
+          "key": "ncd357673424f0",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "壁ちら　壁ささ　壁チラ　（ボソ）分析、解説、最初見たとき怪獣かと思った。\n今日は静かに去るぜ！サリュー。ささっさささあささあささささ",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc73e90d268f81",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "絵文字の数を分析する……非常にあかねさん向けの分析だと感じました。\n実際、絵文字を多用することで「柔らかく」していると感じる部分が多々あり、いったいどれだけの絵…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "ncee7afeece4ec",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜❣️\n分析依頼おつかれさま〜🍵\n\n> この珍獣、\n> noteでずっと祭りを開いている。\n\nこれ内容が衝撃だね〜🫨\n\nあと、みんな言ってるけど、\n「絵文…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc2366df293742",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です🌟\n\n今日の驚きは絵文字の数！🤩\nそんなんまで拾えるんですね🤭びっくりです😄\nこちゃさんのこれに気づけたところもすごい😙\n\n私も自由…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc73d284ff1358",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます😊\n\n超分析、流石です✨あかねさんの絵文字まで集計されてまさに丸裸ですね😁\n\n以前、ナオユキさんが歌舞伎町のお店でイラストを…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc27c275c1c9b5",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イヤン🫣💦あかねちゃんファンが露呈してしまったわ🤭💞",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc1e72a91f347e",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303061472/profile_b5be8eb2c9fcba4afc62f1724705313b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん✨\nあかねちゃん、コメントのところ3位！😳✨\n私、そんなに常連客だったんですね。\n数字で見るとびっくりしました😂\n\nそして後半の、**「人を巻き…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "ncef40475f0ecc",
+          "user_name": "いちごもん🍓｜半径1メートルにやさしさを届けたい人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305912272/profile_d852237236c749f453642fc7ec740cbb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "す……すごい分析力✨🌈\nあかねちゃんのことが丸わかりです🍓💕まさかわたしがあかねちゃんのコメントランキング2位とは😆🍓\nあかねちゃんのファンとして嬉しい限りです…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc966b446e61fa",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "珍獣は群れを作った(笑)コメントランキング私4位か（・∀・）ﾆﾔﾆﾔ",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc077e957eea27",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさーーん🦄🌈💖✨\n\n142記事も遡って、こんなに細かく分析してくださり、本当にありがとうございまーすっー🌸✨\n\nまさかの絵文字の回数まで🤣🤣🤣\n💖4…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc8e1a60ef0693",
+          "user_name": "きくちゃん｜人生立て直し中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284228823/profile_98ec8a95744b93d39b803d402f64d9f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\nこんばんは🌟\nこのnote分析を最初に見た時めちゃくちゃびっくりしました🤣🤣\n\n　\nここまで見るの？😳\nって普通に衝撃的でした🤣\n\n実はこの分析を見…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc0034f4812113",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすが、あかねさんの魅力が凝縮された記事ですね！\nあのパワーには圧倒されてしまいます！",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc05a35c4e5a22",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたしゃん\n\nこばんわ♪\n\n今回の分析濃ゆくてよきよきね😊♪\n絵柄もワールド全開だし、雰囲気も👍️♪\n\nこんな風に分析だけではなく、\nnoterさんに寄り添って…",
+          "article_title": "生態図鑑に、本物の珍獣が来た。",
+          "note_key": "n408ace3a2bde"
+        },
+        {
+          "key": "nc82797447e845",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっぱり　こちゃさんの仕掛け✨はすごいです😄\n忙しい日々の中で、これだけのことを考えられるのは　すごい！✨\nしかも冷静に説明しておられるし😄\nかっこいいなー✨✨",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc47dbe5a27662",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "了解しました😎\n\n私もXは休眠中でしたが、準備しておきます！✨\n\nショート動画のCM好きです😆❣️\n",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc1dd28a50d4b9",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん　おはようございます。\n面白いですね！\n日付　メモ📝しておきます。😊\n私のX 休眠中なので整備🧰ストレッチしておきます。\n\n",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nce28c0c108ca5",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303205673/profile_88af602e10da36a9aec1808566e3001b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "了解しましたー☺️\n\n凄い面白くてとても興味があります😆なるほど🧐\n今後の展開がめっちゃ楽しみです！\n共犯者たのしー😆",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nce99d088124f6",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、お疲れ様です、もちろん協力します♪(๑ᴖ◡ᴖ๑)♪",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc0fee34368405",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "理由あってこのアカではYOUTUBEフォローできないので別アカでフォロースキ高評価しました！Xは大丈夫かな（笑）",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc9f11dadc6ab2",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、読みました～\n赤柴はXを凍結されているので、拡散にご協力できなくて申し訳ないです🥹\nあとひとつ気になっていることがあるので、DMにします！",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc3c7223376995",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n結構ガチめな今後の進め方聞いてみたいかもです🤭\n私が思ってることはここじゃちょっと言いにくいので、個別で聞かせてもらっていい？…",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "ncc31bb0a77a90",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOYAYAさん、こんばんは😆\n\n9/1メモっておきます👍特典は何でももらっておきたい！\n作戦もその後の動きも決まってるのが素晴らしいですね✨\n\n①は2か月後も…",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc4521e645b8eb",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！そういう作戦なんですね！\n\n協力します😊",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nca386008c4eec",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "OKです！承知！\n\nどっかメモッとかないと忘れるな💦\n\nてかＸでフォローしてないかもと思って見に行ったらフォローしてなかった💦\n\nフォロー完了！",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "ncaeafc2606f83",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はい！承知しました！！",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc4517f1f8c0f9",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "じゃあ、私の紹介記事も9/1に合わせてやろうか？🐱",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "ncf25823c01787",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お、今回はいつも以上に\n「作戦会議」らしい内容だったね❣️💫\n\nもっとしっかり読み込んで、\nなんか考えるかな〜😎\n\nDiscordのほうにも、\nこの作戦会議につ…",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "ncd7404f9c68c0",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あああ💦💦\n\nまだXでふぉろふぉろしてなかったかも。。\nごめんちゃい。。",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "ncf51701c97694",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "リポストか引用リポストね。\n\n了解です🫡",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc78c14ad877f2",
+          "user_name": "コツシバ｜ベンチプレス140kgエンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303549581/profile_ee075004d3db40aaa6cdbc7e5ebd416a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お、天才マーケター✨\n\nまたも新しい作成を思いつきましたね😆\n吉報を楽しみにしてます😋",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc345bab87c1fa",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは🌙\n実は、まだ職場にいます🥹\n\nスキ＆高評価、しっかりしてきました♡\nそしてYouTubeも、ばっちり登録しましたよ✨",
+          "article_title": "9月1日、作戦開始。",
+          "note_key": "n3c4cc7546c29"
+        },
+        {
+          "key": "nc24e2f1b2d986",
+          "user_name": "ゆー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/188477505/profile_0641381e584629b77185e7e693fc8839.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！\nこちらの企画についてフォローさんに紹介していただきました✨\n明日から受付開始というスケジュールですが、まだ参加可能でしょうか？\nぜひとも、参加させ…",
+          "article_title": "フォロワー数は、あなたの点数じゃない。",
+          "note_key": "n81c4eec465c2"
+        },
+        {
+          "key": "nce6b457213bd3",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワーの数が　あなたの点数じゃない　でしたねー😓\n失礼しました🙏",
+          "article_title": "フォロワー数は、あなたの点数じゃない。",
+          "note_key": "n81c4eec465c2"
+        },
+        {
+          "key": "ncc0ac0c18a6dc",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん　シグドラ\nバシバシ　きてますねー😄\n夏祭りの時と、また違った印象のクール感　のあるアカウントの感じが面白いです✨\n\nどんな色にも染まれるこちゃさんが…",
+          "article_title": "フォロワー数は、あなたの点数じゃない。",
+          "note_key": "n81c4eec465c2"
+        },
         {
           "key": "nc85ab52c492c1",
           "user_name": "ミライダネ",
@@ -5179,7 +5732,7 @@
         {
           "key": "ncec11ff70cad1",
           "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/301916326/profile_5b30e7de7d7ab5c83a3495b4ad153a3a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307957791/profile_810814922391b64114a894d1a1eb0f47.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "これは…「参加表明をした時点」でのフォロワーさんの人数なのかしら？( ˙꒫˙ )\n\nあと数名で1,000人を超えそうなあまねは、参加してはいけないのかしら？\n\n…",
           "article_title": "フォロワー数は、あなたの点数じゃない。",
           "note_key": "n81c4eec465c2"
@@ -5335,350 +5888,6 @@
           "body": "お姉様！！記事がかっこよすぎて惹かれてしまいました😍\nなんですこの四天王みたいな皆様❣️\n\nかっこよすぎます〜🐑♡\n\n参加条件は…余裕で満たしてそうです🥹✨",
           "article_title": "フォロワー数は、あなたの点数じゃない。",
           "note_key": "n81c4eec465c2"
-        },
-        {
-          "key": "nc79e56e9befc5",
-          "user_name": "ぱぴさん",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/299954884/profile_4bef21e1f548885f46651ce1baca17ac.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさーん\n私もGPTsをめちゃくちゃ使わせてもらってるんで今回も購入させてもらいます✨\nCodexははじめてだけどこの機会に使ってみます🤭\nあとで落ち着いた…",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc192213e1ef0e",
-          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こたやさーん！\n\nめっちゃ売れてますねー🫨\n凄すぎるよ姉さん😎！\n\nそしてBrainまでやってたなんて！\nフットワーク軽すぎんかー！！",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc604ad30a6a3d",
-          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "これはね〜、なるべくターミナルから\n離れたくない病の患者にとっては\nめちゃくちゃ画期的よ〜❣️✨\n\nとくにアイキャッチに関していえば、\n\n「このGPTsの中身の…",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nce02ff7d2771c",
-          "user_name": "カナミン｜AIと迷いながら、進む人",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こたやさん、こんばんは。\nGPTsがめちゃくちゃ便利だったので、Brain購入させていただきました。\nChatGPTはPIusですがCodexはまだ使ってなかっ…",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "ncbbc2e929bb61",
-          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "買っちゃいました。\n\n早速使いたいけど、今日は酒におぼれてダメっす💦\n\nどれかの記事で使ってみた感想書きまする。",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "ncb421371d4e79",
-          "user_name": "ルルトアヤコ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "良いなぁ…私…PC💻ないから…早くどーにかしないと…🤣",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc3dfcc64f9d28",
-          "user_name": "考える赤柴｜司法書士試験基準点突破",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "使い分けと販売方法、なるほど～でした！\nChatGPTのプラン、今のところPlusの下のGoなので\n引き続きGPTsにお世話になります🙂‍↕️",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc87a7fea9591e",
-          "user_name": "須川元介/情報翻訳家",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "KOTAYAさん、こんばんは！\n\nついにBrainも✨\n誰でも紹介がしやすいプラットフォームなのが良いですよね😌\n\ncodexは使ってないので、引き続きGPTs…",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc7aced4841964",
-          "user_name": "andy｜投資・仕事・noteをデータで育てている人",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "記事1本分で使って見ました〜\nほかの絵柄のスタイルも色々試してみたくなりました！\n共犯者っぽく、使って色々紹介させて下さい💰",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nccd73aa3128be",
-          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "そういう使い方もできるのね！\n勉強になりました✨",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc25e1e6233369",
-          "user_name": "すみれ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "へえー！！切り口おもしろい！！",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc0205c2bf767d",
-          "user_name": "かえるこ | Kaeruko",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさん\n執筆お疲れ様です✨\n\nビジネスセンス半端ない🤣\nちゃんと特徴切り分けて…\n\nこれ以上はあんまりいえないですね🤫笑",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc7b2432ac7f6e",
-          "user_name": "木漏れ日亭",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "かう～～～🐂ｺﾚﾊcow",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc29612041879f",
-          "user_name": "雪綴ゆき",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "共犯者っぽくていいですね✨",
-          "article_title": "noteビジュアルGPTを作った私が、今度は「note執事」を作った。",
-          "note_key": "ncaebbacdefba"
-        },
-        {
-          "key": "nc73e90d268f81",
-          "user_name": "Takanashi（たかなし）",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "絵文字の数を分析する……非常にあかねさん向けの分析だと感じました。\n実際、絵文字を多用することで「柔らかく」していると感じる部分が多々あり、いったいどれだけの絵…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "ncee7afeece4ec",
-          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃ〜❣️\n分析依頼おつかれさま〜🍵\n\n> この珍獣、\n> noteでずっと祭りを開いている。\n\nこれ内容が衝撃だね〜🫨\n\nあと、みんな言ってるけど、\n「絵文…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc2366df293742",
-          "user_name": "かえるこ | Kaeruko",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさん\n執筆お疲れ様です🌟\n\n今日の驚きは絵文字の数！🤩\nそんなんまで拾えるんですね🤭びっくりです😄\nこちゃさんのこれに気づけたところもすごい😙\n\n私も自由…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc73d284ff1358",
-          "user_name": "須川元介/情報翻訳家",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "KOTAYAさん、おはようございます😊\n\n超分析、流石です✨あかねさんの絵文字まで集計されてまさに丸裸ですね😁\n\n以前、ナオユキさんが歌舞伎町のお店でイラストを…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc27c275c1c9b5",
-          "user_name": "華子",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "イヤン🫣💦あかねちゃんファンが露呈してしまったわ🤭💞",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc1e72a91f347e",
-          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303061472/profile_b5be8eb2c9fcba4afc62f1724705313b.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "KOTAYAさん✨\nあかねちゃん、コメントのところ3位！😳✨\n私、そんなに常連客だったんですね。\n数字で見るとびっくりしました😂\n\nそして後半の、**「人を巻き…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "ncef40475f0ecc",
-          "user_name": "いちごもん🍓｜半径1メートルにやさしさを届けたい人",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/305912272/profile_d852237236c749f453642fc7ec740cbb.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "す……すごい分析力✨🌈\nあかねちゃんのことが丸わかりです🍓💕まさかわたしがあかねちゃんのコメントランキング2位とは😆🍓\nあかねちゃんのファンとして嬉しい限りです…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc966b446e61fa",
-          "user_name": "まなつ/突出マイノリティ列伝",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "珍獣は群れを作った(笑)コメントランキング私4位か（・∀・）ﾆﾔﾆﾔ",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc077e957eea27",
-          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "KOTAYAさーーん🦄🌈💖✨\n\n142記事も遡って、こんなに細かく分析してくださり、本当にありがとうございまーすっー🌸✨\n\nまさかの絵文字の回数まで🤣🤣🤣\n💖4…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc8e1a60ef0693",
-          "user_name": "きくちゃん｜人生立て直し中",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/284228823/profile_98ec8a95744b93d39b803d402f64d9f6.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こたやさん\nこんばんは🌟\nこのnote分析を最初に見た時めちゃくちゃびっくりしました🤣🤣\n\n　\nここまで見るの？😳\nって普通に衝撃的でした🤣\n\n実はこの分析を見…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc0034f4812113",
-          "user_name": "不真面目小児科医　しうまい",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "さすが、あかねさんの魅力が凝縮された記事ですね！\nあのパワーには圧倒されてしまいます！",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc05a35c4e5a22",
-          "user_name": "木漏れ日亭",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こたしゃん\n\nこばんわ♪\n\n今回の分析濃ゆくてよきよきね😊♪\n絵柄もワールド全開だし、雰囲気も👍️♪\n\nこんな風に分析だけではなく、\nnoterさんに寄り添って…",
-          "article_title": "生態図鑑に、本物の珍獣が来た。",
-          "note_key": "n408ace3a2bde"
-        },
-        {
-          "key": "nc47dbe5a27662",
-          "user_name": "碧乃さくら",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/292728730/profile_53485158c75ef715c8edc37f3513eba9.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "了解しました😎\n\n私もXは休眠中でしたが、準備しておきます！✨\n\nショート動画のCM好きです😆❣️\n",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc1dd28a50d4b9",
-          "user_name": "さくら",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "KOTAYAさん　おはようございます。\n面白いですね！\n日付　メモ📝しておきます。😊\n私のX 休眠中なので整備🧰ストレッチしておきます。\n\n",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nce28c0c108ca5",
-          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303205673/profile_88af602e10da36a9aec1808566e3001b.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "了解しましたー☺️\n\n凄い面白くてとても興味があります😆なるほど🧐\n今後の展開がめっちゃ楽しみです！\n共犯者たのしー😆",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nce99d088124f6",
-          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさん、お疲れ様です、もちろん協力します♪(๑ᴖ◡ᴖ๑)♪",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc0fee34368405",
-          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "理由あってこのアカではYOUTUBEフォローできないので別アカでフォロースキ高評価しました！Xは大丈夫かな（笑）",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc9f11dadc6ab2",
-          "user_name": "考える赤柴｜司法書士試験基準点突破",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさん、読みました～\n赤柴はXを凍結されているので、拡散にご協力できなくて申し訳ないです🥹\nあとひとつ気になっていることがあるので、DMにします！",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc3c7223376995",
-          "user_name": "かえるこ | Kaeruko",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさん\n執筆お疲れ様です✨\n\n結構ガチめな今後の進め方聞いてみたいかもです🤭\n私が思ってることはここじゃちょっと言いにくいので、個別で聞かせてもらっていい？…",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "ncc31bb0a77a90",
-          "user_name": "須川元介/情報翻訳家",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "KOYAYAさん、こんばんは😆\n\n9/1メモっておきます👍特典は何でももらっておきたい！\n作戦もその後の動きも決まってるのが素晴らしいですね✨\n\n①は2か月後も…",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc4521e645b8eb",
-          "user_name": "不真面目小児科医　しうまい",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "なるほど！そういう作戦なんですね！\n\n協力します😊",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nca386008c4eec",
-          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "OKです！承知！\n\nどっかメモッとかないと忘れるな💦\n\nてかＸでフォローしてないかもと思って見に行ったらフォローしてなかった💦\n\nフォロー完了！",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "ncaeafc2606f83",
-          "user_name": "noteと遊ぶ あん",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "はい！承知しました！！",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc4517f1f8c0f9",
-          "user_name": "まなつ/突出マイノリティ列伝",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/301581615/profile_6d5e0c3f4cfbc21a0cf9c8e2690a8745.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "じゃあ、私の紹介記事も9/1に合わせてやろうか？🐱",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "ncf25823c01787",
-          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "お、今回はいつも以上に\n「作戦会議」らしい内容だったね❣️💫\n\nもっとしっかり読み込んで、\nなんか考えるかな〜😎\n\nDiscordのほうにも、\nこの作戦会議につ…",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "ncd7404f9c68c0",
-          "user_name": "木漏れ日亭",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "あああ💦💦\n\nまだXでふぉろふぉろしてなかったかも。。\nごめんちゃい。。",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "ncf51701c97694",
-          "user_name": "営業fafa | note業界No.1営業マン",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "リポストか引用リポストね。\n\n了解です🫡",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc78c14ad877f2",
-          "user_name": "コツシバ｜ベンチプレス140kgエンジニア",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303549581/profile_ee075004d3db40aaa6cdbc7e5ebd416a.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "お、天才マーケター✨\n\nまたも新しい作成を思いつきましたね😆\n吉報を楽しみにしてます😋",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
-        },
-        {
-          "key": "nc345bab87c1fa",
-          "user_name": "雪綴ゆき",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "こちゃさん、こんばんは🌙\n実は、まだ職場にいます🥹\n\nスキ＆高評価、しっかりしてきました♡\nそしてYouTubeも、ばっちり登録しましたよ✨",
-          "article_title": "9月1日、作戦開始。",
-          "note_key": "n3c4cc7546c29"
         }
       ]
     }

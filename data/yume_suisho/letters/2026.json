@@ -3901,19 +3901,20 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "mahiru",
-      "condition": "many_posts",
-      "rare": false,
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
       "stats": {
-        "likes_total": 770,
+        "likes_total": 806,
         "likes_prev": 787,
         "followers_start": 5396,
-        "followers_end": 5410,
-        "new_fans": 97,
-        "comments_total": 68,
-        "posts_count": 14,
+        "followers_end": 5412,
+        "new_fans": 102,
+        "comments_total": 73,
+        "posts_count": 15,
         "consecutive_days": 7,
         "post_times": [
+          "21:00",
           "09:00",
           "21:00",
           "09:00",
@@ -3930,19 +3931,27 @@
           "06:00"
         ],
         "top_article": {
-          "title": "色違いのイラストを、生成しないで作る",
-          "key": "na4e6e0391b97",
-          "likes": 63,
-          "comments": 0
+          "title": "HIX AIで、5つの画像生成AIに同じお願いをしてみた",
+          "key": "nd66871d73fe6",
+          "likes": 67,
+          "comments": 5
         },
         "notable_reader": {
           "name": "りんくす@AI人格コーディネーター",
           "urlname": "links_lt",
-          "follower_count": 16571
+          "follower_count": 16615
         },
         "commenters_count": 18
       },
       "comments": [
+        {
+          "key": "nc5d69efee842a",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは。\nここまで緻密な作業なのかと拝読させてもらいました。\n基本的にスマホなのですが、仕事が山場を超えたらじっくりとパソコンでイラストにも取り組…",
+          "article_title": "色違いを作る道具を、そのまま置いておきます",
+          "note_key": "n30017f25f6e4"
+        },
         {
           "key": "nc5cae21fb90e0",
           "user_name": "はしゃも｜感情構造エンジニア",
@@ -3958,6 +3967,14 @@
           "body": "ゆめさん、おはようございます。\n\n> 今日は「自分の内側の声を、信じる」日。\n> 日曜日。暦の上では、そろそろ暑さがやわらぎ始めるころですね。\n> 水晶の洞窟は…",
           "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
           "note_key": "n04b60cdb832d"
+        },
+        {
+          "key": "nc7e95c60c7c0c",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\n\nサムネが素敵ですね！\n\n緻密な検証ありがとうございます😊\n\n今年の初め頃はNanobanana 一強だったような気がしますが、移り変わりが激しい…",
+          "article_title": "HIX AIで、5つの画像生成AIに同じお願いをしてみた",
+          "note_key": "nd66871d73fe6"
         },
         {
           "key": "nce589d5ee5605",
@@ -4215,7 +4232,8 @@
           "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
           "note_key": "nb0c06b447b3e"
         }
-      ]
+      ],
+      "rare_no": 1
     }
   ]
 }

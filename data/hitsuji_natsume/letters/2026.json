@@ -888,12 +888,12 @@
       "condition": "likes_up",
       "rare": true,
       "stats": {
-        "likes_total": 186,
+        "likes_total": 191,
         "likes_prev": 83,
         "followers_start": 1817,
-        "followers_end": 1895,
+        "followers_end": 1894,
         "new_fans": 67,
-        "comments_total": 7,
+        "comments_total": 12,
         "posts_count": 1,
         "consecutive_days": 1,
         "post_times": [
@@ -902,8 +902,8 @@
         "top_article": {
           "title": "コラボ｜30秒一本勝負。HIX AIで「線画→彩色」ショート動画を作ってみた｜Seedance2.5",
           "key": "na9ecd1a0bd6a",
-          "likes": 105,
-          "comments": 7
+          "likes": 114,
+          "comments": 12
         },
         "notable_reader": {
           "name": "山梨県の古民家和み庵",
@@ -915,8 +915,8 @@
       "comments": [
         {
           "key": "nc932b94a5afdd",
-          "user_name": "Mariya｜AI創作クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308283635/profile_500d295fe6883252f6a2f9ab2f0582c2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "羊さん、こちらにも失礼します(⋆ᴗ͈ˬᴗ͈)”🌸\nHIXさんの使い方が、本当に人それぞれで面白いです(ﾉ)ﾟ∀ﾟ(ヾ)💓‪✨️\nそして、クオリティ高ーい٩(◍`…",
           "article_title": "コラボ",
           "note_key": "na9ecd1a0bd6a"

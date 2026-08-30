@@ -8808,16 +8808,16 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "rinka",
-      "condition": "consistent_time",
-      "rare": true,
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
       "stats": {
-        "likes_total": 431,
+        "likes_total": 443,
         "likes_prev": 405,
         "followers_start": 602,
         "followers_end": 611,
         "new_fans": 50,
-        "comments_total": 116,
+        "comments_total": 145,
         "posts_count": 7,
         "consecutive_days": 7,
         "post_times": [
@@ -8832,17 +8832,65 @@
         "top_article": {
           "title": "同じ僕を7人に見せたら、見えている僕が全部違った｜おはようカノジョ #256",
           "key": "n2c949c275318",
-          "likes": 68,
-          "comments": 19
+          "likes": 75,
+          "comments": 21
         },
         "notable_reader": {
           "name": "菅谷健太郎",
           "urlname": "light_coyote380",
           "follower_count": 8172
         },
-        "commenters_count": 23
+        "commenters_count": 26
       },
       "comments": [
+        {
+          "key": "nce4654c2b4348",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nはしゃもさんの名前アドレスから来ているんですね(*´艸`)\nてっきりししゃもが好きで捻ってはしゃもにしたのかと思ってました(ﾉ∀｀…",
+          "article_title": "名前に意味はなかった。でも、🐓になった。",
+          "note_key": "n6bbacdeeeb98"
+        },
+        {
+          "key": "nca08cb036d27c",
+          "user_name": "スイッチくん🐻😊 │ 湊花町の住人 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐻←これ(笑)\n\n実は、noteを始めて一週間ぐらいで「スイッチくん🐻🍑」というハンドルネームを使っていました🤤 調べたら、🍑の絵文字=お尻という隠れた意味が有…",
+          "article_title": "名前に意味はなかった。でも、🐓になった。",
+          "note_key": "n6bbacdeeeb98"
+        },
+        {
+          "key": "nccf3cc1df8db7",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさ〜ん✨️😻✨️\nなんとなくはしゃもさん\nと言ったら、黄色い髪と\nてへぺろ♪な感じが\nとっても印象的なので、\n🐣🐤🐥✨️😋😸🐈🐔\n↑\nこんなようなイメー…",
+          "article_title": "名前に意味はなかった。でも、🐓になった。",
+          "note_key": "n6bbacdeeeb98"
+        },
+        {
+          "key": "nc3ff41f56dbb0",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃも🐓さんお疲れ様です。\n\nわたしは「🐶わんこ」です。",
+          "article_title": "名前に意味はなかった。でも、🐓になった。",
+          "note_key": "n6bbacdeeeb98"
+        },
+        {
+          "key": "nc6ebc66602445",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、めじゅは名前由来を、軍鶏かなーって思っててꉂ🤣𐤔\n逆に変換で、覇者って出ると、ちゃうよねぇ…って脳内ループする💦\n\n🐓イイと思います‼️\n推します…",
+          "article_title": "名前に意味はなかった。でも、🐓になった。",
+          "note_key": "n6bbacdeeeb98"
+        },
+        {
+          "key": "nc1a9e4811a1b3",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌟\nいいですね「🐓」✨\n\n読みながら、朝に公開してるから「☀️」とか？とも考えたんですが、「🐓」は2つの意味が掛かっていて、すごくしっく…",
+          "article_title": "名前に意味はなかった。でも、🐓になった。",
+          "note_key": "n6bbacdeeeb98"
+        },
         {
           "key": "nc30abaada55bc",
           "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
@@ -8854,7 +8902,7 @@
         {
           "key": "ncb46e27d22305",
           "user_name": "あいびより。AIクリエイターの日常🐾",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303864006/profile_ecf9a7026234478a939f1b08cb234a57.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306471146/profile_cbaa66739c5488d5bce2c80aa7221b7c.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "はしゃもさん、こんにちは🐓\n\n本当にメアドだったんですねヽ(；▽；)ノ\n色んな人との会話がここまで繋がるなんてꉂ(ˊᗜˋ*)\n\n中学の時の担任の先生、橋本先生で…",
           "article_title": "名前に意味はなかった。でも、🐓になった。",
           "note_key": "n6bbacdeeeb98"
@@ -8978,6 +9026,14 @@
           "body": "はしゃもさん、やっぱり凄い✨️✨️\n考え方や分け方が、明確でスッキリしている。\nこういう思考が設計に活かされて、使いやすさにも繋がるんですね‼️\n私の取り組んで…",
           "article_title": "欲しいものを話したらほぼできた。設計はそこから始まった",
           "note_key": "n0dd9982c79ce"
+        },
+        {
+          "key": "nc248935b8bbc3",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nみんなのを見てると最後は遊びに繋がる感じ、はしゃもさん素敵だなって思います！❀.(*´▽`*)❀.\n遊びに繋げる考え方、私好きです…",
+          "article_title": "同じ僕を7人に見せたら、見えている僕が全部違った",
+          "note_key": "n2c949c275318"
         },
         {
           "key": "ncd1826ad617ef",
@@ -9114,6 +9170,14 @@
           "body": "凛華ちゃんおはよう🌞\nアップに耐えられる美しさ❤️\n今日はいいお天気すぎて湖岸に裸の\n若いパリピたちが溢れてるのを\n横目で見ながら通勤です。\n1ヵ月で1番忙しい…",
           "article_title": "朝活を、僕は夜に読んでいた。",
           "note_key": "nae668ebc165a"
+        },
+        {
+          "key": "nca62a4c1d2a0c",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nこの記事コメントしたと思ってました💦\n今月は4番目！\\( *´꒳`*)/\n見直してスキ消えてたのを付けたからですかね？🤔",
+          "article_title": "感覚で決めず、確かめる方法を増やしていた一週間",
+          "note_key": "n1c14430d459a"
         },
         {
           "key": "nc8b4d6964b496",
@@ -9270,7 +9334,7 @@
         {
           "key": "nc7dbe7727fb52",
           "user_name": "あいびより。AIクリエイターの日常🐾",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303864006/profile_ecf9a7026234478a939f1b08cb234a57.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306471146/profile_cbaa66739c5488d5bce2c80aa7221b7c.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "はしゃもさん、こんにちは✨️\n\n綺麗な花火ありがとうございます🎇🎆\n\n答えを導き出すまでの過程、楽しいですよね( *´꒳`*)\nでも、考えても正直さっぱりでヽ(…",
           "article_title": "宝くじが当たって、絶望した。初めての水平思考ゲームで前提を全部壊された",
           "note_key": "nc54759c35f52"
@@ -9331,8 +9395,7 @@
           "article_title": "宝くじが当たって、絶望した。初めての水平思考ゲームで前提を全部壊された",
           "note_key": "nc54759c35f52"
         }
-      ],
-      "rare_no": 2
+      ]
     }
   ]
 }

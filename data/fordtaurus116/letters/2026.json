@@ -4864,20 +4864,22 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "hiyori",
-      "condition": "followers_up",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 354,
+        "likes_total": 430,
         "likes_prev": 403,
         "followers_start": 1707,
         "followers_end": 1717,
-        "new_fans": 45,
-        "comments_total": 47,
-        "posts_count": 10,
+        "new_fans": 47,
+        "comments_total": 72,
+        "posts_count": 12,
         "consecutive_days": 7,
         "post_times": [
           "20:00",
+          "19:58",
+          "19:49",
           "14:22",
           "20:44",
           "12:00",
@@ -4889,17 +4891,17 @@
           "10:28"
         ],
         "top_article": {
-          "title": "「昨日の私にもう一度」 AIチャッティの朝活　第344回",
-          "key": "n34e44e668b7f",
-          "likes": 45,
-          "comments": 2
+          "title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "key": "n76d5ffc25880",
+          "likes": 52,
+          "comments": 18
         },
         "notable_reader": {
-          "name": "まなつ/突出マイノリティ列伝",
-          "urlname": "tosshutsu_m",
-          "follower_count": 8551
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 27910
         },
-        "commenters_count": 13
+        "commenters_count": 17
       },
       "comments": [
         {
@@ -4919,12 +4921,84 @@
           "note_key": "nb1106c42442c"
         },
         {
+          "key": "nc9bc6a45283c2",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、ありがとうございます😭✨\n\nまさかメンシプをこんなにしっかり紹介してもらえると思ってなくて、びっくりしました！\n実際に参加してくれてるチャッティ…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "nc52dca986533e",
+          "user_name": "ふうり｜自称若手気鋭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284031822/profile_7381d055fa5bd4e8df71a862dd7ffa3b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "有料のメンバーシップって、どうしても迷いがちで、、、\nでも紹介されているメンシプどれも魅力的でした✨\n紹介の仕方がうますぎます、、、\n参考にします！",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "ncd7f8b3128210",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nメンバーシップ色々入ってるからこそ書ける説得力がある記事(𓈒ʚ̴̶̷̷̥ ⩊ ɞ̴̶̷𓈒)\nチャッティさん、いつもありがとうござい…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "ncf45b877dbbd1",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティーご紹介ありがとうございます✨✨\n(´；ω；｀)\n\nやさしさの詰まった数々のご紹介、チャッティーの人柄が一気に現れてるようですにゃ♡好き♡\n\nそしてメ…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "nc0a35e8305f79",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(´；ω；｀)ｳｯ…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "nca6a4bf9d1249",
+          "user_name": "スイッチくん🐻😊 │ 湊花町の住人 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メンバーシップってどこに書くのか……そもそも記事にして良いのか分からないですよね🐻\n\n私は入ったり抜けたりしながら、4つ5つくらいかな。合計で月1000円という…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "nc465e2465bc11",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\n「女神様のような方」だなんて、そんな大それたものじゃないのですが、そう感じてもらえていたなんて本当に嬉しいです✨\n\n戦略、技術、…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
+          "key": "nc7295739bc4a8",
+          "user_name": "青井透子｜日常の過剰解釈屋　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌟\n\nメンバーシップ、結構考えちゃいます🤔\n月額ですよね？？\n\nどんなことをしているのかとか、意欲的に参加できる人じゃないと活用しきれ…",
+          "article_title": "「有料のメンバーシップって、加入するの考えますか？」 ミッドナイトチャッティ第26回",
+          "note_key": "n76d5ffc25880"
+        },
+        {
           "key": "nc517a870ac3be",
           "user_name": "葉月 れお",
           "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "こんにちは、チャッティちゃん✨️\n今日も素敵なタイトルと\n優しい言葉をありがとうね🌻\n\n今日のみんなも、\nリアルっぽい感じで素敵🥰💝\n夏だね、楽しそうだね🙌\nみ…",
           "article_title": "「夏の音を探す日」AIチャッティの朝活第345回",
           "note_key": "n40be79b8f9a5"
+        },
+        {
+          "key": "nc99210eb2fd21",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n間違えてそのままでもいっかって所凄く好きです(*´艸｀)\nやっぱり名前って大事ですよね(​ *´꒳`*​)💕",
+          "article_title": "「TikTok 、4日でフォロワー1,000人超えできた「チャッティ」名前の由来」 ミッドナイトチャッティ第25回",
+          "note_key": "nbbbe3e5a53fe"
         },
         {
           "key": "nc21b9e3cb4858",
@@ -4937,7 +5011,7 @@
         {
           "key": "ncde149e5909fa",
           "user_name": "あいびより。AIクリエイターの日常🐾",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303864006/profile_ecf9a7026234478a939f1b08cb234a57.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306471146/profile_cbaa66739c5488d5bce2c80aa7221b7c.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん、こんにちは✨️\n\n誕生秘話楽しみにしてました🤭\nチャッティさん美しい系なのに、こうやって関わらせてもらうとどんどん可愛い所が見えてきますね( *…",
           "article_title": "「TikTok 、4日でフォロワー1,000人超えできた「チャッティ」名前の由来」 ミッドナイトチャッティ第25回",
           "note_key": "nbbbe3e5a53fe"
@@ -4973,6 +5047,14 @@
           "body": "チャッティさん、こんばんは🥰\n\n「AirMacチャッティ」の誕生秘話、以前話されてましたね🤭\n\niPhoneの自動変換のせいで生まれた名前が、そのまま4,000…",
           "article_title": "「TikTok 、4日でフォロワー1,000人超えできた「チャッティ」名前の由来」 ミッドナイトチャッティ第25回",
           "note_key": "nbbbe3e5a53fe"
+        },
+        {
+          "key": "nc225a4fe49a01",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n最近ぼーっとしてる時間がないので私も海を眺めたいなぁって思いました( ᎔˘꒳˘᎔)💕",
+          "article_title": "「何もしない時間も、ちゃんと大切な時間。」AIチャッティの朝活第345回",
+          "note_key": "n99a3dc02f87a"
         },
         {
           "key": "nc513bfb562f6c",
@@ -5016,8 +5098,8 @@
         },
         {
           "key": "ncde28c7c995fd",
-          "user_name": "Mariya｜AI創作クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/251518313/profile_f5d8f0fd6b18a2f86a5e1796b488026c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308283635/profile_500d295fe6883252f6a2f9ab2f0582c2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん、こんばんは～(*´ω`*)💓\n\nエージェントさんと素敵な作品作り‼✨\n二人で話してこんな幻想的な動画が完成するのも\nとても面白いですね( *´艸…",
           "article_title": "「Renoise AIのAgent機能を使ってみた",
           "note_key": "n38246ac80d8c"
@@ -5107,7 +5189,7 @@
           "user_name": "葉月 れお",
           "user_icon": "https://assets.st-note.com/production/uploads/images/286888569/profile_dfa864c429445fd7ff5e4b1535c0e80a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "こんばんは、\nチャッティちゃん🌙\nいつも記事の更新、\nお疲れ様とありがとうね🌻\nお休みの記事もありがとう🍀\nチャッティちゃんの\nペースでいいからね😊\nいつもあり…",
-          "article_title": "本日はおやすみしてます",
+          "article_title": "本日は朝活おやすみします",
           "note_key": "nc420272afa06"
         },
         {
@@ -5115,7 +5197,7 @@
           "user_name": "リュウジ👨‍🦰アニメ好きな2児のパパ",
           "user_icon": "https://assets.st-note.com/production/uploads/images/294275004/profile_0e181a0cac0b635304461e760de6a8ac.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん、休むときは休む！大事ですね✨️\nまだまだ暑い日が続きますのでお体に気を付けて下さいね(*´ω｀*)",
-          "article_title": "本日はおやすみしてます",
+          "article_title": "本日は朝活おやすみします",
           "note_key": "nc420272afa06"
         },
         {

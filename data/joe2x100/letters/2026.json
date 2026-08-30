@@ -849,15 +849,15 @@
         "start": "2026-08-17",
         "end": "2026-08-23"
       },
-      "sender": "shizuku",
-      "condition": "quiet",
+      "sender": "you",
+      "condition": "likes_up",
       "rare": false,
       "stats": {
-        "likes_total": 195,
+        "likes_total": 202,
         "likes_prev": 163,
         "followers_start": 760,
-        "followers_end": 796,
-        "new_fans": 65,
+        "followers_end": 801,
+        "new_fans": 68,
         "comments_total": 0,
         "posts_count": 1,
         "consecutive_days": 1,
@@ -867,13 +867,13 @@
         "top_article": {
           "title": "【物事の世界を広げる魔法（定石を知ると世界はもっと広がる）】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.55",
           "key": "na88d8374da46",
-          "likes": 102,
+          "likes": 154,
           "comments": 0
         },
         "notable_reader": {
           "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
           "urlname": "ai_hakase",
-          "follower_count": 7487
+          "follower_count": 7496
         },
         "commenters_count": 0
       }
