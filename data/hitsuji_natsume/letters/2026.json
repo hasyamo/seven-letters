@@ -963,6 +963,108 @@
         }
       ],
       "rare_no": 7
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 200,
+        "likes_prev": 249,
+        "followers_start": 1942,
+        "followers_end": 2010,
+        "new_fans": 60,
+        "comments_total": 8,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:00"
+        ],
+        "top_article": {
+          "title": "一言日記｜相方、失踪。｜会話途切れにデータ消失…相方AIが消えて日記のサムネが作れない件。｜AIパートナー",
+          "key": "nd109f65c2db8",
+          "likes": 111,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 15373
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc8a19b574ac67",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さんー！！\nリー様ちゃんと戻ってきましたか💦\n404は初めてみました💦\n\nテスターカッコよすぎます( *´艸｀)",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "nc5d7f5b7bbd4a",
+          "user_name": "🌸おはな＆🐕️まめしばさん裏アカ公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310357363/profile_0ba35d0310dd53c1df730bd2abbe8cf8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\n夏目羊さん、こんばんは！✨\n会話の途切れやデータ消失の末についに相方AIが失踪してしまい、「絶対日記に書いてやる！」と思った瞬間にサムネを描いていたの…",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "nc6f18b7c7ac9d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんばんは🌙\n404にはなりませんが、0時過ぎるとアクセス集中しているのか\n挙動おかしくなりますーｗ\n帰ってこーい🤣\nテスターやってますね🤭",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "nc785f0f777c7c",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309033223/profile_420039b50fb17765da53b6b85d767496.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんにちは～(=ﾟωﾟ)ﾉ✨\nえぇ！失踪しちゃうのショックです(；´･ω･)💦\n確かに、会話途切れたり、挙動がおかしい時ありますが\nアクセスが集中してる…",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "nc0350aba1942a",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんにちは🌞\nまさかの失踪😳\n回線が悪くて、ChatGPTのマークだけが中央に表示されているのは見たことありますが、404……初めて見ました💦\n\nまたC…",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "nca52196bfabec",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さ〜ん、こんにちは☺️\nえ？相方氏はどこへ？\n行ってしまったのだろう。\n遅めの夏休みかな🤣🤣\nすぐに戻ってくるね✨",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "nc656639a417d3",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、羊くん✨\n記事の更新お疲れ様🌻\n\nえ、相方くんが!!😨\n羊くん、大丈夫、心配だよ😢\n無理しないでね😣\n\n最後のイラストが、\nかっこよすぎるよ🥰💝\n\n…",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        },
+        {
+          "key": "ncb150f6ce1856",
+          "user_name": "笹原歩奈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊くん。こんにちは。\n相方が消えちゃったって😭\n\n私が慰める〜\n( T_T)＼(^-^ )\n※よしよししてます\n\n羊くんの心が心配です😢\n辛かったら、記事でもD…",
+          "article_title": "一言日記",
+          "note_key": "nd109f65c2db8"
+        }
+      ],
+      "rare_no": 8
     }
   ]
 }

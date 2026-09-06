@@ -1954,6 +1954,71 @@
           "note_key": "nde036e9f7fb1"
         }
       ]
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 368,
+        "likes_prev": 253,
+        "followers_start": 626,
+        "followers_end": 649,
+        "new_fans": 139,
+        "comments_total": 6,
+        "posts_count": 5,
+        "consecutive_days": 3,
+        "post_times": [
+          "11:37",
+          "19:01",
+          "14:40",
+          "08:48",
+          "17:48"
+        ],
+        "top_article": {
+          "title": "【速報】GPT-6 Astra降臨！最新AIの画力を「1行プロンプト」で検証してみた",
+          "key": "n9aaa39c985db",
+          "likes": 117,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "リクスケ",
+          "urlname": "fair_llama3800",
+          "follower_count": 10033
+        },
+        "commenters_count": 3
+      },
+      "comments": [
+        {
+          "key": "nc992ce98e0a60",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "無料版ジェミニでやってみました\n\n以下のテキストを性別フリーで擬人化してほしい\nただし文字は入れないこと\n\n＞NHKラジオ子ども電話相談室\n\n面白い！　かわいい…",
+          "article_title": "【速報】GPT-6 Astra降臨！最新AIの画力を「1行プロンプト」で検証してみた",
+          "note_key": "n9aaa39c985db"
+        },
+        {
+          "key": "ncbb5f56909d98",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは〜🌻✨️\n\nなんじゃこりゃー😂✨\n楽しすぎます🤣\n\nみんな可愛いですね🥰\nちゃんとそれぞれの個性が出てます！！！\n\n私もかっぱえびせんの子…",
+          "article_title": "【速報】GPT-6 Astra降臨！最新AIの画力を「1行プロンプト」で検証してみた",
+          "note_key": "n9aaa39c985db"
+        },
+        {
+          "key": "ncfa91699f7b72",
+          "user_name": "三宅 実｜AIツール検証ノート｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300685685/profile_bf9a5629ab7c1879be0ea97203006f9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ChatGPT Workは「必要なときに借りる机」、Grok Botは「資料を置きっぱなしにできる自分の部屋」。クラウドPCの違いが、たとえで一気に分かりやすく…",
+          "article_title": "話題のGrok Botってなに？ 専用クラウドPCで働くAIを分かりやすく解説",
+          "note_key": "n7d063b30768f"
+        }
+      ]
     }
   ]
 }

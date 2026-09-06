@@ -4234,6 +4234,339 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 758,
+        "likes_prev": 722,
+        "followers_start": 5455,
+        "followers_end": 5467,
+        "new_fans": 98,
+        "comments_total": 71,
+        "posts_count": 17,
+        "consecutive_days": 7,
+        "post_times": [
+          "21:00",
+          "09:00",
+          "21:00",
+          "09:00",
+          "21:00",
+          "19:00",
+          "06:00",
+          "22:05",
+          "06:00",
+          "21:03",
+          "06:00",
+          "22:00",
+          "21:00",
+          "06:00",
+          "21:00",
+          "20:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚｜2026年9月4日（金）｜占い・セルフケア｜ChatGPT",
+          "key": "nbe202c51362c",
+          "likes": 78,
+          "comments": 18
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 16993
+        },
+        "commenters_count": 16
+      },
+      "comments": [
+        {
+          "key": "ncc17298cba8d3",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\n\nわたしとアクシスみたい🤭と言ったら、さすがに失礼ですね笑\n\nでも、自分と真逆の性格をつい設定してしまいますよね🤗",
+          "article_title": "ルナって、だれ？",
+          "note_key": "n85184abc03a1"
+        },
+        {
+          "key": "nc69d296457913",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\nオラクルカードはあまり詳しくないのですが、自分に優しいメッセージが多いですね\n\n自分を責めても現実は変わりませんから、思考ループから抜け…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n474085caf7ac"
+        },
+        {
+          "key": "nc4cb15fb40405",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「霧が晴れるのを、待っていい」日。\n> 日曜日。朝晩の空気に、少しずつ秋の気配がまじりはじめる頃ですね。\n> 霧の湿…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n474085caf7ac"
+        },
+        {
+          "key": "ncaeca92f7c99a",
+          "user_name": "kakokikiy",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207317271/profile_64d80738352449278700572f1ce76d70.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n今週はなんだかもやもや、ぎすぎす頑張った一週間だったので、ホットミルクいいなぁって思いました。今朝はさっさと息子たちを送り出して…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n474085caf7ac"
+        },
+        {
+          "key": "nc895536d38531",
+          "user_name": "冬ちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289437799/profile_22a163d701363ee98ff05476d3ac1760.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "正直に告白すると、そんなに記事を丁寧に読んでない💦、でもその日のオラクルカードが気になって（笑）。",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n90696292edbd"
+        },
+        {
+          "key": "ncc2c97c1516da",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう✨️\n「今日は考えない」って、考え続けるよりむしろ難しいやつ🤣\nでも、答えを探すんじゃなくて一回棚に上げるのも立派な行動だなって思いました。\n…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n90696292edbd"
+        },
+        {
+          "key": "nc3e88dd220420",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「ふっと降りてくる気づきを、待つ」日。\n> 土曜日。何かを解決しようと、頭で考え続けていませんか。\n> 森の神殿は、…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n90696292edbd"
+        },
+        {
+          "key": "nccbbcf05b6f75",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このお話すごく好きです✨\nこの中では主人公自身も忘れていましたが、自分が覚えてるだけでは半分…\n私は呼んでくれる人用の木札と覚えている自分用の木札は、リバーシブ…",
+          "article_title": "【アカリウムお題ガチャ】呼ばれているあいだは、消えない",
+          "note_key": "nc6bf3761f9fd"
+        },
+        {
+          "key": "ncc3c5c22b4a4b",
+          "user_name": "yoshie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300669621/profile_bf5131016a84c8d4ec941518fe7821ca.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん\nこんばんは。\nまたまた記事をご紹介くださり、ありがとうございます😊\n チョコレート、しばらく食べていなかったので、食べてみたいと思います！",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "ncfba928661d4a",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう☺️\n「一週間、よくここまで来ましたね」で、ほんとそれです🤣 やっと金曜日だー。\n今日はもう、ここまで来たことを成功にして、ごほうび朝チョコ食…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "nc0315958278ef",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分だけの尺度・静かな達成…なんかステキ💓\n\n自分だけの達成で良い…とてもワクワク☺️\n\n今、書けないnoteを１行でも良い…書いてみようって思いました。\n\n少…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "nca9136f248874",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\n逃げずに一週間を過ごせた。それはあなただけが知っている、立派な成功です。\n\n考えてみれば、あんまり逃げずに生きてるので、十分、成功ですね…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "ncc45a48286e3b",
+          "user_name": "ゆきえくぼ｜心と人を見つめる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305870690/profile_909a2b9ba47ef31319ab241609ad0230.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも紹介いただき、ありがとうございます😊\nチョコレート、ご褒美以上に食べているような。。\n今日も素敵な一日をお過ごしください✨️",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "nc238972ad02d6",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「自分の物差しで、成功を測る」日。\n> 金曜日。一週間、よくここまで来ましたね。\n> 秘密の泉は、森の奥深くにひっそ…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "nc5d4f4d22738f",
+          "user_name": "さやか/ 40代からの最高の身体資産を育てるnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261093826/profile_289b00217d1bb96d8648e9ca8629009c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも紹介ありがとうございます😊\nチョコレートってなんであんなに心が満たされるんでしょうね♡\n心の栄養💗",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "nc8ebc3e2c8ba1",
+          "user_name": "甲田和美｜デザインとAIで、心地よいビジネスを紡ぐnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/201886304/profile_0fd857b95183ae20622bd64c79158a4d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきありがとうございます！",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nbe202c51362c"
+        },
+        {
+          "key": "nc2af040ae2a11",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "分からないまま育てるのが得意って、めちゃめちゃ強いですね✨",
+          "article_title": "ゆめとルナの旅・幕間「女帝」押し花と、まだ実らない種",
+          "note_key": "n3261758008de"
+        },
+        {
+          "key": "nc9f05aa3599b8",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは😊\n\n結果が見えない時って、何も進んでいないように感じちゃうんですよね。\nでも土の中はこっちから見えないだけかもしれない。\nそう考えるとまだ…",
+          "article_title": "ゆめとルナの旅・幕間「女帝」押し花と、まだ実らない種",
+          "note_key": "n3261758008de"
+        },
+        {
+          "key": "ncce0c0f9f2856",
+          "user_name": "なんかいろいろ｜フォロバ100｜AIと物語のあいだ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307456943/profile_867bc29a3e2119f745cf1039a71129e9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「わからないまま育てるの、私、けっこう得意になったみたい」が好きでした。\n\n咲くかどうか分からないのに、それでも「じゃあ植えてみよう」って思えるんですね🌱\n\n最…",
+          "article_title": "ゆめとルナの旅・幕間「女帝」押し花と、まだ実らない種",
+          "note_key": "n3261758008de"
+        },
+        {
+          "key": "nc465091e2aa3c",
+          "user_name": "冬ちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289437799/profile_22a163d701363ee98ff05476d3ac1760.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うん。良かったよ。",
+          "article_title": "ゆめとルナの旅・幕間「女帝」押し花と、まだ実らない種",
+          "note_key": "n3261758008de"
+        },
+        {
+          "key": "nc0a0ef146dd57",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「自分の中の力を、思い出す」日。\n> 木曜日。疲れがたまって、自分が頼りなく感じる朝かもしれません。\n> ドラゴンは…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n8e3d37a68212"
+        },
+        {
+          "key": "ncf40b579c8703",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私の中の希望を見つけた時の感じはBの感じです🌟\nBで❣️",
+          "article_title": "私とルナの22枚タロット",
+          "note_key": "n641907fda050"
+        },
+        {
+          "key": "ncfd77b95e4e80",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回はBで。\n手に希望を持ってる感じが良いです🤗",
+          "article_title": "私とルナの22枚タロット",
+          "note_key": "n641907fda050"
+        },
+        {
+          "key": "nce3e612eccde4",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう☀️\nしっかり紹介してくれてありがとう裏面まで🤣\n\n完成したプロンプトより、途中の「はしゃもメイカー」や全面ホログラムまで拾われてるのが嬉しい…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nfae8c44c61da"
+        },
+        {
+          "key": "ncf816b47b616c",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「足元から、整える」日。\n> 水曜日。新しい月が始まって、少し気持ちが浮き足立つ頃かもしれません。\n> 大地の精霊は…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nfae8c44c61da"
+        },
+        {
+          "key": "nc70f53d51c582",
+          "user_name": "りんりん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/244086799/profile_6346dfb21861aab019b77539cf1e64ab.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n記事を紹介していただきありがとうございます。私自身にもこの記事が今新鮮な気持ちで入ってきました。　\n\n〝水鏡の泉は、水面が揺れ…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "ne9ffefbc7004"
+        },
+        {
+          "key": "nc6c0155f8ce21",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「静けさの中で、自分を映す」日。\n> 火曜日。9月最初の朝ですね。\n> 水鏡の泉は、水面が揺れているあいだは何も映し…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "ne9ffefbc7004"
+        },
+        {
+          "key": "nc9d5b1f05f3b5",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なまえ。。\n名前が、大切なのですね✨\n大切な音。",
+          "article_title": "【アカリウムお題ガチャ】風がゼンマイを巻いていた",
+          "note_key": "nfbcf0ac6ffe6"
+        },
+        {
+          "key": "nc43cefd8f0eb9",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは😊\n読み進めるほど、誰もいない遊園地で十二年間ずっと動き続けていた\n時間の重さがじわじわきました～",
+          "article_title": "【アカリウムお題ガチャ】風がゼンマイを巻いていた",
+          "note_key": "nfbcf0ac6ffe6"
+        },
+        {
+          "key": "ncd0d6979ba96a",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(´；ω；｀)ｳｯ…",
+          "article_title": "【アカリウムお題ガチャ】風がゼンマイを巻いていた",
+          "note_key": "nfbcf0ac6ffe6"
+        },
+        {
+          "key": "ncaaeae38a0b93",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "漢義リーグが気になるー🤣\n神岡家の気まぐれにゃじおを作業BGMとしてたまに聴いてるので\n椎名さんは、知ってます！\n",
+          "article_title": "ぐったりの夏だったのに、気づけば「できること」が増えていた",
+          "note_key": "n31128a135cd2"
+        },
+        {
+          "key": "ncf8fba20ee2d9",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "学びと、有意義なお休み♡が取れた8月やったんですね💕︎\n\n\nAIセミナーですか•́ω•̀)?\n\nちゃんと学べば、できること沢山有るんですね(*´³`*) ㄘゅ💕…",
+          "article_title": "ぐったりの夏だったのに、気づけば「できること」が増えていた",
+          "note_key": "n31128a135cd2"
+        },
+        {
+          "key": "nc9816cb5fefb6",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは。\n｢8｣月が終わりますね。笑\n今月もお世話になりました。\n\nこれからもマイペースでやっていきます。\nありがとうございました。\n",
+          "article_title": "ぐったりの夏だったのに、気づけば「できること」が増えていた",
+          "note_key": "n31128a135cd2"
+        },
+        {
+          "key": "nc16a1971c6a3d",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n> 今日は「積み重ねてきたものを、数える」日。\n> 月曜日。今日で8月も終わりですね。\n> 蜜蜂は、一度にたくさん運べません。…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n0de6006b6651"
+        },
+        {
+          "key": "ncbbf597906c34",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294944171/profile_c90f418276794d363ae771ae5560de23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう✨\n明日から9月ですね！\nまだまだ暑いけど😅\nイラストだけが先に衣替えしそうだなぁ🤣",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n0de6006b6651"
+        }
+      ]
     }
   ]
 }

@@ -1571,6 +1571,60 @@
           "note_key": "n7d36555421bb"
         }
       ]
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 500,
+        "likes_prev": 531,
+        "followers_start": 6134,
+        "followers_end": 6389,
+        "new_fans": 127,
+        "comments_total": 5,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:51",
+          "22:59"
+        ],
+        "top_article": {
+          "title": "『静かに舞い上がる、美しく舞う。』-これが勝利の舞。-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "nd6fa78c2df7f",
+          "likes": 108,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 28416
+        },
+        "commenters_count": 2
+      },
+      "comments": [
+        {
+          "key": "ncc4e0e67a2439",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。今日もプロンプト提供してくださいまして、ありがとうございます♪😊",
+          "article_title": "『静かに舞い上がる、美しく舞う。』-これが勝利の舞。-",
+          "note_key": "nd6fa78c2df7f"
+        },
+        {
+          "key": "nc1aff629f94f0",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nおっと・・・やってみますね\n\n折原みなちゃんのところを、\n私だと、涼島レイちゃんに置き換えますね♪",
+          "article_title": "『静かに舞い上がる、美しく舞う。』-これが勝利の舞。-",
+          "note_key": "nd6fa78c2df7f"
+        }
+      ]
     }
   ]
 }

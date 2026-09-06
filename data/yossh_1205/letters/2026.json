@@ -7941,6 +7941,321 @@
           "note_key": "n6e59106fbbd6"
         }
       ]
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1042,
+        "likes_prev": 1270,
+        "followers_start": 1410,
+        "followers_end": 1417,
+        "new_fans": 62,
+        "comments_total": 67,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "12:30",
+          "22:15",
+          "12:20",
+          "16:51",
+          "17:30",
+          "19:29",
+          "15:20"
+        ],
+        "top_article": {
+          "title": "noteのスキなトコ",
+          "key": "n5562aa72871f",
+          "likes": 168,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "けんさん💚ありがとう魔法のカウンセラー💚",
+          "urlname": "kensei1199",
+          "follower_count": 13124
+        },
+        "commenters_count": 21
+      },
+      "comments": [
+        {
+          "key": "nc0fcb0cce0b3a",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、\nこんばんは♪\n外はめちゃくちゃ雨が凄いです、、☔️\n\nこの度も、マガジンに記事を追加していただき、ありがとうございます😭\n\n古い記事の発掘、いつ…",
+          "article_title": "オススメの有料記事って、何かある？",
+          "note_key": "n8061364aa0d5"
+        },
+        {
+          "key": "nccec32237aa72",
+          "user_name": "まやのまさこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236870224/profile_7b1d6960187c5813832bb7734662d75f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんと！note全体のおすすめ記事って何が人気なのか？\nわかりませんよね😚noteの有料記事って\n結構ハードルが高くて💦\nよしひろさんの記事もどうしよう？と思い…",
+          "article_title": "オススメの有料記事って、何かある？",
+          "note_key": "n8061364aa0d5"
+        },
+        {
+          "key": "ncbb3e8e302f39",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "誕生日の告白🥰\n",
+          "article_title": "オススメの有料記事って、何かある？",
+          "note_key": "n8061364aa0d5"
+        },
+        {
+          "key": "nc2814fa0f9981",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんまに、ほんま𖠶𖠶ꜝꜝ\n\n借金って慣れるんですよね(´；ω；｀)\n良い意味でも悪い意味でも(||´Д｀)ｏ",
+          "article_title": "借金って慣れるよね……",
+          "note_key": "n42c30fc64d23"
+        },
+        {
+          "key": "ncbd5f027d30a6",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "無茶振り大好き💕だった\n今はホントにムリってなってしまうことが多いかな\n\nただできる無茶振りを、苦手な人から振られた場合、これは今でも基本受ける。\nなんというか…",
+          "article_title": "役に立つか立たないかは……アナタ次第です🫵",
+          "note_key": "n7e5cb476e09e"
+        },
+        {
+          "key": "ncdc27da3d66ab",
+          "user_name": "幸希茶房🍵(ko_ki)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/197443227/profile_f57724848d3c8d15980c6879142b3f6e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんにちは！😆\n\nなんとなくわかるような気するー！🤩\n相手を愛しい存在で見てあげると、やったりますか！てなるんですよね😆\n\nもちろん、相手にもより…",
+          "article_title": "役に立つか立たないかは……アナタ次第です🫵",
+          "note_key": "n7e5cb476e09e"
+        },
+        {
+          "key": "nc86a6c4ccefaf",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは〜♪\n\nお久しぶりです。\nお元気ですか？😊\n\nこの度もマガジンに追加いただきありがとうございました！\n感謝申し上げます😂",
+          "article_title": "noteのスキなトコ",
+          "note_key": "n5562aa72871f"
+        },
+        {
+          "key": "nc45b9ca405a8e",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n私も始めてしばらくの間はやっぱり寂しさとかありましたね。\n特にやり取りして…",
+          "article_title": "noteのスキなトコ",
+          "note_key": "n5562aa72871f"
+        },
+        {
+          "key": "ncd7e486d92706",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは\n\n「イ～ヤ～ヤダヤダ」のくだりに\n思わず笑ってしまいました\n\nそんな寂しさを\n404美術館という\n感傷の緩衝材で受け止めてしまう\nよし…",
+          "article_title": "noteのスキなトコ",
+          "note_key": "n5562aa72871f"
+        },
+        {
+          "key": "nca05385bcbf0b",
+          "user_name": "ののさん🌸ゆっくりのんびり私らしいnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211922575/profile_2cfc1175f5e82a47ed7053885507759e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\nこんにちは♪\n\n「404美術館」は知らなかったです。\n今までつながっていた人がいなくなってしまうのは、ちょっと寂しくなりますが、note運営さんの…",
+          "article_title": "noteのスキなトコ",
+          "note_key": "n5562aa72871f"
+        },
+        {
+          "key": "ncb4feb903eca3",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは！\n少しご無沙汰してました。\n\nなかなか記事も投稿できずで、、\n\nこの度も、マガジンに追加していただき、ありがとうございました！\nいつも…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc4d5684e7355b",
+          "user_name": "とっつん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261561802/profile_9d7e454af28477c561e8af245607fcbf.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます☀️\n\n視野を広げる経験\nすごく大切だと思いました😊\n\n記事の紹介もありがとうございます✨\n",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nce35e29e62da5",
+          "user_name": "GOGOおじさん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic0567a0e070c.jpg",
+          "body": "よしひろさん、いつもマガジン掲載ありがとうございます\n受賞おめでとうございます！👏\nポジティブシンキング＆レッツラゴ～ですね‼",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc5afa36566d3a",
+          "user_name": "水越なつめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214525963/profile_07b0d5061a5707a265a1d1af58df19b8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n記事のご紹介ありがとうございます✨\n\nよしひろさんの個人的なお気に入り記事、とっても気になります👀\n\nポジティブ大賞の期間は、記事を通して私もポジ…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nceb81cb05abd5",
+          "user_name": "慧＠kei5833",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/81563940/profile_e9ce053a2aa416b85e35fdd869dd6c7e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事紹介ありがとうございます！\n\nたしかにポジティブを意識したnoteは、この企画に参加しないと書いてないかもしれないなぁと感じました！",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc75a086924bfe",
+          "user_name": "ふっくらシャギー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207485395/profile_4033ab6e00e2566bcf40615e8cb20257.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん🤗\n\n私もポジティブ大賞に参加して自分の視野が広がりました⤴️\n実はこの企画に参加するまで自分がポジティブだとは思わなかったんですよ🤭\n\n新しい世界…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc066d41a21f53",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n小さなチャレンジをしてみるのはいいですよね😊\nしっくりきたら続ければいいし…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc8736826c0b97",
+          "user_name": "ゆきぽ🦥🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは🌙\n\n記事を紹介してくださってありがとうございます✨\nいろいろやってみるのって、新しい発見があっておもしろいですよね。\n素敵な気付きをあ…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc3d6054220fde",
+          "user_name": "ほしの遥華",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152026568/profile_c0d8746aabee5b891db08b9fcb24d1ea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌛\nお祝い＆素敵なご紹介記事✨️\nありがとうございます🥰",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc3820a9870f74",
+          "user_name": "musicat/おとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237713470/profile_2774fda1b9199e603d2c82ed8a8bc97d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介、ありがとうございます🌿\n自分の触れていない世界は広いなぁと思います。たくさん読めて楽しかったです✨",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "ncef5c75506183",
+          "user_name": "幸希茶房🍵(ko_ki)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/197443227/profile_f57724848d3c8d15980c6879142b3f6e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "別の機会なんかーい🤣🫱ﾋﾞｼ\n\n思わずツッコんでしまいましたがな😆\n\nよしひろさん、こんばんは！🤩🌃",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nc47a4892424d0",
+          "user_name": "ひとこま",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/183551083/profile_4ec5da641287bce186554f2dfb3da96e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん　こんばんは\n\n新しい挑戦でしたので、ドキドキしつつ投稿してみました。\nまたnoteでの視野の広さと、経験値を積めたのかなと思っています。\n\nいつも…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "ncadc33e56363a",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事をご紹介して下さりありがとうございます💖💖💝\n\n私もまだ読めていない記事もたくさんあるので、これから読んでみたい、と思いました〜きっかけをありがとうございま…",
+          "article_title": "ほしの遥華さん主催【第4回 輝け！noteポジティブ大賞👑】に参加して。",
+          "note_key": "n9c73495cd6ea"
+        },
+        {
+          "key": "nceeacdcf2dee7",
+          "user_name": "ゆきぽ🦥🌿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "365日間近なんですか？\nすごい😳\n１年間ですよ！？\nびっくりしすぎて言葉になりません。",
+          "article_title": "夏のイメチェンを遂げた、8月のコングラちゃん。",
+          "note_key": "n8c66039e3d29"
+        },
+        {
+          "key": "nc2b6f22b871b1",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nそして今月もコングラ獲得、 おめでとうございます🎉🎉🎉\n\nこの見た目、私的…",
+          "article_title": "夏のイメチェンを遂げた、8月のコングラちゃん。",
+          "note_key": "n8c66039e3d29"
+        },
+        {
+          "key": "nc6b7ac45243b2",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そしてコングラボードのイメチェンに合わせて（というわけではないだろうけど😁）よしひろさんもイメチェンですね。いよいよ9月1日は真正面ですね！",
+          "article_title": "夏のイメチェンを遂げた、8月のコングラちゃん。",
+          "note_key": "n8c66039e3d29"
+        },
+        {
+          "key": "ncc1b2be881a59",
+          "user_name": "musicat/おとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237713470/profile_2774fda1b9199e603d2c82ed8a8bc97d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "昔話をする老人ムーヴ。分かります😁noteも世の中も流れ、移り行くのですね。",
+          "article_title": "夏のイメチェンを遂げた、8月のコングラちゃん。",
+          "note_key": "n8c66039e3d29"
+        },
+        {
+          "key": "nc406798aaa1c8",
+          "user_name": "ふくふく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/199863135/profile_fd5c1143f3022a450752d18a86437b41.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nマガジン追加していただき、ありがとうございます☺️\nnoteのつながりは不思議なものですね✨\n数あるアカウントの方々の中から、ご縁があるのは素敵…",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        },
+        {
+          "key": "ncaea92b35f65b",
+          "user_name": "MaRu（まる）｜ 4時起き朝活ワーママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/263795679/profile_286a7a9d12b529deb20a75cfae67120b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは⭐︎\n\n「当たり前に続いていくものではない」という言葉にハッとしました。\n\n8月は子どもたちの夏休みもあって、読む時間があまり取れなかっ…",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        },
+        {
+          "key": "nca1abd151307a",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アイコン今真正面なのかなぁー😊\n今月もよろしくお願いします💕",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        },
+        {
+          "key": "nc959a4f8acd90",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nよしひろさんの程よい緩さが読みやすいんですよね😊\nまたたくさんコングラも取…",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        },
+        {
+          "key": "ncadf57b70f42c",
+          "user_name": "幸希茶房🍵(ko_ki)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/197443227/profile_f57724848d3c8d15980c6879142b3f6e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん🤩初コメントです😆\n\n９月もよろしくお願いします😆\nよしひろさんの記事が上がると嬉しくてひょいひょい読みにくる幸希です😂",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        },
+        {
+          "key": "nc262593a90be1",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306834124/profile_42eac3da0478f8c291990fa2354513b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんの記事が上がると\n今回は何を書いていらっしゃるんだろうと、すこし、わくわくして\n記事をタップしてます😂\n\nたぶん、noteに登録した頃に\nフォローを…",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        },
+        {
+          "key": "nc5b133b52b50e",
+          "user_name": "GOGOおじさん",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/ic0567a0e070c.jpg",
+          "body": "9月も新作楽しみにお待ちしてます\n\nさぁこちらも仕事しなきゃ",
+          "article_title": "8月の終わりと9月の始まり",
+          "note_key": "n1d62fe5c6eb2"
+        }
+      ]
     }
   ]
 }

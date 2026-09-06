@@ -352,6 +352,42 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 387,
+        "likes_prev": 251,
+        "followers_start": 4076,
+        "followers_end": 4085,
+        "new_fans": 99,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "【最新】動画生成AIモデル「Seedance」 2.0 vs 2.5 徹底比較！AI動画でYouTube長尺動画を作る方法｜AI活用｜比較｜初心者｜副業｜クリエイター｜効率化｜挑戦｜最新AI｜ポモドーロ｜2026年｜",
+          "key": "n2152ae6a9ec3",
+          "likes": 219,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 16794
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 5
     }
   ]
 }

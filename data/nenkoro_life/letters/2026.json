@@ -5667,6 +5667,96 @@
           "note_key": "n71be8824c72a"
         }
       ]
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 466,
+        "likes_prev": 502,
+        "followers_start": 1970,
+        "followers_end": 1988,
+        "new_fans": 103,
+        "comments_total": 5,
+        "posts_count": 6,
+        "consecutive_days": 2,
+        "post_times": [
+          "16:00",
+          "16:00",
+          "07:00",
+          "16:00",
+          "16:00",
+          "11:58"
+        ],
+        "top_article": {
+          "title": "AIで稼ぐようになって、会社員時代の月収を超えた話",
+          "key": "n2db0237355c1",
+          "likes": 109,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 16986
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "nc0b0851643702",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "案件獲得して回収大作戦ですね\n分かります😺",
+          "article_title": "AIの半額クーポンを使おうとして、年額8万円を決済した話😇",
+          "note_key": "ne36e2597430e"
+        },
+        {
+          "key": "nc72b0887b5789",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん！\n\nお！\nコメントが開いてる☺️\n\nドンマイ過ぎるけど、ねんころさんなら8万以上稼ぎそうでしかない👍笑\nナレーションってどんな時に使うんか謎やけ…",
+          "article_title": "AIの半額クーポンを使おうとして、年額8万円を決済した話😇",
+          "note_key": "ne36e2597430e"
+        },
+        {
+          "key": "nc6ce266f3436a",
+          "user_name": "そっとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206061612/profile_ba412f6971d5f160a7d790bccc58ba49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい…！\nかっこいいー！\nねこは失敗を引きずるタイプなので、そのマインド見習いたいと思います。\n「失敗があったからこそ運命が変わってここまで来れたな～」ってな…",
+          "article_title": "AIの半額クーポンを使おうとして、年額8万円を決済した話😇",
+          "note_key": "ne36e2597430e"
+        },
+        {
+          "key": "ncc5a4ecde1152",
+          "user_name": "ハル｜Tokyo Visual Moments",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256805436/profile_f81b26580159c31170149db5d92e55ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そ、それはつらいポチりミスですね。なんかわかります。私も昨年間違って年額プランミスってポチったひとなのでお気持ちわかります。そしてその前向きなマインド素敵ですね…",
+          "article_title": "AIの半額クーポンを使おうとして、年額8万円を決済した話😇",
+          "note_key": "ne36e2597430e"
+        },
+        {
+          "key": "nca8b2575ef20d",
+          "user_name": "りょう　パニック狐🦊は旅をする",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212542285/profile_14d43bf0fa5362979b5ff4732f96a027.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🦊\nクロちゃん吹いた🤣\n海外アニメ風、急すぎw\n面白い記事、ありがとうございます🙏\n",
+          "article_title": "写真1枚が踊り出す！？VidMage AIで自作キャラをダンス＆カートゥーン化してみた【PR】",
+          "note_key": "n815b6b054d04"
+        },
+        {
+          "key": "nc0d5c610e64d5",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃんがあまりにキラキラですね😍\nしかも踊るんですね！\n感動しました💕\n\nコメント返信、無理せずに🙌",
+          "article_title": "写真1枚が踊り出す！？VidMage AIで自作キャラをダンス＆カートゥーン化してみた【PR】",
+          "note_key": "n815b6b054d04"
+        }
+      ]
     }
   ]
 }

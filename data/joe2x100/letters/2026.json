@@ -877,6 +877,51 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W36",
+      "period": {
+        "start": "2026-08-31",
+        "end": "2026-09-06"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 131,
+        "likes_prev": 168,
+        "followers_start": 839,
+        "followers_end": 872,
+        "new_fans": 28,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "09:00"
+        ],
+        "top_article": {
+          "title": "【キャンバスの上で自由になる魔法（AIも人間も悩ませる「自由」という名の残酷な壁）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.57",
+          "key": "n279f096ef632",
+          "likes": 69,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "しょうヘイ｜まだ届かない価値を、届くべき人へ",
+          "urlname": "shoheysun",
+          "follower_count": 9466
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncc7138bde8b98",
+          "user_name": "AIU(アイユ)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292505734/profile_3e8549b785a2e8dc68f32a35dadea4ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joe Tsukasaさん\n初めてコメントしますAIU（アイユ）です。\nAIが余白苦手って、\nこの記事読んで、あ～確かに。って納得しました！\n\nそれから#プロプ…",
+          "article_title": "【キャンバスの上で自由になる魔法（AIも人間も悩ませる「自由」という名の残酷な壁）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Photoshop No.57",
+          "note_key": "n279f096ef632"
+        }
+      ]
     }
   ]
 }
