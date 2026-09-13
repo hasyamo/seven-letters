@@ -5009,6 +5009,198 @@
           "note_key": "n794a0444eca2"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 330,
+        "likes_prev": 301,
+        "followers_start": 745,
+        "followers_end": 752,
+        "new_fans": 47,
+        "comments_total": 45,
+        "posts_count": 12,
+        "consecutive_days": 7,
+        "post_times": [
+          "06:30",
+          "22:17",
+          "06:30",
+          "15:00",
+          "06:00",
+          "14:51",
+          "14:02",
+          "06:00",
+          "06:30",
+          "20:30",
+          "06:30",
+          "17:41"
+        ],
+        "top_article": {
+          "title": "【NEW‼️】職場の人間関係にもGitHubを実装したい。まずは菌株から🤣",
+          "key": "n0667083dc562",
+          "likes": 33,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17012
+        },
+        "commenters_count": 13
+      },
+      "comments": [
+        {
+          "key": "nc75b1d1d213c0",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかダルメイっぽいと思ったらキャプションに「月曜日の味」🤣\nお、俺は本当は竜なんだぞお！マ、マジだからな！💦💦",
+          "article_title": "最強の難敵！まるいもじゃもじゃ | 簡単なカタチほど難しい💦",
+          "note_key": "na4600970901a"
+        },
+        {
+          "key": "nc207bb590b8d6",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画生成は自前のゲーミングPCとCodexで生成できるので、無制限ですｗ\n\n暗号は解読不能っすｗ\n",
+          "article_title": "Xをnote記事に展開させられるか…note▷▶︎▷X | X▷▶︎▷note | SNSを循環させるズボラめじゅ😤",
+          "note_key": "n7bee851bc4d6"
+        },
+        {
+          "key": "ncd2eec6430a8a",
+          "user_name": "picko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/202298852/profile_79f46470ffad5a0aa6809aea5c8064d6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんとうですね〜楽に行きたい。🦙",
+          "article_title": "Xをnote記事に展開させられるか…note▷▶︎▷X | X▷▶︎▷note | SNSを循環させるズボラめじゅ😤",
+          "note_key": "n7bee851bc4d6"
+        },
+        {
+          "key": "nc4d6f8971d55f",
+          "user_name": "こたや｜KOTAYA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もGrok派！\n普通に性能もいいし使いやすいと思う。\n動画生成では、今いちばんコスパいいんじゃないかな？",
+          "article_title": "Xをnote記事に展開させられるか…note▷▶︎▷X | X▷▶︎▷note | SNSを循環させるズボラめじゅ😤",
+          "note_key": "n7bee851bc4d6"
+        },
+        {
+          "key": "nc5e5de5a54582",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅちゃん、らーーーーーぶ🩷🩷！！",
+          "article_title": "Xをnote記事に展開させられるか…note▷▶︎▷X | X▷▶︎▷note | SNSを循環させるズボラめじゅ😤",
+          "note_key": "n7bee851bc4d6"
+        },
+        {
+          "key": "ncea0e07599570",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん！\nなんと文字だけでなく、背景のイラストも指定できるんですね！\nてっきりバックの色は変わらないと思ってました💦",
+          "article_title": "あの日、AIに「天翔の國」を光にしてもらえなかった。今日は文字の中に住人がいた。",
+          "note_key": "nf11104f1d8e6"
+        },
+        {
+          "key": "nc63d0d7417efa",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\n\nこんにちは。\nすごい…こういう風にもできるんだ！\n世界観を表現するって大変ですけど、\n私も精進しますー！",
+          "article_title": "あの日、AIに「天翔の國」を光にしてもらえなかった。今日は文字の中に住人がいた。",
+          "note_key": "nf11104f1d8e6"
+        },
+        {
+          "key": "nc37a5bb4cfbd1",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごいです！\n\n自分も挑戦中です！！\n\n文字から牛乳と耳毛が現在飛び出てますｗｗ",
+          "article_title": "あの日、AIに「天翔の國」を光にしてもらえなかった。今日は文字の中に住人がいた。",
+          "note_key": "nf11104f1d8e6"
+        },
+        {
+          "key": "nce48abc15fb49",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312320794/profile_045138d081595762a6f74d1221a7f7aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オベリスク化🤣🤣\n\n色々実験しながら画像生成取り組んできたからでしょうね。\n\n一発でできたってあったけど、最近は失敗そのものが減っていらっしゃるのでは？？\n\n最…",
+          "article_title": "あの日、AIに「天翔の國」を光にしてもらえなかった。今日は文字の中に住人がいた。",
+          "note_key": "nf11104f1d8e6"
+        },
+        {
+          "key": "nc07e9dc7f5ee1",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素直にすごいっす！！\n\nこんなのをもっとたくさん見たいっすw\n楽しく沼？ってくれてあざます！！\n\nどんどん新しい使い方を見つけて、私のインスピレーションを刺激し…",
+          "article_title": "あの日、AIに「天翔の國」を光にしてもらえなかった。今日は文字の中に住人がいた。",
+          "note_key": "nf11104f1d8e6"
+        },
+        {
+          "key": "ncd8038a69e8c8",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "締切ギリギリで、めじゅちゃん滑り込みセーフε-(´∀｀*)ﾎｯ",
+          "article_title": "あいさん7777人企画に参加 | 閻魔大王の鏡に映るもの",
+          "note_key": "nf606fe6f0941"
+        },
+        {
+          "key": "nc9f509884e311",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん💗\n\nえっ……めじゅさん、参加してくれたの😭🙇‍♀️\nHPづくりまでお願いしているのに、しかも本当にいろいろ忙しい中で……もう、ありがたすぎます🥹💦\n…",
+          "article_title": "あいさん7777人企画に参加 | 閻魔大王の鏡に映るもの",
+          "note_key": "nf606fe6f0941"
+        },
+        {
+          "key": "nc023a2634345d",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごく良さそう🩷\n家戻ったら遊んでみますー！",
+          "article_title": "存在しない雨の記憶 | 70～90年代J-POPから生成させるプロンプト | 有料記事",
+          "note_key": "n242b816e343f"
+        },
+        {
+          "key": "ncc3ea9984d461",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ホント、めっちゃでっかい蛇だった‼",
+          "article_title": "巨大アナコンダで画像生成AIを耐久試験してみた🐍",
+          "note_key": "n2f77836b40bb"
+        },
+        {
+          "key": "ncc9245187fde4",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "でかい蛇つくったね🤭",
+          "article_title": "巨大アナコンダで画像生成AIを耐久試験してみた🐍",
+          "note_key": "n2f77836b40bb"
+        },
+        {
+          "key": "nc2c05144afe60",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まなつさんの魅力がきれいに出てる記事でした👏\n\nこの分析力、すごい✨️\n\nまなつさんへの愛も溢れてましたね🌱",
+          "article_title": "王冠をかぶったまま、他人を臣下にしない。",
+          "note_key": "n2cf8cfadde49"
+        },
+        {
+          "key": "ncf229163515fe",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんにちは🥰\nめじゅさんの視点を通して伝わってくる、まなつちゃんの魅力がとても素敵でした💓\n「自分を引っ込めない。でも相手にも踏み込まない」という『…",
+          "article_title": "王冠をかぶったまま、他人を臣下にしない。",
+          "note_key": "n2cf8cfadde49"
+        },
+        {
+          "key": "nca55368758155",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いや〜、これは大作ですな♪ステキな考察をありがとう♫そして、挿絵がかわいいヾ(*´∀｀*)ﾉ",
+          "article_title": "王冠をかぶったまま、他人を臣下にしない。",
+          "note_key": "n2cf8cfadde49"
+        }
+      ]
     }
   ]
 }

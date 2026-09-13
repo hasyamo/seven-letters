@@ -11014,6 +11014,831 @@
           "note_key": "n1fe88a777f62"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1020,
+        "likes_prev": 1334,
+        "followers_start": 1959,
+        "followers_end": 1986,
+        "new_fans": 93,
+        "comments_total": 207,
+        "posts_count": 5,
+        "consecutive_days": 5,
+        "post_times": [
+          "20:36",
+          "20:54",
+          "20:21",
+          "20:26",
+          "20:41"
+        ],
+        "top_article": {
+          "title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "key": "n384ab7af0e9a",
+          "likes": 176,
+          "comments": 65
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 20009
+        },
+        "commenters_count": 61
+      },
+      "comments": [
+        {
+          "key": "ncebc96fe808b0",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n200記事毎日投稿、おめでとうございます✨\n\nみきさんにはお忙しい中、企画に参加いただいたり、\nいつも丁寧にコメントいただいたり、\n本当に感謝してお…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc46fc8739c1e5",
+          "user_name": "Kotora_rei(凛強)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301693873/profile_bb8852a710c77a9578d90bf1128be325.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n🌹✨ 🌹✨ 🌹✨ 🌹✨\n200記事おめでとうございます。🎊🎉✨\n毎日投稿されてると\nあっという間だったかとおもいます。\n私もみきさんの\nマガジンの記事…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nce963c38d7afb",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃーん　こんばんは🌙\n２００記事投稿おめでとうございます。\n\n私もずーっと毎日更新やめようかどうか\n悩んでるけど続けています。\n\nカリグラフィーって素敵な…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncff8bc6c33a02",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさんの誠実さが、言葉の端々から伝わって来ました💝\n\nそうなんですよね\nnoteって集中すると、時間が溶ける🫠記事もじっくり読みたいし、コメントも、、、と思う…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncf39536231741",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n「連続投稿200記事」の節目、\n本当におめでとうございます。\n\n「循環」のお話や、ご自身の時間を大切に作っていこうとされる姿に温かい気持…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncf54f1beecae6",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかわかるなあ。自分もやりたいことが多すぎて時間が足りない😆",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc6acdf112f6fb",
+          "user_name": "ゆら💐",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253515245/profile_99c5a4b66ac3ea9f95e8b0794ef21057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん🧚\nおはようございます☀\n200記事✨\nおめでとうございます🎉\nnoteとの付き合い方を少し変えられるかも....とのこと、\n私はみきさんに長く長ーくn…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc29eff041329f",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n夜分に失礼します。\n\n連続投稿200記事おめでとうございます🎊すごいです✨\nなかなか出来ることではないと思います。\n\nまずは第一期お疲れさまでした😌\n…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc3408a6443b2a",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan\nごきげんよう✨(≧▽≦)\n\n200記事の達成！！\nCongratulation🌺\n\n「作り続けている人」―――\nめちゃくちゃわかります💕\n\nなんだ…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc9a8fa2a280ac",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは🌃\n\n200記事の達成おめでとうございます🎁\n\n第一期はひとまず完成なんだね✨\nうんうん、確かにnote以外にすることも、たくさんあるし、…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc1e58ab9bf471",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんにちは\n\n200記事の達成、おめでとうございます\n\n「毎日投稿している人」より\n「作り続けている人」でいたい、という言葉に\nみきさんらし…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncf2bdf0eabcb6",
+          "user_name": "みゆ｜自分を取り戻す生き方を発信",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278929889/profile_8e06e94bf08bfee1828bb834d72bcf5c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、200記事の連続投稿、おめでとうございます☺️🌸\n\n「受け取って、自分の中で育てて、また何かの形にして返す」\nnoteを「循環する場所」と表現されてい…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc8e418ff0c2b6",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\n\n200記事連続投稿。\nすごいな。と思いながら読みました。\n\n私も初めは毎日投稿でした。\n\n生活が変わりできなくなってしまい\n今では週1～2くらいで…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nce4bffb288647",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、200記事連続投稿おめでとうございます✨✨\nあらたなステージですね。楽しみにしています🥰❤️",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc946201150b72",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\nみきさん、200記事おめでとうございます😊🌸\n\n読んでいて、noteを楽しみながら続けてきたんだなぁって感じました。\n\n「毎日投稿して…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncb81bd31315e5",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🤗\n\nスゴイですね🥰\n\n私の拙い即興詩をご紹介ありがとうございます🙇",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc5d3035f99adf",
+          "user_name": "こはる🌷ふわり、ももんが日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246484153/profile_50e45d59aea0e50aa87e0779898c85ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊\nおはようございます☀️\n\n連続投稿200記事おつかれさまです😌\n毎日続けられてきたことがほんとにすごい🥹\n\nわたしもここ最近、noteとの距離感につ…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nca2bfaa7a8669",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\n第一期完走お疲れ様💦👏\nやってみたからわかることも収穫👍\nやっさんも夏休み🌻とって…noteから離れたことでわかったことも収穫✌️\nお互い違う収穫…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc9dd54405c038",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます。\n\n200記事投稿おめでとうございます＾＾\n第2期も、みきさんの記事を楽しみにしています(*- -)(*_ _)ペコリ",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncf4692ec3286d",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302666022/profile_a40c0fba6956d2c6c2679caa94e23add.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n連続投稿200記事＆第一期お疲れ様でした！\n第二期もよろしくお願いいたします。\n\nいつもありがとうございます:)",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc9a1c3d9d8109",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301705120/profile_03e29a2200fbe97afd10211b38aba40c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、200記事投稿おめでとうございます👍\n\nブラボー🎉🎊✨️\n\n",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncd9fde0571b99",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、200記事おめでとうございます😊🎉\n\nnoteでいろんな人や作品に出会ったことが、\nAIや音楽、動画だったり、また次の「やってみたい」に\n繋がってきた…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncec32ce572d8c",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303699603/profile_84b427ef8ba5d645a2062af319599383.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん💕\n\n200記事おめでとうございます🎉✨\n毎日投稿ってホントに尊敬します！\n\nみきさんは好奇心旺盛な方だから\n進化は止まらないと思います♪\n\nこれから…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc2e78194da1cf",
+          "user_name": "ヒナタ -感情導線プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250534626/profile_d85b7d906ab9a032eb8932cb3fa79307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、連続投稿200記事達成、本当におめでとうございます＼(^o^)／🎉✨\n\nそして「note第一期」の完走、お疲れ様でした💖\n最初はただのアウトプットの場…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc9917705f7313",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\n200記事おめでとうございます🎉\n最初はアウトプットする場所だったnoteが、いろんな人や作品に触れて「循環する場所」になっていったの…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc15f9f8dc62ff",
+          "user_name": "カケルン@HSP フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、200記事おめでとうございます😊✨\n\n「受け取って、自分の中で育てて、また何かの形にして返す」という“循環”の表現が、すごくミキティらしいなと思いまし…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nca2ababdcc2f4",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん✨\n\n200記事達成、おめでとうございます🎉💗\n毎日投稿を続けていること、本当にすごいです✨\n\nこれからも、どんどん進化していく\nみーちゃんの姿を楽し…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncc0f194197154",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん！\n\n200記事お疲れ様ー！！\nそして、次の第二期も目標があって楽しみですねー🤩\n\n作る人ですかー♪\n創作関係かな〜🧐\n楽しみにしてますねー！",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc7226ed03e3a0",
+          "user_name": "銀狐監督（社畜Lv5.0）【ビール愛好家120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313071198/profile_62527293b9443b4bd72a6a1b79de2126.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "第一期ですと👀💦\n\nエヴァの序みたいな感じなんですね😂✨",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc561f440a979f",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n200記事＆第1期完走、おめでとうございます🎊\n\n毎日投稿で200はすごいですよね✨\n私は途中で挫折して、久しぶりに再開中です。\n\n第…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "nc3d3f41ec8f2f",
+          "user_name": "けい｜自分に戻る心理ワーク",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286646783/profile_022698b255895c93587c0adf71df40ee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、200記事おめでとうございます〜☺️🎉✨️\n\n毎日投稿でここまで続けてこられたの、本当にすごいです😳 楽しいだけじゃなくて、「今日はどうしよう」って日…",
+          "article_title": "🌸200記事で気づいたこと✨noteは私にとって「循環する場所」✨",
+          "note_key": "n384ab7af0e9a"
+        },
+        {
+          "key": "ncf6112028aed5",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n今日はどうしてるかなって自然に思える人がいるの、いいですね✨\nコメントしなきゃとか交流しなきゃじゃなくて、普通に読みたいから見に行く。…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nce25f8c2b07ab",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃーーん❤️こんばんは🌙\n\nちょっと待ったーーーーーーー💦\n昨日って出張じゃなかったの？💦\nこんなにガッツリ私のこと書いてくれてると思わんかったです💦\n\n…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc816e60ffd4aa",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\n先輩2人へのリスペクトが凄く伝わってきました〜\"(ﾉ*>∀<)ﾉ\n\nデュエットのMVも素敵でしたヽ(*´∀｀*)ノ",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc6242ed7d8a17",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん💖\n\nありがとうって言いたい❣️❣️\n温かい気持ちになりましたー🥹💕\n\nデュエットの曲も動画も可愛くて、すごくすごく良いです！！",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc007ac0ffd45a",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙カワムラさんと山中さんの動画観てとっても素敵だったのでコメントしちゃいましたー♡\n\nレトロな雰囲気がとっても素敵です✨\n",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc81faaa4bf5fa",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "山中さんとカワムラさんは僕も仲良くしてるので、読んでて嬉しかったです😊\nみきさんも毎日のように読みに行ってるんですね！\nこういう関係ができるのもnoteの楽しさ…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "ncc0c31bd4865d",
+          "user_name": "カケルン@HSP フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、改めて読んで思ったけど、これって二人の紹介記事というより「人がいつの間にか日常の一部になっていく話」なんだね😊✨\n\n山中さんには「今日は何かな？」、か…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "ncf015ee2951ac",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、とっても素敵な記事でした！！\n最後の動画、めちゃくちゃ楽しい😆🎶\n1200万人の中から、毎日のようにお話しできる関係になれるって\n本当に素敵なことです…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc033a16766083",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊\nおはようございます！\nnoteは素敵な海ですね🌊\nそして、素晴らしい人たちに会える場所ですね。\nたくましく、華麗に泳いでいるみきさん、眩しく思ってま…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc375243553ec7",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan～\nGood morning(^^♪\n\nステキなお話ですね✨\nそして、MVがレトロな音楽番組を\n連想してしまいました🤣（ニヤニヤ）\n\n朝から心が温か…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc18a9f202592d",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299967471/profile_6c6d1d1ada2c8774e44d755b8cfacdb1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nみきさん、こんばんは！✨\n先輩お二人への感謝と愛情がまっすぐ伝わってきて、胸がじんわり温かくなりました🌱「読みたいから行く」というシンプルな気持ちから…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nce0d1838fed8a",
+          "user_name": "KAi_ss",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280700055/profile_dbe9688914e5a2515a2a3eaeb7016931.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは♪\n\nnoteを使って創作する楽しみだけじゃなく、もう一つの楽しみ方\n(素敵な仲間が増える)が記事と曲に込められていて、\nほっこりしました☺…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "ncef52ef855f0e",
+          "user_name": "女職人漂流記｜こはるの、ねこのーと！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297543554/profile_917e0bf72e9194dd8591bc716edb645a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "懐かしい感じのほっこりソング🐱✨\n仲良しさんに歌ってもらう風の演出、素敵ィ😻",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc0690174fcf33",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈コンパスさんのところでも1位になってたんですかー？💞\nDOSUKEBEがバレてしまって恥ずかしいわ😆😆👍\nそれにしても、カワムラちゃんはすごいなあ。人…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "ncc34d466a8e68",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんはー🌙*·̩͙\nいや動画♡♡80年代風可愛いすぎですーꉂ🤭✨️♥️\n二人でデュエット‼️✨️\n山中さんはかっこいいし、カワムラさん可愛い～ꉂ🤭…",
+          "article_title": "今日も読みに行きたくなる✨noteの先輩ふたりへ❤️",
+          "note_key": "n307f36568762"
+        },
+        {
+          "key": "nc81c198cc39f4",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n記憶と妄想で味わう秋の味覚、とても温かい気持ちで拝読しました。\n\n重箱を囲んだ運動会の景色や、お母様の実家にあった柿の木など、食べ物と一…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc797e69765b7c",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\nやっさんの得意なハヤトチリ💦\nふぐの🐡話かと思って…読み始めたら⁉️あれ😯違うやん💦\nタイトル見直して気づいた始末🤭😅🤣\n",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc784014e61de2",
+          "user_name": "リブラライブラリー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/224996193/profile_ce2f7a32275a20bfdd4c6d2119db69f6.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、秋は美味しい旬の物がいっぱいですよね。\n妄想だけで味覚も記憶を頼りに蘇えるのだなと、\nこの記事を読みながら楽しみました。\n過去の記憶がインプットした「…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc2d1b48eac199",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n\n読んでたらタクまで栗を食べた気分になりました😊\n食べ物の記憶って、味だけじゃなくてその時の景色まで\n一緒に残ってるんですね✨\n…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "ncbabdf3981697",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303699603/profile_84b427ef8ba5d645a2062af319599383.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん✨\n私もスプーンですくって食べる派です！\n主人の実家に大きな栗の木が3本あるので\n毎年栗の時期は栗拾いが楽しみなんだよね～♬\n\n手間がかかるけど\nマロ…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc7d6aba04e9ce",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298908871/profile_31c2924d78396df4a700037532979f31.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\n読んでいて、秋の景色がふわっと浮かびました☺️🌰\n栗や柿の味だけじゃなくて、家族と過ごした時間まで一緒に思い出せるのって素敵ですね。\n…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc1002f6e274ce",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303061472/profile_b5be8eb2c9fcba4afc62f1724705313b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん✨\n\n🌰私も子どもの頃、栗を半分に切って、スプーンですくって食べてました〜🤭\n読んでたら私まで妄想の中で、ほくほくした栗の味がよみがえってきました🤣\n…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc6368b2abb5ed",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん❤️\n蒸した栗…！🌰懐かしいです！\n昔、実家で蒸してもらって食べてたなぁ。\nお芋も蒸してたなぁ…🍠\n\nみきさんのおかげで、私も妄想の中で秋の味覚味わいま…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc01800a57cbd5",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n最近は秋の期間がほとんどないので、栗とか食べられるんですかねー🤔\n一気に冬になるイメージです。\n\nぜひ、妄想で終わらず、本物を食べましょう…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc63e47987367e",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう蒸し栗は何年食べてないだろう🙄\nスーパーやコンビニのむき栗ばかりになってしまいました。\n柿は同じくシャキシャキ派です😊\n梨が数年前から激しく値上がりして悲し…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc2a922eab8656",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "運動会のお弁当は記憶に残りますよねー✨ワシもあの時のおにぎりが食べたいけど、母が今作るおにぎりは別物なんだよな😵‍💫",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc10ee0dc67782",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき　さん\nこんばんは♪\n\nもう秋なんですよね〜☺️\n子供の頃の運動会エピソードは一緒ですっ🖐️\n栗ご飯のお弁当の子もいましたよ♪\n私の小学校？は田舎な…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc562f0d377211",
+          "user_name": "🌻mimi🌻いつでもあなたの側にいるよ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305563875/profile_5a014008f9fbb36337d42226af150cbe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "去年、名前は忘れたけど凄く美味しい品種の柿を見つけて食べて…もう、普通の富有柿には戻れない舌になってしまいました😅",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "ncc734f8636b9b",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n栗の食べ方同じー！\n蒸して割ってスプーンで食べる。\nなんだかんだで、これが一番美味しいよね～👍️\n\nあと柿も大好き！\n実家の庭にあった…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "ncde6db8270f75",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\n秋の味覚いいですね〜🍂\n自分はシャインマスカットが最初に浮かびました笑🤣\n\nでも栗ならモンブランですね🌰\n読んでたら急に甘いもの食べた…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "ncfef946566773",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nこんばんは。このたびは秋のぷちふくにご参加いただき、ありがとうございます😊\n\nたしかに、運動会と言えば秋でしたよね。\n蒸した栗が入っていたんですね。…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc566ba8744b92",
+          "user_name": "小林光",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_5-043439195e40e86fd7641a3a1daf982637d77ec6f14b67d3fc98ab92374404ac.png",
+          "body": "コンパスみきさ〜ん🍀\nこんばんは♪\n\n食欲の秋🌰\n到来ですね〜☺️\n拝見していて…\nヨダレがぁ〜\nおっとと失礼致しました🤭\n\n私は栗も柿もスキ！ですが\nなんとい…",
+          "article_title": "秋のぷちふく",
+          "note_key": "nc5f5689d029b"
+        },
+        {
+          "key": "nc2459161ce7c0",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん🌺\nカケルンさん…羨ましい限りです💦\nやっさんのイメージソング🎵も…時間と暇があったら…😅\n宜しくお願いしま〜す🤣",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc4344527b7772",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは🌸\n\nカケルンさんの記事、すごく丁寧に見ているのが伝わってきました😊\n特に、 「人を集めることより、関わった人を雑に扱わないから人が残る」 …",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc1a504ee2e273",
+          "user_name": "断罪と慈愛の歌詠み師 UTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287684923/profile_e0fe0aa4c07b7dc3d2ac43134f76b504.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティーって可愛いから、私も呼ばせてもらう🥰\n\nカケルンに作ったMVリアルで響いた🥹✨\n\nことばをときほぐし、こころによりそう\n\nまさにカケルンだよね🌈✨\n\n…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc246469601e7d",
+          "user_name": "ヒラリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285062222/profile_68e619b0fe24fda0197d052fec9ddbc6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん\n\nこんばんは🌙\n私の記事をマガジンに加えて下さって大変ありがとうございます！\n励みになります🌈\n",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncedf703e8b7de",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃんこんばんは🌝\nしごおわです。\n\nカケルンルンとみーちゃんって\n私の中でちょっとかぶるとこあります。\n2人とも優しくて包容力があって\nすごく気を使えて、…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncd7aca8b71471",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みき さま\n\nこんにちは\n\nみきさんの余すことない\n全力のカケルン愛💕\n頷きながら最後まで\n読みました✨\n曲もあって 圧巻の記事\nありがとうございまし…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncf601d3a3b029",
+          "user_name": "Lumen C.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233701242/profile_34285f3b90b5f3bfc48742275f8d4a94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わかります！！\n大好きなお二人がコラボしてる！と思って、思わず飛び出してきました笑\n\nみきさんも覚えていらっしゃらないかもしれませんが、以前コメント欄にふわりと…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc410e454203c7",
+          "user_name": "カケルン@HSP フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ……これは、ちょっと反則🥹\n\n何を書けばいいのか分からなくて、しばらく画面の前で止まってた。\n\n作品を紹介してもらえるだけでも嬉しいのに、『HSPなわた…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc04c374302992",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、おはようございます\n\n「え、そこまで行く？」\nそう驚きながらも\nカケルンさんとの言葉のやり取りを\n楽しんでこられた様子が伝わってきました\n\n…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncd9c14953b8b1",
+          "user_name": "Kotora_rei(凛強)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301693873/profile_bb8852a710c77a9578d90bf1128be325.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスさん\nこんにちは\n\n私もカケルンさんにそんな疑問を何時も思っております。\nコメント返しは\n大勢のフォロワーさんがいるのに，とても丁寧でしかも文字数長く分…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc89f09859d86f",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます！\nお久しぶりです。\nお元気ですか？\nそちらは雨はいかがですか？\n\nこちらは止んできたようです♪\n\nさてこの度はマガジンに私の記事を…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc75726f36b686",
+          "user_name": "持たざる者の再起録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300723642/profile_5c017c25b7ca989757f51391b1f4bab4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nまたマガジンに追加していただきありがとうございます😊\n\n読んでいて、温かい気持ちになりました。\n\nカケルンさんのコメントの深さ、僕も何度もマガジンに…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nce331bb88b393",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん！\n\nカケルンさん！\n実は同じ緑同士気になってました🤣笑\n\n見に行ってみよー🟩",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncd5eb8c417ee0",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n読んでいて、カケルンさんがどんな方なのかと同じくらい、\nみきさんがこれまでのやり取りをすごく大切にしてきたことが伝わってきました✨\nコメ…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncedf5e8f9172b",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302666022/profile_a40c0fba6956d2c6c2679caa94e23add.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは。\n\nカケルンさんのコメントが丁寧過ぎて…\n雑なKingは地味にビビっています😆\n\n体調が心配ですよね！\n快復されたのかな？\n\nいつもありが…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncfc0ea239849e",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\nカケルンさん、素敵ですね。\nそして今回の曲も、すごーくオシャレで好きです✨✨\n\nこれから創作の時間もとっていかれるのですね。応援してま…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc06a7f3b25899",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\n\nこんばんは🌙\n\n素敵な記事だったよ〜。\n\nカケルンとは一緒に曲を作ったり\nフォロワー1000人達成した時に\n私の紹介記事を書いてくれて。\n\n記事も…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nc840f2e73e52c",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\nカケルンさん、最近少しお休みされてたので、また戻ってこられて安心しました🌱\n\nみきさんの記事を読んで、改めてカケルンさんの存在の大きさ…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nce0850b8b8530",
+          "user_name": "sally",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231440988/profile_c218152194afc0409749319166398772.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん\n\nみきさんの心に留まる方々はたくさんの共通する素敵な部分があるのかな、と思いました☺️\n\n皆さんきちんと他のクリエイターさんの記事を読まれて深…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "ncb2dfcc494720",
+          "user_name": "心音（ここね）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239176494/profile_fa579f8eaf70e511a86918ddbf5fb6de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん✨\nこんばんは🌙\nとっても素敵な記事。\n\nわたしにとって、みーちゃんはそんな存在です。\nわたしが５考えたら、やさしさが倍返ってきます💗\n\nそんなみーち…",
+          "article_title": "✨ カケルンって何者？私を一段先へ連れていく言葉の力 ✨",
+          "note_key": "n25f06764eb4a"
+        },
+        {
+          "key": "nce3242f085ddf",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "コンパスみきさん\n若かりし頃は、「モモ」は全然読めなかったです。\n本田健さんがおすすめしていたことがあって\n少し前に読んでみました。\nつくづく人の話を聞く余裕っ…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc6227938b3ae7",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミヒャエル・エンデのモモ、\n子どもの頃に読んだけどピンとこなかった気がします。\n\nでも今、この記事を読んだら無性に読みたくなりました・・🌱\n\nこんなに深いセリフ…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nceb114186bca1",
+          "user_name": "るぴなす(Lupinus)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/198580494/profile_6984197174a780f5b2a07959782443f7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、モモ、大事な言葉を引用してくださってありがとうございます。こんなことが書いてあったんですね。全く覚えていないとは。\n\n大人になってから、読むって深いで…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc85dc5f19d280",
+          "user_name": "びわ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291093419/profile_2de5e1121a1b45bd823bfb7e7dbe4eee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは🎵\nミヒャエル・エンデのモモは、読んだことがないですが、みきさんのお話を読んで読みたくなってきました✨\nご紹介ありがとうございます💗\n二つの…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc6cf7cbe68b75",
+          "user_name": "YUTA　FUJIWARA  /  紡ぎ屋　凪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310464424/profile_e3cb7bd4243554a606a5acc750199abd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😃 ミヒャエル・エンデのモモ、私も大好きで部屋に立てかけて飾ってます笑\n\nコーチングを始めたときに、自分が話すより人の話を聞くことを大事なし…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc071ae2c8a860",
+          "user_name": "さいきた",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267739161/profile_d7875fee67b35110dadd68c08a8f5450.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介の本、読んでみようと思います。\n\nまた、マガジンへ入れてくださりありがとうございます😊",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc6fb81f3cb906",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301705120/profile_03e29a2200fbe97afd10211b38aba40c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私が何度も読み返した本は、高橋信次さんの「人間釈迦」です📕\n\n高校生の頃に読んでいたのですが、下手したら50回くらい読んでいるかもしれません🤣\n\n今思うと、そこ…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "ncbad0f2edde11",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n『何度も読み返した本は？』\nそう聞かれて、私の手が自然と伸びたのは、宮下奈都さんの『羊と鋼の森』でした。\nピアノの調律に魅せられた一人の青…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "ncef944d202ed9",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキ Chan\nまたまた、こんばんは！\n\n「ミヒャエル・エンデのモモ」\nすっかり、読み直そうと思って、\n注文忘れてました～🤣\n\n気付かせていただき、ありがとうご…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc56b57099108d",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いろんなところで書いてますが、原田マハ『一分間だけ』が最高に泣けます🥺\nコンパスさんの庭に立派なサクラが咲きましたよ～✨💃💃🎵",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc1ebc025a087e",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n\nモモ、良いと言われ続けているのに読んだことなくて…\n\nnoteでよく見かけるので気になってました。\n\n良いこといっぱい書いてありますね…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "ncfbf0877484be",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\n自分は「君たちはどう生きるか」ですね📕\n\nしんどい時というより、むしろ何か上手くいった時に読み返すことが多いです笑\n調子いい時ほど、ち…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nce643520625d7",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙*·̩͙\n\n懐かしい‼️モモ、小学生の頃読みました。\nもう話の流れも曖昧なので、もう一度読もうかなꉂ🤣w‪𐤔\n\n私、結構歴史物が好きなので…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc5d360e882f80",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302666022/profile_a40c0fba6956d2c6c2679caa94e23add.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは。\n\n何度も読み返した本は\nありますか？\n\n子供の頃、世界の童話の絵本を持っていたので、\n文字通り、擦り切れるほど読み込みました！\n\n同じ本…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        },
+        {
+          "key": "nc6778ae628699",
+          "user_name": "女職人漂流記｜こはるの、ねこのーと！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297543554/profile_917e0bf72e9194dd8591bc716edb645a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "モモ！子供の頃好きでした✨\nはてしない物語とか。\n\n本ってあんまり読み返したりしない派なんですけど、今もう一度読みたいなーと思いましたよ、みきさんや🐱✨\n実家に…",
+          "article_title": "📕ハッピーライティングマラソンお題#66",
+          "note_key": "n95dd8a939562"
+        }
+      ]
     }
   ]
 }

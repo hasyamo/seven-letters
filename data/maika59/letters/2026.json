@@ -1625,6 +1625,52 @@
           "note_key": "nd6fa78c2df7f"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 468,
+        "likes_prev": 530,
+        "followers_start": 6460,
+        "followers_end": 6848,
+        "new_fans": 184,
+        "comments_total": 3,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:52"
+        ],
+        "top_article": {
+          "title": "『数字の先にある“関係性”』-noteインフルエンサー成功法則-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n8ec57e694152",
+          "likes": 133,
+          "comments": 3
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 28743
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncb4aa090dd503",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきましてありがとうございます😊\n\n好きがつきすぎて”好き制限”になります。\nフォローもつきすぎて”フォロバ制限”になります・・・\n\n確かになりますね…",
+          "article_title": "『数字の先にある“関係性”』-noteインフルエンサー成功法則-",
+          "note_key": "n8ec57e694152"
+        }
+      ],
+      "rare_no": 6
     }
   ]
 }

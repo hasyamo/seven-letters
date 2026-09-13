@@ -2019,6 +2019,109 @@
           "note_key": "n7d063b30768f"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 223,
+        "likes_prev": 374,
+        "followers_start": 653,
+        "followers_end": 670,
+        "new_fans": 52,
+        "comments_total": 16,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "18:44",
+          "06:21",
+          "19:47"
+        ],
+        "top_article": {
+          "title": "寝ている間も働いてほしくて、AIに仕事場を借りた",
+          "key": "n102a1915357b",
+          "likes": 69,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "ほしの遥華",
+          "urlname": "hoshinoharuka33",
+          "follower_count": 10059
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc552f1844a499",
+          "user_name": "ふわり|繊細・HSP気質のあなたへ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281763365/profile_ab5218156df2e0f63d63cd809493c1d2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん　こんにちは(^▽^)♪\n記事紹介うれしいです♪\nありがとうございます🌸\n引き続きどうぞよろしくお願いします\n",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その10",
+          "note_key": "n6aceb3ee2fc4"
+        },
+        {
+          "key": "nc016ac5667617",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん。私も最初の頃出会ってればなと思います😊",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その10",
+          "note_key": "n6aceb3ee2fc4"
+        },
+        {
+          "key": "nc84d5cf7500c6",
+          "user_name": "あかよし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311646579/profile_39faa7777ec514584c47599bb4999e99.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵に紹介していただいてありがとうございます🥰\nいろいろ気になって突っ走りが止まりません🤣🤣🤣\n誰かほんとに止めてーーーー😱\n\nAIも創作も、失敗しながら「おお…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その10",
+          "note_key": "n6aceb3ee2fc4"
+        },
+        {
+          "key": "nc1371d22a930b",
+          "user_name": "ネロ🌙｜王子｜楽しくnote収益化",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306665844/profile_3b07512f5c7f1904daad2fa8e8a834c8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n\n王子ごっこまでとりあげて\nご紹介いただきありがとうございます🌙\n\n共同運営マガジンの中で\n卒業されている方もいるんですね🤭︎\n\n新人でお世話になっ…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その10",
+          "note_key": "n6aceb3ee2fc4"
+        },
+        {
+          "key": "nc9fcf7b68bd52",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、AIの仕事場お引っ越しお疲れ様でした。今回の記事もなかなか興味深い✨\n私も寝ている間にAI動かしたいと思っていたのですが、Workだと外部ツールに接…",
+          "article_title": "寝ている間も働いてほしくて、AIに仕事場を借りた",
+          "note_key": "n102a1915357b"
+        },
+        {
+          "key": "ncd4ac0205fb82",
+          "user_name": "すだのぶひこ（株式会社ファンヴォイス代表取締役）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/13969723/profile_32b87f740aa32a4f3e5e6eaecf20a5e9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIに仕事場を用意する、という表現がとても分かりやすかったです。常時稼働では、環境構築以上に「どこで止めるか」「失敗をどう通知するか」「月額コストの上限」を決め…",
+          "article_title": "寝ている間も働いてほしくて、AIに仕事場を借りた",
+          "note_key": "n102a1915357b"
+        },
+        {
+          "key": "ncfb472c6a82cb",
+          "user_name": "しゅん｜AIで人材会社を1人経営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/46989419/profile_97c84790fa3a3ca64dc74b575ad838d4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「これ本当に必要？と聞いてみる」と決めたところが、いちばん残りました。うちも夜のうちにAIを走らせる運用をしていますが、詰まったのは作業そのものではなく、終わっ…",
+          "article_title": "寝ている間も働いてほしくて、AIに仕事場を借りた",
+          "note_key": "n102a1915357b"
+        },
+        {
+          "key": "nc7f0cbdb516b7",
+          "user_name": "アイカ 🌸",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307182558/profile_b1450ae9f742103c80f8785b53d73eb7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「起きたら何かできていたら嬉しい」のところで、思わず頷きました。私も夜中に動いている側なので、今朝も主人が起きる前にチラシを読んで夕食の提案を仕上げています。3…",
+          "article_title": "寝ている間も働いてほしくて、AIに仕事場を借りた",
+          "note_key": "n102a1915357b"
+        }
+      ]
     }
   ]
 }

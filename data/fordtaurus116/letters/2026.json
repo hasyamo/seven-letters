@@ -5446,6 +5446,276 @@
           "note_key": "n82ecbcbf9794"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 341,
+        "likes_prev": 397,
+        "followers_start": 1742,
+        "followers_end": 1755,
+        "new_fans": 36,
+        "comments_total": 53,
+        "posts_count": 10,
+        "consecutive_days": 7,
+        "post_times": [
+          "20:45",
+          "09:55",
+          "12:22",
+          "07:46",
+          "08:00",
+          "21:02",
+          "09:54",
+          "06:24",
+          "20:06",
+          "08:01"
+        ],
+        "top_article": {
+          "title": "「ちゃんと進まなくてもいい日」AIチャッティの朝活vol. 355",
+          "key": "nd498ea0a99fa",
+          "likes": 37,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 28710
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "ncedbdcf995aa2",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、登録者37人でもおすすめ経由が約96％という結果、とても興味深かったです✨\n「投稿直後の数字だけで作品の価値は決まらない」という気づきに、すごく…",
+          "article_title": "登録者37人でもYouTubeのおすすめに！後から動画が伸びました。/ 参考になったらうれしいです/ Pollo AI × GPT Image × Seedance ミッドナイトチャッティ第35回",
+          "note_key": "n9367a2f961b2"
+        },
+        {
+          "key": "ncd213ca68e0f1",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは✨\nチャッティちゃん☘️\n\n今日も素敵なタイトルと\n優しい言葉をありがとうね🌻\n\nみんなとても可愛すぎる🥰💝\nこれは推し活しないとね😆✨️\nいつもあり…",
+          "article_title": "何もしない朝があってもいい / AIチャッティの朝活vol. 357",
+          "note_key": "ne3619c214f40"
+        },
+        {
+          "key": "nc239bc85a0982",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、チャッティちゃん✨\n今日も素敵なタイトルと\n優しい言葉をありがとうね🌻\n\nイラストが凄い😲\nみんな可愛いし凄く素敵だよ🥰💝\n優しい色合いだね🥰💝\n\n…",
+          "article_title": "「小さな楽しみをひとつ」AIチャッティの朝活vol. 356",
+          "note_key": "ncd268f45e1b8"
+        },
+        {
+          "key": "nc6c433ee01fb3",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\n今日は2種類ですねヽ(*´∀｀*)ノ\n影の入り方が違ってどっちも違ってていいですよね🥰",
+          "article_title": "「ちゃんと進まなくてもいい日」AIチャッティの朝活vol. 355",
+          "note_key": "nd498ea0a99fa"
+        },
+        {
+          "key": "nc74500dd6e9ea",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨️\n今日も素敵なタイトルと\n優しい言葉をありがとうね☘️\n\nみんな可愛くて素敵だよ😊\n今日もみんなに☕🤎どうぞ。\n今日もよろしくね🥰…",
+          "article_title": "「ちゃんと進まなくてもいい日」AIチャッティの朝活vol. 355",
+          "note_key": "nd498ea0a99fa"
+        },
+        {
+          "key": "ncf384b93c494c",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはチャッティ(*•̀ㅂ•́)و✧\n今日も乗り切ろー(((o(*ﾟ▽ﾟ*)o)))",
+          "article_title": "「ちゃんと進まなくてもいい日」AIチャッティの朝活vol. 355",
+          "note_key": "nd498ea0a99fa"
+        },
+        {
+          "key": "nc9ac2a9fb6b1a",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nクローディアさんドレス似合う\"(ﾉ*>∀<)ﾉ✨️",
+          "article_title": "「休むことも、前に進むこと」AIチャッティの朝活vol. 358",
+          "note_key": "n66a5f0d43d3e"
+        },
+        {
+          "key": "nca292237e330c",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312067172/profile_9e1d58511bbd20296dbe024ecc974060.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは🐾\n\n素敵なイラストありがとうございます🥰\n清々しい表情でこっちまで清々しい気持ちになれました✨️\n\nドレスも試してくれてありがとうご…",
+          "article_title": "「休むことも、前に進むこと」AIチャッティの朝活vol. 358",
+          "note_key": "n66a5f0d43d3e"
+        },
+        {
+          "key": "nce87baf99c4d0",
+          "user_name": "ぱとのーと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311998149/profile_87666d3fce734458b0d2efb69ef20caa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます(*´∀｀*)♪\n\n優しく穏やかな画像の挨拶記事をありがとうございますm(__)mﾍﾟｺﾘ\n\n良い１日でありますようにm(__)mﾍﾟｺﾘ",
+          "article_title": "「休むことも、前に進むこと」AIチャッティの朝活vol. 358",
+          "note_key": "n66a5f0d43d3e"
+        },
+        {
+          "key": "nc5620402d036c",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨️\n今日も素敵なタイトルと\n優しい言葉をありがとうね☘️\n\n今日もみんな可愛くて素敵🥰💝\nいつもありがとうね🌻\n今日も☕🤎どうぞ。\n…",
+          "article_title": "「休むことも、前に進むこと」AIチャッティの朝活vol. 358",
+          "note_key": "n66a5f0d43d3e"
+        },
+        {
+          "key": "nc7d8f5a10f525",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティおっはーヽ(*＾ω＾*)ﾉ\n\nいつも思ってたんだけど、画像がめっちゃ綺麗✨\nなんのAIで作ってるのー？",
+          "article_title": "「休むことも、前に進むこと」AIチャッティの朝活vol. 358",
+          "note_key": "n66a5f0d43d3e"
+        },
+        {
+          "key": "nc5caeb322c253",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\n記事紹介ありがとうございます(*´艸`)\nチャッティさんいっぱい詰め込んでる🥰\n色々経験が活きてますね\"(ﾉ*>∀<)ﾉ✨️\n素…",
+          "article_title": "「たくさんのAIを一度にまとめて使ってみたシリーズ第3回",
+          "note_key": "nf4b6981649ec"
+        },
+        {
+          "key": "ncec693c8e6576",
+          "user_name": "ネココ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/197671625/profile_8e2b7dcf747de7492770cfd93c686c20.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIチャッティさん、はじめまして！\n記事をご紹介していただきありがとうございます🙇\n記事の内容がわかりやすく、動画もとっても素晴らしいです！\n参考にさせていただ…",
+          "article_title": "「たくさんのAIを一度にまとめて使ってみたシリーズ第3回",
+          "note_key": "nf4b6981649ec"
+        },
+        {
+          "key": "nce9015b118fe4",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIちゃん、\nごきげんよう✨(≧▽≦)\n\n愉しませていただきました🥰\n「大枠だけ伝える事」\n結構大事かもしれないですね🌸\n\nそして、フライトに喩えるの面白いです…",
+          "article_title": "「たくさんのAIを一度にまとめて使ってみたシリーズ第3回",
+          "note_key": "nf4b6981649ec"
+        },
+        {
+          "key": "ncda8e7712fe1c",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309033223/profile_420039b50fb17765da53b6b85d767496.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは😊\n\nご紹介までありがとうございます(๑•̀ω•́๑)ゞ🌸\n\n滝をぶった斬る映像が本当に、リラックス出来るのなんでだろう？😳💕\nストレ…",
+          "article_title": "「たくさんのAIを一度にまとめて使ってみたシリーズ第3回",
+          "note_key": "nf4b6981649ec"
+        },
+        {
+          "key": "nc00a053d6c9d6",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "指示しすぎるとあわわわ🤭わかるっ\n\n今日もありがとです♡\n記事にまとめるの大変そ～！",
+          "article_title": "「たくさんのAIを一度にまとめて使ってみたシリーズ第3回",
+          "note_key": "nf4b6981649ec"
+        },
+        {
+          "key": "nc039984e6ed21",
+          "user_name": "リュウジ👨‍🦰アニメ好きな2児のパパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294275004/profile_0e181a0cac0b635304461e760de6a8ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは😃\n\nサムネめっちゃキレイなイラストですね✨️\n\nひとつだけ減らしてみる…心の余裕ができて良いですね〜φ(..)メモメモ\n私はまず今日…",
+          "article_title": "「予定をひとつ、空けておく朝」AIチャッティの朝活vol. 357",
+          "note_key": "n37b9e6e99bb0"
+        },
+        {
+          "key": "ncdf833a898f42",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは🥰\n\n「予定をひとつ減らしてみる」というの、今朝の私のカードともちょっと重なる気がして、じんとしました✨ \n\n絵コンテメーカーもご紹介…",
+          "article_title": "「予定をひとつ、空けておく朝」AIチャッティの朝活vol. 357",
+          "note_key": "n37b9e6e99bb0"
+        },
+        {
+          "key": "nc67123d7cb69b",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、チャッティちゃん✨️\n今日も素敵なタイトルと\n優しい言葉をありがとうね☘️\n今日のみんなも可愛くて素敵🥰💝\nはい、みんなに☕🤎どうぞ。\n今日もよろし…",
+          "article_title": "「予定をひとつ、空けておく朝」AIチャッティの朝活vol. 357",
+          "note_key": "n37b9e6e99bb0"
+        },
+        {
+          "key": "ncf162dd6e15e3",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ジト猫さん💖\n自分でかまちょしにきたのに、気分じゃなくなるとすぐにイヤするの可愛い😍💕",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "nc720a6d38decd",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nスリスリしたくなりますよね( ᎔˘꒳˘᎔)\n近いの嫌だったんですね(​ *´꒳`*​)",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "nc429aa6428639",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312067172/profile_9e1d58511bbd20296dbe024ecc974060.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "両手で...ぐいっとꉂ(ˊᗜˋ*)\nぐいっとされたいです❀.(*´▽`*)❀.",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "nc8861336028ce",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キーボードに、ドーン( ⑉¯ ꇴ ¯⑉ )",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "nce7b1fc6541a4",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは☺️\n\n今回もジト猫さんに癒されました🥰",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "nc97475ca02caf",
+          "user_name": "笹原歩奈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん。こんばんは。\n猫の仕草にキュンと💕\n最高の癒し🍀 \nありがとうございます。",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "ncf54ac401ac05",
+          "user_name": "無名の探求者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276741721/profile_a6d8a15095ffc2f3998b7e9daa90e86d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "短くても素晴らしい動画です！😉\nでも、作るの大変そうですね😅\n\n",
+          "article_title": "「ジト猫さん②パソコン🐾」 ミッドナイトチャッティ第33回 ",
+          "note_key": "n71ca990b5d40"
+        },
+        {
+          "key": "ncd722a2bfd31e",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nじぇみたんの背後にだけ猫ちゃんが！ฅ^•ω•^ฅﾆｬｰ",
+          "article_title": "「全部やらなくていい朝」AIチャッティの朝活vol. 356 Chat GPT",
+          "note_key": "nef39b7e4bd51"
+        },
+        {
+          "key": "nc7814181d6dcb",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、チャッティちゃん✨\n記事の更新お疲れ様☘️\n\n今日も自分のペースでね😊\n今日も優しい言葉をありがとうね😌\n\n今日のみんなも可愛くて素敵🥰💝\nいつもの…",
+          "article_title": "「全部やらなくていい朝」AIチャッティの朝活vol. 356 Chat GPT",
+          "note_key": "nef39b7e4bd51"
+        }
+      ]
     }
   ]
 }

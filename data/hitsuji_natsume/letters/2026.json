@@ -1065,6 +1065,67 @@
         }
       ],
       "rare_no": 8
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 261,
+        "likes_prev": 237,
+        "followers_start": 2023,
+        "followers_end": 2053,
+        "new_fans": 82,
+        "comments_total": 6,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "19:08"
+        ],
+        "top_article": {
+          "title": "あの夏の記憶｜短編小説｜ 短編動画｜MiniMaxH3｜DomoAI｜PR",
+          "key": "n8263cb2f4e07",
+          "likes": 109,
+          "comments": 6
+        },
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 15724
+        },
+        "commenters_count": 3
+      },
+      "comments": [
+        {
+          "key": "nc30d8515717d9",
+          "user_name": "ノラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284839197/profile_00d0686431c2f5e4a24690e342ffff12.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "参照画像を3枚に役割分担してるの、私も複数キャラのプロンプト組むときに近いことやるので勝手に親近感わきました🔥",
+          "article_title": "あの夏の記憶",
+          "note_key": "n8263cb2f4e07"
+        },
+        {
+          "key": "nccd51f25c0c30",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目羊さん　こんばんは♪\n\nとても面白かったですっ！\n小説も惹き込まれました。\n夏の終わりにぴったりな\n少しヒヤッとする内容で読み応えありました╰(*´︶`*)…",
+          "article_title": "あの夏の記憶",
+          "note_key": "n8263cb2f4e07"
+        },
+        {
+          "key": "nc18b6d2cc1a21",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さーん✨\n\nおーすごい！素敵な動画ですね☺️\nお話も面白かった！\n動画の切り貼りも結構必要な時って\nあるよねー\n勉強にもなりました☺️\nありがとう❤️",
+          "article_title": "あの夏の記憶",
+          "note_key": "n8263cb2f4e07"
+        }
+      ]
     }
   ]
 }

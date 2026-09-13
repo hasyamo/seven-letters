@@ -9920,6 +9920,593 @@
         }
       ],
       "rare_no": 2
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 468,
+        "likes_prev": 487,
+        "followers_start": 638,
+        "followers_end": 649,
+        "new_fans": 67,
+        "comments_total": 143,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:27"
+        ],
+        "top_article": {
+          "title": "アイデアを寝かせる前に。AI時代の「0→RUN」｜おはようカノジョ #273",
+          "key": "n8362e4d5a5ae",
+          "likes": 60,
+          "comments": 29
+        },
+        "notable_reader": {
+          "name": "末吉宏臣（Hiroomi Sueyoshi）『言語化とnote発信の全技術』著者",
+          "urlname": "sueyoshihiroomi",
+          "follower_count": 31101
+        },
+        "commenters_count": 25
+      },
+      "comments": [
+        {
+          "key": "nc31dec87f45fa",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nいらっしゃいませ～✨\n九州へようこそ！！\n\n美味しいものがたくさんあって、うらやましいとよく言われますので、どうぞ、ごゆるりと…😊\n",
+          "article_title": "Xで流れていく彼女たちを、noteにも残しておく",
+          "note_key": "n7f42cbf46ba6"
+        },
+        {
+          "key": "nc47b7148d3c94",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは☺️\n\n流れていくものを、ときどき拾い直す。\nそのやり方、いいなと思いました🌿 \n\n日和ちゃんの「酸っぱい？」と聞くところや、まひるちゃ…",
+          "article_title": "Xで流れていく彼女たちを、noteにも残しておく",
+          "note_key": "n7f42cbf46ba6"
+        },
+        {
+          "key": "nc9a5c8502b6c1",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和ちゃーん、こんにちは\n旅行シリーズ素敵だね🤍\n全部の県行ったことあるけど\n私の推しは大分です🐒\n\nはしゃ君こんにちは\n今日は寝たり起きたりしてたら昼過ぎてて…",
+          "article_title": "Xで流れていく彼女たちを、noteにも残しておく",
+          "note_key": "n7f42cbf46ba6"
+        },
+        {
+          "key": "nc518a92ad67aa",
+          "user_name": "イサナ（旧フーガ）_AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311250223/profile_c042f0bdc9dab77d3de6124f1f15e53e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日替わりで旅行とは凄い発想です…！\n出不精ですが、地方の食べ物や温泉巡りに興味が湧いてきますね。",
+          "article_title": "Xで流れていく彼女たちを、noteにも残しておく",
+          "note_key": "n7f42cbf46ba6"
+        },
+        {
+          "key": "ncb42804dbc82f",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょっと悪巧み思いつたのでDMします！！w",
+          "article_title": "Xで流れていく彼女たちを、noteにも残しておく",
+          "note_key": "n7f42cbf46ba6"
+        },
+        {
+          "key": "nc86385d93cfa8",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは😊\n\n「なるほど、で終わらない」その姿勢、すごく伝わってきました🌿 \n\n頼まれていないのに、GitHub Pagesの公開方法を記事にし…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nc3a448fa59c12",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは☺️\nめちゃくちゃわかります！\nキタさんとこいくと、帰れなくなるんですよねー🤣",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nceb15d2d957b6",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんてストレートな告白😆💕",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "ncfb9731f9fe59",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、これすごく好きです🌸\n「すごい人」じゃなくて、「見ていると自分まで何か作りたくなる人」っていう書き方が、すごくKITAcoreさんらしい関係だなと…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "ncb132185294c4",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃとさーん！\n\nキタコレさんへの愛が爆発してる♡\nこれが恋か…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nc8562a1959764",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ﾄｩｸﾄｩﾝ💘",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nca1211a0cebf0",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ドキドキしちゃいました笑\n\n雑多なことが刺激になってほんとよかったです！！\n\nつぎは、なにしましょ笑",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nc1c2abb319e8f",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございますー☀️\nお互いを刺激し合う良い関係なのですねꉂ🤭♡\nnoteではそういう相手が見つかるので、とっても面白いですよね✨️\n\nまひる…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nc64ca9855244b",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます😆\n文藝大賞へのご応募ありがとうございます✨\n\n推しともちょっと違う感じですね😁キタコレさんとはしゃもさんの共同実験みたいに、互…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "ncf299ef05ece8",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしは研究室でお2人が夢中になって、わけのわからん実験に興じているイメージ持ってます^^\n\nなんか薬品まぜて、首かしげたり、思いついたことがあって「ぱぁ✨」と…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nc65193eab8686",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まひるちゃーん、おはよう☀️\n意外だったー🤭ちょっとワイルドで可愛いよ。\n今日は2週間ぶりのバイトいってきます。\n\n\nはしゃくーん、おはようございます\n\nKIT…",
+          "article_title": "KITAさんの記事を読むと、ちょっと困る",
+          "note_key": "nfaa27f475e98"
+        },
+        {
+          "key": "nc196babfb9a45",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "推し庭がコメントの種になる✨\n\nコツコツ自分だけの楽しみにするものだと思ってましたが、なるほど🤣\n目的のツールだけにとどまらず、そこから広がっていくのがまたいい…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc3e4905d5498e",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n確かに！今日他の人の記事でレア出たから報告しちゃいました(ﾉ∀｀笑)\nはしゃもさんのこの記事でもレアキノコ2個植えました🍄(🍄•᎑…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc81a2e6030653",
+          "user_name": "COBITo｜物語を書く人 【森で迷子率120%🌳】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252122220/profile_a49d2dd9362df876d6516887675d047c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん🌿\nごめんなさい。私、🍄なんで、こればっかり植えてます😅\nしかも、推し庭から来ましたなんて言ってます💦\n\nでも、記事楽しく拝見させていただいてますよ…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc43c7bd162b8a",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは♪\n\nきのこ🍄推しの人多いよね🤣\n秋だからかな⁉️",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc96fc37f60e55",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントってもらうとうれしいし、自分も「よかったよ！」「ここが好きだった」を伝えたくて書くけど、苦行になる側面もありますよね…\n向いてないだろ、SNS笑\n\n今日…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc1a2840c4f839",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう😊\n\n「キノコ植えました」というコメントが増える現象、面白すぎます🤭 \n深い感想じゃなくても声をかけられる、その気軽さがいいですね。\n\nち…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc87b2dc0a7887",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます☔️\nきのこ🍄、某山中氏に私も植えられたwww\n🍄好きだからOK👌♥️\nでも、まだちゃんと機能を理解してなくってwww、しっかり…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc6b1d42260395",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "るなちゃーん、おはよう\nキャー🙈今日は今までの中で1番可愛いるなちゃんや、優勝🏆🥇🎉\n\nはしゃ君おはようございます。\n私もコメントめっちゃ時間かかります\n昼休み…",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc5c4d61c58fde",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キノコ植えてます　ってコメントもらいたいw w w w",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc8597daf0685b",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよー(*´ω｀*)\nきのこ植えましたのパワーワード(*•̀ㅂ•́)و✧\n(🍄•᎑•🍄)",
+          "article_title": "78記事のコメントを集めたら、「キノコ植えました」が混ざっていた",
+          "note_key": "n15b3e73778c7"
+        },
+        {
+          "key": "nc66f98e3ad6f7",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん✨こんばんは！\n\nこれ、私の中で今、いちばんᕼOTな内容でした。\nわたしの記事も\n・SAMUNE PRESSで、強いワードを入れた時\n・誰だ、この男…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc55b5d4e85f77",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます☀️\n\n凛華さんの一言で、「コメントを残したい！」と衝動に駆られました🏯✨\n\nせっかくページビューがわかるようになったし、はしゃ…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc743d1f3c8f88",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n開封したくなるサムネ、タイトルで続きが気になる様にしなきゃですね( ᎔˘꒳˘᎔)\n確かに箱庭って何？\n100円買って150円渡すっ…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "ncd0d8b34e143e",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさーん！\n\n凛華ちゃんに猫耳がー♪\n可愛いけど大人の雰囲気もあって最高ですやん🤤\n\n確かにサムネで記事を見るか見ないか別れる時もありますね🧐\nサムネは結…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nca149eca34eac",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは。\n早速計測されているんですね～✨️\n共同マガジンへの参加が増えると\n相対的に開封率は落ちるだろうなと思うので\nどこまでラインをそろえれ…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc5007c1a98f7a",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは♪\nサムネ標準だけでも違いが\nあるって面白いですね〜✨\n色々な見方が出来るように\nなって楽しいです❣️\n",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc6d3e7af5b61f",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネって、その人の個性も出る場所だって思うんです。\n最近、似たサムネが多くて、個性のウォーターマークが薄い……差別化も大事なんじゃないかなぁ…と思うんですが、…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc82c0220d2790",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "要素はひとつじゃないから…\nそこで終わらせずに、数字に落とせる所は落として、分析として見る。\n\nおもしろいです。\nわたしも昨日「ほ、ほぅ…？？（なんで？）」って…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc3d95df0c5912",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凛華ちゃんおはよう🌞\n耳可愛すぎる😺今日は木曜日なのを\n確認しました。いつもありがとね。行ってきます。\n\nはしゃ君おはようございます☀\n久しぶりに晴れてます。\n…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc5adc1f244fde",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんにしてもはしゃもさんにしても早いしロジカルですね✨\n\nこうした分析が出来るのも普段から意志を持って使い分けているからこそ。\n\nそのあたりも含め流石で…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "ncc2b904dc4817",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KITAさんにしてもはしゃもさんにしても早いしロジカルですね✨\n\nこうした分析が出来るのも普段から意志を持って使い分けているからこそ。\n\nそのあたりも含め流石で…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc72a1246d4813",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n「標準か特別かではなく、事件が見えているか」という視点の転換、すごく面白かったです😌\n\n 同じ型のサムネで2.3倍もひらくの、数字…",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc632bf836b33b",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タイトルもかー！笑\nううむ、深いなぁ。スイは奇抜路線に移行するけど、それも事件かしら？笑\n",
+          "article_title": "同じ型のサムネなのに、開封率が4.12%と9.62%だった",
+          "note_key": "n346ecb225974"
+        },
+        {
+          "key": "nc505662f59f9a",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\n推し庭、おとノート、観測は続く、毎日使ってます✨\nはしゃもさんのおかげでnoteがさらに楽しくなりましたー！ありがとうございます！！😊",
+          "article_title": "予定を守る仕組みを作った週に、予定していた記事を捨てた",
+          "note_key": "n49e37c09e8b2"
+        },
+        {
+          "key": "ncfbe900a494d5",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しずくちゃんおそよう💧\n昨日のあなたに会えてなかったみたいで\n今ちょっとびっくりしてます。\nドレス👗似合ってます💙\n行ってきます\n\nはしゃ君おはようございます。…",
+          "article_title": "予定を守る仕組みを作った週に、予定していた記事を捨てた",
+          "note_key": "n49e37c09e8b2"
+        },
+        {
+          "key": "nce723465a5f5c",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n1週間を振り返ると、はしゃもさんは他の人とのやりとりの記事が多くてエピソードトークも繋がりが見えてとても素敵ですよね(*´艸`)",
+          "article_title": "予定を守る仕組みを作った週に、予定していた記事を捨てた",
+          "note_key": "n49e37c09e8b2"
+        },
+        {
+          "key": "ncc46ffe249f1e",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは☺️\n\n今週の振り返りも色々勉強になりますね✨\n守っていたのは、予定や決まりそのものではなく、\nその先にある目的でした。\nどう使いたいの…",
+          "article_title": "予定を守る仕組みを作った週に、予定していた記事を捨てた",
+          "note_key": "n49e37c09e8b2"
+        },
+        {
+          "key": "ncdb333f9e0891",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "決めたことが進まない日の方が多いけど、その分、いろいろ進む日がうれしい！\n今日は…。進むかなぁ。",
+          "article_title": "予定を守る仕組みを作った週に、予定していた記事を捨てた",
+          "note_key": "n49e37c09e8b2"
+        },
+        {
+          "key": "ncdfd9e9dd70a9",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう😊\n\n100円を売って150円を返す、という土曜日のエピソード、改めて素敵な流れだったなと思いました✨\n「引用の形でも原文とは限らない」と…",
+          "article_title": "予定を守る仕組みを作った週に、予定していた記事を捨てた",
+          "note_key": "n49e37c09e8b2"
+        },
+        {
+          "key": "nc3239ab97c06a",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309033223/profile_420039b50fb17765da53b6b85d767496.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌛\n\n日和さんが、可憐すぎる(*￣ii￣)🌸\n自分よりも先に乾かしてあげる優しさ\nさすが日和さん(๑•̀ω•́๑)ゞ✨\n\n全メンバーのド…",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc9b094161d998",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "濡れている髪を結っている子が……髪が痛むでしょー！！ダメだぞ！！🤣\n\n（そして密かに、るなちゃんの髪を下ろしている姿が見てみたいと思ったり(´ω`)💕\n過去にす…",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "ncb239f4c8d2f0",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n普通にドレスを着せるんじゃなくバタバタ感を出してる所面白いなって思いましたꉂ(ˊᗜˋ*)\n\nそしてはしゃもさんが貰ったのは箱庭！可…",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc1b1972afec21",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312067172/profile_9e1d58511bbd20296dbe024ecc974060.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんありがとうございます🤭\nドレス素敵でした✨️\n\n自動化と固定化ヽ(；▽；)ノ\n日和さんはマイペースに優しくて好きです❀.(*´▽`*)❀.",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "ncbeb181793260",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは✨\n\n＼(^o^)／みんな可愛い❤️\n陽ちゃん素敵☺️\nあれ？凛華ちゃんはどうしたんだ？",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc37588baf8ec9",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんだろ…\n凛華ちゃんに、狂気を感じました…www\n\n5分の裏側なら、きっと陽ちゃんが正統派wwwꉂ🤣w‪𐤔",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc1b1d0e86ba3f",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさーん！\n\nいやいや\n凛華ちゃんワイルド過ぎるやん🤣笑\n自分の体切らんようにね😘",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc40455794eb77",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "月子さんのその五分前がスキっす( ⑉¯ ꇴ ¯⑉ )\nドライヤーも自動化w",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "ncc9032d518138",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "陽ちゃーん、おはよう☀\nドレス👗素敵でした。美しい白鳥も水面下ではバタバタしてるってやつですね。昨日は休みだったので、今日から週始めです。行ってきます。\n\nはし…",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc1665e5248114",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんは5分が気になったけど、わたしはひたすら、みんなのきれいなドレス✨にしか気が向かないです！\n\n白に淡い色あいを重ねたドレスが目を引きました。\n今日の…",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "ncb4260c7a5c97",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう😊\n\nドレスより「その5分」の方が気になる、という視点の転換が面白かったです🌿 \n\n月子ちゃんの「髪を乾かす工程、自動化しました」に笑い、…",
+          "article_title": "あと5分で出発。おはカノ7人はどうやってドレスに着替えた？",
+          "note_key": "nbd900ed182d8"
+        },
+        {
+          "key": "nc0947450928b6",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます☀\n\nすごい！😳✨\nYouTubeとかだったらプレイリストに追加して聴けるけど、noteの記事に埋め込まれている曲って、そういう…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc29aed5530d37",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nnoteの曲を持ってくる発想が凄いですね(*´艸`)\nはしゃもさんのplayerの中に私の曲をもっと置いて貰えるようにしなきゃ(*…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc2a7f2f86199f",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん...天才🤣\n凄いです！！\nこの検証記事だけでも凄いのに\nできあがっている😢\n\n曲セレクトがまた素晴らしきです💕\n凄すぎます(/ω＼)✨",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc08eb61805fcc",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさーん！\n\nあなたは天才か😇笑\nこれって外で聞こうとするとやっぱり通信量はかかるんですよね💦？\n\n5GB契約やけどいけるかな😅？",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "ncd03815d5fede",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\nまたもや神ツールありがとうございます！\n\nこれを3時間で形にするとはやはり天才ですね✨\n\n\nちなみにちょっと好き勝手言ってみますが、youtube…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc6f64cd48f832",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは✨\nあーまた面白いもの作りましたね☺️\n音楽ダウンロードして聴きたい思ってましたが\nさすが！！はしゃもさん、すぐにできるって🫢\n\nでも、…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nca1bab15edca8",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、これすごいです！！！\n使ってみました。\nずっと、あったらいいな…と思ってたものです🥺❤️❤️❤️\n\n複数音源が載ってる記事でも問題なく全部一気にで…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc7dde9d0e7142",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、使ってみました！\nものすごく便利なものです！\nURLを入れただけで、音源を出してくれて、しかも元の記事も読める、これがテクノロジーなのか、と！\n3…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc9746b705c256",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "月子ちゃーん　こんにちは\n騎兵将校めっちゃ似合ってる。委員長タイプの月子ちゃんぽいです。\n週の始まりって感じします。今週もよろしくね。\n\nはしゃくーん、こんにち…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "ncc41dc94ca576",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます。\nすごいですね、何でも作れてしまうの凄いです。\n\n確かに、記事を離れたら記事の中でしか聴けない音は止まってしまうのは地味にスト…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc69fc31bf5521",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます️☀️.°\n\nまずは、ありがとうございます…！！\nあれは、わたしにとっても大切な曲で（作ったのはどれもそうだけどw）、それを大好…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        },
+        {
+          "key": "nc08a17c6a2d20",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239760872/profile_e3e9f8e3a12b97c84b65f45872e069f3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n0→RUNという言葉、すごく的確な区切りだなと思いました✨ \n完成を目指さず、まず動くところまで持っていく。その境界線の引き方が、…",
+          "article_title": "アイデアを寝かせる前に。AI時代の「0→RUN」",
+          "note_key": "n8362e4d5a5ae"
+        }
+      ]
     }
   ]
 }

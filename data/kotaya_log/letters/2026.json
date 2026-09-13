@@ -6281,6 +6281,373 @@
           "note_key": "n5c137ead3985"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 262,
+        "likes_prev": 404,
+        "followers_start": 3511,
+        "followers_end": 3516,
+        "new_fans": 42,
+        "comments_total": 88,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "key": "n5abc6235d19f",
+          "likes": 59,
+          "comments": 47
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 9175
+        },
+        "commenters_count": 27
+      },
+      "comments": [
+        {
+          "key": "nc95c9980e43da",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n「かえるこさんの隣に立ちたかった」\nこれはスゴイわかります！\n人を惹きつける力がルフィ並みです✨\n\nそして自分で高いハードル掲げて超えて海賊船…",
+          "article_title": "誘われてないのに、裏口から勝手に乗り込む。セルフむちゃ振りで海賊船へ",
+          "note_key": "nbaadd86cd267"
+        },
+        {
+          "key": "ncdfac2da6fa93",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すっごい分かる〜🤩\n\nでもあのときの私は+50人も到底ムリだし、\n代わりの条件だって思いつかなくて\nめちゃくちゃ悔しかった〜😭\n\n他の応募作品、\nぜんぜん読みき…",
+          "article_title": "誘われてないのに、裏口から勝手に乗り込む。セルフむちゃ振りで海賊船へ",
+          "note_key": "nbaadd86cd267"
+        },
+        {
+          "key": "nc2439eb192c52",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\n正直全ての作品には目を通せてないですが、\n読んだ後の余韻？がすごかったのは、\nあきまむさんの一作でした。\n\nうまく言葉にできないのですが、\n自分の…",
+          "article_title": "誘われてないのに、裏口から勝手に乗り込む。セルフむちゃ振りで海賊船へ",
+          "note_key": "nbaadd86cd267"
+        },
+        {
+          "key": "nc4de03153519f",
+          "user_name": "Liliscend＠夜更かしDX・AIハッカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310200394/profile_5c50f8b7eeebde6135ce3d3c5fbb339c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、\n素敵な場をありがとうございます！\n参加メンバーのLiliscendです。\n\nどの作品もすごくて、打ちのめされながら読了しました。個人的に「こ…",
+          "article_title": "誘われてないのに、裏口から勝手に乗り込む。セルフむちゃ振りで海賊船へ",
+          "note_key": "nbaadd86cd267"
+        },
+        {
+          "key": "nc1bf6a49ad9fd",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、セルフむちゃ振りまでして飛び込む行動力、本当に素敵です✨\n\nでも最後の「かえるこさんの隣に立ちたかった」に、いちばん大切な気持ちが詰まっている気がし…",
+          "article_title": "誘われてないのに、裏口から勝手に乗り込む。セルフむちゃ振りで海賊船へ",
+          "note_key": "nbaadd86cd267"
+        },
+        {
+          "key": "nce46ea23b39e8",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "営業fafaさんとこちゃさんは、なんか、やっばり似ている部分があるなー、と😌\n正直　話している内容が全部わからなかったりするのですが💦💦\nふたりはすごい！✨\nま…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "ncb39e32ead3ad",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いやー、やっぱ我々は\n数式で考えちゃいがちだけど、\n営業マン的視点、目が醒めましたわ〜\n\nいや、そっちも知ってたはずなんだけどね〜\n\n普段使ってない思考回路は衰…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc9212cece7f31",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メンバーシップ、値上げするのって前から言ってたっけ？(*´∀｀*)",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc5ec7e105edbc",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\nすごい興味深い対談！\n正解/不正解より、\n視点が異なるとこうも考え方が変わるのかぁ…\nってところが面白かったですー！",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc9b64079dd231",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "遅くなりました！\nラジオ聞いて、自分ならどうするか？をメッチャ考えてました(  ⌯᷄︎ὢ⌯᷅︎  )\n\n私だったら、ターゲットはフォロワー1000人以下で\n「n…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nce33e6ed9fe34",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、お疲れ様です、流石fafaさん、営業マンの考え方は我々の想像💭の斜め上ですね、私の場合は タロット占い🔮？本来ならメンシプとは相性いいのですが、まだ…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc397e23fb9a04",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもしろかったー！\n職業による計画の立て方の違いが特に。\n相手が人だというところが難しい部分なんですよね🤔",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nce137370d0dc6",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさんもfafaさんも凄いですね〜✨\n\n「AIや新しい道具で遊びながら、一歩ずつできることを増やしていく場所にする」\nっていうのは、すごく嬉しいし、ありがた…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nce646c74346ca",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😆\n\nfafaさんすごいなー！そういう考え方なんですね😆\n私も目から鱗でした！",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc68e2d75282d0",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！\n\nメンシプ見切り発車しましたが難しいです💦💦\n\n自分は目指せ10人です。",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "ncde615fc351aa",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんかサムネの距離感近くない？😠\n\n帰ったらゆっくり聞こう〜っと🤭\n聞いたらまた感想書くね❣️🫶🏻\n",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc5a37e75ec29f",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nメンシプ公開ありがとうございます❣️\n\nメンシプは難しいですよね。\n\n本来50人でも凄すぎるんですが、100人ですからね。\n\n並大抵じゃありませ…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc2a7ab6fdd7f4",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こばんは！\n\nメンシプの意味から考えさせられた。\nどうしても踏み出せない自分がいて。\n\nむずかしい。。",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc78af195c801b",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n100人を目指すのもワクワクしますね😊\n新しい仲間が増えていくことと、今いるメンバーとの関係、どっちも大事なんだろうなぁって思…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nc9520fca50daa",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "非公開作戦会議🥰\nfafaさんが、昔からこたやさんのこと知ってた？ていうくらいこたやさんのことわかってておもしろいです🤣というかお二人がほんとに数年来の友人みた…",
+          "article_title": "営業fafaと、共犯者100人の作戦会議",
+          "note_key": "nbb0b9b9f8988"
+        },
+        {
+          "key": "nca4c4e9274c09",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Codexの無料実演会いいですね！\n\nChatだけなんてもったいないｗ\n\nちなみに自分は使用しはじめて10日で魔改造状態ですｗ\n\n素材かあ\n\nちょっと作成するか…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc0cd3ec89477c",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、楽しく遊びながらもいろいろ挑戦していて本当に尊敬✨\n\n後ほどDMしますね🤭💕",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc3505d9dd3790",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😌\n難しいですねー　でも結果と分析の考え方が深く、修正力と実行力がすごいKOTAYAさんなら、この経験もまた糧になりますね！\n\n勉強…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "ncaa544151719d",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "思惑と異なった時に、ここまで冷静に分析できるというのが凄いと思います。\nその上で、次の手を考える。\n継続的に成功する人は、その裏に数多くの失敗を「うまくいかなか…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc1063ae8cf16d",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やってみて分かることってたくさんありますよね☺️\n\n実は、ラジオの時、\n\nどんな人に届けたいか。\n\nここが薄くなっている時点で少し危うい気はしていました。\n\nで…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc488045580547",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "リポスト無料は何度かやったことがあるんですが、広がるけれど、購入してくれるかは別ですよね（難しいですよね）\n\nKOTAYAさんは、本当noteのみんなに愛されて…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc08a90663b45d",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こりゃ\nビール飲むしかないなぁ🍻\n\n最近コメント\nビールのやり取り多いよね🍺\n\n最近美味しいビールある〜？？",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc830519ba5b0e",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Codexの無料実演会、いいやん🐱",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc504dc0f65717",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "作戦お疲れ様でした！\nXは最初はnoteと一緒に立ち上げてバズってやろう！なんて思ってましたが結局うまく行かず、ほぼ放置状態なのでなんの影響にもならないリポスト…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc4785f9d6b32c",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n意外な一面が見れてよかったですよ🤭\nモノじゃなくて、コトですね😋次の展開ではその方向そうなので楽しみですね😆",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc51e2da169f08",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今の私にも、グサグサ刺さる内容だし私も似たやらかしを（こちゃさんほど戦略立ててないし行き当たりばったりだし半分意図的だけど）しているので余計にね。\n\nこういう記…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nccef0c9789c5c",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えーん、Xは凍結されてるので協力できなくて申し訳なかったです。\n画像は協力できます！",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc404fc443622e",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは。\nリポスト企画参加できませんでした。\n気がついたら終わっていたので残念です。\nお役に立てずすみません😢\n最近は、X記事とnoteで同じテ…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc70657dab8fba",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "挑戦したという事実が素敵💓\n謝罪だなんてぇぇ。\n\n私　SNS弱者で貢献出来ていなくて申し訳ないです。😭\n挑戦するKOTAYAさんが楽しんでいたらいいな、って思い…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc63605fb62ec8",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、すいませんでした🙇\nまったく役に立たない タロット占い師でXのリポスト対応出来たかも記憶から抜けて落ちて....\n私はXもthreadsもやっている…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc834d4a30fcc1",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\nX…やってないので、何も協力できなくて…🙏\n\n正直、いろいろついて行けてないことも多いみたい🤣\n\n",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc5d7039772e04",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すまんかった。。\n全然余裕がなくって、Xでのリポストに対応できなかった。\n宣伝もできなかったし、応援に結びつくような動きが取れなかった。\n気持ちを形に…ってどう…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nc829d160d2ddd",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素材募るのか〜、その発想はなかった😂\n考えることおもろいな〜🤭",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nca101ba77d1d7",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅ的にも、リポストって…コレ⬇️\n( ⸝⸝⸝⩌⤚⩌*)ﾑｩ…\n理由は簡単で。\n\n拡散する方法と目的が、Payしないんです。\n\nガチ勢が容易くできることに、リ…",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nce0131366e077",
+          "user_name": "コツシバ｜ベンチプレス140kgエンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303549581/profile_ee075004d3db40aaa6cdbc7e5ebd416a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "くそおもろかった🤣🤣🤣\n内容もね🤭\n\nこっち路線の記事も書けるんですね🤔\n\n謝罪MV楽しみにしてますよ😎🤟",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        },
+        {
+          "key": "nccd0d6418611c",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回の拡散\n何も協力しなくて、すみません🙏\nわたしは、いろいろ疎いので💦💦\n正直、何すればいいかよくわかってなかったっす😅\n謝罪画像　考えてみますね😉",
+          "article_title": "リポスト無料作戦はなぜ失敗したのか。55リポスト、共犯者1人、新作0部から考えたこと",
+          "note_key": "n5abc6235d19f"
+        }
+      ]
     }
   ]
 }

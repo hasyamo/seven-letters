@@ -6339,6 +6339,91 @@
           "note_key": "n011c104752e9"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 156,
+        "likes_prev": 301,
+        "followers_start": 989,
+        "followers_end": 998,
+        "new_fans": 24,
+        "comments_total": 8,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:00"
+        ],
+        "top_article": {
+          "title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募｜イラスト｜校章｜新入生｜創作企画",
+          "key": "n660ef2ac737d",
+          "likes": 19,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "ハッタリ",
+          "urlname": "toichi_101",
+          "follower_count": 15816
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "ncdf12a4b2d81f",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307957791/profile_810814922391b64114a894d1a1eb0f47.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、あまね手伝わなくて大丈夫ですか？😳\n\n28名が参加表明してくださってますけど…大丈夫ですか？⇦大事なことなので2回言いました🤣👍",
+          "article_title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募",
+          "note_key": "n660ef2ac737d"
+        },
+        {
+          "key": "ncd5052ce1be20",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "＞「参加する！」って息巻いてたのに、まだペンが止まってるヤツ！\n\nそれ、アタクシ....😵‍💫😵‍💫😵‍💫\n\n\n",
+          "article_title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募",
+          "note_key": "n660ef2ac737d"
+        },
+        {
+          "key": "nc22b2a8a64fe5",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん✨\n\nまたまた、熱い記事をありがとうございます🥰\n\n制服デザインコンテスト、まだ応募できてないです😭\nもう少し待っててくださいね〜🙏\n締め切りまでには必…",
+          "article_title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募",
+          "note_key": "n660ef2ac737d"
+        },
+        {
+          "key": "nc0dfb96f56aae",
+          "user_name": "deco",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283726919/profile_33337df299c7b7612c89fa69e72df240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさま\n初めまして。私のブログを読んで下さりありがとうございます🌸",
+          "article_title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募",
+          "note_key": "n660ef2ac737d"
+        },
+        {
+          "key": "ncbcf75b7ad674",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\n締め切りまであと少し…！\n投票が楽しみになってきましたよ～\n\n新入生2名の情報もありがとうございます！\nよろしくお願いしまぁす！",
+          "article_title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募",
+          "note_key": "n660ef2ac737d"
+        },
+        {
+          "key": "nc32dc18487935",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308356896/profile_b746fee088341446ccd32354201ffc76.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "相変わらずアツイ😆💕\n制服うぅう‼️\n応募させて下さりィイ‼️\nありがとうございましたぁぁ‼️😆✨✨\n賞金欲しいよ〜‼️🤩💰✨\n新入生の方々ァ‼️\nよろしくお願…",
+          "article_title": "【制服デザインコンテスト】その妄想、まだ隠し持ってんのか🤣│応募",
+          "note_key": "n660ef2ac737d"
+        }
+      ]
     }
   ]
 }

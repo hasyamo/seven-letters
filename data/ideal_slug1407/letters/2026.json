@@ -3187,6 +3187,203 @@
           "note_key": "ndb29e40f7586"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 536,
+        "likes_prev": 463,
+        "followers_start": 1771,
+        "followers_end": 1799,
+        "new_fans": 65,
+        "comments_total": 39,
+        "posts_count": 9,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:00",
+          "18:56",
+          "17:53",
+          "09:10",
+          "06:19",
+          "06:30",
+          "18:00",
+          "07:12",
+          "06:09"
+        ],
+        "top_article": {
+          "title": "かぐや姫が無理難題なシステムを発注してきた",
+          "key": "nc3ceb587c03a",
+          "likes": 73,
+          "comments": 11
+        },
+        "notable_reader": {
+          "name": "ふうた🌟50代からの\"HAPPY-2ND-LIFE\"",
+          "urlname": "tangstream",
+          "follower_count": 6456
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nce7b9221309da",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーんおはようございます。\n\nうちの会社でもメールで添付する領収書には、会社の印鑑画像ををPDFに貼ってます。\nそれ以外でも、こういう風にいろいろなハ…",
+          "article_title": "AIが進化し、エージェント時代になったからこそ使おうUPDF！",
+          "note_key": "n1c054bb9a373"
+        },
+        {
+          "key": "nc71ec4a819780",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん✨😍✨\nさすがです、流石すぎます、流石is流石界隈最高👍✨💕です💖\n\nどんだけ勉強させて頂けることか……感動で泣ける😭✨🙏✨",
+          "article_title": "AIに愚痴らせる装置を作ったら、パスタの保護が最優先になった　楽しく遊べるプロンプト生成機の話",
+          "note_key": "nc9b1503c5f27"
+        },
+        {
+          "key": "ncbd126fe27b02",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、これ最高です🤣\n「機能の大部分が消えました。非常に良い。」の時点で好きでしたwww\n履歴を外に出さない設計や、AIの本音ではなく創作として境界線を引…",
+          "article_title": "AIに愚痴らせる装置を作ったら、パスタの保護が最優先になった　楽しく遊べるプロンプト生成機の話",
+          "note_key": "nc9b1503c5f27"
+        },
+        {
+          "key": "ncb1b8a2270690",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは。\n\n面白そうだったので、私も試してみました。\n\n実際の会話を材料にレベル5の労基召喚だけやりました😂\n\n証拠品として出てきたのが、\n\n「…",
+          "article_title": "AIに愚痴らせる装置を作ったら、パスタの保護が最優先になった　楽しく遊べるプロンプト生成機の話",
+          "note_key": "nc9b1503c5f27"
+        },
+        {
+          "key": "nc86f4f6e9ce30",
+          "user_name": "OKYAS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301762166/profile_d2b641a8956d708d0c740f5ffe015224.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「AIは曲を生成する。人間は、その曲が何を語っているのかを決める」\n この一文がとても印象に残りました😊いつもありがとうございます。",
+          "article_title": "AI生成曲を「なんとなく」で選んでいない。Suno v6『Midnight Deploy』を音響解析してみた",
+          "note_key": "nafcadab8f8d8"
+        },
+        {
+          "key": "nc920074dbb538",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、こんにちは☀️\n\nスパゲッティコード🍝って言葉を知らなかったので、そこからでした☺️\n\nなるほどなーと思いつつ（理解したかは別の話）読後いちばん頭…",
+          "article_title": "「バイブコーディングはスパゲッティコードになる」らしいので、パスタを折るアプリを作った",
+          "note_key": "n752f3c675aaf"
+        },
+        {
+          "key": "ncdbff21525afc",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😊\n\nコードより何より\n頭の中がスパゲッティなんですが😂\n\n技術は進化しても使う人間が旧式だといけませんね🥲\n\nほんと嘘じゃなく、毎日が勉強で…",
+          "article_title": "「バイブコーディングはスパゲッティコードになる」らしいので、パスタを折るアプリを作った",
+          "note_key": "n752f3c675aaf"
+        },
+        {
+          "key": "nc9b76195f9e58",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ、めちゃくちゃ好きです🤣🌕🚀\n「10億年」の話なのに、最後に残るのが「4回目のロケットが落ちなかった」なの、すごく良かったです。\nそして、ここからは完全に私…",
+          "article_title": "黒パグさんの宇宙妄想ノート――月から衛星を投げて、地球を10億年冷やす話　ショートエッセイ",
+          "note_key": "n9fe8e7fd4473"
+        },
+        {
+          "key": "nc1b6dba6cdc13",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！\n\nロマンがありますねぇ！\n\nウェルズの小説に書いてあった事が実現したように、遠い未来に地球の温暖化をコントロールできるかも知れませんね。\n\nちなみ…",
+          "article_title": "黒パグさんの宇宙妄想ノート――月から衛星を投げて、地球を10億年冷やす話　ショートエッセイ",
+          "note_key": "n9fe8e7fd4473"
+        },
+        {
+          "key": "nc4c86e64be269",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、こんばんは。\n\nこういう話、大好きです。\n\n「誰も読まない」と書かれていましたが、私はむしろ、こういう「今すぐ何の役にも立たないかもしれないけれど、…",
+          "article_title": "黒パグさんの宇宙妄想ノート――月から衛星を投げて、地球を10億年冷やす話　ショートエッセイ",
+          "note_key": "n9fe8e7fd4473"
+        },
+        {
+          "key": "ncf85d90a12e84",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カルダシェフ・スケールにおけるタイプII文明、云々とIPO申請書の中に書いていましたよね😳",
+          "article_title": "黒パグさんの宇宙妄想ノート――月から衛星を投げて、地球を10億年冷やす話　ショートエッセイ",
+          "note_key": "n9fe8e7fd4473"
+        },
+        {
+          "key": "nc633948321c7f",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Tibo氏、Astra民からすれば、神ですよねぇ…✨\n\nめじゅはInstant民のまま、ゴリゴリ石臼回して、最後の最後でフェラーリ出動させてますꉂ🤣𐤔",
+          "article_title": "プロ契約の現実ドキュメント　本業をこなしつつ検証タスクはどこまでできるかという名前のただの黒パグムーブ",
+          "note_key": "n3ce73c859215"
+        },
+        {
+          "key": "nc5427efa72a39",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！☀️\n\n検証レポート、お疲れ様でした！\n\n利用枠が五倍にもなると、余裕感が生まれてアレもコレも…。となるのも仕方がないですね。\n\n私はそのプ…",
+          "article_title": "プロ契約の現実ドキュメント　本業をこなしつつ検証タスクはどこまでできるかという名前のただの黒パグムーブ",
+          "note_key": "n3ce73c859215"
+        },
+        {
+          "key": "nc0d7637721f30",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290957676/profile_a8f602f50c26f7991d09f698b4f47ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "作中の専門用語\nコレが見えてくると、愉快すぎてꉂ🤣𐤔\n腹がよじれる〜💦\n\nまさに、自分の身にも起きた🤣🤣🤣💦\nコードも書けないめじゅに、次々に無理難題を言ってく…",
+          "article_title": "かぐや姫が無理難題なシステムを発注してきた",
+          "note_key": "nc3ceb587c03a"
+        },
+        {
+          "key": "nce17cc588c565",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさん、こんにちは☀️\n古典だけは得意だったはずなのに\n途中から急に知らない世界になってメダパニ中です。\n\n「いい感じで。あと今日中」\nこれはいつもの私…",
+          "article_title": "かぐや姫が無理難題なシステムを発注してきた",
+          "note_key": "nc3ceb587c03a"
+        },
+        {
+          "key": "nc36426872e0f6",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！☀️\n\nめちゃくちゃ面白かったのですが、何故か読んでいるうちに胃のあたりがしくしく痛んできました。😂\n\nしかし、こんな竹取物語もイイですね！…",
+          "article_title": "かぐや姫が無理難題なシステムを発注してきた",
+          "note_key": "nc3ceb587c03a"
+        },
+        {
+          "key": "nc97b26a9bc722",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オチまで美しい😂\n\nおはようございます😊☀️\n\n竹取パグ翁\n難儀でありましたなぁ…笑",
+          "article_title": "かぐや姫が無理難題なシステムを発注してきた",
+          "note_key": "nc3ceb587c03a"
+        },
+        {
+          "key": "ncdb4669ded484",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご快諾、ありがとうございます。🙇\n自分の昔の作品なのですが、いかんせん絵面が地味なもので…\nこちらの美麗なカラーイラストも一緒に見ていただけたら、嬉しいな…と思…",
+          "article_title": "かぐや姫が無理難題なシステムを発注してきた",
+          "note_key": "nc3ceb587c03a"
+        },
+        {
+          "key": "nc581957ccd5cb",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nシステムの話題を『かぐや姫』になぞらえる…斬新だなあと驚きでした。\n私のように、そういう方面に疎い者でもわかりやすかったです。\n挿絵もどれ…",
+          "article_title": "かぐや姫が無理難題なシステムを発注してきた",
+          "note_key": "nc3ceb587c03a"
+        }
+      ]
     }
   ]
 }

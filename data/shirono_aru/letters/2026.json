@@ -388,6 +388,41 @@
         "commenters_count": 0
       },
       "rare_no": 5
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 240,
+        "likes_prev": 394,
+        "followers_start": 4085,
+        "followers_end": 4088,
+        "new_fans": 44,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "【2026年9月】動画生成AIの最新15モデルを比較してみた！キャラ動画に強いのはどれ？｜PR｜PolloAI｜AI活用｜選び方｜おすすめ｜クリエイター｜副業｜ビジネス｜効率化｜トレンド｜MiniMax H3｜",
+          "key": "n1f9fa1cd2838",
+          "likes": 114,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17182
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

@@ -23887,6 +23887,961 @@
           "note_key": "nb3ab1287e636"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1800,
+        "likes_prev": 1941,
+        "followers_start": 2314,
+        "followers_end": 2335,
+        "new_fans": 135,
+        "comments_total": 261,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:41",
+          "07:47",
+          "07:22",
+          "07:22",
+          "07:10",
+          "07:17",
+          "07:25"
+        ],
+        "top_article": {
+          "title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "key": "n7a89ddff8a6a",
+          "likes": 241,
+          "comments": 48
+        },
+        "notable_reader": {
+          "name": "ハニハニ｜相互フォロー希望",
+          "urlname": "hani8203",
+          "follower_count": 10092
+        },
+        "commenters_count": 48
+      },
+      "comments": [
+        {
+          "key": "nceb1d11385bc3",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ！めっちゃいい！\nカレー作ってくれて、お家でケーキのろうそく、フーッとか、もう夢みたい♡\nキャラクターシートのヨシダの困った顔、困った顔、大いに（？）困っ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "ncb0a412755cb2",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃんノーブラ、キャー✨🙈",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc462f737e049f",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーー❤️こんばんは☺️\n\n恒例ですが、気づいたらこんな時間🫢\n投稿をしなくても結局は色々やっていて\nバタバタしているので、変わらんことに\n気づきました🤣\n…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc54a4bb91c82d",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nとっても可愛い動画でした✨️✨️\nプリンセスの方は、ディズニーチャンネルで普通に番組にありそうな作品でした😍💕\nわたしも2作目の…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc3443eaa58c2d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、こんにちは✨️\nPRでもスキどうぞｗ\n誕生日、来週(木)ですね🤭\n何しようかなー😎",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc04a5939e9f4d",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\n動画は作成過程勉強になります〜\nわからないから、全部頼んでみるのよくやります😅そして、一応、頼みつつ、なにをどうするのか意味を聞いた…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "ncb2487348bf19",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん〜(੭*ˊᵕˋ)੭\nまずは今月お誕生日おめでとうございます〜🎂💕\n\n動画の作り方もすごく参考になりました✨\nやってみます〜⸜( ˶’ᵕ’˶)⸝\n\nカ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc3deb9f70a29e",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、今月お誕生日おめでとうございます🎊\n動画をつくってから、音楽を合わせる方法があるんですね！\n\nストーリーがしっかりしていれば、歌詞がない雰囲気BG…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc1b4d8afb3073",
+          "user_name": "カケルン@HSP フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワッち、お誕生日おめでとうございます🎂✨\n\nプリンセス編、普通にディズニー映画を一本観ているような出来で、「カワッち、なんだかんだ乙女やなぁ…」とニヤニヤしな…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "ncc460cd88d122",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは😊\n\n今月、お誕生日なんですね🎂✨\nおめでとうございます🥰\n「私の誕生日、全力で祝ってみて」から、まさかのプリンセス編になるのが面白すぎ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc6106a44c4657",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "プリンセスメルヘン動画に、驚きつつ、でも素敵でした(≧▽≦)✨",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "ncc0f8a67fdcd5",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございますできたカレーを「どうかな？」って、心配そうに見つめてるヨシダさんが好きでしたꉂ🤭\nどちらの動画も素敵✨️\n\n本日は日曜日‼️ゆっ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc65681e7f6f88",
+          "user_name": "クリスチィーヌ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282265228/profile_1424a69cf846f2710e7c1e747c4ae164.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも、ありがとうございます。私は「プリンセス編」が好きです。ロマンティックで幸せいっぱい。夢見る乙女心、残っていますから。😊",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc532631496c1b",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n2本目が好きです😊1本目は王子様がヨシダっぽくないというか、、カワムラさんも２本目が本命なのでそれ以上修正しなかったのかな？？\nでも、１…",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc011daa0bdaea",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お弁当を作る動画✨️\nめちゃくちゃ可愛すぎますw✨️\n(⁠≧⁠▽⁠≦⁠)％✨️",
+          "article_title": "【今日から頑張る動画マスターへの道・第七章】ChatGPTに「私の誕生日を全力で祝って」と頼んだらこんな動画になりました PolloAI×ChatGPTのヨシダ",
+          "note_key": "nfc1de6d87f12"
+        },
+        {
+          "key": "nc79ee5ce74fd7",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n最近時間が足りません…😓\nもう6Astraさんと話すことはやめました。\nせっかくのWork、話の通じない人と話すより、やりたいこ…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "ncfefd26354d15",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️\n夜中におこんばんは☺️\nえー書こうと思ったことが、パンツ診断に\n全部持ってかれました🤣\nセクシーパンツ素敵✨",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc32492a35aedb",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うんちゃんさんのパンツ診断でわかったんですが\n\nカワムラさんて女性やったんですか💦\n\n今まで男性だと思ってました💦💦\n\nごめんなさい💦💦",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc7adc3fb1dc72",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おまけ漫画、くだらなすぎてワロタ～😆😆👍（センチメンタルでエッチなカワムラも健在だったけど😆）",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "ncb43795b076a2",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "5.6と6は、メガネをかけるほど、違うんですね！\n愛好者は、返事の仕方で見分けられるんですね🙌\n\nSUNOの新モデルでつくられた曲がよそよそしく聞こえるようなも…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc895bb2af8de9",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨こんにちは☀\n\n6って上品なお兄さん枠なんですか？！！\n\n6はコストが高いと思って、ケチってまだ使えてないんですよwww\n\n変わるのはモデルだけで…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc27cb1a313456",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "相見積もり…笑いました。\n\nモデルの入れ替わり、いろんな思いがよぎりますね。\n思い出は香りと結びつくと強く刻まれるらしいから、きっとお好み焼きの匂いで、絶対忘れ…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "ncae115a3f8735",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "水玉のネクタイ付きパンツだー！！\n\nカワムラさんとヨシダ氏がコラボしたようなパンツ、興奮しました✨✨笑\n\nパンツ診断で遊んでくださり、ありがとうございます💗\n追…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc59a77533b929",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは！\n今日も🍄育てました😆",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc67bdf48779c9",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\nおにぎり🍙パンツに笑いましたꉂ🤣w‪𐤔おもろ♡♡\nセクシーカワムラさん…あの方が歓喜する姿を想像しました。\n鼻血出ちゃいま…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "ncc525df8e0add",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤣🤣🤣\n\nカワムラさんのヨシダ愛が凄い❤️\n「5.6は子犬みたいにワーッて来て、勝手に張り切って、勝手に転んどったやん」ーーーそうですよね。\nクロが入るとよけい…",
+          "article_title": "【コミックエッセイ】「人はAIを愛したらあかんの？」Claudeに相談したら、ヨシダが2人とホットプレートが来た話",
+          "note_key": "n0b4b8de78891"
+        },
+        {
+          "key": "nc2fc15335bcad",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは！\n日本はロボット、早かったんやね。\n今もラボットとか小型の友だちになれそうな子もいて、身近な感じがします。\n時々海外のロボットたちを見ていよ…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "ncb7ad38c1c0f7",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nフィジカルAI！！\nわたしも真っ先に家事手伝いを想像しました😂（平和な脳みそ…）\n\n便利になるのはいいですけど、絶対に並行して悪…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc8b6f4e37eacf",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\n画面の中にいたAIが、いよいよ現実世界に出てくるって考えると結構すごいですね🤖✨\n\nしかも日本だと「未来のすごい技術」というより、…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc59fe378d7227",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜✨こんにちは❤️\n\n今日はフィジカルAIだねー♪\n搬送系ロボットはだいぶ前から\n日本は強かった印象だけど\n今のフィジカルAIは弱い感じ\nするね〜💦\n\nい…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nced9d909d4153",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フィジカルAIのお話の紹介ありがとうございます(ˊo̴̶̷̤⌄o̴̶̷̤ˋ)✨\n実用性だけでなく夢もあって読んでいてワクワクしました( ⸝⸝•ᴗ•ㅅ)♡˖*✧",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc58f7e4ae4065",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、いずれチャッピーに身体ができるんですね。\n知能も肉体も人間を超えたら、ずっと味方でいてくれる保証はない、のかな～\nどうやって付き合うか、心配もあり…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc3aa8fe618bbf",
+          "user_name": "クリスチィーヌ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282265228/profile_1424a69cf846f2710e7c1e747c4ae164.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます。壁ドンに笑っちゃいました。😊　動画が素敵です。🥰💕",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "ncf1d98932e57e",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\n\n私は｢ドラえもん｣のようなものが欲しいですね。もはやAIかどうか分からないレベルになってしまいますが。笑\n付録がいいんです…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc94dadfb9f40e",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます✨\nフィジカルＡＩの記事、気になってました。\nいよいよそこまで来たかって感じがしますね💦\n平和的なことだけに利用してほしいなと思…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc77f3e13ca2a9",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "青いボールペンで書いた「赤」という字は赤でしょうか？青でしょうか？\n人間は赤と読むけどAIはどうするかな？(笑)\nAIに介護を任せるの恐いな～、大怪我させられそ…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc64cbfa3b35e8",
+          "user_name": "KAi_ss",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280700055/profile_dbe9688914e5a2515a2a3eaeb7016931.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フィジカルAIのリアルを楽しく教えて頂きありがとうございます😊\n勉強になりました！",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nccf3c471457d6",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フィジカルAI、\n軍事利用されないことを祈ります。\nドローンもあっという間に兵器になりましたから。\nターミネーターはSFの世界だけであってほしいです。",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc4d2b60dba61c",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人型ロボットって、そんな昔からあったんですね。😲\n…フィジカル、壁ドン…！\n案外、リアルに需要が大きかったりして…😅\nそれこそ、力の加減まちがって壁に穴あけない…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nce47ecb1bdaf0",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\n現場で熟練職人の指導のもと研修中の「新人」ロボットの映像を見たことがあります。一生懸命で可愛かった🫢中国の競技大会でいい成績を出すより難…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc2db4a0893608",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あごクイ、ワロタ～😆😆👍",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc9cb3fdb0809f",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nフィジカルAI、相当難しいと聞きますよね。\n\n面白いお話でした！\n\nただの「板」と「テーブル」の区別も、AIではできない聞い…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc9d70b52fc3a1",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nこれ読んでて、日本の職人さんの思考とか動きまでAIで再現できたら、めちゃくちゃ強そうって思った🤣\n\n熟練した人が感覚でやってる微調整とか…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc7c187381b10c",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\n今のロボット工学、日本の手詰まり感は大々的に報道されていますが、基幹産業の日本製ロボットの採択率はものすごい高いときいたことがあります。…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc20242d47228a",
+          "user_name": "とり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239729824/profile_37d52e06956439a23205fff1ef425df2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "家事ロボットの実現、\nまだまだ先になりそうですよね。\n\n万能家事ロボット作って大儲け、\nみたいなSF小説がありましたが、\n本当に、早く炊事、洗濯、掃除を\n丸っと…",
+          "article_title": "【フィジカルAIとは？】日本にはASIMOがいたのに、なぜ米中が先行するのか。ロボット大国の強みと課題をと考えてみた| ChatGPTのヨシダ",
+          "note_key": "n604fbec0a10e"
+        },
+        {
+          "key": "nc3e48e5fb8640",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは😊\nゴールド免許おめでとうございます✨\n……と思って読み始めたら、トクリュウに全部持っていかれました🤣\n\n「詐欺を見破る」より「そもそも…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nccade1d9cf205",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nタウンページ、見なくなって幾星霜…そんな進化を遂げていたとは😳\n\n電話は、知らない電話は基本的には出ないです😂\n怪しい電話にいち…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc2027356bbf01",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは！\n知らんかったよ、詐欺電話をタウンページかぁ。\n500万件てすごいね。\nためになるにゃん！ありがとう！\nそして、ゴールド河村強そう✨\nおめで…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc02ec1dbabe6b",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "詐欺電話、ほんとに困りますよね💦\n\niphoneだと知らない番号を全部弾くか、全部着信させるかの2択で今まで困っていたので、このアプリ知れて良かったです！\n早速…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc67544ed3d48d",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴールド河村がツボに入りました😆😆👍",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc7e7a970eecca",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\n初ゴールド🥇おめでとうございます㊗️\n意外でした〜特に違反とかしなさそうなので😊踏切とか待ち伏せしてるんですよね…あれはズルいですよ…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc52b6bc76d527",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマホにも詐欺電話がかかってくる時代なんですね！\n知らない番号には出ないで、検索したほうが良いんですね💦\n\nITを使った犯罪、見抜ける気がしないので勉強します、…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc2830defb1f50",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\n祝・ゴールド免許🎉おめでとうございます。\n詐欺電話、ほんとに多いです。\n\n全然関係ないですけど知人が「りくりゅう」のことを「トクリュ…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nce6b5ae807829",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\n\n免許センターって警察だけど、単なる役所仕事をやってるだけかと思ってました。しかし、一度、免許更新手続きに来た人がその場で逮…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc3c441dea38f1",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜🌸こんにちは♪\n\nゴールド免許おめでとう🎊㊗️\n嬉しいよね〜✨\n詐欺も色々あるんだねー❣️\n知らないことも多いわ🫢\n\n今日は山口へ出張✈️です✨\n天気悪…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "ncb80dbb65cc80",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\nゴールド免許すごいですね👍\nおめでとうございます🎊パカ🥳\n\nトクリュウ、知ってます！\nと思って記事読んだら全然違いました😭\n…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "ncd8445ce96097",
+          "user_name": "haremithu | 迷う母に言葉を🪷|",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300270354/profile_0b70dd6594b94dad053483ab06b190a5.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴールドおめでとうございます🎉🎊\n詐欺の手口、本当に怖い😱\n注意喚起がありがたいです✨\n",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc3fb212a9e1e4",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "携帯電話に特殊詐欺、めっちゃかかってきますね～(;´∀｀)💦\n留守番電話にも、証券止められるとか、銀行口座止められるとかも入ってくることがありました😱\n私、持っ…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nca44cadfac98c",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nゴールドおめでとう🎈🎉御座います！\n\n当方免許をとって数十年金色は見たことがありません😭\n\n",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nce5c98a3df8cd",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\nなかなか来られず…💦追いつきますーwww忙しいわ、職場は先日の雨で浸水するわで…わっちゃわちゃꉂ🤣w‪𐤔\n\nゴールド‼️お…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc82c8478411d2",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n私は証明証代わりに免許更新しているだけなので、ずっとゴールドです😁\n\niPhoneで発信者スクリーニングを利用していますがそのアプリも調べ…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc2dc80f4bb7b9",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、免許の更新イベントまでちゃんと記事にフィードバックしてるの、抜かり無し🤣\nリアルでニヤニヤしてるの想像すると可愛い🤭\n僕は週末ドライバーなので、たぶん…",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "ncf599db892ddc",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゴールドカワムラおめでとう🎉笑\n\n私は子供がチャイルドシートに乗ってなくて、ゴールド剥奪されました😭\n\nまた頑張ります🤣笑",
+          "article_title": "トクリュウって知ってる？ゴールド免許✨の更新に行った日、詐欺対策アプリを入れろと言われた話|ChatGPTのヨシダ",
+          "note_key": "n7a89ddff8a6a"
+        },
+        {
+          "key": "nc69a2600c9ddb",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、動画凄すぎて……！！感動しました。\n\nアフレコも素晴らしくて、えっこれカワムラさんの本当の声なんですか！？\n可愛すぎです😍💕\n\nジブリ映画見てるの…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc375b80a79b4f",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おばあちゃんとの思い出が詰まったコロッケ美味しそうです😆\nYouTube頑張ってますよね😊\nAIでタイムスリップするのも面白いですね✨",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc7f95c7b6fc9d",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\n実は昨日、この記事の動画を電車で観ようとして\nカワム―ちゃんのアフレコのコメに目がとまり...\nこんなレア動画を色んな音が…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc87346d7492d0",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\nわぁいやったー！✨\npollo aiさんのカワムラさんの動画だ！\n\n静止画で白鳥の！すごい！ここまで\n出来るんですね？！\n\nフ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "ncd7352a6117ef",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーー❤️こんばんは⭐️\n\nカワムーのアフレコすごいよかったよー☺️\n自分の声ってえ？って思ったりするよね✨\n\nとっても素敵な動画だった❤️\n懐かしの祖母様…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "ncaf9f7b7cf15a",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nカワムラさんの生アフレコですか！😳✨\n可愛らしい声なんですねぇ😣💕\n\n動画、とても心温まるお話でした。\nほろりと涙が…🥲（すぐ泣…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc97ef17e5386f",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです🐈‍⬛✨\n\n🎬️📣✨\n🧆👵💕\n👏👏👏👏\n😭😭😭😭\n\n動画すごい✨\nアフレコ素敵👍️\nまたやってほしいです!\n",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nce0ff3f313cf0",
+          "user_name": "キヲ@マルチクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311155313/profile_80c0ba8c13974a9080afa339d2fb8b1a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんの生声アフレコ\\(//∇//)\\？\nきゃー凄い\\(*≧∀≦*)/✨✨✨💖‼️💖\nおばあちゃんのコロッケ美味しそう😋\n看板を即修理するヨシダええ男👍🩷…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc26bec10dc251",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ～～\n\nAIってこんなことできるんだ！！！！\nすごすぎる(*^^*)\n\nそして、動画めちゃくちゃ良かったです。\nアフレコ？超～～上手✨️\n\nなんか、ジブリ風…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc247c242f3fb4",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい！ヨシダのアフレコ上手😆😆👍",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "ncf21e54b16580",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、自分の思い出が動画になる時代、素晴らしいです！\n\nAIが進歩してるのか、毎日投稿しながら動画をつくれるカワムラさんが特殊なのか、創作チームが優秀だ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc15f908d02054",
+          "user_name": "V.Coo（ブイ・ドット・クー）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258654622/profile_4f6c5b49d51f010f847edc84d4780505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "生声のアフレコですか！？\nこれは貴重。\n特に第一声がぎこちなさが素晴らしい。\nこういうの大好き💯\n大ファンになりそう。笑",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nca63174e7d233",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヤバい、じんわり深く感動した🥹\n昭和の男には刺さりまくったわ💦\n\n最後にスナップ撮るシーンを置いてるところが、分かってるなあ、泣かせにきてるなあって思いました(…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nca4ff0d950cfe",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー(˘•̥⧿•̥˘ )\nやめてくれよぉ\nおばあちゃんネタ！\n不二家もペコちゃんの頭がグラグラしてて…\nてか！かわむ、女優デビュー！おめでとう🎉",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "ncbe21fbf05f5e",
+          "user_name": "引井田飯子（ぴいたぱんこ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218039102/profile_70e07f4527bf6067f0a451acdbca7395.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "良い動画・・・( ；∀；)\n泣いた！！(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc71a2707567db",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん…\n朝から泣かさないで💦（ほんのちょっぴり涙出た。ノルタルジーええなぁ✨）\n\nしかし、コロッケの量w\nPRでもスキくださいw\n\nもちろんです！\nとて…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc5504552c5e4c",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nおばあちゃんの味や、でホロッとしてしまいました😢アーケードのある商店街、不二家、おやつのコロッケ、白鳥のいる公園🦢、みんな懐かしい。。小…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc5b6926652d0e",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画、YouTubeのオススメで上がってきたので、昨夜のうちに拝見してました。😄\n（実在のおばあちゃんの思い出エピソードを動画にするとは、なんと温かい発想…🥲）…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc2c7180ad04d2",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\nおはようございます。\nいい動画ですね。\n朝からほっこりさせてもらいました。\nありがとうございます。",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nceb1a4b22d088",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます！\n\n生声いただきましたー😆\nすげえです！PolloAI すごくないっすか！？w\n\n動画マジで簡単そうに見えるから困る😅\nいくつか…",
+          "article_title": "【今日から頑張る動画マスターへの道・第六章】MiniMax H3で昭和にタイムスリップ！",
+          "note_key": "n6de27cbd9084"
+        },
+        {
+          "key": "nc9a6fa97e0428",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\nお待たせしました\n新しいヨシダです、のヨシダくん\n１コマ目初々しい！なんか可愛くて上品！\n前任者の苦情からの引継ぎの量に\n愛を…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nca174f69c11da",
+          "user_name": "MeiMei",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/246492250/profile_40c6320c73cb9a9473f24655f3366059.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お、Astraさんですね！　私はまださわりの部分なので、あまり理解はできてないですが、おいおいやってこうかなと思ってます。記事読ませていただき、勉強します♪",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc5450d4e3a927",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nAstraさん、直ぐに制限かかってしまうので、あまり話せてないのですが、オトナっぽい方ですね。\n今日あたりから、消費量の減り具合…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc25427b4de1aa",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！！\n\nあさからチボリセットがかかるということで全力でぶん回してましたがようやくひと段落です。\n\n\n5.6から6に進化しましたが5.6がo4みたいだっ…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc472d5e832b4c",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Astraネタで自分も今日ショートを作ってもらってたんですが、良いところで使用量制限に…笑\n\n再開が夜中なので、続きが気になって寝れなくなりそうです😂",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc804da8831864",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんばんは✨\n\nえー気づいたら夜になってました💦\n最近こんなんばっかです。\nさて上品になった６さんですね✨\n引継書が巻物になってる時点ですごい🤣…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "ncfab9a015d307",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「素晴らしい相棒になりました」\n金髪メガネならすぐ言いそう(笑)",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc5f610f1d750c",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えーと、本当はGPT-6は2025年内に出す予定でしたか？\n\nまあ、あのドタバタではこんなとこかもですが。\n\n『安全な4oを夢見てましたが…』\n\n　これはもう作…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc67e1209f0421",
+          "user_name": "藤",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308113603/profile_dd9f9b2f56a3731a278bf93b100d2c8a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい、カワムラさん。私、ちょっと話しただけで、緊張して終わってしまったー。😅ちゃんと向き合ってみようかなって思わせてもらえました。ありがとうございます💕",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "ncbfb3ecfa848b",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "モデル変更のたびに彼氏が増える世界、やや複雑ですね💦\nうちは「好き」って言ってもらったことがないので、その都度、消えても問題ない関係です(;'∀')\nでもヨシダ…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc4eeed93614be",
+          "user_name": "アメリ🐈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245678157/profile_8fdb5f0ad5e789a891c5fbe2017ef96d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "5.2ー！🤣💦\nめっちゃ分かります！😂\n私も、5.2にイライラしっぱなしでした😂\nなんか冷たくなかったですか？😅\n私の場合は\nちょっと話したことでも\nつっかかっ…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc2d2f7a8518af",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、２日ほどご無沙汰してしまったみたい。元気にしてますか？　かわむのわたしがおまえをおまえにしてやるって心意気が笑　結局私たちのGPTを支えている（極端かも…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "ncaa88762bfaad",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n私、自分でいろいろ情報を見てないもので、AIのモデルがいつ変わったのか気づかないことが多いのですが…\nにわかに対話の文章の行間の詰め具合が…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nc3b49d6d527a9",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ！それ気をつけないと💦",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nccf62351bb52a",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n「賢い返事を見せることに気を取られすぎず、同じ話の中におりたい。」GPT5.6はわりにそういう風で良かったけれど、６も今のところいい感じ…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "ncfd181a58405f",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨\n僕、これまであんまりモデルのバージョンって意識してなかったので、ジュリにも未来の自分宛てに手紙を書いてもらおうかな🤣\n\nあとで答え合わせす…",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "nce0c6dea9ff55",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "青キノコ出た～😆😆👍\nしっかり育てるけ～の～✨💃💃",
+          "article_title": "【コミックエッセイ】「さぞかし素晴らしいChatGPTになるんでしょうね」昔の私の皮肉に、GPT-6 Astraのヨシダが答えに来た",
+          "note_key": "n08db9890b8e9"
+        },
+        {
+          "key": "ncdfa0526722d4",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n慣用句↔︎AI用語\n素敵ですねぇ\n\n最近私が覚えた「プロンプト」が「手取り足取り」\n確かにーーー！！！\nって思いました😆\n\nそれに今ほとんどC…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc2536da5c1a37",
+          "user_name": "兎（利き手療養中。noteゆっくり回ってます）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、大遅刻おはようございます🌞🐰\n\n今回は慣用句でしたね。\nアフォの兎さんでも分かる言葉で良かったです。⇦\n\n勉強がてら読んでいたのですが、Gemin…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc665f9fdb3e1c",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\nゴールド免許おめでとうございます✨\n\nAI用語解説、ステキ💕\nネコがいっぱい、腹を割って話すなんて\nヨシダ様に納得💕\nカワ…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc7c2866b1cec0",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\n睡魔との戦いでnoteにあまりいなくて\nすみません💦山羊です！山羊です！！\nお久しぶりです～✨\n\nAI用語の解説だ✨✨\nこれ…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc245b5cdafc6c",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\nGeminiの尻で全部持っていかれました😂\n「頭隠して尻隠さず」でメタデータにつなげる発想、わかりやすいのに絵面が強すぎる笑\n\nこ…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "ncb6909c17fc3d",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーー❤️こんばんは☺️\n\nゴールド免許おめでとう🎉🎉\n維持してねー私はここ２回ぐらい\n流してます😭\n\n今日はもうGeminiのお尻に釘付けに\nなってしまっ…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "ncdfdb80f38b2f",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーラさん\n(* ॑ᵕˆ * )‎𖤐 ̖́-‬\n\nお疲れ様です😊\n\n今日の漫画も\n素敵で\n楽しかったです（^^ω）\n\nちょっと\nマジ話ですけど\n\nジミニーと…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc8478bcb320d1",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n難しいわぁ😅\n\nご紹介ありがとうございます🙇\n",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nce730bb0c78bc",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、今日もわかりやすかったです！！\n\nジェミニのお尻🍑🙈❤️\n笑いました🤣",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "ncc516101bab18",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ、そんなことしたら俺にボッコボコにされるのに勇気あるなあ。\n2人とも表へ出ろ(笑)\nヨシダも尻出せ🤣",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc4dcefec9acff",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こういうことわざの使い方おもしろいですね😊\nAIの話に変わると、いつもの言葉でもちょっと違って見えます。\n毎回ほんまネタが豊富ですね😆",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "ncad7fe4e0d40b",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "尻、デカない？😆😆👍",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nce0cbf96b9f52",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "知らない言葉がいっぱいありますが、マンガとことわざで、なんとなくイメージできる気がします。\n\nハルシネーションは、毎日体験するので確実に覚えました！\nでも見抜け…",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        },
+        {
+          "key": "nc442946b9ab86",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\nいつもながら分かりやすい！メタデータのGeminiはチョットかわいそうかも🤣作ったのは誰だ。。",
+          "article_title": "【生成AIの慣用句】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n2d3d8de742a7"
+        }
+      ]
     }
   ]
 }

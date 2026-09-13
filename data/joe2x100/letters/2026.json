@@ -922,6 +922,51 @@
           "note_key": "n279f096ef632"
         }
       ]
+    },
+    {
+      "week": "2026-W37",
+      "period": {
+        "start": "2026-09-07",
+        "end": "2026-09-13"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 156,
+        "likes_prev": 133,
+        "followers_start": 879,
+        "followers_end": 929,
+        "new_fans": 41,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:02"
+        ],
+        "top_article": {
+          "title": "【世界の変化の潮流に乗る魔法（瞬きする間に、世界も子どもも先を行く）】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.58",
+          "key": "n44c4bcb3a7dc",
+          "likes": 80,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+          "urlname": "ai_hakase",
+          "follower_count": 7625
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc573b5f63dabd",
+          "user_name": "AIU(アイユ)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292505734/profile_3e8549b785a2e8dc68f32a35dadea4ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(๑•̀ㅂ•́)و✧\nうちの子もベース🎸やってます。",
+          "article_title": "【世界の変化の潮流に乗る魔法（瞬きする間に、世界も子どもも先を行く）】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.58",
+          "note_key": "n44c4bcb3a7dc"
+        }
+      ]
     }
   ]
 }
