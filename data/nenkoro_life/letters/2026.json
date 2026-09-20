@@ -5900,6 +5900,151 @@
         }
       ],
       "rare_no": 8
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 295,
+        "likes_prev": 222,
+        "followers_start": 2005,
+        "followers_end": 2007,
+        "new_fans": 44,
+        "comments_total": 13,
+        "posts_count": 5,
+        "consecutive_days": 4,
+        "post_times": [
+          "09:00",
+          "16:00",
+          "18:00",
+          "07:00",
+          "15:50"
+        ],
+        "top_article": {
+          "title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "key": "n19a0a48d6a41",
+          "likes": 67,
+          "comments": 11
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17278
+        },
+        "commenters_count": 12
+      },
+      "comments": [
+        {
+          "key": "nc3c37deab7dcb",
+          "user_name": "ゆぴか｜働きづらさから在宅ワークを模索中☀︎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは🌃\n\nそうですよね、昔それこそ残業してまで頑張っていたお仕事が…\n今の時代はこんなに時短に⏰✨\n\nもちろん、人の目によるチェックは必要で…",
+          "article_title": "手元のPDFをHIX AIに読み込ませて、プレゼン資料をサクサク作ってみた",
+          "note_key": "n93ad77060da2"
+        },
+        {
+          "key": "nc13768fc5ef72",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、仕事で使う人に有り難い機能なんですね。\nものすごい時短と見栄えのよさ。\nあとは、どこをチェックするか、どう直すかが問題なんですね🙌",
+          "article_title": "手元のPDFをHIX AIに読み込ませて、プレゼン資料をサクサク作ってみた",
+          "note_key": "n93ad77060da2"
+        },
+        {
+          "key": "nc8aca8ef880a4",
+          "user_name": "若菜あずき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219562168/profile_fb77a41371b0cbdb510ac535f3971dd2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんばんは😊\n\nそらちゃん、いろいろやってくれるの優し～🤣💕\n王子ごっこ、流行ってるんですね？\nそらちゃんにがやると、ハンパないイケメン力ですよ～…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nce3ff220d6ed2",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん、こんばんは😊\n\nそらちゃんのビジュアルがいい分、破壊力が半端ない🤣\nめちゃめちゃ笑わせてもらいました。ありがとうございます✨",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "ncf83a1e02e8ff",
+          "user_name": "紡えり🐱　⁂GPT遊びに夢中⁂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315609305/profile_2228c12696b77ff532353fe3f38b10ed.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして！！\n\nイケメンなのに、そこを見事なまでに面白くされていて、見てて楽しかったです！！🤣\n\nヘッダー見て、即スキ押しました(笑)\n面白かったです！！(笑…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nc5b131028f165",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "王子ごっこ、面白いですね🤣🤣\n\n洗顔完了、が特に好きです☺️",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nc692e46606340",
+          "user_name": "Liliscend＠夜更かしDX・AIハッカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310200394/profile_5c50f8b7eeebde6135ce3d3c5fbb339c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\n\nいつもの漫画や動画、HP解説の記事も好きですが、こういう系統も良いですね✨️\nアイキャッチ拝見した時に「何があったんですか？！」となりました…笑",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "ncd872f75b3d77",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃん、カッコいいです😍\n麺つゆを飲んでも表情を変えないところがプロのモデルなんですね🤣\n\nボウタイが宝石つきの水色のリボンになって、優雅さがアップしました…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nc26b106a92412",
+          "user_name": "ネロ🌙｜王子｜楽しくnote収益化",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306665844/profile_3b07512f5c7f1904daad2fa8e8a834c8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん🌙\nめちゃくちゃ笑いました🤣\n\nどんどん馬鹿になるというタイトル。\n後半にクライマックスかなと思ったら最初からIQ2のそらちゃんが現れてわくわくが止…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nc97b465b6b2cc",
+          "user_name": "Minori | ミノリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさーん✨\nおはようございます☀\n\n王子ごっこを人一倍楽しんでて\n面白かったです♪\n\n私は天然水洗顔のソラさんが\nお気に入りですっ٩(๑❛ᴗ❛๑)۶\n麗し…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nc5e06112934c9",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「濃縮タイプやった」\nが、めちゃくちゃ好きです🤣\n\nストレートなら良かったんかい！\nいや、最初からめんつゆ飲むつもりだった！？\n\nみたいな、何個かツッコミ出てく…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "ncac24fa9be844",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221872381/profile_240a9a39c80ce3ebb145dfb4e88d4de3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わらいましたww\nかっこいいのにおかしいww",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        },
+        {
+          "key": "nc49e510356ba2",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、おはようございます☀️\nうわー♡♡嬉しい‼️‼️‼️\nねんころさんまで、やってくれてくれてるー‼️ꉂ🤭✨️\n実は企画を広げてくれたのは、ご本人のネ…",
+          "article_title": "真面目にふざけたら、AI画像がどんどん馬鹿になった話| ChatGPT | 画像生成AI | AI活用",
+          "note_key": "n19a0a48d6a41"
+        }
+      ]
     }
   ]
 }

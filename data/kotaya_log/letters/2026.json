@@ -6648,6 +6648,261 @@
           "note_key": "n5abc6235d19f"
         }
       ]
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 370,
+        "likes_prev": 274,
+        "followers_start": 3515,
+        "followers_end": 3515,
+        "new_fans": 135,
+        "comments_total": 52,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:41",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "key": "nd4b523f396fa",
+          "likes": 86,
+          "comments": 13
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17252
+        },
+        "commenters_count": 19
+      },
+      "comments": [
+        {
+          "key": "nc591f9ee237b5",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん！\n興味津々です✨\n\nが、その時間生は無理なのでアーカイブあるなら絶対見ます💪",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nc327f0e040de2",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ～🥰こんばんは！🌻✨️\n\nCodexがなんだか未だにわかってないところからスタートな私でも、イケルカナ！？(笑)\n\nその日は仕事だから生は無理だけど、後ほ…",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nc8297c12047e2",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "じ・つ・え・ん✨✨\n待っておりましたぁ🙌\n是非ともおぉぉ!!!\n参加させてくださいぃい(人>ω•*)ｵﾈｶﾞｲ\n\n前の分析でもか〜なり苦戦したので、メッチャ嬉し…",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nce65763b3a39d",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\n② 時間は合わないけど見たい\nです！\n\nCodexで何がどんな風に動くのか？\nまだ触ったことがないので、見てみたいです！",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "ncfee68b9323cf",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "参加したいけどお昼。。\n取れないと思う。。\n😭😭",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nc4b7733a04157",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは〜😊\n\nもちろん、参加したいです❣️\nけど、時間がぁ〜💦\nもしかしたら、ギリギリ間に合うかなぁ⁈\n微妙です😭",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nc9ee96891d555",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312320794/profile_045138d081595762a6f74d1221a7f7aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぐぅぅ……みたい！！\n\n私、超初心者だから！！\n\nでも、仕事なんです(ﾉД`)ｼｸｼｸ\n\n勤務上、休憩時間もタイミングが合わないよぉぉぉ！！",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "ncc1252ea077e9",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(°∀°)\n\n毎週12:30〜会合があるから\n参加できるのは25分までですなぁ。\n\nCodexとかClaude CodeとかAntigravityとか\n使ってみ…",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nc04d2064b5fbf",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは結構いるんじゃないか〜？\nしかも誰でもOKでしょ？🤭\n\n私もこちゃの使い方見たいぞ〜\n\nCodex や ClaudeCode に関しては\nこちゃに限らず誰…",
+          "article_title": "【Codex無料実演会】触ったことない人へ。30分だけ画面見せます",
+          "note_key": "nf22a949d5d27"
+        },
+        {
+          "key": "nc026f2a793198",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "> 今回、758本を分析して\n> 『見つけたぞ』と思ったことが、\n> だいたい本人の記事に書いてあった。\n> ……分析屋泣かせである。\n\nこれウケた😂\n\n無料記…",
+          "article_title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "note_key": "nd4b523f396fa"
+        },
+        {
+          "key": "nc92bd5765c62c",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です🌟\n\nシンプリストやまださんだったから\n分析もシンプルだったように見えます😙\n\n無料で手の内をさらしているという記事は\n読んだ方がよ…",
+          "article_title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "note_key": "nd4b523f396fa"
+        },
+        {
+          "key": "nc7babb841fd1b",
+          "user_name": "シンプリストやまだ@noteで妻と4人の子ども養ってます",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233860794/profile_50203c57c7d7b7fb6d0bf34795bac0cf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うぉ！分析おおきにです！\n自分でも知らんところがいっぱいありましたわ。この記事を分析させていただきます🫡",
+          "article_title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "note_key": "nd4b523f396fa"
+        },
+        {
+          "key": "nc4c1601632541",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵コミュ力アップ術✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、\n\nXでメンシプ260名以上と見て別の方を想像してました🤣(既に分析済の方ですが)\n\nいろんな人がこちゃさんに分析依頼していてすごいな〜😳\n\nシンプ…",
+          "article_title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "note_key": "nd4b523f396fa"
+        },
+        {
+          "key": "nc9acef6a444a7",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うむ。購入します。",
+          "article_title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "note_key": "nd4b523f396fa"
+        },
+        {
+          "key": "nc8cb1926b58c4",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "相変わらず流石の分析&紹介ですね！\nシンプリスト山田さんはまさにKindleで何度か勉強させて頂いておりました。\n\nnote運用も無料記事で紹介されているという…",
+          "article_title": "260人はなぜ乗り続ける？758本から分析した「マネタイズ海賊団」の正体",
+          "note_key": "nd4b523f396fa"
+        },
+        {
+          "key": "nc9661268c30fb",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "MV用…お待ちしておりましたぁ(๑˃ᗜ˂ )੭ꠥ⁾⁾…˖⁺\n\nこれからMV作る予定なので、メチャクチャありがたいですよぉ\n( ꕤﾉ_ _)ﾉﾉ╮ꕤ_ _)╮ｱﾘ…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc973e9cdd18cb",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n\nHONOさんのMV✨\n素敵だけど、なぜか笑える🤭\n笑えるけど、カッコいいみたいなギャップが面白いですね〜♫\n\n私には、まだ未知の世界……💦\nでも、…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc452bee8eecdd",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nこれは私のためにつくってくれたんじゃないかと思うものですね😆\n読んだだけではイメージがわかなかったので実際に使ってみますね✨\n…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "ncd69c4aaf3fec",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんはー✨\n\nHONOさんの美しさとバブバブやオロナミンCとのギャップが良かったです☺️\n\nそして何事にも真面目に全力で取り組むところもしっかり…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc040997bd9365",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\nHONO薬剤師　MV\n面白かったです😂\n画像は、かっこいい、シゴデキ！！女性なのになぜ？笑える…ってそういう狙いですよねー😄\nMV動画の作り方、全然…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc508dadcd6f20",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃカッコイイ曲なのに…\nHONOさんの表情もクールなのに…\n「バブバブ！」でどうしても吹いちゃう🤣\nこのレベル作れちゃうのはすごいです…！",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc7e00939e59de",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "バブバブにおお笑い🤣🤣🤣\nもう隠す気などありませんｗｗｗ\n\nお腹いたいｗｗｗ\n\n自分、耳毛のＭＶのときはCodexでシーンごとに64枚つくって、ローカル動画生成…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc9cf992aef7f4",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "白衣の奥でバブが暴れる🤣🤣🤣",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc758a302cdcc9",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは凄い！ズボラな僕でも出来そうと思える内容でした😳\nほのさんはやっぱ、オロナミンC🤤\n\n問題は、僕にいい歌詞と判断できるセンスがない事😂",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc1d986c986dd7",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nHONOさんがスクワットしてる🤣🤣\n\nバブバブの勢いがよかったです😁\n\n曲作れない私にはまだ使えこなせませんでした😭",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "nc169a1a72e61f",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うひょ〜❣️\n大盤振る舞いすぎるじゃないか〜💫\n\n派生画像が大量に必要なコレは\nChatGPTのProとは相性よさそうだ〜\n\nLoRA学習用に50枚のキャラ参照…",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        },
+        {
+          "key": "ncaa28c351b2d9",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303256930/profile_deffca164a6216d6adf47565c5131eab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん✨✨\nかっこよすぎ🤣✨\n\nありがとうございます🤩❤️",
+          "article_title": "【MV生成Skill付き】参考画像1枚と曲だけ。Codexに丸投げでMVを作ってみた",
+          "note_key": "n8d414b8d17a1"
+        }
+      ]
     }
   ]
 }

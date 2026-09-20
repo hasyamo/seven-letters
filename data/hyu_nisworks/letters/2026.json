@@ -2122,6 +2122,105 @@
           "note_key": "n102a1915357b"
         }
       ]
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 249,
+        "likes_prev": 223,
+        "followers_start": 669,
+        "followers_end": 697,
+        "new_fans": 50,
+        "comments_total": 16,
+        "posts_count": 7,
+        "consecutive_days": 2,
+        "post_times": [
+          "07:49",
+          "23:09",
+          "21:06",
+          "14:31",
+          "06:52",
+          "11:54",
+          "09:04"
+        ],
+        "top_article": {
+          "title": "非エンジニアのための「AI作業環境」入門：ChatGPTからVS Code、その先まで",
+          "key": "n0e86224eb9b7",
+          "likes": 46,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "菅谷健太郎",
+          "urlname": "light_coyote380",
+          "follower_count": 8376
+        },
+        "commenters_count": 7
+      },
+      "comments": [
+        {
+          "key": "nc7ecfa0339e88",
+          "user_name": "こたや｜KOTAYA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うーむ、なんだか考えさせられる記事でしたね🤔とても面白かったです。\n\n売るためには実績アピールも必要だけど、それが誰かを苦しませているかもしれない。\n\nまぁ、ど…",
+          "article_title": "「売れない・読まれない・嫌なこと」noteをやめたくなる３つの理由とその対策",
+          "note_key": "n57726e28d4be"
+        },
+        {
+          "key": "nc2c39a8e84f5b",
+          "user_name": "⁠レアカントリークリエイト|「究極のひろしまおでん」で新しい里山設計するフードプロダクトクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nいつもスキ❤️ありがとうございます😊\n\n…売れないことも、読まれないことも、嫌なことがあるのも、noteを続けていれば誰にでも起こり得ます。大切なの…",
+          "article_title": "「売れない・読まれない・嫌なこと」noteをやめたくなる３つの理由とその対策",
+          "note_key": "n57726e28d4be"
+        },
+        {
+          "key": "nc6a1d902dc433",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん💜\n半年おめでとうございます🥰\nいい記事ですね。\n\n売れない、読まれない、嫌な気分になる、これすべてやめたくなる原因ですよね。\n\nそして全部やり方はあ…",
+          "article_title": "「売れない・読まれない・嫌なこと」noteをやめたくなる３つの理由とその対策",
+          "note_key": "n57726e28d4be"
+        },
+        {
+          "key": "nc31a584ab5a56",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nついに卒業です😭\n分析記事ありがとうございます✨\n\nそうでしたね。\n共同マガジン一番乗り覚えてますよ。\n今ではたくさんの方が参加されて先に卒業された…",
+          "article_title": "カナミン",
+          "note_key": "nf39f7894a5f7"
+        },
+        {
+          "key": "nc2eb7e69d22b8",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは～🌻✨\n\nカナミンだ～～～😆💕\n1,000名、めでたいですねー！🥳㊗️🎉✨\n\nそしてなんと、1番最初からカナミンいたんですね😳✨\nさすがカ…",
+          "article_title": "カナミン",
+          "note_key": "nf39f7894a5f7"
+        },
+        {
+          "key": "ncdfbfefb286bd",
+          "user_name": "わかモン＠かくさないネカマ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313124417/profile_70d2d6926cfcd20ae2266daf12451379.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん！！こんばんわ✨️🌙\nネロ王子の1000人達成、本当に早かったですねーーー！！🤣🌙\n850人くらいで参加して、「次の卒業もらいます🌙」から本当に名誉脱…",
+          "article_title": "ネロ🌙",
+          "note_key": "n0386b5340b5a"
+        },
+        {
+          "key": "nc796bb23f8d4b",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000人通過お祝いですね。\nひゅーさん、これは素敵です。\n\nそうかあ、こんな共同マガジンがあるんですね。\n1000人いかなかった弱い時にわたしも会いたかったで…",
+          "article_title": "ネロ🌙",
+          "note_key": "n0386b5340b5a"
+        }
+      ]
     }
   ]
 }

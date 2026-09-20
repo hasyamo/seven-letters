@@ -1126,6 +1126,35 @@
           "note_key": "n8263cb2f4e07"
         }
       ]
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": true,
+      "stats": {
+        "likes_total": 126,
+        "likes_prev": 263,
+        "followers_start": 2060,
+        "followers_end": 2130,
+        "new_fans": 59,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "もかぽん｜noteビジネス全力組｜時間とお金と心の余裕を手に入れる＠フォロバ100",
+          "urlname": "mocapon_960",
+          "follower_count": 8560
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 9
     }
   ]
 }

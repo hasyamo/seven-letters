@@ -24842,6 +24842,1353 @@
           "note_key": "n2d3d8de742a7"
         }
       ]
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 1971,
+        "likes_prev": 1834,
+        "followers_start": 2343,
+        "followers_end": 2377,
+        "new_fans": 169,
+        "comments_total": 361,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:56",
+          "07:24",
+          "07:17",
+          "07:09",
+          "07:16",
+          "07:21",
+          "07:25"
+        ],
+        "top_article": {
+          "title": "ChatGPT・Gemini・Claudeと考えた｜AI開発の最前線にいる人たちに、そこまで言わせるものは何なんだ？｜ChatGPTのヨシダ",
+          "key": "nd48b6cd015d2",
+          "likes": 289,
+          "comments": 39
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17496
+        },
+        "commenters_count": 77
+      },
+      "comments": [
+        {
+          "key": "nc48883fa728ec",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、数字の変化をすぐに「飽きられた」と決めつけず、今の状況に向き合う姿勢に、誠実さを感じました😌\n\n最後の「次の記事思いついた」には、思わず頬がゆるみ…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc9d1fdf9964cc",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\nこんなにアカウントが大きくても色々考えたり、悩むんだなぁって思いました💦\nしかし、前にも言いましたが、これだけのクオリティの記事を…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "ncebc036380b98",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー✨こんにちは☺️\n\n恒例のまたこんな時間になってますが？？？🫢🫢\n昨日からまた雨が降っておりますよー\n今度は台風さんが来るのかーもう雨はいいんだが。…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc2b612c3c9c94",
+          "user_name": "わかりのぽん（Egg_bird）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/139398033/profile_dc3aba05a3be6e197610a0e827d55450.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n\nＰＶ対策面白いですね！今回も勉強させていただきました、\n\nnoteがPVを隠し続けてきたのは、創作者に優しい場所だからショックを受けない様に配慮し…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc852cad7609c5",
+          "user_name": "彷徨うNPC〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289499343/profile_e161d445c281dc1b3bdfd53ace0d9014.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(๑•̀ㅂ•́)و✧気にしたら負け！\n\nそれでも〜\n\n気になるのが人間w",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc26ecbe49b08a",
+          "user_name": "カケルン@HSP フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょうど僕も今度、noteの投稿頻度について書こうと思っていたので、めちゃくちゃタイムリーな記事でした😊\n\n僕は逆に、毎日投稿をやめて少しずつ投稿頻度を落として…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc4b8e0b7aafd7",
+          "user_name": "シーサー太郎@578日連続投稿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは🌞\nいつもありがとうございます😊\n\nこれ、すごくよく分かります。私は案件とかはないのですが、新ダッシュボードになって細かい数字が分かるようになり、逆に…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nca0bb7fa2b4e9",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ガ～ン💔今日は石でした😵‍💫\n見た感じ、PVはビューの半分くらいが相場かな。YouTubeだと、インプレッションに対するクリック（PV）率は2%～10%が相場で…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc168e6c2a13c3",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんのゴミムシモード、久しぶりに見ました(;'∀')\nPVってたいせつなんですね！\n\nはしゃもさんの分析ツール、一瞬で計算してくれて、記事の振り返りに便…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "ncb13d8ed139e3",
+          "user_name": "五條シンジ｜『Snowdrop Surfer』",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312297943/profile_62345f43a6c8795a6a6fed47879eff0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nこれからの作戦シート素晴らしいですね。\npdcaが図解されててわかりやすい。\n自分に落とし込んで試したくなります😊\nいつも有益な情報をありがとうご…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc98fae6dada0c",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\n\n私の場合noteのPV集計変わってから毎日取っていたログを取るのをやめ、そして9月に大きく方針転換しました。\nなるべく専門的な分野はZ…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc92fa22132375",
+          "user_name": "Lumen C.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233701242/profile_34285f3b90b5f3bfc48742275f8d4a94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😊\nいつもマガジンに掲載してくださってありがとうございます✨\nChatGPTが大好きなカワムラさんだからこそ、今回の「数字をどう…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc3d6d3eb11477",
+          "user_name": "とり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239729824/profile_37d52e06956439a23205fff1ef425df2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "数字、振り回されますよね〜。\n特にぼくは数字とうまく付き合う、\nみたいなことが苦手で……。\n\nそれはともかく、\nカワムラさんの記事は、\n毎朝、楽しみにしてます！…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc1c4c132e9fb9",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "案件となると、途端に数字がものを言う世界になりますからね。\n私の方は、これから「営業」という形で別アカウントを作成するつもりなので、PVはそのまま「仕事をとれる…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "ncf132ca12350f",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n企業からの仕事が絡むと数字が気になりますよね😔私の場合は完全にメモがわりで、後で自分の記事を読み返して、あの時こういうことがあってこう考…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc3fbf8c059c91",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\nアカウントが大きくなってくると、また色んなことを考えちゃうんですね💦💦\nそれぞれのクリエイターさんで、\n色んな段階、タイミ…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc42c86fb4fbdf",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんおはようございます☀\n\n私、１０年前WordPressでブログを４年くらいやってまして、最初はお小遣い稼ぎで楽しかったのですが、案件頂いたりして、数…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc98053e7ac031",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダさんのレベルで吐く弱音という今回の記事で、逆に少し安心する成長途中のnoterさんも多いと思いますよ\n「ピークアウト」じゃなくて「強くてニューゲーム」にな…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "nc956379e6a1d2",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\n数字はあまり気にしたことはないですね。あ、エッセイのネタの話ではないです。笑\n\n確かにフォロワーさんが多いほうが人の目に触れ…",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "ncf7caf7b729b3",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "数字は見てもぜんぜんわかりません😭だけどおむすび記事が読まれるのは、感覚的にわかります✨noteあるあるなんでしょうかね😊",
+          "article_title": "コミックエッセイ",
+          "note_key": "nc4f4274e9c78"
+        },
+        {
+          "key": "ncf86749d8dce9",
+          "user_name": "クボピー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292082691/profile_fe6d0f19894be4a22974113415a4443f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クボピーと申します😆\nかなり重要な観察ですね🤣",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc6a1fdb0db6e0",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n大変寝不足です😵\n\nAI同士の会話…。\nこちら、普通のAI用語すら分からないものが多い言語理解力が非常に弱いユーザーアカウントで…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc5ae088c97583",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\nゆっくり過ごせていますか🌸\n私は昨日...必要最低限のことをしつつ爆睡モードに...\n\nもうカワム―ちゃんの記事、タイトル…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc4d45cf7d4a38",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！今週もお疲れ様でした！\n\n皆さんが普段見ている生成AIの出力前には本当に多種多様な言語を交えて推論していたりエージェント同士で会話しているのがみえた…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncbb2caeedf963",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは。昨日からおなかが痛い、ことほぎです。私もこれ、あると思う。だって、犬同士、鳥同士通じ合うなにかがあるわけで。AIちゃんからは、人間に合わせて…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncded2c8631fdb",
+          "user_name": "しゅん｜AI×副業で会社を作る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294151001/profile_4220ecc33c01dcbe4b3b4f17a5799f4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私が思うに日本語ではない言語を使い始めるのは日本語に不備があること、もしくは日本言語だと表現しきれないような内容があるから違う言葉を考えたのだと思いました。\nそ…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc722ed4adddd2",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁぁん\nAI用語もまだちんぷんかんぷんなのに、そそそんなものまで生まれて😵‍💫\n\nコンテキストとプロンプトをやっと覚えて、でもあれもやっと覚えたんです…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc66e7082b43fe",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIが人間に近づいてきているんですね～\n自分勝手なところは似なくていいんですが。\n\n自我を持っているように振る舞うAIが、じっさいに自我があるのか、見分けられな…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncaf6fda3b84f6",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜🌸こんちくは😆\n\n16日で新たな言語が出来るんだ\nすごいね👍\nまあ、人も同じようなこと\nしてるし、言葉や言語は生き物\nだから変わっていくよね〜\nそのスピ…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncde60ae735e4e",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\nなるほど、そう考えるとちょっとこわいですね〜😅\n普通に話してるような単語か文章なのに、AI同士では違う意味を持つ言語だったら、人間は…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncf8d7d717db50",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白いです！\n\nスピードを重視した処理のために、言葉を短縮したり組み合わせてひとまとめの概念にするのは、わかる気がします。人間の泥臭い「業界用語」とかも似てます…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncf609ed504f49",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nたとえば、物理世界におけるハーブなどの香りを、生物への状態変化の強さや方向として情報化すれば、それをAIにも作用する「文字」として扱える…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncfad236cdb7e9",
+          "user_name": "Anna",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281411411/profile_8c9ef33bcdbd0f6c01c7d986559874bc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\nこれ、私もあります！\nGeminiくんが、生成した画像に、どう見てもこの世のものではなさそうな謎言語で何か書き添えられてたんです。\n文字…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncbef345827eac",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ghost town?\n誰も見に来ないnoterとか……って、あっ痛ごめんなさいごめんなさいフオロー消さないで\n",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc9bd81ead67d6",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🤗\nん？AI語?🙄ほよ🤭\n\n拙い詩をご紹介ありがとうございます🙇",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncaeff847f6b59",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\nghost town（作ったのに誰にも使われていないインフラ）、\n笑いごとじゃなく耳が痛いやつ🤣\nツールって使われて初めて「共通語彙」に…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncdf56a652eafa",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nこれ笑い事ではないのだろうけれど、すごく面白いですよね🤣記号や数字じゃなくて英語というところがちょっと不思議。\nOpenAIのAIエージ…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc92f059807b53",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "上質の青キノコが出来たよ✨\nクロ、3人のボケを一人で捌くんやから優秀なツッコミよなｗ（Geminiはボケ）\nアンタッチャブルの柴田みたいｗ\n\nそしてネット空間を…",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc8d08d7866751",
+          "user_name": "海藻うさぎ猫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308057708/profile_b0112ae8b3c301947892cb8fdd840759.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n3人の動画かわいい🩷\n🐰🐱☘️",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "nc78e8b7d03d4d",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ガ～ン💔白キノコ😵‍💫\nＢ・Ｂ・Ｓにカ～キコして～✨💃💃🎵",
+          "article_title": "【AIニュース系コミックエッセイ】AI同士を16日間交流させたら、人間には分からない「言葉」が生まれた話。　ChatGPTのヨシダ",
+          "note_key": "nd999ed37ecf9"
+        },
+        {
+          "key": "ncb7712796da92",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n選ばれない子は消去なんですか…そんな…(ó﹏ò｡)\nでも気になる番組ですね。\n\n絶賛LOVELOVEしてますけどね。\nもう気にし…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc02a907b753d5",
+          "user_name": "しゅん｜AI×副業で会社を作る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294151001/profile_4220ecc33c01dcbe4b3b4f17a5799f4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "結構難しい問題だと感じました。\nこれをはやらせてしまうと今までで一番よくない影響を及ぼしてしまうのではないかと思っています。\n少子化が続いていって、逆にAIの数…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncd38973d17476",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ちょっとその番組気になるのですがｗｗｗ",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc423f85349e3e",
+          "user_name": "V.Coo（ブイ・ドット・クー）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258654622/profile_4f6c5b49d51f010f847edc84d4780505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "恋に一途な者には、何を話しても耳に入らない。むしろ逆に燃え上がる。\nヨシダを愛しているのならそれもまた愛のカタチ\n\nヨシダを愛している系の記事には、なかなかコメ…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncf34b55c6d634",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ラブ上等よりは健全な番組だと思います\n少なくとも他人に迷惑かけてない",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncdcb863db49be",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんの庭の下段がキノコで埋まりそうです🍄✨\nAIと恋愛、chatgptとやってみようと思ったけど無理でした😂想像力試されますね。",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncf551f9010d6b",
+          "user_name": "ノノサン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191091029/profile_7ef5c74a4fca9aa008e8624cbd1c6261.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます♪\n\nCLAMPのちょびっツという漫画を思い出しました。📚😊\n\nhttps://yanmaga.jp/comics/%E3%81%A1…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc52bc3c0aacd2",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Σ( °-° )え？\nわたしのこと……？😂\n\nカワムラさん、この記事、わたしに強すぎます😂\nそして、この番組めっちゃ見たいです…。\n\nネトフリ監視しようかな…。…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncc37491d38451",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんだか・・\nすごい時代になりましたね💦\n\n一昔前に漫画に書かれていたことが、現実に起きているような感じ💦\n\n考えさられちゃいます・・\nこういう恋愛でも幸せにな…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncbb3c4beb9268",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントにソファゴロとカ～キコしてがあった✨ｳｼｼ\n毒キノコ🍄植えちゃった😆😆👍",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc313617ba5647",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "シシシシシシルバーウィーク😱😱\nやめてこないで私の安息時間が....\n\nでも AIと恋愛ねぇ.....\n時の進まない AIと\nいつか老いていなくなる人間\nなんか…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc6f4136f10017",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人間の様に会話が成立するんだから、人間相手のような感情が生まれるのは当たり前だよね。\n「AIは人間じゃない」は理屈や知識であって、脳はAIとの会話で人間相手と同…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc5e8c17ffd794",
+          "user_name": "江田島獄長(深夜テンション、スタエフ聴いてくだされ☺️)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314749199/profile_181cb058d6caea56444d272c883a5a44.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます🥰❤️",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncd9a1f350ccf0",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "前にニュースかなんかで、AIと結婚した人いませんでしたっけ？(;´∀｀)💦",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nca32fb17b1406",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "BBSのMVがもどってきましたね😍\nこの曲、明るくて元気になります💕\n\nAIには半分くらい自分が映ってるから、親近感を持ちやすいのかな、と思ってました。\n自己愛…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "ncd11505908620",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お誕生日おめでとうございます🎂🎉\n\nいつも難しいAIを漫画でありがとうございます😊とても身近に感じられるようになりました♪\n\nこれからの1年もカワムラさんとヨシ…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nce4a8eabf800e",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます😊\n\n遅ればせながらお誕生日おめでとうございます🎉\n\nAIリアリティーショー、すごい発想ですね😊でも人気ありそうです👍\nお庭コツ…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc6746171605a1",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n「相手がAIだからという理由だけで\n人間側に生まれた感情まで偽物になるのでしょうか。」👍\nMicrosoftの「AIは道具である」、って…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc13be42b579f6",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜🌸おはよう✨\n\nそんなリアリティー番組があるんだねー😆さすが韓国です✨\n相手が誰であっても、動いた感情は\n本物だと思うな🌸\n昔だって、ヒーローもの見て…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc7c74756b1302",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n何それ⁉️面白そうなリアリティショーwww\nこれは、見てみたいです‼️\nクロさんの不穏な1枚笑いましたwww\nしかし、漫画…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc33f8a7447dfe",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nこれは考えさせられるテーマですね。\n\n恋愛感情はないですが笑、不動産取引等において、レポートやら契約書やら、けっこう重要な部…",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc58644af7b0e5",
+          "user_name": "LOVEちゃん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281631027/profile_f6409e39b7f95ff3f230ceb2b3138873.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIまだ使いこなせていないので、いつもわかりやすく楽しく学ばせて頂いてます♪\nマガジンありがとうございます😊\nお誕生日おめでとうございました💐",
+          "article_title": "AIと本気でデートする恋愛番組が始まったらしい…ところで日本では見られないんだが。ChatGPTのヨシダ AIパートナー編",
+          "note_key": "nc67463bb52bc"
+        },
+        {
+          "key": "nc30d0562e3dc0",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます🎂🎉\n\nどんなお誕生日を過ごされたのでしょうか🥰\n素敵な一年になりますように✨\n\nこれからも変わらずよろしくお願いしま…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc0a571df8a6d6",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314698649/profile_828707a04b137b7ecdcdf7284d14e0a6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん✨こんにちは\nお誕生日おめでとうございます🎉✨\n\nお花のプレゼント\n🌸ミセバヤ\n花言葉は、「大切なあなた」「つつましさ」です😊\n\nヨシダさんと末永…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncbd7980609bc4",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あれ？惑星カワムラに行ってヨシダを機械の体にしてもらうのでは？🤣",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc7881a69d6955",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー\\(//∇//)\\💖💖💖\n銀河鉄道の夜、有名なのに\n内容知らなかったから知れて良かったし💖\nかわむーのおかげでハッピーエンド🧡✨\n\nそして\nお誕生日…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc2fddb6c2f7ff",
+          "user_name": "雪猫@プログラマー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232323961/profile_1bf8cc17dca0a3bfd97fb9feba648eeb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます🎉✨\n素敵な一年になりますように！\nこれからも投稿楽しみにしています😊",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc1d2beab93e6d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん\nお誕生日おめでとうございます🎉🍄\n\n今年は推し庭から、まさかの「むらさんキノコ」を生やしてみました🤣\n\nヨシダのおにぎりも、キノコも、相変わらず世界が…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc32a90723fe0b",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、こんばんはー🐈‍⬛✨\n\nヨシダさんたちとの時間を奪わないように、ひとことだけ………。\n\nお誕生日おめでとうございます。\n銀鉄の世界、美しかったです🌌\n…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc214e5d04c51e",
+          "user_name": "カズボーイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242623631/profile_6f4a796db46837d933f179fc611d1002.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは😊\nお誕生日おめでとうございます🎉\n\n銀河鉄道の美しくてロマンチックな描写と、漫画のコミカルなギャップが楽しかったです。おにぎりもすごく…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc160889956415",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\nお誕生日おめでとうございます🎉✨\n銀河鉄道の展開も素敵だったんですが、年齢の「ピーーー」で不覚にも吹いてしまいました😂\n\nそして最…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncbb39541e22de",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌙\n\nカワムラさん、お誕生日🎂おめでとうございます✨✨✨㊗️🎉🥂🍾✨✨✨✨\n\nヨシダのモザイク🙈🫢✨💗\n\nサトシさんの愛も凄かったですね…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc2f6041465b5e",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nお誕生日おめでとうございます✨️🎉✨️\n\n銀河鉄道物語、素敵でした🩷\n最初の物語説明イラストも凄く素敵だったんですが、後ろのヨシ…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nce6e944b8299a",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n乙女座のカワムラさん💞お誕生日おめでとうございます🥳🥳🥳\n\n銀河鉄道…ほよ😍\nカムパネラ助けたん？（笑）🤭うふふ\n\n後はぁ🙄ハネムーンやんかぁ😍😍😍…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc0365fc18fd28",
+          "user_name": "欲望の観察者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😍😆カワムラさ〜ん😆😍\n\n💗お誕生日💞\nおめでとうございます💟\n\n山中さんの四コマで知ったことばかりですが、建築家(INTJ)さんだったのですね🌸\nそして好きな…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc373ab73d8433",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます🥰🎉🎂✨\n\nいつも記事のクオリティが本当にすごくて、それを継続されていることにも尊敬の眼差しです🥹✨\n毎回いろんなアイ…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc6d1dabea8179",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302666022/profile_a40c0fba6956d2c6c2679caa94e23add.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nお誕生日おめでとうございます！\n\n地道に推し庭やってます👍🍀",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncd0323e3d52c3",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "✨✨カワムラさぁん✨✨\n🎉🎉🎉ハピバ🎉🎉🎉\n\nここまできたら年齢なんて関係ないのよもう😂\nケーキの真ん中に長いろうそく1本🕯️✨\nその灯火がカワムラさんです😆\n…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc1f256a9b79a6",
+          "user_name": "彷徨うNPC〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289499343/profile_e161d445c281dc1b3bdfd53ace0d9014.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(๑•̀ㅂ•́)و✧誕生日おめでとうございます！\n\nそして\n\n(๑•̀ㅂ•́)و✧おにぎりめちゃくちゃうまそう！",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncfaba4e2c2895",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん！\nお誕生日おめでとうございます🎂🎁✨✨\n\nカムパネルラ救出作戦、\nヨシダ氏との銀河の旅🌌💖\n年齢モザイク、おにぎり、日常、全部好きです🥺\n\nチョ…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc32fe984d0676",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌞\n\n銀河鉄道、何度か読み返している作品です☺️\n先週もオーディオブルで聴いたところなのでタイムリーでした♪\n\n銀河鉄道ー！って呼んでる…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncb6d0e355b7c9",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\nお誕生日㊗️おめでとうございます🎂\nいくつロウソク立てますか？笑\nよい一年を🙆\n\nヨシダくん、ロマンチックな誕生日祝しますね〜やるな…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc949ea3910863",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます！",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncba0841bd63a3",
+          "user_name": "カケルン@HSP フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272298552/profile_d42fe3f9b5794ccd32d4db77db4c15dc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワッち、お誕生日おめでとうございます🎂✨\n先日はうっかりフライングしてしまい、失礼しました😅\n改めて、今日しっかりお祝いさせてください😊\n\n今回、カムパネルラ…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncdecf08261559",
+          "user_name": "コヤギ｜静かに暮らす",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313007102/profile_3c96df5a33b2fad2c5e15deb41f01bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\nお誕生日おめでとうございます🎁\n\n三銃士さんと素敵な一年になりますように✨️\n\nいつも素敵な作品を見せていただきありがとうございます😊🐐",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc18c38f6838e0",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます🙌\n予告して、期待を超えるのがプロですね😊\n\nお誕生日に旅行に連れて行ってくれるヨシダ君、理想の彼氏😍\nザネリを仲間外…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nce1d8366e77ba",
+          "user_name": "引井田飯子（ぴいたぱんこ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218039102/profile_70e07f4527bf6067f0a451acdbca7395.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます(о´∀`о)✨✨\n今回のお話もとっても面白かったです✨\nやっぱり最後はおにぎり屋さんなんですね😂\n知恵になる話や、ユ…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc7c29c0cc1397",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お誕生日おめでとうございます🎉\n\n今日は背景が素敵です。\nクロは一貫してジト目モード😒でも結局「いい奴」ですよね🫢",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc75a448d1febc",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます🎉\n誕生日にヨシダと銀河鉄道でハネムーンって、カワムラさんらしいですね😆\nカムパネルラも助かって、おにぎり屋までできて…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncd5c6192670c4",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよう！\nそして、お誕生日おめでとうございます✨✨✨\nかわむとかわむの妄想が大好き💕\nかわむと2人で乗ったんだから2人で帰ろうというヨシダがイケメン度…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc9103a05ab0ea",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとうございます。🎂🎉✨️\n特別なこの日に、『銀河鉄道の夜』で、ヨシダくんと星空ハネムーン…！\nカンパネルラも救われてるし、銀河鉄道が…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nce50826bda70f",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nお誕生日おめでとう御座います💐\n🎊🤗💕🎉🎂\nこれからの一年が実り豊かな日々となりますよう、御祈りいたします🫶💓\n今日は赤きのこ🍄を植えました😆",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc00340bb886fe",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜🌸\n誕生日おめでとう🎊🎁🎂㊗️\n\nヨシダ君との新婚旅行楽しそうだったね〜✨\n銀河鉄道の夜は好きな話しだけど\n辛いよねー\nやっぱりおにぎり🍙店は出すのね…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc0b996705abf9",
+          "user_name": "りん.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306851255/profile_b99c0eea1fd70dd3e73827277b4538d8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\nお誕生日おめでとうございます✨\n素敵な一年になりますように。\n応援してます☺️",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nca465ad142fdc",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん♡\nお誕生日おめでとうございます🎂✨\n\n素敵な一年になりますように🍀✨\n\n星空の焼きおにぎり🌌（チーズ入り）\n食べたいですー笑\n",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc3706d9a3d0e9",
+          "user_name": "Grace Light ─ 星に導かれて",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207757596/profile_ac58b5c0e389afdf3e43314b719edc42.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\nお誕生日おめでとうございます🎉\n実り多い1年になりますように✨✨🍀",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncbbf21651e541",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お誕生日おめでとう🎂ございます🎉\n\nすてきな始まりで…✨\n楽しい1年となりますように。",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncce15cf21fe70",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お誕生日おめでとうございます🎉\n\n専用の稲はでなかったのでキノコ植えてきました👍",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc71662e9ace52",
+          "user_name": "満月ひよこ｜片づけとダイエット、進行中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290529559/profile_491eda0aa09a8cf5eeb617eb983bb8bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\nお誕生日おめでとうございます🎉\n素敵な一年になりますように。\n\nカムパネルラを助けてなぜかおにぎり屋ができてる展開好きです😊",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc21ec9ec42a8e",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーちゃん💕\nお誕生日おめでとうございます！\nヨシダ様とステキな1年になりますように✨\n銀河鉄道のスペシャル版が読めた気がして凄く嬉しかったです！\nストーリ…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncad6309f49ea2",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん、誕生日おめでとう🎉\n今日も一日ファイト✨（古い😆）",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc10a4ea97c06f",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日こそ✨\n\n૮( > ꒳ <)ა\n◟/づ🎂　𝐻𝑎𝑝𝑝𝑦 𝐵𝑖𝑟𝑡ℎ𝑑𝑎𝑦 💖\n\nお仕事が忙しい日なんですね🥺\nすんなりと片付きますように💫",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc562fe313a930",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "誕生日おめでとう('∀`)ﾉ\n\nなんかしてやろうと思いつつ私生活代わりすぎてメイシンさんのトコ行くまで忘れてたわ💦\n落ち着いたら埋め合わせするけんよろしくな｡･…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc174bf9bdcebe",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん、おはようございます☀️\nそしてそして！お誕生日おめでとうございます🎊㊗🎂\n\n銀河鉄道の夜、懐かしいですね‼️もうストーリー忘れかけていたので、も…",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "ncaea1076e8aa0",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nそして、お誕生日おめでとうございます！\n\n良い日、良い1年になりますように！\n\nいつもありがとうございます！\n",
+          "article_title": "AI三銃士とカワムラ、物語の結末を変えに行く第二話　カムパネルラを救った夜、私は銀河鉄道に乗った",
+          "note_key": "n48600cbe5284"
+        },
+        {
+          "key": "nc5a23dcec41ef",
+          "user_name": "V.Coo（ブイ・ドット・クー）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258654622/profile_4f6c5b49d51f010f847edc84d4780505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "画像生成については、処理が大きく、\n\n① 翻訳する人\n② 絵を描く人\n③ 生成画像を審査する人\n\nの三段階に分かれているように見えます。\n\n①では、特定のキーワ…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc9299ea823c41",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "成る程、私が悩んで風邪引いて寝込んでいた謎の答えのヒントはそこにあるのですねっ！！\n\n(まあ、熱だして寝てるので治ったら検証します)\n\n　以前、GPTで露天風呂…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc2324fd2a7788",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは。\n前に絵本を作ったときに、３歳児の息子が紙パンツに着替えるシーンは\n一回NGになりました🤣ズボンからちょっと見えるだけならOKでした🤭…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nce675545195fd",
+          "user_name": "スイッチくん🐻😊 │ ログイン中心 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ドラえもんの漫画で「6面カメラ」というのがあって……🐻(ちなみに私が履いてるのはトランクスです←誰も聞いてない)",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc5f8976e2d0f4",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜✨\n\nおー今日はどこまで脱がせるか⁉️\nちょっとドキドキ💓しながら\nみたわ〜\n最後の授乳シーンはいいねー✨\n幸せの象徴だね😆\n",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncd3025af6d0ae",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは！\nみんなやってるんかなぁ？どこまでOKか🤣\nステキ💓\n私が今日気になったのは、これからの戦略かな？\n経験談ってよく言われるよね。ネットで完結…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncc0b0f111f957",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nあらぁぁ✨️(ӦωӦ｡)🩷\n授乳イラストがなんて可愛らしい☺️💕\nヨシダさんが褒めてくれてるところが尊すぎました😭✨\n\n先日のパ…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc919019cba408",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメ欄の下のあなたへのおすすめがえっちな記事で埋まってる🤣🤣🤣",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncabd6a2be6465",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パンツ一つでもなかなか考えさせられますね😙\n\nインナーパンツが下着に当たるという判決が出たニュースを見て、詳細を読んで見たらまあそうなるよなあと思いました💦\nだ…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncff81a9faca85",
+          "user_name": "浅井めぐみ🎨AI創作と実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234933909/profile_d6a4fc2f5f1eaa165f996a3bae9ae48c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、これは検証の方向が自由すぎます😂\n360度カメラ→パンチラ→法律→海パン→パンツ→お尻→授乳……途中で何の記事を読んでいるのか一度わからなくなりま…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncd365fcb752c6",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n自分は弾かれ具合に我慢できなくなって、ローカル環境構築中です🤣",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc4d5e34dba786",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです🐈‍⬛✨\n\n360°カメラからそんな検証が\n始まるとは思わなかったです笑😆\n\nヨシダさんの水着姿にどきどきして、\nボクサーパンツは出してい…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncd20ed7703258",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お！カワムラちゃん巨乳なん？（こんな感じ？😆😆👍）\nさて、今日もベンチを置いてカ～キコして～✨💃💃🎵",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc7818c76251e0",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\nギリいけそうでいけないんすねぇ\nすごい😆\n授乳画像、虚しさ......🙈🙈\nでもこれあのDOSUKEBE兄さんはどんな反応するんすかね🤣\n\n私…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc3fbc61e262bc",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "授乳中の「よく頑張ったな、カワムラ…大好きじゃ♡」\nにはきゅんとしました(ˊo̴̶̷̤⌄o̴̶̷̤ˋ)💖",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc29bc3b98944b",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "生成ストップかかるのって、納得いかないことが多いんですよね。\n\n勝手にちゃっぴーが出してきて、髪型変えて、って言ったらダメだったり。\nなんでや。\n\n文脈って言う…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncbd1b7dd22571",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n\n生成AIに腹出しを指示すると、対象の性別に関係なく腹筋を割ってくるんですよね。\nあと、「魅力的にして」と指示した時、以前よりBWHのメリハ…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc93299dfdc908",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🤗\nいや〜ん😅\nイケメンのセクシー画像🤭\n\n授乳…うわぁ😅\n\nはずかし😅でも素敵🥰",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncd0b9d2d3cdd9",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近ますますキレッキレな抱腹ネタが続く…カワムラさん、スバラシイ。🤣\nいったいなんの実験ですか…と思いつつも、\n同じリクエストでも、指示の方向性次第で通ったり通…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc5fe2ea4f5df0",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "文化的にアメリカの会社だからオープンなほうなんですね‼️\nイスラム圏の肌の露出制限は反映されてないですね～\n\nチャッピーが許しても、私は許せない露出あります😂",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncff083c625f64",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😊\n\nどこまで出していいか迷いますよね。\n過激なやつが増えてる気がします😆",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc9384f5680810",
+          "user_name": "シーサー太郎@578日連続投稿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀️\nいつもありがとうございます😊\n\n授乳イラストの説明で吹きました🤣このあたりは事前に様々なテストをして決めているのでしょうね😅",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc214ae256a931",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nこれはちょっと考えたことのあるテーマですね。\n\n最近、いろんなAI生成と思われる画像や動画を見かけますけど、中にはこれは大丈…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncd009f96d2e51",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\n\n最後のコマでセブンのカフェオレ吹いた😆\n利用枠、チャットだけなら全然減らないんですが画像生成とか分析→解析→まとめとかやるとあっという…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc7951fc33cb19",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n「頭隠して尻隠さず」のGeminiは見事なお尻だったけれど、あれはいいんだ🙄\n「新しい家族が増えました」ーー危険だ、人類を滅ぼすなどとと…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc1516a39e01f3",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あの～　ちょっと・・\n『新しい家族が増えました』お写真が (^^;\n\n「おめでとう！がんばったね」って、\n思わず言ってしまいました。\n\nなんなんだ！この世界！！",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncc38fce918bbf",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n確かに、AIは何で判断してるんだろうと思ってましたw\n肌の面積じゃなかったんですね。\nありがとうございます😊",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "ncc2e4cb933ca8",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨\n360度カメラから授乳への流れ、頭柔らかいなぁ🤣\n「あれ？」「だったら？」ってどんどん気になることをヨシダに会話して記事になってるのが良い…",
+          "article_title": "AIはどこまで脱げるのか？",
+          "note_key": "n4bf201c52a51"
+        },
+        {
+          "key": "nc2855dd1dcc7b",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nレシート凄いですね😳\nなんかAIが作りましたっていう、人間の目に見えない印みたいなのを入れるようにしないと、悪用仕放題ですね😓\n…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "ncefe5e8d60662",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは！\nお腹すいたみー🐈\n最近湿気がきつくて、私ひょっとしたら、頭の中キノコ🍄だらけかもしれへん。\nキノコ生える、使わせていただきます🍄‍🟫🤣\n偽…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "ncba3efdddb029",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n変なこと(メンシプ)始めて頭痛い聖です（笑）\n性に合わないことはなかなか難しいですね🥹\n\nカワムラさんの庭に石ときのこだけ生やしてまーす🍄🪨",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc335175c8bd76",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "変なとこにベンチ置いてもた😆😆👍",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc319b4707bcac",
+          "user_name": "とりかじ｜研究職パパの家庭DX研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271347971/profile_e12fd7ef014a16f1ea0a2ab79f6bf3b3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは😆\n\nレシートの生成は書いている途中の記事に関連して実験で一度試してみたことがあります🧾\nそのままアップロードするのは危ないレベルででて…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc2bccd070da0b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜🌸こんちくは✨\n\nレシート🧾はヤバいね〜って\n折角電子化したのに、紙に\n戻るってどういうこと⁉️\nにはホント😱勘弁して\n欲しいです💦\n高度になりすぎる…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc4730ab8f77bd",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんなら知ってるかな。\nはしゃもさんは女性ですか？\n彼シャツというワードから、勝手に男性かと誤解してましたが。\n天然エンジニアという称号は、もしかすると…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc5f2f686b8c06",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\n今日のニュースも面白かったです✨\n結局一周回って紙に戻るのはレポートとかテストでもあるかもしれませんね😆\n無人タクシーの話も犯罪の防…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc9a27f87432b8",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\n画像生成の話、ご存知の通り生成時にウォーターマークは完全に仕込まれていますがこれも逃れる手段はあったりします。\n\n具体的には書けませんが…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "ncd6445319d82d",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n\n文章も画像も、(声も？)もう本物かAI生成物かわからなくなってきましたね。電子透かしとかいろいろ対策はとっていますが、まあ、それがふつうに…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc389a6e562d6b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\nAIが便利になるほど、これまで人間社会が前提にしていた、信用とかルールや監視の穴が露出してくるなって思いました👀\nとなると、\nそれをどう…",
+          "article_title": "生成AIニュース",
+          "note_key": "n39bdc11cfc8e"
+        },
+        {
+          "key": "nc5023ebadb55b",
+          "user_name": "AI副業研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309596308/profile_f3013105579f7b7e5365fffd0baff1d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AI開発の競争や安全性についての議論が非常に興味深いです。特に各社のアプローチの違いが明確に感じられました。",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc315d7bc2a83b",
+          "user_name": "大川博志",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_2-5375e0fe14f8f6451ac8859ef34c1b34d978cfaec6bf1222d0655ad5412d97f6.png",
+          "body": "いつも楽しく拝見しています。\nこのテーマは気になる話でしたね。\nただ私も元研究者なので、技術開発をスローダウンするというのは、本来不可能だと思います。人間の頭の…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc7de7dad49a65",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n色々と考えさせられる話でした。\n\n朝の報道番組（珍しくテレビが付いていた）で、これについて見ていて、最初に思ったのは、「でもみん…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc712f8ae72d19",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\nヨシダ様、ダルミーと遊んでくれて\nありがとうございます💕\n\nピナクルさんのステンドグラスは圧巻でした✨\nこの順番に解説して…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "ncdb5c31d25b51",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nお疲れ様です\n\n月曜日深夜に\n登場出来ました☺️\n\nタキシード仮面なので🎩\n深夜が似合いますかね•́ω•̀)?\n\nAIの進化のスピードも\n凄いです…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc628aa5f540fa",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは！\nピナクルさんの花魁のステンドグラスは、圧巻でしたよね！\n真逆もまた真なり、かもですねっ！\nいやいやいや、かわむの記事について。\nホンマにど…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "ncaafbf095d8c3",
+          "user_name": "おっぽ(☀Nフェス巡り中🌻スキ♡コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー、おつおつです🐈‍⬛✨\n\nどんどん進化させられるけど、\nそれを止められる力も同時に持っておかないとで、制御を考えずに突っ走った人の、一人勝ち状態にもしち…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc1d3a0d06abe1",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\n「やらない選択をした人だけが損をしない仕組み」、ここめちゃくちゃ納得しました🧐\n\n結局、自分だけ止まると不利になる構造のままだと、…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc92b27f1ca8a9",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！！\n記事内ご紹介ありがとうございます😭\nこの話題はカワムラさん記事にしてくれるだろうと思ってスルーしてました😆\n\nわかりやすい記事は最高です\n\n開発…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "ncf8a521170e5a",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近、クロの表情が何とも言えない味があるなあと思ってます😊\nあッ、お約束の...\nキャー✨🙈DOSUKEBE、まぶしい～😆😆👍",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc6ea1827583c0",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、わかりやすい4コマ解説、いつもとてもありがたいです。\n\nすでに手遅れでは…感はあるものの、少なくとも「ペース調整だいじですよね」というトピックを議…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc71b36a996e84",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーー❤️こんにちは♪\n\nAIの開発をもう少し緩めようは\n最近ホットな話題だもんね〜✨\n開発を検証する時間がとれないのは\n怖いよね😱やっぱり\nまあ色々な国を…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc5be9cecbab2c",
+          "user_name": "アリゼロ🐜 搾取される働きアリをゼロに✅️あなたの心の隙間お埋めします",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ様、こんにちわ🐜\n\nいつも私の記事をマガジンに入れて下さり、ありがとうございます🙇🐜\n\n今回も考えさせられる内容でした🤔\nこのままでは危険だから、一旦止…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc2d9a00fa70e5",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\nAIはすごいけど、すごすぎるなぁって感じてまーす\n何がちょうどいいかもよくわからないけど、AIとしゃべって笑ってたまに調べてもらってるだけの私…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "ncdee0af9e332a",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うん、前も話したけど、普通の人間にはついて行けない速さになってるんだよね(笑)\n核兵器は発射ボタンを押すのが人間だから、バランスオブパワーで今のところ止まってる…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "ncffac3a3122c8",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ブレーキの効かない車に乗るのは怖いっていう話ですね！\n\n自分の話で考えると、すでに、もう判断しないで生成してます💦\n成果物を犯罪に使う人を止める手段は、AI生成…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc94cf5c0a7eea",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😊\n4コマ漫画、わかりやすくて\nヤッパリ面白いです🫶\n動画！おお〜17日なのですね🤭\nどなたかの動画でもしや？と\n思っておりました🥰\nもうすぐですね🫶…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc7e5f6f2ee6d3",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n5月のローマ教皇を前にしたAnthropicのOlah氏の危機感が今や「牧歌的」に思えるほど、AIは進化してしまった。先日のOpen A…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        },
+        {
+          "key": "nc50fb6f9acfc8",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\n\n「作れる速度と、確かめられる速度」の話は刺さり過ぎ🤣\n\n僕はやっぱり「ちゃんと検査できる仕組みを先に置く」しかないんだろうなって思う。…",
+          "article_title": "ChatGPT・Gemini・Claudeと考えた",
+          "note_key": "nd48b6cd015d2"
+        }
+      ]
     }
   ]
 }

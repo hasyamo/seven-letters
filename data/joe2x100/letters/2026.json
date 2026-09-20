@@ -967,6 +967,41 @@
           "note_key": "n44c4bcb3a7dc"
         }
       ]
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 190,
+        "likes_prev": 163,
+        "followers_start": 940,
+        "followers_end": 973,
+        "new_fans": 51,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:46"
+        ],
+        "top_article": {
+          "title": "【転生してイラストが上手になる魔法〜SNSという異世界と、好きを貫く力〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.59",
+          "key": "n0ff6b9b96366",
+          "likes": 68,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "とある社会人の自己成長記録note📚",
+          "urlname": "kens_reading1",
+          "follower_count": 19302
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

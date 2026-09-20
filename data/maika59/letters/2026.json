@@ -1671,6 +1671,109 @@
         }
       ],
       "rare_no": 6
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 672,
+        "likes_prev": 474,
+        "followers_start": 6912,
+        "followers_end": 7319,
+        "new_fans": 190,
+        "comments_total": 18,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "08:53",
+          "06:41",
+          "18:57"
+        ],
+        "top_article": {
+          "title": "『noteの物語が,TikTokで光を放つ。』-noteとTikTokの連携が最強！-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n148f3ee4a840",
+          "likes": 157,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17412
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "ncba59bd80d4ce",
+          "user_name": "これから嘱託はじめます。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262572186/profile_6203044f5de5e02c45aa0a5b53325cf2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん…こんにちは🙏\n自分の記事、取り上げて頂いて…\nどうもありがとうございます🙏",
+          "article_title": "『TikTokフォロワー数、200人突破！』--ここから一気に伸びていく！-",
+          "note_key": "na22a631f1b2d"
+        },
+        {
+          "key": "ncbaf8b07f2e64",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ああ・・・何か新境地ですね・・\n\nTikTok世界もそうですが、\n絵そのものがもう違う気がします。\n\n広がりが楽しみですね♬",
+          "article_title": "『TikTokフォロワー数、200人突破！』--ここから一気に伸びていく！-",
+          "note_key": "na22a631f1b2d"
+        },
+        {
+          "key": "nc307269cea93a",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。おはようございます。高評価１番乗り！！\n色使いが綺麗なイラスト、斬新ですね。",
+          "article_title": "『TikTokフォロワー数、200人突破！』--ここから一気に伸びていく！-",
+          "note_key": "na22a631f1b2d"
+        },
+        {
+          "key": "ncc710c189b68f",
+          "user_name": "もちゃ｜脳科学大好きイラストレーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/155816851/profile_b32f0feea3be0dac559fe7106f25c0cd.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただいて恐れ入ります・・・！！\nまいかさんの記事でお勉強させていただいてます✨\nありがとうございます💖",
+          "article_title": "『note7000フォロワー達成までにやった事！3選』-noteとTikTokの連携が最強！-",
+          "note_key": "n4ba5af31cbbd"
+        },
+        {
+          "key": "nce7e558369473",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。\nおお！おめでとう御座います。凄いことです。これからも応援します。頑張ってください。",
+          "article_title": "『note7000フォロワー達成までにやった事！3選』-noteとTikTokの連携が最強！-",
+          "note_key": "n4ba5af31cbbd"
+        },
+        {
+          "key": "nca66068b594ce",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😊\nおお!!・・・おめでとうございます🎉\nさすがですね\n\n勉強させていただきますね!\nありがとうございます♫",
+          "article_title": "『note7000フォロワー達成までにやった事！3選』-noteとTikTokの連携が最強！-",
+          "note_key": "n4ba5af31cbbd"
+        },
+        {
+          "key": "nc6a5eaf1f2098",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\nとても素敵な紹介をしていただき嬉しいです\nありがとうございました😊\n",
+          "article_title": "『noteの物語が,TikTokで光を放つ。』-noteとTikTokの連携が最強！-",
+          "note_key": "n148f3ee4a840"
+        },
+        {
+          "key": "ncb36e12719614",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。なるほど、ティックトックと連携ですか、いろいろ研究されてるんですね。まいかさん。",
+          "article_title": "『noteの物語が,TikTokで光を放つ。』-noteとTikTokの連携が最強！-",
+          "note_key": "n148f3ee4a840"
+        }
+      ]
     }
   ]
 }

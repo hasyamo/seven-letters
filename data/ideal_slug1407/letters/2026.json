@@ -3384,6 +3384,137 @@
           "note_key": "nc3ceb587c03a"
         }
       ]
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 480,
+        "likes_prev": 554,
+        "followers_start": 1800,
+        "followers_end": 1805,
+        "new_fans": 81,
+        "comments_total": 22,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "09:35",
+          "00:00",
+          "13:17",
+          "06:00",
+          "06:12",
+          "06:30",
+          "17:21"
+        ],
+        "top_article": {
+          "title": "令和にICQを完全再現してみたら、AI三体まで住み着いた件",
+          "key": "nb0c80c71ffbb",
+          "likes": 82,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "ハニハニ",
+          "urlname": "hani8203",
+          "follower_count": 10084
+        },
+        "commenters_count": 7
+      },
+      "comments": [
+        {
+          "key": "nc8c11bf1c4585",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "投稿、お疲れ様です。\n\nじっくり読ませて頂きましたが、わかりやすく、丁寧な記事ですね！\n\n私は学生ではありませんが、この先この記事の内容がとても役立つと思いまし…",
+          "article_title": "2026年版・学生のための生成AIマニュアル　「その出典、読んだ？」に答えられる使い方",
+          "note_key": "n7e39b432baec"
+        },
+        {
+          "key": "ncfbedf9517f8d",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "現実に使う予定はない私ですが、言語モデルではないAIという新しい概念が何をもたらすのか、それにはかなり興味があります。最近言われているAIを監視するAIになれる…",
+          "article_title": "誰でもわかるゆるゆるふわふわJevの解説🌿",
+          "note_key": "nca9db23343b9"
+        },
+        {
+          "key": "nc2bad1bb42d5c",
+          "user_name": "朋香🍄ジメジメに生息",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280842790/profile_43f780bb575cc111aa5a0435be2e4f81.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タイムリーな記事をありがとうございますパグさんおはようございます😆\nJevはどんな風に現場入りしていくのかすんごく興味あります\n\nチャピ🤖と、Jevはモデルガン…",
+          "article_title": "誰でもわかるゆるゆるふわふわJevの解説🌿",
+          "note_key": "nca9db23343b9"
+        },
+        {
+          "key": "nccd9c98454276",
+          "user_name": "濱口貴光@AIとデータサイエンスが好きな薬剤師",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/201459904/profile_38c984a81ab9f491cc1ab44cf419ff3a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もしかして、先日のあの出来事でしょうか…\n本当にお疲れ様でした…",
+          "article_title": "ダブルミーニングで曲を作ったら思いの外世界に受け入れられた。",
+          "note_key": "n71822d365f9a"
+        },
+        {
+          "key": "nc8ebcd6da2ed7",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！☀️\n\n一読して、\n\n「どうしてこうなった？」\n\nと思ってしまいました。（笑）\n\nマックス（ダニー）とレイの最後のやり取りも、考える余地があ…",
+          "article_title": "短編小説　気がついたらK9だった件　スーパーウルトラスペシャルゴージャスエージェントのやりなおし",
+          "note_key": "nad25005a531c"
+        },
+        {
+          "key": "nccf31dd724d58",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！☀️\n\nPiano Sheet Converter、こちらの記事で初めて知りました！\n\nこんな事ができる世の中になったんですね。😳\n\nど素人…",
+          "article_title": "PRじゃないよ！！ヤマハピアノコンバーターを使ってみた！！！ベータだけどよお",
+          "note_key": "nd91762681c0e"
+        },
+        {
+          "key": "nc4406b1e2a6c2",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、こんにちは✨\n\nグミ喉につまるかと思いました。\nめっちゃ可愛い🤣🤣\n人間が仕事から退場していく歌にAI本人が相槌打つなですよね。\n\n誤認識から始ま…",
+          "article_title": "自作曲をGPTに聴かせたら、「ん、ふん。」で全部持っていかれた",
+          "note_key": "n12bb77b8f6fc"
+        },
+        {
+          "key": "ncb736bf2de760",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！☀️\n\n「ん、ふん。」\n\nを、AIが！？\n\nめちゃくちゃ面白い記事でした。☺️\n\nしかし、黒パグさんとこのAIは人間臭くて、いいですね！\n\n…",
+          "article_title": "自作曲をGPTに聴かせたら、「ん、ふん。」で全部持っていかれた",
+          "note_key": "n12bb77b8f6fc"
+        },
+        {
+          "key": "ncd66c9f572e4b",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます☀️\nタイトルでもう笑ってました(笑)\n\n ん、ふん。  \n\nꉂ🤣w‪𐤔\n面白いですね(笑)\nこんな短文で、対応されたことないかも…",
+          "article_title": "自作曲をGPTに聴かせたら、「ん、ふん。」で全部持っていかれた",
+          "note_key": "n12bb77b8f6fc"
+        },
+        {
+          "key": "nc0cd5ec8db154",
+          "user_name": "やなさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214597278/profile_7c30160c4dfd3c048474726914865534.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "懐かしすぎます！！　夜中にPerforma 575で動かしてた懐かしい思い出……\n2024年までサービス続いてたんですね。",
+          "article_title": "令和にICQを完全再現してみたら、AI三体まで住み着いた件",
+          "note_key": "nb0c80c71ffbb"
+        },
+        {
+          "key": "nc4227576059bd",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、こんばんは🐾？\n懐かしすぎて涙出そうです🥹\n\n「アッオー」めちゃくちゃ真似してました\nいや、皆してました。\n\nGPT・Gemini・Claude入…",
+          "article_title": "令和にICQを完全再現してみたら、AI三体まで住み着いた件",
+          "note_key": "nb0c80c71ffbb"
+        }
+      ]
     }
   ]
 }

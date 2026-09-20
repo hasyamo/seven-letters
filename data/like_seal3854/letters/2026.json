@@ -810,6 +810,30 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W38",
+      "period": {
+        "start": "2026-09-14",
+        "end": "2026-09-20"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 0,
+        "likes_prev": 1,
+        "followers_start": 500,
+        "followers_end": 499,
+        "new_fans": 0,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": null,
+        "commenters_count": 0
+      }
     }
   ]
 }
