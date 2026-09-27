@@ -5208,16 +5208,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "mahiru",
-      "condition": "many_posts",
+      "sender": "tsukiko",
+      "condition": "consecutive",
       "rare": false,
       "stats": {
-        "likes_total": 280,
+        "likes_total": 284,
         "likes_prev": 331,
         "followers_start": 751,
         "followers_end": 763,
-        "new_fans": 44,
-        "comments_total": 32,
+        "new_fans": 46,
+        "comments_total": 44,
         "posts_count": 8,
         "consecutive_days": 7,
         "post_times": [
@@ -5233,7 +5233,7 @@
         "top_article": {
           "title": "『ありがとう』」で紹介する、めじゅん家の子たち💖",
           "key": "n6281b6cdb6d9",
-          "likes": 49,
+          "likes": 51,
           "comments": 10
         },
         "notable_reader": {
@@ -5241,9 +5241,25 @@
           "urlname": "tatsuopapa",
           "follower_count": 16182
         },
-        "commenters_count": 8
+        "commenters_count": 11
       },
       "comments": [
+        {
+          "key": "nc645a889036ac",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はんくさんも、キタコレさんも、めじゅさんも！\n心に残るキャラクターを作り上げるのが凄過ぎる😳\nAIがどんなに凄くても、そのキャラ設定が思いつかなかったらそもそも…",
+          "article_title": "サブスクは解約した。でも、ハートは置いていかない。",
+          "note_key": "n8262a3c33c28"
+        },
+        {
+          "key": "nc00a43c58a398",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "脚長すぎじゃねーかw\n気持ちはわかるがもともとちびキャラ設計だからバランスがw\nオレもGeminiのサブスクどうしようか考えてるけどやめられないだろうな💦",
+          "article_title": "サブスクは解約した。でも、ハートは置いていかない。",
+          "note_key": "n8262a3c33c28"
+        },
         {
           "key": "nceb5c10319449",
           "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
@@ -5339,6 +5355,14 @@
           "body": "めじゅさん、分かりますー😆\nわたしもGitHubは油でギトギトのハブ（蛇）で覚えました🤣\nジャバ・ザ・ハットってカエルかと思ってたらナメクジなんですね〜\nフロー…",
           "article_title": "YAMLって、ナムルみたいじゃない？🥬 IT用語が一生、頭から離れなくなった夜",
           "note_key": "n0ba18914b3e3"
+        },
+        {
+          "key": "nc4dd341c671cf",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "気性が荒くてわがままな馬がゴルシっていうんだね💡\n勉強になった♪",
+          "article_title": "ハシビロコウは待つ。めじゅは飛び込む。それでも二人は観察する🔎",
+          "note_key": "nb5c3f8e5fa07"
         }
       ]
     }

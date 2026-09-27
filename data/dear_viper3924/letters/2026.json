@@ -6431,16 +6431,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "you",
-      "condition": "likes_up",
-      "rare": false,
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
       "stats": {
-        "likes_total": 225,
+        "likes_total": 229,
         "likes_prev": 173,
         "followers_start": 996,
         "followers_end": 1003,
         "new_fans": 24,
-        "comments_total": 126,
+        "comments_total": 262,
         "posts_count": 2,
         "consecutive_days": 1,
         "post_times": [
@@ -6448,23 +6448,271 @@
           "20:00"
         ],
         "top_article": {
-          "title": "【人間関係】人から見た私は、私の知らない服を着ていた。……私、パンイチじゃないよね？🤣│自己理解｜他者評価｜note交流｜企画運営｜クリエイター",
-          "key": "n88bf3acde569",
-          "likes": 69,
-          "comments": 48
+          "title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名｜作品｜応募｜審査｜学園",
+          "key": "ned232615f0b0",
+          "likes": 106,
+          "comments": 196
         },
         "notable_reader": {
           "name": "まなつ/突出マイノリティ列伝",
           "urlname": "tosshutsu_m",
           "follower_count": 9255
         },
-        "commenters_count": 41
+        "commenters_count": 70
       },
       "comments": [
         {
+          "key": "nc48d8a07755bb",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、このような企画を開催いただき、ありがとうございました😭",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc4928c45400ad",
+          "user_name": "Минск",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310175556/profile_4a5a6e19e047d288f555d8c7db32d952.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "No.28ですね。一つに絞るなら。",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc32f265e95980",
+          "user_name": "よしまさ@自学館",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/160705029/profile_73a3d4e4bb7498a66ae699bcc447ee12.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "No.14に一票",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncd80f3f329d1a",
+          "user_name": "ふぁはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310147785/profile_71e451bb4b5b8f75ef5ab4b3442880aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "No.28",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncf7dc1b6393f2",
+          "user_name": "わかモン＠フォロバ100期間限定の悪役令嬢",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313124417/profile_70d2d6926cfcd20ae2266daf12451379.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "No.07で探偵やってみたい！！💕",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc757d242afcff",
+          "user_name": "ポラフ｜AI副業ログ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314707652/profile_d88eb2ce3495a91cb9905d85d916cfc7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、こんばんは🌙\n\n30作品、全部見ました！😆\nこれは1票に絞るのが難しすぎますね😂\n\nかなり悩みましたが、僕は No.14 に一票入れます！\n\n「型…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncf97c7724c3c7",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "5番( ´ ▽ ` )ﾉ",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc3604cd455128",
+          "user_name": "ノン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310945970/profile_75f7df611a4e592344559a234f93d537.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めましてノンと申します。22番可愛いです",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc3c7105cd270b",
+          "user_name": "歌詠み音楽クリエイターUTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316171568/profile_5c22692e7ef749f1b517d9c66b0399de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん\nなかなか来られずごめんなさい😭\n皆さんの記事が目に入って、ギリギリ間に合いそうなので来ました🌈✨\n１４番でお願いしまーす🙋‍♀️\nツナ様LOVE❤️",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncd8ec4b8fbf49",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん！\n間に合った💦 \n\n私は学園外のものですが\n投票してよかったんだっけ💦\n\n焦りすぎて分からなく\nなりましたが、一緒に楽しみたいので\nコメント失礼しま…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nca3c0cfd0922a",
+          "user_name": "アイル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313636621/profile_43995ee550f70f76d468de253ec5c465.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お邪魔します。柴犬アイルです🐕🐾\n\n\nお母ちゃん、すごい服いっぱい✨\n\nアイルはＮo.10に1票です\n\nまたお邪魔します。よろしくお願いします🐕",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc8327b8d4590c",
+          "user_name": "ノア｜魔王｜noteを征服したい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315415205/profile_8f65812fd4295221e15bc9c6ff1633f4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん殿。\n\n30着……。\n\n究極の選択である。\n\nしかし決めたぞ。\n\n余の一票は――\nNo.20である😈\n\nこの威厳と洒落っ気、好きである。\n\n企画…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc113dc7700faf",
+          "user_name": "きっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300312262/profile_e3fe3f070af98d0024330fd366777aa2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさま、\nはじめまして。\n\nたまたま、\nあまねさんのところで、\n\n通りすがりの私にも\n投票権があるよーって教えてもらって、\nやってきました！\n\nなんと、明…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nceeb22d18b7b1",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "く・・・w\n作者が想像つかないww\n\nNo31もしくはNo2で！",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc948d4aa39c43",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさま\nこんばんは🌟\n\n沙夜ちゃんと雪詠さんの\nところで見て…お邪魔します\n\nいざ来てみたけれど\nほんとに1つ選ぶって難しいですね💦\n\n学ランもジャージも…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc5acabdadcd93",
+          "user_name": "飯泉ひろみ🐢コトバフェス巡回遅れてます🙏Hiromi Iizumi With Picoai♾️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/225898084/profile_9a5cf20a1d6b9937c9d1458dc5450a68.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは╰(*´︶`*)╯♡\nルーシャーナさんの記事から伺いました🤭\n\n3番か20番で迷ったんですが\n20番でお願いします😆✨\n\n素敵な…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncb27518af0fc1",
+          "user_name": "ちいさま",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/186226929/profile_db342f96a99920a196c4a1b66de64303.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさま\n\n面白い企画ですね！\nNo.５　宇宙にも行きそうです。",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncf98f1ebe9ed5",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、こんにちは✨️\n雪詠さんの記事から、部外者も投票できると聞き\nお邪魔しました！\n\nいやぁすごいです！どれもちゃんとコンセプトがあって\nめちゃくちゃ迷う…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc1f43cd24f2fd",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "3に頭皮用しまっせ！\nこのそこはかとなくデザインしたクリエイターを彷彿させる制服と、かあちゃんの熱い説明。\nワクワクすっど！\nおらもふんどしいっちょで参戦だ！",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncb59af594be99",
+          "user_name": "天羽・P・きせきれい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259631872/profile_2f97cf5502a0e7cfae4f48fbba35d6a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは☆\n　あまねさんの記事からかな？\n　\n夜中に徘徊する老人です〜💞✨😆\n\n　迷いますね〜\n\n　私の懐かしい制服そっくりもあってビックリしました😊\n　もし…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc01a965b97b26",
+          "user_name": "カプリ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/205849511/profile_466d19944b7f33966844ea005ebbbb21.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして✨\nももさんの記事から来ました。\n\n誰もNO.27に入れていないことにビックリしつつ……\nカワイイ制服ばかりだから、そりゃ迷いますよね💕\n\n私はNO…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc58fa66a6a451",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あまねさんの記事から来ましたー！\n\nピカピカお靴が可愛いNo.01でお願いします！！\n\n全部とっても可愛くて迷っちゃいました💖",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc463733392f64",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303205673/profile_88af602e10da36a9aec1808566e3001b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、遅くなりました💦\n\n③で‼️",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nca9050ddaa8c8",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "雪詠ちゃん🏠から…🏃\n走って…寄り道でーす💦\nNo.20",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc5317698d82f3",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "No.19でお願いします。",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc9e4fd21f2ad2",
+          "user_name": "ルルトアヤコ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300342825/profile_b8eef861c0246ab904c3cc2877a93f1c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワタシは、NO.22\n\nこれしかないでしょ？違う？\n\nとってもステキ😆愛おしい🥰",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc9d9eb1c07656",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん、お疲れ様です、一発で惚れました、No.5、我々タラヲガールズはいつから宇宙防衛軍になったのか？制服でお願いします╰(*´︶`*)╯♡\n\nみんなで宇宙防…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc916667b1c886",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん♪\n\n30作品の紹介！\nお疲れさまでした💐\n\n№２に一票です✨✨✨\nひとめぼれ～💖",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "nc6e5961ca8fc8",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、\nお疲れ様です。\n\n白熱していますね🔥\n\nどれも個性的ですごく迷っちゃう。\n\nでも、学ランが消えゆく時代。\nそして、学ラン世代。\n\nセーラー服に背…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncb6c07ff53fbe",
+          "user_name": "yayo｜ゆるっと自分を大切にするアラフィフ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315245311/profile_2c232be7b9db218ac7cd3e1398d0f193.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nお疲れ様です😊\nどの制服も素敵で選ぶの大変😂\n\nでも、選ばなければ！\n22番でお願いします✨",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
+          "key": "ncae14f649eba0",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、こんばんは～🌻✨️\n\nうう……どれも素敵すぎて、決められない……😭😭😭\n\n何周もしちゃったよ……🥹\n\n決めました！！！\n\nコンセプトが好きな、12番…",
+          "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
+          "note_key": "ned232615f0b0"
+        },
+        {
           "key": "ncb73d5b71c22d",
           "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/312320794/profile_045138d081595762a6f74d1221a7f7aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316841193/profile_42a715512c5dbc9697d599ae1346733b.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "母ちゃん💕\nすごい数の作品が集まりましたね？！\n\n私、一回で決めきれなくて、何日か寝かせて決めました🤣🤣\n\n悩んだんですけど…24番でお願いします🤭",
           "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
           "note_key": "ned232615f0b0"
@@ -6592,7 +6840,7 @@
         {
           "key": "ncf6d623368023",
           "user_name": "ぱぴさん",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315282762/profile_5888b14e37732e090aed8e3566a9b311.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316507899/profile_298b21a291d57e63c6652ea51f90691f.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ふらさん✨\n本当にありがとうございます🥺✨\n\n全く選べなかったけど決めました。\n17番でお願いします。",
           "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
           "note_key": "ned232615f0b0"
@@ -6608,7 +6856,7 @@
         {
           "key": "nc98d189ae39e1",
           "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/303061472/profile_b5be8eb2c9fcba4afc62f1724705313b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318266132/profile_a970a0065b3a179dbc1883c0e7e22016.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ふらちゃん！\n\nこの記事のボリューム、すごすぎです！！！😳✨\n本当にお疲れ様です！\n\n一つ一つにコメントも入っていて、丁寧に作られているのが伝わってきました☺️…",
           "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
           "note_key": "ned232615f0b0"
@@ -6616,7 +6864,7 @@
         {
           "key": "ncced182674e12",
           "user_name": "沙夜-𝕊𝕒𝕪𝕠- 沙夜学園🌠",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/312417530/profile_d765de405e63a528e01d7aadde96ce4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316867450/profile_4b55ff306c0115d4395e5b05b0893bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "母ちゃんさん😱\nこれは凄すぎます🤣\nこの記事書くのにわたしなら数時間かかります🐑💦\n\n母ちゃんさんの愛が伝わってきます😋✨✨\n5往復くらいしましたが16番でお願…",
           "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
           "note_key": "ned232615f0b0"
@@ -6680,7 +6928,7 @@
         {
           "key": "ncc45aedd52218",
           "user_name": "雪詠｜ゆきよみ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/314698649/profile_828707a04b137b7ecdcdf7284d14e0a6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315934594/profile_57d7fe1fdf78e9c25b5ebb6cb332b3b9.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "お疲れさまーーー！\n圧巻の制服カタログ💕\n\nちょいワルくらいがちょうどいい🤣\n19番でお願いします✨",
           "article_title": "制服デザインコンテスト投票開始！30作品、推しを1着に絞れ🤣│匿名",
           "note_key": "ned232615f0b0"
@@ -6726,6 +6974,30 @@
           "note_key": "ned232615f0b0"
         },
         {
+          "key": "nc70c8e568efc5",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん、お疲れ様です、魔法少女🪄になったのですか？🤭可愛い❤️ですよ😊",
+          "article_title": "【人間関係】人から見た私は、私の知らない服を着ていた。……私、パンイチじゃないよね？🤣│自己理解",
+          "note_key": "n88bf3acde569"
+        },
+        {
+          "key": "nc9bf7e922586f",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃーん♪\n私には、赤い服のアニメの主人公に見えてるよ♪\n名前忘れたけど(笑)\nアン〇〇だった気がする？？\nうっ、わからない💔",
+          "article_title": "【人間関係】人から見た私は、私の知らない服を着ていた。……私、パンイチじゃないよね？🤣│自己理解",
+          "note_key": "n88bf3acde569"
+        },
+        {
+          "key": "nc701bd3941d3d",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ドレス母ちゃん　\nかわいい💕💕\n飛ぶ母ちゃん、とは違う「新しいジャンル✨」だね👍\n\n紹介してもらったことを「服」に例えるのが上手い✨なー♪♪\n制服コンテスト✨✨…",
+          "article_title": "【人間関係】人から見た私は、私の知らない服を着ていた。……私、パンイチじゃないよね？🤣│自己理解",
+          "note_key": "n88bf3acde569"
+        },
+        {
           "key": "nc671d71e80dbf",
           "user_name": "メイシン",
           "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -6768,7 +7040,7 @@
         {
           "key": "nc138f89b3c0b5",
           "user_name": "かんず",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315637373/profile_bb95d4e1cf393d2c59502e3bd47391cd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317522350/profile_2dab3a9dd08c13b03b5b49e577e458ea.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ふらつき母ちゃん さん、はじめまして。\nかんずと申します。\n\nフォロワー1,000人達成、おめでとうございます。\n残念ながら、1,001番目だったようです。",
           "article_title": "【人間関係】人から見た私は、私の知らない服を着ていた。……私、パンイチじゃないよね？🤣│自己理解",
           "note_key": "n88bf3acde569"
@@ -6861,7 +7133,8 @@
           "article_title": "【人間関係】人から見た私は、私の知らない服を着ていた。……私、パンイチじゃないよね？🤣│自己理解",
           "note_key": "n88bf3acde569"
         }
-      ]
+      ],
+      "rare_no": 1
     }
   ]
 }

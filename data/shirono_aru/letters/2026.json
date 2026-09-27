@@ -430,15 +430,15 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "hiyori",
+      "condition": "followers_up",
       "rare": true,
       "stats": {
-        "likes_total": 778,
+        "likes_total": 796,
         "likes_prev": 248,
         "followers_start": 4090,
         "followers_end": 4183,
-        "new_fans": 275,
+        "new_fans": 278,
         "comments_total": 0,
         "posts_count": 2,
         "consecutive_days": 1,
@@ -449,7 +449,7 @@
         "top_article": {
           "title": "ChatGPTの画像生成のコツ！キャラクターを思い通りに変えるプロンプトを公開します",
           "key": "n5d4ea20ce2ea",
-          "likes": 440,
+          "likes": 502,
           "comments": 0
         },
         "notable_reader": {

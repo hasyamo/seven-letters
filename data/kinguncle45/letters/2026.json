@@ -9283,16 +9283,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "hiyori",
-      "condition": "followers_up",
+      "sender": "mahiru",
+      "condition": "many_posts",
       "rare": false,
       "stats": {
-        "likes_total": 1478,
+        "likes_total": 1526,
         "likes_prev": 1547,
         "followers_start": 1879,
         "followers_end": 1898,
-        "new_fans": 78,
-        "comments_total": 194,
+        "new_fans": 79,
+        "comments_total": 239,
         "posts_count": 5,
         "consecutive_days": 4,
         "post_times": [
@@ -9305,17 +9305,121 @@
         "top_article": {
           "title": "ごちゃごちゃお知らせ！✌️",
           "key": "n5f817bb27de5",
-          "likes": 270,
-          "comments": 42
+          "likes": 304,
+          "comments": 48
         },
         "notable_reader": {
           "name": "影武者コピーライター宮本真愿",
           "urlname": "5starcopy",
           "follower_count": 20330
         },
-        "commenters_count": 49
+        "commenters_count": 52
       },
       "comments": [
+        {
+          "key": "nca0a04340e6d1",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\nごちゃごちゃお知らせも楽しいですね。\nアイコンがいつも可愛いです！\n\nまたマガジンにも入れて頂き\nありがとうございます。",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc5a4404c75a84",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311632150/profile_3cd36dca0706f22c1cc544961b216b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハロウィン風のアイコン、いいですね💖",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "ncfd0d969b5c00",
+          "user_name": "haremithu | 迷う母に言葉を🪷|",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300270354/profile_0b70dd6594b94dad053483ab06b190a5.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コングラおめでとうございます🎊\n30分で2曲😳😳凄いです☺️\nりりぃさんの所へ行ってきました。\n闇深さがまたカッコいい曲ですね✨\n\n",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc535f2024b467",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつも本当にありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "ncc86bdef0a8df",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、いつもマガジンに追加していただきありがとうございます😊✨\n\n今回も本当に「ごちゃごちゃお知らせ」ですね🤣\nでも、このごちゃごちゃ感がKingさんら…",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc0d1a3441d5bc",
+          "user_name": "余滴のわさび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274209527/profile_dc28165aba358688d239e4ec9225b0ad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨\n\nマガジン追加、いつも感謝です(ㅅ´꒳` )🙏✨️✨️\nそして採用&コングラおめでとうございます㊗️🎉",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc2ba6b7c1bccc",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\n裏りりぃさんの曲素敵です❤️\n30分で２曲ってすごいですね✨\nさすがKingさんです☺️\n早速記事読みに行ってきました❤️",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc6c5ca39a93f8",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc3ced6c443cda",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "​kingさん、こんばんは☘️\n「裏企画の曲採用、おめでとうございます！30分で2曲作れちゃうスピード感さすがですね。 そして購入された書籍のラインナップが相変…",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc58ea6ccc2d0d",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは🥰✨\n今回も盛りだくさんですね〜🤭💓\n\nりりぃさんの記事、本当に良かったですよね〜🥰\n私も読ませていただいて、これからどんなお悩みが飛び…",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc97af4f59bc88",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、おはようございます。\nRogersページお立ち寄りとマガジンtysm:）に追加して\nいただき、心より感謝申し上げます。\n\nオープニングテーマ曲：り…",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "ncb1ae783f4cd8",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "りりぃさんのとこに行って聴いてきました✌\n\nKingさんの曲、もはや導入だけでわかりますね😂笑\n闇の濃い感じ、癖になりますねぇ・・🌱\n\n次回作も期待してます(*…",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nceb8c0d6a32db",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n新企画のテーマ曲制作から「良記事認定」の発表、そして書籍の紹介や楽曲公開まで、非常に精力的で多彩な活動の数々。クリエイター同士の繋がりを…",
+          "article_title": "ごちゃごちゃお知らせ！②✌️",
+          "note_key": "nc80d6662ac09"
+        },
         {
           "key": "nc4816454ceeb7",
           "user_name": "きおくのかけら",
@@ -9403,6 +9507,38 @@
           "body": "オープニングテーマ曲✨️🍀\n凄すぎ！！",
           "article_title": "ごちゃごちゃお知らせ！②✌️",
           "note_key": "nc80d6662ac09"
+        },
+        {
+          "key": "nc10cc43ea0090",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさーーん💖\nやっときましたよーーー🙌🌈✨\n\n安心してくださいっっ🤣🤣🤣🌸\n\nクビはないですっっ🤣💖\n\nぜひ今度対談しましょーーー\\(//∇//)\\✨✨\n",
+          "article_title": "💖🌈WONDER LABO🌏🚀スタエフ②",
+          "note_key": "n5208845f8484"
+        },
+        {
+          "key": "nc816e2a072aae",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、マガジンへの追加ありがとうございます😊✨\n\nWONDER LABO、スタエフもどんどん広がっていますね🌈\n「何もしていないKingは…当然、拡散し…",
+          "article_title": "💖🌈WONDER LABO🌏🚀スタエフ②",
+          "note_key": "n5208845f8484"
+        },
+        {
+          "key": "nca2eb6dfe7007",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nお疲れ様です☺️\n\n本当に\n拡散\nありがとうございます☺️\n\n助かります🙇‍♀️🙏\n\nこれからも\nメインパーソナリティ\nお願いしますね(＞人＜;)…",
+          "article_title": "💖🌈WONDER LABO🌏🚀スタエフ②",
+          "note_key": "n5208845f8484"
+        },
+        {
+          "key": "nc8aa73fd8c6e6",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おお～～\n\nあかねさん！こんな声だったなんて・・！！\nなんというか、記事の印象だともっと破天荒なお姉さんかと思いきや、すごく落ち着いた美人な印象でしたね(*^^…",
+          "article_title": "💖🌈WONDER LABO🌏🚀スタエフ②",
+          "note_key": "n5208845f8484"
         },
         {
           "key": "nc7107910be328",
@@ -9499,6 +9635,30 @@
           "body": "WONDER LABOのスタエフフォローしてるから通知が来て、あれーKingさんじゃない！って思ったんですよね😂",
           "article_title": "💖🌈WONDER LABO🌏🚀スタエフ②",
           "note_key": "n5208845f8484"
+        },
+        {
+          "key": "ncfe4e6a8c1320",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "ごちゃごちゃお知らせ！✌️",
+          "note_key": "n5f817bb27de5"
+        },
+        {
+          "key": "ncfb1acd5e0b7f",
+          "user_name": "秋山ユウタ｜預けた人生を取り戻す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280763088/profile_25615797d89bfcd9fa455ef7d14bbaea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、今回も楽しく読ませていただきました😊✨\n\nフェス情報からリスペクト記事、良記事認定、本の紹介まで、本当に「ごちゃごちゃ」なのに不思議とまとまってい…",
+          "article_title": "ごちゃごちゃお知らせ！✌️",
+          "note_key": "n5f817bb27de5"
+        },
+        {
+          "key": "nc7750051fbc06",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "​Kingさん、こんにちは！いつもありがとうございます🍃\n今回もごちゃごちゃと賑やかで楽しいラインナップですね。マガジンの追加やご紹介、本当に嬉しいです。\n購入…",
+          "article_title": "ごちゃごちゃお知らせ！✌️",
+          "note_key": "n5f817bb27de5"
         },
         {
           "key": "nc650a74bf229d",
@@ -9789,6 +9949,22 @@
           "note_key": "nd888079609c0"
         },
         {
+          "key": "nc9c6b11f6ea77",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "団長の歌（人生）",
+          "note_key": "n1a59170d45a9"
+        },
+        {
+          "key": "nc08a0d9219887",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "団長の歌（人生）",
+          "note_key": "n1a59170d45a9"
+        },
+        {
           "key": "nca9406f2519e4",
           "user_name": "donchan1962",
           "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -9966,7 +10142,7 @@
         },
         {
           "key": "nc992613cee321",
-          "user_name": "MOON (宵月)｜違和感の記録",
+          "user_name": "MOON｜違和感の記録",
           "user_icon": "https://assets.st-note.com/production/uploads/images/297235049/profile_3787ea4681c48b2f354181430c62e6fd.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "kingさん🥹\n\n二曲ともめっちゃロックで\nカッコいいです🌙✨",
           "article_title": "団長の歌（人生）",
@@ -10007,7 +10183,7 @@
         {
           "key": "ncc3e407f324d9",
           "user_name": "ｓｅｏｒｉ🧚‍♂／ライトワーカー",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/310370866/profile_687be6834d1f3af8ce50aa4a00f3252f.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316943507/profile_e0c071d89a65299b21509201b88da55b.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "Ｋｉｎｇさん✨🧚‍♂\n\n\n生まれた事は　奇跡ですよね！！\n生かされてる事も　奇跡です🍀😊\n\n\nセッション募集記事🌱\n\nまだ　出会ってない私　マガジン🌱載せて下さ…",
           "article_title": "団長の歌（人生）",
           "note_key": "n1a59170d45a9"

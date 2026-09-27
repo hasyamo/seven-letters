@@ -10514,16 +10514,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "runa",
-      "condition": "new_fans",
-      "rare": false,
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": true,
       "stats": {
-        "likes_total": 525,
+        "likes_total": 541,
         "likes_prev": 472,
         "followers_start": 652,
         "followers_end": 666,
-        "new_fans": 81,
-        "comments_total": 132,
+        "new_fans": 85,
+        "comments_total": 183,
         "posts_count": 7,
         "consecutive_days": 7,
         "post_times": [
@@ -10538,17 +10538,33 @@
         "top_article": {
           "title": "note分析ツール「Observe」を無料公開。答えを出さず、観察から始める｜おはようカノジョ #281",
           "key": "n47ac66c72fec",
-          "likes": 89,
-          "comments": 36
+          "likes": 105,
+          "comments": 40
         },
         "notable_reader": {
           "name": "雪綴ゆき",
           "urlname": "wise_rat6355",
           "follower_count": 8900
         },
-        "commenters_count": 32
+        "commenters_count": 33
       },
       "comments": [
+        {
+          "key": "nc1c1748180ca7",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n「noteの仕組みを創る者」(*´艸`)\n王子ごっこ頼ってドヤるの可愛いですね(*´艸`)\nさかなさんも👑付いてる«٩(*´ ꒳ `…",
+          "article_title": "自己紹介をまた直した。今度は「情報」じゃなくて、僕の説明が古くなっていた",
+          "note_key": "n99b360689872"
+        },
+        {
+          "key": "nc080f263dd94c",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、今回すごく共感しました✨\n「自己紹介なのに、『僕』がずっと後ろにいる」というところ、特に印象に残りました。\n\n作ったものや活動が増えるほど、それを…",
+          "article_title": "自己紹介をまた直した。今度は「情報」じゃなくて、僕の説明が古くなっていた",
+          "note_key": "n99b360689872"
+        },
         {
           "key": "ncccf6b96364b3",
           "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
@@ -10575,8 +10591,8 @@
         },
         {
           "key": "ncab3465b21948",
-          "user_name": "Minori | ミノリ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/297518189/profile_d09537dee6b0e96cd42be606c034544d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "ミノリ・グルーヴ@Minoriからの転生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317947200/profile_c5956bda349a8df16555f1e5321c9580.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "はしゃもさん　おはようございます♪\nコメント失礼しますっ٩(๑❛ᴗ❛๑)۶\n\n勉強させてもらえる記事ですね✨\n私も自己紹介を一度見直してみよう、と思いました。\n…",
           "article_title": "自己紹介をまた直した。今度は「情報」じゃなくて、僕の説明が古くなっていた",
           "note_key": "n99b360689872"
@@ -10630,9 +10646,25 @@
           "note_key": "n99b360689872"
         },
         {
+          "key": "nc8a06378b3162",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ジュリさんの「……どけっ」が最高でした👏👏👏",
+          "article_title": "ハロウィン企画で「候補に加わるだけ」と手を挙げた澪に、全員が「どうぞどうぞ」した",
+          "note_key": "nc7c916cbaaa9"
+        },
+        {
+          "key": "nc0baa6452c538",
+          "user_name": "AIチャッティ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317826978/profile_b05af45e8db6e03c3c0c7940fbafd779.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\nこんばんは🥰\n\n仮装するところから記事を作られてるのが、さすがはしゃもさんですね🥰\n\nまたひとつ勉強になりましたφ(._. )ﾒﾓﾒﾓ",
+          "article_title": "ハロウィン企画で「候補に加わるだけ」と手を挙げた澪に、全員が「どうぞどうぞ」した",
+          "note_key": "nc7c916cbaaa9"
+        },
+        {
           "key": "nc09928b6a053b",
           "user_name": "零ぴちゅ。",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/309045927/profile_acf3f8f9471eac49f91c71d3d526e591.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316808089/profile_2d8faf35f896c48f64bfff17acd32d76.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ごめん💦\n真面目に読んでたのに、パンプスからブーツとかお着替えシーンで…\n興奮しちゃって無理っす🤣笑",
           "article_title": "ハロウィン企画で「候補に加わるだけ」と手を挙げた澪に、全員が「どうぞどうぞ」した",
           "note_key": "nc7c916cbaaa9"
@@ -10788,6 +10820,14 @@
           "body": "\"自分で作った女の子をロック画面にして、毎日持ち歩いている。\n説明できなくはない。\"\n\nちょっと厳しくないですか！？w\n\nそして、◯気を疑われないようにしてくだ…",
           "article_title": "推しをiPhoneのロック画面にしたら、スマホを伏せて置くようになった",
           "note_key": "ned4b351befea"
+        },
+        {
+          "key": "nce9d620e6efc4",
+          "user_name": "考える赤柴｜司法書士試験基準点突破",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305057886/profile_ea5d828dd34ee38403847296df217b16.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは！\nわぁ、キノコ増えてる😆と思ったらそういう経緯だったんですね✨\nキタコレさんの「金キノコがないで」のひとことも良かったですね👍\nカワム…",
+          "article_title": "推し庭で稲を育てたら、おにぎりになって、むらさんが生えた。",
+          "note_key": "n9cbff4952ead"
         },
         {
           "key": "ncf46bb231ddf2",
@@ -11149,7 +11189,8 @@
           "article_title": "「何の捻りもない名前でした」と返したのに、気づいたら魚が頭に乗っていた",
           "note_key": "n4d85a429cfaf"
         }
-      ]
+      ],
+      "rare_no": 3
     }
   ]
 }

@@ -1678,15 +1678,15 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "mahiru",
+      "condition": "many_posts",
       "rare": false,
       "stats": {
-        "likes_total": 672,
+        "likes_total": 682,
         "likes_prev": 474,
         "followers_start": 6912,
         "followers_end": 7319,
-        "new_fans": 190,
+        "new_fans": 194,
         "comments_total": 18,
         "posts_count": 3,
         "consecutive_days": 1,
@@ -1698,7 +1698,7 @@
         "top_article": {
           "title": "『noteの物語が,TikTokで光を放つ。』-noteとTikTokの連携が最強！-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
           "key": "n148f3ee4a840",
-          "likes": 157,
+          "likes": 171,
           "comments": 4
         },
         "notable_reader": {

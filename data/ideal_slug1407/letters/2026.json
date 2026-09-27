@@ -3391,16 +3391,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "hiyori",
+      "condition": "followers_up",
       "rare": false,
       "stats": {
-        "likes_total": 480,
+        "likes_total": 501,
         "likes_prev": 554,
         "followers_start": 1800,
         "followers_end": 1805,
-        "new_fans": 81,
-        "comments_total": 22,
+        "new_fans": 83,
+        "comments_total": 25,
         "posts_count": 7,
         "consecutive_days": 7,
         "post_times": [
@@ -3415,7 +3415,7 @@
         "top_article": {
           "title": "令和にICQを完全再現してみたら、AI三体まで住み着いた件",
           "key": "nb0c80c71ffbb",
-          "likes": 82,
+          "likes": 83,
           "comments": 4
         },
         "notable_reader": {
@@ -3426,6 +3426,14 @@
         "commenters_count": 7
       },
       "comments": [
+        {
+          "key": "ncc63ace8ffcdc",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーーーん、こんばんはー😊\n日曜の夜にこんなルンルンの私💖\nシルバーウィークって素晴らしいですね✨\n\nめっちゃ分かりやすかったです！！✨\nちょっと思ったん…",
+          "article_title": "2026年版・学生のための生成AIマニュアル　「その出典、読んだ？」に答えられる使い方",
+          "note_key": "n7e39b432baec"
+        },
         {
           "key": "nc8c11bf1c4585",
           "user_name": "風船がむ助",

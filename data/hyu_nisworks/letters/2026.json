@@ -2129,16 +2129,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "hiyori",
+      "condition": "followers_up",
       "rare": false,
       "stats": {
-        "likes_total": 249,
+        "likes_total": 255,
         "likes_prev": 223,
         "followers_start": 669,
         "followers_end": 697,
-        "new_fans": 50,
-        "comments_total": 16,
+        "new_fans": 51,
+        "comments_total": 22,
         "posts_count": 7,
         "consecutive_days": 2,
         "post_times": [
@@ -2151,19 +2151,27 @@
           "09:04"
         ],
         "top_article": {
-          "title": "非エンジニアのための「AI作業環境」入門：ChatGPTからVS Code、その先まで",
-          "key": "n0e86224eb9b7",
-          "likes": 46,
-          "comments": 0
+          "title": "「売れない・読まれない・嫌なこと」noteをやめたくなる３つの理由とその対策",
+          "key": "n57726e28d4be",
+          "likes": 59,
+          "comments": 8
         },
         "notable_reader": {
           "name": "菅谷健太郎",
           "urlname": "light_coyote380",
           "follower_count": 8376
         },
-        "commenters_count": 7
+        "commenters_count": 10
       },
       "comments": [
+        {
+          "key": "ncf4fbbca38ef8",
+          "user_name": "水越なつめ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214525963/profile_07b0d5061a5707a265a1d1af58df19b8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😊\n\n「今の自分にマイナスになる情報は見ない」\nこれは、ものすごく大事ですね。\n\n自分にとってマイナスになる情報を見過ぎてnoteを辞めた…",
+          "article_title": "「売れない・読まれない・嫌なこと」noteをやめたくなる３つの理由とその対策",
+          "note_key": "n57726e28d4be"
+        },
         {
           "key": "nc7ecfa0339e88",
           "user_name": "こたや｜KOTAYA",
@@ -2189,6 +2197,22 @@
           "note_key": "n57726e28d4be"
         },
         {
+          "key": "nc3a347d65bb7d",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316507899/profile_298b21a291d57e63c6652ea51f90691f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは✨\n\nカナミンさんのところで見て\n伺いました〜！\n私も4位にランクインしていて嬉しかったです🤭\n\nしかも共同マガジンの第一号だったとはすご…",
+          "article_title": "カナミン",
+          "note_key": "nf39f7894a5f7"
+        },
+        {
+          "key": "ncd09a308682ff",
+          "user_name": "ヒョウガ・レッド｜ご縁を繋ぐヒーロー🦸‍♂️🔥",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281530565/profile_dbcb7a19ae9b4de3921711467b933ec8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カナミンさん✨\n1000人達成おめでとうございまーす🎊\n少しずつ、卒業生が増えてきましたね🌈",
+          "article_title": "カナミン",
+          "note_key": "nf39f7894a5f7"
+        },
+        {
           "key": "nc31a584ab5a56",
           "user_name": "カナミン｜AIと迷いながら、進む人",
           "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -2206,7 +2230,7 @@
         },
         {
           "key": "ncdfbfefb286bd",
-          "user_name": "わかモン＠かくさないネカマ",
+          "user_name": "わかモン＠フォロバ100期間限定の悪役令嬢",
           "user_icon": "https://assets.st-note.com/production/uploads/images/313124417/profile_70d2d6926cfcd20ae2266daf12451379.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ひゅーさん！！こんばんわ✨️🌙\nネロ王子の1000人達成、本当に早かったですねーーー！！🤣🌙\n850人くらいで参加して、「次の卒業もらいます🌙」から本当に名誉脱…",
           "article_title": "ネロ🌙",

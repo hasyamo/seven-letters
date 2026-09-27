@@ -5723,16 +5723,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "mahiru",
-      "condition": "many_posts",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 375,
+        "likes_total": 382,
         "likes_prev": 363,
         "followers_start": 1761,
         "followers_end": 1763,
-        "new_fans": 30,
-        "comments_total": 64,
+        "new_fans": 31,
+        "comments_total": 69,
         "posts_count": 10,
         "consecutive_days": 7,
         "post_times": [
@@ -5750,7 +5750,7 @@
         "top_article": {
           "title": "ミナトハロウィンに参加します👻🎃AIチャッティ 【GPT image2.5｜Pollo AI】",
           "key": "nb9dc5b8d8f2f",
-          "likes": 46,
+          "likes": 61,
           "comments": 14
         },
         "notable_reader": {
@@ -5758,7 +5758,7 @@
           "urlname": "fair_impala134",
           "follower_count": 29012
         },
-        "commenters_count": 19
+        "commenters_count": 20
       },
       "comments": [
         {
@@ -5875,7 +5875,7 @@
         },
         {
           "key": "ncf842cc7cd10f",
-          "user_name": "笹原歩奈",
+          "user_name": "笹原歩奈|おやすみ中",
           "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん。おはようございます。\n400日連続投稿おめでとうございます👏\nみなさんの表情や柔らかな雰囲気が大好きです🥰\n\nチャッティさんのペースでね😉",
           "article_title": "400日連続投稿",
@@ -5888,6 +5888,14 @@
           "body": "チャッティさん、おはようございます。\n400日連続、おめでとうございますと同時にお疲れ様です。\n毎朝クローディアさんを筆頭に、イラストで和ませて頂いてます。\n\n…",
           "article_title": "400日連続投稿",
           "note_key": "n865d34f1a147"
+        },
+        {
+          "key": "nc4107aa3d5d81",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIチャッティさん\n\n暗闇で最初に見えるのが、本体ではなく角に灯る小さな光なのが好きでした。\n\nその光に照らされて、少しずつ巨大な身体が見えてくる。「生物を見つ…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "naa33a40adb60"
         },
         {
           "key": "nc1e3758edbdf0",
@@ -5923,7 +5931,7 @@
         },
         {
           "key": "nc903553fc0a45",
-          "user_name": "笹原歩奈",
+          "user_name": "笹原歩奈|おやすみ中",
           "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん。こんにちは。\n\n「好き」に理由はいらない。\n本当にそうですよね🙂‍↕️\n\n私は「好きを大事する」チャッティさんが大好きです🥰",
           "article_title": "好きに理由は要らない朝",
@@ -5978,6 +5986,14 @@
           "note_key": "n06867e5ece8c"
         },
         {
+          "key": "nc193387ca57ab",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIチャッティさん\n\n深海生物で「音」を持ってきたのがすごく印象に残りました。海の振動を記録して、円盤が回り始めると昔そこを泳いだ何かの音が聞こえるかもしれない…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "nb49f0df8600b"
+        },
+        {
           "key": "nc62658d76a3e7",
           "user_name": "ミナト汐　＠光と構図のアトリエ",
           "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
@@ -5987,7 +6003,7 @@
         },
         {
           "key": "ncc7262570e3f8",
-          "user_name": "ざき｜キャラクターコメディの作り方書く人（？）",
+          "user_name": "ざき｜カレカノの人",
           "user_icon": "https://assets.st-note.com/production/uploads/images/299818271/profile_485e7ecfd26a3efbaae47cc11d699bbc.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん、拝見致しましたです〜\n\nシンカイレコード、っていう響きがすごく音として気持ちいい名前ですよね✨✨\n\nこういった、ナイものの名前を付ける響きのセン…",
           "article_title": "アカリウム深層 新種発見",

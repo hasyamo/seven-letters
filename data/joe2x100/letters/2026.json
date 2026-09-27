@@ -974,15 +974,15 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "shizuku",
-      "condition": "quiet",
+      "sender": "hiyori",
+      "condition": "followers_up",
       "rare": false,
       "stats": {
-        "likes_total": 190,
+        "likes_total": 194,
         "likes_prev": 163,
         "followers_start": 940,
         "followers_end": 973,
-        "new_fans": 51,
+        "new_fans": 54,
         "comments_total": 0,
         "posts_count": 1,
         "consecutive_days": 1,
@@ -992,7 +992,7 @@
         "top_article": {
           "title": "【転生してイラストが上手になる魔法〜SNSという異世界と、好きを貫く力〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.59",
           "key": "n0ff6b9b96366",
-          "likes": 68,
+          "likes": 130,
           "comments": 0
         },
         "notable_reader": {

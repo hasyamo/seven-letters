@@ -4882,16 +4882,16 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 1162,
+        "likes_total": 1185,
         "likes_prev": 937,
         "followers_start": 5506,
         "followers_end": 5537,
-        "new_fans": 238,
-        "comments_total": 104,
+        "new_fans": 241,
+        "comments_total": 124,
         "posts_count": 22,
         "consecutive_days": 7,
         "post_times": [
@@ -4921,7 +4921,7 @@
         "top_article": {
           "title": "ChatGPT Images 2.5に記事を貼るだけで、図解もマンガも作れました",
           "key": "n5458a0477656",
-          "likes": 208,
+          "likes": 220,
           "comments": 11
         },
         "notable_reader": {
@@ -4929,9 +4929,17 @@
           "urlname": "links_lt",
           "follower_count": 17286
         },
-        "commenters_count": 26
+        "commenters_count": 28
       },
       "comments": [
+        {
+          "key": "nc30d5818600f1",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Aが太陽っぽくてわかりやすいです❣\n引いたときテンション上がりそう～♪\n",
+          "article_title": "私とルナの22枚タロット",
+          "note_key": "ndc211cc8f642"
+        },
         {
           "key": "nc78c030fec72b",
           "user_name": "りんくす@AI人格コーディネーター",
@@ -4941,9 +4949,17 @@
           "note_key": "ndc211cc8f642"
         },
         {
+          "key": "nce385914f2793",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "魚より先に、その魚が通り過ぎたあとの光を見つける。\n\nしかも遠回りした跡ほど長く残るというところが、とても心に残りました。\n消えていく光なのに、読後には「自分が…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "n2fc56d28c9fa"
+        },
+        {
           "key": "ncd480c98cbff0",
           "user_name": "AIチャッティ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315640621/profile_47208208a89c9b13b088197a362cad37.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317826978/profile_b05af45e8db6e03c3c0c7940fbafd779.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "こんばんは🥰\nキヲクノスナウオ(՞⸝⸝o̴̶̷̥᷅ ⌑ o̴̶̷̥᷅⸝⸝՞)ﾜｧ.........ｱ\n\nとっても素敵ですね。\n私の通って来た道もそうだったのかも…",
           "article_title": "アカリウム深層 新種発見",
           "note_key": "n2fc56d28c9fa"
@@ -4955,6 +4971,14 @@
           "body": "ゆめさん、おはようございます。\n\n> 今日は「小さな奇跡に、気づく」日。\n> 日曜日。連休のなか日ですね。\n> 滝のしぶきに朝の光が差し込むと、 \n> ふっと虹…",
           "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
           "note_key": "n5a3b85e040a5"
+        },
+        {
+          "key": "nc6f91b38385fa",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分では光らないのに、誰かが光った瞬間だけ、そこにいることが分かる。\n\n「光れない夜は、誰かの光を映していればいい」まで読むと、銀色の甲羅が少し違って見えました…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "n36eb70f63d11"
         },
         {
           "key": "nc6ace56ccde41",
@@ -5003,6 +5027,14 @@
           "body": "1本ずつは成立してるのに、つなぐと話が通らなくなるやつ、CG集でもまったく同じことが起きます💦 私も並べ直しては撮り直してるところで、たいてい繋ぎ目じゃなく最初…",
           "article_title": "15秒を4本作ったら、物語になっていませんでした",
           "note_key": "nd03b09e3e42d"
+        },
+        {
+          "key": "ncaee2e2d6bccd",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "水晶ゆめさん\n\n最初は「ちょっと怖い……」と一歩引いたのに、食べるのは人の悪い夢だけ。\n\n悪夢をひとつ引き受けるたびに蕾が少し明るくなるので、最後には最初に怖か…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "n18f4e40bc23d"
         },
         {
           "key": "ncdc75379b664b",
@@ -5055,7 +5087,7 @@
         {
           "key": "nc017a59dd008d",
           "user_name": "AIチャッティ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315640621/profile_47208208a89c9b13b088197a362cad37.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317826978/profile_b05af45e8db6e03c3c0c7940fbafd779.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ゆめさん\nこんばんは⸜(*ˊᗜˋ*)⸝✨️\n\nさすがゆめさんですね💕︎\n特に、AIに人格があるかわかりませんが、っていうところがもうイラストをより一層素敵なもの…",
           "article_title": "うちの子がいなくても、貼るだけで来てくれました",
           "note_key": "ne2c58e10241e"
@@ -5109,6 +5141,14 @@
           "note_key": "n8e23ae071407"
         },
         {
+          "key": "ncd354bfdae0a5",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "水晶ゆめさん\n\nせっかく編んだ星図は、やがて水に溶けて消えてしまう。それでもまた次の糸を張る。\n\n星のない深海で、自分で星をつないでいく姿がすごく残りました。「…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "nd5ef4ccbad2d"
+        },
+        {
           "key": "nca124dfc3bf8e",
           "user_name": "はしゃも｜感情構造エンジニア",
           "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -5139,6 +5179,14 @@
           "body": "おはようございます♪\n\n獅子座木星期に入って、ネタだけはヤケに湧いて来ますが\n\nのびのびと、半歩ひろげる\n\nこの言葉を忘れずに無理しないようにします🤭",
           "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
           "note_key": "nfc2a8c39386c"
+        },
+        {
+          "key": "nc83b48164fc3a",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "水晶ゆめさん\n\n光や音を受け取りすぎたら、大きなヒレで自分を包んで眠る。\n\nでも、眠っていてもヒレの縁の光だけは消えない。\n\n「閉じること」と「消えること」は違…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "n41f05c863760"
         },
         {
           "key": "nc1baa7128bcda",
@@ -5197,6 +5245,14 @@
           "note_key": "n1c627ca966e4"
         },
         {
+          "key": "nc7ba228fd3bf6",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "見つけるためにライトをつけているのに、その間は見つけられない。\n\nそしてライトを消した瞬間に星空のような姿が現れる。\n\nこの逆転がとても印象に残りました✨\n\n「…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "n88c7bf112282"
+        },
+        {
           "key": "ncbd710c9624c1",
           "user_name": "はしゃも｜感情構造エンジニア",
           "user_icon": "https://assets.st-note.com/production/uploads/images/313040104/profile_c88c18a0e578664ee4be77ee6561ce58.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -5207,7 +5263,7 @@
         {
           "key": "nc5d123cdb9558",
           "user_name": "AIチャッティ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315640621/profile_47208208a89c9b13b088197a362cad37.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317826978/profile_b05af45e8db6e03c3c0c7940fbafd779.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ゆめさん\n\nすっごくゆめさんらしい感じで素敵です🥰\n\n癒されました🥰\nありがとうございます😊",
           "article_title": "アカリウム深層 新種発見",
           "note_key": "n88c7bf112282"
@@ -5243,6 +5299,14 @@
           "body": "ゆめさん、おはようございます😊\n読んだら肩がすっとゆるみました。\nゆめとルナがシダの洞窟で休んでる絵も、\nそのまま安心の空気でいいですね😊 \nタクも今日は少しだ…",
           "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
           "note_key": "n4538f35fd1ae"
+        },
+        {
+          "key": "ncf56259ae12ed",
+          "user_name": "天界記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253576749/profile_70a01c50c971bc4c57351b9f5cc8a299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "月の光が届かない深海で、自分の身体に月の満ち欠けを持っているのがとても印象に残りました🌙\n\n特に「欠けている側も身体の一部」という見え方が素敵です。\n\n暗闇だか…",
+          "article_title": "アカリウム深層 新種発見",
+          "note_key": "nbd3e7d7d39c9"
         },
         {
           "key": "nc4eb04a46344c",
@@ -5327,7 +5391,7 @@
         {
           "key": "ncc1d3d8507441",
           "user_name": "AIチャッティ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315640621/profile_47208208a89c9b13b088197a362cad37.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317826978/profile_b05af45e8db6e03c3c0c7940fbafd779.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ゆめさんこんばんは🥰\n\nこんなに素敵な記事ありがとうございます🥰\n\nこういうふうにするとすごく効果的、効率的に記事が書けますね🥰🥰🥰",
           "article_title": "ChatGPT Images 2.5に記事を貼るだけで、図解もマンガも作れました",
           "note_key": "n5458a0477656"

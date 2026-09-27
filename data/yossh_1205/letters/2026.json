@@ -8561,19 +8561,20 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "mahiru",
-      "condition": "many_posts",
+      "sender": "you",
+      "condition": "likes_up",
       "rare": false,
       "stats": {
-        "likes_total": 1194,
-        "likes_prev": 1036,
+        "likes_total": 1253,
+        "likes_prev": 1037,
         "followers_start": 1427,
         "followers_end": 1456,
-        "new_fans": 186,
-        "comments_total": 50,
-        "posts_count": 6,
-        "consecutive_days": 6,
+        "new_fans": 189,
+        "comments_total": 62,
+        "posts_count": 7,
+        "consecutive_days": 7,
         "post_times": [
+          "22:14",
           "13:28",
           "22:41",
           "19:58",
@@ -8584,7 +8585,7 @@
         "top_article": {
           "title": "嬉しいやら、大変やら。",
           "key": "ne2a3919962fc",
-          "likes": 251,
+          "likes": 257,
           "comments": 14
         },
         "notable_reader": {
@@ -8592,9 +8593,57 @@
           "urlname": "human_walrus9152",
           "follower_count": 23362
         },
-        "commenters_count": 17
+        "commenters_count": 21
       },
       "comments": [
+        {
+          "key": "ncd418b6c1712a",
+          "user_name": "ふじ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273332159/profile_964aac0fa36a6ce9899e20c8780e9aa4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさま\nこんばんは。\nふじです☺️\n矢場とんって昔行ったことあります！\nぶーちゃん可愛い〜🥰",
+          "article_title": "せっかくの連休なので……",
+          "note_key": "n2a8bd182f1c2"
+        },
+        {
+          "key": "ncfe43f4af1615",
+          "user_name": "道草ノート🌿ゆう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301505355/profile_a6524e5a947e9a43084e2f244421a91c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "台風で思わぬ休日が増えて4連休になりそうです。\n今までにないくらい\nぐーたらしました🤣最高っ！",
+          "article_title": "せっかくの連休なので……",
+          "note_key": "n2a8bd182f1c2"
+        },
+        {
+          "key": "nc359251f62eae",
+          "user_name": "みのり｜行政書士｜奈良｜障がい福祉施設開設支援｜運営支援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300399230/profile_1ff8336a5c6614427ea8726e9549ce8d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぶーちゃん、意外と小顔なんですね💕🤣\n行ってみたいです✨",
+          "article_title": "せっかくの連休なので……",
+          "note_key": "n2a8bd182f1c2"
+        },
+        {
+          "key": "nc0866a2af09d0",
+          "user_name": "まゆ｜脳と心の自律神経リセット習慣",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315232686/profile_64d95d9ff86a69aac2d2494fa448f652.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして✨\n『矢場とん　ぶーちゃんハウス\nってあるんですね！初めて知りました💕🤗\n\nステージで踊ってるのかな？姿かわいいです！\nのんびり２日間が終わったので…",
+          "article_title": "せっかくの連休なので……",
+          "note_key": "n2a8bd182f1c2"
+        },
+        {
+          "key": "nc500f8ec6286e",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n記事の前半で「思う」が強調されてたので、思うだけで終わるのかなと思ってしま…",
+          "article_title": "せっかくの連休なので……",
+          "note_key": "n2a8bd182f1c2"
+        },
+        {
+          "key": "nc9e7ff394f617",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぶーちゃんかわいい！！\n私はこっから3連休なんですが、こっからノープランなんですよね～。\n何かしたいなーと思ってるので結局何かして楽しんだら勝ちだし、何もしない…",
+          "article_title": "せっかくの連休なので……",
+          "note_key": "n2a8bd182f1c2"
+        },
         {
           "key": "nca3fc1a40173b",
           "user_name": "サバイバーひろこ",
@@ -8613,7 +8662,7 @@
         },
         {
           "key": "nc8eee321c093b",
-          "user_name": "Lumen C.",
+          "user_name": "Lumen C.｜好きなものに食いついて、すぐ忘れる人。🐿️",
           "user_icon": "https://assets.st-note.com/production/uploads/images/233701242/profile_34285f3b90b5f3bfc48742275f8d4a94.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "お仕事お疲れさまでした😊\n疲れているときこそ、まず「お疲れさん」で終えるって大事ですね✨\n空気を入れ替えるように気持ちを軽くする表現も素敵でした。\nいつもマガジ…",
           "article_title": "自分の中にある空気の入れ替え",

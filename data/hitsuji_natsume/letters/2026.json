@@ -1133,11 +1133,11 @@
         "start": "2026-09-14",
         "end": "2026-09-20"
       },
-      "sender": "runa",
-      "condition": "new_fans",
-      "rare": true,
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
       "stats": {
-        "likes_total": 126,
+        "likes_total": 127,
         "likes_prev": 263,
         "followers_start": 2060,
         "followers_end": 2130,
@@ -1153,8 +1153,7 @@
           "follower_count": 8560
         },
         "commenters_count": 0
-      },
-      "rare_no": 9
+      }
     }
   ]
 }
