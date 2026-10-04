@@ -1002,6 +1002,83 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 217,
+        "likes_prev": 194,
+        "followers_start": 976,
+        "followers_end": 1025,
+        "new_fans": 59,
+        "comments_total": 11,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:31"
+        ],
+        "top_article": {
+          "title": "【迷える創作者のための処方箋（嵐のギターレッスンと、AIイラストの羅針盤）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.60",
+          "key": "nadb8b58befe3",
+          "likes": 166,
+          "comments": 11
+        },
+        "notable_reader": {
+          "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+          "urlname": "ai_hakase",
+          "follower_count": 7746
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nc2de023487bae",
+          "user_name": "コタ@AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319743552/profile_873d4182e19134eeb1bbddb33e4b3ea9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、こんにちは！\n\nまだまだ駆け出しの私にとっては非常に奥深く、勉強になる内容でした！\n\nありがとうございます！",
+          "article_title": "【迷える創作者のための処方箋（嵐のギターレッスンと、AIイラストの羅針盤）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.60",
+          "note_key": "nadb8b58befe3"
+        },
+        {
+          "key": "nc50dd77801269",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joe Tsukasaさん、こんにちわ！！\n\nプロプラを「参考になるプロンプトがたくさん」って紹介してくれて、ありがとうですっ！\n\n嵐の日のギターレッスンから、…",
+          "article_title": "【迷える創作者のための処方箋（嵐のギターレッスンと、AIイラストの羅針盤）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.60",
+          "note_key": "nadb8b58befe3"
+        },
+        {
+          "key": "ncc6339a0bb566",
+          "user_name": "yyar_Takuya Kuze 久世拓弥",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315335565/profile_efd8fcb95d440e1eb3388cd0a99d42c9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joe Tsukasaさん、こんにちわ\n画像みました！\n\nとても綺麗です\n余白をもたせてる所がJoeさんのイラストを引き立てている感じがします。\n\nスマホサイズ…",
+          "article_title": "【迷える創作者のための処方箋（嵐のギターレッスンと、AIイラストの羅針盤）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.60",
+          "note_key": "nadb8b58befe3"
+        },
+        {
+          "key": "nc3e9952bd670d",
+          "user_name": "AIU(アイユ)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292505734/profile_3e8549b785a2e8dc68f32a35dadea4ce.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、こんにちは\n目からうろこ(⊙⊙)!!\nおっしゃる通り！って思いつつ上達しない自分。\n否、上達しようとしない自分💦\nそして直観に頼りがちな自分。\nはぁ…",
+          "article_title": "【迷える創作者のための処方箋（嵐のギターレッスンと、AIイラストの羅針盤）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.60",
+          "note_key": "nadb8b58befe3"
+        },
+        {
+          "key": "ncec41f0eb4ba0",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Joeさん、こんにちは✨️\nプロンプト、公開されているものを切り貼りしたり、\nAIに生成してもらったり、\nまったく上達しませんｗｗｗ\nこのままではと思いつつ、な…",
+          "article_title": "【迷える創作者のための処方箋（嵐のギターレッスンと、AIイラストの羅針盤）】 #プロンプト #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.60",
+          "note_key": "nadb8b58befe3"
+        }
+      ]
     }
   ]
 }

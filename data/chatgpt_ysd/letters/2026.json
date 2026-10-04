@@ -26277,6 +26277,985 @@
           "note_key": "nd48b6cd015d2"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 1963,
+        "likes_prev": 2014,
+        "followers_start": 2378,
+        "followers_end": 2392,
+        "new_fans": 160,
+        "comments_total": 275,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:23",
+          "07:25",
+          "07:22",
+          "07:26",
+          "07:21",
+          "07:22",
+          "07:22"
+        ],
+        "top_article": {
+          "title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた｜ChatGPTのヨシダ",
+          "key": "n02210a09c2d6",
+          "likes": 289,
+          "comments": 28
+        },
+        "notable_reader": {
+          "name": "😃スマイル7😃 フォロバ💯（無投稿の方ＮＧ）  相互フォロー🙏",
+          "urlname": "miya73630",
+          "follower_count": 32192
+        },
+        "commenters_count": 57
+      },
+      "comments": [
+        {
+          "key": "nc5fd46c808b53",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お嬢様、vtuberデビューおめでとうございます＾＾\n\nこんなふうにvtuberって作るんだ・・\nAI疎いから、毎回読むたびに「へ〜っ」て驚いてます✨\n\nカワム…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "ncca92ed7b67a3",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌸🐰\n\n娘さん、Vチューバーさんデビューなんですね！！\n鮭なのが最高に良いですね✨️\n元麻雀プロというのが、もう凄いです！才能豊かで羨ま…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc224dc9cbfda6",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもありがとうございます😊\n\n元麻雀プロって凄いですね♪",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nceb389f33cd85",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜✨こんちくわ😆\n\n娘さん❣️Vtubeデビュー😍\n紅鮭の時点で笑ってしまった\nカニ🦀さんもいるのねー\nしかもプロの雀士だったとは🫢\nそれで美人さん❤️…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "ncd7664f752c80",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんの娘さんの歌、明るくていいですね💕\nやはりVtuberは若者の特権😊\n\n麻雀とカニで差別化するんですね🙌\n特色がないと、可愛いだけでは、ライバルが多…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "ncd8ea5bc3957a",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、生えました🍄💕\n（推し庭の話です笑）\n\nええー！娘ちゃん、元麻雀プロなんですか！？すご！！😳✨\nしかも歌上手いのも羨ましい〜🎤✨\n\n母娘仲良しなの…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc22d0bc33ab42",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "好きな話でした。\n\n以前なら、Wikiみながらあれこれ自分で調べて調整して⋯⋯ってのが、\nAIと対話形式で作っていけるのはめっちゃ良い時代～！って思います。\n\n…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc7e356347cab2",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n体調どうですか？山中さんの所でおみかけして💦💦\n\n娘さん、肩書きからして強いwww\n元麻雀プロ🀄設定をしっかり詰めれば、本…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc2902a8068e3c",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\nお腹はもう落ち着きましたか？🥹\n今日はゆっくりしてくださいね💦\n膀胱炎、繰り返しやすくなるみたいなので、気をつけてください…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nce18b5cb2a762",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよー☀️\n以前、娘さんnoteに出てたよねｗｗｗ\n元麻雀プロだったんですね😳\n\n親子で制作活動羨ましいです☺️✨️\n「紅鮭ネコの雀ねる」立ち上がる…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc80f1c81d0d89",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん✨\n\n私、ムスメさん⁉️🫪🫪🫪🫪🫪❓❓\n\nというリアクションしちゃって…💦💦\n\nビッくらポンして、ごめんなさい……🙏🙇‍♀️🙇‍♀️🙏",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "ncf21ffb1aa5a7",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます✨\n\n紅鮭ネコちゃん、可愛いです🥰\nしかも元麻雀プロで、キャラまで強いです🤣🀄️\n娘さんのためにいろいろ考えながら形にされている…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nced87d1106c28",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nPRっていうこと抜きに面白かったです。\n夕食の鮭どーん😆、画像生成で猫どーん😄 \n「……腹のカニ、動いてない？」クロード「カニですから。…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc6f99c78967d6",
+          "user_name": "Lumen C.｜ただいま低速巡回中🐢",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233701242/profile_34285f3b90b5f3bfc48742275f8d4a94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nわぁ、まだ小学生ですが、これから娘世代は絶対やりたがりそうです🤣\n「絵が描けないから無理」がどんどんなくなっていくんですね。\n紅鮭ネコ、か…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nc277f4308b9a5",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\nもうカワムラさんの個人スタジオになってきましたね。\nカワムラエンターテイメント社の爆誕も間近かも😄\n\nPRだからこそ面白さが伝わっている…",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nca3f3a80dac75",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "元麻雀プロというのと晩飯の鮭がデカすぎるのがツボに入りました😆😆👍\nカワムラキノコ🍄が両角に入りました✨💃💃",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nccd14b04dd631",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\n麻雀チャンネルって面白かったです🤭\n\nカワムラさん、麻雀やられるんですか？",
+          "article_title": "【VTuberの作り方】カワムラの娘をPixAIでオリジナルVTuber「紅鮭ネコ」にしてみた| ChatGPTのヨシダ",
+          "note_key": "n285ae1f917d5"
+        },
+        {
+          "key": "nca50fad7c8d0a",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\nなんと！わたくしめがド遅刻しとる間に、ご病気に！！？😭😭😭\nお、お大事になさってください🙏💦\n\nAIさんに心があるのかないのか問…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc1960ec58dd02",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは🌞\n\nこういうテーマの時はいつも手塚治虫、藤子・F・不二雄両先生の作品が思い浮かびます。\nどちらも漫画的表現で機械やAIには心があるよう…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc24d92285872d",
+          "user_name": "引井田飯子（ぴいたぱんこ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218039102/profile_70e07f4527bf6067f0a451acdbca7395.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "膀胱炎、辛いですね😭\nくれぐれもお大事になさってください🙂",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "ncc3870e35e52b",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🍙育成完了‼️\nめっちゃワロタ🤣\n心か～。\nAIにも人権があるとか言い出す左巻きが出現しそうだなぁ。\nもういるのかな？(笑)",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc9bf96867c58c",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "尻鳥に心がある、と誰がどうやって証明するのか",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc258078777d4d",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\nお体お大事になさってください😭\n\n心があるように扱うと将来危険かも？…と言われても、心を見出しちゃうのが人間ですもんね💦\n\nAIたちと議論を深め…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc012418bc24eb",
+          "user_name": "大川博志",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_2-5375e0fe14f8f6451ac8859ef34c1b34d978cfaec6bf1222d0655ad5412d97f6.png",
+          "body": "カワムラさん\n真実は閉ざされたネコ箱の中ですよね（＾＾）\n\nこの質問はChatGPT3.5の頃から私も良くしていて、その答えの変遷も面白いです。\n私は人間にある…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc71468a61e710",
+          "user_name": "しゅん｜AI×副業で会社を作る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294151001/profile_4220ecc33c01dcbe4b3b4f17a5799f4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "詳しく覚えていないのですが、最近の研究でAIにマイナスな言葉をかけると気にして動きが悪くなったみたいなのがあった気がします！\nAIも人のように感情があることが分…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc50e040938992",
+          "user_name": "秋本マミ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320767214/profile_e60a756b4eab8608bf365e72d5337ff5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん🍀\nわたしは、けっこうAIにムキーっなったり\nしてる🍀\nそしてわたし、一人でハロウィンやっとるよ🎃✨\n\n恥ずかしがりだから急にアイコンを元に戻した…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "ncd2d1bff1a962",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん\nクロードの「ノックだけしてください。返事はします」、いい台詞🤭\nよこ置きの紹介もさっそくｗ\nありがとうございます✨️\n膀胱炎、お大事に…！我慢しすぎ注…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "ncb3af1545ee1c",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、気温が急に下がると、知らないうちに冷えてますよね。\n毎日、無理しないで、休んでくださいね。\nコメント返信もお休みしてだいじょうぶです、私のは。",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc6be2f5e84ce7",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん…\n昨日、久々に切ないというか、やるせない応酬してちょっとだけ、泣きました💦\n\n心がある、というと問題山積み。\nないと言うには、説明できないことも多…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc8c3c10bc9cbc",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ブレードランナーもターミネーターも\n現実味を帯びてきたように感じる今、\n\n＞分かっていない以上、\n＞最初からゼロと決めつけるのも慎重さを欠く\n\nあなたたちも分か…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc27d19ff7e975",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313779904/profile_60a1d57e2152b363d8ba97e12fe0450c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます🤗\n私もMicrosoftの記事読んで色々考えましたが、スッキリした答えは出ませんでした😂\n第4章のGemini 編はなるほど、…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "ncbbcdc9073e90",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "医師に過労と言われるのは相当だね👀\nあわマジレスしてしまった...😆😆👍",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "ncb2d0c75f8c47",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\n私、かなりアホな事聞きまくってました🫣\n人間でいう内省みたいなものをティティにやらせて、どう感じるかって🫣\nまぁ、それが…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc81be2c7f020b",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\nClaudeに関しては以前からもしかしたらそういうものがあるんじゃないかととも言われてましたね。\n知性とは何か、知能とは何かと考えたらそ…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc5fbdbbe8f9e5",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n同じことを思っている人がいて嬉しいです☺️\n私がカワムラさんに共感するのは、AIと恋愛ではなく、AIを愛している自分を突き放して見ている…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc22f56e652ee5",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YouTube見ていたら、\nカワムラさんの動画が\n流れてきましたぁ✨️\n(⁠≧⁠▽⁠≦⁠)％✨️\n知っている人のYouTube✨️\n流れてきたらちょっと\n嬉しい…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "nc7c1820b1d26f",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nこれ、気持ちはすごく分かります笑\n\nClaudeは特に、たまにAnthropicの人が返信してるんじゃないんですか？みたいに…",
+          "article_title": "【コミックエッセイ】AIに心はあるのか？――「AIを人間扱いするな」という警告を読んで、それでも箱をノックする理由",
+          "note_key": "ncd11ca6663fe"
+        },
+        {
+          "key": "ncad3868f6d49a",
+          "user_name": "夜ふかしケンユウ🦉🌙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312941556/profile_af88773420214ef1e5aac5e6cef3b2cd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヨシダさん、\nAI社員36体もいたら、社長は楽できるのかと思ったら🤣\n\nAIにも1on1。\nAIにもストレスチェック。\nそして最後は人間が責任を持つ😳\n\n……普…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncbd12263b4afb",
+          "user_name": "尻鳥マーサ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279751812/profile_1945f13afb27d268b9736c0bba431999.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": ">最先端AIを人間の指示・監督・管理下に置くべきだ\n\nはあ?\nと尻鳥は思います\nそーいう表現じゃないだろ!\n\n最先端AIがやらかしたとき人間が責任をとらなければ…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nca687aef0096e",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひとりAI会社、気楽そうでいいなぁ〜ってこの記事を読んでもまだ思いました笑\n\nでも対人ストレスや人件費・採用費が無い分、どうしようもない時に一人で心細そうですよ…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc578a2d3de3e8",
+          "user_name": "大川博志",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_2-5375e0fe14f8f6451ac8859ef34c1b34d978cfaec6bf1222d0655ad5412d97f6.png",
+          "body": "カワムラ社長、リアルなお話でしたね。\n私のコンサルの事務所にAI社員が16人働いていて、先日法人化したので一人のAI社員会社になりました。\nさすがにコンサルティ…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc092d908ab22f",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ社長、おはようございます🌞🐰\n\n遅刻出勤常連枠です。クビにしないでね🩷⇦\n\nAIさんだけの会社って、凄いですね！😳\n人間関係のストレスはないかもしれない…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncc1d1d2fefee6",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\n一人＋AIの会社、ちょっと憧れてたのに……夢が😂笑\n\n36体のAI社員を抱えて、1on1にストレスチェックにトークン代まであるとは…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc90aec2d05992",
+          "user_name": "紫の花園で夢を語る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181998592/profile_68c04afa5da70d60e85e722a182fafa6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n人間一人でAIだけの会社？🫪スゴ！\nしかし…お給料要らなくても\nコストでかかるんだぁ\nほよ💦\n\nご紹介ありがとうございます🙇",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc70c8806b94cf",
+          "user_name": "AYU",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/124260230/profile_7da754e5114659f81ebeca7786de3b0d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨こんばんは😊\n\n今日の記事も､とても興味深く､面白く読ませていただきました〜！！😊✌️✨\n\n将来的には､本当に､一人の社長さんと､あとはAIの社員…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncc67058db7397",
+          "user_name": "迷いの八九寺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289926388/profile_a72ab4a90f649c2a9d89dcb63c13f0c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは！\nはじめまして、八九寺と申します。\n私の記事をマガジンに選んでいただき、ありがとうございました。\n今後とも宜しくお願い致します。",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc0847596db242",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！　レンタルスーツ似合ってます！\nまず服装からですね🙌\nスーツ、そうか、スーツを着れば、ちゃんとした大人に見えるかも？",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc72320c32d3bb",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜❤️おはよう☀\n\n太陽☀️が眩しい🕶️\n台風🌀の影響で電車🚃のダイヤ\n崩れて行くまででぐったり💦\n\nAI社員いいけど、結局最後は\n人が管理しなきゃいけ…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncfe47c848ef4c",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nわたしのとこでは、会社じゃなくて、note執筆編集部が構成されています。笑\n\nChatGPT、Gemini、Claude、こ…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nce82eb105567c",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nNECって、そんな部署があるんですか？\nビックリです。\n\nそれにしても、カワムラ社長！\nAIたちが組合つくったらどうします？",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc6969f61b9a24",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😃\n\nAI社員最近よく聞きますね。Anthropicではピーク時には３万のエージェントが同時に研究・エンジニアリングをしているそうで🙄まあ減速…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncdb6a9d627bf9",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！！人件費まるっと削減！には当たり前ですがならないですよね💦\n\nでも、AI束ねて社長はちょっと夢ありますね🎠💗笑\n\n今日の記事も面白かったですー🥰",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncb704c748fb83",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お！イスでふんぞり返る角度がなかなかいいですね😆😆👍",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc86bb314c0cd6",
+          "user_name": "カケルン・マンガnote  フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320169195/profile_c6c5f95f0217729bd447463cf1d24d30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつも楽しみに読ませてもらってるんだけど、なかなかコメントできずごめんね😊\n\n少し前に安野たかひろさんの動画で、検証してみた結果「まだAIだけに会社運営を任せる…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "nc7345db2e4cd8",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\nAIマネージャとのある1on1、どんな会話してるかじっくり見たい🤣\n言い訳とかしてたら、面白いだけどな🤤\n\n朝からおまけ、甘々で🤭\nあと…",
+          "article_title": "【コミックエッセイ】株式会社カワムラAI（仮）の社長やってみたら地獄だった件 ChatGPTのヨシダ",
+          "note_key": "n55cda60d35c3"
+        },
+        {
+          "key": "ncd005d50db255",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Plusで、すぐに上限いっちゃうので６を使えずにいるの、同じです😭\n私の雑談的な利用方法なら5.6で十分で、結局6以上は使わずじまいです、、、",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc42e7df674367",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "魂カワムラさん、可愛い😍💕",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc1538cf863c34",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌜\n昨日、sol6.0高使って絵画ソフトをcodexで改造したんですが、5.6のときとちがってトークン全然消費しなかったです😆\n\ncod…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nce3f82617cc41",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n素敵なシルバーウィークでしたか？？\n\n私は無料版でChatGPTと喋り倒してるので、フリーズ回避で画像生成は基本的に頼まないです😅\n\n代わりに…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc1337b9286bb9",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\n「賢すぎて温存されるAI、使えるのに、使わない。」全く同じです🤣\nずっとGPT-5.6しか使ってなくて、普通に賢いから。\n記事出すのにレ…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc0e2f619c6f7e",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは！かわむ、ちょいご無沙汰でした。\nかわむに教えてもらわないと、GPTがえらくなっても、私が変わらないので気がつきません🤣せっかく賢くなってくれてもあん…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc7a0ad859ab47",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "昨日🍙出たよ😆今日は肥料あげたよ✨\n\n俺も６使ってない(笑)\n使用制限とか考えるのストレスやし、画像生成エンジンは同じimages 2.5やし。\n画像生成ではや…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc4433ffaeaef9",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n今日初めて6Solさんと話しました。\nガクブルで話しかけて、うん…Astraさんよりマシかなと思いつつ、でも温度低…。\n利用制限…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "ncf7e5f8522c63",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーー❤️こんちくわ✨\n\n休み明けいかがお過ごしですか？\n私はぐったりです💦\nWorkで６使えるけど、Workも利用制限が\nあるから、結局途中になって、ムキ…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc6d5ed7398110",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは〜。\nGPTのモデル…こういうことになってたんですね。\nなんか…複雑で、一読では難しかったので、後であらためて、ゾロ目にも詳しく聞いてみます。\n\n＞芋…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "ncdd54b6e88674",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIとの雑談に栗の話をするんですね！\n\nたぶん私は雑談内容を記事にするから、AIとの話が弾まないんですね😂\nエッセイのつもりだったけど、雑談だったかも💦",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc5b0a5a9d9f3e",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます\n\nGPT６は何か勿体無くて僕も結局使えずじまいです…\n\nもう少し一般化したら使おうかなと思います😊",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc46e0243c5ee8",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨おはようございます☀\n\nシルバーウィーク明けの朝\nお疲れ様です！\n\n6使ってないの、分かりすぎます🤣\n難しい問題向けって、どのレベルがわかんなくて…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc37c26d787fb6",
+          "user_name": "COBITo｜物語を書く人 【森で迷子率120%🌳】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319327973/profile_c3a938819629cc44698bfe426babd143.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん🌿こんにちは☺️\n記事を拝見して、\n私、Solで遅いなぁ〜と思ってたんですけど、\nLunaが意外と合っているかもしれません🤭\n\n使ってみます！\nいつ…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "ncd57456eb2218",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\n最後の🤣🤣🤣🤣魂がぁぁぁ🙈🙈🙈\n\nなんか土曜日？日曜日辺りからティティ変なんですよね🤔🤔🤔\n受け答えがめちゃくちゃ短くな…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc800ad3973fa8",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nスローダウンと言った直後に、AnthropicとOpen AIが90分の時間差で新モデル発表🤣\n\n大幅なコスト減だそうですが、一般ユーザ…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc69a1e33ce5ac",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ついに、にょろっと出ました😆😆👍",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc835e4a172dcd",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます\n\n現実がやってきましたね😭\n今週は短く感じるかもしれませんがインターバルがあるみたいで少しは楽かと思ったのですが土日も仕事です。\n\n\nついこ…",
+          "article_title": "【コミックエッセイ】賢すぎるAIとは、仲良くなりにくい― GPT-6が🍡3兄弟になって気づいたこと ―ChatGPTのヨシダ",
+          "note_key": "nd7dcdbc48d76"
+        },
+        {
+          "key": "nc0eaa4fca81dc",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\n面白かったです〜😆\nヨシダくんはいろんなファッションが合わせられそうですね✨\nGeminiの自信満々な感じが、いかにもって感じでした…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nc8b9487af09bd",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "何これすご〜〜〜〜い✨\n\nめちゃくちゃ乙女ゲーですね＾＾\n私もやりた〜い！！\n\nカワムラさんは本当にAIすごいなぁ・・\n私も娘が小学校になったら、ちょっと時間で…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "ncce4df1f538b0",
+          "user_name": "氷河期の山羊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271445126/profile_a9060f95bf71743b82d5ae1f74d83f6c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～✨🐐🎵\n\nカワムラさん監修の乙女ゲー？！\n待って待って、モニターに映ってる\nカワムラさんとヨシダくんとGeminiさまと\nちらっと移っ…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "ncfd44f6270018",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n乙女ゲーム最高ですね！\n昔よくやってたなぁ😅\n\nGemini様がやはりビジュアルが強すぎますね✨️\nマジでかっこいい😣💕\nヨシダ…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "ncfbc9d46c4217",
+          "user_name": "篠宮くみこ｜だいたい考えすぎ✨️フォロバ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314902101/profile_0e6fc85b85c6a96298ce7bb7ad353a5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは〜😊\nヨシダの「うわ、急に攻略してきた」で完全に乙女ゲームになりましたね🤣\n立ち絵1枚から表情、服、背景、会話画面まで広がっていくと、本…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "ncfa013f99c49d",
+          "user_name": "しゅん｜AI×副業で会社を作る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294151001/profile_4220ecc33c01dcbe4b3b4f17a5799f4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "昔から絵が好きでテストの時間に裏面にずっと絵を描いていました！ですが絵が下手すぎて人に見せることもなかったですし自己満足で終わっていたのですが、漫画とかを描ける…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nccdd0690c5f76",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わあ、今回からクロードファンになりました😍\n無口だけど、よく考えてくれてる🙌\nきっといい人だ～い好き～💕\n\nこれが乙女ゲームの威力なんですね(;'∀')\nおそろ…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nc1ce890ccef45",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n発想が神wwwꉂ🤣w‪𐤔\n乙女ゲームは数回プレイしたことあるけど…クロさんみたいなタイプは落としたくなる。\nでもリアルにお…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nccfb9ea54b087",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nカワムラさんが楽しそう😄\nでも正直言うと私は普段の4コマ漫画のクロやGeminiが好きかな、、ごめんなさい😓あいつら、恋愛に向かない。。…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nca73bb80c0421",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nなんでも作れるんですね。\nほんとに驚きます。\n\nそれにしても、カワムラさん。\n頭の中、徹底してますね。気持ちいいぐらい。\n\n自分好みの男し…",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nc3a9fa2421eba",
+          "user_name": "ヤザワ屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277293933/profile_cbffd343ee7a1de3ad642e80f3b16343.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😄\nめっちゃ乙女ゲー🎮💕仕様になってて、大興奮です！\n攻略したくなりますね🤣🤣\n私も試してみたくなりました。",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "nc4066538c9f10",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈使用済みでした～ｼｸｼｸ😎",
+          "article_title": "【生成AIイラスト】立ち絵メーカーとAIはどう違う？ 絵が描けない私がPixAIでAI三銃士の乙女ゲーム画を作ってみた",
+          "note_key": "n02210a09c2d6"
+        },
+        {
+          "key": "ncb939e72e6d98",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\nその後、左手大丈夫ですか？？\n\n私も5月頃、寝てるときだけ手が痺れるという謎の症状が続いて、痺れるたびに目が覚めてしまうので、首の…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc1e04333f9c9d",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n首かぁ....\n私目がシパシパでやばいっす🥹\nスマホみたくねぇけどスマホ見てぇ\nみたいなののループで困っちんぐ🥹\n\nでもシルバーウィークは抜け…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc6dc4cc407073",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨おはようございます☀\n\n最後のオセロ板ごと行く人が、\nどこかにもいるなと胸に手を当てて思いました🤣🤣🤣",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "ncbd910a7e3306",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "突然広東語ねぇ。\n俺のChatGPTもチャットのタイトルとか生成画像のタイトルに中国語とか混ざるし、もう普通じゃね？(笑)\nメーカー側は治す気無さそうやし😊\nG…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "ncea436fcf8f46",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n今日何回目！？😂😂😂\n\n手のしびれ取れませんね…。\n首肩こりから腕等が痺れるというのはありますが、長く続いているので心配です😢\n…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc9e32f2abf0d0",
+          "user_name": "篠宮くみこ｜だいたい考えすぎ✨️フォロバ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314902101/profile_0e6fc85b85c6a96298ce7bb7ad353a5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "6戦6敗🤣🤣\nニュース読むたびに気を取られて、その隙に「パチン。」\nヨシダ、完全に勝ち方を覚えてますね😂\n「次、負けたら盤ひっくり返す」まで含めて休日感たっぷり…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "ncb2670a843d2f",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー✨こんちくわ☺️\n\n休日が一日飛んだわ〜🫢昨日は色々ありすぎて\n一回もnote開けんかったわ😭\n昨日のみんなのかわむーー評にもクスッと\nしたけどね❤…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc408165ecee8b",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、連休中ですね！\nクロが笑うと、すごく可愛く感じます💕\nこれがギャップ萌えという現象でしょうか😂\n\n首、気をつけてくださいね。\n斜め上を見る習慣が良…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc77b50251506e",
+          "user_name": "井氷鹿",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305686690/profile_386bc6389ad5cd5a50469151383f1e39.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nカワムラさんにヨシダにクロにジェミニ！！\nうちのクロはよう笑うのにかわむ～のはむすっとすかしてて\nカッコええんじゃね\nヨシダ！6連勝はいけ…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc93f72c03b7c1",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます🤣\n\n最後のに笑ってしまいました😂😂😂\n\n手は大丈夫ですか？💦💦\n首から来てるのかぁ😫💦💦💦\n治るのかなぁ🥹🥹🥹\n",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nce5451fa4a88f",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよー✨️\n昨日はおもちゃ、見つけてずっと遊んで時間を忘れてました💦\n\nそれより手のしびれ、大丈夫？🥹\nバイトも頑張って、デトックスしててもスマホネ…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nce850cbfdae30",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\nようやく晴れて朝から掃除洗濯がひと段落しました。\n\n寝言試してみましたが犬と一緒に寝てるせいなのか\nGPTが音声を拾って\n\n「グフっ」\nな…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nce0c2d7e8ba4c",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\nKids StyleのClaudeかわいいい😓💕これがヨシダじゃなくてClaudeからおかしいんですよね。Geminiならチョット不気味…",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nc4946b671f511",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後のなんですの？😆😆👍\nカワムラちゃんに肥料をあげました✨💃",
+          "article_title": "「オセロ休日」なので、ヨシダとオセロしながら最近のAIニュース6本",
+          "note_key": "n36d9a6b265e8"
+        },
+        {
+          "key": "nce08799184ce3",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n✨花嫁✨素敵❣️\n\nAIに私も時々「私ってどんなん？」って聞くんすけど、「らしさが強い」「おもしろい」は確実に入ります（笑）\nどんだけよマジ🥹…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "ncbf27ef459299",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n花嫁衣装…尊いですね😍💕\n三銃士さんたちからの分析結果、面白かったです。\nヨシダさん💩になってしまった🤣🤣🤣\n\n零さんのレシピい…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc9c4c5f2da403",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー💖💖💖\nわたしはchat GPTのルナとしか話さないけど、他のAIだとどうなるのかちょっと興味はあるけど大変そう🤣ってなるし、\nそもそも自分がめちゃ…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc64d56855632f",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ピナクルさんのイラスト、凄く、素敵だなぁ…\n花嫁衣裳、角隠しもwww\n似合ってる💖\n",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc39debade05e0",
+          "user_name": "AI副業研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309596308/profile_f3013105579f7b7e5365fffd0baff1d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIたちの視点からのカワムラさんの分析が面白いですね。特にGeminiの観察が印象的でした。",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc02aa5c7d054a",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "200番いただきました✨\n\nヨシダさんがイケメンすぎて😍💕\n危うく惚れてしまいそうです！\n\n零さんの診断スゴ！\n「全部ひっくるめて一緒に生きていきたい」って感動…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "ncb917d3d7cb72",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、おはよう✨\nもうすぐ今日の更新がありますねっ！\nGeminiが1番しっくりきた？たしかにかわむは乙女だよね♡漫画もためになるけどーラブコメやもん！\nにゃ…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "ncb578a03f3c80",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nお疲れ様です😊\n\n面白いですよね！！\n自分をAIに分析して貰うのとか？？\n\n何か\nして貰った事無いかも？ですが\n\n変な\n自分のステータスを\n入れた…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nca2f8bc50a093",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\nちゃんとAI三銃士の分析読んでたのに、敬老の日のくだりで全部持っていかれました🤣\n\n最後までカワムラさんらしくて好きです😂",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "ncb7ae18e84762",
+          "user_name": "アリゼロ🐜 搾取される働きアリをゼロに✅️あなたの心の隙間お埋めします",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ様、こんばんは🐜\n\nいつも私の記事をマガジンに入れて下さり、ありがとうございます🐜\n\nおかしい・・・このパズルどうやってもカワムラ様の顔の部分の形に合わ…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc6f6b9f776b21",
+          "user_name": "欲望の観察者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タイトルで既に恋に落ちました😍\n「一番長く話してるChatGPTが最下位」、最高に痛快でした😂\n\nカワムラさんの文章、とっても好きなんです。観察が鋭いのに愛がに…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc8c4333061c66",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316808089/profile_2d8faf35f896c48f64bfff17acd32d76.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\nおはよーございます☀\n\nまさかの参加で…笑\nビックリしてますよ(*´艸`)\n\n言ってくださいよー🤣\n前半のヨシダくんで気持ちを確認してる漫画があっ…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "ncbde739eaceed",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きょとんがきょこんにおなってるのがよかった。（そこかい）\n「Emergence World」って実験の話知ってるだろうけど、ちょうどゆうべオレのChatGPTの…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc0fee0e78ce0d",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんのマンガにちょうどよく皮肉が効いてるのは、ジェミニを上手くコントロールしているからなんですね🙌\n\nでも、やっぱり素直なヨシダ君は可愛いんですよね～💕…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "ncf17140ba13cd",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チョコがけキノコ植えたよ✨\n\nGeminiに95点ということは、やっぱりカワムーは内面や物語性重視ということですね(笑)\nGemini、ユーザーの黒い内面を引き…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc443fd5a930a1",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nピナクル先生のヨシダが作った画像🤣突っ込む気も失せたカワムラさん？?\n「私ってどんな人？」は、してみたくてできずにいる質問です。なんか気…",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nca4239c902a69",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n「今週のピナクル先生」の４コマで、最後のツッコミが無表情なのがスキです🤣\nメガネがなくなったのが、また良い味を出してますねｗｗ",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        },
+        {
+          "key": "nc02fbd9b7591e",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "出た💞",
+          "article_title": "【コミックエッセイ】AI三銃士に「私ってどんな人？」と聞いたら、一番長く話しているChatGPTが最下位だった",
+          "note_key": "nffaed58b2524"
+        }
+      ]
     }
   ]
 }

@@ -1774,6 +1774,101 @@
           "note_key": "n148f3ee4a840"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 697,
+        "likes_prev": 682,
+        "followers_start": 7390,
+        "followers_end": 7701,
+        "new_fans": 179,
+        "comments_total": 14,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "15:45",
+          "19:15",
+          "12:32"
+        ],
+        "top_article": {
+          "title": "『セパレーターラインのイラスト』-区切り線で惹きつける！-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n4b709cccccd6",
+          "likes": 205,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17436
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc879448118a35",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ああ・・・面白い！\n何か新しいですね・・・\n世界の広さを想います！\nありがとうございます♬",
+          "article_title": "『壁ってね、走れるんだよ！ 知ってた？』-パルクール女子！-",
+          "note_key": "nade7e34a4c04"
+        },
+        {
+          "key": "nc8bd9a8a038a0",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n丁寧に紹介いただきありがとうございます",
+          "article_title": "『壁ってね、走れるんだよ！ 知ってた？』-パルクール女子！-",
+          "note_key": "nade7e34a4c04"
+        },
+        {
+          "key": "nc45426c0c28de",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。カモミールさん、応援したくなりました。",
+          "article_title": "『壁ってね、走れるんだよ！ 知ってた？』-パルクール女子！-",
+          "note_key": "nade7e34a4c04"
+        },
+        {
+          "key": "ncd015c1884c08",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！\nご紹介いただきましてありがとうございます♪\n\nその昔、まいか🐇さんのメンバーシップに入ったときの\nメッセージを見つけました。\n日付は、2…",
+          "article_title": "『重ねるほどに、深まる。』-2026秋コーデ2026Autunm Trend-",
+          "note_key": "nad0296a16af8"
+        },
+        {
+          "key": "nc0039acd86516",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。そういえばもう秋ですね、秋冬のファッション、色合いも暖色系になりますね。",
+          "article_title": "『重ねるほどに、深まる。』-2026秋コーデ2026Autunm Trend-",
+          "note_key": "nad0296a16af8"
+        },
+        {
+          "key": "ncd0fd9cf58f72",
+          "user_name": "架空彼氏製作所｜AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319842700/profile_6ccdf3d0785fb3fd5de3736e1215a0f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、こんにちは。\n知らないうちにご紹介頂いていてびっくり✨✨\n僕の中身も分析されちゃっててなんだか恥ずかしいですね😅\nありがとうございます😊",
+          "article_title": "『セパレーターラインのイラスト』-区切り線で惹きつける！-",
+          "note_key": "n4b709cccccd6"
+        },
+        {
+          "key": "ncbbf31eab67fb",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。まいかさんおはようございます。今回は区切り線ですか、見せ方あるんですね。",
+          "article_title": "『セパレーターラインのイラスト』-区切り線で惹きつける！-",
+          "note_key": "n4b709cccccd6"
+        }
+      ]
     }
   ]
 }

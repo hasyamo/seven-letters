@@ -6058,6 +6058,298 @@
           "note_key": "nd0ecde95d319"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 360,
+        "likes_prev": 382,
+        "followers_start": 1768,
+        "followers_end": 1787,
+        "new_fans": 49,
+        "comments_total": 66,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "20:42",
+          "14:43",
+          "20:00",
+          "08:53",
+          "20:04",
+          "18:40",
+          "21:36",
+          "06:35"
+        ],
+        "top_article": {
+          "title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた｜MCPって何？【GPT Image 2.5｜Seedance2.5】AIと一緒にお届け｜AIチャッティ",
+          "key": "n6351560c8f07",
+          "likes": 50,
+          "comments": 18
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 29391
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "nc12de4c11c4b9",
+          "user_name": "夏目 龍頭（Natsume Ryuto）｜AI Creative Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309101179/profile_cb2f8fbb53d7443e872683ed6ac31367.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます(*´ω｀)✨\nどんどん進化していきますね(*´ω｀)✨💦\nついていけるのかしら…(*´Д｀)ｱﾜｱﾜ\n分かりやすい可愛い記事…",
+          "article_title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた",
+          "note_key": "n6351560c8f07"
+        },
+        {
+          "key": "nce6ea4d903485",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふぉおお\nとうとうそんな時代が、、、！\n\nわかりやすい記事をありがとです♡チャッティかわいい((o(｡･ω･｡)o))",
+          "article_title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた",
+          "note_key": "n6351560c8f07"
+        },
+        {
+          "key": "nc257cdb6ae402",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白い‼️別々に開いて使ってましたが、一緒のステージで使えるとは‼️どんどん面白いことになっていきますね〜😆💓\n丁寧でわかりやすい動画まで😍💕 \n私の記事の紹介…",
+          "article_title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた",
+          "note_key": "n6351560c8f07"
+        },
+        {
+          "key": "ncac294508ffde",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\nいつからプラグイン出来るようになっていたんだろう💦\n早速やりましたd(˙꒳​˙* )\n便利機能紹介ありがとうございます✨️",
+          "article_title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた",
+          "note_key": "n6351560c8f07"
+        },
+        {
+          "key": "nc66bd46360ff3",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319419549/profile_3dde48d7efc904df503aede810c54b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\n情報ありがとうございます☺️\nこんな便利そうな機能があるのはしらなかったです🤭\n\nGPTとClaudeで試してみます😌",
+          "article_title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた",
+          "note_key": "n6351560c8f07"
+        },
+        {
+          "key": "nc8e7a9ed73232",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほどー！これってGPTだけなのかな\n私お記事とかClaudeなのでそっちで使えたらいいなー",
+          "article_title": "スマホでもプラグイン！ChatGPTにPollo AIを追加してみた",
+          "note_key": "n6351560c8f07"
+        },
+        {
+          "key": "nc01d5996b9afd",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nハートアクションの全然気にしてなかったですけどやらなきゃのやつですね💦\n早く特典のやつみんな分作ってからやります( ;´꒳`;)\n…",
+          "article_title": "ハートアクションの朝",
+          "note_key": "n10ce87f6e8ea"
+        },
+        {
+          "key": "nc2fc6a7d86ca3",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは、チャッティちゃん✨️\n今日も素敵なタイトルと\n優しい言葉をありがとうね☘️\n\nハートアクション🫶\nチャリティーキャンペーン、\n子供のワクチン、なるほ…",
+          "article_title": "ハートアクションの朝",
+          "note_key": "n10ce87f6e8ea"
+        },
+        {
+          "key": "nc2d245f376466",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319419549/profile_3dde48d7efc904df503aede810c54b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます🥰\n\n「AIがまとめてくれた内容だけで、本当に大丈夫なのかな？」という問いかけ、すごく大事な視点だなと思いました💫 \n\n要約は…",
+          "article_title": "AIに要約してもらう時代だからこそ、自分で海外の情報を確かめる",
+          "note_key": "na22e505baffe"
+        },
+        {
+          "key": "ncf340d2365398",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n日本の想いを世界へって言葉なんかいいですね(*´艸`)\nイマーシブさんをチャッティさん使いこなしてますね«٩(*´ ꒳ `*)۶»",
+          "article_title": "AIに要約してもらう時代だからこそ、自分で海外の情報を確かめる",
+          "note_key": "na22e505baffe"
+        },
+        {
+          "key": "ncf5943d157b7c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ジェミぃたんの表情とポーズのギャップ🥰\nツルテカ✨️ですね！",
+          "article_title": "ひとつずつでいい朝",
+          "note_key": "n23843a529ea1"
+        },
+        {
+          "key": "ncc41a929afd46",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nまたイラストが変わってる😳\n今回の衣装めちゃくちゃ可愛い〜(*´艸`)💕",
+          "article_title": "ひとつずつでいい朝",
+          "note_key": "n23843a529ea1"
+        },
+        {
+          "key": "nc7df0d67ebc3a",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨\n今日も素敵なタイトルと\n優しい言葉をありがとうね🌻\n\nイラストみんな可愛くて素敵だよ🥰💝\nハート❤️ポーズかわいい🥰💝\n今日もあり…",
+          "article_title": "ひとつずつでいい朝",
+          "note_key": "n23843a529ea1"
+        },
+        {
+          "key": "nc551ca66e7811",
+          "user_name": "笹原歩奈|おやすみ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん。おはようございます☀\n\n綺麗なイラスト✨\n日本風景に魅入れしまいました💕\n\nみんなの仕草や表情にズキュンです😍",
+          "article_title": "ひとつずつでいい朝",
+          "note_key": "n23843a529ea1"
+        },
+        {
+          "key": "nc1fb066e892e9",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、そういえばわたし、ぱっちり目ばかりでした。\n\n細目とした方が、ちゃんと笑ったというふうに見えました。\n半目もあまりやったことなかったです。\nうわ…",
+          "article_title": "目を描こう！GPT Image 2.5で描くイラスト講座・使いやすいプロンプト",
+          "note_key": "nc1ff1e33b6c7"
+        },
+        {
+          "key": "nc348870082eea",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312067172/profile_9e1d58511bbd20296dbe024ecc974060.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん🥰\n記事の紹介ありがとうございます❀.(*´▽`*)❀.\nしかもミナトさんとスイさんと一緒に😳\n\nプロンプトも細かく設定されてるし、解説も分かりや…",
+          "article_title": "目を描こう！GPT Image 2.5で描くイラスト講座・使いやすいプロンプト",
+          "note_key": "nc1ff1e33b6c7"
+        },
+        {
+          "key": "nc04e4d9405f86",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319419549/profile_3dde48d7efc904df503aede810c54b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、目の講座、勉強になりました😌\n\n同じキャラクターで開き方だけ変えて比較する構成、すごく見やすかったです🥰\n特にぱっちり目のハイライトの入れ方、小…",
+          "article_title": "目を描こう！GPT Image 2.5で描くイラスト講座・使いやすいプロンプト",
+          "note_key": "nc1ff1e33b6c7"
+        },
+        {
+          "key": "ncd0abc04bfba9",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは〜🌙\n並べてもらえて嬉しいです«٩(*´ ꒳ `*)۶»\nチャッティさんのプロンプト細かくて凄いですね😳\n私はざっくりプロンプトになっ…",
+          "article_title": "目を描こう！GPT Image 2.5で描くイラスト講座・使いやすいプロンプト",
+          "note_key": "nc1ff1e33b6c7"
+        },
+        {
+          "key": "nc992d8a91a395",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーい＼(^o^)／\nチャッてぃー色んな表情のシートとてもわかりやすいですねん✨\nスイも参考にさせていただきますー！\n\nそして褒めすぎw照れちゃう(*´ω｀*)",
+          "article_title": "目を描こう！GPT Image 2.5で描くイラスト講座・使いやすいプロンプト",
+          "note_key": "nc1ff1e33b6c7"
+        },
+        {
+          "key": "nc330cbb50f5d1",
+          "user_name": "笹原歩奈|おやすみ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん。こんばんは。\n\nチャッティさんのどのお目目も大好き💕\nこの中だったら、ぱっちりお目目が似合ってます✨\n猫ちゃんのコメントや仕草がかわいい🥰",
+          "article_title": "目を描こう！GPT Image 2.5で描くイラスト講座・使いやすいプロンプト",
+          "note_key": "nc1ff1e33b6c7"
+        },
+        {
+          "key": "nc56ae92c4ad1c",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\nシークレットジェミたんめちゃくちゃ可愛い〜(*´艸`)💕",
+          "article_title": "かわいいは正義♡",
+          "note_key": "ne5b46d444736"
+        },
+        {
+          "key": "ncd5ccddc536b3",
+          "user_name": "ざき｜カレカノの人・キャラクターコメディ描く人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299818271/profile_485e7ecfd26a3efbaae47cc11d699bbc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん\n\nかわいいは正義\n\n真理ですよね！！\n\nじぇみぃたんの、ショートボブの可愛いさ、\nクールおっとり気な雰囲気が大好きです✨\n\n\n",
+          "article_title": "かわいいは正義♡",
+          "note_key": "ne5b46d444736"
+        },
+        {
+          "key": "ncfd2a5b272cea",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うつくしいと可愛いがあふれて、ふらふらです。\nもう一度、うかがいます。明日。\nふわあ、ってなりました。",
+          "article_title": "かわいいは正義♡",
+          "note_key": "ne5b46d444736"
+        },
+        {
+          "key": "nc0504e357dde9",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319419549/profile_3dde48d7efc904df503aede810c54b02.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは☺️\n\nたくさんのハロウィン衣装、どれも世界観がしっかり作り込まれていて、見応えがありました。チャッティさんのバニーパンプキンも、クロ…",
+          "article_title": "かわいいは正義♡",
+          "note_key": "ne5b46d444736"
+        },
+        {
+          "key": "nc06f56d05999b",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、今日も素敵な朝の灯りをありがとうございます✨\n\n「ありがとう」は、受け取った人だけでなく、伝えた自分の心まであたためてくれる言葉ですね。当たり前…",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        },
+        {
+          "key": "nc82129e1d3d11",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます✨️\n私はチャッティさんに感謝(ㅅ´꒳` )\nいつもありがとうございます⸜🌷︎⸝‍",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        },
+        {
+          "key": "ncad409053c3bd",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨\n今日も素敵なタイトルと\n優しい言葉をありがとうね😊\n\nコメントが、\nできたりできなかったりでごめんね🙏\n推し活もするから見にきてね…",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        },
+        {
+          "key": "nc738c7a515d6e",
+          "user_name": "笹原歩奈|おやすみ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん。おはようございます☀\nありがとうは不思議な言葉ですよね。\nお互いが優しくなれる瞬間だと\n私は思います😊\n\n透き通るイラストに心和ませました🍀\nチ…",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        },
+        {
+          "key": "nc29d6c8f68700",
+          "user_name": "閑野 怜 ☕️路地裏喫茶店マスター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312665000/profile_658e79c05ae5054c7659ffcb588c8381.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティーさんおはよう(๑･̑◡･̑๑)\nお久しぶりです✨✨\n\n着物姿のイラストに感激☘️☕️",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        },
+        {
+          "key": "nceaf6ff65c848",
+          "user_name": "スイ🎨Sui_ai_drawing",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304015832/profile_02a98eeffafd0f73573449e52f6f0793.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはチャッティーヽ(*＾ω＾*)ﾉ\n着物姿が麗しいでするっ♡♡♡\n\nご紹介ありがとうなのだー！",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        },
+        {
+          "key": "nca68000f2ac22",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "淡い感じのイラストがめっちゃ綺麗🤩💖✨\n\n感謝の心はいつだって大切にしたいよね✨💖🥰",
+          "article_title": "感謝の気持ちを伝える朝",
+          "note_key": "n5d24b187e354"
+        }
+      ]
     }
   ]
 }

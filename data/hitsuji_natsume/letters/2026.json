@@ -1154,6 +1154,157 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 198,
+        "likes_prev": 127,
+        "followers_start": 2132,
+        "followers_end": 2133,
+        "new_fans": 48,
+        "comments_total": 29,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "19:42",
+          "17:30"
+        ],
+        "top_article": {
+          "title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」｜Immersive Translate【PR】",
+          "key": "na48941d954be",
+          "likes": 128,
+          "comments": 13
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17437
+        },
+        "commenters_count": 12
+      },
+      "comments": [
+        {
+          "key": "ncdfa1075be03a",
+          "user_name": "辻 智也｜広告運用 × AI動画で素材量産｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300687665/profile_1ce836bea6264c00993b40412f92a0af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「from age to age」が「from rage to age」になって、日本語訳に突然「怒り」が現れるところ、思わず笑ってしまいました🤣 翻訳の精度だ…",
+          "article_title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」",
+          "note_key": "na48941d954be"
+        },
+        {
+          "key": "ncf9a9b4541895",
+          "user_name": "三宅 実｜AIツール検証ノート｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300685685/profile_bf9a5629ab7c1879be0ea97203006f9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「意味は合っている。でも、歌えない。」という一文が、この話をかなり分かりやすく表している気がしました。翻訳って正解の単語を当てる作業だと思いがちですが、歌詞なら…",
+          "article_title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」",
+          "note_key": "na48941d954be"
+        },
+        {
+          "key": "ncf1950c62718b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さーん✨\n\n検証も面白かった❣️\n翻訳はどれだけ確認するか\nかなぁ💦\n七尾さんのMV良かった🌸\n世界観が好き❤️です♪\nアンバーはずっと人の人生を\n見続けて記…",
+          "article_title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」",
+          "note_key": "na48941d954be"
+        },
+        {
+          "key": "nc9fdb85fbbc92",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "七尾くんは相変わらずカッコイイ〜😆💞👍\n\n英語ってサッパリ分からない俺には\n羊ちゃんの大変さが全部は分からないけど\nお疲れ様でした🥰✨😉",
+          "article_title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」",
+          "note_key": "na48941d954be"
+        },
+        {
+          "key": "nc1909ffd67336",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "次のジャラジャラに全てを持っていかれましたwww\n\nそして、検証おつかれさまでした！！！",
+          "article_title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」",
+          "note_key": "na48941d954be"
+        },
+        {
+          "key": "nc369218653818",
+          "user_name": "インサイド・アウト宇智川楚人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211759042/profile_97a5904f1e2a20efe1b7f41f6206384a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、こんばんは！\n一読して、ものすごく手間がかかってるな～って思うようなことをされていてびっくりしました。\n\n私にこういうのはできません💦\n\nまたいろいろ…",
+          "article_title": "翻訳できた。でも、意図まで届いた？ 英詞MVと神社発信で試した「作品の翻訳」",
+          "note_key": "na48941d954be"
+        },
+        {
+          "key": "ncb9ffe91fac38",
+          "user_name": "月結ゆり（つきむすびゆり）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255671883/profile_ec40e7cfa617d8d0fb3bb8b7467a92ae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも猫を飼っていて、もうすぐ１２歳です。\nその愛猫と重ねてしまって読んでいて涙が出ました😢\n\nいつか来るかもしれないその時に後悔しないように、\n1日1日を味…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "nc84c3674d023a",
+          "user_name": "兎(利き手療養中。多忙のため巡回遅れてます)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目さん、こんにちは🌸🐰\n\nペットさんは実際にはハムスターしか飼ったことがないのですが、彼らの寿命は一年ほどで、本当にあっという間でした。\n子供心なりに、死を理…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "ncf5838e864a23",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さーん✨こんにちは♪\n\nロシアンブルー魅惑的な猫さん\nですね😆\nそっかいつか来る日はあります\nもんね💦\n今の毎日を大切に一緒にいる\nそれが一番なのかなぁなんて…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "ncb809958104df",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目羊さん✨こんにちは☀\n\nうちにも、今年16歳になった黒猫🐈‍⬛がいます。\n今までもずっと甘えん坊だったけど、\nある日……ふと異変に気づきました。\n\nまだまだ…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "nc66c360351e25",
+          "user_name": "ひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241463144/profile_529dd5cae7ca1293d51c40bbe9f3664e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「いつかくる日」を感じた後は\n何も変わらず、ずっと一緒にいる事が\n1番大切なんじゃ無いかな？\n\n何をしたってその日が来たら\n「もっと遊んであげれば良かった」とか…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "nc2b39f15aab29",
+          "user_name": "錆木蒼｜ミステリーとホラーとAI",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282348456/profile_f4f46e862023682a71c2d539d605a5d7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さん、こんばんは🌙\n\nウチにも猫がいるのでめちゃくちゃわかります…\n9歳なのでまだ若いのかなあと思いつつ、ちょっと調子が悪そうにしているとやっぱり心配になりま…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "nc64c7e1799511",
+          "user_name": "ミノリ・グルーヴ@Minoriからの転生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317947200/profile_c5956bda349a8df16555f1e5321c9580.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目羊さん✨\nこんばんは♪\n\nいつか来る日…あまり考えたくはないですね。\nいつもと違った様子だったので\n何か変化があったのだろう、とは思っちゃうのですが\nご年齢…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        },
+        {
+          "key": "nc9ddbf549252a",
+          "user_name": "ざき｜カレカノの人・キャラクターコメディ描く人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299818271/profile_485e7ecfd26a3efbaae47cc11d699bbc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目羊さん\n\nうぅん……読んでいて、当たり前っていつまでもあるものじゃないんだなって、改めて思いました。\n\nぼくも猫と暮らしたいと思ったことが何回もあったんです…",
+          "article_title": "一言日記",
+          "note_key": "nd020b3367a47"
+        }
+      ],
+      "rare_no": 9
     }
   ]
 }

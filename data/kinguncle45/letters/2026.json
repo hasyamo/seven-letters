@@ -10237,6 +10237,941 @@
           "note_key": "n1a59170d45a9"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 1292,
+        "likes_prev": 1526,
+        "followers_start": 1900,
+        "followers_end": 1931,
+        "new_fans": 108,
+        "comments_total": 268,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "19:30",
+          "22:13",
+          "00:03"
+        ],
+        "top_article": {
+          "title": "note攻略法2.0（再度、上から目線😆）",
+          "key": "nc6aa647d66aa",
+          "likes": 362,
+          "comments": 70
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 20502
+        },
+        "commenters_count": 76
+      },
+      "comments": [
+        {
+          "key": "nc8bcb1fdfee99",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncdac4df590aaf",
+          "user_name": "Micchi",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/209562465/profile_442a9aacc1463b5d33a77640ba7ab143.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん　おはようございます😊\nマガジンへ追加していただき、ありがとうございます❣️\nお疲れの日は、何にも考えずにたっぷり寝て、英気を養って\nくださいね💕✨…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc5e052201fdaf",
+          "user_name": "ヤマコヤーマン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264908732/profile_22f5b0d83f87ee87628a50db08f251bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、いつもマガジンに追加してくださり、ありがとうございます。私も何だかズーンと疲れてしまいました…こんな時はやっぱりロックですよね",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc91d72a87b33d",
+          "user_name": "きみこのSoulルーム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/208541487/profile_b8e04433295dbc046967147402b4f003.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん🪐\n\n今回の曲、いつもより渋めですね〜🎵\n\n歌詞を読んでいて、私が気になったのは\n「今日はまだ大丈夫だった」\nというところ。\n\n大きなことが何も起こ…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc8388135f0e5c",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "​キングさん、こんばんは🍁\nお疲れ様です！脳がマッハ拒否を起こしているときは、ちまちまモードが正解ですね🍵\nいつもたくさんのスキや紹介、ありがとうございます。今…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc708128052ed4",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc1df76f0ef1a6",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます✨\n季節の変わり目ですし、ちょっとお疲れなのかもしれないですね💦\n無理なさらず、体調整えてくださいね🍀\n\n戦場はロックでかっこよ…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc2ec3956909e9",
+          "user_name": "おいしい挑戦ノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218229376/profile_a4b79f7dde5f6ac8cc41549a271c78b1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、マガジンに追加していただき、いつもありがとうございます😊\nマッハ速読が使えないほどお疲れなのですね💦 無理せず、ゆっくり休んでくださいね🍀",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc5c4962a9c112",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\nいつも使われている速読が難しくなるほど、お疲れが溜まっていらっしゃるのですね。そのような時は、お言葉の通りに歩みを少し緩め、ちまちまと進ま…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc548ff421b40f",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、今晩は🌔\nお疲れモードだったんですね💦\nそんな時は「ちまちま活動」くらいがちょうどいいですよね☺️🍀\nマッハ速読が使えないほどとは…😳\nどうぞ無理…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc1b306b233f67",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、こんばんは。\nRogersページお立ち寄りいただき、毎回のマガジンtysm:）\nに追加して頂き心遣いに感謝申し上げます。\n\nおまけ：戦場（背中を合…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nccf2ec60adaed",
+          "user_name": "松風みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280266907/profile_86d734756ec0fe2d4cf5568f3b0b1082.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "速読出来ません。。凄いです。。記事載せて頂きありがとうございます。",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc45e27eb394c2",
+          "user_name": "ｓｅｏｒｉ🧚‍♂／ライトワーカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316943507/profile_e0c071d89a65299b21509201b88da55b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Ｋｉｎｇさん🧚‍♂\n\n\nめちゃめちゃ　この兵隊可愛い💕過ぎて\n敵来たら　逃げだしそう🤣\n\n初恋愛💕小説　マガジン載せて下さって\n感謝致します\n\nいくつになっても…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncf61a2bedc4de",
+          "user_name": "令和　舞",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234789263/profile_b88eee04a293b6ffb436e21f045323d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん　こんにちは☺️\nだるおも、ツライですよね！\n\n季節の変わり目…\n雨の日の多さ…\nお仕事頑張りすぎ…\n\n無理しないでくださいね🙏\n\nいつも本当にあり…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc8654ca536a56",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんがだるおもとは！\nお疲れ様です🍵\n\nそれにしても、速読できるのすごいなぁ・・\n\n私も練習しようかな。\n読むのめっちゃ遅いんですよね🌱",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc549b7adb134f",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、急に寒くなってきましたよね。\nだるおもー😆が共感でした（笑）\n\nご自愛くださいね～😌🫶",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc362e2bc0f603",
+          "user_name": "静かな猫のノート　しずねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312346376/profile_cac662fa9ae4e953e3a7f4c187ce072f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんばんは✨\n\n疲れがたまっていらっしゃるとのこと、心配です。\nゆっくり休んでお体を大事になさってください。\n\nマッハ速読のスキル、僕も身に付け…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncd8655b60a48a",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもはマッハ速読、凄いですね😳",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc582f754ab054",
+          "user_name": "さくらこ｜ゆらぎ肌に寄り添うノ ート ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269508609/profile_6a4f8c1d8cdc854b89ca9a862cd58137.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\nかなりお疲れがたまっているのかな…と少し心配になりました😌🌿\n\n「マッハ速読が使えません」という言葉からも、いつものペースでは動けな…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncd11e3756b835",
+          "user_name": "大志（DAISHI）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268511912/profile_6452f8ea0b25f3651341731ad624ac4e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🍀\n大志（DAISHI）です。\n\nマッハ速読が使えない日も、\nちまちま活動の日も、\nあっていいんだと思います✨️\nどうか、ゆっくり休んで…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc0752f2a6b485",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\n曲かっこよくて素敵でした☺️♡\nコングラボードもおめでとうございます🎉\n\n季節の変わり目ですので、\nご自愛ください🍀\n\nいつもあり…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nca23c4c6b4b1d",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たくさんのコングラ、おめでとう御座います㊗️\nおまけの曲、カッコイイですね。",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc770de6a7a645",
+          "user_name": "せかいあゆむ（瀬海歩）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nおはようございます☕️✨️\n音楽の出だしで掴まれました！\nカッコイイ！\n音楽って出だし７割だと思います。\n\nお疲れ様です✨\nいつも感謝しております…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nca068307887b5",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298590411/profile_4949205ce5eb385471402a597ed9bb26.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、おはようございます🌞\nマッハ速読が使えないほどのお疲れモード🤣🤣🤣\nいつもなら「シュッ！シュッ！」と読んでいるところを、今日はちまちま活動なんです…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc618063574181",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん　\nお疲れ様ですね🫶\n御身体の調子がイマイチなのですね。ご無理のないようにね。\n芽が息吹く頃と葉が落ちる頃は、身体を厭う時と言います。\nどうぞ、ごゆ…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncaff9e4f9390f",
+          "user_name": "佳代 | 豊かに活きる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311709834/profile_1490c56d476df6e1d606f3ea9c63e733.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは。\nお疲れのご様子、、\nたくさんの記事を読まれ\nわたしのnoteにもご訪問くださり\nありがとうございます。\nマガジン登録もいただき嬉しい…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncbb9434525e4b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\n疲れてる時、速読できないの\nわかりますー\nゆるゆるでいいと思います☺️\n曲も素敵かっこいい✨",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc32df55f181be",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！Kingさん！！\n良記事認定嬉しいです🤩\n本当にご馳走をふるまっていただいたみたいです！！\n曲はのちほどじっくり聞かせていただきます✨",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc0389c06258fc",
+          "user_name": "MOON｜違和感の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297235049/profile_3787ea4681c48b2f354181430c62e6fd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\n\nお疲れ様です。\n曲カッコいいですね☺️\nマッハ速読取り戻すまでゆっくりおやすみください🌙✨",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc0acecd99f11b",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コングラボードの作りが、明らかに変わりましたね。\nnoteだけに、ノートをモチーフにしたものに変更されており……今までのものがどちらかというと、上位という感覚を…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc8716c48e2639",
+          "user_name": "Grace Light ─ 星に導かれて",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/207757596/profile_ac58b5c0e389afdf3e43314b719edc42.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\n記事の中でご紹介いただき、\nありがとうございます😊🍀\n\n少しずつ色づいていく様子を\n追いかけて書いた記事なので、\n取り上げていただけてとても嬉し…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc4c5daeb7b215",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご馳走ふるまうぜぇぇぇぇぇっ！！！🎵\nがいい！🤣\n\nふるまってもらいたいぃぃぃぃぃっ！！！",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncaa5a49fe68c5",
+          "user_name": "自己理解思考みやっち",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309737589/profile_8e0bf1163d270bf0aa7c05324671869c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n紹介してもらえて、すっごく嬉しいです！ありがとうございます😊",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncad6746b6130f",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\n「お疲れモード」\nゆっくり休んでみて下さい、と\nオバちゃんは思います✨\n\nマガジンにも入れて頂き\nありがとうございました。",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc16f69f0ff209",
+          "user_name": "運命デザインラボ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297649522/profile_ff17ddc06d080c2f2eae308cc73abb58.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「お疲れモード😆」という率直な始まりに、今のKingさんの時間が伝わってきました。\nいつものマッハ速読が使えない日に、無理に速度を戻そうとせず、活動の歩幅を小さ…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc7359cdf7a8bb",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\nアイコン、本当に可愛いです🥰\nしかもスキを押した時にも出てきて、2回も幸せな気持ちになれました☘️\n\n「マッハ速読」って、なんだか…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "ncef4e8475bd5c",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\n\nかっこえぇ曲ですね✨\n\nめっちゃ男！！！感✨",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc7328cf40097e",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n私は疲れてなくてもマッハ速読が使えません🤣💦\n\nあったかい曲ですね🥰\nいつもありがとうございます🍀✨️",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nc7f9809eb7203",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは\n\n日々、体調万全なんて難しいですよ。\n\nきっと、ご自身の事、ご家族のことと色々と大変でしょう。\nゆっくり、しっかりお休みを取るのも、仕…",
+          "article_title": "お疲れモード😆",
+          "note_key": "n22d50c919b53"
+        },
+        {
+          "key": "nccc1d4f2230c2",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc74ab6cca9a7b",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc22c1a9f15252",
+          "user_name": "松風みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280266907/profile_86d734756ec0fe2d4cf5568f3b0b1082.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。桁違いに、好きマーク、フォロワーさん。。凄いですね。。。記事載せて頂きありがとうございます。",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc69d67a6b6733",
+          "user_name": "お役所のエクセル EXCELでつまずかない！公務員の実務で必須の操作をまとめて解決",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/208598378/profile_f3327b61dfab1662d645f76803a03a9d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「PVとは、あくまでもクリックやタップによって開かれた回数であって、実際に記事が読まれたことを保証する数字ではないということだ。」、確かにそうかも。\nとなると、…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nca59904de95a7",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんの分析記事大好き＾＾\n\n毎回読んで「へ〜」となっています。\n頭が良くてうらやましい🌱\n\n運用を指導するメンシプとかやってもいいのかもしれませんね🌱",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncadddc7fd0d2c",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、こんにちは。\n\nRogersページお立ち寄り、そしてマガジンtysm:）に追加、\n温かい心遣いに感謝申し上げます。\n\nタグの効力が低下する変わり目…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc0e8af941af8b",
+          "user_name": "せかいあゆむ（瀬海歩）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/251395522/profile_6cb1552f68e13741419dd072f35f914e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんにちは☕️✨️\nいつもありがとうございます。\n歌の歌詞は創作なので刺激的なときもあるけれど、行動は誰よりも誠実で感謝を忘れない。そんなところ…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc8b3d074dc861",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、\n「感謝の先にラッキーが待つ」本当にその通りですね✨✨\n\nマガジンの存在の大きさ、すごく感じます。見て知っていただけることがすでにありがたいのに、…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncdd0bd0afa48d",
+          "user_name": "easy_maro",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256766919/profile_95c029f66c0705b539bfd52918b77250.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すっごー(⌯︎¤̴̶̷̀ω¤̴̶̷́)✧︎\n\nあとでまた\nじっくり読み返したいと思いますっ",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc804a5ac16a34",
+          "user_name": "みこパパ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278629460/profile_d330da3ed6fe2bef103074673998c448.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、もっと読まれたい！と思いながらも、ほぼ何もしてこなかったので、参考になりました✨\n\nまずは、知ることですね😊\nどれか一つでもできそうなものを決めて…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc065782483f9a",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\n\n頭脳すごい！！\n語彙力がなくてすみません💦\n\n色々な数字の見方があるんですねー！\n自分にはわかりません💦\nどうやったらこうなるっていう分析でき…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nca71ab7a1ee20",
+          "user_name": "黒米たけし",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234585253/profile_22b67fe04fba4ffcf2951bf73a82c99a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん。\nおはようございます。\n\nnoteの仕組み等とてもよくわかりました。普段、あまり目にすることがない内容でしたが、本記事のおかげで知れました。ありが…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc1aaaaf280e16",
+          "user_name": "きおくのかけら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275185500/profile_ee9b4e90a4a95c31ecc31cc2eb8cc09d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "勉強になります。\nありがとうございます。\n脱線しがちな私なので、マイペースで歩みます✨",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc4e06ba3f8e2a",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、マガジンの影響ってやっぱり大きいんですね😊\n数字で見るとかなり分かりやすかったです。\nスキやコメントも、数より普段の信頼関係が大事ですね✨",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncd120c28e9dbd",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nいつもながら分析がさすがですね😍\n私は…真実を知るのが怖くて🤣💦\n\nいつもありがとうございます🍀✨️",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc1db51f97631c",
+          "user_name": "じゅんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/264606998/profile_3edebb8ec7da186bb321afc081d561b0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "団長！\n大変勉強になりました🙇\n\n「感謝の先にラッキーが待つ！」\n名言いただきました🤣",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc9b93705c00bc",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます✨\n\nうわぁぁ、すごいです😳✨\n今回は文章のお話の仕方もあって、いつも以上にKingさんが目の前で解説してくださっているように感…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc1b53ac009cfe",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがKing殿。そうなんですな〜。\nnoteの世界もリアルの世界もきちんとした大人の付き合い方でいきたいですな。\n好きの分析やコメントの分析とても参考になりや…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncf41b7594d16b",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n新ダッシュボードのデータ分析から導線の作り方まで、非常に具体的で説得力のある運用論を拝見いたしました。\n\nマガジンの重要性やタイトルの工…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc5f147430f6de",
+          "user_name": "ぶっくん｜AI の時代だからこそ「これでいいのだ！」クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/136118870/profile_f275d2a66d2d86855671afdff8cbe506.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n記事の紹介してくださりありがとうございます😭\n\nあの記事をそう思ってもらえたの事、そういってもらえてとても嬉しいです✨\n\nいつもありがとうございま…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc14ac4256c7a5",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "大変参考になりました。\nありがとうございます",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc7224f23cf200",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさーーーーーん👑こんばんは😊\n\n記事をご紹介いただいて、ありがとうございます✨\nこれはめーっちゃ嬉しかったです💖\n\n私も、noteを続けるうえで「感謝」…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc49c7d0e232f7",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298590411/profile_4949205ce5eb385471402a597ed9bb26.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは🌇\n……す、すごい😳\nここまで数字を出して、実際の運用まで分析しているのがすごいです🤣\n\nインプレッション、PV、開封率、スキ、コメント…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc1ca714994392",
+          "user_name": "ミライ｜売れるnoteの整え方🐰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/277227967/profile_04df5f7e579d82b58ec857e98e48fc30.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、紹介ありがとうございます😍",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncd8c18af6ae0e",
+          "user_name": "コバンのしらべノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291695815/profile_57777ded6ca089b9ecb9de150acae99c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、記事紹介していただいてありがとうございます😊\n\n私もKingさんの考えとほぼほぼ同じです。\nただ、フォロワー数の割にKingさんのようなインプレッ…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc2fd61a9e93bd",
+          "user_name": "ふあふあころね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239951906/profile_7efdd81fb27c45ba02e154904afc9364.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌷\nいつも貴重なスキ、ありがとうございます😊\n\nいつも素敵なマガジン様に追加して下さり、ありがとうございます✨🙇‍♀️\n\n凄いですね✨K…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc23ae7929a616",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\n感謝の先にラッキーが待つ\nその一言に尽きると思いました🤣\n数字は数字されど数字\n自分でどう読んでいくかかなあ☺️\n\nいつもありがと…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc1c416c072da2",
+          "user_name": "さくらこ｜ゆらぎ肌に寄り添うノ ート ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269508609/profile_6a4f8c1d8cdc854b89ca9a862cd58137.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん👑📊✨こんばんは♪♪♪\n\n「再度、上から目線😆」ってタイトルで笑って入ったのに、今回はかなり実践的で、普通に勉強してしまいました🤣\n\n特に私はマガジ…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncaf39fe86c681",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん！\n\nめちゃくちゃダッシュボードオープンで笑いました🤣\n\nそれくらいの緩さが私は好きです😁",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "ncb656ba805eaf",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\nたまには上から目線バージョンがあっても\nいいと思います。\n人生のスパイス、ということにいたしましょう。\n\nマガジンにも入れて頂き\nありがとうござい…",
+          "article_title": "note攻略法2.0（再度、上から目線😆）",
+          "note_key": "nc6aa647d66aa"
+        },
+        {
+          "key": "nc68934e51d56f",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nいつもマガジンに追加して頂きありがとうございます✨😊\n\nスキ外しって本当にあるんですね😳\n以前から言葉としては聞いたことがありましたが、通知とスキ…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncacd31a5b1449",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc2b67f9f5a73a",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "​Kingさん、こんばんは🍁\nお疲れ様です。\n記事のシェアありがとうございます。\n通知と一覧の照合で毎回となると、モヤモヤしてしまいますよね。モチベーションにも…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc0b98b3a4af67",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつもありがとうございます。\n記事、マガジンへの追加、感謝申し上げます。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nce652c0478d74",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncc2d53956880e",
+          "user_name": "ひーちゃん｜奇跡の編集室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312071047/profile_6835c1d06ebf6c5740432b8b2506997f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは🌸\n\nちょっとモヤっとしますよね\nたまに、いらっしゃいますよね\n\nいつも、マガジン掲載ありがとうございます🌸\nすごく励みになっています✨",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc93e17d732c6d",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつも本当にありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nca55f1c2b2b9d",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは。\n\nそんなことあるんですね、、\nなんでそんなことをするのか、、わからない。。\nお知らせいただきありがとうございました。\n\nそれとマガジ…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc7c5cc71f84be",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\nそんな芸当があるのですか。\n謎ですね。。。\n教えて頂き、ありがとうございます✨",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc6d44ca6d895f",
+          "user_name": "haremithu | 迷う母に言葉を🪷|",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300270354/profile_0b70dd6594b94dad053483ab06b190a5.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキ外し😳\n何でするのか意味不明です💦\nされたらモヤモヤしますよね😭\nこの記事を読んで私はちゃんとスキ押しているのか心配になってきました😱\n\n先日はマガジンに追…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nce2d52316b044",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "妖怪好き外しの正体がついに判明したんですね・・笑\n\n意図的にやってる人はブロックでもしょうがない気がします。\nみんなされたら、嫌な気持ちになりますしね💦\n\nno…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncd58f273da4ac",
+          "user_name": "mimi｜生き延びるための静かな考察",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282211059/profile_18983e058a211095cabe67891fd8784c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんはvv\nスキ外し・スキ消しなど、そのようなことがあったのですね💦　でもスキをおした筈なのに、次いったら押したはずのスキが消えてたことがあり…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc7c04e4d44d9f",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\n\nわたしも、なんか数字合わないなぁーと思ってたら、やっぱり計画的に外されてる方っていらっしゃるんですね！\nそれを特定できるってすごいです！！\n\n…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncaea693523780",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキ外し、狡いやり方ですね。\n私も経験があります。\n根拠を知りたいですね。\n改めて、コメント失礼します。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc7ecc52ad2595",
+          "user_name": "緋乃先生のここだけ話（運営：蒼太）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296682148/profile_2fbb956554039f861c7cf6ae5d771443.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキ外しというものが存在するのですね…\nはじめて知りました😰\nフォローでも似たことがあるんですかね。。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncf4b9e52c8860",
+          "user_name": "龍神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313757827/profile_95c4b6157961d49586f707b644e195ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😊\n\nモニター1にスキ一覧を出して、少し時間をずらしてモニター2にもスキ欄を表示。\nモニター3で相手を特定して、ひたすらブロックですね🤣\n\n最近もうひ…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc5d9c8cce290f",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お気持ちわかります。\n\nマガジンなので\n調べる気になれば調べられますものね。\n\n困ったものですね！",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc83d2f5a2ded5",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ワシも被害にあってます😅\nワシは見ればわかるので常にスルーしてます😆😆👍",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc03e87e65638a",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌛*゜\n私もスキ制限がかかったときなど、押したはずのスキが消えていることがあったんです💦\nKingさんに教えてもらってからは、不安なとき…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc76c446a5f57b",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298590411/profile_4949205ce5eb385471402a597ed9bb26.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは🌆\nスキが消えることがあるんですね😳\n\n仕組みなのか、意図的なのか、外からは分からないだけに難しいですね💦\n\nマガジン運営まで考えると、…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc3dc096774ada",
+          "user_name": "てらす｜不登校から大学受験　  ASD パニック障害の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221157900/profile_64d666d2410a7e45c9b6519032c0aa66.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\nいつもありがとうございます。\nスキが足りなくなる場合は、それはどの時点でわかることなんだろう、といつも知りたいことでした。どこかで押…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc049336e045d6",
+          "user_name": "K｜病院事務出身×シンギュラリティに備える人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317264351/profile_33d061c6c60d596260d2c23bb0e017cf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは！\n\nいますよねスキ消す人😅\n消したら回復するんですかね🤔\n\nもしくはスキ制限中に押したら通知だけ飛んで消えるまでにラグがあるとか？\nそ…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc9d158c84472e",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "King さま\n\nこんばんは\n\nお疲れ様です💐\n今 流行っている？のかなぁと…\n特に 好感を持っていた方だと \nショックは大きいです🐥\n\nKingさんの発言が、…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc970b07e057ab",
+          "user_name": "ふあふあころね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239951906/profile_7efdd81fb27c45ba02e154904afc9364.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌷\nいつも貴重なスキ、ありがとうございます😊\n\n記事を拝読させて頂きました🍀\n私の押したスキも、たまにシステムのバグなのか、30分後に消…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc93ad1a35860f",
+          "user_name": "秋山ユウタ｜預けた人生を取り戻す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280763088/profile_25615797d89bfcd9fa455ef7d14bbaea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、今回も読ませていただきました😊✨\n\n特に印象に残ったのは、「証明はできない」ときちんと線を引いた上で、それでも自分の時間やマガジンを守るために判断…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc860e78882e5d",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スキが消えるのは、noteの不具合なのかと思っていました😶\nただ、どうも頻繁に起こるので、何なんだろう？と気にはなっておりましたが…\n\n意図的に外す、というのが…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc2cbb9d37d880",
+          "user_name": "なないろ和waon音　-nanairowaon-",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243669305/profile_e50bb82af81ddb75abfde3e755aec580.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nいつもありがとうございます。\nスキもですが、フォローもありますよね...\n\nしかもnoteのシステム上、\nフォロアーさんを確認できる数もかぎられ…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc8aaa63e3f815",
+          "user_name": "easy_maro",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256766919/profile_95c029f66c0705b539bfd52918b77250.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちはー\n\nそんなややこしいこと\nする人いるんだね💦\n\nわたしは\nもともとスキとか\n少ないから笑\nやられないのかな？笑",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nccaf5795ee619",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、こんにちは。\n\nRogersページお立ち寄りとマガジンtysm:）に追加\nしていただき、心遣いに感謝申し上げます。\n\n自動化をツールや反応目的のス…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nceb0d95ac1d47",
+          "user_name": "＋αサチ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291433965/profile_9bd14a41e8e961acadd2353177cb954b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nそうなことあるんですね💦\nマガジンやってるから\nちゃんと検証される\nその姿勢がスゴイです☺️\n\nしかし何のために？って\n感じです。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc4025d48459be",
+          "user_name": "タイラー｜五感翻訳家｜五感解析ラボ主宰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/194324063/profile_84c7d01cdf7bb987562b41da68ca252b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お邪魔します♪\n自分の場合には、スマホからの場合が多いのですがスキが反映されない、ということがありました。\n多くはないのですが、この場合も押せてるかどうか確認す…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncff78d51e01b4",
+          "user_name": "nagi｜副業・資格・note発信｜家族のために、一歩ずつ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296407414/profile_b69bddd868b40cd668f5192bc2b032d0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分もありました\n数はそんなに多くはないですが\n謎ですよね\n毎回はないんですが、そんな事してる人はブロックで良いんじゃ無いかな？と思いますね！",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc3900a232f6f4",
+          "user_name": "おでん🍢のつぶやき。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305561691/profile_05e0769a2dc1cd53456d9892ccee9e06.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "通知とスキが違う事があり、確認すると消されている人は、良くいますね。\n\n最低限、読んてからスキを判断してもらえば良いのですが、そんな人は何も考えてないのですね🥲",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncbbf929a7ea0e",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おぉお。最近スキ押してくれた方の記事読みに行こうとしたら\n「あれ？いない？！幻？？！」\nってなるのは、\n外されてたのかもしれないんですね？！💦\n\n勉強になりまし…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncac37bbcdc4c9",
+          "user_name": "ぶっくん｜AI の時代だからこそ「これでいいのだ！」クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/136118870/profile_f275d2a66d2d86855671afdff8cbe506.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近、そんな話をしてる人を何人か見かけました。\n\n一人はスキ逃げとか言ってましたが、\n\nKingさんの話聞いてると、変な何かが行われてるのかもですね💦\n\n",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc737c04dbdeb1",
+          "user_name": "森山 昊―KouMoriyama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247563046/profile_27223926842fbabf8af904bab0a93cd1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして。おじゃまします。\nスキ♡外し…、そんなことがあるのですね。\nそういえば、あれ？、って思ったことがあります。\n参考になりました。ありがとうございます…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc24f7daa70f83",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます。\n\nそんな事があるのですね。\n実際に知ってしまうとショックですね・・・。\n\n私は逆にちゃんと押せたか気になるのに。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc19ec1c0e1874",
+          "user_name": "埼玉の裏仕事人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285982490/profile_801c5210e09b335f944cd6cdd9950434.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "たしかに…通知があっても人数に誤差がある場合ありますよね。\nたしかに、そういう人はブロックが妥当かも…。",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc2c2753ce379d",
+          "user_name": "俊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240830637/profile_6db5e5d63617f16965953d59b8e2933e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "へーへーへーへーだす🙃\nやり方も見当つかないですし知りたくもないですが、気づくとショックかもしれない。\nスキハッカー（仮称）😎",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncd9da610b0637",
+          "user_name": "あかねこ日和＠11/8 文学フリマ東京【に-47】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266074572/profile_f2e93604e8de29a760501d2509394023.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは🌙\n\nスキ外し、私の所も多いです😖\n長いことバグかなぁ🥲と思ってましたが、あまりにも多いから意図的にされている方……結構いる感じがします…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncb415751ae37c",
+          "user_name": "mangorind2",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221570775/profile_fc9ca2ed5cc5495344196df17b41d2b3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "通知があるのにスキが消えていることがあり、不思議に思っていました。\nなるほど、こういうことが起きているのですね。\n悲しいことですが、知ることができて良かったです…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "ncb7626cc5ca27",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\n夜分遅くに、このように記事にしてくださりありがとうございます😭🍀\n\n私はまだマガジンの運営を始めて間もないので、このように詳しく教…",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        },
+        {
+          "key": "nc0d8a823f7975",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313047599/profile_f5583e3a8bed162a306663b63b381505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そっか！メール通知にしておくと誰だかわかるのですね🥴\n一度スキをつけてもはずせば制限にかからないのでしょうかね？\n意味がわかりませんね😂",
+          "article_title": "悪貨は良貨を駆逐する",
+          "note_key": "n73f05420a9ab"
+        }
+      ]
     }
   ]
 }

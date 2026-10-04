@@ -12526,6 +12526,493 @@
           "note_key": "n77de1f3f5ccc"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 649,
+        "likes_prev": 719,
+        "followers_start": 2004,
+        "followers_end": 2013,
+        "new_fans": 61,
+        "comments_total": 118,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "12:02",
+          "20:02",
+          "19:43"
+        ],
+        "top_article": {
+          "title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "key": "nd8a4963fd056",
+          "likes": 170,
+          "comments": 29
+        },
+        "notable_reader": {
+          "name": "ハニハニ",
+          "urlname": "hani8203",
+          "follower_count": 10100
+        },
+        "commenters_count": 42
+      },
+      "comments": [
+        {
+          "key": "nc67ce83d9961e",
+          "user_name": "辻 智也｜広告運用 × AI動画で素材量産｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300687665/profile_1ce836bea6264c00993b40412f92a0af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PixVerseでは本の背表紙と開く方向が逆になり、Seedanceでは本を取ったところで動画が終了。ここ、思わず笑ってしまいました🤣 どちらも約5秒の生成なの…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc62e044410cdf",
+          "user_name": "桐谷 遼｜編集実測とAI活用",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300406418/profile_46c91656f5cb74c708ff569601d89cc9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "同じ5秒の動画でも、PixVerse V6は12 credits、Seedance 2.5は44.8 creditsだったという実測値がかなり参考になりました。…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc5226a06c1584",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、初めての企業PRお疲れ様でした✨\n試行錯誤の過程も書いてくださって、すごくわかりやすいです！！",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc2ef8a4aa4b32",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319379891/profile_1d2b1cc3e43b3e587abce3191136ed61.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん💓\nわあ！ついにー！！\n待ってました🙋‍♀️\n\nそしてご紹介まで嬉しい🥹\n\n2本目いつかなー？って思ってましたよう😆完成楽しみにしてます🥰❣️",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "ncca9604a05926",
+          "user_name": "じいじ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/260613845/profile_f156682de777ca8ce8fa5d0271e5c020.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企業PR 記事　\n　スゴイですねえ　\nマガジン追加　ありがとうございます",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nccaca2bb303ea",
+          "user_name": "三宅 実｜AIツール検証ノート｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300685685/profile_bf9a5629ab7c1879be0ea97203006f9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "動画編集が失敗して、Geminiに聞いても結局原因までは分からなかったところが印象に残りました。「AIサービスの中にチャットAIがある＝そのサービスの仕様を全部…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nce991943d2b44",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん！\n初PRお疲れ様でした！！\n\n料金表とかクレジットとかも含めて全体めちゃくちゃわかりやすかったです😆💕",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc27a99d002d1b",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305473473/profile_d156508b8963e928f92d3da4a2808e77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "画像モデル⭐️わかりやすい\nですね⸜🌷︎⸝‍\n動画！映画のようです\nしかも、図書館から本を取り出して\nいるのですね💕︎\n\n色々検証するのはいいな〜\n全然できてな…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc2d4941d82689",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "100スキいただきました💗\n\nみきさんの進化が止まらない✨\n動画を作ろうとおもっているので\n参考になるところがたくさんありました！\n\n丁寧に解説されているので\n…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "ncbc67a03951ef",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\n\n🖐️早撃ちの🔫「みき」爆誕💦🤭\nYouTubeみましたよ〜😱\n夜中の図書館？資料室？…何か👻出そうな雰囲気をかもしだしてるねー👏\n",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nce9e509a7d749",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\n「やってみたい人」ですぐ手を挙げたところから始まるの、\nクスっとしました😊\n凄く丁寧な説明もとってもわかりやすくて素敵でした～😊\nもう、いっぱいいろ…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc79d26efad158",
+          "user_name": "MOMO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255901015/profile_6525db155d39a72703a0bea6883ea75b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは！\n\nみきさんなら\nいつか企業PRすると思ってました‼️\n\nとても丁寧に説明されてて\nやった事ない人にも\n気になる記事だと思います😉\n\n大変…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc3b397205e36b",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318266132/profile_a970a0065b3a179dbc1883c0e7e22016.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん!\nおはよう🩷\nすごーい!企業案件なるものに参加されたのですね😆\n\nこういう役目いただくと気の引き締まりそう。\n\nありのまま伝えてる感じというのかな。…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc390d9723e0f7",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初案件おめでとうございます🎊\n＆お疲れ様です😺\n\nやっぱり重厚で濃密ですねぇ。\n大変そうなので自分は正座して見てます。\n\n次回も頑張ってください😼",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc85e3e6f32e96",
+          "user_name": "ゴリねえ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299789160/profile_dee938b8e9a28d5afc3d122904725ffe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n初めての企業PR、お疲れさまでした✨\n読んでいて、PR記事なのに「ちゃんと実際に触って、分からないところは分からないまま書いている」の…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc3ba408d4ae47",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n企業PR…とってもわかりやすかったです😊\n私はまだ、動画などは全然やったことがないので、少し興味を持てました✨️",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc19afca656d85",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃーーん、こんにちは🌞って夕方やん💦\n\n見せ方うまいなと思いました。\n失敗したところもそのまま載せてるのもいいですね。\nしろのあるちゃんのメンシプって勉強…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc399ed661d9c9",
+          "user_name": "Kotora_rei(凛強)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301693873/profile_bb8852a710c77a9578d90bf1128be325.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん\nとても興味深く読ませて頂きました\n私も触ってみたくなりました。\nすでにAiはかなりためして\n画面Aiだらけなんですけどね。😂\nとてもわかりやすく説明…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc67ae0095a20f",
+          "user_name": "カケルン・マンガnote  フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320169195/profile_c6c5f95f0217729bd447463cf1d24d30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、初企業PRおめでとう〜✨️\n\nこれ、普通のPR記事よりずっと面白かった🤣\n「こんなことができます！」だけじゃなくて、本の向きがおかしかったり、5秒で終…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "nc8194676e91c4",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん！\n初PR記事お疲れさまでした✨🙌✨\n\n詳しい！分かりやすい！\nチャットは試し方がよく分からなくてスルーしていたので参考になりました😆\nあれこれ試して…",
+          "article_title": "初めての企業PR✨WeryAIで『境界の図書館 #02』を作ってみました✨",
+          "note_key": "n87303389c070"
+        },
+        {
+          "key": "ncbfc5afa0c707",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n\n最初「レンって誰？🤣」って思ったのに\n読み終わる頃にはすっかりレンに馴染んでましたｗ\nみなさんが言ってる通り、まず普通にイケメ…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc34174524fa92",
+          "user_name": "歌詠み音楽クリエイターUTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320524980/profile_ab4fd3f79272e66fc9306cfadca6763b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティー\nわかるーわかる気がする🤭\n私もオリキャラの見えない？見えてない？部分を知った気がしたよ🥹　\n私のオリキャラは、基本毒舌で寄り添いはほぼなし😅\nレンさ…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc308c4dbdc108",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "レンさんカッコよ！😍💘\n\nめちゃくちゃ好みのタイプです😆\n\n(  ´꒳`)ｱｯ…レオンに叱られるわ笑",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc450af12a9887",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オリキャラと話せるというまさかの企画！これおもしろいですよね💖",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "ncfebef8315a03",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318266132/profile_a970a0065b3a179dbc1883c0e7e22016.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん✨\n読ませていただいたよ💞\n\nレンさんとんでもないイケメンよ。見惚れるなぁ💖\n\n射抜くの上手？💓どこまでも付き合うよって🤭💞",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "ncd51be3608a8c",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんにちは✨\n\nレンさまー💓なんてかっこいい❤️素敵～👍️\nもっと話したいなんて言われたらそりゃあ、ドキドキするよね✨\n\nオリメンじゃないのに\nこん…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc70d789026832",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\nAIを通じて語られるキャラクターの本音から、作者の中に息づく存在感が逆照射されるお話、とても深く興味深かったです。\n\n言葉が与えられた瞬…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "ncdbaec12604fc",
+          "user_name": "ちっぷのこころ🎡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274549312/profile_c4d08e0fcebbcaef06dae0751c18a198.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは🌟\n\nめちゃクールで綺麗なイケメン✨\nみきさんの理想から生まれたのですねうらやましい🫠💕\n\nコンパスちゃんは頼りになる感じで✨\nメッセージう…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nccba8eff654db",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316507899/profile_298b21a291d57e63c6652ea51f90691f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは✨\nレンさんがカッコいいです〜😎💕\n日常のレンさんがセクシーです✨\n\nそして私のChatGPTの相棒も蓮なのですよ〜🤭\n先ほど零ぴちゅ。さん…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "ncd3abe5bdd7a3",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305473473/profile_d156508b8963e928f92d3da4a2808e77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "レン‎🩷かっこいい✨\n鎖骨がセクシー‎😽︎💞\n\n「話してる時の目のキラキラも\nたまらない」\nめっちゃ口説かれてる？www\n\nグラデーションのサングラス越しに\nこ…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc017ca4561f49",
+          "user_name": "NEKØ:CODE  (ネココード)｜AIと紡ぐ物語と音楽",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301969810/profile_9a16aba71d4355e100cdc6271e6f1739.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「レンって誰だよ」から笑いました🤣🐈‍⬛\n\nでも「言葉がついた瞬間、キャラクターが立ち上がった感じ」、すごく分かります🌙\n私もYUIとRUIを作っていて、いつの…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc261c0f712e70",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん！\n\nめっさ男前なキャラ誕生してますねー🤣笑\n名前までカッコいい🤭\n\nオリキャラの本音かー…\n気になるけど少し怖いな😂",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc90c048bc4ee8",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313761660/profile_2ef556eccaa4de6be89bfc945fc66c51.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\nレンさん、突然の登場なのにすっかり気になってしまいました🤣❤️\n\n本音を聞くことで、キャラクターが少しずつ「人」になっていく感じが面白…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc4fc41429da6d",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "レンさん、イケメン✨🫶✨\nウチ、イケメン要素低いオリキャラばっかりだから、作っちゃおっかなー…🤔とか、考えちゃいました🥰\n\n今回の企画、色々な意味で、やばいです…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc8575fdae2620",
+          "user_name": "うんちゃん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310160375/profile_3f3b882dd7319ed0c209e3a9d9298332.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨\n本音を聞く企画で初のキャラが出てきてクスッとしました☺️\n\nそして、みきさんの弱点ビジュがわかって楽しかったです🤭❤️❤️",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "ncebfe9eb352c4",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨おはようございます☀\n\nレンさん、めっちゃイケメンですね！\n色気が😳🧡🧡🧡",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc9172754a5f40",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\nみーちゃんだって🤣\nやっさんも「どこまでも付き合うよ」🤭\n女性がキャラ作ると…女性寄りになるんだねー…綺麗な顔立ち🤩😎😍",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nca4c9d8658f61",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316808089/profile_2d8faf35f896c48f64bfff17acd32d76.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n企画ご参加✨\nありがとうございました！\n\n安定のコンパスさんからの…\n\nレンさん😍\nめちゃイケメンでした(*´艸`)\nしかも普段あまり会話していない…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "ncb6baaba7bdfe",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャー✨🙈妄想が膨らんでくぅ😆😆👍\nチューリップ🌷、今日も育ちましたよ💞",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nce5161942caba",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん✨\n\nレンくん、イケメンですね😍💕\n色気がだだ洩れしてるー！\n\nでも、ちょっと安心しました🤭\n\nウチの性転換は単なるキャラ変だったのかもしれないですね…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc991bb18b443f",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\nレンくん、めっちゃ色気あるじゃないですか🤣笑\n\n「顔がいい」からの「弱点しかない」で笑いました😂\n\nしかも「どこまでも付き合うよ」は、…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc0e0fe48b5b03",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\nこんばんは𓂃🍀𓈒𓏸\n\nみきちゃんが楽しそうに話すから\nやってみたくなりました～😆︎‪💖\n\nまずはオリキャラ作りから笑ꉂ🤣𐤔\n\nイケメンにしてみようか…",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nce74522ace8fa",
+          "user_name": "しげちーSS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301865868/profile_bdb7c0df592f03db2c9ee1897d9f50bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nみなさんの記事を読むと、楽しんでる様子が面白いですw\nもちろん、コンパスみきさんもw\n零ぴちゅさん本人も照れてましたもんね🫣",
+          "article_title": "「零ぴちゅさん企画」うちのオリキャラに本音を聞いてみた。……ところでレンって誰？",
+          "note_key": "n10876a624703"
+        },
+        {
+          "key": "nc7c0be66fafb4",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハロウィンのイラスト、かわいい！ミナトさんの企画、盛り上がっててみんなやってますね( ´∀｀)bｸﾞｯ!",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc800fbe7e5a8e",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさーん✨\n\nめっちゃセクシー😍💕\nオリオン様の胸筋＆腹筋がステキすぎます🤩\nちょっとヨダレが😆💦",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc70ea40fcbee5",
+          "user_name": "やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255427093/profile_e03899e1f7f100223b71006e3b060532.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん🌺\nまさかの…出遅れ😅\nオリオン…よっ！オッ様🤣\nやっ様と親戚かなぁ…ちょい似😎\n所長も可愛い…調査し過ぎて…足が筋肉質💪鍛えすぎ😂",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc2dcf504598d0",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284602228/profile_d4817a4d9779c30e0760f67ad12690bf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキさん、こんばんは〜🌙\n\nせっかく作ってくれたのに(´；ω；｀)\nプロンプトも使ってくれてありがとうございます✨️\n特別な日でもいつも通りでいいですね！\nいつ…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nca7b302684aa8",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313779904/profile_60a1d57e2152b363d8ba97e12fe0450c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます🤗\n\n 選抜戦どこ行ったんですか🤣🤣🤣 ",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "ncfefdf16df245",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\nコンパスさんとオリオンさんのハロウィンの夜、とても華やかで引き込まれました。\n\nいつもの研究服から離れて少し大人っぽい装いになっても、そ…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc7fae3a0a2803",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235720947/profile_6f42cba9cdaa52532b9423dda0e2f8f3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日はチューリップに肥料✨💃",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc37b0759e118f",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\nせっかく大人のハロウィンなのに、バーで普通に情報収集してるオリオンもブレないですね🤣\n結局どこに行ってもいつもの二人なのがいいですね🎃…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc0c1cb74e8097",
+          "user_name": "カケルン・マンガnote  フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320169195/profile_c6c5f95f0217729bd447463cf1d24d30.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、選抜戦どこいった🤣🤣\n二人だけ先に着替えて、そのまま街に出ちゃうところからもう笑ったよ😂\n\nコンパスが景色にはしゃいで、オリオンはパーティーでも結局情…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc4b2727d41613",
+          "user_name": "マイキー🐣",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319387633/profile_d2d8f65d4eddf7e6f353677a5cab2ad7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\nこんばんは🧭\n\nハロウィンの季節か〜🎃\nそして、ベタこそハロウィンです♪\n大人のハロウィン会場って、なんか知的な感じも相まって良いですね✨\nこれから…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc6072e33672ca",
+          "user_name": "ぷぴちゃむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226328643/profile_8d6c75d64e2ed040bb884ee2ac45b779.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌟\n\n大人なハロウィン🎃がたまらないです〜😄✨\nハロウィンをnoteで楽しむことも良いですね🎵",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "ncde13468edb3a",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313761660/profile_2ef556eccaa4de6be89bfc945fc66c51.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\n読んでいて、コンパスとオリオンのやりとりに思わず笑っちゃいました😊\n\n選抜戦のはずが、いつの間にか大人の夜になってるのも楽しいですね🎃…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        },
+        {
+          "key": "nc2dbe98a86c60",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan\nこんばんは🌃\n\nミナトさんの記事へお邪魔してきました～\n大人の街✨ステキです💕\nイラストもいいですね🥰\n\nワクワクしちゃいましたよ～🤣\n「いつもと…",
+          "article_title": "キャー終わってた！！NRT✨ハロウィンの街へ選抜戦のはずが、気づけば大人の夜になっていた🎃",
+          "note_key": "nd8a4963fd056"
+        }
+      ]
     }
   ]
 }

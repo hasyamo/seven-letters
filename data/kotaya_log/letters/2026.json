@@ -7055,6 +7055,375 @@
           "note_key": "n8d414b8d17a1"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 590,
+        "likes_prev": 383,
+        "followers_start": 3521,
+        "followers_end": 3540,
+        "new_fans": 131,
+        "comments_total": 102,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "3か月放置した5,980円のnoteが、突然売れた｜有料noteの売り方を変える販売実験",
+          "key": "nf0f9e3536be5",
+          "likes": 134,
+          "comments": 21
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 9517
+        },
+        "commenters_count": 24
+      },
+      "comments": [
+        {
+          "key": "nca224c8d50dad",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは。\nおおー、ここにもGitHubが！！\nわたしもスキ発掘ツールを作ったときに\n毎回全部の記事にスキを付けてくれた人を全員律儀に見にいく仕様…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc259af2a8865b",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、お疲れ様です、7つもアカウント持っておられるのですね👀😳\n\nDiscordゲームの攻略、交流では使ってましたがこんな使い方もあるのですね。\n\n私は普…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc539a0d9102ec",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Claude (°∀°) Code\nPC新調にネット整備にAI課金に\n一つ始めたら\n堤防決壊したようにお金飛んできそう💸\n明日が冥界の入口でアナタが使者ですか(…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc3967f4eab381",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nDiscordってめっちゃ便利ということはわかりましたけど、\nこれを設定しろって言われるとできない自信ありです😱笑",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc83387ed5e3b4",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさ〜ん\n今回、めちゃくちゃ分かりやすかったわ~\n\nやっぱ、機械オンチには専門用語の羅列がキツイんだと再確認しちゃいました🤣🤣\n\nDiscord、そん…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "ncc9d67bda0d02",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは🌜\n\nへえ、Discordにそんな機能あるんですね。\n\n自分は、noteアカウント5アカ、codexでGmailフォルダ管理してます…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nceb8f11284479",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは😆\n\n面白いですね！Discordってそんな風にも使えるんですね！\n\n飛ばしたい通知だけ選べるのは嬉しいですね\nnote公式で実装し…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc0c8f42cd9ef5",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316841193/profile_42a715512c5dbc9697d599ae1346733b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すご〜い😳😳\n\nDiscordにはそんな使い方があるんですね？！\n\n機能を使いこなせていない私には難しい話だけど…これ、誰でもできるようにならないかなぁ😑\n　\n…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc985d79936851",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おぉ〜、そっか、\nそういう使い方もできるよなぁ〜\n\nどこまで分けるかだけど、\nスキとかコメントとか多いやつと、\n\nDMとかみたいな重要なやつで\nチャンネル分ける…",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "ncd4c3f104dd93",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは🌙\n\nnoteのアカウントを7つもお持ちなんですね笑\nびっくりしました🤭 ",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "ncd4cc59d8425d",
+          "user_name": "シンプリストやまだ@noteで妻と4人の子ども養ってます",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/233860794/profile_50203c57c7d7b7fb6d0bf34795bac0cf.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "うぉー、紹介おおきにです！\nDiscord、そんな便利な使い方があるって知らんかったねん🫢",
+          "article_title": "7つのnoteアカウントの通知をDiscordにまとめたら、5,197件の「通知地獄」が来かけた話",
+          "note_key": "nc21c1645e4cb"
+        },
+        {
+          "key": "nc99c20e1eed4b",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nいろんなAIサービスに対応したんですね✨流石です🤩",
+          "article_title": "note分析マニュアルをClaude Codeに対応したら、Claude Opus 5.5が出た",
+          "note_key": "n96c411859bf3"
+        },
+        {
+          "key": "nc5c5b654edaf0",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜🌻✨️\n\n課金したくても出来ない時、あるよね〜🤣\n\nまりーさんのカタカナの記事、いいよね💖\nこちゃのツールのすごさと、こちゃへの愛の深さが、…",
+          "article_title": "note分析マニュアルをClaude Codeに対応したら、Claude Opus 5.5が出た",
+          "note_key": "n96c411859bf3"
+        },
+        {
+          "key": "nc50b13c02409b",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事紹介の流れｗｗｗ\n\n前のアーカイブもそれはそれで保存して\n比較して差分だけ確認しながら\n統合してるからね〜🤭\n\n独自改造しすぎて\n「更新して」ではおそらく\n…",
+          "article_title": "note分析マニュアルをClaude Codeに対応したら、Claude Opus 5.5が出た",
+          "note_key": "n96c411859bf3"
+        },
+        {
+          "key": "nc72a4984386c1",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんにちはー\n\nじまにゃんの笑顔からの鋭い突っ込みに笑ってしまいました🤣\n\nこうやって、失敗？しても、次に活かす精神大切だと思います😌\n見習わないと…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc5f89ea33af36",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ〜❣️🫶🏻\n\n引くくらい推してくれてって書き方、\n実はすでにドン引いてるとき\nあるやつだろ〜⁉️😱\n\nでも、改めて言われるとなんでだろう？\n「なんかやらか…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "ncab2cd622d74c",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Zoom ヽ(°∀°)ﾉ Zoom\n開催人数達成されてます？\n12:30〜は無音にして画面チラチラ見ます😽\n\n何だかんだ言うて\n共犯者10人くらい増えとりません…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc5d22fd2795d5",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\nお疲れ様です(´∀｀)\n\n素晴らしいMVですね、見どころありすぎますね🤣\n\nまなつさんがやばすぎる｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡\nちんばんさんはなんで？絡ま…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc6b1ab9bc303c",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nこちゃさんにとっては成功しても失敗しても全部ネタですね😚\n全部前向きに捉える姿は良いですね✨",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc68601c125511",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん✨\n\n謝罪MV、見どころがありすぎます🤣❣️\n\nいやいや、そこまでやらんでも〜って思いながら、笑が止まらなかった🤣🤣🤣\n\n歌詞が秀逸で、みなさんのキャ…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc50aa60b90ac8",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたしゃん\n\nおっはです😊♪\n\n謝罪、🐿️も一緒に頭を下げるほうよ～\n力になれんかった。。\nでもこれから、もっとこたしゃんのよさや、\nかわゆすなとこ知って貰える…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc580a58c99092",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いやん、もう誰でもMVの時代がきちゃった(；´Д｀)\nすんばらしい出来です💦\n\nもうさ、選挙と同じで最後はドブ板でしかないのよ。\n一番ダサい、お願いします‼️お…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "ncfe4f283143bd",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、面白かったと言っていいのか分からないけど\n面白かったです🤣👍️\nわーい、でっかいパフェごちそうしてもらっちゃった🙌✨️✨️\nじまにゃんさんの輝く笑顔…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc8931ab5c5631",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "使って欲しいツールの使い方ありがとうございます！！\nただ、MVが面白すぎですwww",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc9008d06bcf69",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜🌻✨️\n\nMVめっちゃおもしろい〜〜〜😂😂😂\n\nみんな激しい🤣🤣🤣\nところどころ優しい人がいるのもいいね😂✨\nチンパンさんだけ逆に縛られてて…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc724ab884af2b",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\nこんばんは～\nMV、これもうリベンジを誓う曲ですね…！\n「そっ閉じ」のところで堪えられませんでした🤣\n\n反撃の一矢、「Codex無料実演会」\n楽し…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "ncba5cb689101e",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん🌜\n\n謝罪MVやのにめっちゃカッコイイじゃないですか！！！\n\nただ私のところだけ、亀甲縛り🤣🤣🤣\n\nしかも私がｗｗｗ\n\nしかも謝罪されながらｗｗ…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc9b4441e5306d",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃおもしろいMVに仕上がったね！私のSな感じが出てていいね♪\n\nあと、赤柴さんと木漏れ日亭さんが優しいのがなんとも言えない(笑)\n\n素材を出した人1人…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc5c5683185610",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵家事よりnoteが好き♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん！\n\nこのMV。私にも刺さります💦「数字を見ていて人を見ていなかった」\n→まさに今までの私がやらかしていたこと。\n今こちゃさんに感化されてXで頑張って…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "nc1cae76b38ea7",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、「ちゃんと反省したので、歌にしました」の一行に、思わず声を出して笑ってしまいました🤭\n\n「リポスト五十五」という漢数字のタイトルもじわじわきます笑\n…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "ncafe3f89d38ba",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん　画像を謝罪MVで使ってくださって、記事まで紹介してくださってありがとうございます(^人^)\n\n歌、心に沁みました😢そして、わりと皆さんがハードな画像…",
+          "article_title": "目標100、結果55。なので謝罪MVを作りました。",
+          "note_key": "n4f2497e33ce8"
+        },
+        {
+          "key": "ncdc9e701b938f",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302681947/profile_aed06a54e3cc23fd27f949fbff9216c3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\n別アカウントの運用、私も挑戦しているので勉強になりました✨\n\nスレッズは同じくバンされてしまってましたが…\nそんな集客の手があったのか！と新たな…",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "nccf3f77ddaffb",
+          "user_name": "もり｜40代の“仕事を軽くする”リスキリング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319672538/profile_9e29bd3b155a73f67d14c38b7968df54.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん、こんばんは😊\n\nThreads、垢BANされやすいですよね。\nいまは、もう垢ほぼ放置してあきらめました。\nあきらめるまでの約半年の間に、何回か作り直し…",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "nc808b5b87e105",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、お疲れ様〜🌻✨️\n\nこれね〜良さそうだよねぇ〜🤭",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "ncda3473b6523a",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "本題とは違うんですけど\nこちゃさんの「がーん😱」の顔が\n珍しい感じで良かったです😆💕",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "ncbdac5f1c97da",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n一体アカウントいくつ持ってるんだ😆笑\n黒髪メガネは笑っちゃった🤣笑\n\n色々書きたいけどネタバレになりそうでやめておきます🫡",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "nc0fe6f6b18463",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "連休中で曜日感覚薄れてたけど、\nそっか今日、火曜日だったか〜\n\n1記事noteは収益化向きだね〜\n\n本気で副業にするなら\nやった方がいいんだろうけど、\n性に合わ…",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "ncb9a60660bf02",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは。\nThreadsは私には相性があまりよくないようで、ちょっと低浮上です。\nXは長いので、自由に発信できるし、推し活としては交流が続いてい…",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "ncbbdc512bdbde",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Threadsは外部リンク置くとBANされるみたいですｗ\n\n自分も複数アカもってますが販売導線が悪いのか、ジャンルが悪いのか2記事しか売れてないです💦\n\n全アカ…",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "nc02ef876e8ed8",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Threadsって、みんなすぐBANされたって言ってるよね。\n\n私はやったことないけど、なんか厳しいんやね(´・ω・｀)",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        },
+        {
+          "key": "ncbbed03aa495f",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、この記事、私はXやっているのでよくわかります、こちゃさんの記事の設計が刺さるのではないでしょうか？\nXとthreadsとnoteで導線設計作っている…",
+          "article_title": "3か月放置した5,980円のnoteが、突然売れた",
+          "note_key": "nf0f9e3536be5"
+        }
+      ],
+      "rare_no": 1
     }
   ]
 }

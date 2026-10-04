@@ -834,6 +834,34 @@
         "notable_reader": null,
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 2,
+        "likes_prev": 0,
+        "followers_start": 499,
+        "followers_end": 498,
+        "new_fans": 2,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "篠田翔太郎 @脳性マヒで電動車椅子の起業家",
+          "urlname": "kaijowokigaruni",
+          "follower_count": 210
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

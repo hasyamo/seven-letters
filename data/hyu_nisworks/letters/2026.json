@@ -2245,6 +2245,141 @@
           "note_key": "n0386b5340b5a"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 240,
+        "likes_prev": 255,
+        "followers_start": 702,
+        "followers_end": 707,
+        "new_fans": 61,
+        "comments_total": 24,
+        "posts_count": 3,
+        "consecutive_days": 2,
+        "post_times": [
+          "07:58",
+          "06:28",
+          "12:17"
+        ],
+        "top_article": {
+          "title": "「このあとなにする？」から始まった挑戦｜AIと遊び、noteで考えた半年間",
+          "key": "nb2a004a5bfd0",
+          "likes": 67,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "池 辰彦",
+          "urlname": "tatsuhiko_ike",
+          "follower_count": 24014
+        },
+        "commenters_count": 12
+      },
+      "comments": [
+        {
+          "key": "nc548586c6e905",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは〜🌻✨️\n\n半年おめでとうございます〜！🥳㊗️🎉✨\n\nひゅーさんは研究基質なの、わかります🤭\nご自身のペースで執筆してるところも、素敵だな…",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "nc2981d1d615f9",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316507899/profile_298b21a291d57e63c6652ea51f90691f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nnote半年おめでとうございます✨\n\nこちらの記事からひゅーさんの過去記事を読ませていただきました〜！\n夏祭りの時から感じていましたがやっぱりAIス…",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "nc0dfb718ef1dc",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😊\n\nnote半年、おめでとうございます🎊\nひゅーさんはスキルがあって、noteも続けてる。\n\n知識0・スキル0・アイディア0からはじめた…",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "nc4478204e5f3c",
+          "user_name": "クリストファー セレジェイラス｜キリスト教×園芸文化｜人と植物の関わりをクリスチャンの視点で",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268304876/profile_d83a847ef6854a1eeafd4748bfab82fd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは。\n半年間のご継続、おめでとうございます！\nそして、ひゅーさんの「おっさんの話」大好きです。\nAIのこと、これからもひゅーさんから学ばせて…",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "nc0392410894a4",
+          "user_name": "貴美子｜構造を言語化する人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261823573/profile_200819dc5689a338a5e7bba624e1c852.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、おはようございます。\nnote半年間継続おめでとうございます㊗️\nひゅーさんの研究者気質…よくわかります😌\n毎回記事にて色々学ばせていただいています…",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "nc28123a6d6f55",
+          "user_name": "⁠レアカントリークリエイト|「究極のひろしまおでん」で新しい里山設計するフードプロダクトクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273724033/profile_52cfb497741f72ed72e1a8e4a2628bc5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nおはようございます♪\n\n…「考察」「思考」「挑戦」がテーマ…\n\n私のnoteも、同じテーマだから、ひゅーさんのnoteも毎回気になります。\n\n私も毎…",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "nc660354f0bfff",
+          "user_name": "TM｜アウトプット練習帳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302515163/profile_7899ae46dcf2d4fc2d28e34204e3d3fa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "半年間の継続おめでとうございます！\n自分もひゅーさんのイメージは、AIと共同マガジンの人でした笑\nこれからもよろしくお願いします！",
+          "article_title": "「このあとなにする？」から始まった挑戦",
+          "note_key": "nb2a004a5bfd0"
+        },
+        {
+          "key": "ncdb5b72388c67",
+          "user_name": "どうせなら面白がりたい！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314035006/profile_c572e66a35e7a81c560db08aeb359dad.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただき、ありがとうございます！\n\n「iPhoneもMacもAIも、なぜか少し変なところが気になる」という、自分でも大事にしている部分をこんなに素敵に紹介…",
+          "article_title": "マー先生＠書きながら考える50代さん！フォロワー数1,000名名達成おめでとうございます！",
+          "note_key": "n527c91a431cd"
+        },
+        {
+          "key": "ncccbb75411cd2",
+          "user_name": "マー先生＠50代、ちょっと面白くなってきた",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320093342/profile_a9282da866741464effd391a87cce571.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんなに丁寧に紹介していただいてありがとうございます😊\n\n「名誉脱退」という言葉、響きはかっこいいんですが、正直まだまだ実力が追いついていない感じが…",
+          "article_title": "マー先生＠書きながら考える50代さん！フォロワー数1,000名名達成おめでとうございます！",
+          "note_key": "n527c91a431cd"
+        },
+        {
+          "key": "nc9b431c001d18",
+          "user_name": "crimson04",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278248849/profile_a739d2f223a9e52b5e768bd3a0b19c56.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、紹介記事を載せてくださり、ありがとうございます✨\n素敵に書いてくださり、励みになります🙂",
+          "article_title": "マー先生＠書きながら考える50代さん！フォロワー数1,000名名達成おめでとうございます！",
+          "note_key": "n527c91a431cd"
+        },
+        {
+          "key": "nce5e89829ff3f",
+          "user_name": "日本語、英語で言うと解体新書",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308806430/profile_d4b4ceccac6024dda266382e21434375.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵な紹介をありがとうございます。",
+          "article_title": "マー先生＠書きながら考える50代さん！フォロワー数1,000名名達成おめでとうございます！",
+          "note_key": "n527c91a431cd"
+        },
+        {
+          "key": "nc10be78309dc6",
+          "user_name": "しらたつ｜働き方と生き方を考える人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257419293/profile_ca21d29288d1c7bd80a497953791b1fa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、素敵なご紹介をいただきありがとうございます！",
+          "article_title": "マー先生＠書きながら考える50代さん！フォロワー数1,000名名達成おめでとうございます！",
+          "note_key": "n527c91a431cd"
+        }
+      ]
     }
   ]
 }

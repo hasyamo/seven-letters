@@ -7135,6 +7135,573 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 322,
+        "likes_prev": 229,
+        "followers_start": 1004,
+        "followers_end": 1017,
+        "new_fans": 63,
+        "comments_total": 183,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:00",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた｜note│フォロワー1000人│フォロワー│1000人達成│note交流",
+          "key": "n8a4ea55c94fb",
+          "likes": 122,
+          "comments": 123
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 9523
+        },
+        "commenters_count": 47
+      },
+      "comments": [
+        {
+          "key": "nc863eeeea9338",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "文章と挿絵の圧にやられまくりました🫠\n相変わらずおもしろい♡\n自分でボケて、己にツッコむのも、ふらちゃんの真骨頂ですね🤭\n昌鹿野デッドヒート！！！\n投票に影響す…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc638918f9d477",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん❣️\n\nおつかれさまです♪\n同率首位のデッドヒートなんだ🤭\nなんか選挙っぽくていいよね〜✨\nでも取り仕切るふらちゃんは\n素敵😍💓です❣️",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc3cff4150b75d",
+          "user_name": "猫の父さん@トトとチー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/109734632/profile_0dc4f0096df28cd5fdd181154dc207ce.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、ご無沙汰しております\nまさかの同率首位デッドヒート、熱すぎますね🔥\n「感謝と強欲は両立する」の名言に思わずわらってしまった！\n企画の運営、ほんとうにお…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "ncb22b23bab418",
+          "user_name": "🐾コロッケノスケ☕️｜タロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/287199457/profile_30c4596fe178408bc6ffaf9daba6c09a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん、お疲れ様です☺️\n\nいや〜どうなるんだろう〜",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc02338bc34a67",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん\n執筆お疲れ様です✨\n\n何屋だよっ！😎笑\nマジでパワフルですね🤩\n\n欲しがりますねー🤭\n最終日、どんどん来るんじゃないですか😙\n一生のお願いも使ったこと…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "ncb8053d12e815",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、こんばんは🌻✨️\n\nタイトル最高ですね🤣\n\nあまねさんの一生のお願いを一切の躊躇いなく使うところに、爆笑してしまいました🤣🤣🤣\n\nほんと面白いです😂…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "ncd018f6f4d9fd",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん✨\n\nお疲れ様です😊\nいよいよカウントダウンですね〜💕\n\nドキドキですね♪\n忙しいのに、記事もたくさん書いてくれて、本当に感謝です🙏\n\n無理しないでくだ…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc99fd7f4a584b",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん\n感謝と強欲は両立する\n名言✨爆誕！！してるし🤣🤣\n\n制服コンテストの宣伝を記事でしたこと\n取り上げてくれてありがとね(^o^)\n\nそう、コンテストが終…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc44423084ffcb",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは☺\n\nついに最終日ですね🗓️\nあまねさんが一生のお願いしてから、倍近くになってる🤭💕\n\n同率1位が3作品なんて、最後まで盛り上げ…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc38771291773d",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れさまー！\n1位が3つあるってこと？\n\n今日で決まらなかったら頂上決戦もあるんだね💦\nなんとか今夜で決まることを祈ってます😌",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc63bd174b3092",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵家事よりnoteが好き♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "終わったらネタバラシオッケーなんですねっ、もう誰か分かっちゃった(違うかもだけど)のが2つあります🤭\n\n記事紹介、遅くなってすみません💦\n\n結果発表までドキドキ…",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc1b17ba22a71a",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あと3時間半を切りましたね！\n\n今のところ1位は…2つ!?😳\nまだ、大どんでん返しも有り得ますよね？\n\nこれは手に汗握る展開になってますねぇ(„ಡωಡ„)✨",
+          "article_title": "今日で終わるぞ！52人来た。でも母ちゃんは53人目も欲しい",
+          "note_key": "nfefb2baccfda"
+        },
+        {
+          "key": "nc98468c394c0a",
+          "user_name": "Awesome YAMAUCHI",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/51147548/profile_6c0f5f9552d9449851b52c8b2946aaad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！　昨日か今日くらいに入軍しました。先輩方にあいさつをしてまわっております。よろしくお願いします。ボット判定？　の制限がかかるまでやってみます。入軍…",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc09fc5d8d5bf1",
+          "user_name": "ゆぴか｜働きづらさから在宅ワークを模索中☀︎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん！\n\nツナが今日も強い。可愛い😍\n\n魔王軍🤭\n母ちゃんさんはまた楽しそうなものに入ったのですねぇ🤣\n\n\nおしまいの…『ま』がかわいい…🍑\n",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "ncebbddd867d66",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "欲望は、正しく使えば人にとって大きなプラスになりますからね。\nまあ、振り回されて破綻する人の方が多いという点はありますが……。\nそれにしても、ツナの視点からの記…",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc63e37fa70826",
+          "user_name": "ノア｜魔王｜noteを征服したい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315415205/profile_8f65812fd4295221e15bc9c6ff1633f4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ツナ殿。\n\nようやくコメント封印が解除されたのである。\n\nお返事遅くなってしまい申し訳ないである。\n\n\n記事、しかと拝見した。\n\nまず申し上げたい。\n\n余の軍な…",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc6d2e65ff6900",
+          "user_name": "るこのみらい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239032332/profile_819b5756c137702ccc9827a0eb88b347.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん💕こんばんは\n何やら、楽しそうなものに\n入ったのね〜\n\n魔王様の記事も読ませてもらったけど\n創作系の方だったね。\n\n記事がとっても面白かった〜\n母ちゃん…",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc9a1b0474335c",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう記事にしてるの早い！\nタラヲガールズの入軍率高いよね😆",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc42c950bee899",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん\n執筆お疲れ様です✨\n\n魔王軍に入隊したんですね😆\nカードがめちゃんこかっこいいです😊\n四天王とかあるんですね✨\nふらさん入っても違和感ないですよ🤭",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nced21125d8cd9",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どこぞの学園の者です🤭\n\n相変わらずの熱量に挿絵がおもしろさを倍増させてますね。\n\nツナちゃんも王でしたか🤣🤣🤣",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "ncd343382033e6",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\n魔王軍の軍門に下るクリエイター多くないですか🤣\n私は、たんぽぽの綿毛につかまって空から様子見中です🌸",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc0cf9e0ce52fa",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんも魔王軍に入ったんですね笑\n\nあれ？ツナさまは「王👑」？ということは…魔王に滅ぼされる方の……σ( -ˇ.ˇ-。)ｳｰﾝ\nまぁいっか😂",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "nc91f877e59f3e",
+          "user_name": "タニシ11号🐚─‎経験を、誰かのために🍀",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308016120/profile_5f1612de713871befb75942cd9d4d28d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ツナ様✨\n母ちゃんさん✨\n\n魔王様も投票してくれるのでは？🤭\n\nワリと身軽で、\n仕事が早い魔王様ですょ(笑)",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "ncc0318788024e",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ、魔王軍来る前から契約交渉でもめるやつだ（笑）\n\nその前に魔王軍無給だけど大丈夫なんかな？\n\n魔王軍筆頭採用者が\n　第一声が『NOtEで一度も売れたことがあり…",
+          "article_title": "猫を魔王軍四天王にしたら「それは降格だ」とキレられた",
+          "note_key": "n524b1374bab6"
+        },
+        {
+          "key": "ncc51379fc8fb4",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280450349/profile_ea013600d9e8c711600cd972424cc60c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん✨️\n1000人✨️\nおめでとうw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\nって１週間も\n前だぁw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\nそれなのに\n私ったら\n母ちゃんが\n1…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc78628f23d11b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん✨\n\nフォロワー1000人おめでとうございます🎉㊗️\nやっぱり愛されふらちゃん❣️\nおめでとう✨",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncc3b1b18a3e2e",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316841193/profile_42a715512c5dbc9697d599ae1346733b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "皆さんがこれだけスクショして送ってくれるんだから、母ちゃん愛されてるな〜✨️って思いました😍\n\n\nフォロワー1000人超えおめでとうございます🎉\n無限の回転ドア…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncf853353d5d2b",
+          "user_name": "hitoyume（フォロバ100）＠未経験からWebライターに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309163561/profile_f44eb07bb388d5a643c66a615b6ee1b8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、はじめまして。\n\nフォロワー1000人達成ほんとうにおめでとうございます㊗️🎉\nいつも楽しく拝見しています。\n爆記事がスゴすぎて驚くことば…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc47f2b1722f8b",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\n\nフォロワー1000人超え、おめでとうございます🎊\nキリ番を気にし出すと、長いですよね🤣\n\nこれからも、元気を爆上げしてもら…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc46c834b1805c",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、遅くなったけど1,000人達成おめでとう🎉\n\n増えたり減ったりしますけど、キリのいい時は気になっちゃいますよね🙂‍↕️\n\nこの熱量とおもしろさからし…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nca56afdeabfc6",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！1,000人突破おめでとうございます🎉👏😆㊗️\n\nあまねも、1,000人目前で増減にモヤりました🤣\nなぜ帰る!?ホントですよ笑",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nce99cbff0385d",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315743951/profile_2f890ad004cd555561af5bca638d81c4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん〜🥰\nフォロワー1,000人！おめでとうございます🎊💕\n\nついに来ましたね🫶❤️\nそして！帰る人たち🤣w\n本当にそれ、あるあるですよね🤣💦w…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc3f5d8002c9be",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320092669/profile_49762788489f6ddaba7b07b63e7e98df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー1,000人超え、おめでとうございます🎉✨\n増えたり減ったり💦あるけど\n1008人になってるよーー✨✨✨",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc464c2de3cb68",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "１０００人達成、おめでとうございます。\nいわゆる「調整勢」という輩がいて、達成しそうになるとあえてフォローを外し、低くなるとまたフォローするような形でやっている…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc1c3f7f0b9590",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんがついにフォロワー1000人！おめでとう♪感慨深いわ(´Д⊂ｸﾞｽﾝ",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc1d45e014b69e",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん\n執筆お疲れ様です✨\n\n1000名達成おめでとうございます🎉\n\nこの記事を読んでると\n焦ったくなりましたー😚笑\n\n4名を無事捕獲して\n達成できてよかった…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncc87aac46ab03",
+          "user_name": "haremithu | 迷う母に言葉を🪷|",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300270354/profile_0b70dd6594b94dad053483ab06b190a5.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん✨\nたくさんの方からお祝いされていて、素敵です😊\nおめでとうございます🎊🎉🎉",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc1f1bf1d340c0",
+          "user_name": "沙夜-𝕊𝕒𝕪𝕠- 沙夜学園🌠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316867450/profile_4b55ff306c0115d4395e5b05b0893bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そうなんです😭\n母ちゃんさん…🥺\nなかなか増えなくてあと4人が難し…\n\nってぇ゙ぇ゙ぇ゙ぇ゙〜😱💦\n\n1005人になってるじゃないですか🤣💕💕\nおめでとうござい…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncfbacbe155150",
+          "user_name": "ＣＯＯＬ｜家族を守り抜くと決めた日から",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303205673/profile_88af602e10da36a9aec1808566e3001b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ただいま1005人！\nおめでとう御座います！\nこの勢いのまま2000人いっちゃえー😆",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncfeb9e2f76708",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "時折、数が減るのは凄い勢いでNOtEを解約してる人が増えてるからとも言えます。\n\nランマッスルさんまで消えてしまいました…。\n何が起きてるのか本当にわかりません…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc273d9b3d60e2",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\n\n1000人になっても母ちゃんは母ちゃんです✨✨\n\nおめでとうございます🎊",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncd1e53595f02e",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん❣️\n\nフォロワー1000人越え、おめでとうございます🎊\n母ちゃんが、みんなに愛されているのが分かりますね〜🥰\n\nこれからも、母ちゃんの記事楽しみにして…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncb098261c8d9d",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん！\n♪🎊🎊🎉🎉🎊🎊♪\nフォロワーさん1000人超えおめでとうござますヽ(=´▽`=)ﾉ♪\n周りの方から、\nこんなにイジら…祝福されてるの、\nこっちま…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc68ed35a80c45",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがキリ番ハンターあずなーさんだな。\nつかさ、自分が1000人踏もうと出たり入ったりしてたやついるんじゃね？\n",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc57b7d346fbb2",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、1000人おめでとうございます〜❣️🥳㊗️🎉✨\n\n見張り隊がいっぱいいて笑いました🤣\n愛されてますね🤭💕\n\nキリ番間際のあの減ったり増えたりは、ホン…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc6f14c8310b9b",
+          "user_name": "もぐたんママ🎈|皆の笑顔を増やすnote@タラヲガールズ006",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214800837/profile_21350a6bc81762d009a90e049eb4d83b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん🙌💕\n1,000人おめでとうございます〜㊗️\n愛されてますね〜✨\n何も出来てませんが、私もふらちゃん大好きですよ〜🥰",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc734cda7fbc95",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふふふ　笑　おめでとうございます",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc08b4153afee6",
+          "user_name": "もも │ 溺愛♥️BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん💕\n\nフォロワー1000人越え、おめでとうございます🎊\n\n｢996と997の間に見えない自動回転ドアでも設置されてんのか！？｣\n🤣🤣🤣\nそんなことが…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncc021657f16f1",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318266132/profile_a970a0065b3a179dbc1883c0e7e22016.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん✨\n１０００人フォロワーさんおめでとうございます㊗️🎊\n何人もの方に見守られ、激写され、画像まで✨\n嬉しいですね！！\nあんさんの画像！3枚も。いろんな…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc052b85800fed",
+          "user_name": "ぱぴさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316507899/profile_298b21a291d57e63c6652ea51f90691f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさーん✨\nフォロワー1000人おめでとうございます🎉\n\n見守り隊の皆さんの裏話を知って感動しました🥺✨\n\n反復横跳びも笑ってしまいました😆\n↑これ分かります…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc31df9ce247b0",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん～🥰\n1000人越えおめでとうございます！\nそして見守り隊のみなさんがすごい…笑\nあずなぶーるさん、確かまなつさんのときも張りつかれててもう見張りのプロ…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc5615fcc9a27a",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\nフォロワー1000名突破おめでとうございますー！\nいろんな方に見守られてる感ありましたね…！\n数字が行ったり来たりするときの気持ちがわか…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc433ba846ad86",
+          "user_name": "タニシ11号🐚─‎経験を、誰かのために🍀",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308016120/profile_5f1612de713871befb75942cd9d4d28d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん✨️\n\n1000人達成㊗️\nおめでとうございます🎉\n\n監視してたワケじゃないけど🤭\n…制服選びながら、してたかも🤣\n",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc65f7780a1e84",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かーちゃん✨\nおめでとうございます🎊\n\nやったねーーー✌️\n998人からがまた増えたり減ったりだったよね〜ドキドキずちょしてたよ〜\n\nこれからもずっと仲良くして…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc22b8f9346ad1",
+          "user_name": "ミノリ・グルーヴ@Minoriからの転生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317947200/profile_c5956bda349a8df16555f1e5321c9580.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん✨\nコメント失礼しますっ🎵\n\n1000人達成おめでとうごさまいますっ٩(๑❛ᴗ❛๑)۶\nわかモンさんの\n怒涛の母ちゃんさん推し記事から\n見守…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc998b7ad163b0",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵家事よりnoteが好き♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そうそれ！ほんとにふらちゃんさあ、、、996くらいから増えては減るの繰り返しで「これ、何のプレイ？！」って数日間ヤキモキしてたよ！　\n　　　　　　　　　　　　　…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc99327d1e73da",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん✨\n\nフォロワーさん1000人達成おめでとうございます🎊㊗️🎊\n\n私もスクショ狙っていて「1000だ❣️」と思って撮った瞬間「1001」になってました…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc2def1f42168d",
+          "user_name": "こはる観測所｜音楽寓話と、ねこのおと。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297054920/profile_3071edff8d3bc0244d2e16a63a3f4e9e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございますっ⸜(*ˊᗜˋ*)⸝💕\n\n究極の焦らしプレイで気を引きまくりですね🤣\nあとちょっ…えぇ…いかんのかーーい！！！\n\n1000人かぁ…すごすぎま…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc9b9f5d0e70df",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん\nみんなが　フォロワー1000人✨を待ち構えているところに、じーん\n😢ときました\n\nそして、ボーダーライン、直前になるとなぜ！？フォロワーさんが減るのだ…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc316b2b93502f",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん💖\n\nフォロワー1000人、おめでとうございます㊗️\n何人もの人から応援されて、スクショを送ってもらえて幸せいっぱいですね✨\n\nステキな関係💕",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc4a1df5c6f44b",
+          "user_name": "yayo｜ゆるっと自分を大切にするアラフィフ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315245311/profile_2c232be7b9db218ac7cd3e1398d0f193.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\n\nおめでとうございます✨\n1000人！すごい！！\n\nこれから先も母ちゃんさんの虜になる人達、どんどん増えていくんでしょうね♡",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncfa1a59bcf7f2",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000人達成おめでとうございます！\n\n自分も4000人達成はしたかもだけど祝うと何故か減ったりするのでいつも通過点にしてます。\n\nあのどうしても到達させる前に…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc405baffda277",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320599440/profile_04d1a7dc0249f769a98f752692844c42.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん❣️\nおめでとうございます‼️🎊\n🍻💖🎉\n帰るなよって笑いました😆\n\nそして、手ぶら万歳じゃないですか❣️❣️\n自分の1000人の準備より\n周りの制服を…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "ncb5de0fb64b70",
+          "user_name": "青い空日和",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301650256/profile_87bf34938f12eb1d94fc0147a0a2a17a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000人✨✨\nすごいですね！\nおめでとうございます🎊\n\n「入ってきたと思ったらクルッと回って出て行きやがる。」\n\nそんなことがあったんですね😂\n\nこれから、ど…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc13d508c1348f",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、フォロワー1000人おめでとうございます〜🥰🎉✨\n\n996人と997人を行ったり来たり😂\n「最後の4人だけ、どこの異次元ほっつき歩いてんだ…",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        },
+        {
+          "key": "nc446992d07655",
+          "user_name": "不真面目小児科医　しうまい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290859244/profile_2131ead66880c82e099dda43b9dbc0a7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1000人達成おめでとうございます㊗️",
+          "article_title": "あと4人が遠すぎる！なぜか私より見張ってる人がいた",
+          "note_key": "n8a4ea55c94fb"
+        }
+      ]
     }
   ]
 }

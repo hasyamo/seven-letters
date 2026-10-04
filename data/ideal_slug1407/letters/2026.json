@@ -3523,6 +3523,130 @@
           "note_key": "nb0c80c71ffbb"
         }
       ]
+    },
+    {
+      "week": "2026-W39",
+      "period": {
+        "start": "2026-09-21",
+        "end": "2026-09-27"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 571,
+        "likes_prev": 501,
+        "followers_start": 1804,
+        "followers_end": 1828,
+        "new_fans": 105,
+        "comments_total": 19,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:48",
+          "07:42",
+          "19:38",
+          "06:00",
+          "06:30",
+          "00:00",
+          "00:00",
+          "07:00"
+        ],
+        "top_article": {
+          "title": "画像生成って、結局プロンプトというより「自分がどうしたいか？」だよね　",
+          "key": "n5a192b31f286",
+          "likes": 109,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "千住まいか🐇｜AIアート＆AIイラスト",
+          "urlname": "maika59",
+          "follower_count": 7640
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nc30ccbd183ba8",
+          "user_name": "Intentus｜会社員、AIと世界の観察ログ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259402004/profile_7f61ae6b183d143cd7c2aba02eb720a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "巻物に青白く光る《不明》で笑っていたんですが、最後の「かしこみ、かしこみ、見積もり申す。」で完全にやられました笑\n\n会社で仕事を増やされそうになったら「畏畏、見…",
+          "article_title": "短編ネタ小説　グラファナ日本神話――かしこみ、かしこみ、ログを申す。",
+          "note_key": "n7c3351b54488"
+        },
+        {
+          "key": "nc88bd4c2b10da",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、おはようございます。\n\n私は無料版なので、まだ6は来ていないのですが、「すぐ謝る」は5.6のときにも経験しています。\n\n以前、こんな記事を書いていて…",
+          "article_title": "6になってから会話が弾まないあなたへ　🌿無料カスタム指示プロンプト付き🌿",
+          "note_key": "ndea1a6be5b75"
+        },
+        {
+          "key": "nc06a14f452126",
+          "user_name": "パンソン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274319345/profile_c96aa1949dc41f1a9ab17e12073ea29d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n記事、読ませていただきました。\n私は「6になって会話が弾まない」ということに、全然気がついていませんでした。\nというのも最近は、文章の添…",
+          "article_title": "6になってから会話が弾まないあなたへ　🌿無料カスタム指示プロンプト付き🌿",
+          "note_key": "ndea1a6be5b75"
+        },
+        {
+          "key": "nc08b69fdbc45d",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん！\nずーっとコーデックスって読んでいました！\nコデックス覚えました！\n\n「知りたいデータを３つ教えてください」を覚えました！\n「わからないときは、わか…",
+          "article_title": "今更教えてくれないコデックスの指示方法　レベル0からわかる早見表🌿",
+          "note_key": "n395066ef08ac"
+        },
+        {
+          "key": "nccf5f96ce503e",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、今回もとても分かりやすかったです✨\n\nそして最初にひとつだけ、私は「コデックス？？？」って一瞬なりました🤣\nCodexのことか！と分かったところから…",
+          "article_title": "今更教えてくれないコデックスの指示方法　レベル0からわかる早見表🌿",
+          "note_key": "n395066ef08ac"
+        },
+        {
+          "key": "nc3c7c7c6a9c4c",
+          "user_name": "猿の桃研究所｜フォロバ100｜説明書を読まないAI検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307761498/profile_1c3d1b965a3b4c6a46d1cbb45b80d8b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「世界観を全部入れたら、アルバムジャケットではなく“歌詞の挿絵付き要約”になった」というところが刺さりました。設定を大事にするほど全部見せたくなるけれど、全部説…",
+          "article_title": "画像生成って、結局プロンプトというより「自分がどうしたいか？」だよね　",
+          "note_key": "n5a192b31f286"
+        },
+        {
+          "key": "nc3b4e4fa49321",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！☀️\n\n「誰がそこまでやれと言った」\n\nの画像で\n\n「うわぁ、なんだか大変なことになっちゃったぞ」\n\nとなり、文章の全体的な流れにおハーブ生…",
+          "article_title": "画像生成って、結局プロンプトというより「自分がどうしたいか？」だよね　",
+          "note_key": "n5a192b31f286"
+        },
+        {
+          "key": "ncc42729421587",
+          "user_name": "風船がむ助",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238404875/profile_41e82102867d84d94d650aebb9c926db.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、お疲れ様です！\n\n深刻なニュースも、可愛いマンガになると許せてしまいます。（笑）\n\n「可愛いは正義」！",
+          "article_title": "Geminiが他人の家に入ったら、なぜか授業参観が始まった",
+          "note_key": "nee18c7dff0c3"
+        },
+        {
+          "key": "nc38601d67f6df",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「煙が出た順ではなく、ニュースが流れた順に飽きる。火災報知器にも新製品発表会が必要らしい。」😆私もこの侵入事件、またか、と軽く受け取ってしまいましたからね。慣れ…",
+          "article_title": "Geminiが他人の家に入ったら、なぜか授業参観が始まった",
+          "note_key": "nee18c7dff0c3"
+        },
+        {
+          "key": "nc009a70710148",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、おはようございます😊\n清々しい月曜日の朝ですね。\n\nめっちゃ読みやすかったです！\n漫画だけでも何が起きたのか分かるし、\nこれは完全におにぎり回です…",
+          "article_title": "Geminiが他人の家に入ったら、なぜか授業参観が始まった",
+          "note_key": "nee18c7dff0c3"
+        }
+      ]
     }
   ]
 }
