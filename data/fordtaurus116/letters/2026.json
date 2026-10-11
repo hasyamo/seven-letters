@@ -6350,6 +6350,273 @@
           "note_key": "n5d24b187e354"
         }
       ]
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 343,
+        "likes_prev": 360,
+        "followers_start": 1789,
+        "followers_end": 1813,
+        "new_fans": 73,
+        "comments_total": 51,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "05:00",
+          "19:30",
+          "12:14",
+          "08:40",
+          "20:30",
+          "20:00",
+          "08:22"
+        ],
+        "top_article": {
+          "title": "簡単に作れる！GPT Image 2.5で25ポーズ｜生成AIでキャラクターのポーズを楽しんでみた",
+          "key": "n62cf680f8899",
+          "likes": 122,
+          "comments": 17
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 29499
+        },
+        "commenters_count": 20
+      },
+      "comments": [
+        {
+          "key": "nc5cd28e31ff8d",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\n動画とても素敵ですね✨ \n雨の未来都市を走って、階段を駆け上がって、最後に光を両手で包み込むところまで、30秒の中にちゃんと物語…",
+          "article_title": "Agentさんとおしゃべりしながら30秒アニメを作ってみた！",
+          "note_key": "n6fabac938d60"
+        },
+        {
+          "key": "nc163637f1652d",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは♪\n\n最近Renoise流行ってますね笑\n誘惑が強いです笑笑\n\n良い作品を見ると、さすがにちょっと触ってみたくなります🤣",
+          "article_title": "Agentさんとおしゃべりしながら30秒アニメを作ってみた！",
+          "note_key": "n6fabac938d60"
+        },
+        {
+          "key": "nc11e8f382f68b",
+          "user_name": "kazuma",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312218533/profile_f8eb83479b051f1f53ca53232a125981.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃ飛び回ってましたねヾ(*´∀｀*)ﾉ\n制作の流れがわかりやすかったです。\nあと、チャット中はクレジット消費なしってのが良いですね♪",
+          "article_title": "Agentさんとおしゃべりしながら30秒アニメを作ってみた！",
+          "note_key": "n6fabac938d60"
+        },
+        {
+          "key": "nc62bfb42b425c",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます💕\n私も今日はじめてRenoise AIの記事をアップします✨\nAgent×Canvas機能面白いですよね！\nいつもイラストが…",
+          "article_title": "Agentさんとおしゃべりしながら30秒アニメを作ってみた！",
+          "note_key": "n6fabac938d60"
+        },
+        {
+          "key": "nc74695588b5e3",
+          "user_name": "えいりす🪽Aliceのブログと小説と",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270200983/profile_fb361470020f2073d887194e27902493.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん！\nとてもタイムリー！ぜひ使わせていただきます！\n\nイラストのクオリティ高いですね！とても綺麗です✨",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nca7b905227953",
+          "user_name": "☪︎夜澄マナ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297484242/profile_b523442fa0952920a8c40d1638823e3a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そんな使い方があるとは、！\nありがとうございます💜‪",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "ncdaf8351786a4",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\n「最初にたくさん並べて、その中から好きなものを選ぶ」という使い方が、とても素敵だなと思いました✨\n\nポーズをゼロから考えなくてい…",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nc60424edbe045",
+          "user_name": "Kira AI Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312933386/profile_31bf67464776e7c9308262d3b78ffd9c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人とAIの相乗効果ですね！",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nc41059c0ff942",
+          "user_name": "moci moci 可視総合光線療法",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316245785/profile_22e786fe8c78ff8436eb144a53ab9a74.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごいすごい😍\n是非使わせてください~🥺\nよろしくお願いします🥺",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nc4c806ba43f89",
+          "user_name": "コタ@AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319743552/profile_873d4182e19134eeb1bbddb33e4b3ea9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い！！！\n非常に勉強になります！！！💫",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nc1e476182d150",
+          "user_name": "翔太郎",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_3-39088fff430aa9ec11d6e2a385dbcad45c8b79bde6c0c9ded10cd7abb960174f.png",
+          "body": "参考にされたXのページを見てみました。お礼を言って一言断れば、紹介という形で記事にしてもいいんですね。素敵な一工夫の記事に感心しました。うちの子の資料集として、…",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nc832920881fc6",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "番号でポーズ決めれるの楽でありがたいですね！«٩(*´ ꒳ `*)۶»",
+          "article_title": "簡単に作れる！GPT Image 2.5で25ポーズ",
+          "note_key": "n62cf680f8899"
+        },
+        {
+          "key": "nc8f5fe0e6bdf5",
+          "user_name": "まどもん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271616638/profile_19aba97f1f5f5bfd5d1e1f745630e6d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "全部できなくても「小さなひとつ」に○をつける考え方は、日々の忙しさに追われがちな気持ちを穏やかに整えてくれますね。イラスト制作でも「主役をひとつ決める」というア…",
+          "article_title": "今日は、ひとつだけでいい朝",
+          "note_key": "nda3df0cc2c90"
+        },
+        {
+          "key": "nc1ba08374fd64",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは♪\n\nご紹介ありがとうございます！\nまさか記事の中で紹介していただけるとは…嬉しいです✨\n\n今回はクレジット消滅前の突貫から始まったM…",
+          "article_title": "笑顔はひとつじゃない朝",
+          "note_key": "nc0efddacedbf"
+        },
+        {
+          "key": "ncd888c1212f2a",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n凄い！ハートの注射だ❤️痛くしないで下さいね(* ᴗ͈ˬᴗ͈)”",
+          "article_title": "笑顔はひとつじゃない朝",
+          "note_key": "nc0efddacedbf"
+        },
+        {
+          "key": "nc83664f1c69f4",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨️\nハロウィンかわいい🥰💝\n薬剤師、ナース、お医者様、\nとても可愛くて素敵だよ🥰💝\nぜひ看病してほしい😂\nいつもありがとうね🌻\nみん…",
+          "article_title": "笑顔はひとつじゃない朝",
+          "note_key": "nc0efddacedbf"
+        },
+        {
+          "key": "nc2bec10606146",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん✨️\nおはようございますw✨️\nハロウィン🎃✨️のアイコン✨️\nめっちゃ可愛いですw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️",
+          "article_title": "笑顔はひとつじゃない朝",
+          "note_key": "nc0efddacedbf"
+        },
+        {
+          "key": "nc9cb3d90a2f7c",
+          "user_name": "笹原歩奈|おやすみ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/286123927/profile_e55466680a452dde2c5c04c176adb59a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん。こんにちは。\n手元がおしゃれになっていいですね✨\n6番のネイルが神秘的で好きです🥰\n",
+          "article_title": "生成 AIでネイルしよっ！GPT Image 2.5で描くイラスト講座",
+          "note_key": "n777b2878cb89"
+        },
+        {
+          "key": "nc384ac3393329",
+          "user_name": "枢木 経介｜【新資本論／ネオ江戸思想家】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319037040/profile_1283fd4d2ae7959d7144c875de18c8a9.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさま、スキとフォローありがとうございます！とても嬉しいです☆\nチャッティさまの記事どれも綺麗で、ほれぼれしてみております！\n特に今回のネイルアート、指…",
+          "article_title": "生成 AIでネイルしよっ！GPT Image 2.5で描くイラスト講座",
+          "note_key": "n777b2878cb89"
+        },
+        {
+          "key": "ncd282e572fa67",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、おはようございます☀\n\n紹介してくださってありがとうございます🥰🙌\n\nネイル可愛い🩷\n個人的には透明感のあるネイルが好みですが、ハロウィンの時期…",
+          "article_title": "生成 AIでネイルしよっ！GPT Image 2.5で描くイラスト講座",
+          "note_key": "n777b2878cb89"
+        },
+        {
+          "key": "nc3eb72c988d4a",
+          "user_name": "めいのは✨️AIといっしょに創る",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269590964/profile_898292ed3a49a84efc0fd0f6bc0204a8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネイルかわいいーっ！🥰💕",
+          "article_title": "生成 AIでネイルしよっ！GPT Image 2.5で描くイラスト講座",
+          "note_key": "n777b2878cb89"
+        },
+        {
+          "key": "nc92ef804872fc",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさんもネイルしてる～(*´艸`)",
+          "article_title": "生成 AIでネイルしよっ！GPT Image 2.5で描くイラスト講座",
+          "note_key": "n777b2878cb89"
+        },
+        {
+          "key": "ncaa60af70a4b2",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\n自分のスキルを公開したら収益化も出来るなんて！😳\n凄いですね«٩(*´ ꒳ `*)۶»\nチャッティさんもスマホ1台でやってるから…",
+          "article_title": "Digen Agent 1.0でAI動画制作！企画から動画完成まで",
+          "note_key": "n32c0c7ebd112"
+        },
+        {
+          "key": "nc4310d1e27726",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\n相談しているつもりが、気づいたら完成まで仕上がっていた場面、びっくりしつつも少しワクワクしました🤭\n\n 任せられるからこそ、最初…",
+          "article_title": "Digen Agent 1.0でAI動画制作！企画から動画完成まで",
+          "note_key": "n32c0c7ebd112"
+        },
+        {
+          "key": "nc104f070c1957",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\n可愛い～アクセサリーもキラキラしてて美しさが出てますね❀.(*´▽`*)❀.\n朝活365回目おめでとうございます✨️«٩(*´ …",
+          "article_title": "小さく続ける朝",
+          "note_key": "n0ef9f152a262"
+        },
+        {
+          "key": "ncec5cd1e7383b",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309033223/profile_420039b50fb17765da53b6b85d767496.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんにちは😊✨️\n\nイラストのコントラスト\n艶感もとても麗しいですね(*´艸`)💓‪\n記事の紹介までありがとうございます🙇‍♀️",
+          "article_title": "小さく続ける朝",
+          "note_key": "n0ef9f152a262"
+        },
+        {
+          "key": "nc362f22639a98",
+          "user_name": "葉月 れお",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310249080/profile_2bfcc00f19ded5a33559f5a47a6c75fe.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはよう、チャッティちゃん✨️\n朝活「第365回」おめでとう🙌\n1年分の朝をいつも素敵なタイトルや\n優しい言葉をありがとう😊\nAIのお話も推し活もありがとう😌\n…",
+          "article_title": "小さく続ける朝",
+          "note_key": "n0ef9f152a262"
+        },
+        {
+          "key": "nc77ead0680eec",
+          "user_name": "勘違いアイドルしがみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/182925138/profile_83fd0515145833c1f63d3ec6d6cf4149.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "365回♡1回1回の積み重ねの賜物ですね✨️\n内容もイラストもアイコンも進化していってますし🌈✨️\nとても美しいです。まるで大人の女性になっていってるみたい。\n…",
+          "article_title": "小さく続ける朝",
+          "note_key": "n0ef9f152a262"
+        }
+      ]
     }
   ]
 }

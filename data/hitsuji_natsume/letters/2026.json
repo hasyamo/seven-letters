@@ -1305,6 +1305,75 @@
         }
       ],
       "rare_no": 9
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 170,
+        "likes_prev": 198,
+        "followers_start": 2132,
+        "followers_end": 2156,
+        "new_fans": 50,
+        "comments_total": 8,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "17:16"
+        ],
+        "top_article": {
+          "title": "検証日記｜お茶を飲む間にスライドへ。｜2026最新BLS講習｜HIX AIでPDFからスライド作成！20分で資料化する手順とレビュー【PR】",
+          "key": "nebc6c6cda0ec",
+          "likes": 100,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "カケルン@HSP フォロバ（㌫。）",
+          "urlname": "yamaxkake",
+          "follower_count": 7746
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "ncde745cb56bb0",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さーん✨こんにちは😄\n資料読んでプレゼン資料にするのに20分🫢\nすごい！あー自分で何日もPPT作る手間が\n減りますねー😄\n図表に結構時間かかりますもんね✨\n勉…",
+          "article_title": "検証日記",
+          "note_key": "nebc6c6cda0ec"
+        },
+        {
+          "key": "nc4ac3dc232ff9",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊🐑さん、お元気ーー？\nめっちゃ丁寧な記事でびっくり😲勉強になりましたわ✨💃💃",
+          "article_title": "検証日記",
+          "note_key": "nebc6c6cda0ec"
+        },
+        {
+          "key": "ncfc78d01d524b",
+          "user_name": "ノラ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284839197/profile_00d0686431c2f5e4a24690e342ffff12.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "BLSのインストラクターまでされてるの、改めてすごいです🔥 ガイドラインが変わるたびに資料を作り直す大変さが伝わってきたぶん、それがお茶を飲む間の20分になるの…",
+          "article_title": "検証日記",
+          "note_key": "nebc6c6cda0ec"
+        },
+        {
+          "key": "nc20ed2781c7d1",
+          "user_name": "TKS Studio",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/250554960/profile_bd79426a6a164ee31ad2d4aee020620d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして。\nすごく気になる画像とタイトルでしたので、読ませてもらいました。\n\nすごく楽しく読ませてもらいました。\n勝手ながらフォローもさせてもらいました＾＾…",
+          "article_title": "検証日記",
+          "note_key": "nebc6c6cda0ec"
+        }
+      ]
     }
   ]
 }

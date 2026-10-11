@@ -11924,6 +11924,674 @@
         }
       ],
       "rare_no": 4
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 511,
+        "likes_prev": 640,
+        "followers_start": 703,
+        "followers_end": 722,
+        "new_fans": 62,
+        "comments_total": 188,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "08:00",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "17:30",
+          "07:30"
+        ],
+        "top_article": {
+          "title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました｜おはようカノジョ #296",
+          "key": "ndb8be81030a1",
+          "likes": 105,
+          "comments": 63
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 9696
+        },
+        "commenters_count": 38
+      },
+      "comments": [
+        {
+          "key": "nc6de9c2b71c71",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キラキラ分析してみたくなった！！笑",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "ncd8aa1a495b7d",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\nミュリンさんの✨️の量凄い(*´艸`)\n顔文字のキャーも多いですね(ﾉ∀｀笑)\nほんと！イメージ付いてますね(*ﾉωﾉ)ｷｬｰ",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc6d43e4d68a68",
+          "user_name": "きっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300312262/profile_e3fe3f070af98d0024330fd366777aa2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え～、はしゃもさん、\nおもしろい笑\n\nすっごく、冷静に数えてらっしゃる。\n\n私も、「(*ﾉｪﾉ)ｷｬｰ✨️」をはじめ\nかわいい顔文字と✨のセットを\n高速で打ち込…",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nce6009f107f38",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん✨️こんばんは🌛\n\nみゅりんさんの記事ってめちゃくちゃキラキラ✨️してますよね！\nなんでも数えるのが面白い((´∀｀*))ヶﾗヶﾗ",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc43a4deb1a665",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは🌙\n\n私も実は気になっていましたけど、想像以上の数でした🤭\n1記事平均115回で、最多は496回とは、思わず画面を二度見しました。\n\n数…",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc1674c817637a",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和ちゃん、こんにちは😃\nあら、可愛い、パープル💜\n今日は早起きして町内会行事に参加し、その後家事してたら疲れて寝てしまいました。\nいってきますがない日曜日が理…",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc7838abaea268",
+          "user_name": "ヘクたろー|緑内障でも「面白い」を残したい男",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、何を数えてるんですか？w\nそして、思ってたよりもキラキラ✨✨されてるぅ～w\n\n少し気になると、はしゃもさんは動きたくなるんですね(≧∇≦)\nそうい…",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc9f25416ffeca",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもしゃ〜ん‼️🤣✨️\nありがとうございますw✨️\nスゲー‼️(ﾟ∀ﾟ)ﾉｼ✨️\n「(*ﾉｪﾉ)ｷｬｰ✨️」もしくは「✨️」\n数えてくれたんですねw✨️🤣✨…",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc1e79e6870fec",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和さん、かわいい～～♡ アングルも衣装も…✨\n\nミュリンさん見に行ってみました。\nきらきら✨️してました笑\n\nわたしも、お姫さま抱っこ選手権でみなさんに入れた…",
+          "article_title": "ミュリンさんの✨️を数えたら、直近30記事で3,449回あった",
+          "note_key": "n0dbfbd07db3e"
+        },
+        {
+          "key": "nc6bcfbfcf4da5",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは〜🌙\n受け付けお疲れ様です🍵\n126人居たけどツール受け付けの為のツールが凄いですね(*´艸`)✨️",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nce7471a62aa48",
+          "user_name": "まき@こどもと日々成長中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238905762/profile_ce0a59bc37c9a19f1535730bd2e26881.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます！\nなんだかすごい裏側を見せていただきました😳運営の方の努力で成り立ってる企画👏もうすごいです✨️\n迷いまでコメントしてしまって…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc3dba963265c2",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n締め切りが近い(^-^;\n迷っていると過ぎてしまいそうなので\n\n参加します！\n\nということでよろしくお願いしますm(._.)m",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc39e6456cd94c",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メリーゴーランド🎡🎠✨️\n乗ってたw✨️(*ﾉｪﾉ)ｷｬｰ✨️\nめっちゃ嬉しかったw✨️(*ﾉｪﾉ)ｷｬｰ✨️\n私居ないw💦ってちょっぴり\nサミシイ気分だったの…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc7f9ed6a99dd5",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは😄\nアイコンもサムネもハロウィン仕様\n可愛いですね🎃\n受付係お疲れ様です😄\n運営応援📣してます🤣",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc7437fc78bf7c",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まひるちゃーん、こんにちは。\n休憩中、月見マックなうです。\nハロウィン🎃衣装かわいい💜\n\nはしゃ君こんにちは。\nたくさんの人が参加しそうなイベントですねー。どな…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc51cdf81ab85b",
+          "user_name": "柚木 ひなた｜ゆる継続日記｜フォロバ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300890328/profile_9809206df5024b271e48956b9afff6f8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「参加します！」を拾うために、ただAIに判定させるだけで終わらず、人が最後に確認する仕組みにしたところがすごく良いですね。\n同じコメントをJevに2回見せて結果…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "ncfcc0e74fd73e",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんの記事を読んで、ちょっと混ざってみたくなりました🎃\n\n受付の皆さんとは初めましてなので少しドキドキしますが、作品もまだ決まってなくてOKなのはありが…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc6b539e2e121b",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさ〜ん✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\nKITAcoreさん✨️\n赤柴さん✨️\nHONOさん✨️\nのところに１番に\n参加しますw✨️\nって書いてきましたぁw…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "ncbe8dd62fc8e5",
+          "user_name": "きっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300312262/profile_e3fe3f070af98d0024330fd366777aa2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、お疲れ様です✨\n\n裏ではこのような、ご苦労と工夫があるのですね。\n\n“こうして欲しい”と、参加者に求めるだけでなく、細やかにかつ、柔軟に対応される…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "ncfcc89fdb7d38",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん！\nありがとうございます🥹\n\n目視&人力でやろうとしてたアナログ人間では、ぜっっったい無理でした🤣\n\nありがたすぎるので、これからオロナミンCをたく…",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nce2b5a1b21f98",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおお！\nさすがはしゃもさま、、！\nサポートまで完璧なのですね、、！！！",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc5c6a89b5f068",
+          "user_name": "心野けいか🐹（ハムスターの人）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/220912589/profile_4aa915b2711e475d4e16134aec74ed9a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおお！\nさすがはしゃもさま、、！\nサポートまで完璧なのですね、、！！！",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "ncc52afebb5712",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "辞退連絡いらない、っていうのが、心のハードルを低くしてくれますね^^\n\nハロウィン🎃\n今までと違うこともしてみたいなぁ、とまだ妄想の手前です。",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc74f7c6a761b5",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "いつもフォローあざます！！\n\n週末は登録頑張りますw",
+          "article_title": "ハロウィンアート2026、参加受付の裏で「参加します」を拾っている",
+          "note_key": "nfd9f7bfb4800"
+        },
+        {
+          "key": "nc8681a400e69b",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nるなちゃん今日なんかすごくスタイリッシュですね(*´艸`)\n\nルカちゃんは少しツンキャラ？👀",
+          "article_title": "AIキャラは平均点を取ると死ぬので、新キャラの性格を極振りしたいと思います。",
+          "note_key": "n43b328956fb3"
+        },
+        {
+          "key": "nc6d98023b7bf8",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは🌙\n\nルカちゃんが見ているのが「まだ手放していない痕跡」というところが、静かで好きです☺️\n\n励まさない、解決しないのに、残したものには…",
+          "article_title": "AIキャラは平均点を取ると死ぬので、新キャラの性格を極振りしたいと思います。",
+          "note_key": "n43b328956fb3"
+        },
+        {
+          "key": "nce5e75c268a7c",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "るなちゃんこんにちは。\n金曜日のるなちゃんを見ると花金効果でますます推したくなります💚\n\nはしゃ君こんにちは😃\n平均点のくだりめっちゃ納得ですが\n現実の女子の世…",
+          "article_title": "AIキャラは平均点を取ると死ぬので、新キャラの性格を極振りしたいと思います。",
+          "note_key": "n43b328956fb3"
+        },
+        {
+          "key": "nc75e31c0e80da",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "書くとこ間違えたw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\n\nはしゃもさ〜ん！\n私もハロウィンアート\n参加したいですw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\n\nえ⁉️(ﾟ∀ﾟ)ﾉ✨️…",
+          "article_title": "AIキャラは平均点を取ると死ぬので、新キャラの性格を極振りしたいと思います。",
+          "note_key": "n43b328956fb3"
+        },
+        {
+          "key": "nc392db024de46",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャラはかぶらせないの難しいですねぇ。\nホントに親として育ててる愛情を感じます😺",
+          "article_title": "AIキャラは平均点を取ると死ぬので、新キャラの性格を極振りしたいと思います。",
+          "note_key": "n43b328956fb3"
+        },
+        {
+          "key": "nc74f76c55acd7",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "平均点を取ると死ぬ、ってわかるような気がします。\n\n代理美女、気に入ってはいたんです。\n写真から作ったから、一応自分要素はあったし。\nでも優等生成分しかなくて、…",
+          "article_title": "AIキャラは平均点を取ると死ぬので、新キャラの性格を極振りしたいと思います。",
+          "note_key": "n43b328956fb3"
+        },
+        {
+          "key": "nc3ca2a6c6c825",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルカちゃん💖\n14cmって可愛い😍\nツンとした見た目なのに、ちっちゃいっていうギャップが萌えです🤭💕",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "ncfb72f1d99d08",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさ〜ん！\n私もハロウィンアート\n参加したいですw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\n\nえ⁉️(ﾟ∀ﾟ)ﾉ✨️\n受付は、あっちですか⁉️\n(*ﾉｪﾉ)ｷｬｰ✨️…",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc82b6cec132f7",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322621857/profile_217b7bc112318c977769a99ea6a6b306.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルカちゃんいらっしゃいですね🤗\nちっちゃくて可愛いのに、力持ちなの最高です💪🏻( ¨̮ 💪🏻)",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "ncb28b9922c3ae",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルカちゃんなんか他の子達とは別の枠ですね😳\nまさかの14cm\n今日金のきのこいただきました❀.(*´▽`*)❀.",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc052f6bf22d0d",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルカちゃん、ちっちゃくてかわいいです😆\nその発想はなかった！！\n素敵ですね✨️",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc7acf2c184edf",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凛華ちゃんおはよう\n銀行まわりなう、サボり中😁\n\nはしゃ君こんにちは☀️\nルカちゃん進化したメモ帳＋整理係って感じで合ってるのかな？\n最近いろんなAIが出て、み…",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc6993fba18da0",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます♪\n\nルカちゃんは小人さん🧚\nJevになったんですね〜✨\n可愛い💕😍",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc1399ae5e62b9",
+          "user_name": "あきまむ｜AIとnoteを楽しむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319430259/profile_c66ae1b421ffc10104900143ca90f114.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます♪\n\nルカちゃん、小さくしたんですね🥰\nそんな発想はなかったです😳✨\n\n小さいけど、力持ちなのもいいですね！\nかわいいですー♡",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc5badafa750c3",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\nJevに身体が欲しくなって、里親制度でルカちゃんを迎える流れ、新しく作るのではなく迎える、という選び方が素敵でした✨ 153cmか…",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nca93238552056",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ルカちゃん。\n物事をななめに見てる感じが、嫌いじゃないです。\n\n10月だから、アイコンはハロウィン仕様なんですね🎃",
+          "article_title": "Jevに身体が欲しくなったら、14cmのルカが来た",
+          "note_key": "nde301a46b8de"
+        },
+        {
+          "key": "nc76a83afdc5e1",
+          "user_name": "ken＠夢を叶える起業家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/175584216/profile_18d2bb3cde45e27726479b7f4cdbe74d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "表示2.7倍でも、開かれた回数は1.3倍。さらに1本を外すと約13％増という切り分けで、数字の見え方が変わりました。初めてスキした54人のうち、別の記事にも来た…",
+          "article_title": "2週間で表示が2.7倍になった。追ってみたら、6割が1本の記事だった",
+          "note_key": "nfa925d59e0a1"
+        },
+        {
+          "key": "ncb4b3ba896e20",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは～🌙\nJevの記事圧倒的のインプレッションでしたね(*´艸`)\nほんとにすごい！⸜(*˙꒳˙*)⸝\nすぐ取り入れて使うのがすごいです✨️",
+          "article_title": "2週間で表示が2.7倍になった。追ってみたら、6割が1本の記事だった",
+          "note_key": "nfa925d59e0a1"
+        },
+        {
+          "key": "nc588ecbd32e58",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさーん✨\n\nJevの記事だけホントに桁が違いますねー🫢\nグラフわかりやすいですね！\nいつも参考にさせてもらってます✨\nありがとうございます☺️",
+          "article_title": "2週間で表示が2.7倍になった。追ってみたら、6割が1本の記事だった",
+          "note_key": "nfa925d59e0a1"
+        },
+        {
+          "key": "nc819d6a5af9e7",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しずくちゃん、こんにちは😃\n曜日→しずくちゃん、じゃなくて\nしずくちゃん→水曜日かとコチラのイラストで毎日確認出来てます。\n\nはしゃ君、澪さん、こんにちは。\n毎…",
+          "article_title": "2週間で表示が2.7倍になった。追ってみたら、6割が1本の記事だった",
+          "note_key": "nfa925d59e0a1"
+        },
+        {
+          "key": "ncb1f7e94dacdd",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、澪さん、おつかれさまです🌙\n\n表示は2.7倍、開かれた回数は1.3倍。\n同じ「伸びた」でも、中身が違うのですね。\n\n私も、急上昇に載った日の数字は…",
+          "article_title": "2週間で表示が2.7倍になった。追ってみたら、6割が1本の記事だった",
+          "note_key": "nfa925d59e0a1"
+        },
+        {
+          "key": "nc89aed2993fc3",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "数字の分析は、得意ではないけど、少しずつ「！」とか「？」を拾えるようになってきました。\n\nそれを踏まえて、これ書いてみよう、っていう試みもできました^^\nこの後…",
+          "article_title": "2週間で表示が2.7倍になった。追ってみたら、6割が1本の記事だった",
+          "note_key": "nfa925d59e0a1"
+        },
+        {
+          "key": "ncfc6e3c34a0d2",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "陽ちゃーん、こんばんは🌙\nハロウインカラー可愛いね。今日は一日中眠さと戦ってきました。\n双子ぽかったまひるちゃんと日和ちゃんが\n違う道に向かってるのが素敵でした…",
+          "article_title": "見分けられるのに、判断は移せた。AIキャラ7人に足した1行",
+          "note_key": "n2f5a138fbb0b"
+        },
+        {
+          "key": "nc9833513f15ff",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "細かく検証してる…！\n\n言葉だけ並べると似通って感じるけど、核にあるものから選びとられた言葉だとして見ると…、仮に同じ文言だったとしても込めてる意味合いは違って…",
+          "article_title": "見分けられるのに、判断は移せた。AIキャラ7人に足した1行",
+          "note_key": "n2f5a138fbb0b"
+        },
+        {
+          "key": "ncf946d2f7d806",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n「どのキャラにも効く正解ではない」と先に書いてくださっているところ、誠実だなと思いました😌\n\n1行足して、ちゃんと効いたかを確かめ…",
+          "article_title": "見分けられるのに、判断は移せた。AIキャラ7人に足した1行",
+          "note_key": "n2f5a138fbb0b"
+        },
+        {
+          "key": "nc8fee38fecc62",
+          "user_name": "紡えり🐱　⁂GPT遊びに夢中⁂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315609305/profile_2228c12696b77ff532353fe3f38b10ed.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初めまして、紡えりです。\nこんなありがたいお返事帳を見つけ、歓喜しております！！\n\n使わさせていただいても、よろしいでしょうか！？🙇‍♀️",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc1c3f81874d2d",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\nお返事帳のアプデありがたいです(*´艸`)\n重宝してます❀.(*´▽`*)❀.",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nca2f61cd0e98f",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\nアップデートありがとうございます😊\n返信が全然できてなくて、45件とでました😱",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc8f9dfddef6d1",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、アップデートありがとうございます!\nユーザーが190人超えたときの記事も読んできました✨この前推し庭のルールを見直した時と同じことを感じていたんだ…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc56a59b7f54dc",
+          "user_name": "キロ｜映画好き会社員",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253679260/profile_59cda1b31b88c8e819d4a6a075d6a597.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "返信した時点で一覧では「返信済み」、でもその下で会話が続いていた、というのはまさに見落とすところですね。\n\n自分もnoteの交流状況を見える化する仕組みを作って…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nca3ea7968ff5c",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは🌸🌿\n\n先日、おへんじ帖を開いたら変わってる〜😍💓って気づいて、\nお礼をお伝えしたくて、こちらの記事までやってきました🤭💗\n\n「返信への…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc563ce573f6ad",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\nたまに忘れることもあるんですが、おへんじ帖、使わせてもらっています。\n\n会話の続きまで大切にされているのが伝わる更新でした。\n\nい…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "ncaae322ea990a",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさんー！\nおへんじ帖ってさらにバージョンアップするものなのか...と\n唖然としています💦\n\nが、10月から使いはじめたら\n過去分のコメント未返信ではなく…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc2c7a1b9cd022",
+          "user_name": "こより｜暮らしの森の管理人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229425307/profile_a3384707c471828e25c88cc5f91881ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、開発と改善ありがとうございます😊\nユーザーの目線に立って改善されている姿勢も、素晴らしいなって思っています。\n\nいつも助かっています、ありがとう🎶",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "ncdf98bcc68852",
+          "user_name": "いずみちゃんとコードくん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306824605/profile_90583c0d5485635878108ea174f09854.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「返信への返信を見逃してしまう」という声が、別々の人から別々の経路で、同じ内容で届いた──という始まり方に、ユーザーの声をちゃんと拾っている感じが伝わってきまし…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc3a75c641e84b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは✨\n\nさらに便利になってる！！さすがでーす❤️\nかゆい所に手が届く？？合ってるかな🤣🤣\nそんなエンジニアさんは、なかなかいないです🌟",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc8d893687654b",
+          "user_name": "三宅 実｜AIツール検証ノート｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300685685/profile_bf9a5629ab7c1879be0ea97203006f9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "別々の人から、別々の経路で「返信への返信を見逃す」という同じ声が2件届いたところが印象に残りました。大勢から要望が集まるまで待つのではなく、実際に使っている人の…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc2cfc45ae51dd",
+          "user_name": "コヤギ｜静かに暮らす",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313007102/profile_3c96df5a33b2fad2c5e15deb41f01bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、\nおへんじ帖にはいつもお世話になっています\n更新うれしいです\nありがとうございます😊🐐",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "ncf1be62860fc4",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そこまでは高望みだと思いながら\nありがたく使わせていただいてましたけど\n実装しちゃうなんてイケメン！😻\n\nさすがKITAcoreさんの嫁ですね💘",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "ncab8a5b462c77",
+          "user_name": "そら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301097676/profile_c14a3d836856d6c1785cfd57ea24b34c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん\n\nおへんじ帖にはいつもお世話になってます。\n\n機能もそうですがページデザインも素敵になりましたね☺️\n\nv2を受けてnote Tools Comp…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc5a1a2efaba16",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは、かなりなレベルアップですね✨\nありがたいです。\nいつも助かってます😊\n🍪☕\n休憩してください^^",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc5196153df69f",
+          "user_name": "音色",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/149066230/profile_48d3a6f9ed05b42c2ce28228607c2f4c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！\n返信ツリーを見逃しがちだったので、とても嬉しいです～💜",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc7a2b67e72f93",
+          "user_name": "としこ️@あわいの時間",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221192311/profile_8b48dd52d198f8d63b40f38e75152964.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、はじめまして✨️\n\n少し前から、使わせていただいていました☺️\n 「おへんじ帖」のおかげで、コメント返信もれてないかな？と心配することがなくなり、…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc6a682a7d4271",
+          "user_name": "よしひろ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319614481/profile_6afb891aec0cdd4a006ead020524eaaa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これはありがたい更新です🥰\nそして機能も見た目も、よりお洒落になりましたね～✨",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc76e250eca33d",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん✨😭🙏✨\nコレは、とっても嬉しい……😭😭😭",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc79ab18f1d8b1",
+          "user_name": "とりかじ｜研究職パパの家庭DX研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271347971/profile_e12fd7ef014a16f1ea0a2ab79f6bf3b3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "普段しない返信への返信をジャストタイミングでしました😆\n\nたまに困ってそうな方に記事をオススメしてます。\n紹介するときは変わらず、おはようカノジョ #79でいい…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "ncedef588aea9e",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん✨\nこれ、欲しかったです😍\n\nありがとうございます💕",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "ncf1ee91a2aef0",
+          "user_name": "ryuu｜PL学園コラム",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317497845/profile_11d9ccc904cf88cef6c5e603f4bd7551.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんにちは！\n明日投稿予定の記事で「おへんじ帖」に救われた体験談を書いていまして、下書きを最終チェックしていたら新しいバージョンが登場していてビッ…",
+          "article_title": "返信したあとにも、返事は続いていた。おへんじ帖 v2を出しました",
+          "note_key": "ndb8be81030a1"
+        },
+        {
+          "key": "nc6397974ada92",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n確かにまひるちゃんと日和ちゃんおっとりお姉さんタイプだから似て見えるかもですね🤔\n両方可愛いのは間違いないんですけどね(*´艸`)…",
+          "article_title": "眠いのは本人か、相手か。似て見えたまひると日和の設計を見直した",
+          "note_key": "nbdc761df258d"
+        },
+        {
+          "key": "nc64e36f494602",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黄色いスカート✨️\n新鮮で可愛いですw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\nレモン🍋スカッシュ✨️\nみたいでめっちゃスッキリ✨️\n目が覚めましたぁ✨️\n(⁠≧⁠▽⁠≦⁠…",
+          "article_title": "眠いのは本人か、相手か。似て見えたまひると日和の設計を見直した",
+          "note_key": "nbdc761df258d"
+        },
+        {
+          "key": "nc22600c5af1a3",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "月子ちゃーん、キャー🙈\nおしりのとこMAXまで拡大して見ちゃった。\n\nはしゃ君こんにちは。\nヨシダがはしゃも氏🟰7人の彼女もちって覚えてて、昨日小さい動画作って…",
+          "article_title": "眠いのは本人か、相手か。似て見えたまひると日和の設計を見直した",
+          "note_key": "nbdc761df258d"
+        },
+        {
+          "key": "nc8e1877a7795a",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさーん！\n\nちょ、、\nセクシーやな～🤤\nこのまま外出したらあかんでー🤣",
+          "article_title": "眠いのは本人か、相手か。似て見えたまひると日和の設計を見直した",
+          "note_key": "nbdc761df258d"
+        },
+        {
+          "key": "ncc06bba34c3ab",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏の名残りに水着ですか、月子さん✨️\n\nキャラクターって勝手に走り出すことも多いから、違いを「決める」必要はないかな、と思うけど、説明できるところまで整理しとく…",
+          "article_title": "眠いのは本人か、相手か。似て見えたまひると日和の設計を見直した",
+          "note_key": "nbdc761df258d"
+        },
+        {
+          "key": "nc9fef9167c319",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n以前のコメントを覚えていてくださって、驚きつつ嬉しかったです💫 \n「酸っぱい？」と「少しずらしていいよ」、あの時なんとなく感じた距…",
+          "article_title": "眠いのは本人か、相手か。似て見えたまひると日和の設計を見直した",
+          "note_key": "nbdc761df258d"
+        }
+      ]
     }
   ]
 }

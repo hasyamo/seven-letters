@@ -1869,6 +1869,68 @@
           "note_key": "n4b709cccccd6"
         }
       ]
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 379,
+        "likes_prev": 698,
+        "followers_start": 7731,
+        "followers_end": 7923,
+        "new_fans": 114,
+        "comments_total": 5,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "06:55"
+        ],
+        "top_article": {
+          "title": "『TikTokフォロワー数、300人突破！』--わずか3週間で･･･！-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "nb42c63676cdc",
+          "likes": 145,
+          "comments": 5
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17632
+        },
+        "commenters_count": 3
+      },
+      "comments": [
+        {
+          "key": "nce463bfb74d5b",
+          "user_name": "これから嘱託はじめます。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262572186/profile_6203044f5de5e02c45aa0a5b53325cf2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん…こんばんは🌙\nイヤイヤ…まいかさんのnoteでの積み重ねが…\nTikTokで延長されているので…\n新参者でなにもなければ…素通りされるかもですよ。\n…",
+          "article_title": "『TikTokフォロワー数、300人突破！』--わずか3週間で･･･！-",
+          "note_key": "nb42c63676cdc"
+        },
+        {
+          "key": "nc47c78be246fa",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。おはようございます。今回も、勉強になりました。ありがとうございます😊",
+          "article_title": "『TikTokフォロワー数、300人突破！』--わずか3週間で･･･！-",
+          "note_key": "nb42c63676cdc"
+        },
+        {
+          "key": "nc13e556b34243",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\nさすがですね\n\n続きが見たいは、そうですね\n\nうーん🤔\n何かあるんだろうな\n\nありがとうございます♫",
+          "article_title": "『TikTokフォロワー数、300人突破！』--わずか3週間で･･･！-",
+          "note_key": "nb42c63676cdc"
+        }
+      ],
+      "rare_no": 7
     }
   ]
 }

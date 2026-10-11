@@ -1079,6 +1079,51 @@
           "note_key": "nadb8b58befe3"
         }
       ]
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 202,
+        "likes_prev": 217,
+        "followers_start": 1040,
+        "followers_end": 1077,
+        "new_fans": 59,
+        "comments_total": 3,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "13:32"
+        ],
+        "top_article": {
+          "title": "【変化するものの価値～AIの価格から見えてくる「私たちの価値」～】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.61",
+          "key": "na8ae6fb6690c",
+          "likes": 115,
+          "comments": 3
+        },
+        "notable_reader": {
+          "name": "御丹珍／おたんちん｜光る個性を、みつけ・つなぎ・むすぶ",
+          "urlname": "rh_b",
+          "follower_count": 8318
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "nc0665a0180101",
+          "user_name": "AIU(アイユ)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323018502/profile_7ca7043fcbd72a8a1655ebcee027bc87.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n私、Adobe Creative Cloudに入っているのに、\nまともに使えていないのが、非常に悩みです💦\nせめてPhotoshop頑張りたい。",
+          "article_title": "【変化するものの価値～AIの価格から見えてくる「私たちの価値」～】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.61",
+          "note_key": "na8ae6fb6690c"
+        }
+      ]
     }
   ]
 }

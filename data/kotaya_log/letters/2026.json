@@ -7424,6 +7424,654 @@
         }
       ],
       "rare_no": 1
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 399,
+        "likes_prev": 590,
+        "followers_start": 3541,
+        "followers_end": 3547,
+        "new_fans": 62,
+        "comments_total": 148,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:40",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "100人で何をしたいのか、答えがない。｜メンバーシップ運営・コミュニティ運営の途中経過（共犯者100人計画）",
+          "key": "nfeb7f9898410",
+          "likes": 125,
+          "comments": 32
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 9895
+        },
+        "commenters_count": 45
+      },
+      "comments": [
+        {
+          "key": "nc2c4dbb7380b4",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まぁさ、しのごの言わないで旗あげちゃったんだから行くしかないじゃんw\nただ募集かけてみんなが応援で宣伝かけてもそれ広がるまで2ヶ月はかかる。\n腰上げんの遅すぎ💦…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nc88859671b13e",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん✨\nコメント失礼致します(❁ᴗ͈ˬᴗ͈)\n\n「100人で何をするか」を、リアルの場に置き換えて考えてみました🤔\n\n私は、丸善ビルでの150人規模…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nc4df537a5905f",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵家事よりnoteが好き♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "先日はとっても価値のある特典をありがとう✨️♡\n\nメンシプ100人でできること。\nありきたりだけどAIに聞いてみたよ。\nまあもうこちゃさんならとっくに調べてるか…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nccddfc449ebba",
+          "user_name": "🐾コロッケノスケ☕️｜ハロウィンタロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322511250/profile_756fe04eee4fc5f2d763a0391e3882e4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、今晩は、私的にはこちゃさん記事、思考から学ぶ為にメンシプに入りました、100人集まったらまた夏祭りの様な事企画が出来たら面白いかと思います、メンシプ…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nca799078407a3",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんが、メンバーシップに対して、本当に誠実に向き合ってて……凄いなって思いました😳\n「応援」に対する「感謝」だけに逃げずに、何を還元できるか考える姿…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "ncc9a8a5921c9b",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こればっかりはな〜\n\n100ってある意味、ただの数字だしね〜\n100人いないとできないことは\n考えるの難しいわなぁ〜\n\n100人集める理由が\n損切りライン・費用…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nc264985022a1e",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\nうーん…なんとなくだけど\nできなかったら謝罪してっていう記事を過去に見てしまったから\n損切りラインの話もされましたが、100人…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nc402b216507a4",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "100人で 食べたいな\n富士山の上で おにぎりを\nパックン パックン パックンと\n\n100人で まわりたい\n日本中を ひとまわり\nどっしん どっしん どっしんと…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "ncf6523c95a082",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私もうちのメンバーシップでは、最終的に100人の規模を目指してる。\n\n100人になったときのイメージは、「それぞれが、それぞれの長所でメンバー同士が支え合える\"…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nca14c80ac89ad",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは！🌻✨️\n\n例のアレみたいなやつをいっぱいつくったら、たとえばだけど、遊園地みたくなるんじゃない！？🎡✨\n\n100人達成したら、100人乗り用…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "ncac558bd724f4",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたさん\n\nこばんみ♪\n\n勝手なこと言うよ？\nぼくもこたさんのパーソナリティが好き。\nスキルや企画ありきでメンシプに入ったんじゃない。\nもちろん有用なスキルや、…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nc6120010f3443",
+          "user_name": "アリゼロ🐜 搾取される働きアリをゼロに✅️あなたの心の隙間お埋めします",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたや様、こんばんは🐜\n\nすごいですねΣ（・□・；）\n\nメンバーシップ１００人というとnoteでは超大企業みたいな感じですよね。\n０～１０人位だと小企業、１０～…",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "ncef463b8994be",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こちらこそ一緒にいてくれてありがとうございます♡",
+          "article_title": "100人で何をしたいのか、答えがない。",
+          "note_key": "nfeb7f9898410"
+        },
+        {
+          "key": "nce2bb097c35ea",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは！\n企画の立ち上げからスケジューリング\n審査・発表まで…\n本当にお疲れさまでした！！\n\nすごくいいきっかけをいただいて\n楽しく参加できまし…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc5daffb36d77c",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まりーさん、受賞おめでとうございます🎉✨\n80ページは本気が詰まってますね😌💗\n",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nca33f813fdb21",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まりーさん✨\nKOTAYA賞、受賞おめでとうございます🎊\n\nシグドラの仲間になりたい強い気持ちがストレートに伝わってきて、その熱量に鳥肌が立ちました✨✨✨",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc190598a98603",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA賞\n選出ありがとうございます❣️💫\n\n完敗、お手上げ、白旗\n\nそこまで言わせられたのは\nめっちゃ嬉しいね〜🤭\n\n夢オチ、正夢にしたかったし、\nするつ…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "ncabaeed7a0bb6",
+          "user_name": "沙夜-𝕊𝕒𝕪𝕠- 沙夜学園🌠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316867450/profile_4b55ff306c0115d4395e5b05b0893bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マリーさんおめでとうございます🥰💕\n\nこたお姉様もお疲れ様です😋✨✨\n80Pめっちゃすごかったですよね😁\n\nわたしなら死んでます😱\n審査員の方たちも全作品を読ん…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "ncfb4179d9df70",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、おはようございます😊\n\nマリーさんのマンガは読んだ瞬間、すごすぎて語彙力無くしました👍\n\n80ページはすごすぎでしたね✨フランス語のタイトルも…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc5d1bdb956bd5",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんはー✨\n\nマリーさんの漫画アツイ想いが詰まっていたものね\n\nどれかの賞には入るかなと思っていたけど、こちゃさんの賞に入ったことは、マリーさん…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc338f3b6a0965",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "審査お疲れ様です！\n\nKOTAYAさんの記事を読んで締め切りギリギリの滑り込んだという事実とセットで読みに行ったので、なおさらMarieさんの凄さ、本気が伝わっ…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc2c84ae9d7e6d",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "80ページが報われた。\n\nあれって、PCでしか読めなかったんや。\n\n基本、PCだから気付かなかった。\n\nまりーさん、おめでとうございます🎊",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc0835b4c8ab2b",
+          "user_name": "Liliscend＠夜更かしDX・AIハッカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317932325/profile_9f2dda85461985f24f0a9df400f44057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん\n\nこの度フォローさせて頂きましたLiliscendと申します。\n\nKOTAYA賞、記事拝見しました。\n出先で読むのは難しくて自宅に着いてから、…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc2e9149a99a49",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マリーさんおめでとうございます！\n80ページの漫画とその熱量、すさまじいです！！！",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "ncb272d99f6ca8",
+          "user_name": "まるよか",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！！(^o^)\n\nわたしも、まりーさんのこの作品を読んだ時に\n強っ！！∑(OωO; )\nと思ったので、こちゃさんが選んでくださってうれしいです😆\n\nまりーさ…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "ncc0ac326fce9b",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおお！\n\nマリーさんおめでとう御座います㊗️✨\n\n本当、スマホで読めないのには苦労させられましたよ笑\n\nでも、80ページの漫画は、漫画作ったことある人なら、大…",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nca7db90498167",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まりーさん、KOTAYA賞おめでとうございます🎉✨\nご本人、うれしくて今夜は受賞の画面を何度も見返しちゃいそうですね🤭笑",
+          "article_title": "私を、びっくりさせた一作",
+          "note_key": "neac96f80a91e"
+        },
+        {
+          "key": "nc5b800a5c1e7e",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤に変更します🟥\n🤭",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nce08527c7dfdb",
+          "user_name": "andy｜のあ🐾カフェのマスター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事読みました🐾\nやっぱり、🟥に変更で。\n自分がどんな感じで攻略対象になるのか？をみてみたい🙏",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc95471bd70498",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事読みましたー！やっぱり🟥に変更したいです！🙏",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncbb83403da2f6",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316841193/profile_42a715512c5dbc9697d599ae1346733b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えええええええ😳😳😳\n\nすっごいなーー😳😳\n\nこれにつられてメンシプ入ったからにはやっぱり🟥がいいですぅぅ🤭🤭\n\n新入りなのに図々しくてすいません😉✨️",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc0497d41cd10c",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは😃🌃\n今日、やってみて気が変わりました。\n🟥に変更します。\nこたやさんが、どんな風に攻略対象にするのか興味が湧きました🙌",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc940dab5ccc39",
+          "user_name": "🐾コロッケノスケ☕️｜ハロウィンタロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322511250/profile_756fe04eee4fc5f2d763a0391e3882e4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おお〜タロット占い師は攻略されてはダメなので🟦で",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc07b91d053f66",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🟥多いな・・無理なら🟦で",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc16b3ec1aeb76",
+          "user_name": "ポンタ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/110645370/profile_52a8b7d0f5223fbe9ebc90140ce45135.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "大人気ですね。\n🟥は厳しそうなので🟦でお願いします。",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nca5fe06d054f8",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "でおくれた。。。\n🟥倍率高そうなので🟦でお願いします🙌",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc3b600486d445",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めちゃくちゃ🔴人気ですね！青に🟦しまーす！",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncc090bb013435",
+          "user_name": "ＣＯＯＬ|あなたを孤独にさせないnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323139939/profile_1463f7df5a6d516777d641197bee739a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🟥で‼️🟥が楽しそー😁凄い人気💦",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc9b40089e8a27",
+          "user_name": "ふらつき母ちゃん│脊髄小脳変性症ですが何か⁉️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293302621/profile_2b4e0fbf17f8b6a398b56f00eaa99953.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🔴ですにゃ〜\nだけどもぉムリポかもぉ",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc7ba17f3c12f9",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🟥表明多くて倍率高そうだな〜🥹",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc57eb1e407f96",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤がいいなぁ😆🟥❣️",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc6f9d857aee47",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マトリックス😙\n\nこれは最後のチャンスだ。\n先に進めば、もう戻れない。\n\nこれは🟥選ぶやつでしょ〜🤭",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc184bc1ef2f58",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたしゃん\nおはしゃん😊♪\n\nいい♪\n\n赤でもいい？",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc5c0d77b5ef6b",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302681947/profile_aed06a54e3cc23fd27f949fbff9216c3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤でお願いします！🟥",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc304e5f8915b4",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤がいいです❣️",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc1af1a7ec55e2",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おお👀✨ \n",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc22a93620caa7",
+          "user_name": "せな｜無理しない低燃費生活",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298447523/profile_d93afab915847ca4b24ed6aa6a16c29f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最高です😆💓\n今更ですが、赤で🟥",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc5b2f2350e3e8",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ハシビロコウめじゅ、青で🟦✨👍✨",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncf514357c3517",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤でお願いします！",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nce671710bec8c",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも、赤がいいです♪",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc3772166016e2",
+          "user_name": "andy｜のあ🐾カフェのマスター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217043316/profile_0cb31afa82c65d74afbfaf4152a63b07.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "面白い〜ꉂ(ˊᗜˋ*)\n赤多いので、自分は青にします🟦",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc05e3ab360292",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "私は青🟦にします🥰",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncfd5f5615d9a5",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤で👍",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc3e5677c97bd9",
+          "user_name": "あずなぶーる｜元在仏10年🇨🇵家事よりnoteが好き♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301966529/profile_607c8d43dbcdba62c564ab4cc9342b94.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤希望です。なんだか熾烈な争いになる予感が。😆",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc1e2c9a3b3e9e",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤の扉を……って、このネタで分かる人がいるかどうかはともかく、赤を選ばない手はないですね。",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc13167372d9ea",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みんな赤だから青で🟦",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncebeb1a2cf367",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "全員同じだけどわたしも赤で！",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncd906ae4341cf",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤です♡",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncfe5d142de79b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤で🤤",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc90a9a075159e",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤でお願いします💖💖💖",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nceb49e90dd2b2",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤でお願いします",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc812b8dc82b6c",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤で( ´ ▽ ` )ﾉ",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncdda5ec23f823",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "赤でお願いします！",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "nc557819dda77e",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「赤、いきます」✨",
+          "article_title": "次の企み、始めます",
+          "note_key": "n746dc6523208"
+        },
+        {
+          "key": "ncf7b3ae2cb267",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n当日は帰国時差ボケで参加叶いませんでした。動画あげて下さってありがとうございます。\n\n週末ゆっくり見ながら手を動かしてみます。☺️ 楽しみ\n追伸　購…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nccd3275ac486e",
+          "user_name": "ken＠夢を叶える起業家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/175584216/profile_18d2bb3cde45e27726479b7f4cdbe74d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "料理人・道具・レシピの例えで、Codexとスキルの役割がすっと整理できました。実演の要点を文章にも残してあるのが親切ですね。「何度も同じ作業を頼んだらスキル化す…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "ncf3ce41807796",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、ありがとうございます！\n\nめちゃくちゃ勉強になりました。\nアーカイブに残してくださり嬉しいです！\n分からないところを行ったり来たりして見ました😆\n\n…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "ncac3ea56de19c",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "実演会おつかれさま〜💖\n\nChatGPTアプリ初心者だし\nめちゃくちゃ楽しかった〜🤩\n\n緊張してるこちゃ新鮮🤭",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nc2dc1afd0b954",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんにちは🌸🌿\n昨日はお疲れさまでした💗\nそして、みなさんのために実演会を開いてくださって、ありがとうございます🥰  \nKOTAYAさん、最初…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nc778c881d4dff",
+          "user_name": "かえるこ | Kaeruko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271150366/profile_489a53b34b6784632375cbbc0fba0407.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\n執筆お疲れ様です✨\n\n6人も見てくれたんですね✨\nすごい😚\n\nパソコン買ってきた状態のところからって斬新です😙\n時間ある時に見せてもらいます✨",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nc76bf0cde6a14",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほぼ無音で、可愛いと評判のお声が\nチョロっとしか聞けなかったので\nこれから帰宅してじっくり拝聴します😺\n\nエンジニア的AIエージェント入門にオススメPC紹介\nと…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nc98ec8e84f9df",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、　\n\n今日は間に合って良かったです😊\nありがとうございました〜✨\nまだまだ慣れなくて、難しいところもありますが…💦\n料理人の例えは分かりやすかったで…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "ncdb508ad10ccf",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "リアルタイムで参加したかったです！",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nc4be294a36b9d",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、貴重な動画、ありがとうございます💖\n\nAntigravityからCodexへ切り替えているのですが、Codexって使いやすいだけじゃなくて、構…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "nc8937e7998ea7",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\nCodexの実演、すごく勉強になりました…！\n\n実際に動いてるところを見ながら説明を受けると、\n「どこがわからなかったのか？」が見えやすくなりまし…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        },
+        {
+          "key": "ncf37f9694fceb",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんありがとうございます😆\n\n後で見させていただきます✨\n\n来月AntigravityからCodexへの切り替えをちょうど試そうとしてたので使い方参…",
+          "article_title": "Codex無料実演会、6人来てくれた【録画あり】",
+          "note_key": "n67a9a194a32d"
+        }
+      ]
     }
   ]
 }

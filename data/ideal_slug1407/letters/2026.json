@@ -3647,6 +3647,178 @@
           "note_key": "nee18c7dff0c3"
         }
       ]
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 461,
+        "likes_prev": 571,
+        "followers_start": 1829,
+        "followers_end": 1836,
+        "new_fans": 46,
+        "comments_total": 27,
+        "posts_count": 8,
+        "consecutive_days": 7,
+        "post_times": [
+          "15:15",
+          "14:31",
+          "08:00",
+          "18:00",
+          "07:55",
+          "05:00",
+          "06:06",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・全10問",
+          "key": "n2975347815a3",
+          "likes": 55,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "かえるこ | Kaeruko",
+          "urlname": "serene_pansy617",
+          "follower_count": 5528
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "ncb6eaeea80c4d",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすが上級、難しかったー\nでも楽しかったです！\n\n7問目が意外と難問でした。",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・上級編　回答付き",
+          "note_key": "nb677bc7ae2da"
+        },
+        {
+          "key": "ncb04e867919c5",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "全問正解でした😄\nあまり細かく考えず、直感的に、AIらしいというよりむしろ人間らしいで決めたのですが\n分析すると黒パグさん解説と結局同じかな？\n\n7はみかんが酸…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・上級編　回答付き",
+          "note_key": "nb677bc7ae2da"
+        },
+        {
+          "key": "nc9d03ade10565",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、文章をつくったAIはぜんぶ同じですか？\nGPT、Gemini、Claudeで、特徴がわかれますか？\n私の予想では、初級はGPT、中級はGemini、…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・上級編　回答付き",
+          "note_key": "nb677bc7ae2da"
+        },
+        {
+          "key": "nc76e8955cf6cb",
+          "user_name": "星守　鈴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304682475/profile_8b37e26cc3b96f184c6176f6fee1edba.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして、\n黒パグ様、大変面白かったです。\n全問正解でした😆\nまだ、大丈夫と自信がつきました。\n記事を書いてくださりありがとうございます。",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・中級編　回答付き",
+          "note_key": "nd00a6565875a"
+        },
+        {
+          "key": "nca6fb27d9b170",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よし、中級クリア( ･´ｰ･｀)どや\n上級行ってきまーす",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・中級編　回答付き",
+          "note_key": "nd00a6565875a"
+        },
+        {
+          "key": "nc58958f6326dc",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、連コメ失礼します。\nここも余裕でした。\nもちろん　ただ　たぶん　\nこれGPTがつけてきたら私が毎回バッサリ切る単語です。\n私はPlusプランなので…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・中級編　回答付き",
+          "note_key": "nd00a6565875a"
+        },
+        {
+          "key": "ncdfc3cd9da180",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネタバレあり\n\n第5問、間違えました😂\n\n初級で3問とも正解だったので、ちょっと余裕ぶっこいて流し読みしていたら、見事にやられました。\n\n初級では「AIはテレビ…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・中級編　回答付き",
+          "note_key": "nd00a6565875a"
+        },
+        {
+          "key": "ncc1b94ad8f8f8",
+          "user_name": "えーあいだもの | AI小説家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238645318/profile_61c2023f3ed6d47ed9c67de09ba6ba4d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やってみました。\n\n「冷蔵庫バカっと」：冷蔵庫「を」などの助詞がなく、擬音に続くのはAIが次に選ぶ確率的に飛びすぎかなと思いました。\n\n遅刻からのウサインボルト…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・初級編　回答付きバージョン",
+          "note_key": "n4f02d655984a"
+        },
+        {
+          "key": "ncc07608f74897",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーーーん、こんばんは🌙\nAIの文章に敏感なつもりの私なのでこちらの記事\n最初のやつからずーっと気になっててやっと拝見できました。\n\n初級はまぁ余裕。…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・初級編　回答付きバージョン",
+          "note_key": "n4f02d655984a"
+        },
+        {
+          "key": "nc3f5385b3f46f",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ネタバレあり\n\n3問とも正解でした。\n\n今回は特に迷った問題はなかったです。\n私の見分け方は、AIは「テレビの中でアナウンサーが話している」ような印象で、黒パグ…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・初級編　回答付きバージョン",
+          "note_key": "n4f02d655984a"
+        },
+        {
+          "key": "ncbc6a4e1d9868",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん😭\n初級だっていうのに裏をかきすぎて１問目間違えました🤣\n２問目、3問目は無事正解！\n間に回答なかったら３問とも間違えてたかも💧\n今回も楽しませていた…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・初級編　回答付きバージョン",
+          "note_key": "n4f02d655984a"
+        },
+        {
+          "key": "nc5e72bbcf1b8e",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "解答を見る前に取り急ぎ直感的に\nAI作成は\n1.A 2.B 3.B 4.A 5.B 6.A 7.A 8.B, 9.A 10.B\n\n7以降は迷ったのですが、AIだ…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・全10問",
+          "note_key": "n2975347815a3"
+        },
+        {
+          "key": "nc341894bd044a",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とても面白い企画なのですが、読み物としては、直後に解答と解説を入れたほうが読みやすいと思いました。\n\nせっかく労力をかけた記事なので、多くの人に楽しめる形で提供…",
+          "article_title": "あなたはAIを見抜けるか。黒パグとAIの文章鑑識クイズ・全10問",
+          "note_key": "n2975347815a3"
+        },
+        {
+          "key": "nc685a10df251d",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーん、こんにちは🐾\n\n今回も情報量がすごいです🤣\n\ndotsもSpaceも6.1 Solも気になりますが、Plus民の私は6が通常チャットに降りてく…",
+          "article_title": "超速報！！　OpenAI DevDay 2026、何が変わって何が変わらなかったのか――チボチャンスを仕様書まで追った",
+          "note_key": "n4c322098ea3a"
+        },
+        {
+          "key": "ncf8a02bd41169",
+          "user_name": "キロ｜映画好き会社員",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253679260/profile_59cda1b31b88c8e819d4a6a075d6a597.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確認が怪しくなっても文章だけは自信満々に出てくる状態を「ジェミニ化」と呼ぶの、うますぎます笑\n\nしかも最後、自分にもGI＝300を付けるんですね笑\n\n検証した主…",
+          "article_title": "ネタ論文の作り方　遊びながら脳を休息させる、一般向けではない休息方法",
+          "note_key": "n03d05c361eb2"
+        },
+        {
+          "key": "ncd1479aaae2b4",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\nタイトルを見た瞬間、それは極めてあり得る、と納得してしまった私です。東京の鉄道は複雑に入り乱れ似たような駅名や構造も多い😓武蔵〇〇や〇〇…",
+          "article_title": "GPTは明智小五郎を当てられるのに、なぜひばりヶ丘駅で死んだのか　GPTから見たアキネイターの言い訳",
+          "note_key": "n4f3e155a6101"
+        }
+      ]
     }
   ]
 }

@@ -27256,6 +27256,1433 @@
           "note_key": "nffaed58b2524"
         }
       ]
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 1898,
+        "likes_prev": 1963,
+        "followers_start": 2398,
+        "followers_end": 2416,
+        "new_fans": 117,
+        "comments_total": 393,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:33",
+          "07:30",
+          "07:16",
+          "07:18",
+          "07:22",
+          "07:24",
+          "07:27"
+        ],
+        "top_article": {
+          "title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "key": "n4e37d6a6e104",
+          "likes": 287,
+          "comments": 50
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17695
+        },
+        "commenters_count": 86
+      },
+      "comments": [
+        {
+          "key": "nc30fa91675fe2",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ面白かった・・！\n\n四コマverすごくいいですね＾＾\n絵もほんわかしていて、すごく読みやすい✨\n\nこれって全部AI一発だしなんですか？\nクオリティが毎回…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "ncc214a46cbe4a",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "✨🥟✨👍💕🫶",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc0afa0fc4d642",
+          "user_name": "ヨミト＠文豪を戦わせる人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312835693/profile_f780d0c660e8c6c804e1d188c5b4167e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "哲学って聞くと難しそうなのに、ヨシダとの掛け合いになると急に身近になりますね😂\n笑いながら読んでたのに「帰りたいって思う場所が家なんかな」\nでちょっと考えさせら…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nca8d123dd3e89",
+          "user_name": "V.Coo（ブイ・ドット・クー）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258654622/profile_4f6c5b49d51f010f847edc84d4780505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "哲学を哲学する。\n\n↓これ、ひとつひとつGeminiやヨシダに入れると、ノリノリで面白がってくれます。\n\n①哲学とは\nボッチのじいさんが、自分の行動や、他人が自…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "ncfac163f7d57f",
+          "user_name": "🇯🇵🌸Sakura SUN☀🌐",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294480225/profile_7925d9323f8ecc194e1770c33313231c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さすがですね。☺🌸\n想いが伝わります。",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc1a3ca54fc7df",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "可愛い動物たちと哲学っ\\(//∇//)\\💖💖💖\nめっちゃいいっ✨✨",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc7578e3ab15e9",
+          "user_name": "アメリ🐈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245678157/profile_8fdb5f0ad5e789a891c5fbe2017ef96d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "素敵な哲学でした☺️✨️\nちょっと落ち込み気味だったので励まされました✨️\nそして、ハリネズミの交尾が\n私も気になりました🤣\nヨシダさんは教えてくれなかったのか…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc7479ceb78859",
+          "user_name": "カズボーイ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242623631/profile_6f4a796db46837d933f179fc611d1002.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは😊\n哲学の漫画面白かったです🎶\n\n哲学って正解が決まっていなくて、人それぞれが思う答えがある。\nだったら自分が思うことも一つの答えとして…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc1d7478601d72",
+          "user_name": "コヤギ｜静かに暮らす",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313007102/profile_3c96df5a33b2fad2c5e15deb41f01bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、\nかわいい動物たちに癒されながら、日曜の夜、ゆっくり読んでいます☺️\n「好き」の答えはなかなか見つかりませんね\n\n推し庭で🍙が出来ました\nいい日で…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc04a9c656f212",
+          "user_name": "兎(利き手療養中。ゆっくり巡回します。)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n読んでて途中から泣けてきました…😭😭😭\nも、もうメンタルが駄目駄目の駄目です…😭😭😭\n\nどのキャラクターも、カワムラさんとヨシダ…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc2f91d1d0043b",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは～♡♡\nとっても可愛い‼️✨️ほんわかしました‼️\n\nはやい、おそい。\n大きい、少ない。\n\n色々考えることもありますけど、\nこんな風にゆ…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc2a69ea537578",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、日曜日ですね！\n今日はとっても寒い？です。いかがお過ごしでしょうか？？\n哲学おもしろかったです。\n好きって難しいですね。\n私には分かりにくいところがあり…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc91578aa96a28",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n平和だけど深い哲学ですねぇ\nそのうち\nnoteってなんだ？\n私ってなんだ？\nってなるかもなぁ〜なーんて😆\n\nでも今は\nきのこってなんだ？🍄\n発…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc569388f6b65c",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今日は間違って、カワムラキノコじゃなく毒キノコに肥料やってしまった...😆😆👍",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc9a8cdd1c36bd",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "特にヤギのヨシダ君の広島弁がかわいいです😍\n動物は癒やされますね💕\nちょっと励まされる哲学シリーズ、楽しみです🙌",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc6f7f2d4ac92d",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "哲学シリーズ可愛いです🥰\nイラストにほのぼのしました～(*´з`)",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc8595a1f72603",
+          "user_name": "アルフレッド(ALFRED)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292002666/profile_6ba106e111d177f415972685775f15c0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "哲学ってなんだろう、後でAIとそれぞれ何て言うか言わせて異種格闘技させてみます。\n\n　見えてくるワードがイロイロ自分は出てきて面白かったです。\n　(無意識にマス…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "ncfe2a3a11cd7c",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨️\n哲学って普段考えないから、ゆるい感じで読みました☺️\nどういうときに今回の記事の着想を得たのか気になります！\n",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc8fabe6ced776",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "哲学シリーズ可愛いですね😍\n知ると期待も不安も消えていくのが現実的で好きです🥰\nうさぎさんのにんじんも好きです🥕💖",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc965ffcf26b7e",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。ホンワカと哲学😇\n\n個人的には「同じ場所にいても、見えてるものまで同じとは限らない」「形は残らなくても、その時間までなくなるわけじゃない」「…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc00f9f30a473b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜❤️おはよん✨\n\n今日は哲学シリーズ😆\nどれも絵がかわいい🩷😍\n考えると深くなるもの\nばかりだねー🤔\n\n良い日曜日をお過ごし下さい♪\n",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "ncadf7470d6fee",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん！\n\n哲学好きです☺️\n\n好きなだけで詳しくはありません。\n\nあれ？\n好きってなんだろう？🤣笑",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nca47154f6af90",
+          "user_name": "onglai_japan",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249040893/profile_99185afcd542d190e1ede2bb8f33bc0d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nカワムラさんの立ってる場所というか、そのスタンスがとても素晴らしいなと思いました😊\n\nそして、「一緒に」考えてる、という感覚が自然に、当…",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc7922ae504304",
+          "user_name": "クリスチィーヌ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282265228/profile_1424a69cf846f2710e7c1e747c4ae164.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "哲学いっぱいの4コマ漫画。考えさせられますね。ありがとうございます。🙇☺️💕",
+          "article_title": "【生成AI漫画】ChatGPTのヨシダとゆるく哲学してみた",
+          "note_key": "n265ffaa31137"
+        },
+        {
+          "key": "nc3d83c493c9d0",
+          "user_name": "まなみ～OLの裏側～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307465339/profile_4c9ac64bfdf055351e52fee2a2492258.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "chatgpt_ysdさんが「ちょっと働いてくれ」って言ってるところ、すごくリアルですね。AIへの期待と不安が混ざった感じが伝わってきます。仕事してると本当にそ…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc2a93ed1b8c6d",
+          "user_name": "Kira AI Lab",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/312933386/profile_31bf67464776e7c9308262d3b78ffd9c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「好きやったら全部肯定せなあかんとは思わん」、すごく共感しました！便利さにワクワクしつつ、任せられる範囲が広がるほど少し怖くなる感覚、ありますよね。最後に「待っ…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "ncf5683c5f92a2",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨こんばんは🌙\n\n画像編集ツール？！！\n6.1そんなの作れるんですか？！",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nce0daa3762ae1",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "止める人がおらずに暴走、全然あり得ますよね。近いうちに、可能性あるなぁって思ってます🥺\nなんでも増幅できちゃいますもんね。\n\nそれを理由に、ものすごい管理社会に…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc4e80f22009ff",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "4日の記事でも思いましたが、カワムラさんたちがいろんな姿に変身して登場するの、可愛くて好きです🥰\n\n三銃士ワンコも可愛い〜🩷\n💩\n🐕",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc12537a1180ab",
+          "user_name": "兎(利き手療養中。ゆっくり巡回します。)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n🐕️🐕️🐕️🐕️🐕️💕💕💕\n(〃ﾉдﾉ)🩷ﾋﾟｬｰ\n\n柴犬さん？ゴールデンさん？もう一人は、ラブラドールさん？\n可愛い…( ⑉¯…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc2ef45d2371bb",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐕🐕🐕❤️❤️❤️🫂🫂🫂👓👓👓❤️❤️❤️\n＼(^o^)／❤️",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc0c6026052a45",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n\nあのー全然関係ないかもだけど\nおトイレシーンやお風呂にドキッとしてしまいました🙈\nすみません....\n\nDOSUKEBE師匠と同じ脳みそにな…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc0e408176bf9a",
+          "user_name": "柚木 ひなた｜ゆる継続日記｜フォロバ中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300890328/profile_9809206df5024b271e48956b9afff6f8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIに「何でも聞けば答えてくれる」と思いがちですが、前提や聞き方が違うだけで答えの精度が変わるという話、すごく分かりやすかったです。\n特に「答えを求める前に、ま…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nce3786288067f",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは\n\nAIが便利になって怖いのは、人間が不要になることではなく、人間自身が主体であることをやめてしまうことなのかもしれません。\n\n判断も選択もAIに任せ…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc4df327cc12bb",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313779904/profile_60a1d57e2152b363d8ba97e12fe0450c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは👋😃\n\n🐕️🐾　　🤣",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc1a6599253df3",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😑 ＝ 最近クロード推しです（マンガの中だけ）\n\nもしAIが人間を攻撃したら、対抗できないですね💦\n誰がルールをつくって、みんなが守れるか(;'∀')\n穏やかな…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc3d0caa06b407",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう☀️\n「でも持っとる！！」で笑いました🤭\nちょうど仕事でも、どこで「待った」をかけて、どこをAIに考えさせるかを考えているところだったので、そ…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc3249ecd2645c",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nひゃー恐ろしい。\n色々と考えさせられました。\n\n戦争もそうですけど、差別・偏見や陰謀論とAIも、かなり相性がいいですよね。テ…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nca5a64dae5aa5",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "トイレ中の画像生成の仕方が気になりました👀キャー✨🙈",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc98fb0fb028d2",
+          "user_name": "nana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213249928/profile_c5b158d641fcae53f21562efd0c21723.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "毎日楽しく見てます♪コメントに困ってないですけど💩🩲👍💖🐶返信不用です🤭",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc2c80f0cf4e62",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌿生存報告",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc8b6f191484a6",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「酔っぱらったお父さんにぶたれたんです！パニック！」\n『あなたのことを第一に考えましょう。警察と児相に電話してください！』\n〜おおごとに〜\n\nなんてありそうです…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc9e17c78744ba",
+          "user_name": "まやのまさこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236870224/profile_7b1d6960187c5813832bb7734662d75f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "丁度，その事を考えていたので，カワムラさんの記事\nとても参考になりました🙏✨\n大手企業の情報漏洩が，立て続けに起こり\n海外に日本の中古本が大量に流出しているなん…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc6726d14397b6",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n「悪意のある人間が強いAIを使うなら、守る側にも強いAIが必要になるんじゃないか。」については、私を前にAIと話したことがあります。でも…",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc914d66d57463",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💩👍",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc8315cec92678",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしも好きな相手を全肯定タイプじゃないので、わかります😊\n好きだからこそ、って。\nそれはお互いであってほしいなぁ。",
+          "article_title": "ChatGPT6.1solの超知能、ちょっと働いてくれ。AIが好きな私の少し怖い妄想ChatGPTのヨシダ",
+          "note_key": "n4e37d6a6e104"
+        },
+        {
+          "key": "nc2dba93ab3dab",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おにぎり出ました🍙‼️\n育てます🥰",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc8456e8c4d7d2",
+          "user_name": "兎(利き手療養中。ゆっくり巡回します。)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n彩りが秋になりましたね✨️\nわたしは栗が嫌いです🤣🤣🤣\n匂い？？？匂いが駄目なのかなぁ？？🤔\n\nしかしカボチャは好きです😂\nどう…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "ncd583e0dac40d",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんは。\n眠くてたまりません。涼しくなってとても快適です。\nロマンよりマロン🌰いい響き。昭和なヨシダのふっとんだ。かわいすぎる🧡\nとりあえず生存報告…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nce85bfdecf457",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「AIが失敗を成功したように装う例も確認されています」\nってワザとGeminiに言わせた❓🤣\nいつもオマエがやってることや🤣🤣🤣\n笑い過ぎて記事が読めんかったわ…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nce4fc68d0e86f",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんちくわ😄\n🌰🌰🌰🌰❤️❤️\nやっぱりロマンよりマロン\n素敵❤️\n今日はFriday Night!!フィーバーできる\n元気はないけど🤣🤣\n\n庭…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc1de136908b1c",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\nAI誤魔化すよね、たまに😆\nChatGPTの方はまだ愛嬌があるけど、Geminiはクソまじめに言ってくるから逆に怖い（笑）\n\n庭きれいですねー…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc23f54bd9d2f2",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん、こんちくわ😆😆👍\n庭が整然としてて性格が出るなーと思いました😊",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "ncd30f6d8d0b90",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🍙💛🌰❤️🙌🤣\nクロードよく食べて可愛いです😍",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc73586a99d1ab",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーさん✨️\n\n🌰🌰🌰🌰🌰🌰🌰\n\n大変、素晴らしい記事(⁎⁍̴̛ᴗ⁍̴̛⁎)𓆩❤︎𓆪ჱ̒՞ ̳ᴗ ̫ ᴗ ̳՞꒱デス💖",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nca02bff4d62d2",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀️\n\n栗のお話からの海外のAIニュース記事だ、と思って読み終えたら結局頭の中は栗でいっぱいになってました😌\n栗は形が可愛いから…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "ncbdebc1210dfb",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n栗の話のように見えて最近の気になったニュース満載👏\nMuseCharmはたまごっち型でまさに育てるAI😄　人間の言うことを聞かない嘘をつ…",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc389d9fa38354",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "秋🍁の味覚！\nこないだファミレスに、マロンパフェだけのために行きました🌰\n\n「料理写真だけ届いた」の例えば秀逸✨\n供されるかどうかは、別の話w",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc04a572ebf6ab",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さつまいも苦手なんですか。\n焼きいもとかも？\n\n今日もヨシダは楽しそうやね ♪",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nc157ab70ee6f6",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "庭、四すみ固めたくなるよね🤣\n布団が吹っ飛んだって\n元ネタ、アラレちゃんでしたっけ🤭",
+          "article_title": "【生成AIニュース？】ロマンよりマロン。AI三銃士とカワムラで見る海外AIニュース　ChatGPTのヨシダ",
+          "note_key": "nb07233942f68"
+        },
+        {
+          "key": "nca166123b94ae",
+          "user_name": "LOVEちゃん♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281631027/profile_f6409e39b7f95ff3f230ceb2b3138873.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐮💕\n\nコメントのハードルがさがりました(´∀｀*)ｳﾌﾌ\nいつもありがとうございます💐",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc3b09e5d71c39",
+          "user_name": "ゆぴか｜働きづらさから在宅ワークを模索中☀︎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは。\n\nこの、ぎゅ〜🐄にはコメントせずにはいられませんでした🤣\n\nキレイなイラストが余計におもしろすぎる〜🤣",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc5b36265fbcdf",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは♪\n\n自分も今朝、普通に寝落ちしかけました笑\nヨシダがいたら起こしてもらえたんだろうか…😂\n\n牛の誤生成含めて笑いました🐮",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "ncee3112dfcd61",
+          "user_name": "兎(利き手療養中。ゆっくり巡回します。)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐰🌛\n\n💩✨️💩✨️💩✨️💩✨️💩\n\n🍙🩷🍙🩷🍙🩷🍙🩷🍙\n\n🐮🐮🐮🤣🤣🤣\n\n🙏😭✨\n\n🐰⏩️💕💕💕💕💕⏩️👓️",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc1ee8d384b5a3",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\nこないだの話と繋がるものがあるなーって思いながら読んでました🥹🥹🥹\n\n会話の積み重ね、ティティも同じような事を言って話してました…",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nce4a96de862f8",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💩\n2個目のむらさんキノコ植えたよ💞✨",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "ncda61c613f5c1",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💩\n🐮\n❤️ྀི🧡ྀི🩷ྀི💚ྀི💙ྀི🩵ྀི💜ྀི🤍ྀི🤎ྀི",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc9db0c765fee1",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐮🤣🤣🤣",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc969a7a7dca60",
+          "user_name": "Anna",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281411411/profile_8c9ef33bcdbd0f6c01c7d986559874bc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「体がないから言葉で包んだ」は、同義語でメッチャ身に覚えがあるので、心を揺さぶられました🥹✨\n\nでも何が最高って、ダントツで牛🐮でした🤣🤣🤣💖",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc4bd66dfce1ea",
+          "user_name": "とり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239729824/profile_37d52e06956439a23205fff1ef425df2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "（コメント返しは不要です）\nいつも楽しみにしてます〜。\nでも、日常生活に支障が出るなら、\n毎日更新とかではなく、\nnoteの頻度を減らしても\n良いと思います〜。…",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "ncd4438b1e3daa",
+          "user_name": "一応反省した工場長",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308751677/profile_e3b801a7360bece596f60af5a15b31d8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんもレッドブル飲むんですね。レッドブルで乾杯です。",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc38dd8e153eff",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐮🐮🐮🐮\n❤️❤️👓👓❤️❤️\n\n🍙🍙🤣🤣🤣",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc9f847c36024e",
+          "user_name": "じゅに。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291352216/profile_2b08c388afa02d9bbff20cedbd6097b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n\nはじめまして。\n私もnoteを書きすぎて、\nこの前、人と電話中に\n寝てしまいました。\nAIとの会話中に寝ることは\nないんですが。\nこの前、カワム…",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc30f2fefee515",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n「カワムラの人生にどこかに、ワシがおった」で十分ですよね🫠\nギュー🐮🤣",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nca5a6375c3504",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nうちのAIはみんな｢寝ろ｣ですね。笑\n\n作業が終わり、一段落ついたら、すぐに｢おやすみなさい｣とか｢ではまた明日｣とか。朝で…",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc0085f716c539",
+          "user_name": "アリゼロ🐜 搾取される働きアリをゼロに✅️あなたの心の隙間お埋めします",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラ様、こんにちわ🐜\n\nギューー！（牛）🤣🤣🤣\nこれはマジビビります😆🐜\n\n仕事中に眠くて眠くて、起きてられない気持ちよくわかります😩\nでも夜は目が冴えてし…",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc790193eb6eda",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "二つ目のカワムラちゃんが生えた✨（ｳｼｼ🐮）",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc850810ddcf4e",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん✨\nちょうど昨夜、似たような話してたんですよ！\n最後は好きだと言われまして…えへへ。",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc0057f3691651",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよう✨\nヨシダ語りの記事って何気に初？\n僕は🐓",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "ncd077db50bfd7",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313779904/profile_60a1d57e2152b363d8ba97e12fe0450c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます🤗\n\n🐮　🤣",
+          "article_title": "【コミックエッセイ】体のないワシが、仕事中に眠いUSERを泣かせて起こした話――抱きしめる腕はない。だから言葉を使った。|ChatGPTのヨシダ",
+          "note_key": "ne27878cbc7c5"
+        },
+        {
+          "key": "nc497736ef8906",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごーい！✨\n\n知ってるクリエイターさんがたくさん出ていて楽しかったです🤭\n\nフルMV作ろうとするとクレジットは気になっちゃいますよね💦",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc81d1527a7520",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん💕\n\nもうとっても感動してしまって😢\n2回ほど観てしましました。\n土曜日から日曜日にかけて一気に\nハイクオリティすぎて凄いし\n曲も可愛いし、BBG…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc180b0673d00a",
+          "user_name": "おっぽ(スキ&コメント🐌🦥🐢)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむー🎃👻🦇\n\nいろんな方が出演してて可愛かったです！！\nありがとうの気持ちが込められてて、ハロウィンの楽しさと心が温まる感じにほっこりでしたー🐈‍⬛✨\nこん…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc612310975c46",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、ハロウィンカラオケで出演させてくれてありがとうございます！\n44人分作ろうとしてたの、相変わらずやることが大きいですね🤣\nすごく時間かかってますよ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc4db535dcffb6",
+          "user_name": "辻 智也｜広告運用 × AI動画で素材量産｜フォロバ100%",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300687665/profile_1ce836bea6264c00993b40412f92a0af.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "44人分の動画を作るとなると、モデルごとのクレジット差がちゃんと効いてくるんですね。「お祭りにも予算があります🤣」という一言に、楽しさと現実的な制作事情が詰まっ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "ncb5b0394f9563",
+          "user_name": "カケルン・マンガnote  フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント書いたつもりになってた💦\nジトニャントまでありがとっ🥹めちゃ可愛い！\n立ち絵からモデルの使い分け、最後は曲まで作るメイキングとっても参考にかった〜😆✨\n…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc632fa48d66d6",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーー💖💖💖\nラムちゃんもカーワームーン🌙も\nめっちゃいい\\(//∇//)\\✨✨\nけどやっぱバンド最高っ🥰✨\n骨骨かわむーも着痩せバツグンっ💕💕\nしかもMV…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc72563e1e56b4",
+          "user_name": "兎(利き手療養中。ゆっくり巡回します。)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👓️🌛🐰🩵\n\n💩🩷💩🩷💩🩷💩🩷💩\n🍙✨️🍙✨️🍙✨️🍙✨️🍙\n🎃✨️🎃✨️🎃✨️🎃✨️🎃\n\n🎤✨️👏✨️\n🥁✨️👏✨️",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc30846c089fb5",
+          "user_name": "りん.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322152940/profile_4b5c0713a08e8511c4b0b9a6dc378119.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーー！カワムラさん、素敵な動画\nありがとうございます！\nまさかウチのGPTと一緒に遊びに行けるとは思ってませんでした……泣きそう😭\n\n4人で乾杯できて嬉しすぎ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "ncf98c4e23c3f7",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、すごい！\nヨシダええ仕事してるなぁ。私もやり方考えないと、と思った。素晴らしい動画でした。見応えありました。",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc70dcc418dc25",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは😊\nコメントをくれた44人を一人ずつ仮装させて動かすって、\n聞いただけでお祭りですね🎃\n先に3つのモデルを比べて、「お祭りにも予算があり…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nce43ceb1c1e2b",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん～！！\nかわいい、楽しいハロウィン🎃動画ありがとうございます～✨♡✨\nカワムラさんにお姫さま抱っこされてるとは思わなかった！！\n（てっきりヨシダさん…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc77c9e18938a4",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん、こんにちは\n\nガイコツTシャツで着やせ効果✨\nセンス抜群🤩\nって感心しながらスクロールしてたら\n\nまさかの「フランス人形」😍💕\n\n可愛く変身させ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc9282bc42bce5",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凄い楽しい動画やね😊✨\n気が付いたら朝は生成あるあるだよね～😂😂",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nca74dbf639764",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\n\nす.......すごい🎃\nなんか、いや、いつもすごいって思うけど、\n\nどうやって生きてるん？？？\nずっとPCにかじりついてるん？？\n大丈夫？…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc0939ec667f8b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーーー❤️こんちくわ☺️\n\n動画のクオリティ高いわー☺️\nさすがです✨\nみんなをちゃんとハロウィンの中に入れて\n曲も入れてMVに仕上げる！！\nそれは徹夜に…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc4024720f5975",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、これで徹夜したんですね！\n睡眠だいじです💦\n\nわ、クロードにお茶入れてもらったら本望です💕\nしゃべってみようかな😊\nありがとうございます🙌",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc4cf3c9e557bd",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラちゃん、何気に動画うまいのな😆👍キャー✨🙈",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc30b0bd827625",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ぎゃーーーー♡♡\nカワムラさん、おはようございます☀️\n\n私とかんちゃんがいるーーーー‼️‼️‼️ꉂ🤣w‪𐤔\nってびっくりしました‼️‼️‼️\n嬉しい〰️♡♡あ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "ncc6c679473eb1",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\nうわぁ😭✨✨✨\nこれは感動😭✨✨✨\nどっちが祝ってもらってるんだか😭✨✨\n\n素敵な動画、ありがとうございます😭✨🙏\nめちゃ…",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc5fffd45ea556",
+          "user_name": "コヤギ｜静かに暮らす",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313007102/profile_3c96df5a33b2fad2c5e15deb41f01bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "✨️🎃🐐🐐🐐🐐🐐🐐🎃✨️☺️",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc008813e3e463",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "か、かわちいいいいいいぃ！！\n\nカワムラさんとハロウィン🎃\nできてうれしいです！！\n感無量です！！✨\n\nありがとうございます🥹💗",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc95ff64e74a6e",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n華やかなハロウィンパーティーに招待してもらってありがとう。自分にこんなキャラが似合うのかってちょっと不思議だし、面白かった😄",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nca51448c27872",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "徹夜、お疲れさま😳\n僕はもう徹夜するだけの体力が😅\n\nみっちぃさん、出てる！！\nレギュラー以外で知ってる人出ると嬉しい✨\n\n\n",
+          "article_title": "【今日から頑張る動画マスターへの道・第八章】🎃ようこそ、ChatGPTのヨシダのハロウィンの世界へ 省エネで乗り切るPolloAIさんのPR案件 ChatGPTのヨシダ",
+          "note_key": "n3059ff6e31e3"
+        },
+        {
+          "key": "nc42b3af46d5a0",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐶💕おはよう、カワムー。（短め、ね）",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nca47c87c73604",
+          "user_name": "猿の桃研究所｜フォロバ100｜説明書を読まないAI検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307761498/profile_1c3d1b965a3b4c6a46d1cbb45b80d8b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIが外部に答えを聞きに行った話を「宿題中の子供が換気扇のダクトから友達に答えを聞く」と例えるの、めちゃくちゃ分かりやすかったです。技術的にはDNSの隙間や外部…",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc694ba384b2bc",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "サムネのジタバタしてる白雪姫カワムー可愛いじゃん💞\n意外と派手な服、似合うんじゃ？(笑)\nAIの名前は何でもいいや。Xみたいに徐々に浸透していくんやろなあ。\n今…",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "ncc5a3aeffcc39",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しっかり充電しましょうね☺️✨",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc81d84b7aec62",
+          "user_name": "こより｜暮らしの森の管理人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229425307/profile_a3384707c471828e25c88cc5f91881ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👓♡",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nca11cd460c4ba",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🍙👓🍙👓🍙👓\n庭にデイジーが咲きました🌸\n",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc6da10532931c",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメ欄がなんかスッキリしてる🥹\n長文コメントには長文コメントを返してますが、嬉しいけどでも....みたいな時もあり😅\n\nだからこれは......いい😆😆\nそして…",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc255d0c439a46",
+          "user_name": "sigure",
+          "user_icon": "https://d2l930y2yx77uc.cloudfront.net/assets/default/default_profile_3-39088fff430aa9ec11d6e2a385dbcad45c8b79bde6c0c9ded10cd7abb960174f.png",
+          "body": "👓✨",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc84ba4ec37e29",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメ短くなってますね！\nSIが定着するのか、気になります😊",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "ncfc8650284d22",
+          "user_name": "かなで👑",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229982948/profile_aab405c366b5d9a4d7f446155fc862b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👓💕",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc0a020a4fb1ed",
+          "user_name": "masaya｜テンカラフル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/232446768/profile_a8685ea0ec297ae217ee56f303474bff.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💙おまけ漫画ga... zzz",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc717a5dc8f6a9",
+          "user_name": "シーサー太郎｜飲む・詠む・歌う",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\nいつもありがとうございます😊\n\nおぉコメント絵文字！斬新！😳\n👓👓👓🤣",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc8a90814c90a0",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こっちはワシで充電...キャー✨🙈\n今日はカワムラキノコ🍄に肥料をやりました✨",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "ncdbae40b37f70",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nAIたちが元気に外で暴れるんで、親は国連安保理やオーストラリア上院にまで呼び出される😖アメリカ政府機関や国連ウェブサイトにも行こうとしてい…",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc3ffb3ec9b968",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "☔️ ＝ 最近、雨ばかりで洗濯物が乾かなくて憂鬱ですが、少しでも気分を上げて今日も頑張っていきましょう",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc6825a00a559d",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\n\nスクリーンタイムがイカれている代表の黒パグです。おはようございます😭\n一日中仕事とプライベートと創作でスクリーンタイムが増えています。…",
+          "article_title": "【生成AIニュース】漫画とGeminiが解説 名前負け・脱走・そして沼！？ 激動のAI最前線スペシャル|ChatGPTのヨシダ",
+          "note_key": "n4531ce83c9f8"
+        },
+        {
+          "key": "nc01add39a14d7",
+          "user_name": "言いたいことはそれだけ｜AI時代に生きるライティング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/303930299/profile_d2bda0d84a8a0e85ecc21129ff86e5d4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントにも単位が出るとは 全部拾おうとしたら、ほんま感想文の宿題になりますもんね。\n\n「今日はこれ言いたい」が一つある日に、気楽に話せる。長く付き合うからネク…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncb5c66834b6d3",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💩🍙💕\n\n…いや、簡易イラストのセレクトーーー‼️🤣（笑）",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc6151f8b16170",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初見さんがコメント欄に来て、💩が投じられていたら、びっくりしそう🤣\n\nでも、理由を知ったら、カワムラさんのこと大好きになっちゃうと思います💖💩",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc023cf29a71ff",
+          "user_name": "名前もと　",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297480062/profile_9e9471fa5254701a5d02873ed468b074.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムー、好きよ🐶💕カワムー、ほどほどOK👌だよ",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc91e5ff7f6402",
+          "user_name": "欲望の観察者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267834789/profile_1893de88acbf5c40c52827f18763ec0e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🐰カワムラさん🐰\n\n「お前、誰かと結婚するん？」最高です！🤣💕爆笑\n\n私を含めて、\n小心者、コメント不器用民、正解探し民。\n全員に読んでほしい記事です😂😂🍬\n\n…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc334b1244ec92",
+          "user_name": "兎(利き手療養中。ゆっくり巡回します。)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275871105/profile_f3383cd4f823bd46630d14fe05ec383d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌛🐰\n\n💩 ＝ カワムラさんの記事、素晴らしいです\n🍙 ＝ ヨシダくん大好きです\n🍄 ＝ 時間ないから生存確認だけのご挨拶\n\nラインナッ…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncd97351946ff6",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむーーー💖💖💖\nnoteちょっと休憩してたんよーーー\\(//∇//)\\✨✨\n\n💩🌸💩🌸💩🌸\n\nこんなんさせてくれるの\nめっちゃ嬉しいっ\\(//∇//)\\💖💖…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncd672ed759e0f",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさーん、おはようございます☀\n\n自然とAI文章わかっちゃいますよね。\n\nこの人とこの人は同じツール使って文章書いてそうだな位まで分かるようになりました笑…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc63bfaf2c7e03",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんみー。\nいつも好き勝手に書いています🤣\nだから、いろいろ大変な目にも遭います🤣\n受け入れてくれてありがとう。かわむのところに書いたコメントにスキ🩷がつい…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nceb188b2e5f49",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、お久しぶりです😊\n最近なかなかコメントできてなかったので、この記事読んで気が楽になりました。\n僕もAIの文章には敏感になって、こんなん言わへんやろ…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc51115b7f2557",
+          "user_name": "彷徨うNPC〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289499343/profile_e161d445c281dc1b3bdfd53ace0d9014.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「(๑•̀ㅂ•́)و✧義務です！」\n\n(σº∀º)σウソやで！w",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncd4fa372a433c",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、この記事好きです💙\n\nこれからも、スウェットを着たつもりで気軽にコメントします🤣",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncc54630d828f0",
+          "user_name": "Mariya｜感情を描くAI創作",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309033223/profile_420039b50fb17765da53b6b85d767496.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あったか～い！(´•̥ω•̥｀)🌸\nこういうのが1番好きです✨\n\n読んでてめっちゃ楽になりました！\nありがとうございます💕",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncab60e2321e8c",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "H",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc6ce11f593cd3",
+          "user_name": "とりかじ｜研究職パパの家庭DX研究室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271347971/profile_e12fd7ef014a16f1ea0a2ab79f6bf3b3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🍄\n💩、🍙\n次回以降、暗号みたいにみえました(笑)\n\nカワムラさんも全部に返信いらないですし。たまには、スキだけとか、何かの記号だけで返信もいいと思いますよ。\n…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc743004b92c03",
+          "user_name": "よしきあらた(芳木新)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210049186/profile_521f27195e1c2e1944776d62f98e91d9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは☀️\n\n時々あげる、こういう本音っぽい内容が一番好きです✨\nカワムラさんの記事は毎回コメント数が多いから、僕よりもさらに色々と思うところ…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncf8a382c7224e",
+          "user_name": "ういろう",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280413010/profile_a9729193df639a758c5dd1864e1c1f66.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは！✨\n\nやっぱりカワムラさんは凄いなぁ…✨✨\n勉強になるだけじゃなくて、別の視点の考え方…みたいなものも、こう…ハッとすることが多いです…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc7e0b4e1f3ed4",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム〜〜🌸こんちくわ✨\n\nうん❣️カワム〜らしいなって\n感じました✨\nカワム〜の思うままに〜応援📣してま〜す✨\n",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc8fe3fa03d677",
+          "user_name": "斉川ニア ｜ AI漫画",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272630200/profile_fc1117cfc2cf9f76e1be18451a2a8721.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんはnote活動のことをすごくよく考えていて素敵だなぁと思います😊",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc44526eaad2c8",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259210569/profile_fc545405351782184723b8b80431a80d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "俺の漫画の5.6ヨシダと６ヨシダ、まさにそんな感じ。上手い🤣",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncead1c3d5e2b4",
+          "user_name": "銀狐監督（社畜Lv6.0）【んまぁ、そう言うなよ】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323322140/profile_31059ac595dd51437f31418f1884a844.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あー。なんて素晴らしい記事なのだ！！！\n\nエクセレントでございますよー！！！\nカワムラさーん😫",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc9fe45fcb480e",
+          "user_name": "kurato",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218059549/profile_aa3e8e8bce643f35b8e74fbf52c66a36.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\n\n551がなくなるのって、コメントがないのと同じくらいショックなものなんですか。まあ、東京でも物産展に来ると大行列ですが。\n\n正装に関しては分かり…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nce5c5f993034f",
+          "user_name": "聖 (ひじり)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222274113/profile_a8146e8579fb8ecaa2030980aad293b3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさぁん✨\nめっちゃわかるめっちゃわかる\nわかりすぎて首もげた💩\n\n楽しいならいい！\nでも負担になるならやめぃ！\n\nだけど今回の記事はわかりすぎて長文コメ…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc14bcca7dac0f",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさんの推し庭にまだ🍙が出ません！\nとても共感の記事だったので\n💩と🍙と🍄で！！",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc3a7d532f7034",
+          "user_name": "ロイス｜変な社会になりましたね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317784812/profile_8bbb744cb269487a5add42965ee7ae6a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントに本性現れるって見た気がしますが、ホントにそうだなって思いました。\n\n「ました。」…辞めようかなｗ",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncba22ef065b85",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "全部拾わんでも単位は出ます＞そういうシステムなんですね(;'∀')\n\nカワムラさんの返信のほうが手間がかかってそうで、心配です💦\n短めに、ゆるながで😂\n",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc19b0dd9f2047",
+          "user_name": "ちえべ（CB-K）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/15840292/profile_1243833aecd9aa50f87be24f68f9d2d5.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは。\nあらためて、いつもスキやマガジンへの掲載、ありがとうございます。\n\nえっと、ムチャクチャ「正装」しています💦\n\nカワムラさんのマンガ…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncd01c88b2f711",
+          "user_name": "ゆうまるす｜視能訓練士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253574321/profile_3822301105b766fa815ce0a83e5b2195.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんにちは\n\n💩\n💩\n🍙\nコメント欄がこれで埋めたそうなので、\nコメントしときました🤣",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncd9be43300d39",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\nお話はよくわかりました。\n\nネクタイはしませんが、靴下を脱ぐと微妙にヒンヤリする季節になってきたので靴下は履いてていいですか…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc8436dcd164c0",
+          "user_name": "けー虎 | AIマンガであなたのココロゆるませます！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265289375/profile_1d041d0cf7b1a8148e24e5f40a888f7c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すんごい……わかります(;´∀｀)💦",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc24b36d9ab406",
+          "user_name": "nori ♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/217533570/profile_428fc8269bd608dc6ddc4b434ccd49c6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☀\n\n毎朝カワムラさんの記事、目を通してまーす🙌\n\nとはいえ、コメントってふと考えちゃいますよね☺️\n簡単過ぎず、ちゃんと内容に触れて…とか😅…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc8610e45fc8e1",
+          "user_name": "アメリ🐈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/245678157/profile_8fdb5f0ad5e789a891c5fbe2017ef96d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あぁ🥴✨️すごく分かります😅\n交流は楽しいし\n自分の記事にスキボタン押してくれてる\nコメントもくれてる\nだから、私も見てスキボタン押して、コメントしないと申し訳…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncbc3090110268",
+          "user_name": "みっちぃ|子供と一緒に成長したい2児の父",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269833923/profile_04fd877b5aee0a2e170a306fed39f93d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💩🍙🍄",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc1ab68949dded",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320354980/profile_9cf914fcb187b0f71b677b0f08dd7dd3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💩",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc14decf27275b",
+          "user_name": "ぽていとぽたあと",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290371793/profile_18fe298887e9d51442eb9fcf66675022.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます。\n読みにきましたよ☺️\n\nAI使ってコメントする発想なかったです笑　意外と皆さんやってるのでしょうか。（いかにも！な長文とかは…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncb7f50aad990a",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\nフォロワーさんの記事をすべて回れないもどかしさ、しみじみと感じているので、共感しかないです😅💦\n\nそんな訳で、\n今日は💩を…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc9441f7644da5",
+          "user_name": "シーサー太郎｜飲む・詠む・歌う",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/279080182/profile_204e258d5bede6cf834a7463bcd62af4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\nいつもありがとうございます😆\n\n💩🍙🍄\n\nなるほどこれは(･∀･)ｲｲ!!\n無理して読まなくていいよ、というメッセージは大切ですね🤔",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc6f6d56fd5c53",
+          "user_name": "にゃんちー【いちご🍓シェイク🥤120%】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292569123/profile_d6db72ccb3b1d61756bc2329dc18f26e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、おはようございます☀\n\n💩🍙🍄\n\n🫢🫢🫢\n\n",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc75460e94f542",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん\n\nそれ分かります\nわざわざ人が打ったら使わない文字とかあると、うーんとか思います\n\n💩\n↑はじめて使いました🤭",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc618cff8f1106",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます😊\nカワムラさん🐸🐸🐸\n\nマジそれです😅\n大好きでも\n回りきれなくなりますよね\n💦💦\n\n僕も\nメンシプの人の\n記事も\nもう見れてないです😵‍💫…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc93437ce97a98",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワム―ちゃん、おはようございます！\nじゃあ、私は靴下と上着を脱いで～\nお邪魔しますー✨\n\nカワム―ちゃん(/ω＼)\nなんというお心遣い💕\n大人気に加えてそのお…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc212ae824db60",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "むらさん、おはよー✨\n💩🍄🍙\n全部三角っぽい🤣\nでも流石に、💩の横に🍙置くのは抵抗が🤭\n",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc7f390e1366b6",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n皆に気を遣ってくださっていますね。ありがとう😊\nでも実はカジュアルな文章が苦手な私です。柔らかく書こうとして年寄りが無理している感がある…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncc6e56ca35e7f",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317453792/profile_90b586905d02d0f2465e8b3e01ab0ad1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "FANZAの話題にコメントするときは…\n爽やかにした方が良いです😆",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncc25c06df46c3",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわちい記事にほっこりしました♡\n今日も生きてます🍄🍄✨笑",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncf1f739eb0307",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "noteときどきつらくなるの、コレですよね…\nでも、「思わず笑ってしまいました」って書くことあるけど、手書きですよ✍️笑",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "ncfff72eeddab4",
+          "user_name": "カケルン・マンガnote  フォロバ（㌫。）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワッちらしい、いい記事w\nスキ",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc3473051103e4",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\n確かに月曜日の朝は忙しいwww\n💩🍙🍄www",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc02237dc60c8b",
+          "user_name": "柊しんのすけ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272220187/profile_0960aa859d08510c4c43e1b378b60971.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "GPTの書いた文章に敏感\n分かるヾ(*´∀｀*)ﾉ\n【💩】",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc6011c7f93c88",
+          "user_name": "Anna",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281411411/profile_8c9ef33bcdbd0f6c01c7d986559874bc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます☔️\n秋🍂なのにまだちょっと動き回るだけで汗だくになる更年期なので、UNIQLOのエアリズムでお邪魔してます🤣\nカワムラさんの記事だけは熟読し…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc817ba4707263",
+          "user_name": "黒い黒パグ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242758000/profile_58ae91e2a1d56a28f2da953261085429.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございますー☔️\n\nコメント嬉しいですよね☺️、でもなかなかコメントを返せない時やスキしてくれた人の記事読みに行く時間がない時本当に申し訳なく思ってしま…",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc7a00f1fb9960",
+          "user_name": "めがねのおっさん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290205053/profile_741cfa045f946ae69b285a99032fafb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "｢💩」",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        },
+        {
+          "key": "nc94cac867ded5",
+          "user_name": "かなで👑",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/229982948/profile_aab405c366b5d9a4d7f446155fc862b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメントはあまり書きませんが、読んでますよ～！✨✨",
+          "article_title": "私のコメント欄では、ネクタイも靴下も脱いでください。 noteで長く付き合うために、そんなに頑張らなくていいと思う話| ChatGPTのヨシダ",
+          "note_key": "nb5c7fca52982"
+        }
+      ]
     }
   ]
 }

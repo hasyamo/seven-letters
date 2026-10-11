@@ -2380,6 +2380,78 @@
           "note_key": "n527c91a431cd"
         }
       ]
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 174,
+        "likes_prev": 240,
+        "followers_start": 706,
+        "followers_end": 719,
+        "new_fans": 49,
+        "comments_total": 8,
+        "posts_count": 4,
+        "consecutive_days": 2,
+        "post_times": [
+          "12:16",
+          "22:34",
+          "19:27",
+          "07:44"
+        ],
+        "top_article": {
+          "title": "「暇だなあ」から30分。AIチャットに無茶ぶりしてゲームを作ってみた。",
+          "key": "naf18536e50fb",
+          "likes": 48,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "Trex｜上場企業社長250人を取材した男／AIブリッジエンジニア",
+          "urlname": "trex_ai",
+          "follower_count": 7075
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc432cbbfcc241",
+          "user_name": "あさひん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/216837709/profile_c8e7389ae0b4e528480fa2d00920b93c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんにちは！\n相変わらず凄いことされてますね✨\nゲームも遊んでみました（私にはとても難しかったですが笑）\n因みにこういうのはAI無課金でココまで作れ…",
+          "article_title": "「暇だなあ」から30分。AIチャットに無茶ぶりしてゲームを作ってみた。",
+          "note_key": "naf18536e50fb"
+        },
+        {
+          "key": "nc31d824494517",
+          "user_name": "ひらく｜ 人間関係のモヤモヤ解体の専門家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/147564734/profile_570e15531c76357781fe51f45b38e1e0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、素敵なマガジンですね。皆さんのことを大切にご紹介されているのがとても印象的でした。参加希望いたします。よろしくお願いいたします。\n",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その13",
+          "note_key": "n5a6caf58a81c"
+        },
+        {
+          "key": "nc871e31afde80",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nご紹介いただきありがとうございます✨\nnoteでのご縁を大切にしたいと思っています。\n\nマガジンに参加させていただきありがとうございます。\nこれから…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その13",
+          "note_key": "n5a6caf58a81c"
+        },
+        {
+          "key": "ncfde9af0200e0",
+          "user_name": "コウ｜理系パパの視点で毎日を面白く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311356440/profile_86fbbed74775a60dcef236860866b51d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきまして、ありがとうございます！\nnoteの優しい世界で、一人ひとり大切にしながら、\nフォロワーさんとつながっていきたいと思います。\n参加させていた…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その13",
+          "note_key": "n5a6caf58a81c"
+        }
+      ]
     }
   ]
 }

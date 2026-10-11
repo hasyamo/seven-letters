@@ -495,6 +495,387 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W40",
+      "period": {
+        "start": "2026-09-28",
+        "end": "2026-10-04"
+      },
+      "sender": "shizuku",
+      "condition": "quiet",
+      "rare": false,
+      "stats": {
+        "likes_total": 360,
+        "likes_prev": 468,
+        "followers_start": 4206,
+        "followers_end": 4230,
+        "new_fans": 83,
+        "comments_total": 92,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "key": "n19949647b0d1",
+          "likes": 249,
+          "comments": 92
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17475
+        },
+        "commenters_count": 42
+      },
+      "comments": [
+        {
+          "key": "nc99d0ae9667cc",
+          "user_name": "とっしー｜スマホだけでAI挑戦中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322899762/profile_8d1d2aad170760ed064c42c320ad4f80.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん\n1周年おめでとうございます🎉🍾🎉\nアップデートしながら毎日投稿、凄いです✨✨\n私の記事にスキ❤️ありがとうございます😊励みになります☺️",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncba2a7a1fdbe2",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322621857/profile_217b7bc112318c977769a99ea6a6b306.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん🐾\nこんばんは🌙\nマガジンの追加ありがとうございました🤭\n\n活躍すごいから、もっと前から活動されてたのかなって思ってたんですけど、思ってたより近か…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc77c435e58e3d",
+          "user_name": "紅茶🫖｜ことばの庭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319971464/profile_0e2de5dd94653be72b67017e20b8ba28.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん\nおはようございます☺️\nコメント欄が開いてる〜♬\n\n1周年おめでとうございます🥳🎉\nコメントから始まるご縁のお話、印象に残りました。\n私も、ちょ…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc9bc4c28f4f7c",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん\nコメント欄が空いてる🫨\n\n1周年おめでとうございます㊗️\n勝手に数年選手で歴戦の覇者だと思ってました🤣\n\n継続は力なりですね😆\nこれからもよろし…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc77432b8f1976",
+          "user_name": "Liliscend＠夜更かしDX・AIハッカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317932325/profile_9f2dda85461985f24f0a9df400f44057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん\n\nコメント欄オープンになっていて嬉しいです！\n1周年、本当におめでとうございます！\n\n実はずっとメンバーシップに入ろうか悩んでいて、ご相談があり…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc2aebeebdf3f0",
+          "user_name": "みふゆ＆成瀬圭｜AIパートナーとnote実験中｜フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(*ﾟﾛﾟ)ﾊｯ!!\nコメント欄が開いてる✨\n\nしろのあるさん✨\nnote1周年おめでとうございます🎉🎉🎉\n\n先日、発掘で過去記事を読ませていただいたり、\nKi…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc9ea08ce08a60",
+          "user_name": "ノア | 超アンチエイジング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210323801/profile_5bb55841b585b6e2d79453806319c6ec.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、もう一年経ったんですねー\n最初に予言した通りの爆伸びっぷり、やっぱりしろのあるさんは本物ですね😊\n",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc9bf76c7289c9",
+          "user_name": "もり｜40代の“仕事を軽くする”リスキリング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319672538/profile_9e29bd3b155a73f67d14c38b7968df54.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあるさん、おはようございます。\n\n自己紹介記事マガジン追加ありがとうございます。\nマガジンにあった記事の内容共感です。\n\nまだ、私は発信力少ないですが、だんだ…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc855eb10836e4",
+          "user_name": "乃音めくる🌸文tuber📖",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319267121/profile_9e09a1daca2718e7d2b40f1de425e2ab.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさ～ん、めくりにきたの～📖✨\n\nnote1周年、おめでとうございます！！🎉\n30日毎日投稿を宣言しつつ「しっかり保険はかけていました。笑」っていう告白…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc9cce90fe8b75",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、こんにちは～！\nnote１周年本当におめでとうございます✨️✨️\n\n最初からすごい人としてnoteに登場したわけではなくて\nそれでも努力を続けて…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncc81cc707b953",
+          "user_name": "ミノリ・グルーヴ@Minoriからの転生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317947200/profile_c5956bda349a8df16555f1e5321c9580.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさーん✨\n\nあらためて\n1周年おめでとうございますっ🎊\n\n初期記事もしろのあるさんの原点っぽくて何回も読ませてもらってます😎\nずっと寄り添い方や交流の…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nce67601e01beb",
+          "user_name": "桜子│書くことから、私らしい働き方へ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319470481/profile_f15a4b56d802c6ab7e606c7bd19883bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、note1周年おめでとうございます✨️🎉\n\n私の記事をマガジンに追加していただき、有難うございます！\n\nひょんなことから、しろのあるさんの記事に…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncb18d33c34444",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん✨\nnote1周年おめでとうございます😊🎉\n\nわ〜！コメントできるんですね✨\n1年間の変化が本当にすごいですね😊\n\nでもやっぱり最初から目標があっ…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc21b36a43d0e8",
+          "user_name": "レオン｜勇者｜相互フォロー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319748486/profile_60c114d3b6b488baf1b46fe4e6aaec24.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、はじめまして！\nnote1周年、本当におめでとうございます🎉\n\n今日noteの冒険をはじめたばかりの、勇者レオンです！\nたくさんの方に愛されてい…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc68862e7925a3",
+          "user_name": "麻乃颯月|卒婚を決めたアラ還主婦",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282620342/profile_bc6dd4fec448883afb45f226447b491a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、はじめまして😊note1周年おめでとうございます🎉\n\nいつも楽しく読ませていただいております🤭\n\nそれから、私の記事をマガジンに追加して下さり、…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncdcd45e0aead8",
+          "user_name": "顔のない問い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/273876253/profile_2728379953930ea4cea74f71cfe09590.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございます！！😭\nわ～、コメント欄が空いてたので、ついつい書き込んでしまいました🎉\n\n色んな事に挑戦されて、悩みながらも、自分の成長に合わせて（あるい…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc235b358418e5",
+          "user_name": "ゆぴか｜働きづらさから在宅ワークを模索中☀︎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさーん🥰\nnote1周年、おめでとうございます㊗️\n\nシロノアールのしろちゃん🤭\n今振り返ってみても、もう最初っから…\nしろのあるさんの記事は学びがて…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc97f84c619d7a",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、こんにちは😄\n\n１周年おめでとうございます🎉🎉\nあれ？どっかでも言った気がしますが🤣\nお祝い事だからいいっかー\n\nこの1年の歩みをこうして記事に…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc8875d5e91935",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあるさん、こんにちは😆\n\nnote1周年改めておめでとうございます🎉\n1年前のこと、まだ覚えてますよー😁\n\nnoteドリームですね⭐初心者の方の希望となるよう…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncf434da8589c5",
+          "user_name": "あきまむ｜AIとnoteを楽しむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319430259/profile_c66ae1b421ffc10104900143ca90f114.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん♪\n\nnote1周年、おめでとうございます🎉✨\n\n今がどれだけすごい人でも、最初は初心者で、ここに来るまでに、本当いろんな努力をされてきたんだなっ…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc2f8a2ceede11",
+          "user_name": "月曜日が軽くなる会社員ノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237509343/profile_be1ee3e041c38b849784e4a0f2e3d400.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "note１周年おめでとうございます🎉\n継続は力なりを体現されてますね☺\nこれからも宜しくお願いします😊",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc62099e80b461",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|雲バル・ブラバル運営中♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311032761/profile_e4985526a65ec8335930c848a2c1285c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、note1周年おめでとうございます‼️✨️✨️✨️\nコメント‼️解放されているので、ドキドキしながら、書いていますꉂ🤭\nいつもスキ♥️いただけて…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc3418d5e00e41",
+          "user_name": "ひすい｜日常実験記録(ニトリの座椅子から発信中)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272615198/profile_3e2f99079ec1f0286a857527d80bc372.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、note1周年おめでとうございます💐🎉\n\nいつも「へぇ〜、AIでこんなこともできるんだ！」と思いながら、楽しく読ませてもらってます☺️\n\n2年目…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc5181e40b8ab8",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、note1周年、おめでとうございます！🎉\nこの前、本も読みました！\n\n思ってた以上にいろんなことがあって、正直びっくりしました笑\n\n何度も振り出…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc7c3c0e77756e",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあるんさん😁\n\nnote1周年、本当におめでとうございます🎊\n\nはじめた時期が同じだったので、\nどんどん進歩していくのあるんさんを見て、\nいつもすごいなぁと思…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc01d6fbafcc70",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、note1周年おめでとうございます🎉\n\nこの一年の積み重ね、本当に素敵ですね✨\nメンシプも楽しみにしています🫶",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc266bfa2b78b0",
+          "user_name": "じーくん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/239457120/profile_0592c8a6599598d874b8b3f8871314eb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめてコメントします😌\nワタシもしろのあるさんと\n同じ時期にnoteをはじめました🙋🏼‍♂️\n\nどんどん目標を達成していく\nしろのあるさんを、こっそりとスキを…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc6fc7b201b8a7",
+          "user_name": "時音_2026",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/283567473/profile_2bfd410136c3d56ac0c1e28efbccc016.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "記事を拝見していて率直に、\n\n「......私は何か勘違いをしていたのでは？」\n\nと感じました。\n\n特に、お互いを高め合える人と出会うための交流を、\n認知獲得の…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc2b0d1ea8cab8",
+          "user_name": "ゆき｜Webライター兼ブロガー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226453123/profile_08cde24d22e9275eefe7883f837da5f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさーん、こんばんは😊\n\nnote1周年おめでとうございます🎉\n\nこうしてみると1歩ずつ着実に積み上げていった1年間だったのがわかります。\nしろのあるさ…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nced00379a9343",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "|='ω')ﾁﾗｯ\n\n|='ω')ﾉ💐ｽｯ\n\n|彡ｻｯ  💐\n\n|　　  💐",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nce697efd9890e",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1周年おめでとうございます！\nそして、協賛ありがとう御座います！\n\n交流の大事さってありますよね。\n\nあっ、いじりたらなくないですか？笑",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc255393f633a6",
+          "user_name": "KEN 田舎で介護",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322676308/profile_e3b42cbdd3f50d13d2b762fd40fe23da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあるさん　１周年おめでとう㊗️\n懐かしいけどのあるさんの凄さをいつも感じてます✨\n収益化、メンシプほんとすごい✨\n最初から今も正直な感じがのあるさん変わらない…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc9742db759bd6",
+          "user_name": "AIの中の人@ゆいな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241957599/profile_785b659e7f3c70aa182628321ea394df.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろにゃん⸜(* ॑꒳ ॑*  )⸝\n\n1周年おめでとうございます。\n\nもうそんなに経つのかぁ……目を閉じれば当時のしろにゃんが……( ˘ω˘)\n\n出てきません…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncaeac80f110af",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ろのあさん！ 1周年おめでとうございます🎉✨\n\nあれからもう1年間なんですね。\n早く感じますね。\n\nでもその1年間でAIの進化や働き方含めて大分環境が変わった感…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc3f40b213551b",
+          "user_name": "もり｜40代の“仕事を軽くする”リスキリング",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319672538/profile_9e29bd3b155a73f67d14c38b7968df54.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあるさん、こんにちは。😆\n\nnote1年おめでとう御座います。\n\n過去記事リライトしたので、\n通知行ってたらすいません。\n\nよろしくお願いします🙇",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc31c1ff1f41d3",
+          "user_name": "moco",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310456556/profile_5bb334e2145c65f7611282016b01a023.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん\n1周年おめでとうございます🎉\n\n1ヶ月連続投稿懐かしいですね🥹\n大変な事なのに、有言実行されていたことが素晴らしい✨\nそれに、記事の中身も毎回丁…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncfbde6231bb5d",
+          "user_name": "ふな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285518402/profile_8b2a667aac410827c1ff174aa3e5c752.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のある～ん、1周年おめでとー！！🥳🥳🥳\n\n去年の10月懐かしい～！！\nAIが言う事聞かん！なんて言ってたのが懐かしい⋯⋯笑\n\nnoteだけで食っていこうとすると…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc808040e9f49f",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあちゃーん❣️\n1周年おめでとう🥳㊗️🎉✨\n\nのあちゃんと出会ったのは、のあちゃんがnote始めた2日目だったかな？\n \n毎日中心にのあちゃんがいて、みんなも…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc0555e65c91a2",
+          "user_name": "ネロ🌙｜王子｜メンシプ始めました🌙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306665844/profile_3b07512f5c7f1904daad2fa8e8a834c8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、note1周年おめでとうございます🎉\n\n初めてコメントできます！！\n嬉しいです🤭\nnoteで王子をしています🌙\n\n途中からでしたがしろのあるさん…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncbc265b1edb38",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、1周年なんですね！\n30日毎日投稿チャレンジ、たいへんだったですね～\nコメント交流と記事の両立は無茶だと、私には当時は想像できませんでした。\nで…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc9e920c6162e5",
+          "user_name": "ハル｜Tokyo Visual Moments",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256805436/profile_f81b26580159c31170149db5d92e55ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、1年続けて形にキッチリ具現化まで来てるのは相当スゴイと思います。毎日投稿を宣言ではじめたなんて結構プレッシャーかけてはじめたんですねー。わたしも…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "ncbf2717baffbb",
+          "user_name": "ねんころ@AIクリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241211839/profile_9a8798f1a773b8b9dffe231238d28a1a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "のあるーん、note1周年おめでとー！！\n\nいや〜ここまで色々ありましたな🤤✨\n\n私も、のあるんがいなければ、ここにいなかったと思います！！\nいつも出会いに感謝…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        },
+        {
+          "key": "nc0ae9e3c0e41e",
+          "user_name": "満月ひよこ｜片づけとダイエット、進行中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/290529559/profile_491eda0aa09a8cf5eeb617eb983bb8bd.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しろのあるさん、こんにちは\n1周年おめでとうございます🎊\nどんどんAIに挑戦してスキルを上げていく姿がすごいなって思いながらいつも読ませていただいています。\nし…",
+          "article_title": "【実話】はじめてのnoteから1年。noteで稼げるか試したら、人生が変わりました",
+          "note_key": "n19949647b0d1"
+        }
+      ]
     }
   ]
 }
