@@ -6150,6 +6150,281 @@
           "note_key": "ne151d17d4e42"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "mahiru",
+      "condition": "many_posts",
+      "rare": false,
+      "stats": {
+        "likes_total": 772,
+        "likes_prev": 907,
+        "followers_start": 5613,
+        "followers_end": 5630,
+        "new_fans": 91,
+        "comments_total": 55,
+        "posts_count": 15,
+        "consecutive_days": 7,
+        "post_times": [
+          "21:01",
+          "09:00",
+          "21:00",
+          "09:00",
+          "21:00",
+          "06:00",
+          "21:00",
+          "20:06",
+          "06:00",
+          "21:18",
+          "06:00",
+          "21:00",
+          "06:00",
+          "21:00",
+          "09:00"
+        ],
+        "top_article": {
+          "title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "key": "n60b9436a0290",
+          "likes": 72,
+          "comments": 14
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17937
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "nccbcec3ac856c",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\nとても丁寧で素敵な紹介をして\nいただき嬉しいです\nありがとうございます😊",
+          "article_title": "今週のメンバーさん紹介",
+          "note_key": "nfbeb6cdc8d72"
+        },
+        {
+          "key": "nce7217c0ffb55",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは。\nご紹介頂き、ありがとうございます。\n\nわたしも何の人か分からないですね笑\n日曜日は特に。最近忙しくて記事に出来てないんですけど、またわけ…",
+          "article_title": "今週のメンバーさん紹介",
+          "note_key": "nfbeb6cdc8d72"
+        },
+        {
+          "key": "ncee7a5c10bd5b",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「もう知っていることを、思い出す」日。\n> 日曜日。ゆっくりできる朝ですね。\n> ふくろうは、暗い夜でも \n> も…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n226f4b79ac20"
+        },
+        {
+          "key": "ncc3b302d8584c",
+          "user_name": "無名の探求者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276741721/profile_a6d8a15095ffc2f3998b7e9daa90e86d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日本語のセリフが完璧ですね！😉\n私はgrokで動画を製作していますが、日本語の発音が少し違和感があります🤨\n何て言いますか、セリフが棒読みに聞こえるんですよ😑",
+          "article_title": "【PR】Pollo AIで日本語の会話アニメを制作！「陽菜と澪の放課後」全2話で感じた魅力と難しさ",
+          "note_key": "n85310025313c"
+        },
+        {
+          "key": "nc02030c9e8d66",
+          "user_name": "赤髪のあかり✨️創作で生きるnoteマン　相互フォロー中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/272278243/profile_5a1693fbb3c5adf9900e0754bff99c5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばはー☺️\n私っも動画じゃないけどSUNOとかの歌詞は\nひらがなで入力したりしてるね、感じだと読み間違いが多いので\nイントネーションは若干変わるときはあるけ…",
+          "article_title": "【PR】Pollo AIで日本語の会話アニメを制作！「陽菜と澪の放課後」全2話で感じた魅力と難しさ",
+          "note_key": "n85310025313c"
+        },
+        {
+          "key": "ncb8cbaf4ab4e5",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\n\nわたしは失敗が多いですが、綺麗にできてますね\n\nやはり誤読が悩みの種です笑笑\n\nクレジット明細を公開してくださってるので、初心者は助かりそうです…",
+          "article_title": "【PR】Pollo AIで日本語の会話アニメを制作！「陽菜と澪の放課後」全2話で感じた魅力と難しさ",
+          "note_key": "n85310025313c"
+        },
+        {
+          "key": "nce7f1ff3a2304",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「こもって、力をためる」日。\n> 土曜日。朝晩が冷えてきましたね。\n> 冬の守護精霊が守っているのは、\n > 動か…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n085eea5efb0b"
+        },
+        {
+          "key": "nc70da9f92499c",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\nカードがそう言うなら、休みます笑笑\n朝から創作が終わったので、読書と映画でゆっくりしようと思います😊\n\nいつもありがとうございます！",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n085eea5efb0b"
+        },
+        {
+          "key": "nc7c724aebd6d8",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん\nおはようございます。\nいつも記事紹介ありがとうございます🥰\n\n「終わったものを、次の形にする」日。\nいいですね✨\nいままでの経験を振り返りながら、次の…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n28273d4bd186"
+        },
+        {
+          "key": "ncce0b25414f8b",
+          "user_name": "yoshie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300669621/profile_bf5131016a84c8d4ec941518fe7821ca.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\nゆめ＆ルナのイラスト、とっても可愛いですね！\n今日も見ていて、癒されます✨\n\nいつも記事紹介ありがとうございます。\n",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n28273d4bd186"
+        },
+        {
+          "key": "ncafbb7a19296d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう☀️\n「終わったものを、次の形にする」\nこれ、ちょうど実験してて、過去の記事を形を変えて利用したいって思ってます🤤",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n28273d4bd186"
+        },
+        {
+          "key": "nc947fccd5045d",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「終わったものを、次の形にする」日。\n> 金曜日。今週もよく歩いてきましたね。\n> 不死鳥は、炎の中で燃えつきたあ…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n28273d4bd186"
+        },
+        {
+          "key": "nc41d52281a543",
+          "user_name": "さやか/ 40代からの最高の身体資産を育てるnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261093826/profile_289b00217d1bb96d8648e9ca8629009c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。記事の紹介ありがとうございます💗\nそういえば、最近水に浮かぶフローティングキャンドルというのを買ったところですが、\n水にゆらゆらと浮かぶとす…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n28273d4bd186"
+        },
+        {
+          "key": "nc4ed1f98b3242",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんにちは✨️\nMCP連携でもSunoから2曲返ってくるんですね🤔\nあれどっちもいい時があって悩んで削除できずに溜まってます🤭\n動画を作る部分は結構み…",
+          "article_title": "【PR】Pollo AIで日本2Dバトルアニメを制作！剣と魔法の2作品で分かったこと",
+          "note_key": "n8773214a902f"
+        },
+        {
+          "key": "ncca6a35d214cc",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\nSunoと連携できるようになったんですね！情報ありがとうございます😊\n\n動画はゲームっぽい戦闘シーンがカッコいいですね\nセレナの方は最後の効果音が…",
+          "article_title": "【PR】Pollo AIで日本2Dバトルアニメを制作！剣と魔法の2作品で分かったこと",
+          "note_key": "n8773214a902f"
+        },
+        {
+          "key": "nca366e97a817b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん\nYVS、動画初心者なんでめっちゃ気になります🤤\n\n省略するとYとVが似てるので\nYume Movie Skills：YMS\nとかどうだろう？\nと思った…",
+          "article_title": "イラストが、アニメになって動く。そのための仕組みを作っています",
+          "note_key": "nab80f412c7a9"
+        },
+        {
+          "key": "nc9801f0564483",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「ちょっとだけ、寄り道する」日。\n> 木曜日。疲れが出はじめる頃ですね。\n> エルフたちは、森でいつも何かをして遊…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n148596705a6d"
+        },
+        {
+          "key": "nc526f3ab52bfe",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\n\n最近、ノルマ的にスタンプを作ってたので、ちょっと遊び心を入れてみます🤭\n\n10月ももう半分ですね\n気温が下がってきたので、体調にもお気を…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n148596705a6d"
+        },
+        {
+          "key": "nc9b1e9ff9a514",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「自分の答えを、信じてみる」日。\n> 水曜日。週の折り返しですね。\n> 水晶の洞窟は、外の光が届かない奥でも \n>…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n08897285bbb4"
+        },
+        {
+          "key": "nce18c694eba9f",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「力を抜いて、高く飛ぶ」日。\n> 火曜日。連休明けの朝ですね。\n> 鷲は、高く上がるほど \n> あまり羽ばたかなく…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nf56911f84af2"
+        },
+        {
+          "key": "nc7788e77217e3",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう☀️\nルナちゃん、最近いつもより綺麗に見えるのは気のせいでしょうか。\n解像度を上げてます？\n（自信は無い👀）",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nf56911f84af2"
+        },
+        {
+          "key": "nc21ac98b72645",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322621857/profile_217b7bc112318c977769a99ea6a6b306.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさんこんばんは🌙\n\nなんと！！とても嬉しいツールが🤭\nこれは是非使わせてもらいますね❀.(*´▽`*)❀.\n\nエイムは大事ですもんね🥲\n極めたらマスターです…",
+          "article_title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "note_key": "n60b9436a0290"
+        },
+        {
+          "key": "nce893a25e15fa",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは😊\n\nおお〜！今度はFPSの練習ゲームまで作っちゃったんですね！😆✨\n思いついたことを少しずつ伝えて、ここまで本格的なゲームになるのも面白い…",
+          "article_title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "note_key": "n60b9436a0290"
+        },
+        {
+          "key": "nc3a96c86e18ac",
+          "user_name": "スイッチくん🐻😊 │ BASIC言語、配布中 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "52個でした🐻\n最初はスマホで出来ない！と思いましたが、PCモードにしたら無事に遊べました😊🌙",
+          "article_title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "note_key": "n60b9436a0290"
+        },
+        {
+          "key": "nc116b31419b47",
+          "user_name": "リンファ@AIアート・ドキュメンタリスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211235430/profile_11c1466a21cb3b4cfbd3a216e4fd9a5c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんにちは✨\n\nFPS系のゲームは全くやらない人間ですが、星灯りエイムちょっと遊んでみました❗️\n\n難しいというか、多分これが実際のゲームだったら、相…",
+          "article_title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "note_key": "n60b9436a0290"
+        },
+        {
+          "key": "ncf51957b723dd",
+          "user_name": "きょん(るびぃ)🌸キャラとしくみとゲームづくり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241331053/profile_4b028e841f3a72e37a1ce8346de4a758.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめちゃん💫\n\n早速新しいキャラデザ使ってくれてありがとー＼(^o^)／\nランキング形式は危険が危ない（？）\n\nマウス・パッド・スマホで分かれてるのがいいね🤭\n…",
+          "article_title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "note_key": "n60b9436a0290"
+        },
+        {
+          "key": "nc248ed1166050",
+          "user_name": "無名の探求者",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276741721/profile_a6d8a15095ffc2f3998b7e9daa90e86d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマホでFPSゲームをプレイしましたが、難し過ぎです😅\nゲームはコントローラーが一番ですね😌",
+          "article_title": "AIゲーム制作で、エイムが上手くなる…かもしれないゲームを作りました",
+          "note_key": "n60b9436a0290"
+        },
+        {
+          "key": "nc3e5e2f39537d",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「少し離れて、見えるものに気づく」日。\n> 月曜日。連休の最終日ですね。\n> 今日は、水星が東方最大離角をむかえま…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n67b309a501b3"
+        }
+      ]
     }
   ]
 }

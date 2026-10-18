@@ -1124,6 +1124,41 @@
           "note_key": "na8ae6fb6690c"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 229,
+        "likes_prev": 201,
+        "followers_start": 1121,
+        "followers_end": 1166,
+        "new_fans": 49,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "14:23"
+        ],
+        "top_article": {
+          "title": "【続けることの不思議な恩恵～継続が救ってくれた私の創作～】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.63",
+          "key": "nfa3242c8179d",
+          "likes": 95,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "千住まいか🐇｜AIアート＆AIイラスト",
+          "urlname": "maika59",
+          "follower_count": 8062
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

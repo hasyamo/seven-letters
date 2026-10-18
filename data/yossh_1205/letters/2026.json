@@ -9611,6 +9611,256 @@
           "note_key": "ne41edcd9fb2c"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 900,
+        "likes_prev": 963,
+        "followers_start": 1480,
+        "followers_end": 1488,
+        "new_fans": 61,
+        "comments_total": 46,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "20:30",
+          "19:50",
+          "19:45",
+          "20:15",
+          "22:56",
+          "22:57"
+        ],
+        "top_article": {
+          "title": "求めていること",
+          "key": "n8bb0765a75cb",
+          "likes": 141,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "長田英史(おさだてるちか) / NPO法人NOT",
+          "urlname": "osdt",
+          "follower_count": 13016
+        },
+        "commenters_count": 18
+      },
+      "comments": [
+        {
+          "key": "nca47e1ce7ecfa",
+          "user_name": "A.K Wired Walker sapporo（骨折完治まであと少し）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/139878383/profile_2fe756c4479c9e6234d74afe7dbbf85c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "道中、ご安全に😄👍",
+          "article_title": "早起き祈願！富士山ツーリング",
+          "note_key": "n83b06db89a0a"
+        },
+        {
+          "key": "nc803c79937655",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314583535/profile_3050c269f8e54d362808cdf76d5e61e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "楽しんでー❣️",
+          "article_title": "早起き祈願！富士山ツーリング",
+          "note_key": "n83b06db89a0a"
+        },
+        {
+          "key": "ncdd3cabe289c6",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "有言実行💪",
+          "article_title": "早起き祈願！富士山ツーリング",
+          "note_key": "n83b06db89a0a"
+        },
+        {
+          "key": "ncd692e2773c9a",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "楽しみーー",
+          "article_title": "早起き祈願！富士山ツーリング",
+          "note_key": "n83b06db89a0a"
+        },
+        {
+          "key": "nc4c9c164b7eaf",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n受賞、おめでとうございます🎉🎉🎉\n\n手放すかぁ〜。\n\n私はそこまで執着して…",
+          "article_title": "ほしの遥華さん主催【捨てる手放すグランプリ👑】に参加してました～",
+          "note_key": "n9cf8aa0b8141"
+        },
+        {
+          "key": "nc4b47f5454ad4",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、ご無沙汰しています🙂‍↕️\n\nあまねの記事を紹介してくださって、ありがとうございます🙏😄✨\n\n3回も出されてたなんて😳\n受賞おめでとうございます🙌…",
+          "article_title": "ほしの遥華さん主催【捨てる手放すグランプリ👑】に参加してました～",
+          "note_key": "n9cf8aa0b8141"
+        },
+        {
+          "key": "ncaaa21bb9debc",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😊\nこのたびは、マガジンに追加していただき、ありがとうございます🙏✨\n\nそして「3度目の正直で賞」受賞、おめでとうございます！🏆🎉\n\n「…",
+          "article_title": "ほしの遥華さん主催【捨てる手放すグランプリ👑】に参加してました～",
+          "note_key": "n9cf8aa0b8141"
+        },
+        {
+          "key": "nc5c628a000ff1",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、三度も書かれたんですね！\nさすがですね〜\nテーマに沿って書くといつも考えないようなことが出てきたりしておもしろいですよね♪\n\n記事を紹介くださって…",
+          "article_title": "ほしの遥華さん主催【捨てる手放すグランプリ👑】に参加してました～",
+          "note_key": "n9cf8aa0b8141"
+        },
+        {
+          "key": "nc65ea610970ec",
+          "user_name": "cana",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247279506/profile_ac24805e6eee299b59a5275a9f258260.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、受賞おめでとうございます✨\n\nそして、記事をご紹介いただきありがとうございます☺️\n\n私も今回の企画に参加したことで、普段はあまり考えなかったこと…",
+          "article_title": "ほしの遥華さん主催【捨てる手放すグランプリ👑】に参加してました～",
+          "note_key": "n9cf8aa0b8141"
+        },
+        {
+          "key": "nc660cd096a7df",
+          "user_name": "ほみ｜猫とボドゲとスタンプ。最近スタンプ多め",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309261353/profile_3a0f9e7995d9f8a1f36a2e1a8b5de40a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。めっちゃわかります。前のめりでスキボタンを押してしまいました笑\nこれしかない、とか、お前しかいない、とか言われると全力でその場から立ち去りたくなりま…",
+          "article_title": "贅沢は選択肢の中に",
+          "note_key": "n5c2ea1a7d260"
+        },
+        {
+          "key": "nc4ff08ff8ef6e",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n私は選択できないのは絶対に嫌です！\n常に自分で選ばないと気が済まないです😆…",
+          "article_title": "贅沢は選択肢の中に",
+          "note_key": "n5c2ea1a7d260"
+        },
+        {
+          "key": "nc8d23286b7b42",
+          "user_name": "志乃",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/314583535/profile_3050c269f8e54d362808cdf76d5e61e4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かに『選ぶ』ことが出来るって\n贅沢ですね🤔\n選べたものが『選べ』なくなった途端に、窮屈さを感じますし🤔\n牛丼の券売機の前で\n選択肢が1つだけとかになったら\nワ…",
+          "article_title": "贅沢は選択肢の中に",
+          "note_key": "n5c2ea1a7d260"
+        },
+        {
+          "key": "nc5d6f42ea2863",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315743951/profile_2f890ad004cd555561af5bca638d81c4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "え！よしひろ先輩シャイなんですか🫠？\n\nそんな感じ、全然しないですよ🙄💦\n周りに人が溢れるくらいいるイメージなのですが🤭❤️",
+          "article_title": "自分の話がしたい！",
+          "note_key": "n44dea54585bb"
+        },
+        {
+          "key": "nc2faecd308d2f",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nよしひろさんがシャイっていうのがちょっと意外な気がしました😊\n\n私も人の話…",
+          "article_title": "自分の話がしたい！",
+          "note_key": "n44dea54585bb"
+        },
+        {
+          "key": "nc6780345cb9b9",
+          "user_name": "もも │ 溺愛♥️BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん！\n\nわかりますー💦\n仕事での接客や、同僚、友人とかと話すことは普通にできるんです。\nでも、自分の話をするとなると上手く話せなくて。\nつい相手の話を…",
+          "article_title": "自分の話がしたい！",
+          "note_key": "n44dea54585bb"
+        },
+        {
+          "key": "ncff6d86336993",
+          "user_name": "はれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/185079688/profile_549475a5dc10aa93cb03a2e4cd5638c8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは😊\nマガジンに追加していただき、ありがとうございます✨\n\n木の棒のチャンバラとスナイパーライフル、なるほどです！\n狙いを定めて引き金を……って感じ、あ…",
+          "article_title": "自分の話がしたい！",
+          "note_key": "n44dea54585bb"
+        },
+        {
+          "key": "nc6ce9292c7401",
+          "user_name": "そるっち",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/218889598/profile_f238954a960970b60bf87645f39e0483.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは😊\n\nなんだかわかる気がします。\n私も相手との共通点を見つけて話すのは好きなんですが、自分の趣味の話となると、ちょっと慎重になることがあ…",
+          "article_title": "自分の話がしたい！",
+          "note_key": "n44dea54585bb"
+        },
+        {
+          "key": "ncb32003e30542",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "右手が使えないなら、\n左手を使うしかない。\n\nというよしひろさんの名言を読んで、\n\n足が折れたから、\n空を飛べるようになった。\n\nというショートショートを思いつ…",
+          "article_title": "必要に迫られたら、案外できたりする。",
+          "note_key": "n48a88641b4c0"
+        },
+        {
+          "key": "nc02eefe6c09e8",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、こんばんは〜！\n\nよしひろさんの言葉\n「まだ起きてもいないことを\n考えすぎて不安になるより、\n\n必要になったら、\nその時に頑張ればいい。」\n\nその…",
+          "article_title": "必要に迫られたら、案外できたりする。",
+          "note_key": "n48a88641b4c0"
+        },
+        {
+          "key": "ncb1e8440d4503",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n必要に迫られたら絶対になんとかなると思います😊\n\n私はいつも必要に迫られて…",
+          "article_title": "必要に迫られたら、案外できたりする。",
+          "note_key": "n48a88641b4c0"
+        },
+        {
+          "key": "ncb9899f508d34",
+          "user_name": "enyo*えんよう🗝️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240644209/profile_1ac1d8614044bc9c45db88b11d02d8f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ほんとほんと！\nその時になると思った以上になんとかやってて、\nそれがまた次の自信になったりしますね🙌\n\nよしひろさん\nいつもありがとうございますꕤ︎︎",
+          "article_title": "必要に迫られたら、案外できたりする。",
+          "note_key": "n48a88641b4c0"
+        },
+        {
+          "key": "nc7c98d2dd4396",
+          "user_name": "スイカの子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320071922/profile_47bddc189add1ca9b646d163e3120930.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ろくすっぽ・・・🤔\n\nあ、よしひろさんこんばんは🌙",
+          "article_title": "必要に迫られたら、案外できたりする。",
+          "note_key": "n48a88641b4c0"
+        },
+        {
+          "key": "nc5cdeb8a69a8c",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n物欲も多くて楽しそうですね😆\n\nそして色々と大変ですね😅\n\nいつもありがと…",
+          "article_title": "求めていること",
+          "note_key": "n8bb0765a75cb"
+        },
+        {
+          "key": "ncee39a539cf7e",
+          "user_name": "伊藤ポップakaFCS",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324046519/profile_18daefb17f9171a266853f77f49d3c62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん\n\nおはようございます。\n企画に参加させていただいている\n伊藤と申します。\n\nすごく優しい語り口で読みやすいエッセイだと思いました。\n\n企画を始める…",
+          "article_title": "求めていること",
+          "note_key": "n8bb0765a75cb"
+        },
+        {
+          "key": "nc5fa0717030a7",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\n\n「あったらいいな」ですかぁ〜\n私はたくさんあり過ぎちゃうかもです🤭\n物欲ですね、、😅\n\nさて、この度もマガジンに追加してい…",
+          "article_title": "求めていること",
+          "note_key": "n8bb0765a75cb"
+        },
+        {
+          "key": "nc62116eb4c5ca",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300542532/profile_1984343a593a0409631c3f95fdbe6d61.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よっしーさん\nスキンケアは今までの投稿でわかっていたけど、メイク！！！？\n眉カットだけでなく！？\nさすがだわ✨✌️\n",
+          "article_title": "求めていること",
+          "note_key": "n8bb0765a75cb"
+        }
+      ]
     }
   ]
 }

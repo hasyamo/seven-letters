@@ -1374,6 +1374,84 @@
           "note_key": "nebc6c6cda0ec"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 236,
+        "likes_prev": 255,
+        "followers_start": 2218,
+        "followers_end": 2264,
+        "new_fans": 74,
+        "comments_total": 10,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "19:00",
+          "12:31"
+        ],
+        "top_article": {
+          "title": "一言日記｜AIで大人の塗り絵を作ってみた！｜デイサービス向け線画イラスト配布｜フリーイラスト",
+          "key": "n96e6bf6c68be",
+          "likes": 100,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "龍神",
+          "urlname": "tatsuopapa",
+          "follower_count": 17553
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc52a8f816621b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さ〜ん✨\n\nやっぱり全部お任せっていう\nことにはならないよね〜💦\n見やすい図っていうのも\nあるし〜\n細かく修正するより、自分で\nイメージを固めてからって\nいう…",
+          "article_title": "検証日記",
+          "note_key": "n087e234b6ba5"
+        },
+        {
+          "key": "nc816b54f7e987",
+          "user_name": "華子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/258028335/profile_2bb70ccccce23ac8888763e8a9d26ee2.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "インスタフォローいただけたので、ここにたどり着きました。これからよろしくお願いしますね🙏",
+          "article_title": "一言日記",
+          "note_key": "n96e6bf6c68be"
+        },
+        {
+          "key": "nc996f4761b171",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊🐑さん、おはようございます👋\n「蓮の花に包まれて眠る少年。」のサンプル、ナイスですね✨静物画も好きです😊",
+          "article_title": "一言日記",
+          "note_key": "n96e6bf6c68be"
+        },
+        {
+          "key": "nc8378eb6b98c3",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "羊さーん✨こんばんは☺️\n\n塗り絵素敵❤️\n一時色んな塗り絵やりました☺️\nそっかーこうやって塗り絵も作れるんですね✨\nイラストが素敵だから、塗り絵も素敵❤️\n…",
+          "article_title": "一言日記",
+          "note_key": "n96e6bf6c68be"
+        },
+        {
+          "key": "nc7ed4ddc3b397",
+          "user_name": "ミノリ・グルーヴ@Minoriからの転生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325448368/profile_ae2c21c38c988013739b611ef01a52f7.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "夏目羊さん✨こんにちは♪\n\n塗り絵用のイラスト素敵ですねっ😆\n息子の美術上達用に\n少し拝借してもいいでしょうか⁈🙇\n\nもちろん、個人的な理由で使用させていただき…",
+          "article_title": "一言日記",
+          "note_key": "n96e6bf6c68be"
+        }
+      ]
     }
   ]
 }

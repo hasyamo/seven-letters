@@ -886,6 +886,34 @@
         "notable_reader": null,
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 1,
+        "likes_prev": 0,
+        "followers_start": 496,
+        "followers_end": 497,
+        "new_fans": 1,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "しらすとちりめん｜夫婦で育休２年",
+          "urlname": "sirasu_chirimen",
+          "follower_count": 247
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

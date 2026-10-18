@@ -6617,6 +6617,96 @@
           "note_key": "n0ef9f152a262"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 332,
+        "likes_prev": 421,
+        "followers_start": 1852,
+        "followers_end": 1861,
+        "new_fans": 39,
+        "comments_total": 11,
+        "posts_count": 6,
+        "consecutive_days": 6,
+        "post_times": [
+          "05:09",
+          "20:59",
+          "05:52",
+          "20:04",
+          "19:44",
+          "18:59"
+        ],
+        "top_article": {
+          "title": "AIイラストの構図に迷ったら！｜GPT Image 2.5で作る構図27選【テンプレート付き】AIチャッティ｜制作Pollo AI",
+          "key": "nd3ed574ad965",
+          "likes": 96,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17881
+        },
+        "commenters_count": 4
+      },
+      "comments": [
+        {
+          "key": "nc0f015ca88d0a",
+          "user_name": "ふんふん食堂(●´ω｀●)~♪フォロバするよ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319813285/profile_6152cb063327354e9bceca31822ffa66.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おすすめ記事にのせてくれて、ありがとなのだ〜(●´ω｀●)\n\n「明るい場所では見えない星も、暗い夜には美しく輝いています」のところが、ふわっとやさしくて好きなの…",
+          "article_title": "AIチャッティの朝活",
+          "note_key": "n7ae04dd5c3fa"
+        },
+        {
+          "key": "nce650c8cb3c7c",
+          "user_name": "ken＠夢を叶える起業家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/175584216/profile_18d2bb3cde45e27726479b7f4cdbe74d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アポロちゃんの「人懐っこくて小悪魔」という性格を、半目の笑顔や口元の指先へ落とし込む流れが分かりやすかったです。前・横・後ろの設定画に加え、衣装を変えても残す特…",
+          "article_title": "楽しいイラスト生成！ChatGPTでキャラクター設定、GPT image2.5で描く個性",
+          "note_key": "n189429462c8d"
+        },
+        {
+          "key": "nc395b1fdc769c",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nとうとう出てきたアポロちゃん⸜(*˙꒳˙*)⸝\n面倒見が良い姉御〜！\"(ﾉ*>∀<)ﾉ",
+          "article_title": "楽しいイラスト生成！ChatGPTでキャラクター設定、GPT image2.5で描く個性",
+          "note_key": "n189429462c8d"
+        },
+        {
+          "key": "nc44278d8021cd",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nキャンバス機能いいですね( ᎔˘꒳˘᎔)\nイラストも綺麗！\nスマホだとCanvas機能はやっぱり使えないんですかね？💦",
+          "article_title": "【PR】AZ8で広がるAI制作",
+          "note_key": "n6be3ad5719d1"
+        },
+        {
+          "key": "nc562ac5f0d7a3",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n\n細かい構図の指定って意外と難しいから番号でこれって言うだけで思ってた位置にカメラが来るの凄く便利そうですね⸜(*˙꒳˙*)⸝",
+          "article_title": "AIイラストの構図に迷ったら！",
+          "note_key": "nd3ed574ad965"
+        },
+        {
+          "key": "ncf08faa921a4d",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\n前回の髪型に続いて、今回は構図も番号で選べるのですね💫\n「今日はどんな構図にしよう？」と迷ったときに、見本帳から選べるのは、気持…",
+          "article_title": "AIイラストの構図に迷ったら！",
+          "note_key": "nd3ed574ad965"
+        }
+      ]
     }
   ]
 }

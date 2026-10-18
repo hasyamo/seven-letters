@@ -876,6 +876,41 @@
           "note_key": "n19949647b0d1"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 276,
+        "likes_prev": 242,
+        "followers_start": 4257,
+        "followers_end": 4263,
+        "new_fans": 61,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "noteとスライド作成、相性が良すぎました。記事の下書きからサムネと図解を作る方法｜生成AI｜画像生成AI｜note記事作成｜AIイラスト｜クリエイター｜note初心者｜時短｜効率化｜手間削減｜コスパ重視｜最新AIツール｜PR｜HIX AI｜",
+          "key": "n014ee1c48138",
+          "likes": 166,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 17774
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

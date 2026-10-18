@@ -1931,6 +1931,124 @@
         }
       ],
       "rare_no": 7
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 424,
+        "likes_prev": 327,
+        "followers_start": 8022,
+        "followers_end": 8062,
+        "new_fans": 59,
+        "comments_total": 21,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:00",
+          "07:37"
+        ],
+        "top_article": {
+          "title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "n8da090a038c0",
+          "likes": 162,
+          "comments": 17
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 17976
+        },
+        "commenters_count": 8
+      },
+      "comments": [
+        {
+          "key": "nc5a2722991a72",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。記事のイラスト、淡い色使いで、澄み切った空が綺麗、ゲームの背景みたいで素敵です。",
+          "article_title": "『あなたの世界観が、読者を導く地図になる。』-世界観を持つフォロワーさんを紹介-",
+          "note_key": "n682309679117"
+        },
+        {
+          "key": "nc774b9b459c80",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただきましてありがとうございます！\nああ・・・うれしい・・・どうしよう・・・\n入力しかけたコメント欄を閉じています\n\nこれまでお世話になった様々なこと・…",
+          "article_title": "『あなたの世界観が、読者を導く地図になる。』-世界観を持つフォロワーさんを紹介-",
+          "note_key": "n682309679117"
+        },
+        {
+          "key": "nc15c0181b233e",
+          "user_name": "Misakiyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/268127675/profile_ba94f13eafab75f34e50a7ffb466e278.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございます！\n圧倒されてしまいました♪\nお祝い申し上げます！\n・・・すごいな・・・",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "ncfeb42f9f70c1",
+          "user_name": "yukariyajp / Hiroki Kon",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280552658/profile_eab77a6fa188f5060fee5c35ce7b2379.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おめでとうございます！\nさすがです！\n\nあれ・・・この間7000と聞いたばかり・・・\n\nお祝いの花束・・・\n思いのほか、準備に手間取っております・・・\n\nまずは…",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "nca156abdd5aeb",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。まいかさんフォロワー８０００人達成おめでとうございます。素直に凄いと思います。",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "nc4afb4e20c4f0",
+          "user_name": "ゆうです。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311129213/profile_a79eb69d7cba2061139f5ff030664387.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、こんにちは！\n8000人越え、おめでとうございます🎉\n",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "nca4800aebc406",
+          "user_name": "これから嘱託はじめます。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262572186/profile_6203044f5de5e02c45aa0a5b53325cf2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん…おはようございます🙏\n自分の記事を紹介して頂いて、どうもありがとうございます🙏\nもう少しで、noteにきて一年になります。\nこれからも精進していきま…",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "nc83dbd9a4d6af",
+          "user_name": "カケルン・マンガnote  フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、8,000人突破おめでとうございます！🎉\n\n「数字ではなく事件」という表現に、積み重ねてきた発信の勢いを感じました😊\n\n特に「物より事を売る」という…",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "nc16e4a7931d8d",
+          "user_name": "かにゃお🐈❤️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313793250/profile_11d1878b3c0e21bec1107fac9e20b413.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん𐔌՞⁔•͈ ·̫ •͈⁔՞𐦯\nフォロワー8000人おめでとうございます🎀🤍",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        },
+        {
+          "key": "nc3ba499ae8e50",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まいかさん、8,000人フォロワーおめでとうございます🎈🎉\n\n8,000人となると、圧巻ですね🥰\n通知が鳴り止まないのも、うれしい悲鳴なのだと思います😌✨\n\nこ…",
+          "article_title": "『🔥 noteフォロワー数、8,000を超えました。』-noteの空気を変える数字、それが8,000！-",
+          "note_key": "n8da090a038c0"
+        }
+      ]
     }
   ]
 }

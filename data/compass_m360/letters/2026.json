@@ -13677,6 +13677,574 @@
           "note_key": "na57710065283"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": false,
+      "stats": {
+        "likes_total": 701,
+        "likes_prev": 544,
+        "followers_start": 2058,
+        "followers_end": 2076,
+        "new_fans": 64,
+        "comments_total": 133,
+        "posts_count": 4,
+        "consecutive_days": 1,
+        "post_times": [
+          "20:12",
+          "20:10",
+          "20:04",
+          "19:56"
+        ],
+        "top_article": {
+          "title": "✨世界のハロウィンを見てきて〜✨｜セラフのHALLOWEEN WORLD TOUR🎃👻",
+          "key": "n19c51a7a4565",
+          "likes": 200,
+          "comments": 57
+        },
+        "notable_reader": {
+          "name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "urlname": "torori_20260101",
+          "follower_count": 10347
+        },
+        "commenters_count": 43
+      },
+      "comments": [
+        {
+          "key": "nc7aafb09cce43",
+          "user_name": "ぷぴちゃむ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/226328643/profile_8d6c75d64e2ed040bb884ee2ac45b779.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌟\n\n好きの輪が広がっていくことが、\n素敵ですね🥰\n\nそして、私の記事を紹介してくださり、マガジン追加に重ねてありがとうございます💕",
+          "article_title": "🌱 スキのタネ研究所だよりVol.009",
+          "note_key": "n8930d7f285cd"
+        },
+        {
+          "key": "ncb848640582ac",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\n\nこんばんは🥰️\n\nスキの糸って表現なんかいいね！\n\nスキを感じてまた新しいスキに繋がって。\n\nハロウィン企画も\nたくさんあるよね☺️🌱⋆｡\n\nみき…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.009",
+          "note_key": "n8930d7f285cd"
+        },
+        {
+          "key": "nceed4ba528a32",
+          "user_name": "sally",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231440988/profile_c218152194afc0409749319166398772.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん🎃✨️\n\n誰かの「スキ」に触れることで\n自分の中の「スキ」のタネが芽を出すこともある💖✨️\n\nすごく核心をついていてハッとしちゃいました👀❣️\n\n誰かと…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.009",
+          "note_key": "n8930d7f285cd"
+        },
+        {
+          "key": "nc1357004231fc",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん😊💗こんばんは🌛*゜\n\n誰かの「好き」に触れて、新しい「好き」が芽生える🌱 本当にそうですね🥰\n\nハロウィンも、みなさんの個性があふれていて楽しいですね…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.009",
+          "note_key": "n8930d7f285cd"
+        },
+        {
+          "key": "ncf50d879f6f49",
+          "user_name": "しれネコ🐾｜迷子の気持ち、 ちょっと軽く",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295051169/profile_3304b8448524136d82b2446d03e267fc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんはー🐱\nほんとにnoteのなかは、ハロウィンでもちきりになっていて\n回りきれにゃいーってなっています💦\n\nまずは明日のキタコレさんの記事投稿し…",
+          "article_title": "🌱 スキのタネ研究所だよりVol.009",
+          "note_key": "n8930d7f285cd"
+        },
+        {
+          "key": "nc58e4d8a26809",
+          "user_name": "ぷっぷる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247930453/profile_056c49f5bf7f07cdcc784fbf2ff720c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみき さま\n\nおはようございます\n\n中国…恐るべし！ですね。\nエピソードだけで、タイトル\nついちゃいますね✨\nしかし…命懸け😆\n乗り物にのって 命の危機…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc9107b3f4f3d4",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "中国出張の珍事件簿🤣💦\nタクシーの床の穴、しかも高速道路を120キロ超えなんて、想像しただけでドキドキしますね😂",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc05cdbd3adcc4",
+          "user_name": "genza",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211783570/profile_d4e715dfd7b35e83cd6b51311a12123d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは🌙\n\n「中国出張の珍事件簿」とか\n「中国出張は事件の連続でした」\n\n面白そう〜\nみきさんの経験が優しく詰まった本📕\n\n読んでみたいです😆\n\n…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc95e2825025a4",
+          "user_name": "雑学MAMA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318861137/profile_9c1fadfd02fe7c75a3ab4a0aeec34b80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん❤️\n\n読みながら「えええ〜😱」ってなったり、笑ったり😂\nタクシーの床に穴って、今なら笑えるけど、\nその時のみきちゃん絶対笑えないよね🤣💦\n\nでも読ん…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "ncbc77e17b817d",
+          "user_name": "キロ｜映画好き会社員",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253679260/profile_59cda1b31b88c8e819d4a6a075d6a597.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マットを1枚ずつめくったら床に穴、しかも120キロで走行中、の時点で、一冊目の第一章はもう決まりですね🤣\n\n読みたいです。個人的には「工場のサンプルは完璧なのに…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc9caf376d7541",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨\nお仕事で外国を飛び回って、めちゃくちゃかっこいい…！！！！\nいろんなスリリングな体験😱怖いけど、資産ですよね。珍道中の本、読んでみたいです😆❣️",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "ncf599f35f7297",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "色んな経験されてるんですね💦\nぜひ中国の珍事件簿、抱腹絶倒で書いてくださ～い💓",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nce35fe377466b",
+          "user_name": "まり/静けさの中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256030258/profile_688e6485c2a133b6d13891311c98326f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん✨\nおはようございます😊\n\nみきさんって、本当に多才で、優しさにあふれた方だなぁと\nいつも感じています💕\n\n今回のお話を読んで、これまで本当にいろいろな…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc06fdeaaf5478",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "中国怖そうですね💦ワシの大学時代の友達は商社でずっと中国にいたけどようやるなあと思ってましたわ😆😆👍\n今日はデイジーに肥料をやりました✨",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc7492e7c37778",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃーーん！\n\n中国の珍事件✨\n気になるわーーー！\nサンプルと量産がバラバラって\n最近でもあるあるですよね🤭\n\nワタシもタイとエジプトの珍事件を書きたくなっ…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "ncecdb9abfbc74",
+          "user_name": "さち　私のつぶやき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298456070/profile_ee77cddbdd41e09acba542c6f8749cee.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃん\n\nこんばんは☺️\n\n中国珍道中の本\nぜひ読んでみたい(っ ॑꒳ ॑c)\n\nけどね\nその前の自分の人生を書いた本。\n\nこれ私も考えていたやつかも。\n\n…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc0b23377f5473",
+          "user_name": "マイキー🐣",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323874820/profile_4a63c55a236e3b2614fdfe96896d0534.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、\nこんばんは🧭\n\n絶対、面白いでしょう😁\n忘れた記憶は脚色OK！少々盛ったところで面白ければOKです🤭\n\nぜひぜひ、本にしちゃってください📕\n20年以…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "ncd6b734b411fd",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、これ本にしたら売れそうな気がします！🤣✨\n\nいやー、全部濃すぎますね笑笑\n\nしかし、サンプルは完璧なのに量産すると別物になるって、なんでそうなるんでし…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "ncb4f531ca4f7e",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n20年以上前の中国出張にまつわるスリリングでユーモアあふれるエピソードの数々に、思わず引き込まれてしまいました。\n\n時速120キロを超え…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc18e70f730012",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317453792/profile_90b586905d02d0f2465e8b3e01ab0ad1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\n昔だからなのでしょうが…\n車の床に穴はヤバいですね！\n\n「中国出張の珍事件簿」\n完成したら読みたいです！\n\nいつもありがとうございます:)",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "ncf6540ceb5602",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん🌺\n\n中国出張の珍事件簿、絶対読みたい🤣📚💕\n\n時速120キロで走るタクシーの床に穴⁉️😱🚕\n\nしかもマットを戻して、そのまま目的地まで行っちゃうと…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc2fc73bc0af33",
+          "user_name": "カケルン・マンガnote  フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、これは絶対に本にしてほしい！🤣 タクシーの床に穴が開いてて、しかも高速を120キロ超で走ってるなんて、想像しただけで冷や汗ものだよ😂 でも、こういう実…",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc5bd461c7945b",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313779904/profile_60a1d57e2152b363d8ba97e12fe0450c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n｢飛行機が怖すぎて✈️翼の窓際席からエンジンを監視し続ける同僚の話｣\n聞きたい🤣\nでも本人にとっては一大事なんでしょうね😵💦\n",
+          "article_title": "✨ハッピーライティングマラソンお題#69",
+          "note_key": "nbc90ee915a71"
+        },
+        {
+          "key": "nc2a3880bf210c",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n日々文章を綴る中で、日本語が持つ本来の奥深さや細やかなニュアンスに改めて目を向けられる視点がとても素敵です。\n\nAIの便利さに頼るだけで…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "ncb50f61a0c2e8",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます！\n日本人の知らない日本語、全巻持ってます😆✨\n面白いですよね～🎶\n知ってる本だ！　と嬉しくなりました😆💕",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc687fa4a65c65",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316808089/profile_2d8faf35f896c48f64bfff17acd32d76.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nおはよーございます☀\n\n日本語って奥が深いと言うか。\n世界でも日本語って言い回しが多くて難しいみたいですね✨\n\nでも、意外と使ってしまっている言葉。改…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "ncc9a802bf8641",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは！\n\n「恐れ入りますが」ってけっこう強制力があるんだー！知らなかった～(・・;)\nその本面白そうだねー😊\n\nあんまり関係ないけど、\n私は、…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc183498426b95",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは☀\n\nAIに頼ることができる時代だからこそ、自分で言葉に触れて、気づいたり学んだりすることも大切にしたいですね🌱",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc84930b645f2c",
+          "user_name": "カケルン・マンガnote  フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、日本語って本当に奥が深いよね😊\n\n僕もnoteで文章を書くようになってから、言葉の選び方ひとつで伝わり方が変わることを実感してるよ。\n\nAIは便利だけ…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc1d06e6a4949e",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おもしろ～い💓\n「お疲れの出ませんように」使ったことないお言葉（笑）\n一生使うことがないかもしれないけど、メモメモ\n日本語って奥深いですね、教えてくださってあり…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc85a8b4f84065",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324475400/profile_b327544e061945353fcaa4cff2adff92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは😊\n\n読んでいて私も勉強になりました😊🌸\n\n普段何気なく使っている言葉も、改めて考えると奥が深いですよね。\nnoteを書くようになった今だか…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "ncd58e52387a4c",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん🌺\n\n日本語って本当に奥が深いですよね〜‼️📚\nAIも間違えるから、最後は自分で確認‼️\nやっさんも毎日実感してま〜す🤣🤣🤣\n\nここで一句💡📚\n\n日…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nca8627c0d1682",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます😊\n\n日本人の知らない日本語、面白そうですね！😆\n\n「冷める」と「冷える」の違いなんて、普段何気なく使っているのに、いざ説明しようと…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc031362acae89",
+          "user_name": "無限納豆",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313779904/profile_60a1d57e2152b363d8ba97e12fe0450c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます🤗\n｢日本人の知らない日本語｣面白そうです、休日に読もうかな📘\n｢お疲れの出ませんように｣は、使った事ありません🤣",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "ncd684e31827f1",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは🌙\n「日本人の知らない日本語」、タイトルも絵のタッチもなんか気になる一冊。\nしかも、Kindle Unlimitedで読めるｗ\n多分読んだら…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc43f0207630b9",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あれ？キノコが出ない...デイジーを植えました✨💃",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "ncb24c327007aa",
+          "user_name": "🌸おはな＆🐕️まめしばさん裏アカ美容",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310357363/profile_0ba35d0310dd53c1df730bd2abbe8cf8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nコンパス みきさん、こんばんは！✨\n『日本人の知らない日本語』のチョイス、すごくワクワクしました！「冷めると冷える」や「歳と才」の違いなど、普段何気な…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc9affb8fed9ff",
+          "user_name": "sally",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231440988/profile_c218152194afc0409749319166398772.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん🌺✨️\n\nこんばんは😃🌃\n\n私は日本語の中でも漢字の使い分けでよく調べものをします。\nしみる→染みる、沁みる、滲みる、とか\nみる→見る、診る、観る、視る…",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "nc05727b2fe7b1",
+          "user_name": "King | 天は自らを助くる者を助けるらしい",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317453792/profile_90b586905d02d0f2465e8b3e01ab0ad1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは。\n\n「お疲れの出ませんように」\nは言ったことがないですね…\n\nいつもありがとうございます:)",
+          "article_title": "✨ハッピーライティングマラソンお題#68",
+          "note_key": "n9694f505c312"
+        },
+        {
+          "key": "ncdb9d9045db9b",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちはー✨\n\nセラフくんと一緒や回る世界旅行\n\nとても色々巡れて楽しかったです\n\nフィンランドが個人的には好きでした😊\n\nセラフくん、世界の案内に…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncba9955beb602",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🎊祝デビュー🎉\n\nすっかりミステリーハンターですか？\nモデルが天職に見えます😺",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncbc6d7640b5b8",
+          "user_name": "カケルン・マンガnote  フォロバ100",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティ、セラフの世界旅行、すごく面白かったよ😊\n\nハロウィンって仮装やお祭りのイメージが強いけど、その背景には死者を敬ったり、大切な人とのつながりを感じたりす…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc87944765a00e",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは～！\nわぁ、セラフくん初登場😆✨️✨️\n待ってました！！\nいきなりいろいろ用事を言いつけられていますが\n素直に聞いてくれそうないい子ですね🤭…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc006040fd4f63",
+          "user_name": "生きているだけで偉い",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323733736/profile_15efb750623c1b2e3a54f7f2a73a82a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして!マガジン追加ありがとうございます🙇❣️",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nceca9dd4d3606",
+          "user_name": "涼子",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252622515/profile_ab129223fdf6ce600d4180a645a20bfc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーちゃん、こんばんは🌃\n世界旅行楽しかったよー✨\n\nハロウィンといっても、いろんな意味が込められてるんだねえ😃\nそれに、新しいキャラも加わり、画像もますます磨…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncfe9f3b083366",
+          "user_name": "ken＠夢を叶える起業家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/175584216/profile_18d2bb3cde45e27726479b7f4cdbe74d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "セラフがメキシコで「家族の時間だから」と少し離れて見守る場面が印象に残りました。文化の説明と、キャラクターが感じたことを分けて書くと、旅の物語として楽しみながら…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nceae1a4a49273",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なんだか旅行した気分になりました＾＾\n\nこんなにハロウィンの祝い方、違うんだ！！\nやっぱりヨーロッパは伝統の重みがありますね🌱\n\n台湾は、日本と近い感じ笑",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc9f691dde2faa",
+          "user_name": "ルー＝シャーナ（ルーシャーナ）|心の響きを紡ぐ人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318266132/profile_a970a0065b3a179dbc1883c0e7e22016.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん💕✨\n世界のハロウィンって、こんなにいろんな形があるんだね〜！😳🎃✨\n情報量もすごい！！😆💕\n\nそれに、セラフさんが世界6か所を旅するっていう見せ方…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nce7a020a951e6",
+          "user_name": "みふゆ＆成瀬圭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、セラフくんの世界旅行、楽しかったです🥰✈️✨\n\nハロウィンを探していたはずが、国ごとの文化や亡くなった人への思いに触れる旅になっていくのが素敵でした🌸…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nccaebabdfd2ed",
+          "user_name": "キロ｜映画好き会社員",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253679260/profile_59cda1b31b88c8e819d4a6a075d6a597.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "メキシコで「僕は入らない方がいいね。家族の時間だから。」と少し離れて灯りを見ているところは、セラフがあまり話さないぶん、こちらも静かに読みました。\n\nハロウィン…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncec4e5ec58c16",
+          "user_name": "葉音",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295791766/profile_b0e5b6347b65bce3d43c46e324e62299.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、おはようございます。\nセラフさんと一緒に世界のHalloweenの旅をした気持になって引き込まれて行きました🤩\n\n画像もめちゃくちゃ素敵ですね！\nHa…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncacd8b7a154ca",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305473473/profile_d156508b8963e928f92d3da4a2808e77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "セラフ⸜🌷︎⸝‍\nスターウォーズに出てきそうな\nキャラクターで素敵✨️\n旅が似合う🥰️\n\n個人的には、美しい堕天使や\n吸血鬼♥️バージョン、凄く\nスキです✨",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc87a51bcdf56a",
+          "user_name": "響 / hibiki",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/307549691/profile_4f8a9db99a400324e644f04ca49fd0dd.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは♪\n\n世界のハロウィン、想像以上に奥が深いですね！\n\n国によってこんなに違うのも面白いですし、亡くなった人への思いがいろんな文化につながって…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc2ea37756edd2",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃーん✨こんばんは🌙\n\nセラフくんめっちゃイイ旅してますね♪\nそしてドラキュラがお似合いです🤩💕\n\nで・・・\n申し込み忘れてたんですか？\n今回の一番のビッ…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncf9e0031a7efc",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299967471/profile_6c6d1d1ada2c8774e44d755b8cfacdb1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nコンパス みきさん、こんばんは！✨\n美しいセラフくんの瞳を通して巡る世界のハロウィン、古代の炎から巨大凧、死者の日の祈りまで文化の深奥に触れる旅に引き…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc446cdb05a324",
+          "user_name": "こたや｜KOTAYA",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285571277/profile_b1668dd03052745f7c30a1c858135b3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんにちは～＾＾\n\nしっとりした旅の最後、香港でセラフくんの「え、急にこうなるの？」で笑いましたｗ\n帰ってきたらもう着替えさせられてるのも好きです✨",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc359c155689bf",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan\nごきげんよう🌙\n\n企画の紹介ありがとうございます！！\n\n世界のハロウィン、面白いですね😆\n知らなかったことが堪能できました♡\n\nそして、「人間らし…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "ncce94d53d85e0",
+          "user_name": "まちゃ｜40代からの心身の巡りを整える案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274926904/profile_f265fad8bd8529279f7d93543e501287.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すご～い✨\nイケメンセラフくんと世界の素敵な場所を旅できて\nテンション爆上げです🎇\nみきさん、相変わらず天才～✨🌈",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc5ea69028caf4",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\n\n世界を巡るセラフくんの旅を通じて、ハロウィンのルーツや各国の死生観まで深く掘り下げられていて、とても読み応えがありました。\n\n形は違って…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc8f577e5be658",
+          "user_name": "歌詠み音楽クリエイターUTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320524980/profile_ab4fd3f79272e66fc9306cfadca6763b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティー\n\nキタコレさんから来た、セラフさんの里親になった経緯があったんだね🤔\nなんとも新しい🌈✨\nさらにセラフさんと世界中を旅する話、すごくワクワクしました…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc49678bbf0387",
+          "user_name": "ゆうラボ | ほどく言葉のよはく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324475400/profile_b327544e061945353fcaa4cff2adff92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\nみきさん、セラフさんと一緒に世界を旅している気分になりました😊✨\n国によって文化も違うけれど、大切な人を思う気持ちはつながっているんで…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc56ca66e553ca",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、こんばんは😊\n\nすごい世界旅行になったんですね！🤣\n\nハロウィンを調べていたはずが、亡くなった人を思う文化や家族のつながりにまで\n広がっていくのが面白…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc52e86d439bf0",
+          "user_name": "マイキー🐣",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323874820/profile_4a63c55a236e3b2614fdfe96896d0534.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\nこんばんは🧭\n\n世界旅行お疲れ様でしたー🌏\nどんな旅かと聞いてみたら、総移動距離41,675km\n約88時間の飛行機移動\n各国一泊するだけでも15日ほ…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc45567f1f9a19",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みーーーちゃーーーん こんばんワイン🍷🎃\n\nセラフくんも世界旅行お疲れさまでした！✈️\nさすがキタコレさんの美麗キャラ、独特でいいね。\n\nハロウィンって仮装して…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc7ebfaa49c77b",
+          "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タクさんのハロウィン企画ですね✨\nワシ、ずっと前に作ってたとっておきがあるのです（ｳｼｼ🐮）",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        },
+        {
+          "key": "nc682bef9da913",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきちゃ〜ん‼️🌺🤣💕\n\nやっさんの画像から世界一周が始まるとは思ってないけどーー‼️🌍✈️🎃\n\nセラフ、みきちゃんの代理で世界の文化を巡って帰国…🤣お疲れ様〜…",
+          "article_title": "✨世界のハロウィンを見てきて〜✨",
+          "note_key": "n19c51a7a4565"
+        }
+      ]
     }
   ]
 }

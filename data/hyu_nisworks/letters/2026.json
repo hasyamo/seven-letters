@@ -2452,6 +2452,68 @@
           "note_key": "n5a6caf58a81c"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 150,
+        "likes_prev": 246,
+        "followers_start": 742,
+        "followers_end": 754,
+        "new_fans": 50,
+        "comments_total": 6,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "21:36",
+          "19:02"
+        ],
+        "top_article": {
+          "title": "共同マガジンに加わった素敵なクリエイターのご紹介　その15",
+          "key": "ne85b459173a9",
+          "likes": 44,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 29984
+        },
+        "commenters_count": 3
+      },
+      "comments": [
+        {
+          "key": "nc2a470c4cdb57",
+          "user_name": "ひらみん100円NOTE｜会社員のリアル検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322750999/profile_e01d03417d7baf45b1201e99d859de4e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フォロワー数そのものではなく、「どんな人が読んでくれているのか」「どんな人と交流できているのか」を見られるのが面白いですね。\n\nnoteを続けていると、単純な人…",
+          "article_title": "note Creator Summaryのご紹介",
+          "note_key": "n0f4d481967e1"
+        },
+        {
+          "key": "nce3e4776b9b01",
+          "user_name": "紡えり🐱　⁂GPT遊びに夢中⁂",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315609305/profile_2228c12696b77ff532353fe3f38b10ed.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\n記事掲載ありがとうございます！！\n面白記事を拾ってもらって、嬉しかったです(笑)",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その15",
+          "note_key": "ne85b459173a9"
+        },
+        {
+          "key": "nc99263f2f3ff0",
+          "user_name": "工藤康博🥎高校野球チーム育成　研究note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/87041895/profile_ca7c9ba73101e20f94d1a6f9f83ba001.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ご紹介いただき、ありがとうございます！",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その15",
+          "note_key": "ne85b459173a9"
+        }
+      ]
     }
   ]
 }

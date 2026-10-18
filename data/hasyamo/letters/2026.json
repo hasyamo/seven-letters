@@ -12592,6 +12592,354 @@
           "note_key": "nbdc761df258d"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": true,
+      "stats": {
+        "likes_total": 345,
+        "likes_prev": 479,
+        "followers_start": 743,
+        "followers_end": 757,
+        "new_fans": 37,
+        "comments_total": 53,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30",
+          "07:30"
+        ],
+        "top_article": {
+          "title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。｜おはようカノジョ #310",
+          "key": "nbf00b0797248",
+          "likes": 51,
+          "comments": 15
+        },
+        "notable_reader": {
+          "name": "川口 博史　/ 　小学校創立する人",
+          "urlname": "lightsign",
+          "follower_count": 41908
+        },
+        "commenters_count": 15
+      },
+      "comments": [
+        {
+          "key": "nc319cbb2f1de4",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和ちゃーん💜遅くなりました。\n昼ごはん食べて昼寝してたから🐮になりました。\n毎日リズムは違うのでその日その日の今日の\nリズムがいいね。\n\nはしゃくーーん、こん…",
+          "article_title": "Sunoで7人のテーマソング制作。日曜日は日和の『今日のリズムで』",
+          "note_key": "n85d1807686d5"
+        },
+        {
+          "key": "nc8ebb64b73890",
+          "user_name": "clair de lune♪リュミエール♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318994941/profile_25c88cf7cbfc18a6082f9e864ca20b81.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和さん✨😻✨\nファンになりましたぁ💕\n「焼けたパンのいい匂い🥪✨」\nなんだかホッ♪としてよかった\nです〜♪(⁠≧⁠▽⁠≦⁠)％✨\n",
+          "article_title": "Sunoで7人のテーマソング制作。日曜日は日和の『今日のリズムで』",
+          "note_key": "n85d1807686d5"
+        },
+        {
+          "key": "nc163221e406a9",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n今日の曲も素敵でした✨\n穏やかなバラードではなく、弾むリズムなのに、歌詞では相手を急かさない。その意外性が、はしゃもさんの思う日和…",
+          "article_title": "Sunoで7人のテーマソング制作。日曜日は日和の『今日のリズムで』",
+          "note_key": "n85d1807686d5"
+        },
+        {
+          "key": "ncf2489c8ad673",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "完走？お疲れ様でした！！\n\nsunoがおもしろいんですよねー！！\n次、ライブみたいにつくりましょ！",
+          "article_title": "Sunoで7人のテーマソング制作。日曜日は日和の『今日のリズムで』",
+          "note_key": "n85d1807686d5"
+        },
+        {
+          "key": "nc9980af0808bc",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日和さんの曲よかったです✨\n日曜日のうきうきにぴったりかも！\n\nサビのメロディーがかわいく弾んで、楽しく聴けました！\n\n「相手の歩幅を、勝手に決めない」っていい…",
+          "article_title": "Sunoで7人のテーマソング制作。日曜日は日和の『今日のリズムで』",
+          "note_key": "n85d1807686d5"
+        },
+        {
+          "key": "ncc7d82ee61a06",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n『行き先は、あとで』、素敵でした✨\n眠たげなまひるさんにダークなロックを合わせた意外さと、「答えを急がない」歌詞の食い違い。そうい…",
+          "article_title": "Sunoで7人のテーマソング制作。土曜日はまひるの『行き先は、あとで』",
+          "note_key": "n6f7434b8f3a3"
+        },
+        {
+          "key": "nc13ea6a6c8f1f",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "行き先はあとで、かっこいいですね！\n「書きかけの　メモはそのまま\n捨てる理由も　ないからね」\nこの歌詞が好きです🥰",
+          "article_title": "Sunoで7人のテーマソング制作。土曜日はまひるの『行き先は、あとで』",
+          "note_key": "n6f7434b8f3a3"
+        },
+        {
+          "key": "nc596199736673",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まひるちゃーん、こんにちは。\n今時の声と曲だね、めっちゃかっこいい。\nギャップ萌えだわ💜\n\nはしゃ君こんにちは🌞\nこんな音楽生成が流行ってもボカロは\nボカロで人…",
+          "article_title": "Sunoで7人のテーマソング制作。土曜日はまひるの『行き先は、あとで』",
+          "note_key": "n6f7434b8f3a3"
+        },
+        {
+          "key": "nc56e94697a6b1",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "まひるさんの曲意外でした！かっこよかった！\n行き先はあとで、かぁ。\n今ちょっと、いろいろ後回しにしたい気持ちだったので、少しらくになりました^^",
+          "article_title": "Sunoで7人のテーマソング制作。土曜日はまひるの『行き先は、あとで』",
+          "note_key": "n6f7434b8f3a3"
+        },
+        {
+          "key": "ncf932bac73b95",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "明日で完了？！\nアルバムっすね！",
+          "article_title": "Sunoで7人のテーマソング制作。土曜日はまひるの『行き先は、あとで』",
+          "note_key": "n6f7434b8f3a3"
+        },
+        {
+          "key": "nc634f48171660",
+          "user_name": "Kinu｜AIイラストと発信づくり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212081540/profile_14b41bb3e4800abeb548f417be441447.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは〜！\n\nるなちゃん、今日も可愛いですね🥰\n\n男性ヴォーカルいい感じ✨\nsuno沼すぎて、抜け出せません😂\n\n土日は私も創作しようと思いま…",
+          "article_title": "Sunoで7人のテーマソング制作。金曜日はるなの『気づけば、君のペース』",
+          "note_key": "nd8344fa9149c"
+        },
+        {
+          "key": "nc9af6fd78b7e3",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "るなちゃーーん、こんにちは。\nキャー見える見える見えんかった💦\n\nはしゃ君こんにちは🌞会社だから\n聞けないけどまさか男性ヴォーカルて････まさかまさか💦\nキタ…",
+          "article_title": "Sunoで7人のテーマソング制作。金曜日はるなの『気づけば、君のペース』",
+          "note_key": "nd8344fa9149c"
+        },
+        {
+          "key": "nce9556f80c29f",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あら、るなさんが歌うんだと思ったけど、「あの人」が歌った方がいいか！\nいや、声かっこいいですね！\n\n男声使ったことなくて（以前意図せず入ってきたことあるけど）、…",
+          "article_title": "Sunoで7人のテーマソング制作。金曜日はるなの『気づけば、君のペース』",
+          "note_key": "nd8344fa9149c"
+        },
+        {
+          "key": "nc5c9f859d210a",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます！\nあと、土日も制作ですよね！？",
+          "article_title": "Sunoで7人のテーマソング制作。金曜日はるなの『気づけば、君のペース』",
+          "note_key": "nd8344fa9149c"
+        },
+        {
+          "key": "nc57f4f94bf82f",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n誰の視点で歌うかで、キャラクターの見え方が変わるというお話に、なるほどと思いました💫\n\nまさかの男性ボーカルでしたが、るなさんの自…",
+          "article_title": "Sunoで7人のテーマソング制作。金曜日はるなの『気づけば、君のペース』",
+          "note_key": "nd8344fa9149c"
+        },
+        {
+          "key": "ncb36e2af32a05",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あれ？\n昨日見逃してたのかな、不覚・・・！\n\n凛華さん、ドレスめっちゃエレガントですてき♡\nでも、後ろのシルエットは・・・言わないだけの本音なのかな？\n\n曲の仕…",
+          "article_title": "Sunoで7人のテーマソング制作。木曜日は凛華の『言わないだけ』",
+          "note_key": "n6a3f45531f67"
+        },
+        {
+          "key": "nca626b4cf5ec5",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n凛華さんらしくカッコよくて、素敵な曲でした☺️\n言葉にしないぶん、鍵やドアの音に気持ちがにじむところが、凛華さんらしいなと思いまし…",
+          "article_title": "Sunoで7人のテーマソング制作。木曜日は凛華の『言わないだけ』",
+          "note_key": "n6a3f45531f67"
+        },
+        {
+          "key": "nc8258fdb9f451",
+          "user_name": "ken ｜ 完全無課金AI戦略 × note運営",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296575487/profile_b68fd00c1aa47de120d43e7c989bb96e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凛華ちゃん！！\nエレガントや〜🤤\nスタイルも良すぎー！\n\n帰り道車で聞きますねー🤭",
+          "article_title": "Sunoで7人のテーマソング制作。木曜日は凛華の『言わないだけ』",
+          "note_key": "n6a3f45531f67"
+        },
+        {
+          "key": "ncf20c91325cb5",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "凛華ちゃんチャオ😍\nこの勢いだと来週には、はしゃ君リアル歌もセットでアルバムでるね。\n\nはしゃ君こんにちは\n今日の日替わりはおでん🍢でした。\n私の黒歴史を披露し…",
+          "article_title": "Sunoで7人のテーマソング制作。木曜日は凛華の『言わないだけ』",
+          "note_key": "n6a3f45531f67"
+        },
+        {
+          "key": "ncf58c3102159d",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「…わかってよ」\n可愛いすぎますw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️",
+          "article_title": "Sunoで7人のテーマソング制作。木曜日は凛華の『言わないだけ』",
+          "note_key": "n6a3f45531f67"
+        },
+        {
+          "key": "nc7560f87e8ad4",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "言いかけてやめたこと、言おうとしたことがあること、お互いそれをわかっているけど、あえては聞かない。\nでも行ってらっしゃい、って笑える。\nそのままでいられる。\n\n…",
+          "article_title": "Sunoで7人のテーマソング制作。水曜日はしずくの『言いかけたままで』",
+          "note_key": "n0798dfc73300"
+        },
+        {
+          "key": "nc498c060d72ce",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "しずくちゃんチャオ💧\n今会社やから帰宅中に聴きますね🎵\n\nはしゃ君こんにちは😃\n推し庭マスがラス１で植えたいものが\n出ないからスキップしてます。\nちょこがけ🍄く…",
+          "article_title": "Sunoで7人のテーマソング制作。水曜日はしずくの『言いかけたままで』",
+          "note_key": "n0798dfc73300"
+        },
+        {
+          "key": "nc3ad74c109693",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "新たな沼へのようこそ？！笑\n自分で1番ハマってるかもです、、、笑",
+          "article_title": "Sunoで7人のテーマソング制作。水曜日はしずくの『言いかけたままで』",
+          "note_key": "n0798dfc73300"
+        },
+        {
+          "key": "nca709a6d215a8",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます☔️\n面白いですね‼️イメージソング♥️\n月子ちゃんの曲が今のところお気に入りかなꉂ🤭\n後続に控えてるメンバーの曲も楽しみにして…",
+          "article_title": "Sunoで7人のテーマソング制作。水曜日はしずくの『言いかけたままで』",
+          "note_key": "n0798dfc73300"
+        },
+        {
+          "key": "ncc2753c70cb8e",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n今日の曲も聴かせていただきました💫\nしずくちゃんらしさも感じられて、とても素敵でした✨\n朝のテーブルから玄関までの、やわらかい空気…",
+          "article_title": "Sunoで7人のテーマソング制作。水曜日はしずくの『言いかけたままで』",
+          "note_key": "n0798dfc73300"
+        },
+        {
+          "key": "ncff35d90b871c",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n「その1歩は君のもの」陽ちゃんの明るく優しい相手を尊重してくれる感じがしました⸜(*˙꒳˙*)⸝\n月子ちゃんとはまた全然違う(*´艸…",
+          "article_title": "Sunoで7人のテーマソング制作。火曜日は陽の『その一歩は、君のもの』",
+          "note_key": "n5eb77251bf44"
+        },
+        {
+          "key": "ncb2a6bfd98526",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「その一歩は君のもの」\nなんだか、少しだけ、泣きました、",
+          "article_title": "Sunoで7人のテーマソング制作。火曜日は陽の『その一歩は、君のもの』",
+          "note_key": "n5eb77251bf44"
+        },
+        {
+          "key": "nc2dbb34aa1175",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "陽ちゃんこんにちは☀️\n\nそっちなんだ　\n\n連休明けはだるだるです。\n頑張ってきます。\n\nはしゃくーん、こんにちは☀️✨\n\nなんだかアイマスかラブライブみたいに…",
+          "article_title": "Sunoで7人のテーマソング制作。火曜日は陽の『その一歩は、君のもの』",
+          "note_key": "n5eb77251bf44"
+        },
+        {
+          "key": "nceca03f2b6e33",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはようございます♪\n\nきゃー🫣陽ちゃんの曲❣️\n素敵❣️\nうちわ作って応援📣しなきゃ‼️\n買いに行ってくるわ",
+          "article_title": "Sunoで7人のテーマソング制作。火曜日は陽の『その一歩は、君のもの』",
+          "note_key": "n5eb77251bf44"
+        },
+        {
+          "key": "nc03a140b1f414",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、おはよう☺️\n\n今日の曲も、朝にぴったりで素敵でした✨\n答えを決めないで、一歩を選ぶ瞬間を一緒に喜んでくれる陽さんの見送り方が、あたたかいなと思い…",
+          "article_title": "Sunoで7人のテーマソング制作。火曜日は陽の『その一歩は、君のもの』",
+          "note_key": "n5eb77251bf44"
+        },
+        {
+          "key": "nc145d031eba72",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n歌詞の「見送るわ」ってフレーズ月子さんらしさ出てました⸜(*˙꒳˙*)⸝\n月曜日憂鬱な気分をテンポの良さが補って爽快感に変わってます…",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "nc699ff2198204",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ツールがあると、どんどん曲ができますね🙌\nSunoの音、キラキラなので、吸引力あります💕\nキャラによる作り分け、面白そうですね😊",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "nc017319966388",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はしゃもさん、こんばんは🌙\n\n『次の一秒へ』、朝にぴったりの素敵な曲でした💫\n1曲のつもりが7人分になっていく沼の様子も、読んでいて楽しかったです🤭\n明日の陽さ…",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "ncba31ac883a7f",
+          "user_name": "あいびより。AIクリエイターの日常🐾",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322621857/profile_217b7bc112318c977769a99ea6a6b306.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "曲作り楽しそうですね〜🤣\nまだ作ったことないけど、作り始めると沼っちゃうんだろうなぁっては思いますꉂ(ˊᗜˋ*)",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "nc7cc4e7f8a1df",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249464808/profile_d4725fb31aebb01259ae2d468cb09492.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "月子ちゃーん、おはよう🌞\n月曜日休みって最高ですねー🎌\n次の1秒へ、素敵な曲。\n他のカノジヨたちも楽しみにしてます。\n\nはしゃ君こんにちは。\n寝たり起きたり、こ…",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "nc22b8090c0f5a",
+          "user_name": "はるかな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/310440155/profile_1493ca82064a22fbf5bde6a3f225bb3e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "曲づくり楽しいですよね！\n…わたしはKITAさんのツールは使わないけど…歌詞は自分で書きたいから…。\n\n「どちらも間に合う その予定\n答えを急いで 渡すより\nあ…",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "ncf5fa72a89f40",
+          "user_name": "トモ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315525927/profile_1ff28a68321c434adbfd0235d5455d5f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "気になって曲聴いたら、声のトーンもいいし、朝からいい気分になれました。\nぜひまた載せてください！",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        },
+        {
+          "key": "ncb84188691eb8",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうなのか、ごめんなさいなのか　わからないですがw\n毎週楽しみにしておきますww\n\nこの次は、リリックビデオですよwww",
+          "article_title": "Sunoで月子のテーマソングを作ったら眠たかった。そこから7人分の制作が始まった。",
+          "note_key": "nbf00b0797248"
+        }
+      ],
+      "rare_no": 5
     }
   ]
 }

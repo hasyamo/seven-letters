@@ -5798,6 +5798,230 @@
           "note_key": "n123f687039bc"
         }
       ]
+    },
+    {
+      "week": "2026-W42",
+      "period": {
+        "start": "2026-10-12",
+        "end": "2026-10-18"
+      },
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
+      "stats": {
+        "likes_total": 356,
+        "likes_prev": 355,
+        "followers_start": 827,
+        "followers_end": 847,
+        "new_fans": 81,
+        "comments_total": 44,
+        "posts_count": 12,
+        "consecutive_days": 7,
+        "post_times": [
+          "15:00",
+          "06:30",
+          "22:00",
+          "21:30",
+          "08:30",
+          "06:00",
+          "06:00",
+          "06:00",
+          "12:30",
+          "06:00",
+          "20:00",
+          "06:30"
+        ],
+        "top_article": {
+          "title": "美しい線は、正しい骨格を保証しない。｜ベクター線からミュシャ、そして腕💪へ",
+          "key": "n85a79b09eb9f",
+          "likes": 47,
+          "comments": 9
+        },
+        "notable_reader": {
+          "name": "天豆　てんまめ",
+          "urlname": "tenmame0720",
+          "follower_count": 21801
+        },
+        "commenters_count": 11
+      },
+      "comments": [
+        {
+          "key": "ncb5a3077d768f",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、なんとかできましたー\n\nめじゅさんにも登場してもらってます🤭",
+          "article_title": "ハロウィンアート2026 | 準備は出来てますか～？めじゅは…まだですw",
+          "note_key": "n79406afa1170"
+        },
+        {
+          "key": "ncf65731bd49a9",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325507135/profile_a26a91057b7f19436fe2be705355a240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "モンサンミシェルとヴェルサイユ宮殿だ！ (≧◡≦)ﾉ💞\n汽車がいいですねぇ (,,>᎑<,,)✨💖\n朝の猫の尻尾がほどけてるの、最初気付かんかった…(ﾟдﾟ；)",
+          "article_title": "おはよう🌄、世界。おやすみ🌌、世界。",
+          "note_key": "nfc38c89cb736"
+        },
+        {
+          "key": "ncae04edb0bd5f",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさ〜ん🌺\n\nおおーー‼️ 小さな美術館、展示替えですねーー‼️🎨🌄🌌\n\n前回はパン泥棒が逃走してましたが、今回は猫ちゃんに幻想的な汽車まで登場ーー‼️🤣🚂…",
+          "article_title": "おはよう🌄、世界。おやすみ🌌、世界。",
+          "note_key": "nfc38c89cb736"
+        },
+        {
+          "key": "nc35402d6bbbcb",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん\nおはようございます✨\n\nどれも素敵…😳\nでも特に、\n海が吐き出した、小さな世界\nが好きです✨✨\n\nめちゃくちゃ素敵でした😍",
+          "article_title": "おはよう🌄、世界。おやすみ🌌、世界。",
+          "note_key": "nfc38c89cb736"
+        },
+        {
+          "key": "nce73f00edb40a",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ついに2期が！お値段は高くないと思うよ♪めじゅちゃんのやっていることは、これからもっと評価されていくよ💖",
+          "article_title": "寺子屋めじゅ | メンシプ専用 | 🌱スタエフ配信🌱 | 第11回**め印**スタエフ便🌟",
+          "note_key": "n3dbd43c7ebe7"
+        },
+        {
+          "key": "nc5e620ef3188c",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさ〜ん🌺\nおはよー😎\n\n「AIに褒めてもらうな。違和感を掘り起こせ。」とはーー‼️😳💡\n\n褒め言葉をうのみにせず、根拠まで確かめる五段構えの型紙‼️ 勉強…",
+          "article_title": "AIに褒めてもらうな。違和感を掘り起こせ。",
+          "note_key": "n26baf3338470"
+        },
+        {
+          "key": "nc6e01cc29622c",
+          "user_name": "ＫＥＮＢＡ７７７",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316137598/profile_3f46044a485a49971d80c1aef1e7c85f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お初です。\nＡＩの、では最後に質問です。はやめてほしいですね。\n質問に答えても、では最後に質問です。\n\nその質問をですにして差し上げあげましょうか？\nそんな感じ…",
+          "article_title": "AIに褒めてもらうな。違和感を掘り起こせ。",
+          "note_key": "n26baf3338470"
+        },
+        {
+          "key": "nc8dad7baad5b4",
+          "user_name": "Kai（カイ）｜Intentus",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259402004/profile_7f61ae6b183d143cd7c2aba02eb720a9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。めじゅさん。\nデザインをオケに例えるところ、とても腑に落ちるものがありました。\nそれぞれの役割分担というか、調和....。読んでいて思わず膝を打ちま…",
+          "article_title": "美しい線は、正しい骨格を保証しない。",
+          "note_key": "n85a79b09eb9f"
+        },
+        {
+          "key": "nc3427ca6a6d13",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この手法をポン出しビルダーに入れて試したいです😆",
+          "article_title": "美しい線は、正しい骨格を保証しない。",
+          "note_key": "n85a79b09eb9f"
+        },
+        {
+          "key": "nc992b701e5ce0",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325507135/profile_a26a91057b7f19436fe2be705355a240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人体の不整合はなんとなく違和感を感じるからすぐわかるよね(笑)\n\n今回は、\n頬杖を付かせたい→腕は画面手前の右腕\n顔は綺麗に描きたい→手と頬は奥\n結果、右腕の先…",
+          "article_title": "美しい線は、正しい骨格を保証しない。",
+          "note_key": "n85a79b09eb9f"
+        },
+        {
+          "key": "nc04bde03ee8cb",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさ〜ん🌺\n\nベクター線からミュシャ、最後は「腕💪」とはーー‼️🤣\n\n美しい画像でも骨格は別問題‼️\nAI任せにしない観察眼、大切ですね〜😎✌️\n\nここで一…",
+          "article_title": "美しい線は、正しい骨格を保証しない。",
+          "note_key": "n85a79b09eb9f"
+        },
+        {
+          "key": "nc1fb72454654f",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさ〜ん🌺\n\nGitHub殿への愛が止まりませんねーー‼️🤣💘\n\n「受け取ることと、採用することは別」\nこれ、人間関係でも大切な考え方ですね〜👏✨\n\nやっさ…",
+          "article_title": "受け取る。でも、採用するとは限らない。",
+          "note_key": "n03c88e95b7ae"
+        },
+        {
+          "key": "nc63b0678d64ea",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん✨\nおはようございます😊\n\nBoboくん、めっちゃいい😆🎃💛\nついつい見入っちゃいました🎵\n\nハロウィン感がマシマシで、\nこっちまで気分があがってきま…",
+          "article_title": "🎃 Boboからのお誘い💕 ハロウィンアート2026へようこそ‼️",
+          "note_key": "n9aea9f61854b"
+        },
+        {
+          "key": "nce4a7041d74f4",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは～！\nサムネイル、いいですね😆🎃🪔\n内側から光っているBoboくん、\n笑顔でのお誘いありがとうございます😆🙌✨️\n\nマガジンに収納させてい…",
+          "article_title": "🎃 Boboからのお誘い💕 ハロウィンアート2026へようこそ‼️",
+          "note_key": "n9aea9f61854b"
+        },
+        {
+          "key": "ncf30aef3530cc",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325507135/profile_a26a91057b7f19436fe2be705355a240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最後のBoboさん、メッチャいいっスね‼️\n思わず俺もキモい笑顔を浮かべてしまいました🤣🤣🤣",
+          "article_title": "🎃 Boboからのお誘い💕 ハロウィンアート2026へようこそ‼️",
+          "note_key": "n9aea9f61854b"
+        },
+        {
+          "key": "nc6a91058c453c",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさ〜ん🌺\n\nBoboのキモかわ招待状、最高ーー‼️🤣🤣🤣\n参加者126名→やっさん含む〜👏✨\n19日の開幕が楽しみです‼️🎠💕\n\nここで一句💡👻\n\nお化け…",
+          "article_title": "🎃 Boboからのお誘い💕 ハロウィンアート2026へようこそ‼️",
+          "note_key": "n9aea9f61854b"
+        },
+        {
+          "key": "nc7aed1811493f",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、\n興味深い漫画の紹介ありがとうございます！\n\n私も漫画、小説大好きです❤️\nジャンルが広くていろいろですが🤭\n\n読み出したら止まらない🤣\n課金も止ま…",
+          "article_title": "『龍ノ国幻想』",
+          "note_key": "n55f5295bf35e"
+        },
+        {
+          "key": "nc0b747095d54b",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、どれもかわいいです😍時計素敵✨\n鼻の穴大きくなってないですよ〜🤣",
+          "article_title": "動物マシーンで遊んでいたら、やっさんから贈り物が届いた💕︎",
+          "note_key": "nc46f62accc24"
+        },
+        {
+          "key": "ncdbab8a045855",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "この動物マシーンのやつ、ちっぷちゃんのところで見たけど流行りそうね🐱",
+          "article_title": "動物マシーンで遊んでいたら、やっさんから贈り物が届いた💕︎",
+          "note_key": "nc46f62accc24"
+        },
+        {
+          "key": "nc8de3c373266c",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🌺\n\nうわぁ〜‼️素敵な記事にしていただき、ありがとうございます〜🤣💕🙌\n\nめじゅさんの型紙からイーグル号🦅が誕生して、今では動物マシーン仲間が続々と…",
+          "article_title": "動物マシーンで遊んでいたら、やっさんから贈り物が届いた💕︎",
+          "note_key": "nc46f62accc24"
+        },
+        {
+          "key": "nc563b7fd092e3",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325507135/profile_a26a91057b7f19436fe2be705355a240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1枚目の葉っぱの画像が凄く綺麗✨\nあと夜のキノコも素敵です (♡˙︶˙♡)",
+          "article_title": "おはよう🌄、世界。おやすみ🌌、世界。",
+          "note_key": "n8a7be271a34c"
+        },
+        {
+          "key": "ncab36b8974e5e",
+          "user_name": "🌺やっさん（yasuda）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324164483/profile_7b53294014f544d44cc03960697b28de.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん🌺\n\n朝と夜でこんなに世界が変わるなんて、素敵な美術館ですねーー‼️🍁🌙✨\n\n葉っぱが宝石になって、最後はパン泥棒が逃走⁉️🤣🥖💨\n展示作品の管理、強…",
+          "article_title": "おはよう🌄、世界。おやすみ🌌、世界。",
+          "note_key": "n8a7be271a34c"
+        }
+      ]
     }
   ]
 }
