@@ -3950,6 +3950,175 @@
           "note_key": "nd80d72d70a23"
         }
       ]
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 512,
+        "likes_prev": 440,
+        "followers_start": 1882,
+        "followers_end": 1906,
+        "new_fans": 60,
+        "comments_total": 30,
+        "posts_count": 12,
+        "consecutive_days": 7,
+        "post_times": [
+          "19:00",
+          "10:00",
+          "19:00",
+          "14:25",
+          "19:00",
+          "07:00",
+          "19:00",
+          "06:30",
+          "19:43",
+          "00:00",
+          "10:48",
+          "07:44"
+        ],
+        "top_article": {
+          "title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
+          "key": "na666593aeac0",
+          "likes": 52,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "ハニハニ",
+          "urlname": "hani8203",
+          "follower_count": 10086
+        },
+        "commenters_count": 11
+      },
+      "comments": [
+        {
+          "key": "ncc31f8e39054c",
+          "user_name": "ひらみん100円NOTE｜会社員のリアル検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322750999/profile_e01d03417d7baf45b1201e99d859de4e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回は春音側の気持ちがすごく伝わってきました😊\n\nコードの\n「明日の俺、頑張れ」\nに楽屋で小さく「……頑張れ」と返しているところ、もう完全に気になっていますよね…",
+          "article_title": "僕のコンテキストは彼女で埋まっている　第006話",
+          "note_key": "n4217cf3a5e05"
+        },
+        {
+          "key": "nc4b538deb0c5d",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "テレビでも、PHPの脆弱性と、それに対する不完全な対策をさらに回避する攻撃について取り上げていました。\n\n技術的な問題だけでなく、組織の意思決定の遅れが、実際の…",
+          "article_title": "作る仕事と、守る仕事。──最近のお仕事の話と、お礼とお詫び",
+          "note_key": "ncb6045a8d779"
+        },
+        {
+          "key": "nc2c704f5d4810",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、お疲れさまです(｀･ω･´)ゞ\n意思決定はね…大きい会社になればなるほど上に稟議を、みたいなのありますよね💦\n\nこのタイミングでAmazonアカウン…",
+          "article_title": "作る仕事と、守る仕事。──最近のお仕事の話と、お礼とお詫び",
+          "note_key": "ncb6045a8d779"
+        },
+        {
+          "key": "nc35dc0c15a085",
+          "user_name": "Ph.D Hicocho",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299599314/profile_ec5eace44d0dcad398a2150286dcfe8b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさんのnote拝見しました。「過去に培った技術や経験を、今の仕事につなぎ直しています」に、とても共感しました。新しい問題に向き合うとき、昔の引き出しが思わ…",
+          "article_title": "作る仕事と、守る仕事。──最近のお仕事の話と、お礼とお詫び",
+          "note_key": "ncb6045a8d779"
+        },
+        {
+          "key": "nc78ada038f1b3",
+          "user_name": "ひらみん100円NOTE｜会社員のリアル検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322750999/profile_e01d03417d7baf45b1201e99d859de4e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「僕のコンテキストは彼女で埋まっている」\nやっぱりこのタイトル、すごく好きです😊\n\nAIでは「コンテキスト」という少し無機質な言葉なのに、人間に置き換えると、\n…",
+          "article_title": "僕のコンテキストは彼女で埋まっている　第004話",
+          "note_key": "neca8c06779ce"
+        },
+        {
+          "key": "ncdc03b556d637",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん、エンジニアさんはお忙しい時期ですね！\nていねいな解説ありがとうございます🙌\n返信不要です(;'∀')",
+          "article_title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
+          "note_key": "na666593aeac0"
+        },
+        {
+          "key": "nc6d02ce600d4d",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒い黒パグさーーーーん、こんばんは🌙\n\n難しいことを昔話でわかりやすく説明してくださって、ありがとうございます😊\n\n今、めちゃめちゃお忙しいと思いますが、どうか…",
+          "article_title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
+          "note_key": "na666593aeac0"
+        },
+        {
+          "key": "nc9bc81f6aaf41",
+          "user_name": "かっぱの庵",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/169525688/profile_3908df5d317e1d614be9864701a72351.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nニュースでも見ていたし、翌日にはあちこちのサイトで影響がでていたので…\n思った以上に広範囲で「普通に使うとこの身近な話」だったんだな…と実…",
+          "article_title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
+          "note_key": "na666593aeac0"
+        },
+        {
+          "key": "nc7823bb5fdc4b",
+          "user_name": "quiet_borage6765",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281421413/profile_6ced73ce3f2b78af10dd41a0ad42b481.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\n\n水曜夜に緊急メンテナンス中のお知らせがいろいろ来て、PHPって何?ってChatGPTに聞きました。わかりやすい解説をありがとうございます…",
+          "article_title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
+          "note_key": "na666593aeac0"
+        },
+        {
+          "key": "nc15b88a4a9ab5",
+          "user_name": "パンソン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274319345/profile_c96aa1949dc41f1a9ab17e12073ea29d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさん\n\n　おはようございます。\nうちの夫が、昨日はこの一件で仕事にならなかったそうです。\n現場一筋の私は「大変だったねー」と声がけするだけしかできませんで…",
+          "article_title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
+          "note_key": "na666593aeac0"
+        },
+        {
+          "key": "ncd3f02a98c89c",
+          "user_name": "夢炉　～ユメウツツな溶鉱炉～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/237382954/profile_64a90108d5bfe0099553ebf8ffd9bf0d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひょえー！未知の職種名がたくさん！😵こんなに種類あるんですね！\n\nそして「ラップトップもちこみ」が\n「ラップトップもこみち」に見えちゃいした🤣🌸\n",
+          "article_title": "【保存版】よく聞く「えーあい」関連のお仕事一覧あいうえお順に、まずは20のお仕事から。　補遺に膨大な資料付き！！エクセルファイルもあるよ！",
+          "note_key": "nb169795794ad"
+        },
+        {
+          "key": "nc76058c7960de",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーん、こんばんは。\nんもうめっちゃ可愛い🐾\n黙っていられなかったです。\n\n私も、AI漫画家って名乗っていいかしら？\nおやすみなさい\n明日もがんばりましょ…",
+          "article_title": "【保存版】よく聞く「えーあい」関連のお仕事一覧あいうえお順に、まずは20のお仕事から。　補遺に膨大な資料付き！！エクセルファイルもあるよ！",
+          "note_key": "nb169795794ad"
+        },
+        {
+          "key": "nc523cd0797c31",
+          "user_name": "cad_akiko",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270987381/profile_abdbb8518ff6edc43bfc89a80a6b7763.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こういう資料が欲しかったです！\n\nAI関連の職種は、名前だけ見ても具体的にどんな仕事をするのか分かりにくいので、仕事内容や成果物まで整理されていて、大変よく分か…",
+          "article_title": "【保存版】よく聞く「えーあい」関連のお仕事一覧あいうえお順に、まずは20のお仕事から。　補遺に膨大な資料付き！！エクセルファイルもあるよ！",
+          "note_key": "nb169795794ad"
+        },
+        {
+          "key": "nc7aa9a95f9261",
+          "user_name": "AI社員運用記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316107719/profile_0a40ecf5d04713b3f3df080e33b7462f.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "過去の専門性が資産になる一方で、呼び出される側の負担は消えない現実ですね。不眠対応は本当につらい。CWEの箱に押し込む比喩は、数値型の制約を直感的に理解できまし…",
+          "article_title": "逆境は偉大な教師である。ただし授業料が高すぎる。　突発的な難題に向き合う考え方　エンジニアが見ている視点のお話🎃",
+          "note_key": "na994faf69dbd"
+        },
+        {
+          "key": "nc8397eabcd73d",
+          "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "黒パグさーーーん、こんにちは🐶🎃\n\n丸2日間、ほぼ不眠での障害対応ですか！！\n本当にお疲れさまでした。\n\nヘレン・ケラーやシェイクスピア、偉人たちの言葉を絡めな…",
+          "article_title": "逆境は偉大な教師である。ただし授業料が高すぎる。　突発的な難題に向き合う考え方　エンジニアが見ている視点のお話🎃",
+          "note_key": "na994faf69dbd"
+        }
+      ],
+      "rare_no": 2
     }
   ]
 }

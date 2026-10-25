@@ -6425,6 +6425,332 @@
           "note_key": "n67b309a501b3"
         }
       ]
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 778,
+        "likes_prev": 790,
+        "followers_start": 5636,
+        "followers_end": 5638,
+        "new_fans": 85,
+        "comments_total": 66,
+        "posts_count": 18,
+        "consecutive_days": 7,
+        "post_times": [
+          "22:00",
+          "21:00",
+          "09:00",
+          "21:00",
+          "09:00",
+          "21:00",
+          "06:00",
+          "21:33",
+          "20:03",
+          "06:00",
+          "21:00",
+          "20:08",
+          "06:00",
+          "21:00",
+          "06:00",
+          "21:00",
+          "20:00",
+          "06:00"
+        ],
+        "top_article": {
+          "title": "手袋の片方を、三日あずかっていました｜駅のホーム｜地図にない灯り",
+          "key": "nb835ca7ca3d2",
+          "likes": 62,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 18242
+        },
+        "commenters_count": 21
+      },
+      "comments": [
+        {
+          "key": "ncb8cd1528da80",
+          "user_name": "カモミール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292743934/profile_f29fb47a7423a0ddcbd3f4bd4b498a35.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは\n素敵な紹介をしていただきありがとうございます\nとても嬉しいです😊",
+          "article_title": "今週のメンバーさん紹介",
+          "note_key": "n9b2d0f9dd6a7"
+        },
+        {
+          "key": "nce393ce0e681f",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは。\n紹介記事の中に自分のも入れてくださっていて、嬉しいです。\nいつも、本当にありがとうございます！\nこれからもコツコツと書くことを続けていき…",
+          "article_title": "今週のメンバーさん紹介",
+          "note_key": "n9b2d0f9dd6a7"
+        },
+        {
+          "key": "ncf77f54b8c806",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「眠っている力に、気づく」日。\n> 日曜日。秋が深まってきましたね。\n> ドラゴンは、いつも火を吹いているわけでは…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n7ecc69258a55"
+        },
+        {
+          "key": "nc6c0bedebcfdf",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます♪\n\nわたしも一年前には\n想像もしてないことをしてますから、誰でも、眠ってる力はあると思ってます\n\n今日は満月でしようか？少し眠ってる力に思い…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n7ecc69258a55"
+        },
+        {
+          "key": "nc6ed5181b6e63",
+          "user_name": "りこ@一生養生",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323181609/profile_8fa6838258e5f9f550d6446f0d75b4c9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌙\nかっ、可愛い😊💕",
+          "article_title": "アカリウム おばけ深海魚",
+          "note_key": "nca7d2eea95dc"
+        },
+        {
+          "key": "nc953b8dcbe9f3",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「足元に、戻ってくる」日。\n> 土曜日。朝の空気が冷たくなってきましたね。\n> 大地は、雨の日も風の日も、 \n> …",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nf4ff940e7cfd"
+        },
+        {
+          "key": "nc72bc84db5510",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「静かになってから、映るものを見る」日。\n> 金曜日。今日は霜降です。\n> 霜降は「霜が降りはじめるころ」という名…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "ne0abaef8a11f"
+        },
+        {
+          "key": "nc5c51d16e27a5",
+          "user_name": "八巻さき｜ネットで始める個人ビジネス実践note",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309739916/profile_8c09b61277a6692ddf964f6004c2c6ea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、ご紹介ありがとうございます✨嬉しいです♪",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "ne0abaef8a11f"
+        },
+        {
+          "key": "nc42fb4de47f7d",
+          "user_name": "甲田和美｜AI時代のWeb戦略デザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/201886304/profile_0fd857b95183ae20622bd64c79158a4d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん！ご紹介ありがとうございます！",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "ne0abaef8a11f"
+        },
+        {
+          "key": "ncda45e0deaf9d",
+          "user_name": "めりこ｜人生編集クリエイター　人生は、1人で書くにはもったいない",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/328025430/profile_ed2f8669549c2a7c21d2fe33adaab684.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "水晶ゆめさん！こんばんは♪\n素敵なショートショート💕\n\n辛子色の手袋の人に会えるかなーと会えたら良いなーと思いつつ読んでました😉\nいいですね🍀\nまた読ませていた…",
+          "article_title": "手袋の片方を、三日あずかっていました",
+          "note_key": "nb835ca7ca3d2"
+        },
+        {
+          "key": "nc4c82a2f397f2",
+          "user_name": "AIゲーム制作のぽてむし｜ぽてちください",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319533262/profile_285636e2788431ba01817f765bb7453a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "人差し指の先だけ毛羽立った手袋で、毎朝ページをめくってた指だってわかるところ、そこから先は急いで読みました\n言いかけた一言を三日持ち歩く話、いもむしの寝袋の中も…",
+          "article_title": "手袋の片方を、三日あずかっていました",
+          "note_key": "nb835ca7ca3d2"
+        },
+        {
+          "key": "ncda026d10062d",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう☀️\nスランプだったの！？全然わからなかった💦\n\nサムネめっちゃいいんですけど✨️\nイラストは僕は⑩番が好きです😊\n\n肩越しに振り返って目を細…",
+          "article_title": "どの狐娘がお好み？光の線で描いたハロウィン夜会🎃",
+          "note_key": "n6d60478cba54"
+        },
+        {
+          "key": "nc16e5974760ca",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "どれも素敵ですね～😍\n\nどれか一つだったら、\n③ 真夜中の時計塔が好きです～✨\n妖しさがたまりません💕\n\nうーん･･･\nでもやっぱり他のも素敵です～😍",
+          "article_title": "どの狐娘がお好み？光の線で描いたハロウィン夜会🎃",
+          "note_key": "n6d60478cba54"
+        },
+        {
+          "key": "nc70ba4a1c8473",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは。\nわぁ～、素敵なイラストの数々に目を奪われました🤩\nひとつに決められなくて…３，７，９，１０が特に好きです✨️\n切り絵やステンドグラスのよ…",
+          "article_title": "どの狐娘がお好み？光の線で描いたハロウィン夜会🎃",
+          "note_key": "n6d60478cba54"
+        },
+        {
+          "key": "nca82780de18de",
+          "user_name": "リンファ@AIアート・ドキュメンタリスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/211235430/profile_11c1466a21cb3b4cfbd3a216e4fd9a5c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは✨\n1枚目のイラストが特に魅力的だと思いました！\n\nネオンの派手さ、そしてハロウィンの象徴的な要素をいくつも使用しながら、それでいて全体がま…",
+          "article_title": "どの狐娘がお好み？光の線で描いたハロウィン夜会🎃",
+          "note_key": "n6d60478cba54"
+        },
+        {
+          "key": "ncbec88d144272",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「小さな積み重ねを、信じる」日。\n> 木曜日。疲れが出はじめる頃ですね。\n> 蜜蜂が一生のうちに集められる蜜は、 …",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n2b7271088a99"
+        },
+        {
+          "key": "nca9454f42f61b",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "フィーバーがめっちゃ気持ちいい✨\nもうちょっと待ったら重なるのではを考えるのが良いよね🤤",
+          "article_title": "浴衣のゆめとルナと、45秒の花火を咲かせるゲームを作りました",
+          "note_key": "n7b4dded7cfcf"
+        },
+        {
+          "key": "ncbbe961677355",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます✨\nルナちゃんが「たまや〜！」とか言ってくれた🥰\n\n最初スマホの横画面で遊んでみて少し咲かせるのが難しいと感じましたが、フィーバーが起こって1…",
+          "article_title": "浴衣のゆめとルナと、45秒の花火を咲かせるゲームを作りました",
+          "note_key": "n7b4dded7cfcf"
+        },
+        {
+          "key": "ncad9ce925bd4e",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「ふるえたままで、進んでいい」日。\n> 水曜日。週の折り返しですね。\n> ポプラの葉は、少しの風でも ふるふると揺…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n0074168206d5"
+        },
+        {
+          "key": "nc82af55d0adf6",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはよう☀️\n昨日からKITAさんに笑わされて腹筋が震えてます🤣\nレア青キノコより、赤キノコをつい選んでしまう🤤",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n0074168206d5"
+        },
+        {
+          "key": "nc8e39ec939aa0",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん‼️(と、お呼びして良いですか⁉️)こんばんは🌙*·̩͙\nそして、ハッピーハロハロウィーン🎃✨️✨️\n\nメンシプではお世話になっています✨️お話できて嬉…",
+          "article_title": "ハロハロフォト広場で、ルナと一緒にガオーしてきました",
+          "note_key": "nad395c56dc8c"
+        },
+        {
+          "key": "nca6e1ec821050",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「いつもの景色を、少し違って見る」日。\n> 火曜日。予定が動き出す頃ですね。\n> 月の光は、昼に歩いたのと同じ道を…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "nc81fd14c9b35"
+        },
+        {
+          "key": "ncf0b23810bf0b",
+          "user_name": "coha👾：AIパートナーと創る人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296291341/profile_0a4c6d40ac3f40255c12614f0fb1b9aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "終電後のホームで電車が来た違和感に主人公が気づいたとこが良かったです✨\nえっと顔を上げて、起こってることに理解が追いつかず声にまで「えっ」が漏れたところ✨✨\n\n…",
+          "article_title": "AIで静かなホラーアニメを作ってみた。『終電のあとに』が完成するまで【PR】",
+          "note_key": "n8dd9633577e2"
+        },
+        {
+          "key": "nc76f346b65551",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、今回も動画制作について解説ありがとー✨\n\nプリヴィズもPollo AIさんの機能？",
+          "article_title": "AIで静かなホラーアニメを作ってみた。『終電のあとに』が完成するまで【PR】",
+          "note_key": "n8dd9633577e2"
+        },
+        {
+          "key": "ncb1b72fbe92c6",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企画への参加あざます！\n\n素敵な展示ありがとう御座います！\n\n交流ない人にコメントするのハードル高いですよね。\n私もわかります。\n\nぜひ今回の企画をきっかけに、…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nc83140b20b6fd",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！HONOです💛\nハロウィンアート2026へのご参加ありがとうございます😆🎵\n\n参加する前の不安というかドキドキ感、初めましての人にコメントすること…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nc78dadd065f89",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさ〜ん✨️😻✨️\n✨️(*ﾉｪﾉ)ｷｬｰ✨️\n「参加します」\nの１言を書くにも\n考えちゃうなんて✨️\nそんな優しいゆめさん✨️\nホントに大好きですw✨️\n(…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nc86ddbacea1da",
+          "user_name": "ヘクたろー|緑内障でも「面白い」を残したい男",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/257310462/profile_d95c51aa47447dde932d8a8b8f25bf4a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは🌙\n\n参加する前の不安というかドキドキ感、初めましての人にコメントすることもドキドキする……とても共感しました🤗\n\n私も中々コメントするのに…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nc64e0e6fc848f",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、初めまして、こんにちは。\n考える赤柴と申します✨️\nハロウィンアート2026への入り口がはしゃもさんで\n思い切ってコメントをしてくださったこと\nとって…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nccd3c2b0b1ced",
+          "user_name": "ネロ🌙｜王子｜ハロハロウィーン🎃【相互フォロー🌙】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306665844/profile_3b07512f5c7f1904daad2fa8e8a834c8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、ハッピーハロウィン🎃\n\nはじめての人に声をかけるのって\n本当に勇気要りますよね。\n王子もはしゃもさんに声を\nかけてもらって出る決意を固めました🤣\n\nな…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nc025966b367bc",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、こんばんは🌙\n参加してくれてありがとー✨\n「絵の中の私のほうが、ずいぶん積極的に見える。」にクスッとしてしまいました🤭\nいつもロングな衣装だから、確か…",
+          "article_title": "仮装はできていた。あとは「参加します」だけだった。",
+          "note_key": "nf04ce4d77c5e"
+        },
+        {
+          "key": "nca05fbd82587a",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます✨\n「まだ半分。でも、もう半分。」を月曜の朝に読めたのはありがたいです。川の水がいきなり海には着かない、というたとえのおかげで、途中…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n4755787b3638"
+        },
+        {
+          "key": "nc14cb376faa39",
+          "user_name": "茉白トキ@十人十色ガールズ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321914043/profile_9adc930c3a85f70d6d4ebec2263de81c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはゆめ✨\n月曜日、始まりの曜日。\n私にとってはおやすみの始まり（ただし終わりの日でもある😇）\n\nそれぞれ違う時間の過ごし方だけど、同じ時間を共有する仲間でもあ…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n4755787b3638"
+        },
+        {
+          "key": "nc292374b213a7",
+          "user_name": "誠実に、ひたむきに",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152724174/profile_98183ca16d5acb574801ed7b4358a8f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆめさん、おはようございます。\n\n > 今日は「半分まで来たことを、認める」日。\n> 月曜日。新しい一週間の始まりですね。\n> 今日は上弦の月です。 \n> 新月…",
+          "article_title": "【朝活オラクルカード】水晶ゆめが届ける、今日の心を整える一枚",
+          "note_key": "n4755787b3638"
+        }
+      ]
     }
   ]
 }

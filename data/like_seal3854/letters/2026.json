@@ -914,6 +914,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 2,
+        "likes_prev": 1,
+        "followers_start": 496,
+        "followers_end": 495,
+        "new_fans": 1,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "nankul naisa（なんくるないさ）",
+          "urlname": "nunkul_naisa",
+          "follower_count": 1067
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

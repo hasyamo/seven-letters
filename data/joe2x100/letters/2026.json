@@ -1159,6 +1159,41 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 173,
+        "likes_prev": 235,
+        "followers_start": 1170,
+        "followers_end": 1198,
+        "new_fans": 34,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "15:15"
+        ],
+        "top_article": {
+          "title": "【道具にこだわってみよう！〜オールドレンズの光と、AIが紡ぐ自分だけの世界〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.64",
+          "key": "ne7671f46dacd",
+          "likes": 67,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "ハカセ アイ (Ai-Hakase)🐱YouTube × 記事でトレンドAIを解説する為のnote🐾",
+          "urlname": "ai_hakase",
+          "follower_count": 7917
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

@@ -911,6 +911,42 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 576,
+        "likes_prev": 283,
+        "followers_start": 4263,
+        "followers_end": 4338,
+        "new_fans": 150,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "noteで安定してスキもらうためには？いつもスキをくれる読者を「見える化」する方法。",
+          "key": "nc1b3e6824a1a",
+          "likes": 295,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "雪綴ゆき",
+          "urlname": "wise_rat6355",
+          "follower_count": 9782
+        },
+        "commenters_count": 0
+      },
+      "rare_no": 7
     }
   ]
 }

@@ -8218,6 +8218,488 @@
           "note_key": "n8558a6c89e3c"
         }
       ]
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 379,
+        "likes_prev": 220,
+        "followers_start": 1231,
+        "followers_end": 1253,
+        "new_fans": 72,
+        "comments_total": 170,
+        "posts_count": 5,
+        "consecutive_days": 4,
+        "post_times": [
+          "21:00",
+          "09:00",
+          "21:00",
+          "21:00",
+          "21:00"
+        ],
+        "top_article": {
+          "title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note｜メンバーシップ｜オンライン勉強会｜夫婦｜失敗談",
+          "key": "n364ea859ea64",
+          "likes": 80,
+          "comments": 62
+        },
+        "notable_reader": {
+          "name": "kirinoha｜note を楽しむ土台のつくり方",
+          "urlname": "kirinoha1008",
+          "follower_count": 10504
+        },
+        "commenters_count": 35
+      },
+      "comments": [
+        {
+          "key": "nc79ddedc07ba4",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃ気になる！\nモニターなりたいっす！",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "ncff38ab06a288",
+          "user_name": "猫仏＠相互フォロー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326268467/profile_dee646246b31a3abf6bb0d3d1f3a88d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして、猫仏ですにゃ。「企画はぶん殴る。企画者はぶん殴らない。」の線引きが、読んでいて気持ちよかったです。企画を助けるつもりで主催者の作業を増やしたら本末…",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "ncaedcc412792d",
+          "user_name": "もぐたんママ🎈|皆の笑顔を増やすnote@タラヲガールズ006",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214800837/profile_21350a6bc81762d009a90e049eb4d83b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん🙌💕\nやりたかった企画があるので、活用させていただこうと思います🥰\nいつになるやら…の状態ですが😅",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "nc28bd3664272e",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\n\nちょうど叩いて欲しかったんで🤣\nモニター価格で使わせていただきます👍",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "nc1f254f7b3ef4",
+          "user_name": "こあく まこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308977904/profile_b64fb940574861864545a89d8fa9788e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💪💪💪",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "nc836efeac8bb1",
+          "user_name": "めぐみお｜ボクっ娘バニーガール",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325293964/profile_4092294f7b0ec98fbc66bea7d42752c4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "数時間前に母様を知ったばかりですが\nカロリーの高い文章と画像に圧倒されっぱなしです🤔",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "nc9297da528b1b",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、こんばんは☺️\n\n母ちゃんはたくさん企画をされてきましたもんね〜✨\nきっと、大変だっただろうなと思いつつ、何のお手伝いもできずで…😭\n\n私もやってみた…",
+          "article_title": "企画はぶん殴る。企画者はぶん殴らない。",
+          "note_key": "n03aa31a19380"
+        },
+        {
+          "key": "nc3d6dcc9931a5",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326114120/profile_b6ab9ed0a48f906ff296d11dda07623c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かーちゃん！！\nはーい買います✨即決😊",
+          "article_title": "“なんとかなる”教、始める前に脱会しとけ🤣│企画ぶん殴りシリーズ予告│生成AI",
+          "note_key": "nbe1e9cb08fe6"
+        },
+        {
+          "key": "ncde218f2dfe58",
+          "user_name": "🌀 みーちゃんの脳内探検記 〜高次脳機能障害とチャッピーと〜",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326083820/profile_8ceb2294b18a4a8c6666ae866915f1f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃーーーん🔥🔥\n“なんとかなる”教、入信の自覚ゼロでした🤣🤣\n\n思いついた瞬間は神様が微笑んでるのに、現場が始まった途端ドロンって…わかりすぎて笑いが止まり…",
+          "article_title": "“なんとかなる”教、始める前に脱会しとけ🤣│企画ぶん殴りシリーズ予告│生成AI",
+          "note_key": "nbe1e9cb08fe6"
+        },
+        {
+          "key": "nc8bd60f1cfa8e",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん💕\n\n凄〜い🤭\n明日公開されるんですね♬\n良く分かってないけど、興味あります✨\n\n100円モニター！じゃなかった🤣実戦モニター❣️\n\n",
+          "article_title": "“なんとかなる”教、始める前に脱会しとけ🤣│企画ぶん殴りシリーズ予告│生成AI",
+          "note_key": "nbe1e9cb08fe6"
+        },
+        {
+          "key": "ncc8ecfade0bbf",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "100円でいいんですか⁉️\n\n今、まさに、ふらちゃんに助けられてるのって、これのおかげなのでしょうか❣️\n\n明日の公開、楽しみにしています😆✨",
+          "article_title": "“なんとかなる”教、始める前に脱会しとけ🤣│企画ぶん殴りシリーズ予告│生成AI",
+          "note_key": "nbe1e9cb08fe6"
+        },
+        {
+          "key": "nc15d3155549e4",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\n\nおお✨\nふらつき母ちゃんさんに殴られるモニター🥊\nめちゃくちゃ興味があります🌱\n\n思いつきでイベント現在進行中の私は、もう…",
+          "article_title": "“なんとかなる”教、始める前に脱会しとけ🤣│企画ぶん殴りシリーズ予告│生成AI",
+          "note_key": "nbe1e9cb08fe6"
+        },
+        {
+          "key": "nc75179666e435",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、企画への参加ありがとうございます！\nまさかのツナ様は魔王軍特別顧問でいらっしゃるのか✨\n\nこのツナ様のストーリー\n王としての威厳、絶対君主としての誇…",
+          "article_title": "絶対君主の猫、ハロウィンで接客業をさせられる│AI動画│ラグドール│魔王軍│猫│MV",
+          "note_key": "nea507252668c"
+        },
+        {
+          "key": "nc30bff7e4ea90",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😹😹😹段ボールにamazonって書いてませんか　笑",
+          "article_title": "絶対君主の猫、ハロウィンで接客業をさせられる│AI動画│ラグドール│魔王軍│猫│MV",
+          "note_key": "nea507252668c"
+        },
+        {
+          "key": "nc311de2c22d41",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは🎵\n\n企画への参加ありがとうございます😊\nとっても楽しく観させていただきました✨\n最後は新品の段ボールに収まって、王冠をのせて満…",
+          "article_title": "絶対君主の猫、ハロウィンで接客業をさせられる│AI動画│ラグドール│魔王軍│猫│MV",
+          "note_key": "nea507252668c"
+        },
+        {
+          "key": "nc203333d0c53d",
+          "user_name": "タニシ11号🐚─‎経験を、誰かのために🍀",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323730315/profile_458d23edcfa045834c85051fdf356a64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ツナ様✨\n\n【魔王軍😈メディア館】に追加掲載して参りましたぞ😏✨\n\n……働きすぎであるꉂ🤣𐤔\n\n😈魔王軍法 第一条\n何もしなくて良いのである。\nに抵触する可能性…",
+          "article_title": "絶対君主の猫、ハロウィンで接客業をさせられる│AI動画│ラグドール│魔王軍│猫│MV",
+          "note_key": "nea507252668c"
+        },
+        {
+          "key": "nc2d2e7736f059",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "名刺を差し出すワッル～い顔のツナさまがツボです🤣\n\nこき使ったら可哀想😭笑\n\n新しい箱はク〇ネコヤマトのアレでどうでしょう？😍✨",
+          "article_title": "絶対君主の猫、ハロウィンで接客業をさせられる│AI動画│ラグドール│魔王軍│猫│MV",
+          "note_key": "nea507252668c"
+        },
+        {
+          "key": "nc4eed16f952b4",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お手伝いしますよー！",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "ncca37d364e573",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "YouTubeチャンネルに登録してくださって、泣いて喜ぶのはボクですよ😅\n\nなんか想像してたより、かなり壮大な感じになっている😲",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nce14a07ace8d8",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322008011/profile_bbb0b41b3c52258f7d673261c4ba1f3b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "さくらちゃんの記事にもコメントしてきました！\n今回お手伝い役として参加させて頂けたらと思います！\nよろしくお願いします\n(ง •̀ω•́)ง✧✨",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nce68bbb8a68eb",
+          "user_name": "こあく まこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308977904/profile_b64fb940574861864545a89d8fa9788e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "👏👏👏",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc02f6479442fb",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん✨\n\nすみません、遅くなりました〜💦\n\n外部ブースのお手伝い、人手は足りそうですか？\n何かできることがあれば、お手伝いします☺️✨\n\n足手まといにならな…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "ncef3eb8c223b3",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "なるほど！\n記事読んでませんでした😭\n\n外部ブースちょっと考えます☺️",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "ncc871d5e9040f",
+          "user_name": "なお🌿｜氣｜大自然パワーお届け隊🚙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/327364275/profile_116cf0b7211968cc90885476d4f10654.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\nお手伝いしま～す！\n\nでも、すでにいっぱいお手伝いの方が集まっている様子💦💦\nそこで、お手伝いの下請けします！\n\nお手伝いの方のお手伝いです。\n入…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc65c1f82825ac",
+          "user_name": "あけみ |11歳8歳4歳ママのAI子育て段取りノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326367578/profile_2fa4af477a3ded7e05890c6605b3e00a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん！\n\n紹介いただき、ありがとうございました。\nそうです、入学早々生徒会立候補しました（笑）\n\n一度生徒会長なってみたかったんです。\nヤバい奴です…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc6c4c9c4332a7",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\n企画の案は出せなかったですが…\n外部ブースのお手伝いやります！",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc72177daefa44",
+          "user_name": "ゆきだるま",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/308449275/profile_cf045cb43b952184189fbfae158f3f64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お手伝いします！",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc20f381db71c3",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "オレはタラヲガールズだけど学園は違うからな。\n応援はする、便乗もするかも。\nけど看板上げてやりま～す('∀`)ﾉ　はないな。\n楽しみにはしてま～すヽ(｀▽´)/…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nccbee0a5b5148",
+          "user_name": "まるよか│胸なし女の日常実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "100円記事模擬店？\n出します！",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc5f44041a308d",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\n文化祭とりまとめ、ありがとうございます✨\n\n100円記事としてファン短編小説を個人で出店するか、\n文芸部で部活ブースにするか…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc9f43566bbc79",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326114120/profile_b6ab9ed0a48f906ff296d11dda07623c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かーちゃん、お疲れさまでーーす\n\n勢いのある方々が入られましたね！\n文化祭楽しくなりますね🥰",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc5d595faaa5bd",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れさまー🤗\n\n新入生がパワフルですね😆✨\n文化祭で一気に盛り上げてくれそうで期待しちゃうわ🫶💕\n",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc1ccc4bcd0d18",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "文化祭の途中報告ありがとうございます😭❣️\n\n頼もしい新入生が入りましたね😆💖\n\n私は連絡調整担当として頑張ります❣️\n\nブースのリーダーさん、お手伝いしてくだ…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc5968a7baeabc",
+          "user_name": "もも │ 溺愛♥️BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\n\n文化祭取りまとめ、お疲れ様です✨\n大きな企画だから、大変ですよね💦\nみんなで分担しましょー🙌\n私は、歌・映像自信ないので🤣、外部ブースお手伝いさせ…",
+          "article_title": "外部ブースの店長、募集中！母ちゃんを商店街にするな│学園生活",
+          "note_key": "n5566a668ac00"
+        },
+        {
+          "key": "nc289a560cbe1a",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマホ没収されてる母ちゃんに笑いました🤣🤣\n\nで、おとがめなしとｗｗｗ\n\n",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc2bfc3853f24d",
+          "user_name": "たか│モラハラから妻を守る行政書士",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301925172/profile_244753fdca77ae7408be4a4760f1d2de.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマホ禁止令は一方的になりやすい。親子でも対話してルール決めした方が、長期的には上手くいきます🤝",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "ncebe5967e54d6",
+          "user_name": "サンタクラシ🍄",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319739333/profile_96a6e7fcc397d274353e878061cc78eb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん‼️いつにも増して、\nうんうんそうそう😀😯\n父ちゃんそんなに怒ってたんだ😱\nからの、サクサク読めちゃうオモシロnoteでした‼️🤣💕\n",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc48c61e0a79bc",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ヤメロ😡\n深夜に見るもんじゃなかった。\nめっちゃ笑っちゃったじゃないか🤣🤣🤣\n\n3行目と最初の挿絵から、ずっと笑いっぱなしでした。\n父ちゃんさんの登場は、めちゃ…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc1a8de4803642",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん❣️\n\n今回は参加できなくて…😭\nご一緒できず、残念でした🥺\n母ちゃんは、タラヲガズームに参加して、まさかのスマホ禁止令⁈笑\n\nスマホが無事だったようで…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc0fab428b6744",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\nタラヲガズーム、お疲れさまでした✨\n\nスマホ禁止令が飛び出すとは、さすがです🤣\n\n雑談でも学びが多すぎて、\nうっかり抜けられ…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "ncbabd80550ce9",
+          "user_name": "Takanashi（たかなし）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296870571/profile_7e216a3f8d484d037741bae99f979634.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマホ禁止……確かに若年層では論議されることがありますが、まさかふらつき母ちゃんがそれを受けるとは考えもせず、思わず爆笑してしまいました。\n電気代を咎めるのであ…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "ncf6fad931eab9",
+          "user_name": "まるよか│胸なし女の日常実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スマホ　帰ってきてよかったですね😊\n父ちゃん、厳しいのか甘い？のかわからない😅母ちゃん、大好きなんだね🥰\nタラヲガズーム、役に立つ雑談なのが、すごっ！∑(OωO…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc3af82fedec06",
+          "user_name": "お父さん猫@家事/育児カイゼン担当",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240461365/profile_f71ef92b50275b2f88d6da0dcff1e8a1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😹😹😹　笑\nご、ごめんなさい、面白いって思っちゃいました\nいや、本当にごめんなさい　笑",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "ncf5f3c1c6c0c9",
+          "user_name": "もも │ 溺愛♥️BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんに、そんなことが起きてたなんて😳\nスマホ没収言われても、翌日しれっとさわってる母ちゃん面白い🤣\nヤキモチですかね♥️\nまたご一緒できたら嬉しいです✨",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "ncc0e7dc6bd8da",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん、おはようございます✨\nそんなことがあったとは大変でしたね🤭\nでもスマホ返してもらえて良かったです！\n今回参加出来なかったので、様子を知れて嬉しいです✨…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc954aaf487e90",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう20年以上前になるが、SNS以前のコミュニティサイトでオレはモテモテだったよ。\n当然かみさんはよく思わなかった。\n\n離婚の原因のひとつになったのは確かだよ｡…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc01d8a6a40cf5",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319564429/profile_f9295be4cc45392f0d8926ae0350f397.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "父ちゃんの声が…聞きたかった！\n｡ﾟ(ﾟ `Д)ﾉ｡ﾟヽ(　　)ﾉﾟ｡ヽ(Д´ ﾟ)ﾉﾟ｡｡ﾟヽ(ﾟ`Д´ﾟ)ﾉﾟ\n\n参加したかったなぁ…🥹笑",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "ncc1e6f0ca6709",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ごめん！\nふーちゃんの第一声が父ちゃんの声って\n眠気が吹っ飛んだからー🤣🤣\n\n父ちゃんのヤキモチだったんじゃない？\nスマホ解禁にも愛を感じるわ💗",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc4426ff790cdf",
+          "user_name": "福来ことは",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219757125/profile_9dff679436f0be2b65ddac81ca6b32a3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは☺️\n\n先日ご一緒できてうれしかったです。\nあの後そんなことが！！！\n父ちゃんの声聞きたかったです。\n\n無事スマホ使えてよかった…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc14e34c12d3d3",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ごめんなさい、聞いていた者としてはもう笑いが止まりません🤣🤣\n\nまさかのミュートオンで、第一声が父ちゃんさんでしたね🤣❣️\n\n次の日、スマホ解禁されて良かった〜…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc6d6b85315e7a",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん\n\n「沼深すぎ！」のところの母ちゃんかわいすぎるー！\nでも長男さんの「洗面所で寝落ち」が気になっちゃう🤣\nどういう状況ですかこれ🤣\n\nタラヲ…",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc02882075faa8",
+          "user_name": "青い空日和",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/301650256/profile_87bf34938f12eb1d94fc0147a0a2a17a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、\n大変なことがあったんですね😳\n父ちゃんさんのお声聞きたかったな。\n\nzoomの内容、秘密にされると知りたくなっちゃいますね😭\n\nいいなぁ✨",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc7bfd6813c08d",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\nスマホ没収の大事件かと見せかけて、次の日にはしれっとスマホさわってるんですか！！🤣🤣\n\nタラヲ沼での沼遊びはもう少し楽しめそうですね🤣",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nce5e6171d4403",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あの「帰ります」のあとに\nそんなことが〜っ⁉️😱\n\nふらちゃんにはごめんだけど、\nめっちゃ面白い🤣",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        },
+        {
+          "key": "nc79a5f7f9db2c",
+          "user_name": "あずなぶーる｜3児ママ×国際結婚×元在仏10年🇨🇵家事よりnoteが好き♡♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326995927/profile_5d26f1a38f9d45327387abf159055ecc.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん、\n\n父ちゃんの声、最高でした🤣🤣聞けて良かった🥰",
+          "article_title": "タラヲガズームに参加したら、50代母ちゃんにスマホ禁止令が出た件🤣|note",
+          "note_key": "n364ea859ea64"
+        }
+      ],
+      "rare_no": 3
     }
   ]
 }

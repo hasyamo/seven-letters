@@ -2514,6 +2514,105 @@
           "note_key": "ne85b459173a9"
         }
       ]
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": true,
+      "stats": {
+        "likes_total": 244,
+        "likes_prev": 150,
+        "followers_start": 755,
+        "followers_end": 767,
+        "new_fans": 85,
+        "comments_total": 14,
+        "posts_count": 6,
+        "consecutive_days": 3,
+        "post_times": [
+          "10:57",
+          "19:36",
+          "17:41",
+          "14:49",
+          "06:42",
+          "07:42"
+        ],
+        "top_article": {
+          "title": "二人で味わう朝のコーヒー。でも味の違いはよくわからない。",
+          "key": "nfc00b0573ae0",
+          "likes": 70,
+          "comments": 4
+        },
+        "notable_reader": {
+          "name": "とある社会人の自己成長記録note📚",
+          "urlname": "kens_reading1",
+          "follower_count": 20430
+        },
+        "commenters_count": 6
+      },
+      "comments": [
+        {
+          "key": "nceaffe89f041c",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😊\n\nひゅーさんならきっと、ご対応されてるだろうなと思ってました👍\n分かりやすいご案内を、ありがとうございます💕",
+          "article_title": "PHPの脆弱性問題",
+          "note_key": "nd528008b02dc"
+        },
+        {
+          "key": "nc43052d7e2e50",
+          "user_name": "ドラゴン担々麺",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299488536/profile_fb5b14f59fa10fbbf972450a06158cb3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回のPHPの話題はずっと流れてくるのに自分の環境が関係あるのかどうかが分からず、なんとなく落ち着かない気持ちでいました。\n\nひゅーさんの説明は、難しいところを…",
+          "article_title": "PHPの脆弱性問題",
+          "note_key": "nd528008b02dc"
+        },
+        {
+          "key": "nccd75e1ab7f83",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！\n今日ずっと気になってた話題でした。\n本当によく分かってなかったので\n助かります。久しぶりにWordPressをメンテナンスしました。",
+          "article_title": "PHPの脆弱性問題",
+          "note_key": "nd528008b02dc"
+        },
+        {
+          "key": "nc1cff85f954cc",
+          "user_name": "そっとねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/206061612/profile_ba412f6971d5f160a7d790bccc58ba49.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "このニュース、わかったようなわかってないような…って感じだったんですが、ひゅーさんの説明ですっとわかりました！\nそして対応も万全ですばらしいです👏🏻",
+          "article_title": "PHPの脆弱性問題",
+          "note_key": "nd528008b02dc"
+        },
+        {
+          "key": "nce5c6c63542d5",
+          "user_name": "はんにゃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295411880/profile_cb7cbc2b7be9695ebb814f54622c739b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、ご紹介ありがとうございます！\n勤務管理ツールの記事や、「難しいことを、ちょっと面白く。」という言葉まで拾っていただけてうれしいです☺️\nいろいろなテ…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その16",
+          "note_key": "nbc958a687ee6"
+        },
+        {
+          "key": "ncfe4f80115c42",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは✨\n\n私もコーヒー好きです！\n63銘柄ってすごいですね👀\nコーヒーから始まる朝ってやっぱりいいですよね。\n私の場合、大体同じような豆しか試…",
+          "article_title": "二人で味わう朝のコーヒー。でも味の違いはよくわからない。",
+          "note_key": "nfc00b0573ae0"
+        },
+        {
+          "key": "nc48b417ba8978",
+          "user_name": "望月だんご",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319487151/profile_792ce2a7077f9e1ca322175725bc8af3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちはー★\n\nコーヒーで始まる朝☕️\n\n最高ですよね❣️私はコロンビア産というか中南米産がバランスのいい味で好きですー。\n\nと、、偉そうに語りましたが、そこ…",
+          "article_title": "二人で味わう朝のコーヒー。でも味の違いはよくわからない。",
+          "note_key": "nfc00b0573ae0"
+        }
+      ],
+      "rare_no": 3
     }
   ]
 }

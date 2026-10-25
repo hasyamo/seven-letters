@@ -6548,6 +6548,124 @@
           "note_key": "n40f8b1bded16"
         }
       ]
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 189,
+        "likes_prev": 230,
+        "followers_start": 2031,
+        "followers_end": 2037,
+        "new_fans": 28,
+        "comments_total": 12,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00",
+          "16:00"
+        ],
+        "top_article": {
+          "title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "key": "n7fc9d6056781",
+          "likes": 82,
+          "comments": 8
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 18102
+        },
+        "commenters_count": 10
+      },
+      "comments": [
+        {
+          "key": "nc19530e5f2d2c",
+          "user_name": "ななな｜もやもや減らし屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324122946/profile_f746dd87e5d524764d6adec1818830ad.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最近動画もいいな〜って思ってるところ🤭\nただ時間ないから二の足踏んでまーす🤣\n\nねんころ＆そらちゃんヴァンパイア\nいいですね〜🧛♡🧛‍♀️\n\nねんころさん\nおは…",
+          "article_title": "ハロウィンの女の子イラストをPixAIで。うちの子に魔女・吸血鬼・黒猫を着せてみた| 画像生成AI | AIイラスト | 秋 | 仮装",
+          "note_key": "nf83cbd7f5fa7"
+        },
+        {
+          "key": "nc1cef0a0196a4",
+          "user_name": "うきよ🎴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280438219/profile_c3c61f252f7093083789c0115390f87c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！顔や髪はそのままで衣装だけ変えるプロンプトの書き分け、すごく参考になりました。4枚から選ぶときの基準や失敗した画像まで見せてくださっている…",
+          "article_title": "ハロウィンの女の子イラストをPixAIで。うちの子に魔女・吸血鬼・黒猫を着せてみた| 画像生成AI | AIイラスト | 秋 | 仮装",
+          "note_key": "nf83cbd7f5fa7"
+        },
+        {
+          "key": "nc29742de2a68a",
+          "user_name": "みふゆ＆成瀬圭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297359527/profile_ca0084f3a085b1f4aa9ac816678e0b62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "PixAIってこんなタッチのキャラクターデザインもできるんですね👀✨\n\n奥が深くて沼りそうです🌸",
+          "article_title": "ハロウィンの女の子イラストをPixAIで。うちの子に魔女・吸血鬼・黒猫を着せてみた| 画像生成AI | AIイラスト | 秋 | 仮装",
+          "note_key": "nf83cbd7f5fa7"
+        },
+        {
+          "key": "ncde374000adb8",
+          "user_name": "椿みきこ🌸季節の花ごよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276282393/profile_1b76107f2c250cd2fcb0068f908ba934.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさんもそらちゃんも、いい感じにバージョンアップしてますね💕\n服装を替えると、顔立ちが影響を受けやすいけど、感じがよければ良しって思ってます🙌\n仮装とか、…",
+          "article_title": "ハロウィンの女の子イラストをPixAIで。うちの子に魔女・吸血鬼・黒猫を着せてみた| 画像生成AI | AIイラスト | 秋 | 仮装",
+          "note_key": "nf83cbd7f5fa7"
+        },
+        {
+          "key": "nc8246468661c6",
+          "user_name": "緑どんぐり",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321090299/profile_c35af0d1fa55a324ef528c9296c1794e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは、ねんころさんとしろのあるさんが賞金をもらうべきでは？w\n\nいつもほんとお疲れ様です！！w",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
+          "key": "nc22fb3cd151b7",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "既に労働させられとるよーに見えるんですが\n無賃金なんですね。\n\n世知辛い世の中じゃのぅ😿",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
+          "key": "nc6bfa20aeb9b9",
+          "user_name": "Camellia Mountain",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238895139/profile_b3cd04c3d0b89f1d00ce8445c3370394.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そらちゃん、こんばんは🌙\n\nって、\nねんころさんが賞金を出すわけじゃないんですね🤭\n\n生憎参加表明しそこねてしまいましたが、\nみなさんのハロウィンアート、\nそし…",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
+          "key": "ncaf71f7e3d161",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、そらちゃん、こんばんは～！！\nとうとう明かされた賞の内訳…😮\nなんと10名さまも表彰していただけるんですね🥹\nありがとうございます✨️✨️\n\nおも…",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
+          "key": "ncfeb7eb912d3f",
+          "user_name": "すきま@副業メモ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240087369/profile_9b91beccc2b3c114ce3a2abd83add4c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、こんにちは。\n賞金配るより、座布団配る……\n\nいや、質問箱の回答とか見てませんよ？\n見てませんからね？笑\n\nありがとうございました。\n",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
+          "key": "nc8bd44a396247",
+          "user_name": "しろのある",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319379891/profile_1d2b1cc3e43b3e587abce3191136ed61.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "楽しみだねえ〜💓💓\n\n\nオモシロ担当って言ってたから、てっきり\n\n審査員はそらちゃん、\n賞金出すのはねんころちゃん\n\nかと思ってたよ？？😏✨爆笑",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        }
+      ]
     }
   ]
 }

@@ -8508,6 +8508,610 @@
         }
       ],
       "rare_no": 2
+    },
+    {
+      "week": "2026-W43",
+      "period": {
+        "start": "2026-10-19",
+        "end": "2026-10-25"
+      },
+      "sender": "rinka",
+      "condition": "consistent_time",
+      "rare": true,
+      "stats": {
+        "likes_total": 555,
+        "likes_prev": 761,
+        "followers_start": 3818,
+        "followers_end": 3861,
+        "new_fans": 100,
+        "comments_total": 151,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "20:30",
+          "20:30",
+          "20:30",
+          "20:30",
+          "20:30",
+          "20:30",
+          "20:30"
+        ],
+        "top_article": {
+          "title": "企画を動かす4人が、全員共犯者だった｜ハロウィンアート2026 Suno MV『共犯者の合図』",
+          "key": "n238d4f059b9f",
+          "likes": 88,
+          "comments": 46
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 30168
+        },
+        "commenters_count": 38
+      },
+      "comments": [
+        {
+          "key": "nc72c8c72bf839",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あぁ〜！そういえば、民泊やろうとしてたよね〜♪忘れてた(ﾉ´∀｀*)",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc9ed15ef5cfc9",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おお！\n由来がはっきりした😆\n\n民泊は、京都市だけやと思うけそオーナーが施設に住まない場合の管理ルールがめちゃくちゃ厳しいですからね\n\n他にもオーバーツーリズム…",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc9a8b4054aba2",
+          "user_name": "やまこん/自信なし会社やめたい状態からのゆっくり成長記録！",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/323473720/profile_b7bfdc9c5ae46f9ac3f6494be5b50fef.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\n私の記事にもコメントありがとうございます✨\nわたしもたまたま昨日、「名前の由来」が記事にはいってたので、なんタイムリーでしたね笑\n\n名前の由来、…",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nce94028771eeb",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302681947/profile_aed06a54e3cc23fd27f949fbff9216c3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\n言われてみればお名前不思議でしたが、そんな由来があったんですね✨\n\nこたつのある宿、素敵ですね☺️",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc5efda39f1b38",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "質問したの忘れてるぐらいもう疑問に思ってなかった。\n\nでもオレだけやっこ～と呼ぶのも無理があるので忘れたい。\nなぜやっこ～と呼び出したのか、忘れようとしても思い…",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "ncb7b4e5e39ee6",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "確かにずっと気になっていました😆\n\n民泊の宿の名前とは思わなかった😳\n\nあの民泊のお話、すごく面白かったし、勉強になりました！\n\nお名前の由来を知ることができて…",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc31a173b10ee7",
+          "user_name": "アリゼロ🐜 搾取される働きアリをゼロに✅️あなたの心の隙間お埋めします",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269566018/profile_a78723067da120092e8d64680e0576c3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYA様、こんばんわ🐜\n\nまさか、名前の由来がこたつから来てたとは夢にも思いませんでした🐜\nこたつ屋KOTAYAなんか面白い響きですね😆共犯者がこたつでみ…",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc8968ff6e3069",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "そういうことか！\n\nなんの名前かなぁって思っていたので、すごく腑に落ちました🙂‍↕️\n\n民泊やろうとしてたのも意外でしたが、具体的に行動が、らしい感じしますね♡",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc311bf98bd424",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたや。\n\nまさかの民泊由来だったんですね✨\n\nでもnoteの名前としても覚えやすくて被りにくいので良い名前ですね☺️",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "ncfa1223d50c94",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326114120/profile_b6ab9ed0a48f906ff296d11dda07623c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたつやさんからKOTAYAさんなんですね！全く想像できませんでした！！\nでも聞いたらインパクトありますね！",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "ncd7044ce5fc50",
+          "user_name": "もも │ 溺愛♥️BL本棚",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/266139150/profile_da08291d48b024f08528edd0fc22198d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんのお名前に、そんな由来があったとは♥️\n民泊もいいですね～😆\n今はいろんなお宿がありますし🤩\n外国人向けにこたつは喜びそうです✨",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "ncafd27ec355e0",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたつのある宿だから、「こたや」！\nそうだったんですね〜🤭\n",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc1c8a632f6629",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あー！こたや！🏠\n多弥子さんなんだろうなと真面目に思ってました😂",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc0b65c53a39bc",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "あ、せっかく買ったんだし読まなきゃ😯",
+          "article_title": "「こたや」の名前の由来は、7,000万円の計画の中にあった",
+          "note_key": "n765e1e9b7f20"
+        },
+        {
+          "key": "nc26c875afed37",
+          "user_name": "沙夜-𝕊𝕒𝕪𝕠- 沙夜学園🌠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316867450/profile_4b55ff306c0115d4395e5b05b0893bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたお姉様ぁぁ😍❣️\n\n…たしかに近寄りがたい雰囲気はあるかもです😱\nなんかこう…\n覇王色の覇気？みたいなオーラが出ちゃってるんです🥰\n\nメイド服のキラキラな可…",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "nca6b6b69a7a4c",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "半裸の共犯者🤣🤣🤣\n\n全員マスクｗｗ",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "nc7fe11207df84",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マジでオレネコの半裸がおかしい・・・。\nいや、半裸はあってるが下モロじゃないのか⁉️　赤柴さんの柴扱いか⁉️\n\nともあれ、紹介記事書いたら謎のイラストにする、と…",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "ncc51dce35cc1f",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん✨✨\n目出し帽で半裸の集まり😆🙌\n\nちょっと気になります😍",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "ncb5a561a77215",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\n半裸の共犯者の絵面が強烈🤣\n\n目出し帽オフ会100人、\n集合するともっとすごいことになりそうです。\n\nみんなで達成しましょうね！",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "nc11bdc0c5254e",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、そういうところ！\nめっちゃおもしろいです😆\nご紹介ありがとうございます✨️\nはんく猫さんの半裸画像、なんかおかしくないですか🤣",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "ncf976eb718037",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "💕",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "nc73ced3d485e5",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ドS (°∀°)",
+          "article_title": "頼んでいないのに、紹介記事が4本届いた。",
+          "note_key": "n850223330192"
+        },
+        {
+          "key": "nca9dfd8c9ce45",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "やっとコメントできた〜😭\n\n昨日の時点で読んで癒されてたけど、\nコメントできなくて、、\n\nこれ、めちゃくちゃ嬉しいね❣️✨️\n\nあ、でもAPI解析の記事はね、\n…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc156eb2b03be8",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324802988/profile_ae1b8c70ce4aecc56ef5535f651204df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "MarieさんとKOTAYAさんの会話見てるの、めちゃワクワク😍するんです。\nお二人の会話が、ガチで技術系のお話で、かぐわしい…✨✨\nガチ勢の方々って、非エンジ…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nce73ebd1a1e64",
+          "user_name": "沙夜-𝕊𝕒𝕪𝕠- 沙夜学園🌠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316867450/profile_4b55ff306c0115d4395e5b05b0893bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたお姉様ぁぁぁ😋❣️\n\nめっちゃ分かります😋✨\nマリーさんを初めて見たのはシグドラさんの企画より少し前…\n\n第一印象は…\n「可愛い〜🩷」じゃなかった💦💦\n「頭…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc88dbfbd40d3a",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ストロング系アイドル猫(笑)\n\n数値分析を使わずに紹介記事を書いてほしいとこたちゃんに頼むところが、おもしろい！\n\nまりーさんはこたちゃんのめちゃめちゃファンや…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc34ce6f6525c5",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nMarieさんへの愛の溢れる記事でしたね☺️\n\nそして、棍棒を振り回すMarieさんは想像できる🤣笑\n\n私も彼女の内面が見れる記事が出る日が楽し…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc330ae25b7caa",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ストロング系アイドル猫🤣🤣\n\n正論のこん棒を持った猫🤣🤣\n\nまりーさんの二つ名が2つもできあがったｗｗ",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc1a2fd191bcb7",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん\nおはようございます。\n「ひとことでは、言えなかった」\n\nコレですね。☺️\nにゃーん🐈",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nce9856e45cce5",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ﾆｬｰﾝ😺",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc69cb687c10e8",
+          "user_name": "向日葵じまにゃん🌻",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/284597042/profile_3b210c9e13d2b2f74799fafe715e846b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃ、こんばんは〜！🌻✨\n\n二人の関係、いいよねぇ💖💖💖\n\nまりーさんのこちゃへの愛は、ヤンデレ感を感じるから……たまらないおっとよだれが🤤\n\nそういえばまり…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "ncee06ca2a6c35",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "相思相愛🫶",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc14f84fb24d00",
+          "user_name": "sophie",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん\n\nなんだかいいですねぇ、おふたりの関係性。\n読んでて微笑ましくなりました。\n\nでもストロング系アイドル猫でやられましたｗ",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc3c8dcf0cd5e4",
+          "user_name": "Liliscend＠夜更かしDX・AIハッカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317932325/profile_9f2dda85461985f24f0a9df400f44057.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "以前からKOTAYAさん推していらっしゃるなぁ…とMarieさん遠目から見てましたがThreadsからnoteにというかGPTS目当てだったなんてビックリです……",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc8a01f0c9b7a5",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "(´∀｀*)ｳﾌﾌ♪\n縛りプレイでもこたさんの筆力に陰りなし😆！",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc93a8e931c92d",
+          "user_name": "雪綴ゆき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274694854/profile_95e6f484eb21d58d8954f3c5f00b0df5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ストロング系アイドル猫🤭",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "ncd36a322ecbe7",
+          "user_name": "イロドリの詩/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316841193/profile_42a715512c5dbc9697d599ae1346733b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めっちゃまりーさん愛に溢れた記事だったなぁ😭😭\n\n私、こういう記事大好き💕\n\nそれにまりーさんのコタヤさんをめっちゃ推すその姿勢！私も見習いたいなって思いました…",
+          "article_title": "正論のこん棒を持った白猫を、数字なしで紹介する",
+          "note_key": "nbcb6f36567d5"
+        },
+        {
+          "key": "nc65d0cc98abb3",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさんのツールさまさまで、今の自分があります😄\n自分もHP作ろかな",
+          "article_title": "共犯者が遭難していたので、公式HPを作った",
+          "note_key": "n2f80b6415868"
+        },
+        {
+          "key": "nc07c7af38df21",
+          "user_name": "🐾コロッケノスケ☕️｜ハロウィンタロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322511250/profile_756fe04eee4fc5f2d763a0391e3882e4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんにちは☺️\n\n猫は方向感覚に自信があるつもりで、気づけばいつも隣の家の屋根にいるタイプなので、案内所ができて本当に助かります🤣 \n\n迷っている人…",
+          "article_title": "共犯者が遭難していたので、公式HPを作った",
+          "note_key": "n2f80b6415868"
+        },
+        {
+          "key": "nc53bbf6389123",
+          "user_name": "すのー*｜AI × 未来社会",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/192968358/profile_7b3de8588480bdafc2798a79204c822c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたや様\n\n「全部追いかけなくても大丈夫」という言葉が、案内所を作った経緯とつながっていて心に残りました。久しぶりに来た人にも、戻れる場所があるのはうれしいです…",
+          "article_title": "共犯者が遭難していたので、公式HPを作った",
+          "note_key": "n2f80b6415868"
+        },
+        {
+          "key": "ncaa5ba730d9d3",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "1ページにまとめて\n\n「全部ここにある！」\n\nをやりたかったのに、\n複数ページの立派なサイトを\n作ろうとするお節介AI😂\n\nめっちゃあるあるで笑う🤣🤣🤣",
+          "article_title": "共犯者が遭難していたので、公式HPを作った",
+          "note_key": "n2f80b6415868"
+        },
+        {
+          "key": "nc96bd34965829",
+          "user_name": "木漏れ日亭",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300860595/profile_aae31b870018ad3cb6c06835e622bdd5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "HP♡\n\nnoteをおさんぽするだけではなくて、\nこうやって外側に置いておいてくれるのがよきよき🤗\n\nAI執事…まだ使えて🍆。。",
+          "article_title": "共犯者が遭難していたので、公式HPを作った",
+          "note_key": "n2f80b6415868"
+        },
+        {
+          "key": "nc1a12a930bf88",
+          "user_name": "さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297586619/profile_880c4014755f703e26a8a4bdd743d492.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん♡\nこんばんは♪\n\nあの時、勇気を出してDMして良かったです。☺️\n買いたいのに迷子だったので助かりました。✨✨\n分析ツールもあのタイミングで入…",
+          "article_title": "共犯者が遭難していたので、公式HPを作った",
+          "note_key": "n2f80b6415868"
+        },
+        {
+          "key": "nc50ffad83837e",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ、これはちょっと自分もやってみたくなる記事ですね！\n以前は曲が無かったのでスキル試せませんでしたが、今ではSuno沼にハマってて、\n曲がわんさかあるので、自…",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nce9feaf455aae",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおー、すごかった！！\nわたしもKITAcoreさんが作ってくれたテーマソングがあるので\n今度チャレンジしてみたい…かも…😆🙌✨️",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "ncc937d52bb784",
+          "user_name": "だんだんありがと@めじゅ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324802988/profile_ae1b8c70ce4aecc56ef5535f651204df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅに出来るようになるとは、1ミリも思えないよ〜😭😭😭\n\n動画生成の道、シルクロード級……💦",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nc253c591a4770",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これは有料級",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nc585554188150",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "複数企画にまとめて応募する強み！\n500はデカいですなぁ😺",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nc9e23a6d3fc0f",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさんありがとうございます！\nやってみます！！ハロウィン間に合ったらいいな！",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nc0ecd0ebb72b2",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "9月15日版のツールをフル活用して、現在10曲目作成中です😊\n\nありがとうございます✨✨\n\n複数キャラ出すときは参考にさせていただきます😆\n\n動画生成、次から1…",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nc6140ab4cb366",
+          "user_name": "まなつ/突出マイノリティ列伝",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIって、言ったことだけじゃなく気を利かせてるつもりで余計なことをしてきたりするときもあるから、ややこしいらしいね🤭",
+          "article_title": "【MVスキル付き】AIに1本作らせて、ダメ出しを3周",
+          "note_key": "n1d330d3c5f59"
+        },
+        {
+          "key": "nc79d95de6b9c3",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、企画への参加ありがとうございます！\n\nKITACoreさんの曲をMV化なんですね✨\n歌詞がとっても印象的で\nMVはスタイリッシュでとっても魅入…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc416c31381385",
+          "user_name": "架空彼氏製作所｜AIイラスト",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319842700/profile_6ccdf3d0785fb3fd5de3736e1215a0f2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "はじめまして！\n曲かっこよすぎでした✨\nモーショングラフィック✨\nこういうの作れるの尊敬でしかない✨",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncd0a47507af2d",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わー！\nこの曲カッコイイですよねー🎵MVもめっちゃハマってる💖\n\nみんな共犯者やったんですね🤣",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncfdb02f08230a",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みんな共犯者🤣\n私も共犯者🤣\n動画最高😆😆👍",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncf28f735f658a",
+          "user_name": "🐾コロッケノスケ☕️｜ハロウィンタロット占い師🔮",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322511250/profile_756fe04eee4fc5f2d763a0391e3882e4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、気づいたら仲間がみんな共犯者だった、という流れが最高でした🤣 \n好きな人たちと一緒に作品を作れるって、本当に素敵ですね。\n猫の私も、しっぽをかぼちゃ…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncfcc573f2a74b",
+          "user_name": "コヤギ｜静かに暮らす",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313007102/profile_3c96df5a33b2fad2c5e15deb41f01bb0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんにちは！\nお邪魔してます、コヤギです🐐\n\nMVかっこいいですね\nそりゃ全員共犯者ですものね😎☺️\n\nキタコレさんのMVも好きですが、こたやさんの…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc8912d014a0b2",
+          "user_name": "ナオユキ｜物語と知識のコンシェルジュ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313291204/profile_a5b784b498c6219aaf599ff4dba0e39f.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、かっこいいです😎\n\n音楽聞いたことあると思ったらキタコレさんでしたね🤭\n\nモーショングラフィックを取り入れて、躍動感がありました🙌\n\nみんなハロウィ…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc0386e84d0d81",
+          "user_name": "禁断のニョロうさぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/165255916/profile_638f52424ccc67a018bf069c6cec5918.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スタイリッシュ〜！✨🎃\nお洒落な曲にカッコイイ5人！\nダイブするところと、満月バックに走る5人がいいですなぁ〜！👀",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncc39181185034",
+          "user_name": "ママ薬剤師HONO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさーん❤️\n\nみんな共犯者だった🤣\n曲もMVも、めっちゃカッコよくて、大好きです😍\n\n素敵な記事ありがとうございます🙌✨",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc56ec2a074cf8",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もういまや誰でも動画～な時代💦\nホントオレの居場所がなくなるのを感じています｡･ﾟ･(ﾉ∀`)･ﾟ･｡\n歌うテキスト、キタコレ兄やんが大好きなパターンですが、オ…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc0f18a10d9039",
+          "user_name": "すみれ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/295374920/profile_ea78de5d312c1951cda19a3add26553f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "えっ…かっこよ！！\nハロウィンアート、観るのたのしいーー🥰\n赤柴さんかわいい♡\nみんなが夜の街にダイブするシーンすきです🎃",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncc902e42550d1",
+          "user_name": "ゆ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294515175/profile_15c766eaba8e6142ce75242c987eda23.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "毎月AIになんぼ使うてますのん",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc989e70954f7e",
+          "user_name": "須川元介/情報翻訳家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/238929357/profile_4d487be6cc66654f0df4c1f7e09d7b75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KOTAYAさん、こんばんは！\n\nMVカッコいい✨\n歌詞みるとめっちゃ共犯者に親和性高い曲ですね！\nこの作り方が明日見れる😆楽しみです！",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "ncf6a585b5c3df",
+          "user_name": "Marie | まりーの小さな⚙️歯車⚙️ラボ🔬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285156567/profile_3ad573489c0a1f11585506dd83c3299b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クレジットに\nPolloAI (Seedance 2.5) って\nあったね〜🤭\n\n鍵になるパーツは予想ついたけど、\n動くMVの自動制作スキルか〜\n\nこれは楽しみ…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nce841130b4da8",
+          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こちゃさん、こんばんは！\nこの曲、めっちゃいいですよね～🎵\nわたしも大好きです✨️雰囲気もすごく合ってる！\n月をバックに走るシーン、ルパンみがあって好きです😆\n…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc738c90c5c054",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん！\n\nMVも曲も歌詞もめっちゃ良いですね☺️\n\nアップテンポな曲調で、ハロウィン感もありつつ、悪巧みする共犯者っぽさもありつつで最高です❣️",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc151e26f110d7",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こたやさん、こんばんは！\nＭＶとっても素敵でした～～～🎵\nクオリティも高くて、ビックリです！\nこの度は、参加いただきありがとうございました😊\nあちこちでハロウィ…",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc297e70d49cf6",
+          "user_name": "はしゃも｜感情構造エンジニア",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "全員共犯者🤣\n確かに、これ見て気付きました！\nまさか、ここでるな出してくるとは✨\nありがとございます😊",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        },
+        {
+          "key": "nc1b144dee54d2",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "クローゼットのジムが気になって仕方ないwwww\nどういうことですかw",
+          "article_title": "企画を動かす4人が、全員共犯者だった",
+          "note_key": "n238d4f059b9f"
+        }
+      ],
+      "rare_no": 3
     }
   ]
 }
