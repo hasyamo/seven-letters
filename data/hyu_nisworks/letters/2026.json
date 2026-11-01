@@ -2525,12 +2525,12 @@
       "condition": "likes_up",
       "rare": true,
       "stats": {
-        "likes_total": 244,
+        "likes_total": 246,
         "likes_prev": 150,
         "followers_start": 755,
         "followers_end": 767,
-        "new_fans": 85,
-        "comments_total": 14,
+        "new_fans": 87,
+        "comments_total": 16,
         "posts_count": 6,
         "consecutive_days": 3,
         "post_times": [
@@ -2544,7 +2544,7 @@
         "top_article": {
           "title": "二人で味わう朝のコーヒー。でも味の違いはよくわからない。",
           "key": "nfc00b0573ae0",
-          "likes": 70,
+          "likes": 74,
           "comments": 4
         },
         "notable_reader": {
@@ -2552,9 +2552,17 @@
           "urlname": "kens_reading1",
           "follower_count": 20430
         },
-        "commenters_count": 6
+        "commenters_count": 7
       },
       "comments": [
+        {
+          "key": "ncb4185f8c73b4",
+          "user_name": "カナミン｜AIと迷いながら、進む人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296376936/profile_37b12f6fe5760f42120d108ec45fea1c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、おはようございます✨\nGMOの問題でセキュリティに敏感になっています。\nいろいろ試していく中で、非ITだからこそより慎重に考えなくては…と思ってみた…",
+          "article_title": "月まで行けるロケットでコンビニへ？セキュリティを機に、AI環境を「自分サイズ」にダウンサイジングした話",
+          "note_key": "nf723236ea7fa"
+        },
         {
           "key": "nceaffe89f041c",
           "user_name": "てぼっこ",

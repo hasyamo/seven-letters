@@ -1459,16 +1459,16 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "shizuku",
+      "condition": "quiet",
       "rare": false,
       "stats": {
-        "likes_total": 269,
+        "likes_total": 272,
         "likes_prev": 243,
         "followers_start": 2279,
         "followers_end": 2300,
         "new_fans": 63,
-        "comments_total": 18,
+        "comments_total": 29,
         "posts_count": 2,
         "consecutive_days": 1,
         "post_times": [
@@ -1478,7 +1478,7 @@
         "top_article": {
           "title": "May seek more｜夢と現実のあいだで歌うルナ｜MV｜MiniMaxH3｜Seedanse2.0｜DomoAI【PR】",
           "key": "n230c3861d119",
-          "likes": 106,
+          "likes": 114,
           "comments": 14
         },
         "notable_reader": {
@@ -1486,7 +1486,7 @@
           "urlname": "links_lt",
           "follower_count": 17990
         },
-        "commenters_count": 9
+        "commenters_count": 10
       },
       "comments": [
         {
@@ -1499,7 +1499,7 @@
         },
         {
           "key": "ncaec59e7acc17",
-          "user_name": "おっぽ(スキ&コメント🐌🦥🐢)",
+          "user_name": "おっぽ(12/2までお休み🦥DM/リンク馳せ参じます！))",
           "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "羊さん、こんにちはー🐈‍⬛✨\n\nめちゃくちゃかっこいいMVですね👀‼️\nものすごくお洒落で目が奪われました。\nリリックモーション素敵だし、アングルの切り替えがお…",
           "article_title": "May seek more",
@@ -1540,15 +1540,23 @@
         {
           "key": "nc6b8cb54058a1",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "お！Domo AIもnote見てるんだね😊\n今日はキノコ🍄に肥料をやりました✨💃",
           "article_title": "May seek more",
           "note_key": "n230c3861d119"
         },
         {
+          "key": "nca4d3f99a7578",
+          "user_name": "KITAcore｜キタコレ＠ログプレイヤー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223627119/profile_d5c267fbb0a27f4c2b86cb89c6ca6a62.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おかしい。。。w\nコメント残したつもりでした。\n\nほんとに続けられてるきっかけをもらった一人です。\n\n今後ともよろしくお願いします",
+          "article_title": "制作の舞台裏",
+          "note_key": "n97ce9e1c03a4"
+        },
+        {
           "key": "nc71459646c3ad",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "お！山中サトシバージョンのスペサンテーマソングのMV作ってほしいなあ😊",
           "article_title": "制作の舞台裏",
           "note_key": "n97ce9e1c03a4"
@@ -1563,8 +1571,8 @@
         },
         {
           "key": "nc6e83313694e5",
-          "user_name": "𝖈𝖍𝖆𝖙 𝕲𝕿-𝕽デカボタン推進派",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/326721507/profile_4a6142199d67eabc68950873be4b25c4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "Réclipique   Supported by G’s ego project",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330864025/profile_6f0cd8fe3c979dbbb3226ac87de56d94.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "今回の記事で特に印象に残ったのは、自分で生み出した作品だからといって、必ずしも自分の表現だけが最適とは限らない、という気づきです。\n\n同じ歌詞でも、曲を作る人が…",
           "article_title": "制作の舞台裏",
           "note_key": "n97ce9e1c03a4"

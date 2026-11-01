@@ -2056,15 +2056,15 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "shizuku",
+      "condition": "quiet",
       "rare": false,
       "stats": {
-        "likes_total": 360,
+        "likes_total": 364,
         "likes_prev": 432,
         "followers_start": 8063,
         "followers_end": 8095,
-        "new_fans": 89,
+        "new_fans": 90,
         "comments_total": 8,
         "posts_count": 1,
         "consecutive_days": 1,
@@ -2074,13 +2074,13 @@
         "top_article": {
           "title": "『✨伸びる流れが、確かに来ている。』-ティックトックのフォロワー700突破。-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
           "key": "n8f0fd33d2ba2",
-          "likes": 108,
+          "likes": 132,
           "comments": 8
         },
         "notable_reader": {
-          "name": "りんくす@AI人格コーディネーター",
-          "urlname": "links_lt",
-          "follower_count": 18082
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 18245
         },
         "commenters_count": 4
       },
@@ -2111,8 +2111,8 @@
         },
         {
           "key": "nc800b3c41f809",
-          "user_name": "カケルン・マンガnote  フォロバ100",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "カケルン・マンガnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330929981/profile_692dc24493fb16200a679edc3801a8b0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "まいかさん、TikTokフォロワー700人突破おめでとうございます！🎉\nnoteだけでなくTikTokでも着実にファンが増えているのは素晴らしいですね〜😊\n僕も…",
           "article_title": "『✨伸びる流れが、確かに来ている。』-ティックトックのフォロワー700突破。-",
           "note_key": "n8f0fd33d2ba2"

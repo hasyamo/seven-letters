@@ -6555,8 +6555,8 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "hiyori",
-      "condition": "followers_up",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
         "likes_total": 189,
@@ -6564,7 +6564,7 @@
         "followers_start": 2031,
         "followers_end": 2037,
         "new_fans": 28,
-        "comments_total": 12,
+        "comments_total": 24,
         "posts_count": 2,
         "consecutive_days": 1,
         "post_times": [
@@ -6574,15 +6574,15 @@
         "top_article": {
           "title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
           "key": "n7fc9d6056781",
-          "likes": 82,
-          "comments": 8
+          "likes": 89,
+          "comments": 16
         },
         "notable_reader": {
           "name": "りんくす@AI人格コーディネーター",
           "urlname": "links_lt",
           "follower_count": 18102
         },
-        "commenters_count": 10
+        "commenters_count": 12
       },
       "comments": [
         {
@@ -6618,6 +6618,22 @@
           "note_key": "nf83cbd7f5fa7"
         },
         {
+          "key": "nc0ea57cc5671f",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん\nおはようございます✨\nそらちゃん失業中なのに審査員🎃しかも賞金まで出してくれるんですね😆✨\n誰が受賞するのかも楽しみにしてま〜す！",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
+          "key": "nc848182a2c88c",
+          "user_name": "ゆぴか｜働きづらさから在宅ワークを模索中☀︎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ねんころさん、お邪魔しまーす💕\n\nそらちゃん働き者ですね🥹\n\n初期のそらちゃんより\nほんとに面白くなってきてます🤣",
+          "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
+          "note_key": "n7fc9d6056781"
+        },
+        {
           "key": "nc8246468661c6",
           "user_name": "緑どんぐり",
           "user_icon": "https://assets.st-note.com/production/uploads/images/321090299/profile_c35af0d1fa55a324ef528c9296c1794e.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -6643,8 +6659,8 @@
         },
         {
           "key": "ncaf71f7e3d161",
-          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "考える赤柴｜GitHub講座連載中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699322/profile_59b00707d4b52b2f71f3ae0211e26a6e.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ねんころさん、そらちゃん、こんばんは～！！\nとうとう明かされた賞の内訳…😮\nなんと10名さまも表彰していただけるんですね🥹\nありがとうございます✨️✨️\n\nおも…",
           "article_title": "【そらちゃん失業日記・番外篇】失業中なのにハロウィンアート2026の審査員になりました。しかも賞金出します🎃",
           "note_key": "n7fc9d6056781"

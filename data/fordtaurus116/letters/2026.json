@@ -6714,16 +6714,16 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "tsukiko",
+      "condition": "consecutive",
       "rare": false,
       "stats": {
-        "likes_total": 270,
+        "likes_total": 283,
         "likes_prev": 359,
         "followers_start": 1862,
         "followers_end": 1872,
-        "new_fans": 32,
-        "comments_total": 9,
+        "new_fans": 34,
+        "comments_total": 13,
         "posts_count": 7,
         "consecutive_days": 7,
         "post_times": [
@@ -6736,9 +6736,9 @@
           "08:25"
         ],
         "top_article": {
-          "title": "AIチャッティの朝活｜頑張った自分に、やさしく。｜AIイラスト × GPT image2.5",
-          "key": "n730b822f8477",
-          "likes": 38,
+          "title": "【AI動画】実写ダンスを和装アニメに！Pollo AI「Recast」を使ってみました｜480pと720pを比較",
+          "key": "nddfe32843234",
+          "likes": 46,
           "comments": 4
         },
         "notable_reader": {
@@ -6746,9 +6746,25 @@
           "urlname": "fair_impala134",
           "follower_count": 30263
         },
-        "commenters_count": 4
+        "commenters_count": 5
       },
       "comments": [
+        {
+          "key": "nceda928e8237c",
+          "user_name": "うきよ🎴",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280438219/profile_c3c61f252f7093083789c0115390f87c.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ありがとうございます！京都の町並みで和装キャラが踊る絵、すごく好きな世界観でした。480pと720pでクレジットが倍違うのに見た目の差は小さい、という比較はとて…",
+          "article_title": "【AI動画】実写ダンスを和装アニメに！Pollo AI「Recast」を使ってみました",
+          "note_key": "nddfe32843234"
+        },
+        {
+          "key": "nc10cbb028b1c7",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322474239/profile_fce4138c4bb1001cc51b60785c106073.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nいつも分かりやすく比較されていて素敵です(☆>ω<)\nクレジット消費すごい違いますよね(ﾉ∀｀笑)",
+          "article_title": "【AI動画】実写ダンスを和装アニメに！Pollo AI「Recast」を使ってみました",
+          "note_key": "nddfe32843234"
+        },
         {
           "key": "nc5ab4291470b2",
           "user_name": "ミナト汐　＠光と構図のアトリエ",
@@ -6760,7 +6776,7 @@
         {
           "key": "ncd81dbb996e25",
           "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322281272/profile_aab1aac2b58ef169f0dfca6a932cd12e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330890077/profile_e7c863f050817a0dff0c3d26469b4517.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "チャッティさん、こんばんは🥰\n\nテンプレートが2種類あるのが、すごくいいなと思いました✨\n白黒の線画と、被り物だけ色がついているもの。しかも番号が同じ。\n\n形を…",
           "article_title": "【AIイラストの描き方】ハロウィン被り物9選🎃",
           "note_key": "naf5586e4aa63"

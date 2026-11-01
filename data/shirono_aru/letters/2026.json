@@ -918,15 +918,15 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "hiyori",
+      "condition": "followers_up",
       "rare": true,
       "stats": {
-        "likes_total": 576,
+        "likes_total": 592,
         "likes_prev": 283,
         "followers_start": 4263,
         "followers_end": 4338,
-        "new_fans": 150,
+        "new_fans": 154,
         "comments_total": 0,
         "posts_count": 1,
         "consecutive_days": 1,
@@ -936,7 +936,7 @@
         "top_article": {
           "title": "noteで安定してスキもらうためには？いつもスキをくれる読者を「見える化」する方法。",
           "key": "nc1b3e6824a1a",
-          "likes": 295,
+          "likes": 361,
           "comments": 0
         },
         "notable_reader": {

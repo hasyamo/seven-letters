@@ -6029,16 +6029,16 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "you",
-      "condition": "likes_up",
+      "sender": "runa",
+      "condition": "new_fans",
       "rare": false,
       "stats": {
-        "likes_total": 464,
+        "likes_total": 471,
         "likes_prev": 366,
         "followers_start": 851,
         "followers_end": 884,
         "new_fans": 115,
-        "comments_total": 82,
+        "comments_total": 108,
         "posts_count": 13,
         "consecutive_days": 7,
         "post_times": [
@@ -6059,17 +6059,33 @@
         "top_article": {
           "title": "シュカとBobo｜香りに恋したオバケかぼちゃ | ハロウィンアート2026",
           "key": "nb663a4f6cfcf",
-          "likes": 64,
-          "comments": 26
+          "likes": 70,
+          "comments": 28
         },
         "notable_reader": {
           "name": "ペンムウ＠コンビニ・菓子舗とかのスイーツ・スナック大好きなのでドンドン食べてガンガンご紹介！",
           "urlname": "penmuu",
           "follower_count": 18470
         },
-        "commenters_count": 22
+        "commenters_count": 26
       },
       "comments": [
+        {
+          "key": "nc931a54cc8c48",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330635549/profile_6fef855b0215ea7851a98803ceb19ab8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、こんばんは🌙\n\nなんだか楽しそうな企画ですね♪\n今旅行中なので、帰ったらやってみようと思います😁\n\n「めじゅの繕い屋」めじゅさんらしくて素敵です💕\n…",
+          "article_title": "昭和横丁に「めじゅの繕い屋」開店しました🏮",
+          "note_key": "na014abcb23e9"
+        },
+        {
+          "key": "nc6a949616c278",
+          "user_name": "ランタン親父｜人生後半のnote相談室",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278318742/profile_5a2f97af4e2b8a12230800fd191094d6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "めじゅさん、おはようございますーー！！🤣🏮💖\n\n昭和横丁に「めじゅの繕い屋」開店、おめでとうございます！！🎉🎉\n\n最初の「めじゅ式 実験工房」からの大変身に笑っ…",
+          "article_title": "昭和横丁に「めじゅの繕い屋」開店しました🏮",
+          "note_key": "na014abcb23e9"
+        },
         {
           "key": "nc5ad5a0781148",
           "user_name": "はるねずみ｜note副業０→１応援",
@@ -6085,6 +6101,14 @@
           "body": "めじゅさん、たくさんのスキをありがとうございました。\nギャグにエネルギーを使いすぎたため寝てました。\n\n起きたらビックリです。\n本当にありがとうございました。🥰",
           "article_title": "昭和横丁に「めじゅの繕い屋」開店しました🏮",
           "note_key": "na014abcb23e9"
+        },
+        {
+          "key": "nc893a87b6e6f1",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325507135/profile_a26a91057b7f19436fe2be705355a240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "キャラクターのサイズ差もそうですが、一画面に３キャラは多いので誰かが崩れる可能性が高いですね。今回は背景の情報量も多いですし難易度高かったと思います。\nだからこ…",
+          "article_title": "真面目なChatGPT・アオギの、なんちゃって画像生成展示場 | ウチのChatGPT、やれば出来る子なんですけどね…www",
+          "note_key": "nd1f28b01ae4f"
         },
         {
           "key": "nc570f759d23bb",
@@ -6121,7 +6145,7 @@
         {
           "key": "nc0e9eeb04f787",
           "user_name": "sophie",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329361578/profile_f0a07cd9a0f920a45ef562b4dcfe3863.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん\n\nこんばんは！\nニアさんのプロンプト、面白いですよね…！\n三コマ漫画、初めてやってみたんですが楽しくて～\n止まらなくなりました🤣",
           "article_title": "超簡単だった💕 | 斉川ニアさんのハロウィン漫画プロンプト",
           "note_key": "n357486935be0"
@@ -6135,6 +6159,22 @@
           "note_key": "n357486935be0"
         },
         {
+          "key": "nc74f1d785b9d7",
+          "user_name": "ピナクル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/325507135/profile_a26a91057b7f19436fe2be705355a240.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イラストが凄く綺麗で引き込まれました (≧◡≦)ﾉ💖",
+          "article_title": "シュカとBoboと森の馬Popo",
+          "note_key": "n2deaf44deeed"
+        },
+        {
+          "key": "nce5864a87ce38",
+          "user_name": "零ぴちゅ。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330705162/profile_d6853a0694ea2f92a77fd24f6315a55a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "変な夢見ましたわ(*´艸`)笑",
+          "article_title": "オバケかぼちゃのBoboに、手足が生えた動画…",
+          "note_key": "n0163d76cf42c"
+        },
+        {
           "key": "nc27dc9466597e",
           "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
           "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -6145,7 +6185,7 @@
         {
           "key": "nc257e444aef93",
           "user_name": "タニシ11号🐚─‎経験を、誰かのために🍀",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/323730315/profile_458d23edcfa045834c85051fdf356a64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330753849/profile_16eb0555b84e1253aa931473286b1d4a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "何が怖いって💦\n顔が……目が普通で、逆に怖い😱\n\nꉂ🤣𐤔\n",
           "article_title": "オバケかぼちゃのBoboに、手足が生えた動画…",
           "note_key": "n0163d76cf42c"
@@ -6161,7 +6201,7 @@
         {
           "key": "ncb8f0491c41cb",
           "user_name": "sophie",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329361578/profile_f0a07cd9a0f920a45ef562b4dcfe3863.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん\n\nこんばんは～\n大変な中、Webサイトのの引継ぎありがとうございましたー！\n\n大切な大玄関の鍵、確かにお預かりしました。\n少しずつ更新してみようと思…",
           "article_title": "スタエフ🎙サグラダ・めじゅリア | 宣伝DA〜\"ꉂ😝💙💚 | メンシプ第2期、募集ちゅ〜😘💕",
           "note_key": "n67dccda8e8e4"
@@ -6169,7 +6209,7 @@
         {
           "key": "nc1cbb742c514c",
           "user_name": "sophie",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329361578/profile_f0a07cd9a0f920a45ef562b4dcfe3863.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん\n\nこんにちは～\n面白いです🤣\nめっちゃ大きな耳で、\nこっそり聞き耳立ててる子が生まれました！\n\n本音は「ほめられたい」です！",
           "article_title": "王様の耳はロバの耳 | あなたの本音ガチャ🎃",
           "note_key": "nc76f3b768332"
@@ -6177,15 +6217,39 @@
         {
           "key": "nc6b8dffb010d6",
           "user_name": "タニシ11号🐚─‎経験を、誰かのために🍀",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/323730315/profile_458d23edcfa045834c85051fdf356a64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330753849/profile_16eb0555b84e1253aa931473286b1d4a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん💕\n\nあなたは神ですか🤭\nさっそくやってみたいと思いますꉂ🤣𐤔\n\nまた報告に来ますね🤗💞",
           "article_title": "王様の耳はロバの耳 | あなたの本音ガチャ🎃",
           "note_key": "nc76f3b768332"
         },
         {
+          "key": "nc44439b12e57a",
+          "user_name": "考える赤柴｜GitHub講座連載中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699322/profile_59b00707d4b52b2f71f3ae0211e26a6e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーい、めじゅさん、PHP気になりましたよね！\n本としての脆弱性…🤣確かに👍️\n\nでも、昔ならわからなくても「ま、いっか」だったことが\n生成AIに聞いて理解でき…",
+          "article_title": "PHP研究所がサイバー攻撃⁉️ 非エンジニアめじゅ、大いに勘違いする。",
+          "note_key": "nd5825192992c"
+        },
+        {
+          "key": "ncc7f3ece3a193",
+          "user_name": "スイッチくん🐻😊 │ BASIC言語、配布中 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "自分も非エンジニアですが、CGIとかPerlなどと似た物と認識しています🐻(好みの出版社はブルーバックスが多め)",
+          "article_title": "PHP研究所がサイバー攻撃⁉️ 非エンジニアめじゅ、大いに勘違いする。",
+          "note_key": "nd5825192992c"
+        },
+        {
+          "key": "nc3372ea25d6bb",
+          "user_name": "ＫＥＮＢＡ７７７",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316137598/profile_3f46044a485a49971d80c1aef1e7c85f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マイナンバーカードは大丈夫と言われていますが心配です。\n\nマイナンバーが売買ナンバーやバイバイナンバーにならない事を願うばかりです。",
+          "article_title": "PHP研究所がサイバー攻撃⁉️ 非エンジニアめじゅ、大いに勘違いする。",
+          "note_key": "nd5825192992c"
+        },
+        {
           "key": "nc1a6fa55f17cc",
-          "user_name": "まなつ/突出マイノリティ列伝",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "まなつ/イタリアでバカンス中🇮🇹",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699970/profile_553c0671cf15554f73eb3a65936ab577.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ジャバ・ザ・ハットはね、スター・ウォーズ🤣🤣🤣",
           "article_title": "PHP研究所がサイバー攻撃⁉️ 非エンジニアめじゅ、大いに勘違いする。",
           "note_key": "nd5825192992c"
@@ -6193,7 +6257,7 @@
         {
           "key": "nc8f93b045b72b",
           "user_name": "タニシ11号🐚─‎経験を、誰かのために🍀",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/323730315/profile_458d23edcfa045834c85051fdf356a64.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330753849/profile_16eb0555b84e1253aa931473286b1d4a.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん✨\nこんにちは😊\n\n分かりすぎるほど分かります😭\n私も、グルグル🌀🌀ループにハマって、抜けるまでに体力使い果たしました💧‬\n\nまず専門用語を理解する所…",
           "article_title": "認証しました。では、認証してください。",
           "note_key": "nf5176caefcb1"
@@ -6248,11 +6312,19 @@
         },
         {
           "key": "nc83cf499a93bf",
-          "user_name": "まなつ/突出マイノリティ列伝",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318987516/profile_0302b74ceb8d7fa0f2364d440b5bf5c7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "まなつ/イタリアでバカンス中🇮🇹",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699970/profile_553c0671cf15554f73eb3a65936ab577.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "Webサイトは5種類から選べるんやね！ついに第2期スタート♪盛り上げていくね(´∀｀∩)↑age↑",
           "article_title": "月額980円。特典のWebサイト、引き渡し後はご自由に。",
           "note_key": "nf40b45508611"
+        },
+        {
+          "key": "nc9f8b975c1e96",
+          "user_name": "きっこ 🪶 (🐕 🫧)",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330831197/profile_c5ac9fdb8816ec894dfaf24baa44e841.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Happy Halloween🎃🎵\nめじゅさん、こんばんは。\n\nBoboが、最後は肩のりになってるの、\nかわいかったです✨\n\n廊下をボムボム跳ねている動画、\n躍…",
+          "article_title": "シュカとBobo",
+          "note_key": "nb663a4f6cfcf"
         },
         {
           "key": "ncf8177273f74e",
@@ -6265,7 +6337,7 @@
         {
           "key": "nc20a908a1caeb",
           "user_name": "雪詠｜ゆきよみ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330635549/profile_6fef855b0215ea7851a98803ceb19ab8.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさーん✨こんにちは\n\nゲコッぴくん🥰\nめっちゃ紳士で惚れてまいそーーです😆\n\n「シュカの肩が、Boboの特等席」\n二人の列車の旅も楽しみですね♪\n\n最後の…",
           "article_title": "シュカとBobo",
           "note_key": "nb663a4f6cfcf"
@@ -6280,16 +6352,16 @@
         },
         {
           "key": "nc0093394f3323",
-          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "考える赤柴｜GitHub講座連載中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699322/profile_59b00707d4b52b2f71f3ae0211e26a6e.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん、こんばんは✨️\n\n端正な物語を読ませていただきました😊\nBoboくんは表情豊かで、かわいいですね～😆\nゲコッぴくんがビシッと三つ揃いを着こなしている…",
           "article_title": "シュカとBobo",
           "note_key": "nb663a4f6cfcf"
         },
         {
           "key": "nc68e7fdc871ae",
-          "user_name": "🐾コロッケノスケ☕️｜ハロウィンタロット占い師🔮",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322511250/profile_756fe04eee4fc5f2d763a0391e3882e4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "🐾邪魔ッケノスケ☕️｜GECKO CAFE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331018654/profile_ea235ecd194f1b2dad320df82b6e24c2.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "めじゅさん、こんにちは☺️\n最後まで楽しくて、ページをめくる手が止まりませんでした🤣 \nハラハラしたり笑ったりしながら、気づけば胸がほっこりしています。\n猫の私…",
           "article_title": "シュカとBobo",
           "note_key": "nb663a4f6cfcf"
@@ -6297,7 +6369,7 @@
         {
           "key": "nc74f088068eae",
           "user_name": "noteと遊ぶ あん",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/326114120/profile_b6ab9ed0a48f906ff296d11dda07623c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330701103/profile_41e21c90e45adcad9274c6017121c1a5.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "シュカがかっこいい！！\n\nオバケかぼちゃのBoboのGIFがかわいーと思っていたら🤭\n\nグラン・クチュール・コレクション出場のめじゅさんが美しい💞",
           "article_title": "シュカとBobo",
           "note_key": "nb663a4f6cfcf"
@@ -6321,7 +6393,7 @@
         {
           "key": "nc0ce49e56c018",
           "user_name": "ママ薬剤師HONO",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330740098/profile_2b58782ef5d25d43f402ad0a0f50405b.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ハロウィンアート2026へのご参加ありがとうございます🎃✨\n\nBobo、かわいい〜！！🥰💕\n\nトランクにこっそり入り込んで、お屋敷で大暴れ🤣\nゲコッぴのHADO…",
           "article_title": "シュカとBobo",
           "note_key": "nb663a4f6cfcf"

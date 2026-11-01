@@ -14252,16 +14252,16 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "runa",
-      "condition": "new_fans",
-      "rare": false,
+      "sender": "hiyori",
+      "condition": "followers_up",
+      "rare": true,
       "stats": {
-        "likes_total": 570,
+        "likes_total": 588,
         "likes_prev": 732,
         "followers_start": 2079,
         "followers_end": 2100,
-        "new_fans": 58,
-        "comments_total": 87,
+        "new_fans": 60,
+        "comments_total": 130,
         "posts_count": 2,
         "consecutive_days": 1,
         "post_times": [
@@ -14271,17 +14271,65 @@
         "top_article": {
           "title": "【ハロウィーン🎃MV企画】｜700年前の写本が開いた夜🌉セラフの冒険が始まった✨",
           "key": "n33e480172968",
-          "likes": 174,
-          "comments": 60
+          "likes": 197,
+          "comments": 82
         },
         "notable_reader": {
           "name": "影武者コピーライター宮本真愿",
           "urlname": "5starcopy",
           "follower_count": 21411
         },
-        "commenters_count": 39
+        "commenters_count": 50
       },
       "comments": [
+        {
+          "key": "nc369578879eb2",
+          "user_name": "すのー*｜AI × 未来社会",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/192968358/profile_7b3de8588480bdafc2798a79204c822c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みき様\n\n金箔がうまくのらず、下書きのトレースに戻るところからの二週間。文字も彩色も一つずつ進めた記録を読むと、「提出できてよかった」の一言が、ぐっと近く感じら…",
+          "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
+          "note_key": "n8573001cd0ab"
+        },
+        {
+          "key": "nc89632549bfe6",
+          "user_name": "歌詠み音楽クリエイターUTAKO",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/327686677/profile_44e6f9316ce685e3b6673778522092f9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ミキティー、こんばんは🌙✨\n写本模写おめでとうございます㊗️\n本格的でビックリ‼️\n展示会で飾ってそうなやつ😳\n金、今高いよねー💦\n本物を使うところにも、こだわ…",
+          "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
+          "note_key": "n8573001cd0ab"
+        },
+        {
+          "key": "ncf79ca1b4e4c6",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパス みきさん、こんばんは\n\n写本模写の完成、おめでとうございます\n\n金箔が乗らなかった夜から\n夜中3時の提出まで\n読みながら、何度も指先に力が入りました\n…",
+          "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
+          "note_key": "n8573001cd0ab"
+        },
+        {
+          "key": "nc593b34a3915a",
+          "user_name": "🌸おはな＆🐕まめしばさん公式",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/299967471/profile_6c6d1d1ada2c8774e44d755b8cfacdb1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🌸おはな\nコンパス みきさん、こんばんは！✨\n写本模写の完成、本当におめでとうございます！メノウ棒での研磨や純金の金箔貼り直しという大試練を乗り越え、ハズキルー…",
+          "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
+          "note_key": "n8573001cd0ab"
+        },
+        {
+          "key": "nc1b74b159fc04",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきChan～\nごきげんよう(^^♪\n\n完成おめでとうございます🌸\nすごいですね！👏\nパッションを感じます😆\n\n最近やり切ったことですか～\n一瞬考えましたが、ど…",
+          "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
+          "note_key": "n8573001cd0ab"
+        },
+        {
+          "key": "ncff4d4646a4db",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、凄すぎて……！！！\n\nこれで「初心者ですが…🔰」みたいなスタンスなんですか😳\n\n文字も絵も金箔も……すごく細かい作業で、緊張感半端ないですね。\n\nこれ…",
+          "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
+          "note_key": "n8573001cd0ab"
+        },
         {
           "key": "nc595593bff462",
           "user_name": "天野 雫",
@@ -14308,8 +14356,8 @@
         },
         {
           "key": "nc1b5498dc1a34",
-          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "考える赤柴｜GitHub講座連載中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699322/profile_59b00707d4b52b2f71f3ae0211e26a6e.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさーん、お疲れ様でした✨️✨️\n\nこれが写本模写なんですね🤩💕\n素敵すぎる！！\nすごい世界があるんだなぁとワクワクしました😆🙌✨️\n金…高いですよね😭\n写本…",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
@@ -14349,7 +14397,7 @@
         {
           "key": "nce46ee6e1029e",
           "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330669451/profile_5126bea87c75bbe892dd1499f2c1d65d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みーちゃーん、こんばんは🌙\n写真は拡大しないでください、はダチョウ俱楽部風に\n拡大しろよ　に変換して拡大してみましたが\n粗なんかない！めっちゃ上手やと思いました…",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
@@ -14357,7 +14405,7 @@
         {
           "key": "nc73b065956279",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ワシは、やっぱりマガジンの毎日更新かなあ😊自分で言うのもなんですが、地味にすごいことだと思う✨💃💃",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
@@ -14365,15 +14413,15 @@
         {
           "key": "nc5447c3b47074",
           "user_name": "マイキー🗝️",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/323874820/profile_4a63c55a236e3b2614fdfe96896d0534.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330929864/profile_c6f914f8a4c46a056935e3f3fee4cb0f.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん\nこんばんは🧭\n\nやばっ✨\nめっちゃすごいし、おしゃれやし、見入ってしまいました\nそして、拡大するなと言われると、つい拡大しちゃいます(笑)\n\n手作業の…",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
         },
         {
           "key": "ncc66c7138e617",
-          "user_name": "カケルン・マンガnote  フォロバ100",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "カケルン・マンガnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330929981/profile_692dc24493fb16200a679edc3801a8b0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ミキティ、完成おめでとう〜！🎉✨\nいやぁ、想像以上に大変な作業だったんだね！金箔の失敗から下書きまで戻って、そこから2週間で仕上げたなんて本当にすごいよ😊\n\n作…",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
@@ -14381,7 +14429,7 @@
         {
           "key": "nc6c8765163629",
           "user_name": "はしゃも｜感情構造エンジニア",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330772140/profile_71d51a9d5abf12f6ec8c692ca5506666.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんばんは🌙\n写本、、、全然知らなくて、「写本とは？」って早速ググりましたｗ\nこれは少しずつの積み重ねと集中力がいりそうな制作ですね！\n達成感が半端な…",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
@@ -14389,7 +14437,7 @@
         {
           "key": "nc9d802ec16e37",
           "user_name": "sophie",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329361578/profile_f0a07cd9a0f920a45ef562b4dcfe3863.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん\n\nこんばんは！\n写本の制作、お疲れ様でしたー！\n\nこれはスゴイです…！\n手のちょっとした動きや呼吸だけじゃなくて、\nもう自分の鼓動までなんとかしないと…",
           "article_title": "写本模写、できたよーーーー！！金箔失敗からの怒涛の２週間💦",
           "note_key": "n8573001cd0ab"
@@ -14411,9 +14459,73 @@
           "note_key": "n8573001cd0ab"
         },
         {
+          "key": "ncc27cfbaa9794",
+          "user_name": "安達【筋肉メタル親方】｜Creator’s Notebook",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/327886282/profile_58cd834c9160f3b4237e922dff9072aa.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん、こんばんは！\n\nいいですね😊\n世界観が✨\n\nセラフが振り向くところいい！\n好き😁\n\n最後は、みんなで楽しく\nハッピーハロウィン🎃\n\n素敵なMV…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "nc1a6dd1a5cf09",
+          "user_name": "聴話人くるみ｜光へ還る鏡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281255096/profile_09420695eec7906a45fc97c98f79c1a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん\n\nす、すごい😊\n\nみきさんの頭の中、世界観が壮大ですよね✨\n\nMV、ワクワク感が伝わるスタート、最後は\nみんなでダンス、テーマパークにもぐりこんだよう…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "nc7890c8854d51",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企画から来ましたー💕\nラトレル詩篇… 初めてみました！荘厳な音楽ではじまるのが、なんか今までで一番、ちょっと怖い… と思い、めちゃめちゃ惹かれました😍♥️\n\nな…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "nce61b44978c57",
+          "user_name": "りんくす@AI人格コーディネーター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300958213/profile_f2c7f8bf7f834ebfe285f08a23b2cb01.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！\nなんとなくヴォイニッチ写本っぽいものに目を引かれて、重厚な本の中に引き込まれました😳\n\n各世界、オープンワールドのゲームみたいですね🤗\n\n最後は楽…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "nc9f88434f4767",
+          "user_name": "のら@音楽と詩",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/235575676/profile_43dcde3158a2a2cb17955aa48a2f26a4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "みきさん、二回め見に来ました！実は、みきさんがうちの記事にコメント下さる前に、一回拝見していて…すごく好きだったので、もう一回みてコメントしようってなっておそく…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "nc7bbd5dcae235",
+          "user_name": "yukiko 摂食嚥下コンサルタントナース",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/274753119/profile_687d54a9721c905e7b7ecb90303989d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コンパスみきさん、こんばんは✨\n私の記事を素敵なマガジンのお仲間に加えてくださり、ありがとうございます。\nみきさんの記事をこれからも楽しみながら拝読させて頂きま…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "ncdf495fc73dff",
+          "user_name": "るみるみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305473473/profile_d156508b8963e928f92d3da4a2808e77.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "使い魔⭐️\n可愛い過ぎます♥️\n\nMVの始まりは、ゲームのストーリー動画\nのようで、かっこよくて☀️\nみんなでダンス✨ハッピーなハロウィン\n🎃🦇🕸良かったです🎃…",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
+          "key": "ncfaa2dce4457d",
+          "user_name": "Kurono Sora（クロノ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329255339/profile_71957a5fab8d232b10fa11e43f4185c2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは✨\n民謡ぽい曲がすごく素敵です！\nいろんなきれいなシーンがあって世界を旅してるようでした🎵\n後半の楽しい曲も素敵です😆",
+          "article_title": "【ハロウィーン🎃MV企画】",
+          "note_key": "n33e480172968"
+        },
+        {
           "key": "nc837cd94da8f6",
-          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "考える赤柴｜GitHub講座連載中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699322/profile_59b00707d4b52b2f71f3ae0211e26a6e.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんにちは～！！\n写本の動物たちが動く不思議で厳かな雰囲気から…\nセラフくんの旅につながって\n最後は見ていただけのセラフくんが\n輪に入って一緒に楽しむ…",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14421,7 +14533,7 @@
         {
           "key": "nc28e981b000be",
           "user_name": "雪詠｜ゆきよみ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330635549/profile_6fef855b0215ea7851a98803ceb19ab8.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきちゃーーん✨\n\nとっても素敵なMV✨\nみきちゃんらしさが満載で大スキー💗\n\nセラフが巡る、世界旅行🌏\n本当に旅をしているようで感動したよーー🥰💕",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14485,7 +14597,7 @@
         {
           "key": "ncdadd64b6b7fb",
           "user_name": "うんちゃん｜開運実験",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん‼️\nようやく落ち着いてMV見れました✨\nすごすぎるーー‼️\n\n古い写本のキモ怖可愛い生き物たちがちょっと飛び出し動くところ、ミサ曲のようなコーラス、た…",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14509,7 +14621,7 @@
         {
           "key": "ncc94ce18bf6f7",
           "user_name": "零ぴちゅ。",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/325920972/profile_f09d728393d2210c24ee86f4589505ae.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330705162/profile_d6853a0694ea2f92a77fd24f6315a55a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんばんわ🌙\n\n700年前の写本✨\n世界旅行✨\nそこからハイクオリティのMV✨\n\n凄いです(*´艸`)\n見入ってしまいました♪",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14517,7 +14629,7 @@
         {
           "key": "nc4fbbbea6efa8",
           "user_name": "King | 天は自らを助くる者を助けるらしい",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/317453792/profile_90b586905d02d0f2465e8b3e01ab0ad1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330814589/profile_ad14ae70caae7e03f28d7e1571f10ac4.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんにちは。\n\nハロウィン動画すごく上手く出来ていますね！\n完成度高いです！\n\nいつもありがとうございます:)",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14532,8 +14644,8 @@
         },
         {
           "key": "nc28c875e0a536",
-          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ｜︎︎雲バル・ブラバル運営中☁️🖤",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330751797/profile_f730771dfb69a60dc81f2afcc0e11b78.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん、こんにちは‼️☀️\n\n動画。凄かったです‼️\n前半は、まるでゲームのオープニングみたいな‼️\n後半は音楽祭で躍動感あって、見入ってしまいました‼️\n\n…",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14549,15 +14661,15 @@
         {
           "key": "nceea65f7a76fc",
           "user_name": "ｓｅｏｒｉ🧚‍♂／ライトワーカー",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/316943507/profile_e0c071d89a65299b21509201b88da55b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331034986/profile_a444940e339771b2376e11e9cfcd961b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "コンパス　みきさん🧚‍♂\n\nメイシンちゃん　ｶﾜ(・∀・)ｲｲ!!💕\n\nみきさん✨　世界観🗺️スケールが　とても\nデッカイですね！！😊\n\n夕日🌇マガジン🌱載せて…",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
         },
         {
           "key": "nc050f5521fd9d",
-          "user_name": "カケルン・マンガnote  フォロバ100",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "カケルン・マンガnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330929981/profile_692dc24493fb16200a679edc3801a8b0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ミキティ、すごいね〜！😆✨\n700年前の写本から世界旅行、そして音楽祭につながるなんて、発想の広がり方が本当に面白い！\n\nそれにしても14人を動かすのは大変だっ…",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14573,7 +14685,7 @@
         {
           "key": "nc6d52ebbb55c2",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "すごいなあ～毎回凝ってますね✨\n庭が使用済みでした（ｼｸｼｸ😎）",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14637,15 +14749,15 @@
         {
           "key": "ncdd15c2a67fa1",
           "user_name": "sophie",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/298058379/profile_2af793ee90d40c4281dd09b01942c85b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329361578/profile_f0a07cd9a0f920a45ef562b4dcfe3863.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "みきさん\n\nこんばんは～\nMVの中で動く写本！すごいです…！\nBGMがまた素敵！\nセラフの世界旅行のところ好きです！",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
         },
         {
           "key": "ncde49ebe29779",
-          "user_name": "紡えり🐱　⁂GPT遊びに夢中⁂",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/315609305/profile_2228c12696b77ff532353fe3f38b10ed.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "紡えり🐱※11月1日〜７日まで限定キャラ※",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330735736/profile_bd8debe26a78f36e033be6fe73689029.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "こんばんわ！！\n\n映像すごくすごく綺麗でした！！✨✨\n\n場面ごとの音楽の変えて、とか\n映像がとにかく綺麗でした！！👀✨✨",
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
@@ -14658,7 +14770,8 @@
           "article_title": "【ハロウィーン🎃MV企画】",
           "note_key": "n33e480172968"
         }
-      ]
+      ],
+      "rare_no": 2
     }
   ]
 }

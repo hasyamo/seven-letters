@@ -3957,15 +3957,15 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "hiyori",
-      "condition": "followers_up",
-      "rare": true,
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
       "stats": {
-        "likes_total": 512,
+        "likes_total": 529,
         "likes_prev": 440,
         "followers_start": 1882,
         "followers_end": 1906,
-        "new_fans": 60,
+        "new_fans": 64,
         "comments_total": 30,
         "posts_count": 12,
         "consecutive_days": 7,
@@ -3986,7 +3986,7 @@
         "top_article": {
           "title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
           "key": "na666593aeac0",
-          "likes": 52,
+          "likes": 56,
           "comments": 10
         },
         "notable_reader": {
@@ -4048,7 +4048,7 @@
         {
           "key": "nc6d02ce600d4d",
           "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330669451/profile_5126bea87c75bbe892dd1499f2c1d65d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "黒い黒パグさーーーーん、こんばんは🌙\n\n難しいことを昔話でわかりやすく説明してくださって、ありがとうございます😊\n\n今、めちゃめちゃお忙しいと思いますが、どうか…",
           "article_title": "昔話でわかるPHP騒動　〜503じいさんと404ばあさん〜",
           "note_key": "na666593aeac0"
@@ -4088,7 +4088,7 @@
         {
           "key": "nc76058c7960de",
           "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330669451/profile_5126bea87c75bbe892dd1499f2c1d65d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "黒パグさーん、こんばんは。\nんもうめっちゃ可愛い🐾\n黙っていられなかったです。\n\n私も、AI漫画家って名乗っていいかしら？\nおやすみなさい\n明日もがんばりましょ…",
           "article_title": "【保存版】よく聞く「えーあい」関連のお仕事一覧あいうえお順に、まずは20のお仕事から。　補遺に膨大な資料付き！！エクセルファイルもあるよ！",
           "note_key": "nb169795794ad"
@@ -4112,13 +4112,12 @@
         {
           "key": "nc8397eabcd73d",
           "user_name": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/328193696/profile_3f4fc6e27e40c21f6c6a8d9a38d80ffe.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330669451/profile_5126bea87c75bbe892dd1499f2c1d65d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "黒パグさーーーん、こんにちは🐶🎃\n\n丸2日間、ほぼ不眠での障害対応ですか！！\n本当にお疲れさまでした。\n\nヘレン・ケラーやシェイクスピア、偉人たちの言葉を絡めな…",
           "article_title": "逆境は偉大な教師である。ただし授業料が高すぎる。　突発的な難題に向き合う考え方　エンジニアが見ている視点のお話🎃",
           "note_key": "na994faf69dbd"
         }
-      ],
-      "rare_no": 2
+      ]
     }
   ]
 }

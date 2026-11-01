@@ -9868,19 +9868,20 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "hiyori",
-      "condition": "followers_up",
-      "rare": true,
+      "sender": "tsukiko",
+      "condition": "consecutive",
+      "rare": false,
       "stats": {
-        "likes_total": 954,
-        "likes_prev": 936,
+        "likes_total": 998,
+        "likes_prev": 937,
         "followers_start": 1490,
         "followers_end": 1503,
-        "new_fans": 83,
-        "comments_total": 33,
-        "posts_count": 6,
-        "consecutive_days": 6,
+        "new_fans": 89,
+        "comments_total": 55,
+        "posts_count": 7,
+        "consecutive_days": 7,
         "post_times": [
+          "23:33",
           "22:39",
           "23:25",
           "22:28",
@@ -9891,7 +9892,7 @@
         "top_article": {
           "title": "できることが少ないから、できることをする",
           "key": "n365c2e675a6e",
-          "likes": 152,
+          "likes": 158,
           "comments": 16
         },
         "notable_reader": {
@@ -9899,13 +9900,61 @@
           "urlname": "dandism56",
           "follower_count": 18130
         },
-        "commenters_count": 13
+        "commenters_count": 18
       },
       "comments": [
         {
+          "key": "ncc466381d24cc",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n48記事の参加があったんですね👀\n\nお忙しいと思いますので、返信は不要で〜…",
+          "article_title": "明日から読み返して感想を書きはじめます。",
+          "note_key": "n4e2ba24d4e18"
+        },
+        {
+          "key": "ncb1b5738ef9db",
+          "user_name": "コウ｜理系パパの小さな発見",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/311356440/profile_86fbbed74775a60dcef236860866b51d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "今回、企画いただき、ありがとうございます😊48記事の感想びっくりです👀\n楽しみにしつつ、ご無理なさらず🙏",
+          "article_title": "明日から読み返して感想を書きはじめます。",
+          "note_key": "n4e2ba24d4e18"
+        },
+        {
+          "key": "nc593f5de94237",
+          "user_name": "ゆきぽ🦥🌿愛のハブ空港✈️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294171560/profile_d2870fe9e45154270378b4ea22f4fc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、お疲れさま〜☕\n何を書こうかなって考えてる時間も楽しかったです😊\n直感で感想もらえるのって本音だなって感じで嬉しいかも🤭\n今からまたがんばってくだ…",
+          "article_title": "明日から読み返して感想を書きはじめます。",
+          "note_key": "n4e2ba24d4e18"
+        },
+        {
+          "key": "nc08f212d37d84",
+          "user_name": "ちょこまま｜小型宇宙人を育てる母",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/255032173/profile_c43a4a45a64022c228e3606ac7dc33d8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "企画お疲れ様です☺️\nこの企画をきっかけに\n前々から思っていた記事を書き上げる事ができました！素敵なきっかけをいただいて改めてありがとうございます！\n\nいまから…",
+          "article_title": "明日から読み返して感想を書きはじめます。",
+          "note_key": "n4e2ba24d4e18"
+        },
+        {
+          "key": "ncff5267457dd9",
+          "user_name": "不屈の屈葬",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/228082209/profile_bc2555e2c34c9857d7b2291bb9e9cc80.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "運営お疲れ様です！\n私も参加した皆さんの記事たくさん読ませていただきました！\n多くの素敵な記事にめぐりあえて楽しかったです！\n素晴らしい企画をありがとうございま…",
+          "article_title": "明日から読み返して感想を書きはじめます。",
+          "note_key": "n4e2ba24d4e18"
+        },
+        {
+          "key": "ncf7c43809c4f9",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\nずいぶん年季が入ってますね👀\n\n良いリペア先が見つかるといいですね😊\n\nい…",
+          "article_title": "バブアーのリペアはどこに依頼すべき？",
+          "note_key": "nd4de34096288"
+        },
+        {
           "key": "nc9d56b42c1a33",
           "user_name": "King | 天は自らを助くる者を助けるらしい",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/317453792/profile_90b586905d02d0f2465e8b3e01ab0ad1.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330814589/profile_ad14ae70caae7e03f28d7e1571f10ac4.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "よしひろさん\nこんばんは。\n\nKingもオイルのではありませんが、バブアー何着か持ってます。\n\nもともとは作業着関係のブランドらしいので、リペアが良い感じになる…",
           "article_title": "バブアーのリペアはどこに依頼すべき？",
           "note_key": "nd4de34096288"
@@ -9921,10 +9970,18 @@
         {
           "key": "ncb5b89462a263",
           "user_name": "noteと遊ぶ あん",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/326114120/profile_b6ab9ed0a48f906ff296d11dda07623c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330701103/profile_41e21c90e45adcad9274c6017121c1a5.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ガバッときてますねー\nこれって目立たせないよう補強修正なんですかね？\nデザインにしてカラフル糸で縫ったら目立っちゃうかーー\nお気に入りは手放したくない！！",
           "article_title": "バブアーのリペアはどこに依頼すべき？",
           "note_key": "nd4de34096288"
+        },
+        {
+          "key": "nc361b39ac0209",
+          "user_name": "miyuri",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさん、おはようございます！\nマガジンに掲載いただき、ありがとうございます✨\n\n最後で笑ってしまいました😆\n\n私も同じです😁\n\nいつもありがとうございます…",
+          "article_title": "制限がある方が楽しかったりする？",
+          "note_key": "n51da9377b248"
         },
         {
           "key": "ncb7ac658232ee",
@@ -9959,6 +10016,14 @@
           "note_key": "n65e6c0d11bfd"
         },
         {
+          "key": "nc8a67395d20be",
+          "user_name": "Viola",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/152908817/profile_5559a313443730e2c26f44c056f1ba4c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "よしひろさんらしい明るい前向きな記事で素敵です。\nマガジンへ追加していただき、ありがとうございました😊🎶\n私、前回の記事を追加していただいたお礼をお伝えしてなか…",
+          "article_title": "昔の憧れの中で、今日も暮らしている",
+          "note_key": "nd706230f96fc"
+        },
+        {
           "key": "ncfb9353c5880c",
           "user_name": "miyuri",
           "user_icon": "https://assets.st-note.com/production/uploads/images/230589518/profile_5800c9cb6569b37700033b060c29e255.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -9977,7 +10042,7 @@
         {
           "key": "nc016257f23d0a",
           "user_name": "noteと遊ぶ あん",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/326114120/profile_b6ab9ed0a48f906ff296d11dda07623c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330701103/profile_41e21c90e45adcad9274c6017121c1a5.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "すごくわかるーー✨",
           "article_title": "昔の憧れの中で、今日も暮らしている",
           "note_key": "nd706230f96fc"
@@ -10038,8 +10103,7 @@
           "article_title": "できることが少ないから、できることをする",
           "note_key": "n365c2e675a6e"
         }
-      ],
-      "rare_no": 1
+      ]
     }
   ]
 }

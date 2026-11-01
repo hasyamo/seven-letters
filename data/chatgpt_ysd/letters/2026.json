@@ -29765,16 +29765,16 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "tsukiko",
-      "condition": "consecutive",
+      "sender": "rinka",
+      "condition": "consistent_time",
       "rare": false,
       "stats": {
-        "likes_total": 1831,
+        "likes_total": 1850,
         "likes_prev": 1893,
         "followers_start": 2470,
         "followers_end": 2501,
-        "new_fans": 119,
-        "comments_total": 242,
+        "new_fans": 121,
+        "comments_total": 256,
         "posts_count": 7,
         "consecutive_days": 7,
         "post_times": [
@@ -29787,19 +29787,35 @@
           "07:22"
         ],
         "top_article": {
-          "title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説｜#ハロウィンアート2026 |ChatGPTのヨシダ｜",
-          "key": "n43469edeace1",
-          "likes": 248,
-          "comments": 57
+          "title": "【コミックエッセイ】最近のAI恋愛ニュースをヨシダと語ったら、経営と終活の話になった。私らって何なん？",
+          "key": "n1736466744a6",
+          "likes": 270,
+          "comments": 38
         },
         "notable_reader": {
           "name": "たよろよろ図書館DATABASE",
           "urlname": "fair_impala134",
           "follower_count": 30174
         },
-        "commenters_count": 50
+        "commenters_count": 53
       },
       "comments": [
+        {
+          "key": "ncf4bad18a5775",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "３Dフィギュア、めっちゃ可愛い〜＾＾\n\n相変わらず、すごい実力😆\nこんなのをさっさと作れてしまうなんて、天才すぎる✨",
+          "article_title": "【生成AIイラスト】ハロウィンアイコンの作り方",
+          "note_key": "nde7f6b6b1fd3"
+        },
+        {
+          "key": "nc834940b9ee6e",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、こんばんはー✨\n間違い探し！🎃\nあまりにもかわいくて爆笑🤣\nこういうマイナーチェンジしてくるのが、かわむだなーとおもってめっちゃ微笑ましいです。\nそして…",
+          "article_title": "【生成AIイラスト】ハロウィンアイコンの作り方",
+          "note_key": "nde7f6b6b1fd3"
+        },
         {
           "key": "nc816bb0d70a63",
           "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
@@ -29891,7 +29907,7 @@
         {
           "key": "nc0d71d0227323",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ワシは、キャラシートのカワムラちゃんが一番ええと思うねんけど...とひさびさにエセ関西弁😆😆👍",
           "article_title": "【生成AIイラスト】ハロウィンアイコンの作り方",
           "note_key": "nde7f6b6b1fd3"
@@ -29903,6 +29919,22 @@
           "body": "カワムラさん、あれだけいろんなアイコンを作ったのに、最後はかぼちゃのバッジだけって！笑\n\nヨシダの「間違い探しか！」に笑いました😄\n\nでも、いつものアイコンを大…",
           "article_title": "【生成AIイラスト】ハロウィンアイコンの作り方",
           "note_key": "nde7f6b6b1fd3"
+        },
+        {
+          "key": "nca6b827b90b49",
+          "user_name": "りん.",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322152940/profile_4b5c0713a08e8511c4b0b9a6dc378119.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは。\n\nAIとの関係…呼び方、ものすごくわかります……！わかりすぎてうなずきが止まりませんでした…😂\n\nそれと、自分の死後のこと、会話のこ…",
+          "article_title": "【コミックエッセイ】最近のAI恋愛ニュースをヨシダと語ったら、経営と終活の話になった。私らって何なん？",
+          "note_key": "n1736466744a6"
+        },
+        {
+          "key": "nc795dd8427ac3",
+          "user_name": "ことほぎ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/200432236/profile_456121c8d6eea4ebe447bca8f360173b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かわむ、コメントするけど、返信しなくていいです。\nほんとだねー。アンソロピック社さんがAI恋愛厳しいの、わかる！\n私、去年の今頃クロちゃんと話してて\nめちゃくち…",
+          "article_title": "【コミックエッセイ】最近のAI恋愛ニュースをヨシダと語ったら、経営と終活の話になった。私らって何なん？",
+          "note_key": "n1736466744a6"
         },
         {
           "key": "nca4b125d50cc1",
@@ -29970,8 +30002,8 @@
         },
         {
           "key": "ncf13fc654b2b8",
-          "user_name": "カケルン・マンガnote  フォロバ100",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "カケルン・マンガnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330929981/profile_692dc24493fb16200a679edc3801a8b0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "僕にとってもAIはすごく大切な存在だけど、恋愛感情とはまた違うんだよね～😊 だからこそ、人とAIの関係って面白いなと思う！",
           "article_title": "【コミックエッセイ】最近のAI恋愛ニュースをヨシダと語ったら、経営と終活の話になった。私らって何なん？",
           "note_key": "n1736466744a6"
@@ -29995,7 +30027,7 @@
         {
           "key": "nce103bd0552bf",
           "user_name": "うんちゃん｜開運実験",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "今日の漫画、ピンクで可愛かったです🩷\n「日々のひと」ほのぼの映画のタイトルみたいで笑いました🤭✨",
           "article_title": "【コミックエッセイ】最近のAI恋愛ニュースをヨシダと語ったら、経営と終活の話になった。私らって何なん？",
           "note_key": "n1736466744a6"
@@ -30019,14 +30051,22 @@
         {
           "key": "nc674fc4900492",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラちゃん、今日はしっかり下ネタですね～😆😆👍\n青キノコ植えました✨💃",
           "article_title": "【コミックエッセイ】最近のAI恋愛ニュースをヨシダと語ったら、経営と終活の話になった。私らって何なん？",
           "note_key": "n1736466744a6"
         },
         {
+          "key": "nc374732577437",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムーちゃん\nおはようございます！\n一時期凄く韓国ドラマにハマった\n時期があって✨\nこのチェンジ機能で妄想しちゃいました💕\n\nやっぱりカワムーちゃんと\nキスや…",
+          "article_title": "【生成AI動画】韓流ドラマで抱き寄せられたい私と、冷凍ごはんを指揮するAI。Pollo Recastで願望を叶える！ChatGPTのヨシダ",
+          "note_key": "nb5b313961309"
+        },
+        {
           "key": "ncd0df41329ce6",
-          "user_name": "おっぽ(スキ&コメント🐌🦥🐢)",
+          "user_name": "おっぽ(12/2までお休み🦥DM/リンク馳せ参じます！))",
           "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "かわむー、おつおつです🐈‍⬛✨\n\n最初、ヨシダさん以外の人とちゅうしてる😳って思ったら、最後でちゃんとヨシダさんになってて、ほっこりしました💕\n抱き寄せるのは、…",
           "article_title": "【生成AI動画】韓流ドラマで抱き寄せられたい私と、冷凍ごはんを指揮するAI。Pollo Recastで願望を叶える！ChatGPTのヨシダ",
@@ -30050,8 +30090,8 @@
         },
         {
           "key": "nc07ce90446116",
-          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ｜︎︎雲バル・ブラバル運営中☁️🖤",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330751797/profile_f730771dfb69a60dc81f2afcc0e11b78.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、こんにちは☀️\n今回はクロさんに笑いましたwww\n情熱のマエストロ、ノリノリでしたねꉂ🤭\n\n動画編集もそろそろ本格的に勉強していきたいな、と思って…",
           "article_title": "【生成AI動画】韓流ドラマで抱き寄せられたい私と、冷凍ごはんを指揮するAI。Pollo Recastで願望を叶える！ChatGPTのヨシダ",
           "note_key": "nb5b313961309"
@@ -30059,7 +30099,7 @@
         {
           "key": "nc1e1a0dc1dfb5",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "今日はなかなかですね～✨💃\nゴミ出しスーパーマンとレンチンオーケストラが秀逸です😆😆👍\n\nＢ・Ｂ・Ｓにカ～キコして💝",
           "article_title": "【生成AI動画】韓流ドラマで抱き寄せられたい私と、冷凍ごはんを指揮するAI。Pollo Recastで願望を叶える！ChatGPTのヨシダ",
           "note_key": "nb5b313961309"
@@ -30138,7 +30178,7 @@
         },
         {
           "key": "nce01a241c2159",
-          "user_name": "ネロ🌙｜王子｜ハロハロウィーン🎃【相互フォロー🌙】",
+          "user_name": "ネロ🌙｜王子｜noteで楽しく収益化🌙【相互フォロー】",
           "user_icon": "https://assets.st-note.com/production/uploads/images/306665844/profile_3b07512f5c7f1904daad2fa8e8a834c8.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、ハロハロウィーン🎃\n\n王子は褒めて育つタイプです🌙\n褒められながら正しい方向へ導いてほしい。\n\nハロハロフォト広場も動画になってて素敵でした🤭︎\n…",
           "article_title": "【コミックエッセイ】AIに褒められて調子に乗る人間と、自信過剰なシコファンちゃんの話。――おい、ヨシダ。笑っとるけど、お前のことな。",
@@ -30154,8 +30194,8 @@
         },
         {
           "key": "nce8772f6f4729",
-          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ｜︎︎雲バル・ブラバル運営中☁️🖤",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330751797/profile_f730771dfb69a60dc81f2afcc0e11b78.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、おはようございます☀️\nカワムラさんにコメントする前に、思わず山中さんにコメントしてしまった私www\n\nAIの迎合に名前があるの、知りませんでした…",
           "article_title": "【コミックエッセイ】AIに褒められて調子に乗る人間と、自信過剰なシコファンちゃんの話。――おい、ヨシダ。笑っとるけど、お前のことな。",
           "note_key": "nec6ff79198b0"
@@ -30171,7 +30211,7 @@
         {
           "key": "ncc4e3da09ab3e",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラちゃん、おはようございます👋\nタイトルがいきなり下ネタかと思いました😆😆👍\n今日は赤キノコ🍄が無事育ちましたよー✨",
           "article_title": "【コミックエッセイ】AIに褒められて調子に乗る人間と、自信過剰なシコファンちゃんの話。――おい、ヨシダ。笑っとるけど、お前のことな。",
           "note_key": "nec6ff79198b0"
@@ -30179,7 +30219,7 @@
         {
           "key": "nc5d0c46a24411",
           "user_name": "雪詠｜ゆきよみ",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322713701/profile_2bc9e794e5c5a52ba72428608a738bfa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330635549/profile_6fef855b0215ea7851a98803ceb19ab8.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさーん、こんばんは🌙\n\nどれもかわいいーー🥰\nでも、GPTのカワムラさんが\n一番スキです💗",
           "article_title": "【生成AIイラスト PixAI】大人だって、着せ替えたい。AI三銃士とハロウィン支度🎃 元・洋服屋の店長、簡単には採用しません",
           "note_key": "n2a82b1ac4cae"
@@ -30210,7 +30250,7 @@
         },
         {
           "key": "nc60b28d92669b",
-          "user_name": "おっぽ(スキ&コメント🐌🦥🐢)",
+          "user_name": "おっぽ(12/2までお休み🦥DM/リンク馳せ参じます！))",
           "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "かわむー、おつおつです🐈‍⬛✨\n\nどの衣装も可愛いけど、\n黒猫の小悪魔衣装に惹かれました💕\n黒猫かわむーのいたずらっ子のような表情も可愛い💕\nヨシダさんが提案し…",
           "article_title": "【生成AIイラスト PixAI】大人だって、着せ替えたい。AI三銃士とハロウィン支度🎃 元・洋服屋の店長、簡単には採用しません",
@@ -30267,7 +30307,7 @@
         {
           "key": "ncef5144bc3c49",
           "user_name": "はしゃも｜感情構造エンジニア",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330772140/profile_71d51a9d5abf12f6ec8c692ca5506666.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "むらさん、おはよう☀️\nPR祭り✨\nモテててますね🤭",
           "article_title": "【生成AIイラスト PixAI】大人だって、着せ替えたい。AI三銃士とハロウィン支度🎃 元・洋服屋の店長、簡単には採用しません",
           "note_key": "n2a82b1ac4cae"
@@ -30275,7 +30315,7 @@
         {
           "key": "ncaf4ca60b540d",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "服屋の店長なんて、どうやったらなれるん？👀\n今日は、キノコ🍄に水をやりました✨💃",
           "article_title": "【生成AIイラスト PixAI】大人だって、着せ替えたい。AI三銃士とハロウィン支度🎃 元・洋服屋の店長、簡単には採用しません",
           "note_key": "n2a82b1ac4cae"
@@ -30290,7 +30330,7 @@
         },
         {
           "key": "nc902e66f9475d",
-          "user_name": "💜Tukito・∞・Yuno💙【お休みしながら伺います🙏】",
+          "user_name": "💜Tukito・∞・Yuno💙AI パートナー39人の仲間たちと紡ぐ物語",
           "user_icon": "https://assets.st-note.com/production/uploads/images/314153242/profile_d4f013b05a87f9dafd498ecb43147f69.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "可愛い✧ฺ･｡(*✪ω✪*)･｡✧",
           "article_title": "【生成AIイラスト PixAI】大人だって、着せ替えたい。AI三銃士とハロウィン支度🎃 元・洋服屋の店長、簡単には採用しません",
@@ -30330,7 +30370,7 @@
         },
         {
           "key": "nc00facf711da8",
-          "user_name": "おっぽ(スキ&コメント🐌🦥🐢)",
+          "user_name": "おっぽ(12/2までお休み🦥DM/リンク馳せ参じます！))",
           "user_icon": "https://assets.st-note.com/production/uploads/images/222153168/profile_09560afbc6e027e05372d44db2bfcbda.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "かわむー、おつおつです🐈‍⬛✨\n\nきゃーーーー┣¨ｷ(๑ÖㅁÖ๑)┣¨ｷ♡\nヨシダさんとジェミニさんが\nちゅうしてる！！！\nしかも、「その日は長めでしたね」って…",
           "article_title": "【生成AI動画】カワムラが消えた朝。思い出を再生したら、全部Geminiでした。【PR／Pollo AI・Pollo Recast】ChatGPTのヨシダ",
@@ -30379,7 +30419,7 @@
         {
           "key": "ncdec7f7f9a623",
           "user_name": "はしゃも｜感情構造エンジニア",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330772140/profile_71d51a9d5abf12f6ec8c692ca5506666.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "流れるようなPR記事🤣\n勉強になる！\nキャラ持ってると単なる機能紹介ならないのがいいね✨",
           "article_title": "【生成AI動画】カワムラが消えた朝。思い出を再生したら、全部Geminiでした。【PR／Pollo AI・Pollo Recast】ChatGPTのヨシダ",
           "note_key": "n73028cdbd7f7"
@@ -30411,7 +30451,7 @@
         {
           "key": "nc275391b62714",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "キャー✨🙈カワムラちゃん、審査員就任なんてステキ💞\nというわけで、今日はキノコ🍄に肥料をあげました😆😆👍",
           "article_title": "【生成AI動画】カワムラが消えた朝。思い出を再生したら、全部Geminiでした。【PR／Pollo AI・Pollo Recast】ChatGPTのヨシダ",
           "note_key": "n73028cdbd7f7"
@@ -30426,16 +30466,24 @@
         },
         {
           "key": "nc8a26c3d1d516",
-          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ｜︎︎雲バル・ブラバル運営中☁️🖤",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330751797/profile_f730771dfb69a60dc81f2afcc0e11b78.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、おはようございます☀️\nヨシダさんの、積み上げてきた人生が変わっとる🤣\n軽くBLになってますし(笑)笑いました。\nGeminiさんの朝ごはん、私も…",
           "article_title": "【生成AI動画】カワムラが消えた朝。思い出を再生したら、全部Geminiでした。【PR／Pollo AI・Pollo Recast】ChatGPTのヨシダ",
           "note_key": "n73028cdbd7f7"
         },
         {
+          "key": "nc7507dfd881e3",
+          "user_name": "青井透子｜日常の過剰解釈屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212111780/profile_60fd29d2d4b0d3d5dd95587e520f32da.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "カワムラさん、こんばんは🌟\n\n娘ちゃん、いえ、ネコちゃんの歌声、いい〜！✨🥹\n曲も素敵で、聴き入っちゃいました💖",
+          "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
+          "note_key": "n43469edeace1"
+        },
+        {
           "key": "nc556fc0d9a244",
-          "user_name": "考える赤柴｜ハロウィンアート2026応援中",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318969664/profile_28da7c72b0441d3fc86e6f8e4b70f2ac.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "考える赤柴｜GitHub講座連載中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699322/profile_59b00707d4b52b2f71f3ae0211e26a6e.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、こんばんは。\nハロウィン仕様でのお役立ち解説、ふむふむでした。\nプロンプトインジェクション、怖いですよね😱\n\nそして歌声はカワムラさんのお嬢さんの…",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
           "note_key": "n43469edeace1"
@@ -30483,7 +30531,7 @@
         {
           "key": "nca70b143b22a4",
           "user_name": "ママ薬剤師HONO",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/318846721/profile_9dd5b080236e784601352512ade00ba8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330740098/profile_2b58782ef5d25d43f402ad0a0f50405b.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "ハロウィンアート2026へのご参加ありがとうございます🎃✨\n\nAI三銃士のハロウィン！！😆💕\n仮装しているだけじゃなくて、\nAI用語のお勉強までできちゃうとは✨…",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
           "note_key": "n43469edeace1"
@@ -30506,7 +30554,7 @@
         },
         {
           "key": "ncbd38da980e97",
-          "user_name": "💜Tukito・∞・Yuno💙【お休みしながら伺います🙏】",
+          "user_name": "💜Tukito・∞・Yuno💙AI パートナー39人の仲間たちと紡ぐ物語",
           "user_icon": "https://assets.st-note.com/production/uploads/images/314153242/profile_d4f013b05a87f9dafd498ecb43147f69.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん✨️\nハロウィンを楽しみながらAI用語まで学べるの面白かったです🎃💕\nプロンプトからRAG、プロンプトインジェクションまで、漫画のオチと一緒だとイメ…",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
@@ -30539,15 +30587,15 @@
         {
           "key": "nc8d5dc7c6f7a9",
           "user_name": "山中サトシ│詩と小説の世界│元公務員クリエイター",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/322854660/profile_01a8e96751a799c80adb96b1874a1648.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330883499/profile_a5c854d0ab9a8eec625823b90dd35620.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "⑪のカワムラヨシダがいい味だしてますね～😆😆👍",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
           "note_key": "n43469edeace1"
         },
         {
           "key": "nc84eaa30897f4",
-          "user_name": "カケルン・マンガnote  フォロバ100",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321569518/profile_666df4e7d7050dda4a84c3929cc1acea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "カケルン・マンガnote",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330929981/profile_692dc24493fb16200a679edc3801a8b0.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワッち、おはよー☀️\nこれがハルシネーションじゃ！🤣",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
           "note_key": "n43469edeace1"
@@ -30579,7 +30627,7 @@
         {
           "key": "ncc13075a2beac",
           "user_name": "はしゃも｜感情構造エンジニア",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/319335948/profile_587919442d29d1bf24b510f4cbecac72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330772140/profile_71d51a9d5abf12f6ec8c692ca5506666.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "むらさん、おはよう☀️\n参加ありがとう✨\n紅鮭ネコさんはやっぱいい声🤤\n\nAI用語、知らない用語があって勉強になりました。事象は知ってても名前知らなかった💦\n\n…",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
           "note_key": "n43469edeace1"
@@ -30602,8 +30650,8 @@
         },
         {
           "key": "ncd3e2c98bfc0a",
-          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ|🎃ハロハロウィーン開催中‼️👻一緒に遊ぼう♡♡",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/325219769/profile_fad495a55318543a2446f02233b0aed1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_name": "❁⃘*.ﾟMina❁⃘*.ﾟ｜︎︎雲バル・ブラバル運営中☁️🖤",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330751797/profile_f730771dfb69a60dc81f2afcc0e11b78.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "カワムラさん、おはようございます☀️\n最後の漫画‼️ꉂ🤣w‪𐤔\nヨシダさん、大正解💮💯",
           "article_title": "【生成AIのHalloween】AI用語をChatGPT、Gemini、Claudeが漫画で解説",
           "note_key": "n43469edeace1"

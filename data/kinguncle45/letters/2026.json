@@ -12723,16 +12723,16 @@
         "start": "2026-10-19",
         "end": "2026-10-25"
       },
-      "sender": "runa",
-      "condition": "new_fans",
+      "sender": "hiyori",
+      "condition": "followers_up",
       "rare": false,
       "stats": {
-        "likes_total": 1574,
+        "likes_total": 1607,
         "likes_prev": 1507,
         "followers_start": 2102,
         "followers_end": 2138,
-        "new_fans": 108,
-        "comments_total": 214,
+        "new_fans": 109,
+        "comments_total": 232,
         "posts_count": 5,
         "consecutive_days": 4,
         "post_times": [
@@ -12743,10 +12743,10 @@
           "18:00"
         ],
         "top_article": {
-          "title": "読み切り漫画！？ミラクルラッキー教団第２話",
-          "key": "nff23f7464e22",
-          "likes": 271,
-          "comments": 49
+          "title": "スタエフコラボ！？",
+          "key": "nae9155944545",
+          "likes": 299,
+          "comments": 44
         },
         "notable_reader": {
           "name": "影武者コピーライター宮本真愿",
@@ -12756,6 +12756,46 @@
         "commenters_count": 45
       },
       "comments": [
+        {
+          "key": "nc75ee890bf2ea",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "スタエフコラボ！？",
+          "note_key": "nae9155944545"
+        },
+        {
+          "key": "ncb6d575f9ec31",
+          "user_name": "ツムジ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231588271/profile_d0f51b83720ce83ce2be707571e96762.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは！\nいつもありがとうございます😊\n\nスタエフ聴きましたよ！\nめちゃめちゃ掘り下げられてましたね笑\nゆるーく話されてるKingさんになぜだ…",
+          "article_title": "スタエフコラボ！？",
+          "note_key": "nae9155944545"
+        },
+        {
+          "key": "nc7cce17a04be9",
+          "user_name": "秋山ユウタ｜預けた人生を取り戻す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280763088/profile_25615797d89bfcd9fa455ef7d14bbaea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、コラボお疲れさまでした🤣✨\n\n記事の短さからも、雫さんの「しごでき」感が伝わってきます（笑）\nこうしてnoteの交流が音声まで広がっていくの、面白…",
+          "article_title": "スタエフコラボ！？",
+          "note_key": "nae9155944545"
+        },
+        {
+          "key": "nc337f328f0b20",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつも本当にありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "スタエフコラボ！？",
+          "note_key": "nae9155944545"
+        },
+        {
+          "key": "nc6a42ac3fdc66",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コラボ企画いいですね＾＾\n\nそれにしても、ラッキーが上がる割合が少なすぎて毎回笑います・・😆\n１％くらいは上がる気がするんだけどなぁ🌱\n\n交流もあって楽しいし・…",
+          "article_title": "スタエフコラボ！？",
+          "note_key": "nae9155944545"
+        },
         {
           "key": "ncc50f85c8daa0",
           "user_name": "せかいあゆむ（瀬海歩）",
@@ -12807,7 +12847,7 @@
         {
           "key": "nc078df13d8e0a",
           "user_name": "マロ（ひろちorヒロ）",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/327461216/profile_8193cac5dbe7389f8c38a17c90031b7c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330801252/profile_21ea7f76e28aaf5f013c552e361c7b69.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "(* Ŏ∀Ŏ)ﾌﾟｯ\n\nしずくちゃんのこと\n「しごき」ってーーーっ笑\n\nしずくちゃん\nいっぱい聞きたかったんだね\n (｡˃ ᵕ ˂。)\n\n",
           "article_title": "スタエフコラボ！？",
           "note_key": "nae9155944545"
@@ -12815,7 +12855,7 @@
         {
           "key": "nc3e095a31cbfc",
           "user_name": "うんちゃん｜開運実験",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "テンポの良い会話、面白かったです🍀\n知的でラッキーなKingさんと、\n声がかわいくてシゴデキな雫さん、\nどちらもすてきです💕",
           "article_title": "スタエフコラボ！？",
           "note_key": "nae9155944545"
@@ -12859,6 +12899,14 @@
           "body": "Kingさん\n\n先日は楽しいひと時をありがとうございました🥰\n\nこれからも、よろしくお願いします🍀✨️",
           "article_title": "スタエフコラボ！？",
           "note_key": "nae9155944545"
+        },
+        {
+          "key": "nc4217b1da5d1e",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは✨\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "お祝い記事あざーっす✌️※おまけ付き",
+          "note_key": "n42d0d4c6fd15"
         },
         {
           "key": "ncd641b0b4a751",
@@ -12909,14 +12957,6 @@
           "note_key": "n42d0d4c6fd15"
         },
         {
-          "key": "nc80df4e2e5fca",
-          "user_name": "しずく",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/324064948/profile_c27c4a8fc116252623a959b2b0be7778.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "kingさん、こんばんは🌟\nフォロワーさん2,000名、おめでとうございます🎉🎉\n\nお祝い記事をお二方からいただけるなんて、嬉しいですね😊✨\nミラクルラッキー認…",
-          "article_title": "お祝い記事あざーっす✌️※おまけ付き",
-          "note_key": "n42d0d4c6fd15"
-        },
-        {
           "key": "nccdd745e7cf7d",
           "user_name": "灯（あかり）/ ひかりのはしっこ",
           "user_icon": "https://assets.st-note.com/production/uploads/images/191265253/profile_1a0012b7308f48e95c0b307c02794131.png?fit=bounds&format=jpeg&quality=85&width=330",
@@ -12951,7 +12991,7 @@
         {
           "key": "ncaf3da1a3fbb3",
           "user_name": "ｓｅｏｒｉ🧚‍♂／ライトワーカー",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/316943507/profile_e0c071d89a65299b21509201b88da55b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331034986/profile_a444940e339771b2376e11e9cfcd961b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "Ｋｉｎｇさん🧚‍♂\n\n✨🛸　フォロワー2,000人超え　✨🎉\n　　　\n　　　　おめでとうございます㊗️\n\nお祝い金粉✨✨✨降って来てますね！！😄",
           "article_title": "お祝い記事あざーっす✌️※おまけ付き",
           "note_key": "n42d0d4c6fd15"
@@ -13063,7 +13103,7 @@
         {
           "key": "ncf550250d094d",
           "user_name": "うんちゃん｜開運実験",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "2000人✨✨\nあらためておめでとうございます！！！🎉㊗️\n\n京都大学もおめでとうございます💖\n学生証がピカピカ！！",
           "article_title": "お祝い記事あざーっす✌️※おまけ付き",
           "note_key": "n42d0d4c6fd15"
@@ -13078,7 +13118,7 @@
         },
         {
           "key": "nc98f8efe9c4d3",
-          "user_name": "小島すがも【看護師】",
+          "user_name": "小島すがも",
           "user_icon": "https://assets.st-note.com/production/uploads/images/305198110/profile_89eda8a1a20c1d562ae71a0959d8ae48.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "2000！！✨💕\n凄いですね🥰\nおめでとうございます🎂✨💕",
           "article_title": "お祝い記事あざーっす✌️※おまけ付き",
@@ -13091,6 +13131,14 @@
           "body": "Kingさん！\n\n2000人到達おめでとう御座います❣️\n\n1面全部使ってお祝いなんて愛されてますね☺️✨\n\n先日更新しましたね💕\n\n記事にしてくれて嬉しかった…",
           "article_title": "お祝い記事あざーっす✌️※おまけ付き",
           "note_key": "n42d0d4c6fd15"
+        },
+        {
+          "key": "ncfde4c8684f36",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/304820277/profile_b3c359c0fdcd7794dfb7c9869fa84e79.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "10/22、お知らせ✌️",
+          "note_key": "n39aff9ece37a"
         },
         {
           "key": "nc90c9e83b99cf",
@@ -13213,17 +13261,9 @@
           "note_key": "n470616274628"
         },
         {
-          "key": "ncdddc4d5316d1",
-          "user_name": "しずく",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/324064948/profile_c27c4a8fc116252623a959b2b0be7778.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "kingさん、こんにちは♪\n曲も聴かせてもらいました。\n最初の気だるい雰囲気から、明るくポップな展開になっていくのが印象的でした🎶\n\n「スキになるなよ」と繰り返…",
-          "article_title": "読み切り漫画！？ミラクルラッキー教団第３話",
-          "note_key": "n470616274628"
-        },
-        {
           "key": "nc579c995be284",
           "user_name": "うんちゃん｜開運実験",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "Kingさん！\n漫画、かわいいし分かりやすくて大好きです！\nよく食べ、よく寝て、よく遊ぶKingさんと動物たち、かわいい💕",
           "article_title": "読み切り漫画！？ミラクルラッキー教団第３話",
           "note_key": "n470616274628"
@@ -13365,14 +13405,6 @@
           "note_key": "nff23f7464e22"
         },
         {
-          "key": "nc03d6ce34b81f",
-          "user_name": "しずく",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/324064948/profile_c27c4a8fc116252623a959b2b0be7778.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
-          "body": "Kingさん、コングラおめでとうございます🎉😊✨\n記事にも掲載していただき、ありがとうございます！\n\n漫画も楽しかったです🤣\n曲も聴かせていただきましたが、こち…",
-          "article_title": "読み切り漫画！？ミラクルラッキー教団第２話",
-          "note_key": "nff23f7464e22"
-        },
-        {
           "key": "nc5dba07095bf2",
           "user_name": "そらとうみ｜そらぴぃ",
           "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
@@ -13399,7 +13431,7 @@
         {
           "key": "ncd83fc9f2c22a",
           "user_name": "ｓｅｏｒｉ🧚‍♂／ライトワーカー",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/316943507/profile_e0c071d89a65299b21509201b88da55b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331034986/profile_a444940e339771b2376e11e9cfcd961b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "Ｋｉｎｇさん🧚‍♂\n\n歌🎵✨聞いたよ　俺の事　昨日から好き💕になって　今日でやめよう😁\n\nまだ　彼女おらんのかい🤣🤣🤣\n\n\n今日の夕日🌇マガジン🌱載せて下さって…",
           "article_title": "読み切り漫画！？ミラクルラッキー教団第２話",
           "note_key": "nff23f7464e22"
@@ -13438,7 +13470,7 @@
         },
         {
           "key": "nce749bc9f5c95",
-          "user_name": "小島すがも【看護師】",
+          "user_name": "小島すがも",
           "user_icon": "https://assets.st-note.com/production/uploads/images/305198110/profile_89eda8a1a20c1d562ae71a0959d8ae48.jpg?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "漫画も曲もどんどんすごい🥰✨\nいつもマガジン追加ありがとうございます💕",
           "article_title": "読み切り漫画！？ミラクルラッキー教団第２話",
@@ -13479,7 +13511,7 @@
         {
           "key": "nce169a5615cd2",
           "user_name": "うんちゃん｜開運実験",
-          "user_icon": "https://assets.st-note.com/production/uploads/images/321711131/profile_42887859ff2b509e92c873e7c9923310.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
           "body": "漫画やっぱり面白いです✨✨\n\n四葉のクローバー見つけまくってラッキーですね🍀✌️\n\nジャズバージョンのスキになるなよ！も好きです❣️",
           "article_title": "読み切り漫画！？ミラクルラッキー教団第２話",
           "note_key": "nff23f7464e22"
