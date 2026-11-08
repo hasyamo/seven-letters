@@ -8756,6 +8756,372 @@
         }
       ],
       "rare_no": 3
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 243,
+        "likes_prev": 387,
+        "followers_start": 1257,
+        "followers_end": 1264,
+        "new_fans": 33,
+        "comments_total": 114,
+        "posts_count": 2,
+        "consecutive_days": 1,
+        "post_times": [
+          "21:00",
+          "21:00"
+        ],
+        "top_article": {
+          "title": "文化祭のブース発表！どの店から回る？｜私設タラヲガールズ学園│リーダー紹介｜参加案内｜作品募集｜創作交流｜",
+          "key": "n974714aee1c2",
+          "likes": 121,
+          "comments": 72
+        },
+        "notable_reader": {
+          "name": "まなつ/突出マイノリティ列伝",
+          "urlname": "tosshutsu_m",
+          "follower_count": 10657
+        },
+        "commenters_count": 29
+      },
+      "comments": [
+        {
+          "key": "nca5c879f408c2",
+          "user_name": "JAU |  臨床検査技師×医療副業",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315743951/profile_2f890ad004cd555561af5bca638d81c4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん〜❤️\n\n私も遊びに行くぞ〜👍✨\nギャルJAUで😉❣️w",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc3010be4512b5",
+          "user_name": "👾邪魔ドリ🐦️（イロドリの詩）/KSU事務局・コメント荒らしの女神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330644975/profile_750738ec0ac54e30441770533378cfd0.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん😳😳\n\nすんごい大きな企画を立ち上げましたね😍😍\n\n参加者として楽しませてもらいます〜💕\n\nがんばれ〜！！",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncff54280e8369",
+          "user_name": "もぐたんママ🎈|皆の笑顔を増やすnote@タラヲガールズ006",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214800837/profile_21350a6bc81762d009a90e049eb4d83b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん🙌💕\n遅ればせながら〜💦💦\n絶対楽しいし色々参加したい！✨\n時間と相談しながら楽しんで頑張ります〜🥰",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc61f54417e663",
+          "user_name": "わかモン＠フォロバ100🌈楽しんで伸ばす稼ぐ応援団✨️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/328463424/profile_7bf2ac249aa9dc5251e0dd7118647c26.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃん、文化祭のブース一覧だけでワクワクしますー！！🤣✨️\n\n文芸、AIプロンプト、100円模擬店、旅、横丁まで幅が広くて、本当に文化祭みたいですね！…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc88984db24dee",
+          "user_name": "柴犬ゆる暮らし｜柴ゆる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/327218964/profile_e4e8eb396380bfbdfd59aa8be4a9af03.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。みんな母ちゃんとよんでるので、私も呼ばせてください✨柴ゆるといいます。\n今回の文化祭楽しみに、ワクワクしながら待ち望んでる1人と1匹です。ブース多す…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc5574ab465a6c",
+          "user_name": "キロ｜映画好き会社員",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253679260/profile_59cda1b31b88c8e819d4a6a075d6a597.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "校舎も土地もねぇのに、ブースが8つも並んでいるの、もう普通に文化祭の規模です笑\n\nAIプロンプト体験展示室、人のプロンプトは完成品の裏に隠れていて普段なかなか見…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc61f759e7e728",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん、\nありがとうございます🌸\n\nnoteの中で文化祭。\nどんな世界になるんだろ🎈\n\n楽しむぞーーー✊",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc2824a580231f",
+          "user_name": "ちんぱん🐒耳毛〰(˙👄˙)〰",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/296102014/profile_4be1a60b3a4dccce7cf1dbad765c66f9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\n\n記事が渋滞するやつですｗｗｗ",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncdc1192dd1e00",
+          "user_name": "雪詠｜ゆきよみ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330635549/profile_6fef855b0215ea7851a98803ceb19ab8.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふーちゃん、お疲れさまです😌\n\nいよいよですね！\n企画、まとめ、ありがとうございます♪\nみんなで楽しい文化祭にしましょうね🌹✨",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nce3d04841c8fc",
+          "user_name": "ミュリン♪(*´ω`*)✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/320900257/profile_dccf7a6cbee68614000ae810da5c561e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんw‼️😻✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\n文化祭やるの\n11月だと思って\nいたらw✨️\n(*ﾉｪﾉ)ｷｬｰ✨️\n10月28日に\n告知出てたのねw✨️\n(*ﾉ…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc6ad69fecd7a2",
+          "user_name": "ぱぴさん｜働き方を探す旅の途中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/321049891/profile_f4579595e62e035c2bede9ba5168223b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらさん、こんばんは✨\n文化祭のブースが盛り上がってますね🙌\n色んなブースが楽しそうで、参加表明していますが…そんなに出れるのかな😆何とかなると信じます🤭\n\n色…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nce5b8f40a060a",
+          "user_name": "ゆぴか｜働きづらさから在宅ワークを模索中☀︎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269228813/profile_923261830c097bd9f14b383fffe2b28e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん、すご〜い❗️\n文化祭🎊\nめっちゃ楽しそうだぁぁぁ〜\n\n最近皆さまの企画がすごすぎて、ゆぴかは迷子になっております！🤣\n",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncbd693846b502",
+          "user_name": "いむ|小学校教員クタクタ日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256511944/profile_21828ea8de139ff3857f2598a71fb6d4.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは！文化祭なんて何年振りでしょう🥰すごく楽しそうですね！開催が待ち遠しいです。ベルばらブースが気になります💕\n",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nccd58bcfd3d87",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330701103/profile_41e21c90e45adcad9274c6017121c1a5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かーちゃん✨\n\n全部に参加してくるねーー\nそして、告知もするね😊\n\n告知ブースがオープンしているところには、\n参加のご挨拶してきましたー\n\n楽しみだねーー\n盛り…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncd9fa7615e1ed",
+          "user_name": "yayo｜ゆるっと自分を大切にするアラフィフ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315245311/profile_2c232be7b9db218ac7cd3e1398d0f193.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん\n\n楽しいブースがたくさん✨\n開催が楽しみです😊\n\n取りまとめ、大変なことも多いと思います。本当にありがとうございます😭\n",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncddaaf1acfe0b",
+          "user_name": "ひらみん100円NOTE｜会社員のリアル検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322750999/profile_e01d03417d7baf45b1201e99d859de4e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは😊\n\nnoteの中で文化祭を開催するなんて、とても面白い企画ですね！🎉\n\nしかも、文芸部や旅のしおり展、AIプロンプト体験展示室…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc72a2afdc52fa",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331291863/profile_71e7eadaa5f628045baf464848fd8e9b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ベルばらめっちゃ気になる～🤣\nオスカルか？いや、アンドレ…フェルゼンもいいな……なぜアントワネットにはなろうとしない、あまね💧‬笑",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc46866ea177cf",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302681947/profile_aed06a54e3cc23fd27f949fbff9216c3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん！\n\n素敵なご紹介とブース案内、ありがとうございます😊\n\n取りまとめも大変だったと思いますが、さすがの仕上がりですね✨\n心強いです🍀\n\nふら…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc5a3f055222d0",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらちゃん✨✨✨\n\nいよいよ文化祭動き出しましたね❣️\n\nここまでたくさんのアドバイスと、見えないところでのフォローを本当にありがとうございました😭✨✨✨\n\nみ…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nceceeed7d8f14",
+          "user_name": "こあく まこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329017660/profile_4fd8125d92f12dcc176ec81e7905a26f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤩🤩🤩👍",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc160875065812",
+          "user_name": "まるよか│胸なし女の日常実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/222786932/profile_7cd7089df475a85f46c7b0af61dddfe1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おおっ！✨✨\nついにはじまったね😉👍\nいろんな個性的なブースがありますねー😄\nさすが、タラヲガールズ😉\n文化祭感があってとてもよき😉\nいやー、青春だねー👍",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc5a08cf0af00f",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん💕\n\n本格的な文化祭ですね〜♪\n凄い🤭\n\n楽しそうです😆\n母ちゃん、いつも学園のために素敵な企画をありがとうございます💖\n\n",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc0919f0950d94",
+          "user_name": "まぐ。/ 公式裏アカウント 【まぐnet。】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331805516/profile_50f59fc03e4f8124bebdb59bf90cee14.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "これ…、かなり楽しい文化祭になる予感しかないですよね⁉️🎊\n\nだって、大人が本気出す文化祭なんて聞いた事ない❣️❣️\n\n学生の頃のノリだけじゃなく、技術や知識を…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncc83ce80f8788",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\n\n本当母ちゃんがタラヲガールズの新会長になってくれて良かったです☺️\n\n次々と新しい企画立ち上げて本当すごい👍\n\nなかなか力になれませんが、100円…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncb1e2dccb624b",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スルーかな、と思ってたらユッキ~に勧誘されて・・・。\n\nなんでベルばら⁉️\n\n動画は2/3まで出来上がって完成度はヤバい。\nまぁ最初に目にする栄誉を与えるけどな…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "nc3a47ab4b4525",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\nブース参加募集記事、ありがとうございます✨\n\n文芸部リーダーの、てぼっこです⛄\nよろしくお願いします🌈\n\n👇　文芸部のご案内…",
+          "article_title": "文化祭のブース発表！どの店から回る？",
+          "note_key": "n974714aee1c2"
+        },
+        {
+          "key": "ncc759cbe0f3df",
+          "user_name": "noteと遊ぶ あん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330701103/profile_41e21c90e45adcad9274c6017121c1a5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "かーちゃん\n\nhttps://note.com/aging_gracefully/n/ncf43e73865a5\n\n記事書きました✨\nタラヲさんとの思い出イラス…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nca7216d36eaa0",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんばんは😊\n\nトリセツ書きました🤭\nよろしくお願いします🌈\n\nhttps://note.com/tebocco_bocchi/n/nf4…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncf8aff2e0e382",
+          "user_name": "ミライダネ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293841458/profile_d534e9f6cf1cf7847eb50f4124a89d92.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん💕\n\n学園長のトリセツ❣️\n愛ある妄想をぶちまけちゃっていいんですか⁈🤭\n\n参加したいです(⑉• •⑉)❤︎ \n",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncf0947a318a39",
+          "user_name": "もぐたんママ🎈|皆の笑顔を増やすnote@タラヲガールズ006",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214800837/profile_21350a6bc81762d009a90e049eb4d83b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わああああ…得意なやつ🥰\nやります！\nパワーワード量産して頑張りまーす😍✨✨",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncfb78080619a3",
+          "user_name": "ヒトタラヲ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/259338086/profile_643e3dbfec7dcc7023d279f9ed9dc5f3.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "最初の動画が秀逸👀\nなんか癖になるのよね❤︎\nこんなの作ってくれてるなんて、聞いてない😡\nありがたいよ〜！\n\nタラヲガールズが出来たきっかけが、ボクをイジること…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nc6a9ef3f12d7e",
+          "user_name": "碧乃さくら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/306800321/profile_219965a70d707eb2ab10db3f50dde38a.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "すごい❣️❣️\n賞金が出るのですね💰🎊\n\nさすがはヒトタラヲ学園長😆✨✨\n\n妄想で作ってよければ、1つの冊子にできるかもです🤭💕\n\n時間との戦いですね〜😅\n締め…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncf04170ab263c",
+          "user_name": "あまね〘ฅ՞•ﻌ•՞ฅฅ^•ﻌ•^ฅ〙",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331291863/profile_71e7eadaa5f628045baf464848fd8e9b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "タラヲさんのトリセツ😂\n\n何か思いついたら記事にしますね🤭",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncb0097d8b56e0",
+          "user_name": "三宅 実｜AIツール検証ノート",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300685685/profile_bf9a5629ab7c1879be0ea97203006f9a.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「家電には付いてくるのに、学園長には付いてこねぇ。」という一言に笑ってしまいました🤣 起動方法から充電方法、不具合の対処法まで、みんなの妄想で作ってしまおうとい…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncd3b98067865b",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは😊\n\n文芸部リーダーと100円模擬店に参加予定なので、\nトリセツ記事まで手が回るか分からないのですが💦\n\n①か②、どっちかで参加…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nc97fa9cee479b",
+          "user_name": "はんく・シュンタナ🍌『塩化ビニール系女子』AIクリエイター兼プロデューサー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/315052203/profile_2997a274571baea1b1f05c4310bd3c3d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ゆっきーとやっこー（KOTAYA）のブースに参加予定の記事でここも参加OK？\n御本人確認済みですがwww",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nc88f6f01d7377",
+          "user_name": "ひらみん100円NOTE｜会社員のリアル検証",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322750999/profile_e01d03417d7baf45b1201e99d859de4e.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ふらつき母ちゃんさん、こんにちは😊🌸\n\n「学園長の取扱説明書をみんなの妄想で作る」という発想が面白すぎます！🤣✨\n\n起動方法や充電方法、さらには不具合が出たとき…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nc22e29717bcd2",
+          "user_name": "Chill｜人生後半、進化中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267416818/profile_ec983d1b1c2cdf75a359c193306959d3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃんさん♪\n\n記事にして公開しました✨\nhttps://note.com/chill_2525/n/n5a24f8461a48?app_launch=fal…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nc8ce8aaf3b66c",
+          "user_name": "はるねずみ｜note副業０→１応援",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/302681947/profile_aed06a54e3cc23fd27f949fbff9216c3.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\n\n取り扱い説明書、これはコメント欄が大盛り上がりの予感です🤣\n陰ながら楽しませていただきます☺️",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "nc93f5de599cf5",
+          "user_name": "営業fafa | note業界No.1営業マン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231018078/profile_b3bbbe00a8972338d5f563a39e002d1b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "母ちゃん！\nヒトタラヲさん完全バックアップのこの企画面白いですね🤣笑\n参加します！\n\nヒトタラヲさんの取り扱い説明書\n\n\n【女性の「タラヲさん💕」という声で起動…",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        },
+        {
+          "key": "ncb7751b3a43dd",
+          "user_name": "こあく まこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329017660/profile_4fd8125d92f12dcc176ec81e7905a26f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "😏👍👍\n💪✨",
+          "article_title": "学園長の取説、みんなの妄想で作っちまおう!│ヒトタラヲ",
+          "note_key": "nd7ce4c2db9d9"
+        }
+      ]
     }
   ]
 }

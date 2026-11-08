@@ -1194,6 +1194,83 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 219,
+        "likes_prev": 174,
+        "followers_start": 1202,
+        "followers_end": 1230,
+        "new_fans": 49,
+        "comments_total": 10,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "12:36"
+        ],
+        "top_article": {
+          "title": "【いい歳のおっさん、100均のネイルコーナーで立ち尽くす！〜恥ずかしさの先にある成長〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.65",
+          "key": "n00093c3b84ac",
+          "likes": 166,
+          "comments": 10
+        },
+        "notable_reader": {
+          "name": "Daisuke noteログ",
+          "urlname": "jihon",
+          "follower_count": 15245
+        },
+        "commenters_count": 5
+      },
+      "comments": [
+        {
+          "key": "nc63895760ed1e",
+          "user_name": "yayachico",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254370493/profile_0901b98e3dd534db8729a75af2c6b096.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もし、見かけたら、\n頼ませたのかなって思いますね🤭\n\nギターに使うなんて、\n思いませんもんね🤣\n\n意外とお気に入りなんて\nできちゃったりして💕",
+          "article_title": "【いい歳のおっさん、100均のネイルコーナーで立ち尽くす！〜恥ずかしさの先にある成長〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.65",
+          "note_key": "n00093c3b84ac"
+        },
+        {
+          "key": "nc12b276228e22",
+          "user_name": "​マサヒコ｜個人開発 × AI・ストック攻略",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330565224/profile_7407baa5d9f3dc6f8e8a80629dfa9260.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「取れなくて大丈夫です」と答えた場面に思わず笑いましたが、恥ずかしさの先を描く姿勢が素敵でした。",
+          "article_title": "【いい歳のおっさん、100均のネイルコーナーで立ち尽くす！〜恥ずかしさの先にある成長〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.65",
+          "note_key": "n00093c3b84ac"
+        },
+        {
+          "key": "nc85032e2493da",
+          "user_name": "びぃ｜タノシソウデナニヨリ♡",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322288548/profile_cc9d233ce55b9f5ae57a20a2be28ed3d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは♪\n\nギターのためってわからないと、ちょっと謎で生暖かい視線との戦いになっているところを想像して、クスッてなっちゃいましたっw\n初挑戦ってすごくどきど…",
+          "article_title": "【いい歳のおっさん、100均のネイルコーナーで立ち尽くす！〜恥ずかしさの先にある成長〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.65",
+          "note_key": "n00093c3b84ac"
+        },
+        {
+          "key": "ncb1e831e2395e",
+          "user_name": "Nori｜Tried It For You",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316285303/profile_b5fd1a690e38a54d4d36255210c15657.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「先生にお任せします」と答えたら難しい課題曲が来た、という出だしが親しみやすかったです。写真もギター教室も、始めた頃は恥ずかしくて落ち着かなかったのが今は平気に…",
+          "article_title": "【いい歳のおっさん、100均のネイルコーナーで立ち尽くす！〜恥ずかしさの先にある成長〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.65",
+          "note_key": "n00093c3b84ac"
+        },
+        {
+          "key": "nc3fd4ba1d248f",
+          "user_name": "ミラの未来視",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/214096337/profile_dda0c70b8035223bc5a419fb6d634439.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ギターのポジションマークを探しに100均のネイルコーナーへ、という流れに思わず笑ってしまいました。昔描いたネイルのイラストの知識が現実のピンチを助けてくれたお話…",
+          "article_title": "【いい歳のおっさん、100均のネイルコーナーで立ち尽くす！〜恥ずかしさの先にある成長〜】 #AIイラスト #画像生成AI #ChatGPT #Gemini #Notion #Photoshop No.65",
+          "note_key": "n00093c3b84ac"
+        }
+      ]
     }
   ]
 }

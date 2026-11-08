@@ -13549,6 +13549,983 @@
           "note_key": "nff23f7464e22"
         }
       ]
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 1444,
+        "likes_prev": 1607,
+        "followers_start": 2144,
+        "followers_end": 2177,
+        "new_fans": 104,
+        "comments_total": 262,
+        "posts_count": 5,
+        "consecutive_days": 2,
+        "post_times": [
+          "22:30",
+          "12:30",
+          "22:30",
+          "23:50",
+          "12:01"
+        ],
+        "top_article": {
+          "title": "自己紹介的なもの😆",
+          "key": "n164e2c813459",
+          "likes": 376,
+          "comments": 50
+        },
+        "notable_reader": {
+          "name": "影武者コピーライター宮本真愿",
+          "urlname": "5starcopy",
+          "follower_count": 21462
+        },
+        "commenters_count": 61
+      },
+      "comments": [
+        {
+          "key": "nc186bc0ceeb2c",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん💗こんにちは🌸🌿\n10月のお礼の記事で、私のマガジンもふたつご紹介くださってありがとうございます🥰\n『ご縁に感謝するマガジン🌿』も『ご縁をお迎えする…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc7969f8085414",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、こんばんは。\nRogersページお立ち寄りとマガジンtysm:）に続けて\n追加していただき、心より感謝申し上げます。\n\n楽曲：秋風（10月もあざー…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc211c50e98748",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんな可愛い曲も作るんですね・・笑\n\nダークサイドとのギャップが凄すぎて\n人格が交代したのかと思いましたよ😆\n\nサムネ、すごい可愛い・・🌱",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc03dd0c2042c1",
+          "user_name": "ねる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330864044/profile_42ceb65566831b11ca3150e391c3d8d1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ✨\nKingさん、こんばんは🌙\n\nマガジンのご紹介本当にありがとうございます🙌🍃\nそして、いつも沢山の記事をマガジンに載せてくださり本当に本当に感謝でいっぱ…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc7965c1140056",
+          "user_name": "のんの🌸巡腸活/潤して巡らせる腸活ダイエット",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/293805487/profile_17f64ea8748390baae8d79add84b212d.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは マガジン紹介頂きありがとうございます🙇‍♀️\n今後ともよろしくお願いいたします🙇‍♀️",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc1782d51c2d47",
+          "user_name": "ゆらり🌸🫧　🫶✨",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/289304338/profile_84c145c3d735e61ef55622e409917111.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジンご紹介ありがとうございます♪    \n\n  🌹🫧✨🫶✨\n\nいつも感謝です♪🙌",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "ncb6fc62d61325",
+          "user_name": "おとの部屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236404075/profile_145eacb40a09fac1855e00a8101c2307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん こんばんは🌙*.｡\n\nお疲れ様です🍵\n\n思いもせぬ、ご紹介を\nありがとうございます(* ᴗ͈ˬᴗ͈)”",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc94a9dc9282b4",
+          "user_name": "AI女子大生のライフハック帳📖",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/294859420/profile_8a80292f4ebc05d5a2d5538a1f3a7e87.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは！\n\nマガジンのご紹介ありがとうございます💕\n\nいつもマガジンの追加をしてくださり、ありがとうございます😊\n\n11月もよろしくお願いしま…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "ncabf9fdcd3b8a",
+          "user_name": "じゅんのすけ｜人生は何歳からでも変えられる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322016439/profile_809bde8c434e499111b26413374bf5bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\n今回の曲、いつもとは違った雰囲気ですね！\nコーヒー飲みながら、のんびり聴きたい曲です😊\n\nアイコンも素敵ですよ〜！！",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc825df6cdba60",
+          "user_name": "じゅんのしっぽ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305902051/profile_1889bddf9d61ca9a705e43fedde043be.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは😊\nいつもマガジンへ追加していただいてありがとうございます✨\n秋の景色を感じるjazz素敵でした😊",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nca18992a60ae7",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\nこんにちは😃\nマガジンのご紹介ありがとうございます♡\nわたしこそ、いつもマガジンに載せていただいて、ありがとうございます🥰\n\nアイコン、すっかり…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nca18cb7e7e8f6",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc993c45179452",
+          "user_name": "涼鈴suzu",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/230968642/profile_eabb1e844000a408e63be52a33676754.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わたしはKingさまにありがとうを伝えたいです。\nいつもありがとうございます😊",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc8aae5a54f4a7",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは😊\n\n早いもので、もう11月ですね💦\n今月もよろしくお願いします🍀✨️",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc38b119e58984",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます✨\nマガジンの紹介、ありがとうございます🙂‍↕️🎀\n\n秋を感じるjazzで癒されました😊🍁\n今月もよろしくお願いします🍀",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nccc891cbcc3e9",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nホテルのBARラウンジでもいるような感じになりましたよ。\n今月もよろしくお願いします。",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "ncc055c5a7977b",
+          "user_name": "haremithu | 迷う母に言葉を🪷|",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300270354/profile_0b70dd6594b94dad053483ab06b190a5.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nしっとりしたjazzがまた雨の日にピッタリ😆✨リンク貼っていただき、ありがとうございます😊スキ🩷も励みになってます✨",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nce0519d8357f7",
+          "user_name": "龍神",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313757827/profile_95c4b6157961d49586f707b644e195ff.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😊\n\n10月も本当にありがとうございました❀\n\n今回も私のマガジンを5つも掲載してくださって、とっても嬉しいです🌟\n秋の景色を歌にされた…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "ncbc6ce983c205",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは☺️\n\nマガジンのご紹介ありがとうございます❤️\nJazzの秋風いいですねー✨\nとっても素敵な曲でした❤️\n次はクリスマス🎄ですかねえー…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc98f376c7fb52",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジンのことと関係なくてすみません！\n\nレトロなJAZZ感が素敵です✨\nおしゃれ💗\n\nKingさんの作曲の幅がすごくて\nびっくりしてます！！！！！✨\n素敵です…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc0a6f00c184b5",
+          "user_name": "こはる🌷ふわり、ももんが日記",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330696276/profile_1f4511b72845eef3817f896d28072cfe.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨️こんばんは🌙*.｡\n\nこちらこそいつもありがとうございます🥰✨\n\n今月もよろしくお願いします🙏\n\n秋風すごくいい曲でした😊\nそして、アイコンもか…",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "ncebd23005acf8",
+          "user_name": "せかいあゆむ（瀬海歩）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332707829/profile_963b036b9284341c6f097c35e0e7822d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんばんはー☕️✨️\nいつもありがとうございます🙇💓\nオシャレな曲ですね！\nメキメキと腕を上げてますね！\n\nマガジンのご紹介感謝します😆\n",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "ncdc0b8ad3d035",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305198110/profile_89eda8a1a20c1d562ae71a0959d8ae48.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "アイコンが秋色ですね✨可愛いです🥰",
+          "article_title": "10月のマガジン追加の感謝",
+          "note_key": "nbe2ba2451420"
+        },
+        {
+          "key": "nc80c6f56264e3",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\nほんとに頭が下がります。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc0d221501011f",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは✨\n\nラジオデビューお疲れ様でございました🥰💞\n\n先にお伝えしたこともありますが、眠気と闘いながら、頑張ってリアルタイムで聴かせていただ…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc10efced270ad",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。\nいつもありがとうございます。\n記事2つ、マガジンへの追加感謝申し上げます。",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc22b77e5475ac",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\n山奥ラジオ出演おめでとうございます。\nめっちゃご活躍ですね〜✨\n\nマガジンにも入れて頂きありがとうございました！",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc440a7959f309",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、本当にすごいなぁ・・\n\nいつも思うけど、人に向けて話せるって本当にすごい才能👏\n音楽も作れるのに、トークもできるって凄すぎ＾＾\n\n間に合わなかった…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc372f31f4ce2a",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは🌇。\nkingさん、いろいろと大変な時期ですので、ご無理は、されずにお過ごしください。\n改めてコメント失礼します。\n記事、マガジンへの追加感謝申し上げ…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc0044be9fbb17",
+          "user_name": "松風みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280266907/profile_86d734756ec0fe2d4cf5568f3b0b1082.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。ラジオデビューおめでとうございます！記事を載せていただきありがとうございます。",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "ncc595467e344c",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは👽\nラジオデビューおめでとうございます。\n文字で積み上げてきたKingさんの言葉が、電波に乗って空気を震わせる。同じ言葉でも、声になると…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc64d6609bd355",
+          "user_name": "せかいあゆむ（瀬海歩）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332707829/profile_963b036b9284341c6f097c35e0e7822d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nラジオデビューおめでとうございます！！\nたった今パソコンで聴きましたよ！\n初めてのラジオだったのに、声もふるえてなかったですし、\nキングさんの曲も…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nccf3747be2cd9",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、いつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc3c0b40677557",
+          "user_name": "ｓｅｏｒｉ🧚‍♂／ライトワーカー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331216504/profile_93b89fe245d091d1bcd888a6d6bbcb41.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Ｋｉｎｇさん🧚‍♂\n\nFMラジオ📻️まで　おめでとうございます🎉いよいよ全国制覇🎉　出動ですね！！🤭\n\n私の蓮💜　第２弾　予告\nマガジン載せて下さって　感謝💕致…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc3fda54efdba5",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます✨\nラジオデビュー、おめでとうございます🎉✨✨\nラジオ好きなので、楽しみに拝聴したいと思います😊🎀\n",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc1cc5f84fb697",
+          "user_name": "mimi｜生き延びるための静かな考察",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282211059/profile_18983e058a211095cabe67891fd8784c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんはvv\nラジオデビュー、おめでとうございます✨😆♪\nKingさんのお声はとても穏やかで落ち着いているので、とても癒しになると思います♪　ど…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc938aace93ac6",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは💫\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "ncf0ac0509772e",
+          "user_name": "じゅんのすけ｜人生は何歳からでも変えられる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322016439/profile_809bde8c434e499111b26413374bf5bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nラジオデビュー、おめでとうございます👏🎉\n\n深夜ですね！\nいろんな聴き方があって助かります✨\n\n問題は睡魔との戦いです🤣",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc7cfd83681d8c",
+          "user_name": "なないろ和waon音　-nanairowaon-",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243669305/profile_e50bb82af81ddb75abfde3e755aec580.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nいつも有り難うございます。\n\nミラクルラッキー波動が\n沢山のヒトに届きますね♪\n\n日本を救って下さい😊\n\n",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc2347165ee0cd",
+          "user_name": "えりぃ｜人に合わせすぎて疲れる人の「ココロの片づけ案内人」🐰✨🏠",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/324038587/profile_085b074a510b7acac042c9e5ada9d000.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Ｋｉｎｇさん、ご出演おめでとうございます✨\nますますＫｉｎｇさんの影響力が広まりますね～😆✨🥰",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc6d98de658057",
+          "user_name": "おとの部屋",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/236404075/profile_145eacb40a09fac1855e00a8101c2307.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん おはようございます(*^^*)\n\n🎊🎉ラジオデビュー \nおめでとうございます🎉🎊㊗️\n\n素晴らしいですね❣️\n準備かなり大変だったと思います。\nい…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc8d55a1c1a60c",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\nすごぉい！！\nデビューおめでとうございます！！\n今晩なんですね！！\n楽しみにしてますね🥰❤️",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "ncffff2aa5998d",
+          "user_name": "田端うつ郎",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/234181307/profile_ba9f2d4489109cdb5c8a599f9586245d.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、ラジオデビューおめでとうございます💐\n放送楽しみですー🥰📻️✨️",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc290b6aeaedf2",
+          "user_name": "ゐっさ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/261983120/profile_5fd75c9482b6ee87097ce33d5770c496.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん こんばんは🌠\n\nいつもありがとう御座います🙇\nラジオデビュー✨されるのですね！\nがんばってください🍀\n楽しみにしております🤗\n",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "ncdbb7b78497ec",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは✨\n\nついに迫ってきましたぁ😆💞\n\n「堂々とインフルエンサーと名乗ることができます」って🤣\n本当にKingさん面白いです😆\n\nしかも、聴…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc1cb002b0c910",
+          "user_name": "音琴 ～go_chara～",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241037615/profile_011d60ebf0e17e1956abc71bc4156c2f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんにちわ\n\nすごーーーーいですね！！\nFMラジオデビューですね＾＾\nおめでとうございます。\n\nどんどん、メジャーになっていくkingさん。\n尊敬…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc2185f1b45623",
+          "user_name": "宇宙珍獣🦄🌬️ユル勇者あかね",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/300708841/profile_70dba4f0bdb12bcc0af7ce8a2ff223b4.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさーん\\(//∇//)\\💖\nモノホンのラジオデビュー\nおめでとうございますっ✨\nまたWONDERLABOラジオも\n一緒にお願いしまーす🌈✨",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nca1db2ae727c0",
+          "user_name": "MOON｜ここから、面白くしていく。",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329881153/profile_78a28e655d51c1d06ef35e46fb154b72.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nFMラジオ、楽しみにしてます🌙✨",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "ncd4060ec79a87",
+          "user_name": "和田雄三｜AI×心理ブランディングデザイナー",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/265848866/profile_b0e386a458b5c21f7f00921837c9ffad.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、いよいよFMラジオデビューですね！\nおめでとうございます🎉\n僕も今夜、和平さんと恋バナライブ配信に挑戦します😆\nお互い音声での活動も楽しんでいきま…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc242a6f87d196",
+          "user_name": "マロ（ひろちorヒロ）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330801252/profile_21ea7f76e28aaf5f013c552e361c7b69.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんやほー\n\nおしいなぁ〜〜〜\n11/1に\n四条まで行くのよー笑",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc7680229f742c",
+          "user_name": "さくらこ｜ゆらぎ肌に寄り添うノ ート ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/269508609/profile_6a4f8c1d8cdc854b89ca9a862cd58137.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん👑✨\n\nラジオデビュー、おめでとうございます！🎉💐\n\nいよいよ11月2日ですね☺️\n\nインフルエンサー宣言にも、Kingさんらしいユーモアがあって素…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nccfb114abb576",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おめでとうございます！！\nFMラジオパーソナリティなんて、かっこいい…✨✨\n放送楽しみにしています💕",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "ncc8ab68b30536",
+          "user_name": "せかいあゆむ（瀬海歩）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332707829/profile_963b036b9284341c6f097c35e0e7822d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんにちは☕️✨️\nおめでとうございます💓\n\nラジオに出るとかスッゲー！\n２日の夜ですね！\n\n楽しみにしてます！\nいつもありがとうございます✨\n",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc23b12be4ea1c",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "とうとうやりましたね。\nラジオデビューおめでとう御座います㊗️",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc0f677a65cb1e",
+          "user_name": "まなつ/イタリアでバカンス中🇮🇹",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699970/profile_553c0671cf15554f73eb3a65936ab577.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "もう、芸能人レベルってことになるんですかね⋯これは|дﾟ)ﾁﾗｯ",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc691783614229",
+          "user_name": "   WONDER LABO/ 山奥AI研究所",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/298478194/profile_83c8e7fe3187a076d6d90ddb886560f8.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nおめでとう🎉ございます🎉\n\nFM\nラジオのパーソナリティー\n凄いですね✨️✨️✨️\n\nこれからも\nよろしくお願いします🤗\n\n放送\n楽しみにしてます…",
+          "article_title": "11/2山奥ラジオ！※Kingデビュー😆",
+          "note_key": "n565aeff15e20"
+        },
+        {
+          "key": "nc470937a0d744",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、いつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncfd6981704c05",
+          "user_name": "てらす｜不登校から大学受験　  ASD パニック障害の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221157900/profile_64d666d2410a7e45c9b6519032c0aa66.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは🌙\nいつもマガジンにに加えていただき本当にありがとうございます✨\n計算ができる、が最高です。\n尊敬します😊\n",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc93b87ad9ad06",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "初手で自己紹介が「おじさん」とは・・笑\n\nいや〜いいですね＾＾\nめちゃくちゃKing味があります✨\n\n音楽はめっちゃセンスあると思うんですよね＾＾\n私も推しの一…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nce4b5ba699547",
+          "user_name": "しずく",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270484515/profile_f2deb3775d1acb5fb6b143d8ce8fd4b7.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\nこんばんは🌙\n\nこの短い文章でこれだけの方が惹きつけられるのも、kingさんだからなのでしょう😊\n\n冒頭からクスッと笑ってしまいました🤭\n天然❗️…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncd6e33c4eced6",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "KINGさん、こんばんは👽\n「おじさんです。そこら辺にいます。」の掴みからすでに最高です😆\n計算ができる天然の謎と、瀬海さんコラボの素敵な曲、そして温かいコメン…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncdcb60778e396",
+          "user_name": "津田祐希（ゆきてぃ）",
+          "user_icon": "https://assets.st-note.com/poc-image/manual/preset_user_image/production/i1bbf72cee783.jpg",
+          "body": "Kingさん\n押すなよ、押すでしょ。\n\n楽曲めっちゃいいですね。\n\nマガジンにも入れて頂きありがとうございました！",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc140af50fad41",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nHappy Halloween🎃👻\nかっこいい曲ですよねえー✨\n大好きです☺️\nいつもありがとうございます❤️",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncb571b5b7659a",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😊✨\nいつもマガジンに追加していただき、ありがとうございます！\n\n「おじさんです。そこら辺にいます。」って、冒頭から笑ってしまいました🤣…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nca90306ff4072",
+          "user_name": "にゃんこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/271405207/profile_045026d03884432d87060e59ff365c2c.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "King様\nわんばんこ（こんばんは）\n\n計算ができる天然とは、これいかに。\n\nそしてこの場をお借りしてお礼申しあげます。\nこのたびは\n拙稿をマガジンにご追加くだ…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncef3bb40d854f",
+          "user_name": "丁寧な暮らし/生きやすさ探求家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/313047599/profile_f5583e3a8bed162a306663b63b381505.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさんおはようございます💞\n\nもう、この曲何回聴いてもスキだわぁ🥰\nていうか、突然の天然自己紹介😂",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc99f914bf482f",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\n天然の方だったんですか！！\nKingさんのやらかしエピソード、めっちゃ聞きたいです笑\nお勧めやらかしとかあれば、おしえてくださいませ🥰💖",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc4e31d7563912",
+          "user_name": "秋山ユウタ｜預けた人生を取り戻す人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280763088/profile_25615797d89bfcd9fa455ef7d14bbaea.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは😊✨\n\n「おじさんです。そこら辺にいます。」からの、計算できる天然＆ミラクルラッキー教団🤣\n短いのに、ちゃんとKingさんが詰まっていて…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncf518a9a89357",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、こんばんは💫\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc4adaab313071",
+          "user_name": "せかいあゆむ（瀬海歩）",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332707829/profile_963b036b9284341c6f097c35e0e7822d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nこんにちは☕✨\n\n以前おっしゃっていましたね。\n二度あることは三度あると（笑）\nまさか本当に何度も紹介して下さるとは。\n\n漫画、文章の時よりまた…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncabde6c97d014",
+          "user_name": "まさきの心とスピリチュアル",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330335552/profile_9bf24b2d6000056d064e195582f383b6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「計算ができる天然」で、もう「そこら辺にいるおじさん」ではなくなってますね笑",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc11bced971cb1",
+          "user_name": "あいさん💗Iカウンセリングルーム セラピスト／ 臨床心理士×公認心理師｜支援歴16年・2,000名超",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/291954704/profile_fc1fbb946656267139e1f6e56d7d68ed.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、たまに仲間たちとパラパラを踊ることも記載してほしかったです😍💓\nKingさんの決めポーズは私たちのラッキーアイテムですよ♬\n\nいつもありがとうござ…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc168fafc7a08d",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nそこら辺にいるおじさんじゃないでしょう。\nだってこんな深い曲、歌詞は作れませんからね。\n✌️",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nceb120a26932b",
+          "user_name": "そらとうみ｜そらぴぃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "🤣\nさすが👍",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc6a2f9fc769f0",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\nこの短い文章で全部面白いってすごいですね😆\nさすがKingさんです✨\n\n「そこら辺にいます」🤣\n「計算ができる天然」って、すごいギ…",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "ncfa97ab316702",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305198110/profile_89eda8a1a20c1d562ae71a0959d8ae48.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コラボの曲🥰カッコいい✨",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc3ceaaf9a51fa",
+          "user_name": "太めのスローロリス",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/270199774/profile_fea512eb92442ee5df26b74b3bb4e1f6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。かっこいい曲ですね。😆\nラッキー認定。😁",
+          "article_title": "自己紹介的なもの😆",
+          "note_key": "n164e2c813459"
+        },
+        {
+          "key": "nc87801b82fa6a",
+          "user_name": "松風みき",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/280266907/profile_86d734756ec0fe2d4cf5568f3b0b1082.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは。先程コメントしたんですが、コメントも回数制限あるらしく❓消えました。。記事を載せていただきありがとうございます。",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc626481203614",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc0ff231cf8aae",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんばんは💫\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc9aa008b4709a",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "スーパー量子コンピュータとの出会い、こんな感じだったのか・・笑\n\nそれにしても、考えの99%がピー音とは\nどういうことなのか🤭\n\nツッコミどころが多すぎる！笑\n",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc87b85048aa52",
+          "user_name": "まなつ/イタリアでバカンス中🇮🇹",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330699970/profile_553c0671cf15554f73eb3a65936ab577.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "考えの99%がピー音🤣🤣🤣",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "ncc347058ca712",
+          "user_name": "Rogers",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/254327635/profile_1adff887ef71ffa855a2f6da783e3c5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさま、こんばんは。\nRogersページお立ち寄りとマガジンtysm:）に\n追加していただき、心より感謝申し上げます。\n\n読み切り漫画第4話、楽しく拝見し…",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc76018e7922d1",
+          "user_name": "かみん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262988443/profile_5a103c8c3708f35983a127cdfd7f9972.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、おはようございます✨\n漫画楽しく拝見しています😊💞\n曲もジャズっぽくておしゃれで素敵です～🥰",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc3167f743778e",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc406fc65221c3",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨\n\n漫画面白いのもですが、\nクオリティが高い！さすがです✨\n就任Remix素敵ですねえー\nジャズとめちゃくちゃ合ってます☺️\n",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nca1b18bacf83b",
+          "user_name": "じゅんのすけ｜人生は何歳からでも変えられる",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/322016439/profile_809bde8c434e499111b26413374bf5bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n\nめっちゃおもしろい🤣\n早く続きが読みたいです！笑\n\n何話まで続くんだろう🤔",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "ncfce93ab3652a",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん✨\nやっぱり漫画、めちゃくちゃ面白いです！！\n\nイノシシの寄生虫もフンも嫌😂\nでも良い物拾えてラッキーですね✌️🍀✨",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc73ded6872158",
+          "user_name": "天野 雫",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/252856370/profile_866f40df26780c146ef9459cf81a675c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは☀\n\n曲調がオシャレでびっくりしました🤣💦\n \nいつもありがとうございます🍀✨️",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nce614d8def52a",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは✨\n\nものすごい夜中にアップされていたんですね😳\n寝ていてすぐに見に来られませんでした😱\nどうか無理なさらないでくださいね🍀\n\nそして、…",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "nc8fcd2357d80f",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "イタリアチックな曲、コングラ、kingさんは、センスありますね。\n✌️",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "ncaec6a4ebc248",
+          "user_name": "のぞみん｜揺れる乙女、45歳",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/241713880/profile_8a57c5b56b96d806314bf279d3435ce1.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん♡\n\nピーっ\nが入って良かったです🤭💞\n\n旧コングラ！\nスクショを綺麗に撮られていて素晴らしいです😍🌱🌱",
+          "article_title": "読み切り漫画！？ミラクルラッキー教団第４話",
+          "note_key": "nd137e9be22f2"
+        },
+        {
+          "key": "ncfb4441dcd8da",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "こんにちは。\nいつもありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc683979230f85",
+          "user_name": "水豊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/276207233/profile_51cbc6d87b83bfc771d22ac2045fbe59.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "​King さん　こんばんは🦈\nパスキーの2段階認証、大事ですね！私も早めに設定しておきます。いつも役立つ情報と温かいシェアをありがとうございます✨\nいつもあり…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "ncdd8556e27e6d",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "おはようございます。\nいつも本当にありがとうございます。\n記事、マガジンへの追加感謝申し上げます。",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc499d6379f019",
+          "user_name": "美咲サヤ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/285251414/profile_bae91b069531c89747d86f8afb8c6bff.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、おはようございます！\nいつもマガジンに追加していただきありがとうございます！\n感謝申し上げます😂\n\nパスキーの2段階認証、まだやっていないので、早…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc439a115da693",
+          "user_name": "keimama",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/223953919/profile_de82aa306e133caf82b4ae253ad0173c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、お早うございます😊\nパスキーの2段階認証、私も早速設定しましたよ〜！こういう大切な情報をお知らせしていただけるのは、本当にありがたいですね✨いつも…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "ncf8323e536d17",
+          "user_name": "俊",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/240830637/profile_6db5e5d63617f16965953d59b8e2933e.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "設定という文字を探し続けてたら、クリエイターページ右上の歯車マークが設定画面への入り口とは…😅\nできましたー！",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "ncb8a448207210",
+          "user_name": "和田けいた | 「あの頃の青春をもう一度」　リスタートアカデミー教授　兼　全力研究コーチ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/142670336/profile_f746a660c4435f3add490cfb97c7aaac.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\n二段階認証の促しありがとうございます。\n設定できていないので、早速設定します！\n\nそして、コングラはなくなっていたのですね。\nスキを集めましたはあ…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc7ee814a4bbae",
+          "user_name": "ゆら",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/275880722/profile_e1666cbd2c43c40011f86abf109634c5.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "King さん、いつもマガジンに加えてくださり、ありがとうございます☺️\n\n今回も素敵な方々の中に入れていただけて、とても嬉しいです。\nこうしていつも大切に紹介…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc39bce9d44730",
+          "user_name": "ココミチ＠ゆきの",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/212559417/profile_9dbf6c222d0c87810aeff185afbd7f95.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは\n\nコングラなどたくさんのお知らせ\nおめでとうございます\nパスキーのご案内も分かりやすく\n自分の設定を見直すきっかけになりました\n\n「ス…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc78e729d152bd",
+          "user_name": "mimi｜生き延びるための静かな考察",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/282211059/profile_18983e058a211095cabe67891fd8784c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんはvv\n貴重なお知らせ、ありがとうございます🙏\n頑張ってやってみます！感謝一杯です😭",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc245739e72835",
+          "user_name": "あな",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/219621833/profile_8ef662d95d545fc74251b7700219beae.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは✨\n\nパスキーの2段階認証、早速設定しました！\nありがとうございます☺️\nコングラもおめでとうございます🎉\n\nいつもありがとうございます…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc42455edaf5dc",
+          "user_name": "Torori（とろり）🌱 毒親育ちへ「心穏やかな恋」を届ける人【フォロバ100】",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/242495675/profile_d6bfee66de6dbec64ca70c2649f987aa.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パスキーの設定、やりました🌱\n乗っ取りなんかないだろ〜と思ってたけど、何人か知り合いがやられて、Xのアカウント失ってます💦\n\nnoteも治安悪くなってきてるから…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc3be161ca8d9e",
+          "user_name": "みやび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/262367515/profile_d7914074ebb47e9f08eccbb0c11318bb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "コメント失礼します。\nアカウントの乗っ取りを防ぐセキュリティの必要性とともに、「良記事認定」という独自のフィルターを通して他のクリエイターの魅力を主体的・知的に…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nce81d537d8317",
+          "user_name": "てらす｜不登校から大学受験　  ASD パニック障害の記録",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221157900/profile_64d666d2410a7e45c9b6519032c0aa66.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん\nこんばんは🌙\nいつもありがとうございます🌼\n情報も、マガジンも、いろいろ本当にありがとうございます🙏",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc17e6fdb5c542",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんばんは☺️\n\n２段階認証スタートしましたね✨\n話題が早い！！\nさすがKingさんですね☺️\nいつもありがとうございます❤️",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc6ce53f568262",
+          "user_name": "やきのりねこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/221715919/profile_bd75e3564436a821cbf8a04583e0e4e9.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わーKingさん✨良記事認定\n光栄すぎて嬉しいです🥹✨　\nありがとうございます！！\n\nそしてnoteからのお知らせをスルーしてたので助かりました🙇‍♀️✨パスキ…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nce77a907ddefd",
+          "user_name": "Jinsei",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/181354648/profile_0198c46355ca3bcf7c08ab2a8a0ebe5e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "マガジンへの追加ありがとうございます😊🙏✨️\n おかげさまで読んでくださる方が少しずつ増えていて、とても励みになっています😭😍\n これからも作品や記事を投稿して…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc075b2dfc322e",
+          "user_name": "ぶっくん｜AI の時代だからこそ「これでいいのだ！」クリエイター",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331179539/profile_6bdaa5d16f4ff1a4f57b5745a1eb6d3c.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "僕、二段階認証の設定したのに何も変わらないぞ🤔\n\nどうなってるんだろ？",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nccac59a4f9d41",
+          "user_name": "donchan1962",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/332752748/profile_d64d177fcfd3a8be7b727e4a3002f18b.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん、またまた、コングラおめでとう御座います㊗️\nパスキーの2段階認証は、終わりました。\nいつもまわりに気を配っている、お姿に尊敬をします。\n今後とも、…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "ncf248f9cf726d",
+          "user_name": "『本当の自分に出会う100の法則』まなび",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/249470009/profile_45cd99b5e01b52738ef63d2120073cf9.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "Kingさん、こんにちは😊✨\n\n良記事認定していただき、ありがとうございます！✨🙇\n\nこうして記事を見つけていただき、ご紹介までしてくださること、本当に嬉しく思…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc1dfbf929b908",
+          "user_name": "スイッチくん🐻😊 │ BASIC言語、配布中 │ AIを実験場にして遊ぶ🌈",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/292926125/profile_b287c7186edb64353a256a881ec2b81e.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "早速、設定しました🐻🔑\n普段からスマホにはパスワードロックをかけてるので、ほぼ一緒でしたｗ",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc6605cda6fb35",
+          "user_name": "そらとうみ｜そらぴぃ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/256905642/profile_324cdd57af1b5dd5377849bdce6f1226.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "kingさん\n情報ありがとうございます✨\nパスキーやってみます",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc070654065dfd",
+          "user_name": "うんちゃん｜開運実験",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330799216/profile_2d84b8e2fd1db8c63cbb3aca162a61e2.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "パスキー設定できました！\nいつも、すぐに大切なことをお知らせしてくださりありがとうございます✨✨",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc9dbb1186529a",
+          "user_name": "🐰りりぃ｜働く女子の心の声",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/278691815/profile_fcfdb6eabab8f25ba11d66a2fe9fe412.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "King団長、無事に設定完了しました🫡✨\n\nお知らせで見かけて、後回しにしそうになっていたんですけど、Kingさんがすぐに教えてくださったので、「今やろう！」と…",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        },
+        {
+          "key": "nc94174b20ee08",
+          "user_name": "小島すがも",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/305198110/profile_89eda8a1a20c1d562ae71a0959d8ae48.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "わぁ✨良かった🥰\n二段階認証無いんかなぁと思っていたので教えて下さってありがとうございます🙇💕",
+          "article_title": "※パスキーの２段階認証",
+          "note_key": "n8bff642b5117"
+        }
+      ]
     }
   ]
 }

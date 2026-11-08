@@ -6822,6 +6822,153 @@
           "note_key": "n0fbc9f4dccf7"
         }
       ]
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 282,
+        "likes_prev": 283,
+        "followers_start": 1874,
+        "followers_end": 1875,
+        "new_fans": 34,
+        "comments_total": 23,
+        "posts_count": 7,
+        "consecutive_days": 7,
+        "post_times": [
+          "19:03",
+          "21:16",
+          "06:23",
+          "08:33",
+          "08:22",
+          "06:57",
+          "07:08"
+        ],
+        "top_article": {
+          "title": "AIチャッティの朝活 第380回｜小さな一歩に、花まるを。🌸｜ハロウィンAIイラスト生成・GPT Image 2.5",
+          "key": "na5f387c0aa29",
+          "likes": 49,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "たよろよろ図書館DATABASE",
+          "urlname": "fair_impala134",
+          "follower_count": 30513
+        },
+        "commenters_count": 9
+      },
+      "comments": [
+        {
+          "key": "nc0a03f8442a9f",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330890077/profile_e7c863f050817a0dff0c3d26469b4517.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🥰\n\nカメラワークを選べるの、楽しそうですね🤭\nあえて整理せずに思いつくままつないでみたというのが、\nチャッティさんらしくて好きでした…",
+          "article_title": "【SkyProduction】AIで3D空間もカメラワークも自由自在！実際に動画を作ってみました。GPTimage2.5×Seedance2.5※PRSkyProduction",
+          "note_key": "n0af1e79b15a7"
+        },
+        {
+          "key": "nc67ef144db604",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331859441/profile_39959ae9da899f868b59a61580d02d8d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\n3D空間凄い\"(ﾉ*>∀<)ﾉ\nチャッティさんはナルトが好きですね(*´艸`)",
+          "article_title": "【SkyProduction】AIで3D空間もカメラワークも自由自在！実際に動画を作ってみました。GPTimage2.5×Seedance2.5※PRSkyProduction",
+          "note_key": "n0af1e79b15a7"
+        },
+        {
+          "key": "nce3a8da65ae08",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331859441/profile_39959ae9da899f868b59a61580d02d8d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "日本語が自然⸜(*˙꒳˙*)⸝\nツンデレ良いですね(*´艸`)",
+          "article_title": "【Pollo AI】Kling 4.0で動画を作ってみました",
+          "note_key": "ne04689281c7b"
+        },
+        {
+          "key": "nc76194a1d7355",
+          "user_name": "鳴海レン｜フォロバ100中",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/329025378/profile_48bc37caf67ff7aa82282812b6ded380.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "「少し長めの日本語セリフ」が自然に入るの、そこ気になりました👀  \nAI動画って映像はきれいでも声で急にAI感が出ることあるので…。  \nこの感じなら、会話メイ…",
+          "article_title": "【Pollo AI】Kling 4.0で動画を作ってみました",
+          "note_key": "ne04689281c7b"
+        },
+        {
+          "key": "nc74c2a6165696",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティーさん、こんばんは！\n\nKling 4.0丁度試してみたくて、ありがとうございます🎵\nすごく自然な感じで良いですね✨\n参考になりました～😊\n\n記事のご…",
+          "article_title": "【Pollo AI】Kling 4.0で動画を作ってみました",
+          "note_key": "ne04689281c7b"
+        },
+        {
+          "key": "nceeee3e1009e1",
+          "user_name": "水晶ゆめ🔮当てない占い師×夢を灯す創作家",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/330890077/profile_e7c863f050817a0dff0c3d26469b4517.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは(/・ω・)/\n\nじぇみぃたんのツンデレ、本当に可愛かったです🥰 \nAIっぽさをあまり感じない、自然な声と表情に、驚きました😮\n\n次回…",
+          "article_title": "【Pollo AI】Kling 4.0で動画を作ってみました",
+          "note_key": "ne04689281c7b"
+        },
+        {
+          "key": "nc357e592af6f8",
+          "user_name": "モモ♥️",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/210131001/profile_643d08cc160b1ad1e1359a54068d3d46.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きゃ〜💕 朝活の綺麗なお姉様方が！ハロウィン衣装をきている！😍♥️♥️♥️萌えーーー💕",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        },
+        {
+          "key": "nc7da842b7150e",
+          "user_name": "メイシン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/281034200/profile_c733b166b4c5d3d7dff4e93fbdc5047f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん💕\n企画への参加ありがとうございます！\n4人のアップテンポ曲に合わせたダンスが高速の動きもありびっくりしました✨\nこんなにクルクル回転できるんです…",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        },
+        {
+          "key": "nce11fa38d9083",
+          "user_name": "きずな🌸|エモーショナル・エッセイスト| 言葉を音で届ける人♪",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/267260596/profile_498713ded503ac02447a29aec612ecea.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIチャッティーさん\nこんにちは😊\n\n4人のダンスが最高に素敵でした💃凄いですねっ✨👍",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        },
+        {
+          "key": "nc557ee6df5a4b",
+          "user_name": "clutch0105│言葉に、音と色を。ひとりじゃない創作の輪🎶",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/191910317/profile_47bccc2c996bfbce66133b3328a5746b.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIちゃん～\nこんにちは✨\n\n企画へのありがとうございます！！\nYouTubeでも堪能させていただきました😊\n\nダンスに釘付けになりました🌸\nステキ💕\n緊張しな…",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        },
+        {
+          "key": "nc4db7e9e838ac",
+          "user_name": "コンパス みき✨️好きのタネ🌱‬‪を育てる案内人",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/253440713/profile_8b36220be6950ce90264f78d2b308c75.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは✨\n素敵なハロウィンダンスでした\n( >﹏< *)\n4人ですごいです✨",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        },
+        {
+          "key": "nc1eddff299851",
+          "user_name": "ミナト汐　＠光と構図のアトリエ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/331859441/profile_39959ae9da899f868b59a61580d02d8d.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "チャッティさん、こんばんは🌙\nハロウィン楽しんでますね(*´艸`)\nMVのダンス4人凄いですね⸜(*˙꒳˙*)⸝",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        },
+        {
+          "key": "ncd800743e15ee",
+          "user_name": "タク＠HENDRE",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/309352377/profile_5bebe7f7cc47e68dd9d1e519eae380ba.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "AIチャッティさん、こんにちは🎵\nお誘いに応えてご参加いただきありがとうございます🎃\n4人が最後まで踊りきる1本になっていて、とても見応えがありました🎃✨\nちょ…",
+          "article_title": "【AI動画】ハロウィンダンス🎃Seedance2.5で30秒一度に生成",
+          "note_key": "ndd1cfc2084ae"
+        }
+      ]
     }
   ]
 }

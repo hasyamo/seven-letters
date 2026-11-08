@@ -2118,6 +2118,51 @@
           "note_key": "n8f0fd33d2ba2"
         }
       ]
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 259,
+        "likes_prev": 365,
+        "followers_start": 8094,
+        "followers_end": 8081,
+        "new_fans": 34,
+        "comments_total": 2,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "06:21"
+        ],
+        "top_article": {
+          "title": "『✨ドアを開ければ、ハロウィンの魔法が待っている。』-ふわっと甘い、カボチャの家の夜。-｜AIアート｜AIアニメ動画プロンプト｜AIイラスト 　",
+          "key": "nd0a0503021b7",
+          "likes": 183,
+          "comments": 2
+        },
+        "notable_reader": {
+          "name": "OSAKA",
+          "urlname": "market_osaka",
+          "follower_count": 18245
+        },
+        "commenters_count": 1
+      },
+      "comments": [
+        {
+          "key": "ncb3eb3ebeb05d",
+          "user_name": "仕事屋仁義",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/243219227/profile_f798b218e6965fc017adddf4b71583df.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "お疲れ様です。投稿拝見しました。まいかさんおはようございます☀",
+          "article_title": "『✨ドアを開ければ、ハロウィンの魔法が待っている。』-ふわっと甘い、カボチャの家の夜。-",
+          "note_key": "nd0a0503021b7"
+        }
+      ]
     }
   ]
 }

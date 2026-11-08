@@ -2621,6 +2621,101 @@
         }
       ],
       "rare_no": 3
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 183,
+        "likes_prev": 246,
+        "followers_start": 773,
+        "followers_end": 779,
+        "new_fans": 53,
+        "comments_total": 14,
+        "posts_count": 3,
+        "consecutive_days": 1,
+        "post_times": [
+          "10:35",
+          "18:55",
+          "21:56"
+        ],
+        "top_article": {
+          "title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "key": "nf1819a24ce83",
+          "likes": 56,
+          "comments": 12
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 18514
+        },
+        "commenters_count": 7
+      },
+      "comments": [
+        {
+          "key": "nc6a07e4f2456f",
+          "user_name": "てぼっこ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/297270197/profile_5866d94cf85f984c3549f9c8d429b640.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、こんばんは😊\n\nはじめたばかりの頃は、周りが皆すごい人に見えて、\n自分の書きたいことが全然見えなかったです💦\n\n交流は最初、緊張するかもしれないけど…",
+          "article_title": "noteを始めたら、すごい人だらけだった。そんなあなたへ。",
+          "note_key": "na96ebdf9a531"
+        },
+        {
+          "key": "nc425c8c5e0951",
+          "user_name": "Cocochronicle",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/316578120/profile_f0f5b67013f8174f576ae3b9a5fdf279.jpg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、仲間に加えていただいただけでなく、温かいコメントまでいただき本当に嬉しいです。思わずスクショしてしまいました！\nこれまでも多くのマガジンメンバーさん…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "note_key": "nf1819a24ce83"
+        },
+        {
+          "key": "nc6a38753915e2",
+          "user_name": "Hono｜実験室のマラカスネキ🪇｜2000人までフォロバ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/326208123/profile_2669d4d1972145054b33316d3ebe1ed3.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、記事紹介ありがとうございます！\nマガジンでいろいろな出会いがあって、思い切って入ってよかったな！と思っております🪇",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "note_key": "nf1819a24ce83"
+        },
+        {
+          "key": "nc276960be323e",
+          "user_name": "くらうさ・大人女性の情愛小説",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/213760198/profile_67a481b350ac671862b8e6820323935b.jpeg?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "きゃ〜〜❤️\nひゅ〜さん、素敵な紹介文、ありがとうございます！！\n私の作品を的確に表現してくださっていて、すごい！！って思いました。\nマガジンに参加させていただ…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "note_key": "nf1819a24ce83"
+        },
+        {
+          "key": "nc8ee4a204592b",
+          "user_name": "OgiちゃんNEXTライン",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/231810995/profile_5eeac9d01a41e4f52587702fd3ec40eb.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん、紹介していただいてありがとうございます🙏\n仲間に入れてもらったばかりなのに取り上げてもらえて、ほんなこつ嬉しかです。\n千へ向かう声のみなさんと一緒に…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "note_key": "nf1819a24ce83"
+        },
+        {
+          "key": "nc4643654810c1",
+          "user_name": "Marumi |スマホのみで副業挑戦中の40代ママ",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/317537187/profile_55805d98495e2bbbcecadf6c969ef6d6.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ひゅーさん\nお忙しい中、素敵なご紹介をいただきありがとうございました🙇‍♀️\nとっても嬉しいです！\n今後ともよろしくお願いします😊",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "note_key": "nf1819a24ce83"
+        },
+        {
+          "key": "nc593700be8b94",
+          "user_name": "鴨さん",
+          "user_icon": "https://assets.st-note.com/production/uploads/images/247090522/profile_6ab686fb98698ffb17d668953ea9c65f.png?fit=bounds&format=jpeg&quality=85&width=330",
+          "body": "ステキな紹介有難うございます！\n凄く嬉しいです。\n是非とも、VIVANTに関連するのも毎週書いてますし、\nルーツが奥出雲なので、\n掘り下げて書いていきたいとは思…",
+          "article_title": "共同マガジンに加わった素敵なクリエイターのご紹介　その17",
+          "note_key": "nf1819a24ce83"
+        }
+      ]
     }
   ]
 }

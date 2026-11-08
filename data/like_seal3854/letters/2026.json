@@ -942,6 +942,34 @@
         },
         "commenters_count": 0
       }
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "you",
+      "condition": "likes_up",
+      "rare": false,
+      "stats": {
+        "likes_total": 3,
+        "likes_prev": 2,
+        "followers_start": 495,
+        "followers_end": 494,
+        "new_fans": 2,
+        "comments_total": 0,
+        "posts_count": 0,
+        "consecutive_days": 0,
+        "post_times": [],
+        "top_article": null,
+        "notable_reader": {
+          "name": "しらすとちりめん｜夫婦で育休２年",
+          "urlname": "sirasu_chirimen",
+          "follower_count": 330
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }

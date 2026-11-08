@@ -947,6 +947,41 @@
         "commenters_count": 0
       },
       "rare_no": 7
+    },
+    {
+      "week": "2026-W44",
+      "period": {
+        "start": "2026-10-26",
+        "end": "2026-11-01"
+      },
+      "sender": "runa",
+      "condition": "new_fans",
+      "rare": false,
+      "stats": {
+        "likes_total": 407,
+        "likes_prev": 592,
+        "followers_start": 4340,
+        "followers_end": 4354,
+        "new_fans": 82,
+        "comments_total": 0,
+        "posts_count": 1,
+        "consecutive_days": 1,
+        "post_times": [
+          "16:00"
+        ],
+        "top_article": {
+          "title": "note活動にPCは必要？AIを使い始めて変わった私の作業環境",
+          "key": "n1cca298115ca",
+          "likes": 323,
+          "comments": 0
+        },
+        "notable_reader": {
+          "name": "りんくす@AI人格コーディネーター",
+          "urlname": "links_lt",
+          "follower_count": 18444
+        },
+        "commenters_count": 0
+      }
     }
   ]
 }
